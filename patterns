@@ -1,0 +1,10 @@
+---------- Patterns:
+singleton
+factory
+iterator
+decorator
+strategy
+facade
+proxy
+mediator
+observer

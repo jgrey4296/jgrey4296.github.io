@@ -1,0 +1,1102 @@
+------------------------------------------------------------
+General Web Links:
+------------------------------------------------------------
+
+http://rosettacode.org/wiki/Rosetta_Code
+
+http://overapi.com/
+
+http://www.raywenderlich.com/tutorials
+
+http://mydrawingtutorials.com/
+http://gothicpunk.tumblr.com/page/18
+
+https://secure.flickr.com/photos/britishlibrary/with/11307164106
+
+http://www.1001freefonts.com/
+
+http://www.wolframalpha.com/examples/?src=input
+http://www.wolframalpha.com/examples/ArtAndDesign.html
+http://www.wolframalpha.com/examples/SocioeconomicData.html
+http://www.wolframalpha.com/input/?i=customer+service+salary
+http://www.wolframalpha.com/examples/Music.html
+
+http://markmanson.net/life-purpose
+http://heterogenoustasks.wordpress.com/2014/09/22/a-bestiary-of-player-agency/
+------------------------------------------------------------
+Shell Shortcuts:
+------------------------------------------------------------
+jgmake = copy in makefile template
+jges = edit bash script
+jgee = go to emacs scripts
+log = log stuff
+cdc = cd and list
+alias = list shell aliases--------------------
+
+textutil: for converting doc to text
+textutil -convert txt *.doc
+
+------------------------------------------------------------
+General Emacs Notes:
+------------------------------------------------------------
+Eval lisp:           C-x C-e
+in lisp single quote ' will stop something being eval'd
+backquote ` will mean only things prefixed with a comma , will be
+eval'd
+
+DYNAMIC ABBREVIATIONS: M-/
+
+M-x list-packages
+
+icy-mode:
+http://www.emacswiki.org/emacs/EmacsNewbieWithIcicles
+
+Shift Tab for completion
+
+
+-------------------- Kill Ring
+Kill Ring:
+kill                 C-y
+loop through ring    M-y
+
+-------------------- Macros
+Start macro:         C-x (
+End Macro:           C-x )
+Use Macro:           C-x e
+Repeat:              C-x z
+Repeat n:            C-u (no.) (cmd)
+Function Help:       C-h f
+Variable Help:       C-h v
+fill:                M-q
+
+-------------------- Target Column
+target column:       C-x C-n
+cancel target column:C-u C-x C-n
+
+-------------------- Lorem Ipsum
+lorem-ipsum:         (C-u 0-9) M-x lorem 
+
+-------------------- Version Control
+Commit:              C-x v v
+Finish Commit:       C-c C-c
+
+-------------------- Tabify
+tabify and untabify - 
+quoted-insert to add an actual tab
+
+-------------------- Occurance / Grep
+shortcut:            occur
+M-x grep *PATTERN then FILETYPE
+
+-------------------- Windows, Frames and Buffers
+shrink-window-if-larger-than-buffer
+horizontal changes:  C-x { or }
+Dedicated window:    M-x ded
+Display all buffers  M-x db
+
+-------------------- Author and Date
+Add Author and Date: C-c C-d
+Move To (Left/Right/Up/Down) Buffer:
+                    C-x C-(j/l/i/k)
+
+-------------------- Remote Files
+To Load a remote file: 
+                    C-x C-f /host@server:file
+                    C-x C-f /ssh:user@host:filename
+
+-------------------- Encoding:
+C-x ret t coding
+set/describe-variable
+
+
+-------------------- Yasnippet:
+YASnippet is a code template system for Emacs.  To enable it in all
+buffers, add the following line to your init file:
+
+   (yas-global-mode 1)
+
+Alternatively, you can enable `yas-minor-mode' in individual buffers.
+When YASnippet is active, the following commands can be used:
+
+TAB (`yas-expand')
+   Attempt to expand a snippet before point.  For example, typing TAB
+   after `if' may expand a snippet beginning with `if', if one exists.
+   If no snippet expansion is possible, run the usual binding of TAB.
+
+`C-c & C-s' (`yas-insert-snippet')
+   Prompts for a snippet, and inserts it.
+
+`C-c & C-n' (`yas-new-snippet')
+   Opens a *new snippet* buffer where you can define a new snippet.
+   Typing C-c C-c in this buffer saves and invokes the definition.
+   The variable `yas-snippet-dirs' determines where snippet
+   definitions are stored.
+
+`C-c & C-v' (`yas-visit-snippet-file')
+   Prompt for, and visit an existing snippet definition.
+
+For more information and detailed usage, refer to the project page:
+
+     http://github.com/capitaomorte/yasnippet
+
+
+
+
+
+
+------------------------------------------------------------
+Terminal Shortcuts:
+------------------------------------------------------------
+
+-------------------- Launchd / Cron
+Launchd Stuff:
+Location: ~/Library/LaunchAgents
+
+-------------------- Grep
+The basic Grep:
+find . -depth 1 -type f | xargs n 2 grep -i PATTERN
+
+-------------------- Latex to HTML
+Latex to XML to HTML:
+latexml --includestyles --destination=doc.xml file
+latexml --verbose --destination doc.html ./doc.xml
+
+-------------------- unix jobs:
+to get process ids for fg use:      jobs
+processes / process tree:           ps | pstree
+to foreground a process:            fg jobno
+
+
+-------------------- Man page Sections
+1: General commands
+2: system calls
+3: c library functions
+4: Devices and drivers
+5: file formats and conventions
+8: sysadmin commands and daemons
+
+
+-------------------- CHMOD:
+owner, group, other
+read = 4, write = 2, execute = 1
+
+-------------------- SQLITE
+sqlite3 is the command
+
+
+------------------------------------------------------------
+LANGUAGE NOTES:
+------------------------------------------------------------
+
+--------------------
+C#
+--------------------
+http://learnxinyminutes.com/docs/csharp/
+
+int[] array1 = new int[5];
+int[,] array2 = new int[4,6];
+int[][] array3;
+
+// person.cs
+using System;
+class Person
+{
+    private string myName ="N/A";
+    private int myAge = 0;
+
+    // Declare a Name property of type string:
+    public string Name
+    {
+        get 
+        {
+           return myName; 
+        }
+        set 
+        {
+           myName = value; 
+        }
+    }
+
+    // Declare an Age property of type int:
+    public int Age
+    {
+        get 
+        { 
+           return myAge; 
+        }
+        set 
+        { 
+           myAge = value; 
+        }
+    }
+
+    public override string ToString()
+    {
+        return "Name = " + Name + ", Age = " + Age;
+    }
+
+    public static void Main()
+    {
+        Console.WriteLine("Simple Properties");
+
+        // Create a new Person object:
+        Person person = new Person();
+
+        // Print out the name and the age associated with the person:
+        Console.WriteLine("Person details - {0}", person);
+
+        // Set some values on the person object:
+        person.Name = "Joe";
+        person.Age = 99;
+        Console.WriteLine("Person details - {0}", person);
+
+        // Increment the Age property:
+        person.Age += 1;
+        Console.WriteLine("Person details - {0}", person);
+    }
+}
+
+Structs vs. Classes
+
+classes are reference types and structs are value types.  By using
+structs, you can create objects that behave like the built-in types
+and enjoy their benefits as well.
+
+Heap or Stack?
+
+When you call the New operator on a class, it will be allocated on the
+heap. 
+When you instantiate a struct, it gets created on the
+stack. 
+This will yield performance gains. Also, you will not be
+dealing with references to an instance of a struct as you would with
+classes. You will be working directly with the struct
+instance. Because of this, when passing a struct to a method, it's
+passed by value instead of as a reference.
+
+Delegates:
+
+A delegate in C# is similar to a function pointer in C or C++. Using a
+delegate allows the programmer to encapsulate a reference to a method
+inside a delegate object. The delegate object can then be passed to
+code which can call the referenced method, without having to know at
+compile time which method will be invoked. Unlike function pointers in
+C or C++, delegates are object-oriented, type-safe, and secure.
+
+// Declare a delegate type for processing a book:
+public delegate void ProcessBookDelegate(Book book);
+
+// Call a passed-in delegate on each paperback book to process it: 
+public void ProcessPaperbackBooks(ProcessBookDelegate processBook)
+      {
+         foreach (Book b in list) 
+         {
+            if (b.Paperback)
+            // Calling the delegate:
+               processBook(b);
+         }
+      }
+
+// Create a new delegate object associated with the static 
+         // method Test.PrintTitle:
+         bookDB.ProcessPaperbackBooks(new ProcessBookDelegate(PrintTitle));
+
+// Print the title of the book.
+      static void PrintTitle(Book b)
+      {
+         Console.WriteLine("   {0}", b.Title);
+      }
+
+
+--------------------
+python:
+--------------------
+https://docs.python.org/2/reference/
+http://www.tutorialspoint.com/python/python_overview.htm
+http://www.nltk.org/book/
+http://www.nltk.org/
+http://stevenloria.com/tutorial-wordnet-textblob/
+http://textblob.readthedocs.org/en/dev/
+http://www.clips.ua.ac.be/public-scripts
+http://www.clips.ua.ac.be/pages/pattern
+http://learnpythonthehardway.org/book/index.html
+http://www.aaronstannard.com/post/2012/08/17/How-to-Setup-a-Proper-Python-Environment-on-Windows.aspx
+
+https://cloud.github.com/downloads/tartley/python-regex-cheatsheet/cheatsheet.pdf
+Regex:
+import re
+p = re.compile(r"ab*", re.IGNORECASE)
+
+p.split("the string")
+p.sub("the string", "replacement")
+
+match = p.match()
+if match:
+match.group() #gets the matched text
+match.span() #tuple of start end positions of match
+
+p.search()
+p.findall()
+p.finditer()
+
+
+
+
+prefers 'easier to ask forgiveness than permission' (EAFP) over 
+'look before you leap' (LBYL). good for multi-threaded environments 
+so in python:
+
+try:
+    array[idx]
+except Error:
+   #handle
+
+-------------------- dsl:
+http://www.slideshare.net/Siddhi/creating-domain-specific-languages-in-python
+
+-------------------- decorators:
+@staticmethod
+@classmethod
+
+
+Optional Parameters: info(something, spacings=10)
+
+-------------------- Input:
+
+input("prompt:") # INTERPRETS AS A PYTHON EXPRESSION
+raw_input("prompt: ") #gives back a string
+
+#windows uses 'rb' and 'wb' for binary, like jpeg and exe
+f = open("file","r+") 
+f.read() #can take amount
+f.readline()
+f.seek(5) #coupled with f.tell()
+
+f.close()
+
+PREFERRED FORM: (will automatically close)
+with open("file","r") as f:
+   read_data = f.read()
+
+json:
+import JSON
+json.dumps([1,'simple','list'])
+json.dump(x,f) #if f is a file object for writing, serialises object x
+x = json.load(f) #to get it back
+
+http://www.pythonforbeginners.com/python-on-the-web/how-to-use-urllib2-in-python/
+#urllib2:
+response = urllib2.urlopen("url")
+html = response.read()
+
+#or with requests:
+args = {'q':'query string','foo':'bar'}
+data = urllib.urlencode(args)
+request = urllib2.Request(url,data)
+response = urllib2.urlopen(request)
+
+
+-------------------- explore an object:
+import inspect
+memberList = inspect.getmembers(object)
+for a in memberList:
+    print a
+
+-------------------- General Notes:
+tuples use () and ','. Can't be changed after creation
+dictionaries use {}
+lists use []. append not push. pop.
+all access through []
+functions defined with 'def'
+
+
+
+",".join(["a","b","c"])
+
+-------------------- JSON:
+
+json_text = '[' + json.dumps(jgStats, sort_keys=True, indent=4,
+                  separators=(',', ': ')) + ']'
+
+outputFile = open(jsonFileName, 'w')
+outputFile.write(json_text)
+outputFile.close();
+
+
+--------------------
+javascript:
+--------------------
+
+---------- Web:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+https://github.com/mbostock/d3/wiki/
+https://stackoverflow.com/questions/11088303/how-to-convert-to-d3s-json-format
+http://www.w3schools.com/jsref/
+http://jsperf.com/new-array-vs-splice-vs-slice/19
+
+---------- General Notes
+arrays use [], are objects
+objects use { something:'string'}
+access using [] or dot syntax
+functions defined with 'function'
+has try/catch statements
+in every function, 'arguments' contains all.
+has switch statements
+JSON.parse();
+
+-------------------- prototypal inheritance:
+var child = Object.create(parent, {
+    age : { value: 2}
+    });
+
+-------------------- 
+Doxygen:
+--------------------
+http://www.mcternan.me.uk/mscgen/ 
+
+for python: use ## and @, rather than python docstyle of three ''
+INPUT_FILTER = "python /usr/local/bin/doxypy.py"
+
+
+
+
+create a config file: doxygen -g 
+can create test/todo lists with \test or \todo, \bug,
+
+uses dot (graphviz)
+
+
+good things to set in the config:
+project_name
+output_directory
+input
+file_patterns
+generate_html
+extract_all
+
+
+keywords: @, \
+brief
+param
+return
+class
+file
+
+
+----- YUIDoc
+https://yui.github.io/yuidoc/
+https://yui.github.io/yuidoc/syntax/index.html
+
+language agnostic
+
+@module
+@module
+@class
+@namespace
+@param
+@return
+@method
+@property
+@type
+@default
+
+
+---------- Patterns:
+singleton
+factory
+iterator
+decorator
+strategy
+facade
+proxy
+mediator
+observer
+
+//Callback pattern
+
+//functions (creating) or returning functions - outer function creates a closure
+
+//self defining function pattern:
+var scareMe = function() {
+    //first time through
+    //then reassignment:
+    scareMe = function(){
+	//blah
+    };
+    
+}
+
+---------- Currying:
+//general purpose curry function:
+function curry(fn){
+    var slice = Array.prototype.slice,
+    stored_args = slice.call(arguments, 1);
+    return function() {
+	var new_args = slice.call(arguments),
+	args = store_args.concat(new_args);
+	return fn.apply(null,args);
+    };
+}
+
+//usage of curry function:
+var curried = curry(add, 1);
+curried(10,10,10); //will produce 31
+
+---------- Useful functions:
+typeof a
+
+---------- Regex
+//g = global, m = multiline, i = case insensitive
+var re = /\\/gm;
+//Or for runtime creation of the regex:
+var re = new RegExp("\\\\","gm");
+//Regex application
+"blah\\".replace(re,"");
+
+
+---------- Object Creation:
+//object creation:
+var Person = function(name){
+    if(!this instanceof Person){
+	return new Person(name);
+    }
+    this.name = name;
+}
+
+//Methods
+Person.prototype.say = function(){
+    return "blah";
+}
+
+var person1 = new Person('bob');
+
+---------- Looping:
+
+for(var i in blah){
+    if(blah.hasOwnProperty(i)){
+	//do something
+	//this avoids prototype issues
+    }
+}
+
+
+--------------------
+Unity:
+--------------------
+http://docs.unity3d.com/Manual/UnityOverview.html
+http://www.beforegame.net/blog/scene-lighting-and-post-processing-in-before/#more-11
+
+CMD-' will bring up documentation in monodevelop
+
+GUI Text: requires a gui layer on the camera, and uses camera coordinates so 0.0 -> 1.0
+
+js:
+The script itself is assumed to define the class (parent MonoBehaviour) and filename of the script asset.
+variables assumed to be public unless stated private
+create a public GameObject, and then click and drag in what needs to be tracked
+
+-------------------- Standard Functions:
+#pragma strict
+
+//Called before first frame
+function Start () {
+    //Get a component of the gameobject the script is attached to
+    var rb = GetComponent.<Rigidbody>();
+    //Finds a specific child object
+    transform.Find("gun");
+    //Get a game object from anywhere in the scene.
+    GameObject.Find("something");
+    player = GameObject.FindWithTag("Player");
+    enemies = GameObject.FindGameObjectsWithTag("Enemy");
+    //Instantiation:
+    public GameObject enemy;
+    Instantiate(enemy);
+    //Destroy: (can destroy individual components)
+    Destroy(enemy,0.5f);//time delay
+}
+
+//Called for each object at scene load
+function Awake(){}
+
+//called before frame is rendered or animations calculated
+function Update () {}
+
+//Called before each physics step
+function FixedUpdate(){}
+
+
+//Called periodically for guis
+function OnGUI(){}
+
+//Mouse event functions: Over,Down...
+function OnMouseOver(){}
+
+function OnDestroy(){}
+
+//physics events
+//CollisionEnter,Stay,Exit
+//OnTriggerEnter,Stay,Exit when as a trigger
+function OnCollisionEnter(otherObj: Collision){}
+
+-------------------- Debug:  
+Debug.Log()
+
+
+-------------------- Coroutines: 
+yield //optional: WaitForSeconds(0.1);
+
+
+Templates: GetComponent.<Rigidbody>();
+
+-------------------- Vector2: 
+one, right, up, zero,
+magnitude, normalized, x, y
+Static : Max,Min, Lerp, Dot, Distance, Angle, Scale
+
+
+
+//Array: Add, Clear, Concat, Join, Pop, Push, RemoveAt, Shift, Unshift, Sort
+// Exposes an float array in the inspector,
+// which you can edit there.
+//Typed arrays are fast but unresizable
+var values : float[];
+// Copy the js array into a builtin array
+var builtinArray : Vector3[] = array.ToBuiltin(Vector3) as Vector3[];
+// Assign the builtin array to a js Array
+var newarr = new Array (builtinArray);
+
+
+--------------------
+perl
+--------------------
+search.cpan.org/~ether/Task-Kensho-0.37/lib/Task/Kensho.pm
+http://perldoc.perl.org/index-language.html
+http://search.cpan.org/~cjm/HTML-Tree-5.03/lib/HTML/Element.pm
+
+-------------------- File IO:
+    use IO::File;
+
+    $fh = new IO::File;
+    if ($fh->open("< file")) {
+        print <$fh>;
+        $fh->close;
+    }
+
+    $fh = new IO::File "> file";
+    if (defined $fh) {
+        print $fh "bar\n";
+        $fh->close;
+    }
+
+    $fh = new IO::File "file", "r";
+    if (defined $fh) {
+        print <$fh>;
+        undef $fh;       # automatically closes the file
+    }
+
+    $fh = new IO::File "file", O_WRONLY|O_APPEND;
+    if (defined $fh) {
+        print $fh "corge\n";
+
+        $pos = $fh->getpos;
+        $fh->setpos($pos);
+
+        undef $fh;       # automatically closes the file
+    }
+
+    autoflush STDOUT 1;
+
+    }
+
+-------------------- General Notes:
+
+$scalar ,@array, %hash. add \ for references
+anonymous array []
+anony hash {}
+access -> [] or {}
+function reference \&name
+functions defined with 'sub'
+regex cheatsheet: http://ult-tex.net/info/perl/
+regex cheatsheet:  https://www.cs.tut.fi/~jkorpela/perl/regexp.html
+\Q for variables in regexs: /\Q$something/
+
+push Array, List
+
+--------------------
+prolog
+--------------------
+http://www.cs.oswego.edu/~odendahl/coursework/notes/prolog/synopsis/con.html
+http://www.swi-prolog.org/
+
+binary: swipl
+quit: ?- halt.
+
+/* comments */
+
+
+commands: 
+consult(user|<filename>)
+assert(<term>)
+retract(<term>)
+
+Procedure View:
+fac(0,1).
+fac(N,X) :- N > 0, M is N - 1, fac(M,Y), X is Y * N.
+
+Logic View:
+Theorems: good(life).
+Axioms: worthwhile(X) :- good(X).
+and queries: 
+|?- good(life).
+|?- good(X)
+
+
+Main Language elements:
+'an atom'
++ - :- < >
+32
+"a string"
+_avar
+Adifferentvar
+[a, b | c]
+
+
+
+--------------------
+haskell
+--------------------
+http://www.haskell.org/onlinereport/haskell2010/haskellpa1.html#haskellch3.html
+
+
+--------------------
+lisp
+--------------------
+http://hyperpolyglot.org/lisp
+
+emacs lisp regexp:
+options:[]
+repitition: \{n,m \}
+groups:\(\)
+boundaries: \< \> (word), \` \' (string)
+
+syntax classes
+\s-   whitespace character        \s/   character quote character
+\sw   word constituent            \s$   paired delimiter         
+\s_   symbol constituent          \s'   expression prefix        
+\s.   punctuation character       \s<   comment starter          
+\s(   open delimiter character    \s>   comment ender            
+\s)   close delimiter character   \s!   generic comment delimiter
+\s"   string quote character      \s|   generic string delimiter 
+\s\   escape character           
+
+--------------------
+c++
+--------------------
+http://www.sourcepole.com/sources/programming/cpp/cppqref.html
+http://cs.fit.edu/~mmahoney/cse2050/how2cpp.html
+http://www.cplusplus.com/reference/
+
+Const:
+const int*const Method3(const int*const&)const; 
+the variable pointed to by the returned pointer & the returned pointer itself won’t be alterable 
+and that the method does not alter the variable pointed to by the given pointer, the given pointer itself & the object of which it is a method
+
+--------------------
+SuperCollider:
+--------------------
+http://jahya.net/blog/?2012-06-quickref-for-supercollider
+http://www.fonurgia.unito.it/andrea/sw/sc/theSuperColliderHelpBook.pdf
+http://www.sussex.ac.uk/Users/nc81/modules/cm1/workshop.html
+
+--------------------
+Algorithms:
+--------------------
+https://en.wikipedia.org/wiki/Monte_Carlo_method
+https://en.wikipedia.org/wiki/Penrose_tiling
+https://en.wikipedia.org/wiki/Lorenz_system
+https://en.wikipedia.org/wiki/Fuzzy_logic
+probability
+bayesian classifiers
+
+--------------------
+Statistics:
+--------------------
+The Spearman correlation coefficient gives a number from -1.0 to 1.0 comparing two rankings. 
+A coefficient of 1.0 indicates identical rankings; -1.0 indicates exact opposite rankings.
+
+http://www.wolframalpha.com/examples/Statistics.html
+http://www.wolframalpha.com/input/?i=US+constitution&lk=3
+http://www.wolframalpha.com/input/?i=characters+in+a+Midsummer+Night%27s+Dream&lk=3
+http://www.wolframalpha.com/input/?i=Hedda+Gabler%2C+Othello&lk=3
+
+--------------------
+Physics
+--------------------
+http://www.wolframalpha.com/examples/Physics.html
+
+--------------------
+Quests:
+--------------------
+http://www.wowwiki.com/Category:Quests_by_level
+https://github.com/tinyspeck/glitch-GameServerJS/tree/master/quests
+
+
+--------------------
+Natural Language Processing:
+--------------------
+#classification: http://www.nltk.org/howto/classify.html
+#chunk: http://www.nltk.org/howto/chunk.html
+#noun phrase chunking
+
+nltk:
+        I{corpus}.words(): list of str
+        I{corpus}.sents(): list of (list of str)
+        I{corpus}.paras(): list of (list of (list of str))
+        I{corpus}.tagged_words(): list of (str,str) tuple
+        I{corpus}.tagged_sents(): list of (list of (str,str))
+        I{corpus}.tagged_paras(): list of (list of (list of (str,str)))
+        I{corpus}.chunked_sents(): list of (Tree w/ (str,str) leaves)
+        I{corpus}.parsed_sents(): list of (Tree with str leaves)
+        I{corpus}.parsed_paras(): list of (list of (Tree with str leaves))
+        I{corpus}.xml(): A single xml ElementTree
+        I{corpus}.raw(): str (unprocessed corpus contents)
+
+
+
+
+bigrams, trigrams, collocations: http://www.nltk.org/howto/collocations.html
+discourse checking: http://www.nltk.org/howto/discourse.html
+framenet: http://www.nltk.org/howto/framenet.html
+generation of sentences: http://www.nltk.org/howto/generate.html
+metrics:  http://www.nltk.org/howto/metrics.html
+parsing: http://www.nltk.org/howto/parse.html
+probability: http://www.nltk.org/howto/probability.html
+entity extraction: http://www.nltk.org/howto/relextract.html
+stemming: http://www.nltk.org/howto/stem.html
+word sense disambiguation: http://www.nltk.org/howto/wsd.html
+
+penn treebank: http://www.nltk.org/howto/propbank.html
+sentiWordnet: http://www.nltk.org/howto/sentiwordnet.html
+wordnet: http://www.nltk.org/howto/wordnet.html
+
+proving? http://www.nltk.org/howto/inference.html
+logic: http://www.nltk.org/howto/logic.html
+resolution? http://www.nltk.org/howto/resolution.html
+
+
+--------------------
+Parts of speech:
+--------------------
+http://www.chompchomp.com/terms.htm
+verb: action or state.
+noun: thing or person.
+adjective: describes noun. two dogs. the dogs are big.
+adverb: describes a verb: dog eats quickly.
+pronoun: replaces noun. he she it they etc.
+preposition: links noun with something
+conjunction: joins clauses
+interjection: '' 'well', I don't know.''
+
+
+
+Lexical categories
+adjective (A)
+ adposition (preposition
+ postposition
+ circumposition) (P)
+ adverb (Adv)
+ coordinate conjunction (C)
+ determiner (D)
+ interjection (I)
+ noun (N)
+ particle (Par)
+ pronoun (Pr)
+ subordinate conjunction (Sub)
+ verb (V)
+
+Phrasal categories
+Adjective phrase (AP)
+adverb phrase (AdvP)
+adposition phrase (PP)
+noun phrase (NP)
+verb phrase (VP)
+
+
+
+Penn Treebank:
+ CC Coordinating conjunction
+ 
+	For:  rationale ("They do not gamble or smoke, for they are ascetics.")
+	And:  non-contrasting item(s) or idea(s) ("They gamble and they smoke.")
+	Nor:   a non-contrasting negative idea ("They do not gamble, nor do....
+	But:  a contrast or exception ("They gamble, but they don't smoke.")
+	Or:   an alternative item or idea ("Every day they gamble or they smoke.")
+	Yet:  a contrast or exception ("They gamble, yet they don't smoke.")
+	So:   a consequence ("He gambled well last night so he smoked a cigar ...
+
+    Contrasting Conjunctions:
+        either...or
+    	not only...but (also)
+    	neither...nor
+    	both...and
+    	whether...or
+    	just as...so
+
+    Subordinating Conjunctions:
+Subordinating conjunctions, also called subordinators, are conjunctions that join an independent clause and a dependent clause, and also introduce adverb clauses. The most common subordinating conjunctions in the English language include after, although, as, as far as, as if, as long as, as soon as, as though, because, before, "even if", even though", "every time" if, in order that, since, so, so that, than, though, unless, until, when, whenever, where, whereas, wherever, and while.
+
+
+
+ CD Cardinal number ("zero", "one")
+ DT Determiner
+    in some languages articles, in some affixes
+	- articles
+		- definite (specifically. "The")
+		- indefinite (non-specific, "a", "some")
+	- demonstratives
+	- possessives (my, your, his, whose, its, our)
+	  	      - genitives (saxon, "one's", "everybody's", "Mary's")
+	- quantifiers
+		- basic quantifiers
+		- comparative ("more", "less")
+		- superlative ("most", "least", "biggest")
+		- first order logic ("all", "some", "enough", "sufficient")
+	- numerals
+	- ennumeratives ("each", "every")
+	- personal ("you", "we", "us")
+	- distributives
+	- interrogatives ("which", "what" etc)
+ EX Existential there
+ FW Foreign word
+ IN Preposition or subordinating conjunction
+ JJ Adjective
+ JJR Adjective, comparative
+ JJS Adjective, superlative
+ LS List item marker
+ MD Modal
+ NN Noun, singular or mass
+ NNS Noun, plural
+ NNP Proper noun, singular
+ NNPS Proper noun, plural
+ PDT Predeterminer
+ POS Possessive ending
+ PRP Personal pronoun
+ PRP$ Possessive pronoun
+ RB Adverb
+ RBR Adverb, comparative
+ RBS Adverb, superlative
+ RP Particle
+ SYM Symbol
+ TO to
+ UH Interjection
+ VB Verb, base form
+ VBD Verb, past tense
+ VBG Verb, gerund or present participle
+ VBN Verb, past participle
+ VBP Verb, non-3rd person singular present
+ VBZ Verb, 3rd person singular present
+ WDT Wh-determiner
+ WP Wh-pronoun
+ WP$ Possessive wh-pronoun
+ WRB Wh-adverb 
+
+Open classes:
+     nouns, vers, adjectives, adverbs, interjections
+
+closed classes:
+       adpositions, determiners, conjunctions, pronouns
+
+
+NE Type 	    Examples
+ORGANIZATION 	    Georgia-Pacific Corp., WHO
+PERSON 		    Eddy Bonte, President Obama
+LOCATION 	    Murray River, Mount Everest
+DATE 		    June, 2008-06-29
+TIME 		    two fifty a m, 1:30 p.m.
+MONEY 		    175 million Canadian Dollars, GBP 10.40
+PERCENT 	    twenty pct, 18.75 %
+FACILITY 	    Washington Monument, Stonehenge
+GPE 		    South East Asia, Midlothian
+
+--------------------
+Statistics:
+--------------------
+
+True Positive   (TP)
+True Negative   (TN)
+False Positive  (FP)
+False Negative  (FN)
+
+sensitivity / True Positive Rate:
+TPR = TP/P = TP/(TP + FN)
+
+Specificity / True Negative Rate:
+SPC = TN/N = TN/(FP+TN)
+
+Precision/ Positive Predictive Value
+PPV = TP/(TP+FP)
+
+Negative Predictive Value:
+NPV = TN/(TN+FN)
+
+Fall-out / False Positive Rate:
+FPR = FP/N = FP/(FP+TN)
+
+False Discovery rate:
+FDR = FP(FP+TP) = 1 - PPV
+
+Miss Rate / False Negative Rate:
+FNR = FN/(FN+TP)
+
+Accuracy:
+ACC = (TP + TN) / (P + N)
+
+F1 score:
+F1 = 2TP/(2TP + FP + FN)
+
+--------------------
+AI
+--------------------
+http://arstechnica.com/gaming/2011/01/skynet-meets-the-swarm-how-the-berkeley-overmind-won-the-2010-starcraft-ai-competition/
+http://overmind.cs.berkeley.edu/
+http://web.eecs.umich.edu/~soar/downloads/Documentation/SoarManual.pdf
+macro management. what to build, when, resource management.
+micro. selecting targets, managing movement, information.
+http://norvig.com/paip.html
+http://www.qrg.northwestern.edu/resources/aigames.org/1999/zubek.html
+
+--------------------
+Code Reviews
+--------------------
+http://fabiensanglard.net/doom3/index.php
+
+--------------------
+Argumentation
+--------------------
+Dennet - Rapoport's Rules
+
+----Pinker:
+https://chronicle.com/article/Why-Academics-Writing-Stinks/148989
+
+Clear and Simple as the Truth - Thomas and Turner:
+romantic, oracular, prophetic, pratical, plain styles
+male generic writer, female generic reader
+Classic style. Not using the occasion to sort out what he thinks.
+
+Bad:
+metadiscourse. Use signposts sparingly.
+    contrast "this chapter discusses..." with "What makes..."
+professional narcissism. 
+apologising
+shudder quotes
+hedging: (almost, apparently, comparatively, fairly, in part, nearly,
+partially, predominantly, presumably, rather, relatively, seemingly,
+so to speak, somewhat, sort of, to a certain degree, to some extent,
+and the ubiquitous I would argue.)
+metaconcepts and nominalizations: –ance, –ment, or –ation. (zombie nouns)
+
+
+
+classic style:
+Conversational, so can use 'we'
+better to qualify than hedge.

@@ -1,0 +1,45 @@
+--------------------
+Statistics:
+--------------------
+
+http://slatestarcodex.com/2014/04/28/the-control-group-is-out-of-control/
+http://www.wolframalpha.com/examples/Statistics.html
+http://www.wolframalpha.com/input/?i=US+constitution&lk=3
+http://www.wolframalpha.com/input/?i=characters+in+a+Midsummer+Night%27s+Dream&lk=3
+http://www.wolframalpha.com/input/?i=Hedda+Gabler%2C+Othello&lk=3
+
+The Spearman correlation coefficient gives a number from -1.0 to 1.0 comparing two rankings. 
+A coefficient of 1.0 indicates identical rankings; -1.0 indicates exact opposite rankings.
+
+
+True Positive   (TP)
+True Negative   (TN)
+False Positive  (FP)
+False Negative  (FN)
+
+sensitivity / True Positive Rate:
+TPR = TP/P = TP/(TP + FN)
+
+Specificity / True Negative Rate:
+SPC = TN/N = TN/(FP+TN)
+
+Precision/ Positive Predictive Value
+PPV = TP/(TP+FP)
+
+Negative Predictive Value:
+NPV = TN/(TN+FN)
+
+Fall-out / False Positive Rate:
+FPR = FP/N = FP/(FP+TN)
+
+False Discovery rate:
+FDR = FP(FP+TP) = 1 - PPV
+
+Miss Rate / False Negative Rate:
+FNR = FN/(FN+TP)
+
+Accuracy:
+ACC = (TP + TN) / (P + N)
+
+F1 score:
+F1 = 2TP/(2TP + FP + FN)
