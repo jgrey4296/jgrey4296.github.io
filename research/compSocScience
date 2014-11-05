@@ -1,0 +1,52 @@
+* Computational Social Science Thoughts
+
+** Musings on Jurafsky et al's computational politeness
+
+Praxis deals with social transgressions through explicitly authored
+actions.  This is somewhat ill suited to my general task of replacing
+as much authoring as possible with a generative approach.
+
+Jurafsky talks about politeness being a central force in communication
+'as basic a pressure as to be truthful, informative, relevant, and
+clear'. This is a far nobler view of communication than I wish to
+model. I agree that language provides numerous and diverse means for
+encoding politeness in conversation.
+
+I want to be able to vary the level of encoding of politeness, truth,
+information, relevance, and clarity. What else could be varied, and
+should be varied?
+
+If we can define politeness markers, identify their position in speech
+acts such that they act as markers, *and* can identify their
+correlation with higher level concepts such as power, *and* such
+relatively easily defined terms that comprise power, such as social
+status, authority and autonomy, then why are we not using it to
+structure and procedurally generate agents, enabling them to have a
+rudimentary economy, and then playing with the knobs?
+
+Computational Social Science seems to have a broad number of means of
+modeling a reasonable number of different social structures (ie: see
+Axtell's Sugarscape that seems to have evolved a ton of
+behaviours). We should be able to combine such behaviours, and pair
+them with at least rudimentary speech acts surely?
+
+** Walker et al. Improvising linguisting style: social and affective bases for agent personality.
+
+This may be the starting point, coupled with a set of cultural rules,
+a vocabulary and linguistic styling of walker, could then feed up to
+personal agents emotional status. This can interact with their
+institutional authority.
+
+Thus: 1) Cultural rules: always be polite to little old
+      men. Politeness consists of: marking + following their
+      requests. Honourifics: Sir, Madam, etc...  
+      2) Polite Markings: Please {Honourific}. etc.  
+      3) Basic Speech Acts to decorate.  
+      4) institutional acts to perform, as verbs of 
+      combinations of sequences of behaviours?
+
+
+
+* Bibliography:
+** A computational approach to politeness with application to social factors
+http://web.stanford.edu/~jurafsky/pubs/politeness-acl13.pdf

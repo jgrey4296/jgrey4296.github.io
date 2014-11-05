@@ -1,43 +1,43 @@
------------------------------- Emacs
+* Emacs
 
----------- Package Management:
+** Package Management:
 M-x list-packages
 C-h v package-activated-list
 
 
--------------------- Help:
+** Help:
 M-x describe-<package,variable,minor-mode,face...>
 
--------------------- Elisp
+** Elisp:
 
-Eval lisp:           C-x C-e
+*** Eval lisp:           C-x C-e
 in lisp single quote ' will stop something being eval'd
 backquote ` will mean only things prefixed with a comma , will be
 eval'd
 
 
 
--------------------- Shortcuts:
+** Shortcuts:
 
----------- To Check:
+*** To Check:
 DYNAMIC ABBREVIATIONS: M-/
 
 
----------- Occur:
+*** Occur:
 Icy Occur: C-c '
 Normal : M-x Occur <string>
 
----------- Navigation
+*** Navigation
 Goto Line:       M-g g 
 Goto Line:       M-g M-g
 Switch Buffers:  C-x C-(j/l/i/k)
 
----------- Kill Ring
+*** Kill Ring
 Kill Ring:
 kill                 C-y
 loop through ring    M-y
 
----------- Macros
+*** Macros
 Start macro:         C-x (
 End Macro:           C-x )
 Use Macro:           C-x e
@@ -48,88 +48,292 @@ Variable Help:       C-h v
 Mode Help:           C-h m
 fill:                M-q
 
----------- Target Column
+*** Target Column
 target column:       C-x C-n
 cancel target column:C-u C-x C-n
 
----------- Lorem Ipsum
+*** Lorem Ipsum
 lorem-ipsum:         (C-u 0-9) M-x lorem 
 
----------- Version Control
+*** Version Control
 Commit:              C-x v v
 Finish Commit:       C-c C-c
 
----------- Tabify
+*** Tabify
 tabify and untabify - 
 quoted-insert to add an actual tab
 
----------- Occurance / Grep
+*** Occurance / Grep
 shortcut:            occur
 M-x grep *PATTERN then FILETYPE
 
----------- Windows, Frames and Buffers
+*** Windows, Frames and Buffers
 shrink-window-if-larger-than-buffer
 horizontal changes:  C-x { or }
 Dedicated window:    M-x ded
 Display all buffers  M-x db
 
----------- Author and Date
+*** Author and Date
 Add Author and Date: C-c C-d
 
----------- Remote Files
+*** Remote Files
 To Load a remote file: 
                     C-x C-f /host@server:file
                     C-x C-f /ssh:user@host:filename
 
 
----------- Encoding:
+*** Encoding:
 C-x ret t coding
 set/describe-variable
 
 
--------------------- Modes:
+** Modes:
+*** IBuffer mode:
+Operations on marked buffers:
 
----------- icy-mode
+  'S' - Save the marked buffers
+  'A' - View the marked buffers in this frame.
+  'H' - View the marked buffers in another frame.
+  'V' - Revert the marked buffers.
+  'T' - Toggle read-only state of marked buffers.
+  'D' - Kill the marked buffers.
+  'M-s a C-s' - Do incremental search in the marked buffers.
+  'M-s a C-M-s' - Isearch for regexp in the marked buffers.
+  'U' - Replace by regexp in each of the marked
+          buffers.
+  'Q' - Query replace in each of the marked buffers.
+  'I' - As above, with a regular expression.
+  'P' - Print the marked buffers.
+  'O' - List lines in all marked buffers which match
+          a given regexp (like the function `occur').
+  'X' - Pipe the contents of the marked
+          buffers to a shell command.
+  'N' - Replace the contents of the marked
+          buffers with the output of a shell command.
+  '!' - Run a shell command with the
+          buffer's file as an argument.
+  'E' - Evaluate a form in each of the marked buffers.  This
+          is a very flexible command.  For example, if you want to make all
+          of the marked buffers read only, try using (read-only-mode 1) as
+          the input form.
+  'W' - As above, but view each buffer while the form
+          is evaluated.
+  'k' - Remove the marked lines from the *Ibuffer* buffer,
+          but don't kill the associated buffer.
+  'x' - Kill all buffers marked for deletion.
+
+Marking commands:
+
+  'm' - Mark the buffer at point.
+  't' - Unmark all currently marked buffers, and mark
+          all unmarked buffers.
+  'u' - Unmark the buffer at point.
+  'DEL' - Unmark the buffer at point, and move to the
+          previous line.
+  'M-DEL' - Unmark all marked buffers.
+  '* M' - Mark buffers by major mode.
+  '* u' - Mark all "unsaved" buffers.
+          This means that the buffer is modified, and has an associated file.
+  '* m' - Mark all modified buffers,
+          regardless of whether or not they have an associated file.
+  '* s' - Mark all buffers whose name begins and
+          ends with '*'.
+  '* e' - Mark all buffers which have
+          an associated file, but that file doesn't currently exist.
+  '* r' - Mark all read-only buffers.
+  '* /' - Mark buffers in `dired' mode.
+  '* h' - Mark buffers in `help-mode', `apropos-mode', etc.
+  '.' - Mark buffers older than `ibuffer-old-time'.
+  'd' - Mark the buffer at point for deletion.
+  '% n' - Mark buffers by their name, using a regexp.
+  '% m' - Mark buffers by their major mode, using a regexp.
+  '% f' - Mark buffers by their filename, using a regexp.
+
+Filtering commands:
+
+  'M-x ibuffer-filter-by-mode' - Add a filter by any major mode.
+  '/ m' - Add a filter by a major mode now in use.
+  '/ M' - Add a filter by derived mode.
+  '/ n' - Add a filter by buffer name.
+  '/ c' - Add a filter by buffer content.
+  '/ f' - Add a filter by filename.
+  '/ >' - Add a filter by buffer size.
+  '/ <' - Add a filter by buffer size.
+  '/ e' - Add a filter by an arbitrary Lisp predicate.
+  '/ s' - Save the current filters with a name.
+  '/ r' - Switch to previously saved filters.
+  '/ a' - Add saved filters to current filters.
+  '/ o' - Replace the top two filters with their logical OR.
+  '/ p' - Remove the top filter.
+  '/ !' - Invert the logical sense of the top filter.
+  '/ d' - Break down the topmost filter.
+  '/ /' - Remove all filtering currently in effect.
+
+Filter group commands:
+
+  '/ g' - Create filter group from filters.
+  '/ P' - Remove top filter group.
+  'TAB' - Move to the next filter group.
+  'M-p' - Move to the previous filter group.
+  '/ \' - Remove all active filter groups.
+  '/ S' - Save the current groups with a name.
+  '/ R' - Restore previously saved groups.
+  '/ X' - Delete previously saved groups.
+
+Sorting commands:
+
+  ',' - Rotate between the various sorting modes.
+  's i' - Reverse the current sorting order.
+  's a' - Sort the buffers lexicographically.
+  's f' - Sort the buffers by the file name.
+  's v' - Sort the buffers by last viewing time.
+  's s' - Sort the buffers by size.
+  's m' - Sort the buffers by major mode.
+
+Other commands:
+
+  'g' - Regenerate the list of all buffers.
+          Prefix arg means to toggle whether buffers that match
+          `ibuffer-maybe-show-predicates' should be displayed.
+
+  '`' - Change the current display format.
+  'SPC' - Move point to the next line.
+  'C-p' - Move point to the previous line.
+  'q' - Bury the Ibuffer buffer.
+  '?' - This help.
+  '=' - View the differences between this buffer
+          and its associated file.
+  'RET' - View the buffer on this line.
+  'o' - As above, but in another window.
+  'C-o' - As both above, but don't select
+          the new window.
+  'b' - Bury (not kill!) the buffer on this line.
+
+
+*** Org Mode
+Reference: [[http:orgmode.org/orgcard.txt][org mode reference]]
+
+http://orgmode.org/manual/index.html
+
+**** General
+
+use <TAB> to cycle
+
+C-c C-n    Next heading.
+C-c C-p    Previous heading.
+C-c C-f    Next heading same level.
+C-c C-b    Previous heading same level.
+C-c C-u    Backward to higher level heading.
+
+M-<LEFT/RIGHT/UP/DOWN> modify a heading
+
+C-c @      mark subtree
+
+C-c ^      org-sort same level entries
+
+C-c *      toggle heading
+
+C-u C-c C-l    insert link with completion
+
+C-c l      store link
+
+C-u C-c C-o    open link in emacs
+
+
+(show-all)
+C-c C-x b (org-tree-to-indirect-buffer)
+C-c C-x v (org-copy-visible)
+
+
+
+***** Org Goto
+C-c C-j     (org-goto)
+Jump to a different place without changing the current outline visibility. Shows the document structure in a temporary buffer, where you can use the following keys to find your destination:
+
+<TAB>         Cycle visibility.
+<down> / <up>   Next/previous visible headline.
+<RET>         Select this location.
+/           Do a Sparse-tree search
+The following keys work if you turn off org-goto-auto-isearch
+n / p        Next/previous visible headline.
+f / b        Next/previous headline same level.
+u            One level up.
+0-9          Digit argument.
+q            Quit
+
+
+
+*** Outline mode:
+https://www.gnu.org/software/emacs/manual/html_node/emacs/Outline-Visibility.html#Outline-Visibility
+
+Customise ident:
+
+M-x set-variable outline-regexp
+
+C-c C-c hide section
+C-c C-e show section
+C-c C-d hide subtree
+C-c C-a show-subtree
+C-c C-l hide leaves
+C-c C-k show branches
+C-c C-t hide body
+C-c C-a show all
+
+C-c C-n    next visible heading line (outline-next-visible-heading).
+C-c C-p    previous visible heading line (outline-previous-visible-heading).
+C-c C-f    next visible heading line at the same level as the one point is on (outline-forward-same-level).
+C-c C-b    previous visible heading line at the same level (outline-backward-same-level).
+C-c C-u    lower level heading line
+
+
+
+
+
+*** icy-mode:
 http://www.emacswiki.org/emacs/EmacsNewbieWithIcicles
 
 Shift Tab for completion
 
----------- Yasnippet:
+*** Yasnippet:
 https://capitaomorte.github.io/yasnippet/
 
-YASnippet is a code template system for Emacs.  To enable it in all
-buffers, add the following line to your init file:
+**** .yas-parents
+add to directory. whitespace list of other mode names 
 
-   (yas-global-mode 1)
+**** # group: directive
+use in a snippet definition
 
-Alternatively, you can enable `yas-minor-mode' in individual buffers.
-When YASnippet is active, the following commands can be used:
 
-TAB (`yas-expand')
+**** TAB (`yas-expand')
    Attempt to expand a snippet before point.  For example, typing TAB
    after `if' may expand a snippet beginning with `if', if one exists.
    If no snippet expansion is possible, run the usual binding of TAB.
 
-`C-c & C-s' (`yas-insert-snippet')
+**** `C-c & C-s' (`yas-insert-snippet')
    Prompts for a snippet, and inserts it.
 
-`C-c & C-n' (`yas-new-snippet')
+**** `C-c & C-n' (`yas-new-snippet')
    Opens a *new snippet* buffer where you can define a new snippet.
    Typing C-c C-c in this buffer saves and invokes the definition.
    The variable `yas-snippet-dirs' determines where snippet
    definitions are stored.
 
-`C-c & C-v' (`yas-visit-snippet-file')
+**** M-x yas-describe-tables
+
+
+**** Trigger remapping
+
+ When yas-minor-mode is enabled, it binds yas-expand to TAB and <tab> by default, however, you can freely set it to some other key:
+
+(define-key yas-minor-mode-map (kbd "<tab>") nil)
+(define-key yas-minor-mode-map (kbd "TAB") nil)
+(define-key yas-minor-mode-map (kbd "<the new key>") 'yas-expand)
+
+
+**** `C-c & C-v' (`yas-visit-snippet-file')
    Prompt for, and visit an existing snippet definition.
 
-For more information and detailed usage, refer to the project page:
-
-     http://github.com/capitaomorte/yasnippet
-
-
-  Interesting variables are:
-
-      `yas-snippet-dirs'
+**** `yas-snippet-dirs'
 
           The directory where user-created snippets are to be
           stored.  Can also be a list of directories.  In that case,
@@ -142,58 +346,57 @@ For more information and detailed usage, refer to the project page:
           The deprecated `yas/root-directory' aliases this variable
           for backward-compatibility.
 
+**** Major Commands
 
-  Major commands are:
-
-      M-x yas-expand
+*****      M-x yas-expand
 
           Try to expand snippets before point.  In `yas-minor-mode',
           this is normally bound to TAB, but you can customize it in
           `yas-minor-mode-map'.
 
-      M-x yas-load-directory
+*****      M-x yas-load-directory
 
           Prompts you for a directory hierarchy of snippets to load.
 
-      M-x yas-activate-extra-mode
+*****      M-x yas-activate-extra-mode
 
           Prompts you for an extra mode to add snippets for in the
           current buffer.
 
-      M-x yas-insert-snippet
+*****      M-x yas-insert-snippet
 
           Prompts you for possible snippet expansion if that is
           possible according to buffer-local and snippet-local
           expansion conditions.  With prefix argument, ignore these
           conditions.
 
-      M-x yas-visit-snippet-file
+*****      M-x yas-visit-snippet-file
 
           Prompts you for possible snippet expansions like
           `yas-insert-snippet', but instead of expanding it, takes
           you directly to the snippet definition's file, if it
           exists.
 
-      M-x yas-new-snippet
+*****      M-x yas-new-snippet
 
           Lets you create a new snippet file in the correct
           subdirectory of `yas-snippet-dirs', according to the
           active major mode.
 
-      M-x yas-load-snippet-buffer
+*****      M-x yas-load-snippet-buffer
 
           When editing a snippet, this loads the snippet.  This is
           bound to "C-c C-c" while in the `snippet-mode' editing
           mode.
 
-      M-x yas-tryout-snippet
+*****      M-x yas-tryout-snippet
 
           When editing a snippet, this opens a new empty buffer,
           sets it to the appropriate major mode and inserts the
           snippet there, so you can see what it looks like.  This is
           bound to "C-c C-t" while in `snippet-mode'.
 
-      M-x yas-describe-tables
+*****      M-x yas-describe-tables
 
           Lists known snippets in a separate buffer.  User is
           prompted as to whether only the currently active tables
@@ -221,7 +424,35 @@ For more information and detailed usage, refer to the project page:
   For more information and detailed usage, refer to the project page:
      http://github.com/capitaomorte/yasnippet
 
--------------------- Emacs Regexp
+
+*****      M-x yas-activate-extra-mode
+          To load a specific directory mode
+
+
+
+
+*****      M-x yas-reload-all
+           reloads all snippets including modified. 
+           use after updating a snippet
+
+
+
+****       Snippet syntax:
+
+#key: 
+#group: 
+#binding: 
+#type: snippet or command
+           
+$1++ -> $0 for tab locations.
+use duplicates to mirror
+
+placeholders:
+${N:default value}
+
+
+
+*** Emacs Regexp
 The following characters are special : . * + ? ^ $ \ [
 
 Between brackets [], the following are special : ] - ^
@@ -253,7 +484,8 @@ Many characters are special when they follow a backslash – see below.
   \{3,6\}  previous character or group, repeated 3 to 6 times
   \=       match succeeds if it is located at point
 
-*?, +?, and ?? are non-greedy versions of *, +, and ? – see NonGreedyRegexp. Also, \W, \B, and \Sc match any character that does not match \w, \b, and \sc.
+
+multiples: *?, +?, and ?? are non-greedy versions of *, +, and ? – see NonGreedyRegexp. Also, \W, \B, and \Sc match any character that does not match \w, \b, and \sc.
 
 Characters are organized by category. Use C-u C-x = to display the category of the character under the cursor.
 
@@ -462,7 +694,9 @@ Icicles provides these interactive ways to learn about regexps:
 
 
 
------ Packages to install
+
+
+** Packages to install
 http://steckerhalter.co.vu/steckemacs.html#sec-2-11
 https://www.reddit.com/r/emacs/comments/1xjlrq/emacs_modes_that_are_worth_knowing_about/
 http://melpa.milkbox.net/#/
@@ -520,6 +754,8 @@ yasnippet)
 
 
 (auctex company deft diff-hl discover discover-my-major fixmee back-button button-lock flycheck grizzl haskell-mode helm-google google helm-swoop helm async highlight-symbol hl-line+ hlinum howdoi icicles iedit js3-mode json-mode json-reformat json-snatcher magit git-rebase-mode git-commit-mode makey multiple-cursors nav-flash pkg-info epl racket-mode rainbow-blocks rainbow-delimiters rainbow-identifiers rainbow-mode simple-call-tree+ simple-call-tree skewer-mode js2-mode simple-httpd smart-mode-line rich-minority smartparens dash smartrep string-utils ucs-utils persistent-soft list-utils pcache w3m web-mode yasnippet)
+
+
 
 
 

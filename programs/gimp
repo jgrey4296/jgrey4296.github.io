@@ -1,0 +1,126 @@
+* Gimp
+
+** Shortcuts:
+
+Help
+HelpF1
+Context HelpShift+F1
+Toolbox
+Rect SelectR
+Ellipse SelectE
+Free SelectF
+Fuzzy SelectU
+Select By ColorShift+O
+ScissorsI
+PathsB
+Color PickerO
+MoveM
+Crop and ResizeShift+C
+RotateShift+R
+ScaleShift+T
+ShearShift+S
+PerspectiveShift+P
+FlipShift+F
+TextT
+Bucket FillShift+B
+BlendL
+PencilN
+PaintbrushP
+EraserShift+E
+AirbrushA
+InkK
+CloneC
+ConvolveV
+SmudgeS
+Dodge/BurnShift+D
+Swap ColorsX
+Default ColorsD
+File
+New imageCtrl+N
+Open imageCtrl+O
+Open image as new layerCtrl+Alt+O
+Duplicate imageCtrl+D
+Open recent image 01Ctrl+1
+Open recent image 02Ctrl+2
+Open recent image 03Ctrl+3
+Open recent image 04Ctrl+4
+Open recent image 05Ctrl+5
+Open recent image 06Ctrl+6
+Open recent image 07Ctrl+7
+Open recent image 08Ctrl+8
+Open recent image 09Ctrl+9
+Open recent image 10Ctrl+0
+Save imageCtrl+S
+Save under a new #+srcname: Shift+Ctrl+S
+QuitCtrl+Q
+Dialogs
+LayersCtrl+L
+BrushesShift+Ctrl+B
+PatternsShift+Ctrl+P
+GradientsCtrl+G
+Tool-OptionsShift+Ctrl+T
+PalettesCtrl+P
+Info windowShift+Ctrl+I
+Navigation windowShift+Ctrl+N
+Close the windowAlt+F4
+Jump to next widgetTab
+Jump to previous widgetShift+Tab
+Set the new valueEnter
+Activate current button or listSpace
+In a multi-tab dialog, switch tabsCtrl+Alt+PgUp
+Open LocationShift+L
+Up-FolderAlt+ up
+Down-FolderAlt+ down
+Home-FolderAlt+Home
+Close DialogEsc
+View
+Main MenuF10
+Drop-down MenuShift+F10
+Toggle fullscreenF11
+Toggle quickmaskShift+Q
+Close document windowCtrl+W
+Zoom in+ or Ctrl+Mousewheel
+Zoom out- or Ctrl+Mousewheel
+Zoom 1:11
+Shrink wrapCtrl+E
+Fit image in windowShift+Ctrl+E
+Toggle rulersShift+Ctrl+R
+Toggle guidesShift+Ctrl+T
+Edit
+UndoCtrl+Z
+RedoCtrl+Y
+Copy selectionCtrl+C
+Cut selectionCtrl+X
+Copy visibleCtrl+Shift+C
+Paste as new imageCtrl+Shift+V
+Paste clipboardCtrl+V
+Clears selectionCtrl+K
+Named copy selectionShift+Ctrl+C
+Named cut selectionShift+Ctrl+X
+Named paste clipboardShift+Ctrl+V
+Fill with FG ColorCtrl+,
+Fill with BG ColorCtrl+.
+Fill with PatternCtrl+:
+Layers
+Select the layer abovePgUp
+Select the layer belowPgDn
+Select the first layerHome
+Select the last layerEnd
+Merge visible layersCtrl+M
+Anchar layerCtrl+H
+Selections
+Toggle selectionsCtrl+T
+Select allCtrl+A
+Select noneShift+Ctrl+A
+Invert selectionCtrl+I
+Float selectionShift+Ctrl+L
+Path to selectionShift+V
+Plug-ins
+Repeat last plug-inCtrl+F
+Reshow last plug-inShift+Ctrl+F 
+
+
+** Seamless Tiling:
+graphicssoft.about.com/library/weekly/aa080499p2.htm
+Essentially:
+paint, half wrap, cover the seams.

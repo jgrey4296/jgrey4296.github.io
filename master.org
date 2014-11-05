@@ -1,0 +1,422 @@
+* Master Reference File of notes
+
+TODO: apply for ta-ship
+TODO: CRON
+
+
+** Research
+
+[[file:research/sia][Socio Institutional Activity]]
+
+[[file:research/gamesPrototypes][Game Prototype Ideas]]
+
+[[file:research/socialRoguelike][Social Roguelike Notes]]
+
+[[file:research/compSocScience][Computational Social Science Notes]]
+  
+[[file:research/extracts][Fiction Extracts 1]]
+[[file:research/extracts2][Fiction Extracts 2]]
+[[file:research/extractsDiscussion][Discussion of Fiction Extracts]]
+
+[[file:research/quests][Quest Notes]]
+
+
+** Programming
+   
+*** Music
+    Supercollider or chuck,
+    or perl/python for that matter
+
+**** Define a scale
+
+**** Define chords
+
+**** Generate patterns
+
+***** Note Patterns
+
+***** Rhythm patterns
+
+**** Order operations
+     concat, mix.
+     combinations, reversals etc
+
+**** Classifiers
+
+
+*** Image
+
+*** Web
+
+*** Dwarf Fortress
+
+
+** Languages
+
+
+*** Main Use Languages:
+
+[[file:languages/javascript][Javascript]]
+[[file:languages/csharp][C#]]
+[[file:languages/unity][Unity]]
+[[file:languages/perl][Perl]]
+[[file:languages/python][Python]]
+
+[[file:languages/shell][Shell]]
+[[file:languages/docgen][Documentation Generation]]
+
+
+*** Specific Use Languages
+
+[[file:languages/asp][ASP]]   
+[[file:languages/prolog][Prolog	]]
+[[file:languages/chuck][Chuck]]
+[[file:languages/supercollider][Supercollider]]
+[[file:languages/scheme][Scheme]]
+[[file:languages/lisp][Lisp]]
+[[file:languages/haskell][Haskell]]
+    
+*** Class Use Languages:
+    
+[[file:languages/cpp][C++]]
+[[file:languages/smalltalk][Smalltalk]]
+[[file:languages/ocaml][Ocaml]]
+[[file:languages/erlang][Erlang]]
+
+*** Other:
+
+TODO: yas for doxygen
+
+[[file:languages/libraries][Interesting Libraries]]
+[[file:lang-template][Language Template]]
+
+
+** Programs
+
+[[file:programs/blender][Blender]]
+[[file:programs/emacs][Emacs]]
+[[file:programs/gimp][Gimp]]
+[[file:programs/logic][Logic]]
+[[file:programs/steamGames][Steam Game Notes]]
+
+** Web
+
+   [[https://sccountybank.com/olblogin.cfm?lt%3Dpersonal][bank login]]
+
+[[file:web/links][Unorganised Links]]
+
+[[file:web/rpsNotes][Rock Paper Shotgun]]
+
+[[file:web/usefulLinks][Misc Useful Links]]
+
+
+** Other
+
+[[file:other/writing][Writing Notes]]
+
+[[file:other/ai][AI]]
+
+[[file:other/assets][Assets]]
+
+[[file:other/algorithms][Algorithms Notes]]
+
+[[file:other/patterns][Design Patterns]]
+
+[[file:other/probability][Probability Notes]]
+
+[[file:other/stats][Statistics notes]]
+
+[[file:other/vectorMath][Vector Math Notes]]
+
+[[file:other/nlp][NLP Notes]]
+
+[[file:other/notebook_notes][Extracts from Physical Notebooks]]
+
+[[file:other/imageComments][Comments on Images of Interest]]
+
+[[file:other/scratch][Old Scratch Buffer]]
+
+
+
+
+
+
+** TODO
+
+*** Asset Organization:
+
+**** Prefabs
+***** Rooms
+***** Characters
+***** Items
+
+**** Animators
+***** Animations
+
+**** Sprites
+***** Characters
+***** Objects
+***** Environments
+***** Animation sequences
+
+**** Scripts
+
+*** social Roguelike:
+    camera follow
+    working doors
+    animation state machine
+    melee
+    pathfinding
+    click to move
+    
+**** Game Logic
+***** Traditional Roguelikes
+      
+***** Social Play
+
+*** Space strategy
+
+**** Movement
+**** Building
+**** Combat
+  
+*** Walking Simulator
+
+*** Thud
+***** Board
+***** Pieces
+***** Movement
+***** Taking
+***** Combination Attacks
+***** Score keeping
+     
+*** NLP
+**** Supreme Court Parsing
+**** Abl Parsing
+**** Novels parsing
+
+
+*** Metasteam
+
+*** Social Simulation
+**** Institutions
+**** Resources
+**** Knowledge
+**** Time
+**** Conversation
+     Speech Acts
+     grammar generation
+
+
+** Mac State
+   xcode, cltools
+   python
+   anaconda
+   nltk
+   macports
+   fink
+
+*** Audio instruments
+    ilok
+
+*** Basic shell loading of dropbox:
+!!! upgrade from standard bash
+source ~/dropbox/scripts/shell/main_bash
+
+*** home folder symbolic links
+    photos, assets, bitcasa, docs,
+    dropbox, dwarf, github, latexImages
+    programming
+    projects
+    snippets
+    templates
+    .emacs.d
+    notes
+
+    node package manager
+    
+*** basic emacs setup:
+(load "~/.emacs.d/my.emacs")
+
+*** Hardware
+    Wacom, keyboard, soundcard
+    printer, kinect camera
+
+
+*** Programs
+
+ Arturia/
+ Blender/
+ KORG/
+ MacPorts/
+ Native Instruments/
+ SuperCollider/
+ URS/
+ Unity/
+ Waves/
+ All2MP3.app/
+ Flux.app/
+ Fluxus.app/
+ Gimp.app/
+ HandBrake.app/
+ Inkscape.app/
+ Mountain.app/
+ OSC Monitor.app/
+ SizeUp.app/
+ Tiled.app/
+ VLC.app/
+ Zwoptex.app/
+ avast!.app/
+ calibre.app/
+ Wacom Tablet.localized/
+
+**** PATH
+/Volumes/Documents/dropbox/scripts/shell/:
+/opt/local/libexec/gnubin:
+/opt/local/include:
+/opt/local/lib:
+/opt/local/sbin:
+/opt/local/bin:
+/Volumes/Documents/Dropbox/Programming/Perl:
+/Applications/SuperCollider:
+/Volumes/Documents/Libraries/android-sdk-macosx/tools:
+/Volumes/Documents/Libraries/android-sdk-macosx/platform-tools:
+/Volumes/Documents/Libraries/android-sdk-macosx/build-tools/19.1.0:
+/usr/local/bin:
+/Users/jgrey/node_modules:
+/Volumes/Documents/dropbox/scripts/shell/:
+/opt/local/libexec/gnubin:
+/opt/local/include:
+/opt/local/lib:
+/opt/local/sbin:
+/opt/local/bin:
+/Volumes/Documents/Dropbox/Programming/Perl:
+/Applications/SuperCollider:
+/Volumes/Documents/Libraries/android-sdk-macosx/tools:
+/Volumes/Documents/Libraries/android-sdk-macosx/platform-tools:
+/Volumes/Documents/Libraries/android-sdk-macosx/build-tools/19.1.0:
+/usr/local/bin:
+/Users/jgrey/node_modules:
+/usr/bin:
+/bin:
+/usr/sbin:
+/sbin
+
+*** Command line
+
+*** Macports:
+  antlr @2.7.7_1 (active)
+  atk @2.10.0_0
+  autoconf @2.69_2 (active)
+  automake @1.14.1_1
+  automake @1.14.1_2 (active)
+  bash @4.3.25_0 (active)
+  bash-completion @2.1_8 (active)
+  bison @2.7.1_0 (active)
+  boehmgc @7.4.2_0 (active)
+  boost @1.56.0_1+no_single+no_static+python27 (active)
+  bzip2 @1.0.6_0 (active)
+  cairo @1.12.16_2+x11 (active)
+  cctools @855_1+llvm33 (active)
+  cctools-headers @855_0 (active)
+  cloog @0.18.2_0 (active)
+  cmake @3.0.2_0 (active)
+  coreutils @8.23_0 (active)
+  curl @7.38.0_0+ssl (active)
+  curl-ca-bundle @7.38.0_0 (active)
+  cyrus-sasl2 @2.1.26_4+kerberos (active)
+  db_select @0.1_2 (active)
+  desktop-file-utils @0.22_0 (active)
+  detex @2.8_1 (active)
+  djvulibre @3.5.25_8 (active)
+  docbook-xsl @1.78.1_1 (active)
+  doxygen @1.8.7_0 (active)
+  dvipng @1.14_8 (active)
+  emacs @24.3_1 (active)
+  expat @2.1.0_0+universal (active)
+  fftw-3 @3.3.4_0 (active)
+  fltk @1.3.2_2 (active)
+  fontconfig @2.11.0_2
+  fontconfig @2.11.1_0 (active)
+  fop @1.1_0 (active)
+  freeglut @2.8.1_0 (active)
+  freetype @2.5.3_1 (active)
+  gawk @4.1.1_2 (active)
+  gcc48 @4.8.3_0 (active)
+  gcc_select @0.1_8 (active)
+  gd2 @2.1.0_6+x11 (active)
+  gdbm @1.11_0 (active)
+  gdk-pixbuf2 @2.31.1_0+x11 (active)
+  gettext @0.19.2_0+universal (active)
+  ghc @7.6.3_4+gcc48 (active)
+  ghostscript @9.10_2+x11 (active)
+  git @2.1.1_0+credential_osxkeychain+doc+pcre+perl5_16+python27 (active)
+  git-core @1.9.3_0+credential_osxkeychain+doc+pcre+perl5_16+python27
+  glib2 @2.42.0_0 (active)
+  glpk @4.48_0 (active)
+  gmp @6.0.0_1 (active)
+  gnutls @3.3.8_0 (active)
+  gobject-introspection @1.42.0_0 (active)
+  graphite2 @1.2.4_0 (active)
+  graphviz @2.38.0_0+pangocairo+x11 (active)
+  grep @2.20_0 (active)
+  gtk-doc @1.20_1+python27
+  gtk-doc @1.20_2+python27
+  gtk-doc @1.20_4+python27
+  gtk-doc @1.21_0+python27 (active)
+  gtk2 @2.24.23_0+x11
+  gtk2 @2.24.24_0+x11 (active)
+  gtksourceview2 @2.10.5_7 (active)
+  gts @0.7.6_2 (active)
+  harfbuzz @0.9.35_0 (active)
+  harfbuzz-icu @0.9.35_0 (active)
+  haskell-mode.el @2.4_0 (active)
+  haskell-platform @2013.2.0.0_0 (active)
+  ispell @3.3.02_2 (active)
+  latex2html @2008_3 (active)
+  latexdiff @1.0.4_0 (active)
+  latexmk @4.39_0 (active)
+  LaTeXML @0.8.0_1 (active)
+  lcdf-typetools @2.99_0+texlive (active)
+  lcms2 @2.6_0 (active)
+  ld64 @136_2+llvm33
+  ld64 @236.3_1+llvm33 (active)
+  lua @5.2.2_1
+  lua @5.2.3_0 (active)
+  magit @1.2.0_1 (active)
+  ncurses @5.9_2+universal (active)
+  netpbm @10.67.05_0 (active)
+  nettle @2.7.1_0 (active)
+  nosetests_select @0.1_0 (active)
+  openexr @1.7.0_0 (active)
+  perl5.18 @5.18.2_1 (active)
+  pinentry @0.8.4_0 (active)
+  pkgconfig @0.28_0 (active)
+  poppler @0.26.4_0 (active)
+  poppler-data @0.4.7_0 (active)
+  popt @1.16_0 (active)
+  ppl @1.0_2
+  ppl @1.1_0 (active)
+  ps2eps @1.68_0 (active)
+  pstree @2.36_0 (active)
+  psutils @p17_1 (active)
+  pth @2.0.7_0 (active)
+  python34 @3.4.1_1 (active)
+  python_select @0.3_3 (active)
+  readline @6.3.003_0 (active)
+  rsync @3.1.1_0 (active)
+  shared-mime-info @1.3_0 (active)
+  slurm @0.3.3_0 (active)
+  source-highlight @3.1.7_0 (active)
+  sqlite3 @3.8.6_0 (active)
+  swi-prolog @6.6.6_0+mt (active)
+  texlive @2013_0+doc+medium
+  yaml-mode.el @0.0.8_0 (active)
+  yasm @1.2.0_0
+  yasm @1.3.0_0 (active)
+  zip @3.00_0 (active)
+  zlib @1.2.8_0
+  zlib @1.2.8_0+universal (active)
+
+*** Preferences
+
