@@ -1,7 +1,10 @@
 * Language: Python
 
+[[http://anandology.com/python-practice-book/getting-started.html][Python Practice]]
 [[https://docs.python.org/2/py-modindex.html][Module List]]
 [[http://www.tutorialspoint.com/python/python_lists.htm][List operations]]
+
+[[https://wiki.python.org/moin/HowTo/Sorting][Sorting]]
 
 ** Links
 https://docs.python.org/2/library/json.html
@@ -48,8 +51,10 @@ for a in memberList:
     print a
 
 
-** Good Style
+** Good Style / unicode
+# -*- coding: utf-8 -*-
 
+#re.sub(ur'[\u064B-\u0652\u06D4\u0670\u0674\u06D5-\u06ED]+', '', ...)
 ** Generators
 def double_numbers(iterable):
     for i in iterable:
@@ -338,7 +343,7 @@ li.extend(other_li)   * Now li is [1, 2, 3, 4, 5, 6]
 len(li)   * => 6
 
 
-** Tuples
+*** Tuples
 *** Tuples are like lists but are immutable.
 tup = (1, 2, 3)
 tup[0]   * => 1
@@ -357,7 +362,7 @@ d, e, f = 4, 5, 6
 *** Now look how easy it is to swap two values
 e, d = d, e     *** d is now 5 and e is now 4
 
-** Dictionaries
+*** Dictionaries
 *** Dictionaries store mappings
 empty_dict = {}
 *** Here is a prefilled dictionary
@@ -393,7 +398,7 @@ filled_dict.get("four", 4)   *** => 4
 filled_dict.setdefault("five", 5)  *** filled_dict["five"] is set to 5
 filled_dict.setdefault("five", 6)  *** filled_dict["five"] is still 5
 
-** Sets
+*** Sets
 
 *** Sets store ... well sets
 empty_set = set()
@@ -421,7 +426,7 @@ filled_set | other_set   *** => {1, 2, 3, 4, 5, 6}
 10 in filled_set   *** => False
 
 
-** Objects
+*** Objects
 *** None is an object
 None  *** => None
 
@@ -440,7 +445,7 @@ bool(0)  *** => False
 bool("")  *** => False
 
 
-** Classes
+**** Classes
 
 *** We subclass from object to get a class.
 class Human(object):
@@ -490,10 +495,10 @@ j.get_species()   *** => "H. neanderthalensis"
 *** Call the static method
 Human.grunt()   *** => "***grunt***"
 
+
 ** Control Structures
 
-** Here is an if statement. Indentation is significant in python!
-** prints "some_var is smaller than 10"
+*** IF
 if some_var > 10:
     print("some_var is totally bigger than 10.")
 elif some_var < 10:    * This elif clause is optional.
@@ -502,18 +507,12 @@ else:           * This is optional too.
     print("some_var is indeed 10.")
 
 
-"""
-For loops iterate over lists
-prints:
-    dog is a mammal
-    cat is a mammal
-    mouse is a mammal
-"""
+*** FOR
 for animal in ["dog", "cat", "mouse"]:
     * You can use % to interpolate formatted strings
     print("%s is a mammal" % animal)
 
-"""
+*** RANGE
 "range(number)" returns a list of numbers
 from zero to the given number
 prints:
@@ -521,18 +520,18 @@ prints:
     1
     2
     3
-"""
+
 for i in range(4):
     print(i)
 
-"""
+*** WHILE
 While loops go until a condition is no longer met.
 prints:
     0
     1
     2
     3
-"""
+
 x = 0
 while x < 4:
     print(x)

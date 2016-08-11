@@ -1,8 +1,16 @@
-  --------------------
-Language: Javascript
---------------------
+* Language: Javascript
 
--------------------- Links
+** In Place methods
+Array.sort()
+Array.splice()
+
+
+** Creation Methods
+Array.slice()
+Array.filter()
+
+
+** Links
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 https://github.com/mbostock/d3/wiki/
 https://stackoverflow.com/questions/11088303/how-to-convert-to-d3s-json-format
@@ -10,21 +18,21 @@ http://www.w3schools.com/jsref/
 http://jsperf.com/new-array-vs-splice-vs-slice/19
 http://www.nodebeginner.org/#javascript-and-nodejs
 
--------------------- Inspection and Output:
+** Inspection and Output:
 typeof a;
 console.log();
 
--------------------- Good Style
+** Good Style
 "use strict";
 
--------------------- Compilation
+** Compilation
 node <filename>
 
--------------------- Imports
----------- Web
+** Imports
+*** Web
 <script src="myFile.js"></script>
 
----------- Node
+** Node
 var noiseModule = require("./perlinNoise"); 
 
 Write Files as:
@@ -35,18 +43,18 @@ Write Files as:
 
 
 
--------------------- Comments
+** Comments
 // and /* */
 
--------------------- Whitespace and Statements
+** Whitespace and Statements
 terminate statement with ;
 whitespace doesnt matter
 
 
--------------------- Memory Management
+** Memory Management
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management
 
--------------------- Value vs Reference 
+** Value vs Reference 
 
 Always pass by value 'value' of an object/array is a reference
 Changing the value of a variable never changes the underlying
@@ -55,13 +63,13 @@ object.  However, changing a property of an object referenced by a
 variable does change the underlying object.
 
 
--------------------- Scope
+** Scope
 //functions get their own scope.
 
 //Closures:
 //functions defined in other functions have access to that scope
 
----------------------------------------- Basic Data Types
+** Basic Data Types
 64-bit double as base number type.
 null
 undefined
@@ -69,7 +77,7 @@ Boolean
 String
 Symbol (in version 6)
 
--------------------- Arithmetic
+** Arithmetic
 +- * ()
 / does decimals
 
@@ -82,11 +90,11 @@ NaN;
 
 Math.random();
 
--------------------- Bitwise
+** Bitwise
 << >>
 float is converted to signed int up to 32 bits
 
--------------------- Strings
+** Strings
 'abc';
 "abc";
 
@@ -98,14 +106,14 @@ concatenated with +
 "string".substring(0,5);
 "string".length; //Not a function
 
--------------------- Booleans
+** Booleans
 ! negates
 
 // false, null, undefined, NaN, 0 and "" are falsy; everything else is truthy.
 // Note that 0 is falsy and "0" is truthy, even though 0 == "0".
 
 
--------------------- Comparisons and Logic
+** Comparisons and Logic
 || and && for logical or/and; //These short circuit
 == != //These type convert
 < > <= >=
@@ -125,16 +133,16 @@ concatenated with +
 
 
 
--------------------- Variables
+** Variables
 definition:
 var someVar = 5 || "default"; //Short circuited
 var someOther; //Set to undefined
 
 
 
----------------------------------------- Data Structures
+** Data Structures
 
--------------------- Arrays
+*** Arrays
 var myArray = ["something",45,true];
 
 Properties:
@@ -146,7 +154,7 @@ myArrray[1];
 
 myArray.push("world");
 
--------------------- Objects
+** Objects
 var myObj = {key1: "something", key2: "blah"};
 
 myObj.hasOwnProperty("key1"); //Only if in the object, not prototype
@@ -169,7 +177,7 @@ myObj = {
 myObj.myFunc(); // = "Hello world!"
 
 
----------- Object Creation:
+*** Object Creation:
 //object creation:
 var Person = function(name){
     if(!this instanceof Person){
@@ -186,7 +194,7 @@ Person.prototype.say = function(){
 var person1 = new Person('bob');
 
 
--------------------- Constructors
+*** Constructors
 var child = Object.create(parent, {
     age : { value: 2}
     });
@@ -240,7 +248,7 @@ myObj.meaningOfLife; // = 43
 
 
 
----------------------------------------- Control Structures
+** Control Structures
 
 //IF
 if(true || false){};
@@ -267,7 +275,7 @@ switch(something){
     break;
 }
 
------------------------------- Functions
+** Functions
 //first class.
 function myFunction(aParam){
     return aParam;
@@ -319,13 +327,13 @@ doubler(8); // = 16
 
 
 
------------------------------- Examples
+** Examples
 
 
 
----------------------------------------- Language Specific Concepts:
+** Language Specific Concepts:
 
----------- Currying:
+*** Currying:
 //general purpose curry function:
 function curry(fn){
     var slice = Array.prototype.slice,
@@ -343,7 +351,7 @@ curried(10,10,10); //will produce 31
 
 
 
----------- Regex
+*** Regex
 //g = global, m = multiline, i = case insensitive
 var re = /\\/gm;
 //Or for runtime creation of the regex:
@@ -352,9 +360,16 @@ var re = new RegExp("\\\\","gm");
 "blah\\".replace(re,"");
 
 
--------------------- Browser stuff:
+** Browser stuff:
 setTimeout(aFunction,5000); //Five seconds time
 
 
--------------------- D3:
+** D3:
+http://www.cheat-sheets.org/own/svg/index.xhtml
+http://www.jeromecukier.net/wp-content/uploads/2012/10/d3-cheat-sheet.pdf
+
+*** Shapes:
+    circle, 
+    rectangle
+    
 

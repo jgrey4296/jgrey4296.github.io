@@ -1,14 +1,15 @@
--------------------- 
-Doxygen:
---------------------
+* Doxygen:
+
 http://www.mcternan.me.uk/mscgen/ 
 
-for python: use ## and @, rather than python docstyle of three ''
+** For Python
+
+use ## and @, rather than python docstyle of three ''
 INPUT_FILTER = "python /usr/local/bin/doxypy.py"
 
 
 
-
+** Init/Config
 create a config file: doxygen -g 
 can create test/todo lists with \test or \todo, \bug,
 
@@ -24,7 +25,8 @@ generate_html
 extract_all
 
 
-keywords: @, \
+** keywords: 
+@, \
 brief
 param
 return
@@ -32,7 +34,7 @@ class
 file
 
 
------ YUIDoc
+* YUIDoc
 https://yui.github.io/yuidoc/
 https://yui.github.io/yuidoc/syntax/index.html
 

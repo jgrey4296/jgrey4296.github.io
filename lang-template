@@ -1,67 +1,57 @@
---------------------
-Language: 
---------------------
+* Language: 
 
--------------------- Links
+** Links
 
--------------------- Inspection and Output:
+** Inspection and Output:
 
--------------------- Good Style
+** Good Style
 
--------------------- Compilation
+** Compilation
 
--------------------- Imports
+** Imports
 
--------------------- Comments
+** Comments
 
+** Whitespace and Statements
 
--------------------- Whitespace and Statements
+** Memory Management
 
+** Value vs Reference 
 
--------------------- Memory Management
+** Scope
 
--------------------- Value vs Reference 
+** Basic Data Types
 
+*** Strings
+*** Booleans
+** Arithmetic
 
--------------------- Scope
+*** Bitwise
 
----------------------------------------- Basic Data Types
+** Comparisons and Logic
 
--------------------- Arithmetic
+** Variables
 
--------------------- Bitwise
+** Data Structures
 
--------------------- Strings
+*** Arrays
 
--------------------- Booleans
+*** Objects
 
--------------------- Comparisons and Logic
+**** Object Creation:
 
+**** Constructors
 
--------------------- Variables
+** Control Structures
 
-
----------------------------------------- Data Structures
-
--------------------- Arrays
-
--------------------- Objects
-
----------- Object Creation:
-
-
--------------------- Constructors
-
----------------------------------------- Control Structures
-
-//IF
+*** IF
 if(true || false){};
 
-//WHILE
+*** WHILE
 while(true){};
 do {} while(true);
 
-//FOR
+*** FOR
 for(var i = 0; i < 5; i++){}
 
 for(var x in a){
@@ -70,7 +60,7 @@ for(var x in a){
     }
 }
 
-//Switch:
+*** Switch:
 //checks for equality with ===
 //uses break;
 switch(something){
@@ -78,13 +68,9 @@ switch(something){
     2+2;
     break;
 }
+** Functions
 
------------------------------- Functions
+** Examples
 
-
------------------------------- Examples
-
-
-
----------------------------------------- Language Specific Concepts:
+** Language Specific Concepts:
 

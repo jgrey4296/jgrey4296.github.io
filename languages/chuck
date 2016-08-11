@@ -1,40 +1,47 @@
-/*--------------------
-Language: Chuck
---------------------*/
+* Chuck
 
-//-------------------- Links
+** Code
+[[file:~/programming/chuck/][Code Directory]]
+
+
+** Links
 http://chuck.cs.princeton.edu/doc/examples/
 http://chuck.cs.princeton.edu/doc/language/
 
-//-------------------- Inspection and Output:
+** Inspection and Output:
+//Print statement:
 <<< expression >>>;
 
 //Server status:
-chuck ^
+ chuck ^
 
 //Now:
 chuck --time
 
-//-------------------- Good Style
+** Good Style
 
 
-//-------------------- Compilation
+** Usage
 
-chuck <file> <other file> //multiple for concurrency
+chuck --dac:2 for system speaker
+chuck--dac:3 for output via hdmi
+
+*** chuck <file> <other file> //multiple for concurrency
 
 
-#One the fly programming:
-#setup a server:
-chuck --loop
+*** On the fly programming:
+**** setup a server:
+chuck --loop & //The & lets bash continue
 
-#add, remove, replace patches:
+**** add, remove, replace patches:
 chuck + <file>
 chuck - <file>
 chuck = <number> <file>
 
-#graceful death
+**** graceful death
 chuck --kill
 
+**** Command line parameters
 ChucK supports passing arbitrary data from the command line into ChucK
 programs using optional command line arguments. An argument is
 specified by appending a colon character ":" to the name of the ChucK
@@ -58,6 +65,17 @@ programming facilities of ChucK.
 
  %> chuck + foo.ck:foo bar.ck:bar:boo
 
+
+***** Command line Arg Access
+To access command line arguments within a ChucK program, use the
+me.args() and me.arg() functions.
+
+// print out all arguments
+for( int i; i < me.numArgs(); i++ )
+    <<< me.arg( i ) >>>;
+
+
+*** Code addition and replacement of threads
 Machine.add() and Machine.replace() accept command line arguments in a
 similar fashion.
 
@@ -69,76 +87,69 @@ similar fashion.
     // pass foo and bar as command line arguments
     Machine.replace( id, "bar.ck:foo:bar" );
 
-To access command line arguments within a ChucK program, use the
-me.args() and me.arg() functions.
-
-// print out all arguments
-for( int i; i < me.numArgs(); i++ )
-    <<< me.arg( i ) >>>;
 
 
-
-//Other:
---dac(N)
+*** Other:
+**** --dac(N)
 opens audio output device #(N) for real-time audio. by default, (N) is 0.
 
---adc(N)
+**** --adc(N)
 opens audio input device #(N) for real-time audio input. by default,
 (N) is 0.
 
---chan(N) / -c(N)
+**** --chan(N) / -c(N)
 opens (N) number of input and output channels on the audio device. by
 default, (N) is 2.
 
---in(N) / -i(N)
+**** --in(N) / -i(N)
 opens (N) number of input channels on the audio device. by default (N)
 is 2.
 
---out(N) / -o(N)
+**** --out(N) / -o(N)
 opens (N) number of output channels on the audio device. by default
 (N) is 2.
 
---hostname(host) / -h(host)
+**** --hostname(host) / -h(host)
 sets the hostname to connect to if accompanied by the on-the-fly
 programming commands.  (host) can be name or ip of the host. default
 is 127.0.0.1 (localhost).
 
---port(N) / -p(N)
+**** --port(N) / -p(N)
 sets the port to listen on if not used with on-the-fly programming
 commands.  sets the port to connect to if used with on-the-fly
 programming commands.
 
---verbose(N) / -v(N)
+**** --verbose(N) / -v(N)
 sets the report level to (N). 0 is none, 10 is all, default is 1.
 
---probe
+**** --probe
 probes the system for all audio devices and MIDI devices, and prints
 them.
 
---about / --help
+**** --about / --help
 prints the usage message, with the ChucK URL
 
---callback
+**** --callback
 Utilizes a callback for buffering (default).
 
---blocking
+**** --blocking
 Utilizes blocking for buffering. 
 
 
-//-------------------- Imports
+** Imports
 
-//-------------------- Comments
+** Comments
 // comment
 /* comment */
 
-//-------------------- Whitespace and Statements
+*** Whitespace and Statements
 
 
-//-------------------- Memory Management
+** Memory Management
 ChucK objects are reference counted and garbage collection takes place
 automatically. (note: this is still being implemented!)
 
-//-------------------- Value vs Reference 
+*** Value vs Reference 
 primitives passed by value
 
 Reference Types: 
@@ -159,18 +170,33 @@ Object, array, Event, UGen, string
 
 
 
-//-------------------- Scope
-Unless declared public, class definitions are scoped to the shred and will not conflict with identically named classes in other running shreds.
+** Scope
+Unless declared public, class definitions are scoped to the shred and
+will not conflict with identically named classes in other running
+shreds.
 
-//---------------------------------------- Basic Data Types
+
+** Basic Data Types
 int, float, time, dur (5.5::second)
 void, 
+
 complex eg: #(2,3) where #(...) casts to complex, accessed by .re and .im
+
 polar eg: %(2, .5 * pi), access with .mag and .phase
+
 maybe, null, NULL, me, pi
 
-//-------------------- Operators:
-assignment:
+
+*** Strings
+
+
+***  Booleans
+true, false
+
+
+** Operators:
+
+*** assignment:
 int foo;
 2 => foo;
 
@@ -189,7 +215,8 @@ int foo;
 foo++;
 foo--;
 
-//-------------------- Bitwise
+
+*** Bitwise
 These are used on int values at the bit level, often for bit masking.
 
     >> : shift bits right ( 8 >> 1 = 4 )
@@ -199,13 +226,7 @@ These are used on int values at the bit level, often for bit masking.
     ^ : bitwise XOR 
 
 
-//-------------------- Strings
-
-
-//-------------------- Booleans
-true, false
-
-//-------------------- Comparisons and Logic
+*** Comparisons and Logic
 Logical operators - each of these need two operands. The result is an integer value of 0 or 1.
 
     && : and
@@ -225,13 +246,14 @@ These operators come before one operand:
     // negative
     -1 => int foo;
 
-//-------------------- Variables
+
+** Variables
 <type> name<array>; 
 
 
-//---------------------------------------- Data Structures
+** Data Structures
 
-//-------------------- Arrays
+*** Arrays
 int foo[10];
 [1,1,2,3,5,8] @=> int foo[];
 Object group[10]; //instantiates objects
@@ -244,7 +266,7 @@ float foo[4][2][4];
 //lookup:
 foo[2];
 
-//-------------------- Objects / Classes:
+*** Objects / Classes:
 class, extends, public, static, pure, this
 
 //Associative Arrays: indexed on strings
@@ -401,13 +423,14 @@ For now, access modifiers (public, protected, private) are included
 but not fully implemented. Everything is public by default.
 
 
-//---------- Object Creation:
+**** Object Creation:
     new object @=> object @ bar;
 
 
-//-------------------- Constructors
+**** Constructors
 
-//---------------------------------------- Control Structures
+
+** Control Structures
 if(condition){ }else{ }
 while(true) {}
 do { } while(true);
@@ -418,7 +441,7 @@ for( 0 => int foo; foo < 4; foo++){ }
 //repeat, break, continue, return
 
 
-//------------------------------ Functions
+** Functions
 function, fun, spork, const, new, me
 
 fun int funk(int arg){ return arg; }
@@ -477,7 +500,7 @@ Similarly, you can remove shreds from the virtual machine.
     Machine.replace( id, "bar.ck" );
 
 
-//-------------------- Events:
+** Events:
 Events
 
 In addition to the built-in timing mechanisms for internal control,
@@ -566,7 +589,7 @@ continue to run until it advances time itself, or yield the virtual
 machine without advancing time. (see me.yield() under concurrency)
 MIDI events
 
-//-------------------- Midi
+** Midi
 ChucK contains built-in MIDI classes to allow for interaction with
 MIDI based software or devices.
 
@@ -594,7 +617,7 @@ now. MidiIn then takes a MidiMsg object to its .recv() method to
 access the MIDI data.  As a default, MidiIn events trigger the
 broadcast() event behavior.  OSC events
 
-//-------------------- OSC
+** OSC
 In addition to MIDI, ChucK has OSC communication classes as well:
 
 // create our OSC receiver
@@ -676,13 +699,13 @@ while( true )
     e.signal();
 }
 
-//------------------------------ Examples
+** Examples
 
 
 
-//---------------------------------------- Language Specific Concepts:
+** Language Specific Concepts:
 
-//-------------------- duration
+*** duration
 samp, ms, second, minute, hour, day, week
 now // special vairable of type time. modifying moves chuck forwards
 
@@ -711,7 +734,7 @@ durations. For example:
     // 4 quarters is whole
     4::quarter => dur whole;
 
-//---------- operations on time and duration (arithmetic):
+**** operations on time and duration (arithmetic):
 
 (time offset):
 
@@ -762,7 +785,7 @@ durations. For example:
         <<< "yay!" >>>;
 
 
-//---------- Advancing time:
+**** Advancing time:
 advancing time by duration
 
     // advance time by 1 second
@@ -786,7 +809,7 @@ advancing time by absolute time
     later => now;
 
 
-//-------------------- Ugens
+** Ugens
 dac, adc, blackhole
 
 
@@ -974,9 +997,11 @@ creating
 ( coming soon! )
 built-in unit generators
 
-ChucK has a number of built-in UGen classes, included most of the Synthesis ToolKit (STK). A list of built-in ChucK unit generators can be found here.
+ChucK has a number of built-in UGen classes, included most of the
+Synthesis ToolKit (STK). A list of built-in ChucK unit generators can
+be found here.
 
-//-------------------- UAna's
+** UAna's
 
 Unit Analyzers
 
@@ -1372,9 +1397,9 @@ ChucK unit analyzers can be found here.
 
 
 
-//-------------------- Reserved Words:
+** Reserved Words:
 
-    (primitive types)
+***    (primitive types)
         int
         float
         time
@@ -1382,7 +1407,7 @@ ChucK unit analyzers can be found here.
         void
         same (unimplemented) 
 
-    (control structures)
+***    (control structures)
         if
         else
         while
@@ -1394,7 +1419,7 @@ ChucK unit analyzers can be found here.
         return
         switch (unimplemented) 
 
-    (class keywords)
+***    (class keywords)
         class
         extends
         public
@@ -1407,14 +1432,14 @@ ChucK unit analyzers can be found here.
         protected (unimplemented)
         private (unimplemented) 
 
-    (other chuck keywords)
+***    (other chuck keywords)
         function
         fun
         spork
         const
         new 
 
-    (special values)
+***    (special values)
         now
         true
         false
@@ -1424,7 +1449,7 @@ ChucK unit analyzers can be found here.
         me
         pi 
 
-    (special : default durations)
+***    (special : default durations)
         samp
         ms
         second
@@ -1433,9 +1458,9 @@ ChucK unit analyzers can be found here.
         day
         week 
 
-    (special : global ugens)
+***    (special : global ugens)
         dac
         adc
         blackhole 
 
-
+ 

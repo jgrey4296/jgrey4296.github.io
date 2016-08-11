@@ -1,40 +1,38 @@
---------------------
-Language: C#
---------------------
+* Language: C#
 
--------------------- Links
+http://docs.unity3d.com/412/Documentation/ScriptReference/index.Accessing_Other_Game_Objects.htmlhttp://docs.unity3d.com/412/Documentation/ScriptReference/index.Accessing_Other_Game_Objects.html
+
+
+** Links
 http://learnxinyminutes.com/docs/csharp/
 msdn.microsoft.com/en-us/library/aa645596(v=vs.71).aspx
 
--------------------- Inspection and Output:
+** Inspection and Output:
 
 // Print out the name and the age associated with the person:
 Console.WriteLine("Person details - {0}", person);
 
 
--------------------- Good Style
-
--------------------- Compilation
+** Good Style
+** Compilation
 
 //needs:
 static void Main(){ }
 
-
--------------------- Imports
+** Imports
 using System;
-
--------------------- Comments
+** Comments
 //
 /* */
 
--------------------- Whitespace and Statements
+** Whitespace and Statements
 //whitespace doesnt matter
 
--------------------- Memory Management
+** Memory Management
 //Automatic, uses destructors:
 ~A(){}
 
--------------------- Value vs Reference
+** Value vs Reference
 A value type is either a struct type or an enumeration type. 
 C# provides a set of predefined struct types called the simple types. 
 The simple types are identified through reserved words. 
@@ -43,14 +41,24 @@ A reference type is a class type, an interface type, an array type,
   or a delegate type. 
 
 
--------------------- Scope
+** Scope
 namespace blah{}
 
 
----------------------------------------- Basic Data Types
+** Basic Data Types
+
+*** Strings
+  string foo = "blah";
+foo[3];
+
+*** Dates
+DateTime fooDate = DateTime.Now;
+Console.WriteLine(fooDate.ToString("hh:mm, dd MMM yyyy"));
+
+*** Booleans
 
 
--------------------- Typecasting
+** Typecasting
   // Convert String To Integer
   // this will throw an Exception on failure
   int.Parse("123");//returns an integer version of "123"
@@ -68,7 +76,7 @@ Convert.ToString(123);
 tryInt.ToString();
 
 
--------------------- Arithmetic
+** Arithmetic
   + - / % *
   // Incrementations
   int i = 0;
@@ -78,38 +86,28 @@ Console.WriteLine(++i); //i = 2. Pre-Incrementation
 Console.WriteLine(i--); //i = 1. Post-Decrementation
 Console.WriteLine(--i); //i = 0. Pre-Decrementation
 
--------------------- Bitwise
-  ~       Unary bitwise complement
-  <<      Signed left shift
-  >>      Signed right shift
-  &       Bitwise AND
-  ^       Bitwise exclusive OR
-  |       Bitwise inclusive OR
-  
--------------------- Strings
-  string foo = "blah";
-foo[3];
+*** Bitwise
+   ~       Unary bitwise complement
+   <<      Signed left shift
+   >>      Signed right shift
+   &       Bitwise AND
+   ^       Bitwise exclusive OR
+   |       Bitwise inclusive OR
+   
 
--------------------- Dates
-DateTime fooDate = DateTime.Now;
-Console.WriteLine(fooDate.ToString("hh:mm, dd MMM yyyy"));
+*** Comparisons and Logic
 
--------------------- Booleans
-
--------------------- Comparisons and Logic
-
-
--------------------- Variables
+** Variables
 //<type><name>
   byte foo = 100;
 
 //Value types = int,uint,long,ulong,double,float,decimal,bool,char
 //Reference Types = string
 //has const
----------------------------------------- Data Structures
+** Data Structures
 //Stack,Queue,Dictionary,HashSet,Tuple
 
--------------------- Arrays
+*** Arrays
 // Arrays - zero indexed
 // The array size must be decided upon declaration
 // The format for declaring an array is follows:
@@ -129,7 +127,7 @@ int[,] array2 = new int[4,6];
 int[][] array3;
 
 
--------------------- Lists
+*** Lists
 // Lists
 // Lists are used more frequently than arrays as they are more flexible
 // The format for declaring a list is follows:
@@ -145,7 +143,7 @@ intList.Add(1);
 Console.WriteLine("intList @ 0: " + intList[0]);
 
 
--------------------- Objects/Classes
+*** Objects/Classes
 class Person : InheritClass, AndAnInterface
 {
   private string myName ="N/A";
@@ -171,30 +169,30 @@ class Person : InheritClass, AndAnInterface
   
 }
 
----------- Object Creation:
+**** Object Creation:
 //use new
 Person blah = new Person();
 
----------- Methods:
+**** Methods:
 
 
 blah.something();
--------------------- Constructors
+**** Constructors
 
----------------------------------------- Control Structures
+** Control Structures
 
-//IF
+*** IF
 if(true || false){} else {};
 // Ternary operators
 // A simple if/else can be written as follows
 // <condition> ? <true> : <false>
 string isTrue = (true) ? "True" : "False";
 
-//WHILE
+*** WHILE
 while(true){};
 do {} while(true);
 
-//FOR
+*** FOR
 for(var i = 0; i < 5; i++){}
 
 // For Each Loop foreach loop structure => foreach(<iteratorType>
@@ -209,7 +207,7 @@ foreach (char character in "Hello World".ToCharArray())
     //Iterated over all the characters in the string
   }
 
-// Switch Case
+*** Switch Case
 // A switch works with the byte, short, char, and int data types.
 // It also works with enumerated types (discussed in Enum Types),
 // the String class, and a few special classes that wrap
@@ -241,15 +239,16 @@ switch (month)
   }
 
 
------------------------------- Functions
-//Lambda:
-//Func<int, int> square = (x) => x * x; // Last T item is the return value
+** Functions
+***Lambda:
+Func<int, int> square = (x) => x * x; 
+// Last T item is the return value
 
------------------------------- Examples
+** Examples
 
 
 
----------------------------------------- Language Specific Concepts:
+** Language Specific Concepts:
 
 Structs vs. Classes
 
@@ -303,11 +302,9 @@ public void ProcessPaperbackBooks(ProcessBookDelegate processBook)
       }
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
---------------------
-C#
---------------------
+** C#
+
 http://learnxinyminutes.com/docs/csharp/
 
 int[] array1 = new int[5];
@@ -373,13 +370,13 @@ class Person
     }
 }
 
-Structs vs. Classes
+** Structs vs. Classes
 
 classes are reference types and structs are value types.  By using
 structs, you can create objects that behave like the built-in types
 and enjoy their benefits as well.
 
-Heap or Stack?
+** Heap or Stack?
 
 When you call the New operator on a class, it will be allocated on the
 heap. 
@@ -391,7 +388,7 @@ classes. You will be working directly with the struct
 instance. Because of this, when passing a struct to a method, it's
 passed by value instead of as a reference.
 
-Delegates:
+** Delegates:
 
 A delegate in C# is similar to a function pointer in C or C++. Using a
 delegate allows the programmer to encapsulate a reference to a method

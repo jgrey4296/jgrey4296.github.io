@@ -1,58 +1,58 @@
---------------------
-Language: Perl
---------------------
+* Language: Perl
 
--------------------- Links
+** Links
 
--------------------- Inspection and Output:
+** Inspection and Output:
 
--------------------- Good Style
+   ref($variable) gives its type for comparison
 
--------------------- Compilation
+** Good Style
 
--------------------- Imports
+** Compilation
 
--------------------- Comments
+** Imports
 
-
--------------------- Whitespace and Statements
+** Comments
 
 
--------------------- Memory Management
-
--------------------- Value vs Reference 
+** Whitespace and Statements
 
 
--------------------- Scope
+** Memory Management
 
----------------------------------------- Basic Data Types
-
--------------------- Arithmetic
-
--------------------- Bitwise
-
--------------------- Strings
-
--------------------- Booleans
-
--------------------- Comparisons and Logic
+** Value vs Reference 
 
 
--------------------- Variables
+** Scope
+
+** Basic Data Types
+
+** Arithmetic
+
+** Bitwise
+
+** Strings
+
+** Booleans
+
+** Comparisons and Logic
 
 
----------------------------------------- Data Structures
-
--------------------- Arrays
-
--------------------- Objects
-
----------- Object Creation:
+** Variables
 
 
--------------------- Constructors
+** Data Structures
 
----------------------------------------- Control Structures
+** Arrays
+
+** Objects
+
+** Object Creation:
+
+
+** Constructors
+
+** Control Structures
 
 //IF
 if(true || false){};
@@ -79,23 +79,23 @@ switch(something){
     break;
 }
 
------------------------------- Functions
+** Functions
 
 
------------------------------- Examples
+** Examples
 
 
 
----------------------------------------- Language Specific Concepts:
+** Language Specific Concepts:
 
---------------------
-perl
---------------------
+
+* perl
+
 search.cpan.org/~ether/Task-Kensho-0.37/lib/Task/Kensho.pm
 http://perldoc.perl.org/index-language.html
 http://search.cpan.org/~cjm/HTML-Tree-5.03/lib/HTML/Element.pm
 
--------------------- File IO:
+** File IO:
     use IO::File;
 
     $fh = new IO::File;
@@ -130,7 +130,7 @@ http://search.cpan.org/~cjm/HTML-Tree-5.03/lib/HTML/Element.pm
 
     }
 
--------------------- General Notes:
+** General Notes:
 
 $scalar ,@array, %hash. add \ for references
 anonymous array []

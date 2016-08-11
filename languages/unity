@@ -1,67 +1,59 @@
---------------------
-Language: Unity
---------------------
+* Language: Unity
 
--------------------- Links
+** Links
 
--------------------- Inspection and Output:
+** Inspection and Output:
 
--------------------- Good Style
+** Good Style
 
--------------------- Compilation
+** Compilation
 
--------------------- Imports
+** Imports
 
--------------------- Comments
+** Comments
 
+** Whitespace and Statements
 
--------------------- Whitespace and Statements
+** Memory Management
 
+** Value vs Reference 
 
--------------------- Memory Management
+** Scope
 
--------------------- Value vs Reference 
+** Basic Data Types
 
+** Arithmetic
 
--------------------- Scope
+** Bitwise
 
----------------------------------------- Basic Data Types
+** Strings
 
--------------------- Arithmetic
+** Booleans
 
--------------------- Bitwise
+** Comparisons and Logic
 
--------------------- Strings
+** Variables
 
--------------------- Booleans
+** Data Structures
 
--------------------- Comparisons and Logic
+** Arrays
 
+** Objects
 
--------------------- Variables
+** Object Creation:
 
+** Constructors
 
----------------------------------------- Data Structures
+** Control Structures
 
--------------------- Arrays
-
--------------------- Objects
-
----------- Object Creation:
-
-
--------------------- Constructors
-
----------------------------------------- Control Structures
-
-//IF
+*** IF
 if(true || false){};
 
-//WHILE
+*** WHILE
 while(true){};
 do {} while(true);
 
-//FOR
+*** FOR
 for(var i = 0; i < 5; i++){}
 
 for(var x in a){
@@ -70,7 +62,7 @@ for(var x in a){
     }
 }
 
-//Switch:
+*** Switch:
 //checks for equality with ===
 //uses break;
 switch(something){
@@ -79,18 +71,15 @@ switch(something){
     break;
 }
 
------------------------------- Functions
+** Functions
+
+** Examples
+
+** Language Specific Concepts:
 
 
------------------------------- Examples
+* Unity:
 
-
-
----------------------------------------- Language Specific Concepts:
-
---------------------
-Unity:
---------------------
 http://docs.unity3d.com/Manual/UnityOverview.html
 http://www.beforegame.net/blog/scene-lighting-and-post-processing-in-before/#more-11
 
@@ -103,7 +92,7 @@ The script itself is assumed to define the class (parent MonoBehaviour) and file
 variables assumed to be public unless stated private
 create a public GameObject, and then click and drag in what needs to be tracked
 
--------------------- Standard Functions:
+** Standard Functions:
 #pragma strict
 
 //Called before first frame
@@ -146,17 +135,17 @@ function OnDestroy(){}
 //OnTriggerEnter,Stay,Exit when as a trigger
 function OnCollisionEnter(otherObj: Collision){}
 
--------------------- Debug:  
+** Debug:  
 Debug.Log()
 
 
--------------------- Coroutines: 
+** Coroutines: 
 yield //optional: WaitForSeconds(0.1);
 
 
 Templates: GetComponent.<Rigidbody>();
 
--------------------- Vector2: 
+** Vector2: 
 one, right, up, zero,
 magnitude, normalized, x, y
 Static : Max,Min, Lerp, Dot, Distance, Angle, Scale
