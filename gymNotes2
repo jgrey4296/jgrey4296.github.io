@@ -1,0 +1,29 @@
+rules are just nodes visualised in a different way. be able to switch back and forth as necessary
+let conditions be filters on specific nodes that you locate in the graph.
+new condition root.institution.actor..... etc
+updating the left half of the screen as necessary
+same for effects/actions. 
+could add in abl semantics, and rule-abl semantics, whatever they would be.
+mainly ability to describe parallel/sequential structural inforcments, in a similar way to what versu does.
+
+
+abstract the interface to fit into the metasteam framework. different modes are different visualisations and combinations of commands, operating on structures that are capable of visualising them
+Such modes are themselves structures that could fit on the graph. But mainly they are isomorphisms describing different domains of reasoning over the graph.
+The basic mode is structural at the moment. Rules add transformational. Facts add a existential component. Could add probabilistic isomorphism.
+Isomorphisms group other isos together in different ways, and can reference each other through interfaces.
+Each isomorphism describes a components:
+
+1) commands that can be enacted on the main Shell's graph, ie: addNode, removeNode, addSpecialNode (eg: addCondition), setValue, compile, enact...
+2) transform of data from the graph,
+3) display rules of that transformed data, ie: D3 visualisations
+4) the structures that can be added to the basic graph, that act as the iso's model or representational structures. ie: constructors for nodes, conditions, macros (eg: institutions) that could have an isomorphism later
+5) help information
+
+anything else?
+6) assessment routine. can use rules, but if a different structure is created, it can have its own separate eval routine. eg: CiFs volition rules.
+
+possibly be able to  write custom execution functions for nodes. 
+json export and representation to/from json could be cleaned up.
+
+
+need to add exceptions to the retenet.

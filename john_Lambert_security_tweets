@@ -1,0 +1,20 @@
+    What is the most important network security spend: Sensor appliances? SIEM? Threat intelligence feeds? It's your analyst team.
+
+    Defenders, you're not stopping attacks. You're increasing attacker requirements. 'Stopping' breeds a mindset ignorant of countermoves.
+
+    Your network is a directed graph of credentials. Hacking is graph traversal. See the graph or all you'll see is exfil.
+
+    Things go wrong right here. Admins focus on control to possess secrets. Hackers focus on secrets to possess control. Hackers are right.
+
+    On vulns: You can argue over exposure, difficulty, and likelihood. Security researchers write exploits because they like the truth.
+
+    Pentest is the most misused security practice. Pentest is diagnostic. Go from treating the bugs as output, to treating them as input.
+
+    Software engrs hide reality by using architecture over implementation. Hackers reveal reality by using implementation against architecture
+
+    Do security jobs need a degree? Remember self-taught hackers made most of our progress. When academia sits out, autodidacts show the way.
+
+    If you shame attack research, you misjudge its contribution. Offense and defense aren't peers. Defense is offense's child.
+
+    Biggest problem with network defense is that defenders think in lists. Attackers think in graphs. As long as this is true, attackers win
+
