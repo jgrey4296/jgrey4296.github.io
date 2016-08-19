@@ -1,12 +1,27 @@
 * Institutions 
 ** Introduction
+[[file:notes/argumentOverview::*On%20Inserting%20Ritual%20structure%20into%20social%20interactions][On Inserting Ritual structure into  social interactions]]
+[[file:notes/dissertationOutline::*Socio-Institutional%20Action][Possible Structure]]
+[[file:notes/evansNotes::*A%20Socio-Institutional%20Approach%20to%20Action][A Socio-Institutional Approach to Action]]
+[[file:notes/research/extracts::*Text%20extracts%20of%20interesting%20Cultural%20interactions:][Text extracts of interesting Cultural interactions:]]
+[[file:notes/research/extracts2::*Extracts%202][Extracts 2]]
+[[file:notes/research/extracts3::*Extracts%203][Extracts 3]]
+[[file:notes/research/sia::*SIA][SIA]]
+[[file:notes/tribeDescriptions::*Tribe%20Descriptions][Tribe Descriptions]]
 ** Related Work
-*** Games and IF
+[[file:notes/bookNotes::*General%20Books%20notes][General Books notes]]
+[[file:notes/culturalAntroNotes::*Cultural%20Anthropology%20notes][Cultural Anthropology notes]]
+*** [[file:General_Games.org::*General%20Games%20and%20IF][General Games and IF]]
 *** Nor-MAS systems
+Moise
 *** Institutional-Philosophical Systems (nomic)
 ** Norms
-** Institutions
+** [[file:phenomenologyOfInstitutions.org::*The%20Phenomenological%20Experience%20of%20Institutional%20Variation][The Phenomenological Experience of Institutional Variation]]
+** [[file:game_concepts.org::*Game%20Concepts][Game Concepts]]
+** [[file:Rational_Reconstructions.org::*Rational%20Reconstructions][Rational Reconstructions]]
 ** Implementations
+** [[file:institutions.lhs::Institutions.%20A%20Way%20of%20conceptualising%20social%20interactions%20and%20their%20interrelation][Formal Description of Institutions]]
+** [[file:notes/anotherAttempt::*Socio-Institutional%20Action][Socio-Institutional Action]]
 ** Conclusion
 In conclusion, I have shown how the systems in videogames are underdeveloped regarding institutions. 
 Institutions that are structured collections of norms, that the literature glosses over structural and mechanical descriptions of,
@@ -16,4 +31,8 @@ have only supported authored situations, lacking the ability to vary and generat
 By describing the structural and procedural components of existing historical institutions, it can be seen that 
 requirements of institutions to make sense are quite low.
 I have implemented, inspired by current Nor-MAS systems, a variety of social institutions, and varied them procedurally. 
+
+
+
+
 
