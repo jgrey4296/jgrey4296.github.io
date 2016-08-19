@@ -1,0 +1,32 @@
+* Rational Reconstructions
+** Dungeon of the Endless
+Generate a Maze, with a start point (the arriving elevator with crystal), and destination point (the next
+elevator). Take moves exploring, randomly adding power. Stream enemies spawned from unpowered rooms to the
+crystal. Then transport the crystal to the destination when found. Activate elevator, repeat. 
+
+** Shadow of Mordor / Redshirt
+[[https://www.rockpapershotgun.com/2013/07/29/hands-on-redshirt][redshirt review]]
+Hierarchical Organisation, with promotions, conflicts, removal, alliances, and weaknessses.
+
+** Papers Please
+Bureaucracy. Arbitrary Rules supplemented with further arbitrary rules.
+
+** X-Com
+Turn based movement around a map, based on sight lines. Minimal Health, DR, fixed damage weapons, particular
+additional skills. Item Equips.
+
+** Alien
+Movement about a map, performing tasks, avoiding/being hunted by an adversary. 
+
+** Stalker
+Rival factions fighting and raiding each other
+** Democracy
+Support for particular high level policies
+** Dota
+Teams moving around a symmetrical map, flows of mobs, steady levelling up and gain of stats, items paid for by goal
+** DF / SBDF-9 
+Individuals moving around a map, performing routine tasks. Growing food, cleaning, building.
+** Pokemon
+Turn based combat, collection, movement around a map, interactional conflict.
+** Borderlands
+Generated weapons with individual characteristics, and also brand characteristics.

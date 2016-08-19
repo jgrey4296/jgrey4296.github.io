@@ -1,0 +1,397 @@
+* Game Concepts
+** Institutional Modification
+*** Society Generator
+See Red Mars / Galactica / Walking Dead / other Post-apocalyptic
+stories.
+A linear set of challenges which define the rules of a society as it
+grows, which is then simulated afterwards.
+Eg: The choices of whether to ban or allow abortion, limit military
+control etc in Galactica set up a particular society. The difference
+is obvious when comparing Galactica to Pegasus.
+*** Social Leaders
+Designated individuals are Institutional Entrepreneurs, leading the
+way for how others should behave. Trump is an example for bringing out
+blatant racism. 
+*** Reified Policy Maker
+Red Mars.  Democracy connected to the Sims. The King of Dragon Pass.
+Seeing how prescribed, allowed, preferred behaviours shift general trends. Racially focused policing,
+essentially BLM / Police. Modelling agents knowing/anticipating the likelihood of positive or negative
+outcomes from interactions with others. Knowledge of minimum and maximum outcomes. If you know the worst a
+situation can get is only so much changes how you behave. Polite to people who, in the rules of the system can
+cause negative consequences. Rude to people who can't. Angry at someone going negative when the expectation is
+positive.
+
+*** Observable Democracy
+A Positech Democracy like simulation, but where actions are modelled,
+possibly sims like, that *shows* the consequences of legalising drugs
+/ banning firearms / increase in crime etc.
+
+
+*** Judiciary / Activist Judge
+Generate Criminal / Civil disputes, allow the player to set binding
+rulings, punishments, fines, and restrictions. Define the hierarchy of
+values for a society.
+
+See also: Graeber: Accounting in defunct Roman coinage / Slaves /
+Cows / Maidens.
+
+
+** Situation Models
+*** Squad Dynamics
+XCom doesn't include interactions between squad members. See MGS5's
+Diamond Dogs, with some soldiers getting put in the brig. MGS's
+weakness however is that the conflicts are left implicit, and aren't
+shown ever. 
+
+Soldiers joke, get nervous, shell-shocked, tired, and can hold
+grudges. As they get injured, they can get particular scars and
+prosthetics. The is similar to Elevator Conversations. 
+*** Apartment Block Simulator
+Simulate the interactions between individuals in an apartment block. Could think of JG Ballard's High Rise,
+Dredd, The Grand Budapest Hotel.
+*** Elevator Simulator
+Conversations between individuals in an elevator. Dungeon of the Endless. Mad Men.  The original thought I had
+from DotE was the awkward but character building conversations had going from one level to another. Take that
+and expand it to have connected conversations, interleaving: character, combat event recollection and
+discussion, and vying for social position.
+*** Elevator Conversations
+Dungeon of the Endless has conversations in the elevator, that hint at
+more complex modeling. Distrust, blame, optimism etc could all come
+into play during those elevator rides. Characters could refer back to
+events that happened in the level just gone.
+
+Conversations between individuals in an elevator. Dungeon of the Endless. Mad Men.  The original thought I had
+from DotE was the awkward but character building conversations had going from one level to another. Take that
+and expand it to have connected conversations, interleaving: character, combat event recollection and
+discussion, and vying for social position.
+*** Organisational Promotion Simulator
+Shadow of Mordor, Voyager. Gormenghast. The Night Watch
+
+*** Public Restroom simulator
+Inspired by North Carolina. Simulate Norms related to Bathroom. Parallels with Elevator simulator?  Such as
+Design, Occupancy, Organising principle (caste? gender? sexual orientation? organisational position? religion?
+
+
+*** Institution Play
+American Psycho / The Office / Parks and Rec / *Suits* like office
+games. Favours and grudges within bounds, reverting to working
+together when dealing with outside threats.
+
+*** Office Politics
+Similar to the Shadow of Mordor simulator. Inter office squabbles. Who likes and dislikes whom. 
+
+
+*** Space Colonies
+2312-like Terraria / Off world Colonies. The fragility of space
+living, and the influence of orbiting planets for travel and trade.
+
+*** Space Journey
+Gateway, Red Mars initial journey.
+
+*** Social Lemmings
+
+** Institutional Variation
+*** 'Go to the shops, I dare you'
+Sliders. Bill Bryson - At Home. John Brunner - Stand on Zanzibar. Alfred Bester.  Rick and Morty take it to
+the extreme.
+The idea of life being put in situations that are familiar, but which are varied in infinite ways. Some major
+(Philip K Dick: TMITHC. Nazi's won the war), to the very minor (There was no Elvis, someone else is 'The
+King'). Let Money be shells. Everyone Greets in a strange formal way. Clothing Styles.
+*** Country Differences
+
+Stand On Zanzibar compares broad descriptions of different
+countries. This could work well in a Positech Democracy style game.
+*** Social Roguelike
+Binding of Isaac / Dungeon of Dredmor style game. Generated maps, with
+social predicaments in collections of rooms instead of violent
+enemies. 
+Binding of Isaac style combination of a wide variety of pickups would
+be interesting. 
+Queuing as an example? Very British Problems?
+
+Games still prefer violence and combat to social interactions. Anne
+Sullivan highlights it, but what does it really mean to have social
+gameplay instead of combat focused gameply?  We can look at game
+dseign, and the systems that facilitate player to player social
+systems in games like Eve Online, and what Raph Loster has written
+about the variety of social gameplay mechanics that multiplayer games
+can use.
+
+His focus has typically been multiplayer games, but such mechanics
+should be able to be used for AI opponents as well.
+
+We can also look at how Cif and Versu enable social narratives to be
+encoded and reasoned about in computational systems.
+
+Going further, we can look at narratives and real world structures
+that describe the social gameplay that interests us.
+
+Organizations, Institutions, and politics. Red Mars and Discworld. The
+real, and fictional, worlds that exist in other media have no real
+equivalent as yet, but have suh potential.
+
+One important example is A Series of unfortunate events. A sequence of
+books that are all very simiar, but which the social system that
+surrounds the main characters changes dramatically each time.
+*** Newspaper Generator
+A Dynamic form of Papers Please' Newspaper. Just front page, but with a headline, a couple of subheadings,
+a few quotes, links to particular pages, smaller topics. Exposes, corruption, scandals, celebrities, the front
+page is definitional of what is 'newsworthy'. So model that society's representation of it's own
+understanding. 
+
+
+*** Censorship simulator. 
+Ministry of Truth in 1984, Censors in Media Positions today. The raw feed of actual actions, and the ability
+to choose what, or how much, to let through. 
+
+
+*** "Go Down to the Shops and Buy Some Milk"
+Sliders-style world variation, where the player needs to survive for a
+specified amount of time. 
+Alt: Institutionalized / Normalized violence against specific classes
+of people. Spawn as White / Black / Male / Female, and see how
+behaviours towards you change.
+
+
+
+** Institutionally Aware Design
+*** Socially Responsive RPGs
+
+Where players have to abide by the norms instead of looting peasants'
+houses.
+Downton Abbey, Upstairs/Downstairs, and Gosford Park are good
+examples.
+Social contracts of how a hierarcy behaves. Those upstairs have rules
+to abide by just as those downstairs.
+
+*** At Home
+The variations and peculiarities that Bill Bryson highlights,
+integrated into the Sims.
+
+*** Guild Politics
+Similar to Institution Play. Think Elder Scrolls, and Discworld's
+Night Watch and Wizards. 
+Wizards have rules on how they can assassinate others and climb the
+ranks, Night watch covers the behaviour of the police, and who
+supports whom. 
+
+Also of note: The Night Watch scene of the assassination of Lord
+Winder. Birds eye view of supporters and opposition, with intended
+steering of parties.
+
+Elder Scroll's Guilds don't particularly get you to do
+anything. Tithes, preferred / prohibited / obligated behaviours etc. 
+See Graeber for the cycle of debt that African trader institutions
+worked within.
+
+*** Monetary - Warfare - Slavery complex
+*** Post Invasion Occupation
+Star Trek DS-9. Subjugated populations. 
+
+*** Debt
+ie : David Graeber, Debt.
+*** Daily Life 
+ie: Bill Bryson, Home.
+
+*** Civil Institutions
+ie: Terry Pratchett: The Night Watch, Religion, Wizards, The Post Office/Clacks/Bank/Tax
+Also African Tribes/Max Gluckman/Elias
+
+
+
+** Accidents in Real Life
+The accidents of life. Tripping on the stairs, getting hit by a car, being ill.  Stubbing your toe, not
+getting enough sleep. The thousand and one ways in which mood and behaviour is shifted tiny amounts by
+unrelated elements.
+
+Games do not typically include concepts of accidents. Tripping,
+falling, hitting yourself accidentally. Swallowing food badly. We
+often fail at being human, or will accidentally break. Such events are
+what add uncertainty and stress to our lives. 
+Related: Douglas Adams pseudo fractures.
+
+
+
+* Prototype Ideas
+** Social Roguelike
+[[file:research/socialRoguelike][Social Roguelike Notes]]
+[[file:notes/research/socialRoguelike::*The%20Social%20Roguelike][The Social Roguelike]]
+
+Binding of Isaac / Dungeon of the endless
+influence,
+
+** Gormenghast Sim
+
+Maze of rooms generator with rituals and tradition
+to match. Cif overlay of individuals with power
+plays
+
+** Kraken Wakes
+
+Narrative focused apocalypse sim by John Wyndham.
+
+** Veil of ignorance / Red Mars spaceship society generator
+
+Galactica / Red Mars / Foundation inspired
+repeated crisis point and shift to generate a
+society.
+
+** Sol System
+
+Possibly merge with the above, but Horus Heresy
+style ship to ship combat and planet invasion
+House on haunted hill style reversal of
+allegiances.
+
+** Thud
+   
+As close a translation as i can manage of the
+discworld game.
+
+** Walking Sim
+
+Something peaceful
+
+** Titan
+
+Dynamic LOD based game of scales, titans walking
+around with villages on top. Zelda like story
+would work well here.
+
+** Obselete
+
+*** People/Ant Farm
+
+Similar to the sims, but where you have no control
+apart from given them general AI behaviours.
+
+*** AI Hotel
+   
+Playing as the AI hotel from Altered Carbon
+
+*** City Gen
+   
+General attempt to make a city generator that can
+do blocks and english organic growth styles.
+Possibly incorporate churches in to.
+
+*** Fencing
+
+Transistor inspired turned based fluidic movement
+of foils, sabres, and epee's. Possibly used as the
+combat for the social roguelike.
+
+*** Unnamed Horror
+
+Ghost's Hinzerhaus inspired soldier management.
+
+*** American Psycho Sim
+
+The social power plays of Patrick Bateman. Meeting
+cards, lunches at restaurants, dynamic
+conversation, With a bit of going postal thrown in
+to.
+
+*** Boarding School Power Plays
+
+Similar to above, possibly related to unnamed
+horror.
+
+*** Commander Keen Copy
+
+Like the class, and RORC
+
+*** Risk of Rain Copy (RORC)
+
+Narrative-lite, focus on generation of levels and
+shooting and wotnot
+
+*** DOW 2 / Last Stand Copy
+
+Arena based semi rts/rpg class based play.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+** General Ideas to Sort
+
+
+the court politics of discworld's night watch, of
+the west wing and house of cards, combined with
+the societal change due to decisions that result
+in a red mars like society builder. If CiF and
+Praxis represent a computationalised model of
+charismatic power, then it could be combined with
+simplistic rule systems for the legal-rational and
+moral sides of power.
+
+Conflict would arise from individuals assessments
+of how best to use resources, what rules to
+enforce etc, and changes would be brought about by
+making use of the three forms of power to get
+votes. Thus: computational republic.
+
+There are two sides to this plan. One the one hand
+is the individual interactions that realise power,
+and on the other is the manifestations of that
+power into societal structures.  Games like Prom
+Week, Wolf Among us, and Mass Effect are closer
+aligned with the former. You don't really need to
+strategise about keeping people under your thumb,
+or the capabilities of an individual you are going
+to blackmail.
+
+Linked with this is the emphasis on *time*. in
+that time needs to progress, slowly but steadily,
+as you manipulate. This is different from there
+being a timer on things. The closest I can think
+of that gets to this is dead rising, or majora's
+mask. The repeated pattern of days lets you plan
+things out, but in those games only physically.
+
+If you can daily schedules, then you can plan
+other actions, such as social actions. Set in
+motion slow mentions of things, train individuals
+to respond to particular cues. (in this way i'm
+getting towards hannibal style gameplay).
+
+So: Interpersonal Power interactions situated in
+cyclical time. Charismatic, legal-rational,
+economic, and moralistic among others, as the
+basis for manipulating the institutional
+structures to get what you want. Imperfect and
+changing information is a must, as is the need for
+misunderstandings of authority.
+
+FTL crossed with under the dome, difficulties that
+make you rely on people you can't trust, forming
+alliances for as long as you need.
+
