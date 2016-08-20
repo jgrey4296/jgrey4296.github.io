@@ -1,0 +1,170 @@
+* JASS Notes
+** A Computational Model of Worker Protest
+Kim and Hanneman (2011)
+
+** Societies, cultures and fisheries from a modeling perspective
+Weisbuch and Duchateau-Nguyen (1998)
+
+** A Context- and Scope-Sensitive Analysis of Narrative Data to Aid the Specification of Agent Behaviour
+Edmonds (2015)
+
+** Considering a Multi-Level Model as a Soceity of Interactive Models: Application to a Collective Motion Example
+Camus, Bourjot and Chevrier (2015)
+
+** Extracting OWL Ontologies from Agent-Based Models: A Netlogo Extension
+Polhill (2015)
+
+** A Virtual Laboratory for the study of History and Cultural Dyanmics
+Suarezz and Sancho (2011)
+
+** Economic Performance, Inter-Firm Relations and Local Institutional Engineering in a Computational Prototype of Industrial Districts
+Squazzoni and Boero (2002)
+
+** Social Reputation: A Mechanism for Flexible Self-Regulation of Multiagent Systems
+Hahn, Fley, Florian, Spresny and Fischer (2007)
+
+** Governments, Civilians, and the Evolution of Insurgency: Modeling the Early Dynamics of Insurgencies
+Bennett (2008)
+
+** Explaining Simulations Through Self Explaining Agents
+Harbers, Meyer, and van den Bosch (2010)
+
+** Between Replication and Docking: "Adaptive Agents, Political Institutions, and Civic Traditions" Revisited
+Miodownik, Cartrite and Bhavnani (2010)
+
+** Modeling the Emergence of Possession Norms using Memes
+Flentge, Polani and Uthmann (2001)
+
+** Emergence and Collapse of the Norm of Resource Sharing Around Locally Abundant Resources
+Horiuchi (2015)
+
+** Agent-Based Modeling: The Next 15 Years
+Hamill (2010)
+
+** Normative Reputation and the costs of compliance
+Castelfranchi, Conte, and Paolucci (1998)
+
+** A Pragmatic Reading of Friedman's Methodological Essay and What It Tells Us for the Discussion of ABMs
+Deichsel and Pyka (2009)
+
+** Generating Social Practices
+Holtz (2014)
+
+** An Agent-Based Representation of the Garbage Can Model of Organizational Choice
+Fioretti and Lomi (2008)
+
+** Modelling Social Systems as Complex: Towards a social simulation meta-model
+Goldspink (2000)
+
+** Grounded Simulation
+Neumann (2015)
+
+** Introducing Emotions into the Computational Study of Social Norms: A First Evaluation
+Staller and Petta (2001)
+
+** The Current State of Normative Agent-Based Systems
+Hollander and Wu (2011)
+
+** The Origin of Institutions: Socio-economic processes, choice, norms and conventions
+Caldas and Coelho (1999)
+
+** Understanding Complex Social Dynamics: A Plea For Cellular Automata Based Modelling
+Hegselmann and Flache (1998)
+
+** Norm and Internalisation in Human and Artificial Intelligence
+Neumann (2010)
+
+** Homo Socionicus: A Case Study of Simulation Models of Norms
+Neumann (2008)
+
+** Narrative Intelligence from the Bottom Up: A Computational Framework for the Study of Story-Telling in Autonomous Agents
+Dautenhahn and Coles (2001)
+
+** MAS-SOC: a Social Simulation Platform Based on Agent-Oriented Programming
+Bordini et al (2005)
+
+** Simulating Correctional Disturbances: The Application of Organization Control Theory to Correctional Organizations via Computer Simulation
+Patrick, Dorman and Marsh (1999)
+
+** Obligation Norm Identification in Agent Societies
+Savarimuthu, Cranefield, Purvis and Purvis (2010)
+
+** Simulating Norms, Social Inequality, and Functional Change in Artificial Societies
+Saam and Harrer (1999)
+
+** Using Social Simulation to Explore the Dynamics at Stake in Participatory Research
+Barreteau and Le Page (2011)
+
+** Appearances can be decieving: Lessons Learned Re-Implementing Axelrod's 'Evolutionary Approach To Norms'
+Galan and Izquierdo (2005)
+
+** TODO Programming Institutional Facts
+
+** My Kingdom for a Function: Modeling Misadventures of the Innumerate
+Agar (2003)
+
+** MAIA: A Framework for Developing Agent-Based Social Simulations
+Ghorbani, Bots, Dignum and Dijkema (2013)
+
+** Tools of the Trade: A Survey of arious Agent Based Modeling Platforms
+Nikolai and Madey (2009)
+
+** Structuring Qualitative Data for Agent-Based Modelling
+Ghorbani, Dijkema and Schrauwen (2015)
+
+** The Multi-Agent Modelling Language and the Model Design Interface
+Gulyas, Kozsik and Corliss (1999)
+
+** How can Social Networks Ever Become Complex? Modelling the Emergence of Complex Networks from Local Social Exchanges
+Pujol, Flache, Delgado and Sanguesa (2005)
+
+** Role-Playing Games, Models and Negotiation Processes
+Barreteau, Le Page and D'Aquino (2003)
+
+** How Do Agents Make Decisions? A Survey
+Balke and Gilbert (2014)
+
+** Formal Systems and Agent-Based Social Simulation = Null?
+Fasli (2004)
+
+** The Effects of Network Structure on the Emergence of Norms in Adaptive Populations
+Froncek (2015)
+
+** The Development of Social Simulation as Reflected in the First Ten Years of JASSS: A Citation and Co-Citation Analysis
+Meyer, Lorscheid and Troitzsch (2009)
+
+** From Social Monitoring to Normative Influence
+Conte and Dignum (2001)
+
+** Pair Interactions: Real and Perceived Attitudes
+Pearson and Boudarel (2001)
+
+** Typical Pitfalls of Simulation Modeling - Lessons Learned from Armed Forces and Business
+Barth, Meyer and Spitzner (2012)
+
+** Leadership in Small Societies
+Younger (2010)
+
+** Learning Dilemmas in a Social-Ecological System: An Agent-Based Modeling Exploration
+Bohensky (2014)
+
+** It Pays to Be Popular: A Study of Civilian Assistance and Guerilla Warfare
+Wheeler (2005)
+
+** Using Qualitative Evidence to Inform the Specification of Agent-Based Models
+Edmonds (2015)
+
+** Combining Institutional Frameworks and Agent-Based Simulation for the Design of Enforcement Policies
+Balke, De Vos (2012)
+
+** Normative Multi-Agent Systems
+Andrighetto et All 
+
+** A Model for the Structural, Functional, and Deontic Specification of Organizations in Mutliagent Systems
+Hubner, Sichman and Boissier
+(Moise)
+
+** Netlogo
+
+
+
