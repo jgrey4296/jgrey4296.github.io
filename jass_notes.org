@@ -19,14 +19,100 @@ Camus, Bourjot and Chevrier (2015)
 *** [[./web_pages/Explaining Simulations Through Self Explaining Agents.html][Explaining Simulations Through Self Explaining Agents]]
 Harbers, Meyer, and van den Bosch (2010)
 
-*** [[./web_pages/Maria Fasli_ Formal Systems ∧ Agent-Based Social Simulation = ⊥?.html][Formal Systems and Agent-Based Social Simulation = Null?]]
+*** [[./web_pages/Maria Fasli_ Formal Systems and Agent-Based Social Simulation = Null?.html][Formal Systems and Agent-Based Social Simulation = Null?]]
 Fasli (2004)
-
 *** [[./web_pages/Rosaria Conte and Frank Dignum_ From Social Monitoring to Normative Influence.html][From Social Monitoring to Normative Influence]]
 Conte and Dignum (2001)
 
-*** [[./web_pages/Generating Social Practices.html][Generating Social Practices]]
+*** TODO [[./web_pages/Generating Social Practices.html][Generating Social Practices]]
 Holtz (2014)
+
+**** Results
+     Simulation model able to generate social practices
+     Mechanism for Behavioural lock-in identified 
+
+**** Background
+     
+
+***** TODO Social Practice Theory?
+      " Social practices involve consumption as performing the
+      respective activities requires the usage of material artefacts
+      as well as resources such as energy and water. Hence social
+      practices such as showering (almost) every day or doing the
+      laundry according to a specific standard of cleanness
+      (Shove 2004) have a large impact on a society's resource use."
+
+----
+      "Jackson (2005) notes that "… our understanding of the dynamics
+      of social practice, of the ways in which social practices
+      evolve, and of the interaction between policy and social
+      practice is as yet so limited that it would be difficult to see
+      how policy could make use of this position…" (p. 63). "
+      
+      JACKSON, T. (2005). Motivating Sustainable Consumption – a review of
+      evidence on consumer behaviour and behavioural change. A report
+      to the Sustainable Development Research Network.
+----
+
+	 Giddens - Structuration mediates between actors and structure. 
+     Extended by Schatzki and Reckwitz.
+
+     ( RECKWITZ, A. (2002). Toward a Theory of Social
+     Practices. European Journal of Sociology, 5(2), 243–263. )
+
+     "Individuals are seen as the 'carriers of practices' who do not
+     freely choose between practices based on utility or similar
+     individualistic concepts but are 'recruited' to practices
+     according to their background and history (Reckwitz 2002)"
+
+----
+
+	SHOVE, E., & Pantzar, M. (2005). Consumers, Producers and
+	Practices. Journal of Consumer Culture, 5(1),
+	43–64. [doi:10.1177/1469540505049846]
+
+    "Conceptualised the role of the material (bodily activities,
+    technological artefacts) in social practices, that was mostly
+    neglected in early practice theories, but which is crucial for
+    analysing environmental effects of practices."
+
+    A Practice is a configuration of three components: material, meaning and competence.
+
+----
+
+	"SPT doesn't conceptualise how the components 'glue together',
+	ie. why certain elements form 'succesful' practices which diffuse
+	and are maintained by a substantial part of society while other
+	constellations of elements do not succeed."
+
+**** Conceptual framework of social practices
+
+***** Components
+      Social practices as weak emergent property of the interaction of individual, compoents etc.
+      Only first order convergence considered, not macro-level properties.
+      Components linked by individuals when carrying out a practice.
+
+****** Material
+       Physical aspects of the performance of a practice. 
+****** Meaning
+       understandings, beliefs, emotions
+****** Competence
+       skills and knowledge which are required to perform the practice. 
+       eg: driving skills, knowledge of public transport routes.
+
+***** Coherence
+     Coherence elaborated by Holtz.
+     ( HOLTZ, G. (2012a). Coherence of social practices: the case of
+     meat consumption. Unpublished working
+     paper. http://www.usf.uos.de/institut/publikationen/forschungsgruppen/rem.html )
+     ( HOLTZ, G. (2012b). An agent-based model of social practices. ESSA 2012 Proceedings. )
+
+****** Cognitive consitency
+       (alighning behaviours with beliefs / deontics)
+       ie: meaning and material must fit.
+
+****** habits over deliberated decisions
+       ie: competence and material must fit.
 
 *** [[./web_pages/Homo Socionicus.html][Homo Socionicus: A Case Study of Simulation Models of Norms]]
 Neumann (2008)
@@ -58,23 +144,19 @@ Hollander and Wu (2011)
 *** [[./web_pages/José Castro Caldas and Helder Coelho_ The Origin of Institutions.html][The Origin of Institutions: Socio-economic processes, choice, norms and conventions]]
 Caldas and Coelho (1999)
 
+*** [[./web_pages/Guido Fioretti and Alessandro Lomi_ An Agent-Based Representation of the Garbage Can Model of Organizational Choice.html][An Agent-Based Representation of the Garbage Can Model of Organizational Choice]]
+Fioretti and Lomi (2008)
+
 ** Seconday
 
 *** [[./web_pages/A Computational Model of Worker Protest.html][A Computational Model of Worker Protest]]
 Kim and Hanneman (2011)
-
 *** [[./web_pages/A Context- and Scope-Sensitive Analysis of Narrative Data to Aid the Specification of Agent Behaviour.html][A Context- and Scope-Sensitive Analysis of Narrative Data to Aid the Specification of Agent Behaviour]]
 Edmonds (2015)
-
 *** [[./web_pages/A Pragmatic Reading of Friedman's Methodological Essay and What It Tells Us for the Discussion of ABMs.html][A Pragmatic Reading of Friedman's Methodological Essay and What It Tells Us for the Discussion of ABMs]]
 Deichsel and Pyka (2009)
-
 *** [[./web_pages/A Virtual Laboratory for the Study of History and Cultural Dynamics.html][A Virtual Laboratory for the study of History and Cultural Dyanmics]]
 Suarezz and Sancho (2011)
-
-*** [[./web_pages/Guido Fioretti and Alessandro Lomi_ An Agent-Based Representation of the Garbage Can Model of Organizational Choice.html][An Agent-Based Representation of the Garbage Can Model of Organizational Choice]]
-Fioretti and Lomi (2008)
-
 *** [[./web_pages/Between Replication and Docking.html][Between Replication and Docking: "Adaptive Agents, Political Institutions, and Civic Traditions" Revisited]]
 Miodownik, Cartrite and Bhavnani (2010)
 
@@ -83,10 +165,8 @@ Squazzoni and Boero (2002)
 
 *** [[./web_pages/Emergence and Collapse of the Norm of Resource Sharing Around Locally Abundant Resources.html][Emergence and Collapse of the Norm of Resource Sharing Around Locally Abundant Resources]]
 Horiuchi (2015)
-
 *** [[./web_pages/Extracting OWL Ontologies from Agent-Based Models.html][Extracting OWL Ontologies from Agent-Based Models: A Netlogo Extension]]
 Polhill (2015)
-
 *** [[./web_pages/Governments, Civilians, and the Evolution of Insurgency.html][Governments, Civilians, and the Evolution of Insurgency: Modeling the Early Dynamics of Insurgencies]]
 Bennett (2008)
 
