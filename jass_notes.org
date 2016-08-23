@@ -24,7 +24,7 @@ Fasli (2004)
 *** [[./web_pages/Rosaria Conte and Frank Dignum_ From Social Monitoring to Normative Influence.html][From Social Monitoring to Normative Influence]]
 Conte and Dignum (2001)
 
-*** TODO [[./web_pages/Generating Social Practices.html][Generating Social Practices]]
+*** DONE [[./web_pages/Generating Social Practices.html][Generating Social Practices]]
 Holtz (2014)
 
 **** Results
@@ -114,6 +114,28 @@ Holtz (2014)
 ****** habits over deliberated decisions
        ie: competence and material must fit.
 
+***** social sharing practices
+
+****** adapt meaning to material
+       eg: learning about the environmental effects of car use may choose to go by bike
+
+****** adapt competence to material
+       eg: introduction of congestion charge in London + public
+       transport investment to change transport preferences
+
+****** habituation
+       reinforced situation-goal-response connections.
+       Two different modes of behaviour: 
+******* deliberate choice of material
+******* habitual behaviour keeping current material
+
+****** adapt material
+       
+****** exchange meaning
+
+**** Implementation
+     Simple bitstrings. 
+
 *** [[./web_pages/Homo Socionicus.html][Homo Socionicus: A Case Study of Simulation Models of Norms]]
 Neumann (2008)
 
@@ -147,7 +169,7 @@ Caldas and Coelho (1999)
 *** [[./web_pages/Guido Fioretti and Alessandro Lomi_ An Agent-Based Representation of the Garbage Can Model of Organizational Choice.html][An Agent-Based Representation of the Garbage Can Model of Organizational Choice]]
 Fioretti and Lomi (2008)
 
-** Seconday
+** Secondary
 
 *** [[./web_pages/A Computational Model of Worker Protest.html][A Computational Model of Worker Protest]]
 Kim and Hanneman (2011)
