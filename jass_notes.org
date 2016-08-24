@@ -124,8 +124,8 @@ Holtz (2014)
        transport investment to change transport preferences
 
 ****** habituation
-       reinforced situation-goal-response connections.
-       Two different modes of behaviour: 
+       reinforced situation-goal-response connections.  Two different
+       modes of behaviour:
 ******* deliberate choice of material
 ******* habitual behaviour keeping current material
 
@@ -134,7 +134,7 @@ Holtz (2014)
 ****** exchange meaning
 
 **** Implementation
-     Simple bitstrings. 
+     Simple bitstrings.
 
 *** [[./web_pages/Homo Socionicus.html][Homo Socionicus: A Case Study of Simulation Models of Norms]]
 Neumann (2008)
@@ -149,7 +149,7 @@ Flentge, Polani and Uthmann (2001)
 Goldspink (2000)
 
 *** [[./web_pages/dfu-vol4-complete.pdf][Normative Multi-Agent Systems]]
-Andrighetto et All 
+Andrighetto et All
 
 *** [[./web_pages/Olivier Barreteau, Christophe Le Page and Patrick D'Aquino_ Role-Playing Games, Models and Negotiation Processes.html][Role-Playing Games, Models and Negotiation Processes]]
 Barreteau, Le Page and D'Aquino (2003)
@@ -168,6 +168,67 @@ Caldas and Coelho (1999)
 
 *** [[./web_pages/Guido Fioretti and Alessandro Lomi_ An Agent-Based Representation of the Garbage Can Model of Organizational Choice.html][An Agent-Based Representation of the Garbage Can Model of Organizational Choice]]
 Fioretti and Lomi (2008)
+
+*** [[./web_pages/Castelfranchi - Towards Institutional Actions.pdf][Towards Institutional Actions ]]
+    Castelfranchi - 2005
+
+    "Institutions are usually conceived as normative systems that
+    structure social interactions" Economic models focus on 'the rules
+    of the game' of:
+    1) in the interest of individual agents
+    2) that solve cooperation dilemmas
+
+    Searle adds their conceptual nature into the mix, enabling
+    constraint and influence on action capabilities, and normative consequences.
+
+    As with Searle, Castelfranchi "takes the institutional actions as
+    pior to the institution objects".
+
+    Triadic Relation of:
+    "X, seen as a token of a CT, counts as Y in C"
+
+    "The double empowerment of tools and artifacts"
+    
+    On Function - "an external goal placed on a system that results in
+    a transformation of the structural properties of the system",
+    which "modify the shape of the system"
+
+    Finalities of the action set A are:
+    1) The subset a that produces effects unintended by, and unknown to the agent.
+
+    Functional aspects are:
+    1) Any item in the agent that produces the unintended effect through a casual feedback loop
+       
+    
+
+**** Commentary
+     C / Searle are taking actions as prior to  objects. How does this relate to Graeber / Debt?
+     Debt exists before Money, but C uses the example of paying -> money.
+
+     So:
+     Paying -> Money
+     Debt -> Money
+     As:
+     Institutional Action -> Institutional Object
+
+     But is this really the case?
+     Debt is an institutional concept, rather than an Action. 
+     It is closer to Holtz three component distinction. Material, Meaning, Competence.
+     So:
+     Paying -> Material
+     Money -> Artifact? 
+     Debt -> Meaning
+     ?    -> Competence
+
+     Institutions are resonant groups of reinforcing actions, whose consequences are 
+     unintended / non-obvious.
+
+     
+
+
+*** TODO Four Types of Moral Wriggle Room
+    
+    
 
 ** Secondary
 
