@@ -395,3 +395,43 @@ FTL crossed with under the dome, difficulties that
 make you rely on people you can't trust, forming
 alliances for as long as you need.
 
+
+** Rimworld thoughts
+Rimworld, along with Prison architect, have a level of graphical interface quit distinct from Dwarf Fortress, URR, the Sims, Versu, and Prom Week.
+It defines a (relatively) small set of physical/viewable information, plus plain textual descriptions for non-visually perceivable information.
+There is a defined technical model of physical changes to the world, that characters respond to and and interfere with, manipulating the world around them.
+They also have perceptions of the non-visually represented aspects of the world, and social concepts.
+
+(Modal Opportunities: Similar to Sims Smart Objects)
+(Galactica related: A system where you have a simulation running, that searches somewhat randomly thought the state space for N number of turns, selects the most interesting,
+and then presents options to the player, those decisions used to dramatically influence the simulation, step by step society evolution, creating institutions and patterns of behaviour)
+
+(Sort of Ridcully/Science of Discworld-like: "I only stepped away for dinner, the little buggers went all religious, imprisoned the unbelievers, had a civil war and now have a memorial every year)
+
+(Rule systems as layered semiotically? Iconic, Referential, Symbolic? (Communicative as a separate category for simulation coherence?))
+
+Symbolics with different types, consuming tags, rejecting others.
+
+So:
+
+Physical World (Searlian Brute Facts) -> Visual Representations (Colour, Shape etc)
+                                      -> Textual Representation (Temperature, Sound, Texture, Characteristics, Causal Modal Opportunities from the Technical Model of the world)
+
+Phyiscal World(V+T) -> Causal Technical Model of the World (Brute Rules)
+                    -> Individuals (Collections of Data) 
+
+Individuals -> Strategy for interaction with the Technical Model (Physical Requirements: Eat, Sleep, Temperature)
+            -> Strategies for causal improvement of the Environment (Upgrade items, increase efficiency / output, 
+            -> Rules for interpretation of the technical model into Semiotic/Institutional Facts (Monadic Lifting functions of Brute -> Institutional)
+            -> Rules for Pure Symbolic rules (Institutional -> Institutional)
+            -> Rules for Symbolic -> Brute actions
+            -> Rules for action on other rules (Permissions, Weightings, Condition/Consequence modification)
+            -> Known (Brute/Institutional) Facts
+            -> Social Influence
+
+Social Influence -> bleed through of rules from others?
+
+
+----
+
+
