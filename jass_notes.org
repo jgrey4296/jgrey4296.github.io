@@ -426,7 +426,28 @@ Fioretti and Lomi (2008)
 
 
 *** TODO Four Types of Moral Wriggle Room
-    
+
+*** TODO Programming Institutional Facts
+
+*** [[./web_pages/Cristiano Castelfranchi, Rosaria Conte and Mario Paolucci_ Normative reputation and the costs of compliance.html][Normative Reputation and the costs of compliance]]
+Castelfranchi, Conte, and Paolucci (1998)
+
+*** TODO [[./web_pages/Typical Pitfalls of Simulation Modeling - Lessons Learned from Armed Forces and Business.html][Typical Pitfalls of Simulation Modeling - Lessons Learned from Armed Forces and Business]]
+Barth, Meyer and Spitzner (2012)
+
+*** TODO [[./web_pages/Tools of the Trade.html][Tools of the Trade: A Survey of various Agent Based Modeling Platforms]]
+Nikolai and Madey (2009)
+
+*** DONE [[./web_pages/Kerstin Dautenhahn and Steven J. Coles_ Intelligence from the Bottom Up.html][Narrative Intelligence from the Bottom Up: A Computational Framework for the Study of Story-Telling in Autonomous Agents]]
+Dautenhahn and Coles (2001)
+
+	Levels of narrative intelligence:
+    0) "Grandfather Model" of Schank and Abelson. *Essentially a
+       Doorbell*.
+    1) Random selection of stories to tell
+    2) Eliza-like contextual storytellers.
+    3) Interpretive/ encode and retrieval based storyteller
+    4) Human narrative intelligence.
     
 
 ** Secondary
@@ -479,24 +500,16 @@ Bordini et al (2005)
 *** [[./web_pages/Michael Agar_ My Kingdom for a Function.html][My Kingdom for a Function: Modeling Misadventures of the Innumerate]]
 Agar (2003)
 
-*** [[./web_pages/Kerstin Dautenhahn and Steven J. Coles_ Intelligence from the Bottom Up.html][Narrative Intelligence from the Bottom Up: A Computational Framework for the Study of Story-Telling in Autonomous Agents]]
-Dautenhahn and Coles (2001)
-
 *** [[./web_pages/NetLogo 5.3.1 User Manual.html][Netlogo]]
 
 *** [[./web_pages/Norm Internalisation in Human and Artificial Intelligence.html][Norm and Internalisation in Human and Artificial Intelligence]]
 Neumann (2010)
-
-*** [[./web_pages/Cristiano Castelfranchi, Rosaria Conte and Mario Paolucci_ Normative reputation and the costs of compliance.html][Normative Reputation and the costs of compliance]]
-Castelfranchi, Conte, and Paolucci (1998)
 
 *** [[./web_pages/Obligation Norm Identification in Agent Societies.html][Obligation Norm Identification in Agent Societies]]
 Savarimuthu, Cranefield, Purvis and Purvis (2010)
 
 *** [[./web_pages/Pearson and Boudarel_ Pair Interactions.html][Pair Interactions: Real and Perceived Attitudes]]
 Pearson and Boudarel (2001)
-
-*** TODO Programming Institutional Facts
 *** [[./web_pages/Steven Patrick, Patricia M. Dorman and Robert L. Marsh _ Simulating Correctional Disturbances.html][Simulating Correctional Disturbances: The Application of Organization Control Theory to Correctional Organizations via Computer Simulation]]
 Patrick, Dorman and Marsh (1999)
 
@@ -514,12 +527,6 @@ Froncek (2015)
 
 *** [[./web_pages/László Gulyás, Tamás Kozsik, John. B. Corliss_ The Multi-Agent Modelling Language and the Model Design Interface.html][The Multi-Agent Modelling Language and the Model Design Interface]]
 Gulyas, Kozsik and Corliss (1999)
-
-*** [[./web_pages/Tools of the Trade.html][Tools of the Trade: A Survey of arious Agent Based Modeling Platforms]]
-Nikolai and Madey (2009)
-
-*** [[./web_pages/Typical Pitfalls of Simulation Modeling - Lessons Learned from Armed Forces and Business.html][Typical Pitfalls of Simulation Modeling - Lessons Learned from Armed Forces and Business]]
-Barth, Meyer and Spitzner (2012)
 
 *** [[./web_pages/Rainer Hegselmann and Andreas Flache_ Understanding Complex Social Dynamics.html][Understanding Complex Social Dynamics: A Plea For Cellular Automata Based Modelling]]
 Hegselmann and Flache (1998)
