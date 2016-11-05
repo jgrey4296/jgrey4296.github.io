@@ -1,28 +1,5 @@
 * JASS Notes
 ** Primary
-*** [[./web_pages/Huber-sbia2002.pdf][A Model for the Structural, Functional, and Deontic Specification of Organizations in Mutliagent Systems]]
-Hubner, Sichman and Boissier
-(Moise)
-
-*** [[./web_pages/Agent-Based Modelling.html][Agent-Based Modeling: The Next 15 Years]]
-Hamill (2010)
-
-*** [[./web_pages/Jose Manuel Galan and Luis R. Izquierdo_ Appearances Can Be Deceiving.html][Appearances can be decieving: Lessons Learned Re-Implementing Axelrod's 'Evolutionary Approach To Norms']]
-Galan and Izquierdo (2005)
-
-*** [[./web_pages/ai_law_submitted.pdf][Combining Institutional Frameworks and Agent-Based Simulation for the Design of Enforcement Policies]]
-Balke, De Vos (2012)
-
-*** [[./web_pages/Considering a Multi-Level Model as a Society of Interacting Models.html][Considering a Multi-Level Model as a Soceity of Interactive Models: Application to a Collective Motion Example]]
-Camus, Bourjot and Chevrier (2015)
-
-*** [[./web_pages/Explaining Simulations Through Self Explaining Agents.html][Explaining Simulations Through Self Explaining Agents]]
-Harbers, Meyer, and van den Bosch (2010)
-
-*** [[./web_pages/Maria Fasli_ Formal Systems and Agent-Based Social Simulation = Null?.html][Formal Systems and Agent-Based Social Simulation = Null?]]
-Fasli (2004)
-*** [[./web_pages/Rosaria Conte and Frank Dignum_ From Social Monitoring to Normative Influence.html][From Social Monitoring to Normative Influence]]
-Conte and Dignum (2001)
 
 *** DONE [[./web_pages/Generating Social Practices.html][Generating Social Practices]]
 Holtz (2014)
@@ -135,6 +112,167 @@ Holtz (2014)
 
 **** Implementation
      Simple bitstrings.
+
+*** DONE [[./web_pages/Kerstin Dautenhahn and Steven J. Coles_ Intelligence from the Bottom Up.html][Narrative Intelligence from the Bottom Up: A Computational Framework for the Study of Story-Telling in Autonomous Agents]]
+Dautenhahn and Coles (2001)
+
+	Levels of narrative intelligence:
+    0) "Grandfather Model" of Schank and Abelson. *Essentially a
+       Doorbell*.
+    1) Random selection of stories to tell
+    2) Eliza-like contextual storytellers.
+    3) Interpretive/ encode and retrieval based storyteller
+    4) Human narrative intelligence.
+*** [[./web_pages/Huber-sbia2002.pdf][A Model for the Structural, Functional, and Deontic Specification of Organizations in Mutliagent Systems]]
+Hubner, Sichman and Boissier
+(Moise)
+
+*** [[./web_pages/Agent-Based Modelling.html][Agent-Based Modeling: The Next 15 Years]]
+Hamill (2010)
+
+*** [[./web_pages/Jose Manuel Galan and Luis R. Izquierdo_ Appearances Can Be Deceiving.html][Appearances can be decieving: Lessons Learned Re-Implementing Axelrod's 'Evolutionary Approach To Norms']]
+Galan and Izquierdo (2005)
+
+*** TODO [[./web_pages/ai_law_submitted.pdf][Combining Institutional Frameworks and Agent-Based Simulation for the Design of Enforcement Policies]]
+Balke, De Vos (2012)
+
+*** [[./web_pages/Considering a Multi-Level Model as a Society of Interacting Models.html][Considering a Multi-Level Model as a Soceity of Interactive Models: Application to a Collective Motion Example]]
+Camus, Bourjot and Chevrier (2015)
+
+*** [[./web_pages/Explaining Simulations Through Self Explaining Agents.html][Explaining Simulations Through Self Explaining Agents]]
+Harbers, Meyer, and van den Bosch (2010)
+
+*** [[./web_pages/Maria Fasli_ Formal Systems and Agent-Based Social Simulation = Null?.html][Formal Systems and Agent-Based Social Simulation = Null?]]
+Fasli (2004)
+*** [[./web_pages/Rosaria Conte and Frank Dignum_ From Social Monitoring to Normative Influence.html][From Social Monitoring to Normative Influence]]
+Conte and Dignum (2001)
+
+*** [[./web_pages/Felix Flentge, Daniel Polani and Thomas Uthmann_ Modelling the Emergence of Possession Norms using Memes.html][Modeling the Emergence of Possession Norms using Memes]]
+Flentge, Polani and Uthmann (2001)
+
+*** [[./web_pages/Chris Goldspink_ Modelling social systems as complex_ Towards a social simulation meta-model.html][Modelling Social Systems as Complex: Towards a social simulation meta-model]]
+Goldspink (2000)
+
+*** [[./web_pages/dfu-vol4-complete.pdf][Normative Multi-Agent Systems]]
+Andrighetto et All
+
+*** [[./web_pages/Olivier Barreteau, Christophe Le Page and Patrick D'Aquino_ Role-Playing Games, Models and Negotiation Processes.html][Role-Playing Games, Models and Negotiation Processes]]
+Barreteau, Le Page and D'Aquino (2003)
+
+*** [[./web_pages/Nicole J. Saam and Andreas Harrer_ Simulating norms, social inequality, and functional change in artificial societies.html][Simulating Norms, Social Inequality, and Functional Change in Artificial Societies]]
+Saam and Harrer (1999)
+
+*** [[./web_pages/Christian Hahn, Bettina Fley, Michael Florian, Daniela Spresny and Klaus Fischer_ Social Reputation.html][Social Reputation: A Mechanism for Flexible Self-Regulation of Multiagent Systems]]
+Hahn, Fley, Florian, Spresny and Fischer (2007)
+
+*** [[./web_pages/The Current State of Normative Agent-Based Systems.html][The Current State of Normative Agent-Based Systems]]
+Hollander and Wu (2011)
+
+*** [[./web_pages/José Castro Caldas and Helder Coelho_ The Origin of Institutions.html][The Origin of Institutions: Socio-economic processes, choice, norms and conventions]]
+Caldas and Coelho (1999)
+
+*** [[./web_pages/Guido Fioretti and Alessandro Lomi_ An Agent-Based Representation of the Garbage Can Model of Organizational Choice.html][An Agent-Based Representation of the Garbage Can Model of Organizational Choice]]
+Fioretti and Lomi (2008)
+
+*** [[./web_pages/Castelfranchi - Towards Institutional Actions.pdf][Towards Institutional Actions ]]
+    Castelfranchi - 2005
+
+    "Institutions are usually conceived as normative systems that
+    structure social interactions" Economic models focus on 'the rules
+    of the game' of:
+    1) in the interest of individual agents
+    2) that solve cooperation dilemmas
+
+    Searle adds their conceptual nature into the mix, enabling
+    constraint and influence on action capabilities, and normative consequences.
+
+    As with Searle, Castelfranchi "takes the institutional actions as
+    pior to the institution objects".
+
+    Triadic Relation of:
+    "X, seen as a token of a CT, counts as Y in C"
+
+    "The double empowerment of tools and artifacts"
+    
+    On Function - "an external goal placed on a system that results in
+    a transformation of the structural properties of the system",
+    which "modify the shape of the system"
+
+    Finalities of the action set A are:
+    1) The subset a that produces effects unintended by, and unknown to the agent.
+
+    Functional aspects are:
+    1) Any item in the agent that produces the unintended effect through a casual feedback loop
+       
+    
+
+**** Commentary
+     C / Searle are taking actions as prior to  objects. How does this relate to Graeber / Debt?
+     Debt exists before Money, but C uses the example of paying -> money.
+
+     So:
+     Paying -> Money
+     Debt -> Money
+     As:
+     Institutional Action -> Institutional Object
+
+     But is this really the case?
+     Debt is an institutional concept, rather than an Action. 
+     It is closer to Holtz three component distinction. Material, Meaning, Competence.
+     So:
+     Paying -> Material
+     Money -> Artifact? 
+     Debt -> Meaning
+     ?    -> Competence
+
+     Institutions are resonant groups of reinforcing actions, whose consequences are 
+     unintended / non-obvious.
+
+*** [[./web_pages/Cristiano Castelfranchi, Rosaria Conte and Mario Paolucci_ Normative reputation and the costs of compliance.html][Normative Reputation and the costs of compliance]]
+Castelfranchi, Conte, and Paolucci (1998)
+
+
+*** TODO [[./web_pages/How Do Agents Make Decisions?.html][How Do Agents Make Decisions? A Survey]]
+Balke and Gilbert (2014)
+
+**** Dimensions of Comparison
+     Cognitive | Affective | Social | Norm consideration | Learning
+
+**** Production Rule Systems
+
+**** BDI
+
+***** eBDI
+
+***** BOID
+
+***** BRIDGE
+
+**** Normative Models
+
+***** Deliberate Normative Agents
+
+***** EMIL-A
+
+***** NoA
+
+**** Cognitive Models
+
+***** PECS
+
+***** Consumat
+
+**** Psychological inspired models
+
+***** MHP
+
+***** CLARION
+
+***** ACT-R
+
+***** SOAR
+
+**** Overview
 
 *** TODO [[./web_pages/Homo Socionicus.html][Homo Socionicus: A Case Study of Simulation Models of Norms]]
 Neumann (2008)
@@ -298,130 +436,6 @@ behaviour become more frequent, without formalising the mechanism.
 
 **** TODO Convergence example: Savarimuthu
 
-
-*** TODO [[./web_pages/How Do Agents Make Decisions?.html][How Do Agents Make Decisions? A Survey]]
-Balke and Gilbert (2014)
-
-**** Dimensions of Comparison
-     Cognitive | Affective | Social | Norm consideration | Learning
-
-**** Production Rule Systems
-
-**** BDI
-
-***** eBDI
-
-***** BOID
-
-***** BRIDGE
-
-**** Normative Models
-
-***** Deliberate Normative Agents
-
-***** EMIL-A
-
-***** NoA
-
-**** Cognitive Models
-
-***** PECS
-
-***** Consumat
-
-**** Psychological inspired models
-
-***** MHP
-
-***** CLARION
-
-***** ACT-R
-
-***** SOAR
-
-**** Overview
-
-*** [[./web_pages/Felix Flentge, Daniel Polani and Thomas Uthmann_ Modelling the Emergence of Possession Norms using Memes.html][Modeling the Emergence of Possession Norms using Memes]]
-Flentge, Polani and Uthmann (2001)
-
-*** [[./web_pages/Chris Goldspink_ Modelling social systems as complex_ Towards a social simulation meta-model.html][Modelling Social Systems as Complex: Towards a social simulation meta-model]]
-Goldspink (2000)
-
-*** [[./web_pages/dfu-vol4-complete.pdf][Normative Multi-Agent Systems]]
-Andrighetto et All
-
-*** [[./web_pages/Olivier Barreteau, Christophe Le Page and Patrick D'Aquino_ Role-Playing Games, Models and Negotiation Processes.html][Role-Playing Games, Models and Negotiation Processes]]
-Barreteau, Le Page and D'Aquino (2003)
-
-*** [[./web_pages/Nicole J. Saam and Andreas Harrer_ Simulating norms, social inequality, and functional change in artificial societies.html][Simulating Norms, Social Inequality, and Functional Change in Artificial Societies]]
-Saam and Harrer (1999)
-
-*** [[./web_pages/Christian Hahn, Bettina Fley, Michael Florian, Daniela Spresny and Klaus Fischer_ Social Reputation.html][Social Reputation: A Mechanism for Flexible Self-Regulation of Multiagent Systems]]
-Hahn, Fley, Florian, Spresny and Fischer (2007)
-
-*** [[./web_pages/The Current State of Normative Agent-Based Systems.html][The Current State of Normative Agent-Based Systems]]
-Hollander and Wu (2011)
-
-*** [[./web_pages/José Castro Caldas and Helder Coelho_ The Origin of Institutions.html][The Origin of Institutions: Socio-economic processes, choice, norms and conventions]]
-Caldas and Coelho (1999)
-
-*** [[./web_pages/Guido Fioretti and Alessandro Lomi_ An Agent-Based Representation of the Garbage Can Model of Organizational Choice.html][An Agent-Based Representation of the Garbage Can Model of Organizational Choice]]
-Fioretti and Lomi (2008)
-
-*** [[./web_pages/Castelfranchi - Towards Institutional Actions.pdf][Towards Institutional Actions ]]
-    Castelfranchi - 2005
-
-    "Institutions are usually conceived as normative systems that
-    structure social interactions" Economic models focus on 'the rules
-    of the game' of:
-    1) in the interest of individual agents
-    2) that solve cooperation dilemmas
-
-    Searle adds their conceptual nature into the mix, enabling
-    constraint and influence on action capabilities, and normative consequences.
-
-    As with Searle, Castelfranchi "takes the institutional actions as
-    pior to the institution objects".
-
-    Triadic Relation of:
-    "X, seen as a token of a CT, counts as Y in C"
-
-    "The double empowerment of tools and artifacts"
-    
-    On Function - "an external goal placed on a system that results in
-    a transformation of the structural properties of the system",
-    which "modify the shape of the system"
-
-    Finalities of the action set A are:
-    1) The subset a that produces effects unintended by, and unknown to the agent.
-
-    Functional aspects are:
-    1) Any item in the agent that produces the unintended effect through a casual feedback loop
-       
-    
-
-**** Commentary
-     C / Searle are taking actions as prior to  objects. How does this relate to Graeber / Debt?
-     Debt exists before Money, but C uses the example of paying -> money.
-
-     So:
-     Paying -> Money
-     Debt -> Money
-     As:
-     Institutional Action -> Institutional Object
-
-     But is this really the case?
-     Debt is an institutional concept, rather than an Action. 
-     It is closer to Holtz three component distinction. Material, Meaning, Competence.
-     So:
-     Paying -> Material
-     Money -> Artifact? 
-     Debt -> Meaning
-     ?    -> Competence
-
-     Institutions are resonant groups of reinforcing actions, whose consequences are 
-     unintended / non-obvious.
-
      
 
 
@@ -429,25 +443,11 @@ Fioretti and Lomi (2008)
 
 *** TODO Programming Institutional Facts
 
-*** [[./web_pages/Cristiano Castelfranchi, Rosaria Conte and Mario Paolucci_ Normative reputation and the costs of compliance.html][Normative Reputation and the costs of compliance]]
-Castelfranchi, Conte, and Paolucci (1998)
-
 *** TODO [[./web_pages/Typical Pitfalls of Simulation Modeling - Lessons Learned from Armed Forces and Business.html][Typical Pitfalls of Simulation Modeling - Lessons Learned from Armed Forces and Business]]
 Barth, Meyer and Spitzner (2012)
 
 *** TODO [[./web_pages/Tools of the Trade.html][Tools of the Trade: A Survey of various Agent Based Modeling Platforms]]
 Nikolai and Madey (2009)
-
-*** DONE [[./web_pages/Kerstin Dautenhahn and Steven J. Coles_ Intelligence from the Bottom Up.html][Narrative Intelligence from the Bottom Up: A Computational Framework for the Study of Story-Telling in Autonomous Agents]]
-Dautenhahn and Coles (2001)
-
-	Levels of narrative intelligence:
-    0) "Grandfather Model" of Schank and Abelson. *Essentially a
-       Doorbell*.
-    1) Random selection of stories to tell
-    2) Eliza-like contextual storytellers.
-    3) Interpretive/ encode and retrieval based storyteller
-    4) Human narrative intelligence.
     
 
 ** Secondary
