@@ -1,6 +1,23 @@
 * JASS Notes
 ** Primary
 
+*** TODO [[./web_pages/A Virtual Laboratory for the Study of History and Cultural Dynamics.html][A Virtual Laboratory for the study of History and Cultural Dyanmics]]
+Suarezz and Sancho (2011)
+
+
+
+**** The Model
+
+***** Agents
+      Individuals - mobile, carry messages, have preferences and range of behaviours, limited storage.
+      Repositories - immobile, preferences, tolerance, no learning, limited storage.
+      Cultural Items - No reception, just a single message in memory. 
+***** Messages
+
+***** Behaviours
+      Reception, memory, learning, and emission
+      Emmission : Dominant/Creative/Passive behaviours
+
 *** DONE [[./web_pages/Generating Social Practices.html][Generating Social Practices]]
 Holtz (2014)
 
@@ -133,9 +150,6 @@ Hamill (2010)
 *** [[./web_pages/Jose Manuel Galan and Luis R. Izquierdo_ Appearances Can Be Deceiving.html][Appearances can be decieving: Lessons Learned Re-Implementing Axelrod's 'Evolutionary Approach To Norms']]
 Galan and Izquierdo (2005)
 
-*** TODO [[./web_pages/ai_law_submitted.pdf][Combining Institutional Frameworks and Agent-Based Simulation for the Design of Enforcement Policies]]
-Balke, De Vos (2012)
-
 *** [[./web_pages/Considering a Multi-Level Model as a Society of Interacting Models.html][Considering a Multi-Level Model as a Soceity of Interactive Models: Application to a Collective Motion Example]]
 Camus, Bourjot and Chevrier (2015)
 
@@ -167,6 +181,166 @@ Hahn, Fley, Florian, Spresny and Fischer (2007)
 
 *** [[./web_pages/The Current State of Normative Agent-Based Systems.html][The Current State of Normative Agent-Based Systems]]
 Hollander and Wu (2011)
+
+    Always with *efficiency*:
+	"Research on social control address the challenge of ensuring that
+	a system operates *efficiently* while at the same time allowing
+	individual agents maintain their freedom"
+
+    Makes the point of following *methodological individualism*. This
+    works from the individual on up. Again, consider institutional
+    analysis, should we start with individuals?
+
+    Normative agents must:
+    1) satisfy the regular notions associated with artificial agents
+    2) represent norms in a format that allows them to be reasoned
+       over and modified during the lifetime of the agent 
+    3) recognise and infer the norms of other agents based on
+       observations and interactions while not confusing the norms
+       with individual rules and constraints
+    4) transmit norms
+    5) sanction otheragents who do not comply with known norms as
+       required
+
+
+**** What is a norm
+     authoritative standard / principle of right action / typical
+     behaviours
+
+     an obligation / permission (boella)
+
+     or a prohibition 
+
+     in legal theory: any behavioural rule dictated by a ruling body
+     (verhagen)
+
+     in social sciences: behavioural constraints that are socially
+     enforced (bendor and swistak...)
+
+     Common theme: behaviours which *ought* to be displayed by members
+     of a group in a given context (boella).
+
+     "One aspect of norms that is frequently left unaddressed in
+     artificial systems is their dynamic nature and tendency to change
+     over time (neumann 2008)"
+
+     norms can be *sub-optimal*
+
+     norms can be willfully violated. There is *normative choice*
+
+     *COIN* workshops? *EMIL* project for norm innovation
+     *COST* action OC0801 working group on norms
+     
+**** Key Concepts
+     a norm is a behavioural rule that is considered valid by the
+     majority of the population
+
+     norms are acquired through a social learning process
+
+     norms are social enforced
+
+     norms spread, by active and passive transmission mechanisms
+
+**** Means of representing norms
+
+     
+***** In the Social Sciences
+
+      social function of norms: durkheim, parsons, merton
+      social impact of norms: economics
+      mechanisms leading to norms: complexity science
+
+      in literature: norms address individual action, govern
+      interaction between members of a group, dictate responses to
+      behaviours observed in others.
+
+      social function in terms of obligations: legal, moral,
+      conditional.
+
+      provides dicitions and noramlity.
+
+      social impact: cost provided to / imposed on parties involved in
+      a social interaction.
+      can impose costs and benefits on individuals or groups.
+      
+      most recently: interest in norm emergence and creation.
+      Two general methods of norm creation: (Boella, Tuomela,
+      Verhagen)
+      1) *Type 1* explicitly created and enforced by an authority structure 
+      2) *Type 2* emerge from regularities in behaviour
+
+      
+****** oughtness
+       refers to the notion that there are behaviours an agent should
+       or should not perform regardless of the possible consequences
+       
+****** expectation
+       refers to the behaviours other agents anticipate when observing
+       an agent.
+       created when an agent displays behavioural regularity when it
+       encounters specific contexts.
+       
+
+***** In Computer Science
+
+      
+****** Modal Logic
+       deontic logic as a derivation. Exclusion logic / Versu too.
+       links to legal theory.
+       boella, castelfranchi, alberti, meneguzzi, sadri.
+       illegal behaviour - Meyer and Wieringa.
+
+****** condition/action pairs in rule systems
+       Cif is an example.
+       Boella.
+       Typically offline designed.
+
+****** binary strings
+       Islanders.
+       A more abstract representation of norms.
+
+****** game theory
+       Bicchieri. CiF.
+       choices and payoffs
+       
+
+**** Norm Life Cycle 
+     mentions norm taxonomies and typologies of *finnemore and
+     sikkink* and *savarimuthu and cranefield* and *verhagen*.
+     
+***** Patterns of norm life cycles
+
+      enforcement -> recognition -> obedience -> sanctions
+      internalization -> acceptance -> modification -> internalization
+      emergence -> transmission -> enformcement -> internalization
+      evolution -> creation -> transmission -> enforcement ->
+      internalization -> forgetting
+
+
+**** Categories of the norm life cycle:
+
+***** Creation
+
+***** Transmission
+
+***** recognition
+
+***** enforcement
+
+***** acceptance
+
+***** modification
+
+***** internalization
+
+***** emergence
+
+***** forgetting
+
+***** evolution
+
+
+
 
 *** [[./web_pages/José Castro Caldas and Helder Coelho_ The Origin of Institutions.html][The Origin of Institutions: Socio-economic processes, choice, norms and conventions]]
 Caldas and Coelho (1999)
@@ -230,6 +404,9 @@ Fioretti and Lomi (2008)
 
 *** [[./web_pages/Cristiano Castelfranchi, Rosaria Conte and Mario Paolucci_ Normative reputation and the costs of compliance.html][Normative Reputation and the costs of compliance]]
 Castelfranchi, Conte, and Paolucci (1998)
+
+*** TODO [[./web_pages/ai_law_submitted.pdf][Combining Institutional Frameworks and Agent-Based Simulation for the Design of Enforcement Policies]]
+Balke, De Vos (2012)
 
 
 *** TODO [[./web_pages/How Do Agents Make Decisions?.html][How Do Agents Make Decisions? A Survey]]
@@ -458,8 +635,6 @@ Kim and Hanneman (2011)
 Edmonds (2015)
 *** [[./web_pages/A Pragmatic Reading of Friedman's Methodological Essay and What It Tells Us for the Discussion of ABMs.html][A Pragmatic Reading of Friedman's Methodological Essay and What It Tells Us for the Discussion of ABMs]]
 Deichsel and Pyka (2009)
-*** [[./web_pages/A Virtual Laboratory for the Study of History and Cultural Dynamics.html][A Virtual Laboratory for the study of History and Cultural Dyanmics]]
-Suarezz and Sancho (2011)
 *** [[./web_pages/Between Replication and Docking.html][Between Replication and Docking: "Adaptive Agents, Political Institutions, and Civic Traditions" Revisited]]
 Miodownik, Cartrite and Bhavnani (2010)
 
