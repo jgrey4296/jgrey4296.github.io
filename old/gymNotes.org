@@ -1,4 +1,4 @@
-* notes1
+* notes1                                                                        :writing:
 to james: to what degree is anytown a reification of your own theories of the composition of society?
 what are the prime papers or sources that you use to think about your goal? 
 
@@ -84,7 +84,7 @@ testedAndAsserted  (xyz) + c
 how do i create new macro classes? copy to a temporary description, edit to abstractness, save as template, instantiate where needed with annotations for reconnections.
 
 
-* notes2
+* notes2                                                                        :writing:
 rules are just nodes visualised in a different way. be able to switch back and forth as necessary
 let conditions be filters on specific nodes that you locate in the graph.
 new condition root.institution.actor..... etc

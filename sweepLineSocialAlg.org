@@ -1,4 +1,4 @@
-* Social rule as a hierarchical graph
+* Social rule as a hierarchical graph                                           :architecture:design:socialRules:
 In the way that a voronoi diagram sweeps down, differentiating between the beach
 and sweep line, have recursive connections between layers of social rules.
 
@@ -73,7 +73,7 @@ islanders didn't need that, using a bit mask description of language).
 If there are transformative layers, such as aggregation, weighting,
 or data assembly from multiple sources...
 
-** Authoring for Layers.
+** Authoring for Layers.                                                        :authoring:
 Be able to define inputs, and ouputs, for a layer, and orders of
 assessment. Specify that inputs for L_1 are a,b,c,d,e.. and the
 outputs are w,x,y,z. 

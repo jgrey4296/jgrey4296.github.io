@@ -1,65 +1,66 @@
-* General Games and IF
-** Wolf Among Us
-** Metal Gear Solid 5
-** Analogue: A Hate Story
-** The Banner Saga
-** Noir Syndrome
-** PostMortem: One Must Die
-** Sunless Sea
-** Tales from the Borderlands
-** Kentucky Route Zero
-** The Escapists
-** Viscera Cleanup Detail
-** Banished
-** Clockwork Empires
-** Democracy 2 - 3
-** King of Dragon Pass
-** Dwarf Fortress
-** URR
-** Prison Architect
-** Tropico
-** Metro 2033
-** The Ship
-** Don't Starve
-** Alien: Isolation
-** Stacking
-** Dota 2
-** Lego Harry Potter
-** Binding of Isaac
-** Dungeon of the Endless
-** Baldur's Gate
-** Planescape Torment
-** Divinity
-** LISA
-** Pillars of Eternity
-** Undertale
-** Unrest
-** Dark Souls
-** Din's Curse
-** Dragon Age
-** Elder Scrolls
-** Fable
-** Shadow of Mordor
-** The Witcher
-** Fallout
-** Satellite Reign
-** Vampire TM:B
-** Majesty 2
-** FTL
-** LA Noire
-** Redshirt
-** This War of Mine
-** Cosmonautica
-** The Last Federation
-** Maia
-** Dishonoured
-** Invisible Inc
-** Sir, You are being hunted
-** Europa Universalis
-** XCOM
-** The Curious Expedition
+* General Games and IF                                                :games:
+** Wolf Among Us                                                  :narrative:
+** Metal Gear Solid 5                                           :institution:
+** Analogue: A Hate Story                             :institution:narrative:
+** The Banner Saga                                                  :society:
+** Noir Syndrome                                          :procedural:murder:
+** PostMortem: One Must Die                        :murder:society:narrative:
+** Sunless Sea                                        :narrative:exploration:
+** Tales from the Borderlands                         :narrative:institution:
+** Kentucky Route Zero                                            :narrative:
+** The Escapists                                        :routine:institution:
+** Viscera Cleanup Detail                               :institution:routine:
+** Banished                                                 :routine:society:
+** Clockwork Empires                                        :society:routine:
+** Democracy 2 - 3                         :network:rules:society:procedural:
+** King of Dragon Pass                   :choice:society:network:institution:
+** Dwarf Fortress                                :procedural:society:routine:
+** URR                                           :routine:society:procedural:
+** Prison Architect                          :procedural:routine:institution:
+** Tropico                                               :procedural:society:
+** Metro 2033                                           :institution:network:
+** The Ship                                          :institution:procedural:
+** Don't Starve                     :survival:procedural:routine:exploration:
+** Alien: Isolation                :exploration:survival:institution:network:
+** Stacking                          :network:institution:procedural:society:
+** Dota 2                                        :institution:survival:rules:
+** Lego Harry Potter                                    :institution:network:
+** Binding of Isaac                               :rules:survival:procedural:
+** Dungeon of the Endless     :procedural:survival:rules:exploration:routine:
+** Baldur's Gate                       :institution:society:choice:narrative:
+** Planescape Torment                  :narrative:choice:society:institution:
+** Divinity                            :institution:society:choice:narrative:
+** LISA                                    :narrative:society:rules:survival:
+** Tyranny                             :narrative:choice:society:institution:
+** Pillars of Eternity                 :narrative:choice:institution:society:
+** Undertale                          :choice:narrative:survival:exploration:
+** Unrest     :narrative:choice:society:institution:rules:routine:procedural:
+** Dark Souls                                  :routine:exploration:survival:
+** Din's Curse       :narrative:society:institution:rules:procedural:routine:
+** Dragon Age                           :procedural:society:narrative:choice:
+** Elder Scrolls            :choice:narrative:society:procedural:institution:
+** Fable                                :procedural:society:narrative:choice:
+** Shadow of Mordor            :narrative:institution:individuals:procedural:
+** The Witcher                                 :narrative:choice:exploration:
+** Fallout                                :choice:narrative:society:survival:
+** Satellite Reign                           :society:procedural:institution:
+** Vampire TM:B                        :institution:society:narrative:choice:
+** Majesty 2                         :society:institution:procedural:routine:
+** FTL                         :procedural:choice:narrative:survival:network:
+** LA Noire                            :narrative:choice:society:individuals:
+** Redshirt                         :society:choice:network:procedural:rules:
+** This War of Mine                  :procedural:network:society:individuals:
+** Cosmonautica                         :rules:individuals:economics:network:
+** The Last Federation                 :network:economics:society:procedural:
+** Maia                             :procedural:society:individuals:survival:
+** Dishonoured                                 :individuals:choice:narrative:
+** Invisible Inc           :institution:routine:network:economics:procedural:
+** Sir, You are being hunted                 :procedural:institution:society:
+** Europa Universalis              :procedural:network:narrative:individuals:
+** XCOM                              :individuals:network:procedural:routine:
+** The Curious Expedition         :procedural:individuals:economics:survival:
+** Rogue State                                     :narrative:society:choice:
+** Suits: A Business RPG                              :narrative:institution:
+** XenoBloom                                  :institution:choice:procedural:
+** Ladykiller in a bind                       :consent:institution:narrative:
 ** Interstellaria
-** Rogue State
-** Suits: A Business RPG
-** XenoBloom
-

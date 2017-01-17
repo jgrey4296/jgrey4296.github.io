@@ -1,0 +1,52 @@
+* TODO Note Cards
+
+** Games                                                              :games:
+
+*** Spore                                               :existingMedia:games:
+
+*** Democracy 3                                         :existingMedia:games:
+
+*** Pokemon                                             :games:existingMedia:
+
+    
+
+** Books                                                              :books:
+*** Graeber                                               :economics:graeber:
+****  Debt                                   :constitutiveRules:norms:moiety:
+
+
+*** Fligstein                                                  :institutions:
+
+*** Bill Bryson                                              :norms:examples:
+
+**** At Home
+
+*** John Brunner                                           :fiction:examples:
+
+**** Stand On Zanzibar
+
+*** Cohen                                               :methods:ai:research:
+
+*** Varian                                       :economics:research:methods:
+
+
+** Topics of Interest                                              :concepts:
+
+*** Partial Ordering / Incomplete Pairwise Matrices                    :math:
+
+** Software and Simulations                    :existing:software:simulation:
+
+*** Netlogo                                                      :simulation:
+
+
+** Plans and Dissertation Structure            :dissertation:structure:plans:
+
+** Theory                                                            :theory:
+
+*** Institutional Structure                   :structure:theory:institutions:
+
+*** Potential Systems                                               :systems:
+
+*** Behaviour Monad                                 :formal:math:monad:types:
+
+*** Rete/ Rules                                     :architecture:rules:rete:

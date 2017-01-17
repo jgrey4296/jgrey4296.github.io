@@ -1,4 +1,4 @@
-* Error and Social Action
+* Error and Social Action                                                       :writing:
 Machine learning error squared. A representation of the real data to the model,
 penalising for outliers. 
 When it comes to social action.. it is costly to fully model every

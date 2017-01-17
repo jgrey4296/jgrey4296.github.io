@@ -1,4 +1,4 @@
-* Artifact Examples
+* Artifact Examples                                                             :workedExample:theory:formal:
 ** Definitions
 => : Non-consuming implication
 -=> : consume implication

@@ -1,4 +1,4 @@
-* Sunless Sea / Fallen london
+* Sunless Sea / Fallen london                                                   :analysis:exammples:
 ** Question's You can ask
    
  Q.what //state
@@ -21,7 +21,7 @@
           .changing.to.state
           .schedule
           
-* Kentucky Route Zero
+* Kentucky Route Zero                                                           :exammples:analysis:
 ** Act Three Scene 2
    Question - Nothing to be done? (subtext: about the truck not running)
    Answer - Just won't start up again. <statement> 
@@ -37,7 +37,7 @@
    quip+ >> print(T,quip.response.success)
    quip- >> print(T,quip.response.failure)
    
-* Editor thoughts
+* Editor thoughts                                                               :authoring:architecture:design:
   The CLI shell could be similar to an adaptive text editor, using EL more. 
   Black on White, continuing sentence, showing parent options, giving the
   breadth of options at each selected node. 
@@ -98,7 +98,7 @@
   
 
 
-* Speech Act Reference
+* Speech Act Reference                                                          :speechActs:
 
 ** representative
 inform, deny, affirm, confirm.
@@ -114,7 +114,7 @@ description of self psychological state
 ** declarative
 statement of redefinition
 
-* Speech act example
+* Speech act example                                                            :exclusionLogic:example:speechActs:
 "Hello {T.name}, how are you?"
   .id.greet1
   .greet

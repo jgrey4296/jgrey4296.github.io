@@ -1,5 +1,5 @@
-* Game Concepts
-** Institutional Modification
+* Game Concepts                                       :games:concepts:design:
+** Institutional Modification                                   :institution:
 *** Society Generator
 See Red Mars / Galactica / Walking Dead / other Post-apocalyptic
 stories.
@@ -36,7 +36,7 @@ See also: Graeber: Accounting in defunct Roman coinage / Slaves /
 Cows / Maidens.
 
 
-** Situation Models
+** Situation Models                                              :situations:
 *** Squad Dynamics
 XCom doesn't include interactions between squad members. See MGS5's
 Diamond Dogs, with some soldiers getting put in the brig. MGS's
@@ -46,6 +46,7 @@ shown ever.
 Soldiers joke, get nervous, shell-shocked, tired, and can hold
 grudges. As they get injured, they can get particular scars and
 prosthetics. The is similar to Elevator Conversations. 
+
 *** Apartment Block Simulator
 Simulate the interactions between individuals in an apartment block. Could think of JG Ballard's High Rise,
 Dredd, The Grand Budapest Hotel.
@@ -90,7 +91,7 @@ Gateway, Red Mars initial journey.
 
 *** Social Lemmings
 
-** Institutional Variation
+** Institutional Variation                                      :institution:
 *** 'Go to the shops, I dare you'
 Sliders. Bill Bryson - At Home. John Brunner - Stand on Zanzibar. Alfred Bester.  Rick and Morty take it to
 the extreme.
@@ -154,7 +155,7 @@ behaviours towards you change.
 
 
 
-** Institutionally Aware Design
+** Institutionally Aware Design                                 :institution:
 *** Socially Responsive RPGs
 
 Where players have to abide by the norms instead of looting peasants'
@@ -199,7 +200,7 @@ Also African Tribes/Max Gluckman/Elias
 
 
 
-** Accidents in Real Life
+** Accidents in Real Life                                         :accidents:
 The accidents of life. Tripping on the stairs, getting hit by a car, being ill.  Stubbing your toe, not
 getting enough sleep. The thousand and one ways in which mood and behaviour is shifted tiny amounts by
 unrelated elements.
@@ -212,7 +213,7 @@ Related: Douglas Adams pseudo fractures.
 
 
 
-* Prototype Ideas
+* Prototype Ideas                                                 :prototype:
 ** Social Roguelike
 [[file:research/socialRoguelike][Social Roguelike Notes]]
 [[file:notes/research/socialRoguelike::*The%20Social%20Roguelike][The Social Roguelike]]
@@ -436,7 +437,7 @@ Social Influence -> bleed through of rules from others?
 
 
 
-* Social Norm Contrasts and Patterns
+* Social Norm Contrasts and Patterns                                  :norms:
 
 ** Red Mars/2312 - The Expanse
    Both are examples of a colonised solar system.
