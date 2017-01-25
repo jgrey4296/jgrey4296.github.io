@@ -1,0 +1,46 @@
+* Dissertation Chapters
+** Title
+** Introduction
+*** Institutions 101 
+*** Problems
+*** Socially Inspired Computing
+*** Research Questions
+*** Contributions
+** Institutional Design 101
+** Core Theory Influences
+*** New Institutionalism / Field Theory
+*** Activity Theory
+*** Normative Multi-Agent Systems
+
+** General Background
+*** Theories  
+**** Giddens
+*** Media
+**** Games 
+**** Fiction
+*** Formalisms
+**** Grossi
+**** Evans Exclusion Logic
+*** NorMAS
+**** Balke
+*** Sociology and Anthropology
+**** Graeber
+*** Authoring Tool Design
+** Theory of Institutions 
+*** Structure of Institutions
+*** Norms and Rules
+** Institutional Analysis of Existing Media
+*** Fiction
+*** Games
+** Institutionally Inspired Simulations/Games
+** Architecture
+*** Authoring Tool
+*** Institution Sim
+** Implementations
+*** Vault Sim
+
+** Results and Analysis
+
+** Conclusion
+*** Future Work
+** Bibliography
