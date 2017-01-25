@@ -1,0 +1,183 @@
+* Image Comments
+
+
+\begin{figure*}
+\includegraphics{liberalsconservatives.jpg}
+\caption{Focus: Role of Government, intrusion into own, and others, lives.}
+\end{figure*}
+
+\begin{figure*}
+\includegraphics{scientificprocess.jpg}
+\caption{}
+\end{figure*}
+
+\begin{figure*}
+\includegraphics{facts.jpg}
+\caption{Highlights points at which doubt about information can
+  arise. (I can describe both facts and opinions, but how do I
+  conflate the two?)}
+\end{figure*}
+
+
+\begin{figure*}
+\includegraphics{campaignfinancecycle.jpg}
+\caption{An example of a single high level institutional dynamic}
+\end{figure*}
+
+\begin{figure*}
+\includegraphics{RouSysSpon.PNG}
+\caption{How does this interact with agents? Routines are our small
+  scale patterns of behaviour. These are the building blocks of our
+  systems, and spontaneity is our maneuvering in social situations. An
+agent with knowledge of the systems it enhabits starts towards being
+able to manipulate those systems.}
+\end{figure*}
+
+\begin{figure*}
+\includegraphics{typesofirony.PNG}
+\caption{Computational definition of irony? and thus other word games?
+shows the distributions, which are useful not only for highlighting
+when the irony occurs, but also the authors ideas of how to categorise
+situations.}
+\end{figure*}
+
+\begin{figure*}
+\includegraphics{standardsOfLiving.jpg}
+\caption{An approach to describing high level classes of a society. We
+have economic classes, other cultures have castes or high born
+elites. How to parameterise this? Also: Cultural examples of a caste system?}
+\end{figure*}
+
+\begin{figure*}
+\includegraphics{caste_system.jpg}
+\caption{An interesting alternative for games. RPGs typically seem to
+  focus on racial elements (at least Tolkien, Rowling, Pratchett to a
+  lesser extent, Bioware, Vampire the Masquerade.... all have). What
+  of other forms of social exclusion and stratification. Roguelike
+  games, infinity blade, dwarf fortress, and a valley without wind all
+set up suitable situations to accept playing as multiple heroes rather
+than just one. Specifically, infinity blade lets you play as each
+successive descendant.}
+\end{figure*}
+
+\begin{figure*}
+\includegraphics{power.jpg}
+\caption{One way of categorising means of power. Physical coercion,
+  economic coercion, and mental coercion. Institutions try to situate
+  themselves at a particular point in that equation.}
+\end{figure*}
+
+\begin{figure*}
+\includegraphics{topicsofconversation.jpg}
+\caption{Shows how particular topics of conversation are suitable for
+  particular interactions and roles. helps me move towards a
+  distinction between content and purpose of what is said.}
+\end{figure*}
+
+\begin{figure*}
+\includegraphics{mythicalCreatures.jpg}
+\caption{A way of creating concepts, in the form of mythical
+  creatures. Overlap of particular things together, pick any mix of
+  them, and name it.}
+\end{figure*}
+
+\begin{figure*}
+\includegraphics{dealingWithPolice.jpg}
+\caption{A Useful, formalised process of interaction with a particular
+institution.}
+\end{figure*}
+
+\begin{figure*}
+%\includegraphics{subtitles.GIF}
+\caption{A Reduction of stories to particular tropes}
+\end{figure*}
+
+
+\begin{figure*}
+\includegraphics{charts.jpg}
+\caption{stored for future use.}
+\end{figure*}
+
+\begin{figure*}
+\includegraphics{saidIsDead.png}
+\caption{Shows how such a simple thing as talking can have large
+  amounts of description. Taking a praxis approach lets us use these
+  descriptions easily.}
+\end{figure*}
+
+\begin{figure*}
+\includegraphics{pocahontasAvatar.jpg}
+\caption{The similarities between pocahontas and avatar, thus scripts
+  and similarities of stories.}
+\end{figure*}
+
+\begin{figure*}
+\includegraphics{languageEvo.jpg}
+\caption{Relates to thinking about agents slowly modifying parts of
+  their language, giving them unique cultures.}
+\end{figure*}
+
+\begin{figure*}
+\includegraphics{emotionMap.jpg}
+\caption{Seemingly from Spinoza, everything able to be categorised
+  eventually into either desire, pleasure, and pain. Can I think of
+  anything that doesnt fit into that?}
+\end{figure*}
+
+\begin{figure*}
+\includegraphics{videoGameSizes.jpg}
+\caption{Shows the differences of scale of physical location over the
+  past... 20 years?}
+\end{figure*}
+
+\begin{figure*}
+\includegraphics{levelsOfInteractions.jpg}
+\caption{An interesting way of how to conceptualise social
+  connections. IMPORTANT.}
+\end{figure*}
+
+\begin{figure*}
+\includegraphics{VBP2.png}
+\caption{one of a number of examples of particular little
+  idiosyncrasies that can be used as examples of particular british
+  culture, to start towards generating other cultures.}
+\end{figure*}
+
+\begin{figure*}
+\includegraphics{excuses.png}
+\caption{Literally a grammar for excuses. Can be used both as is,
+  humourously or for things you dont care about, but the 'lead in-
+  perpetrator - delaying factor' trio is very useful.}
+\end{figure*}
+
+\begin{figure*}
+\includegraphics{everyRPG.jpg}
+\caption{highlights particular tropes. Does it have anything socio-institutional?}
+\end{figure*}
+
+\begin{figure*}
+\includegraphics{sameSexDebate.png}
+\caption{Able to use as an example of speech act argumentation? ASP
+  generation of arguments? I really need to get into asp again.}
+\end{figure*}
+
+\begin{figure*}
+\includegraphics{americanExceptionalism.png}
+\caption{Shows one means of creating nuance and new rules. Take an
+  existing rule and exclude something from that situation, allowing
+  you free action. This doesnt work for physical dependencies or logic
+  necessarily, though
+  people may try, but it does work for social situations possibly?}
+\end{figure*}
+
+\begin{figure*}
+\includegraphics{britishSay.jpg}
+\caption{The full example of what we say versus what we mean. both can
+be represented by speech acts.}
+\end{figure*}
+
+\begin{figure*}
+\includegraphics{Bronfenbrenner.jgp}
+\caption{Similar to Williamson's 4 layer model of social life.}
+\end{figure*}
+

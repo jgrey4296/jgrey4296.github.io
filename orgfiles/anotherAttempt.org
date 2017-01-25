@@ -1,0 +1,244 @@
+* Socio-Institutional Action                                                    :writing:socioInstitutional:
+
+** Introduction
+
+
+*** What is Socio-Institutional Action?
+
+Human behaviour operates on numerous levels of
+abstraction. Individual, personal relations such as family
+and friends. Institutional interactions in schools and
+churches. More abstracted interactions such as mass media,
+with cultural norms and values even further abstracted. All
+of these combine to create the rich and complex society and
+social interactions that we observe every day.
+
+Current computational social models focus primarily on the
+less abstracted, interpersonal interactions of
+individuals, in the form of games like Prom Week and
+Versu. On the other end of the scale there are 4X games such
+as Civilisation that deal with highly abstracted concepts of
+society. Between these two extremes is a level of human
+behaviour currently invisible in computational models and
+game design. Let us define this intermediate level of
+behaviour as Socio-Institutional Action (SIA).
+
+SIA characterises behaviour that bridges interpersonal
+interactions with structurally modifying consequences. The
+easiest example of SIA is politics. The ways in which
+individuals in positions of power define and create the laws
+by which others live. Consider the personal interactions
+that are required in tv shows such as House of Cards and The
+West Wing to bring about political actions. 
+
+*** What is it different from?
+
+SIA contrasts significantly with the majority of current
+architectures, games, and discussions. Structural Change in
+games is typically a factor of the narrative rather than the
+system within which a player operates. Games such as
+Civilisation presumes no resistance to making changes to a
+society. Prom Week does not question the system which in a
+school prom occurs and does not model the power
+differentials of teachers to students. The Sims lets players
+control agents behaviours and accomodations, but not the
+society in which they operate. SimCity Societies approaches
+concerns of different societies, but, as Fable 3 does,
+limits itself to societal traits with relatively little
+freedom. Democracy 3 abstracts political change and relies
+on explicitly defined policies. 
+
+In contrast, consider The Wolf Among Us, and Dragon Age
+Origins. They place particular individuals in positions that
+will decide the fate of many others. Unfortunately, they are
+explicitly authored narratives, rather than simulated
+societal changes. 
+
+
+*** Why is it important?
+
+Videogames are well suited to explore through simulation
+issues challenging society at the moment. The possibility of
+being able to role play in varieties of different social
+configurations can provide a large number of learning
+experiences. Institutionalised racism, command rape,
+discrimination, welfare. Simulated societies provide the
+possibility for individuals to understand the challenges
+facing those who are different. 
+
+One simple example would be a computational implementation
+of Rawl's 'Veil of Ignorance' thought
+experiment. Implementing the capability of players to select
+the rules by which a society works, without having control
+or foreknowledge of their own position in society, is a
+compellingly different gameplay experience.
+
+*** What are some good examples of it?
+
+In games, examples of actual SIA's are few and far between. Some of
+the best examples are recent Telltale games like the Wolf Among Us and
+Tales from the Borderlands. Games that place critically important
+decisions to shape the future course, not of a narrative, but of a
+society within a narrative, in the hands of the player. Fable 3
+attempted something along those lines as well. 
+
+In realms less game related, the West Wing, Neal
+Stephenson's Anathem, and Robert Greene's the 48 Laws of
+Power all provide numerous examples of individuals being in
+the right place at the right time to change the course of a
+society.
+
+*** Research Questions
+A number of research questions arise once the concept of SIA
+has been brought to the fore, primarily:
+
+**** How can we describe Socio-Institutional Actions?
+**** Can we create dynamic societies within which SIA's can occur?
+**** Can dynamic societies provide new media experiences?
+**** How might we utilize dynamic societies in games?
+
+
+** Background
+
+*** Existing Games that employ Socio-Institutional Action
+
+**** Middle Earth: Shadows of Mordor
+
+**** Dragon Age: Origins
+
+**** The Wolf Among Us, Tales from the Borderlands
+
+**** Papers Please, This war of mine
+
+**** Sunless Sea, Analogue a hate story, Skyrim, Mass Effect, VTMB, 
+
+**** Prison Architect, Redshirt, Dwarf Fortress, Sir you are being hunted.
+
+*** Literature Review
+**** Searle and Austin
+**** Giddens
+**** Biccheri
+**** Fligstein
+**** Bourdieu
+
+
+** Theoretical Aspects
+
+*** Time, Circularity, and Change
+
+*** Ritual beyond Social Practice
+
+*** Power and Authority
+
+** Methodology and Architecture
+*** Current Systems
+
+*** Next Steps
+
+
+** Proposed Media Experiences
+
+
+
+
+
+
+** other 
+
+
+Socio-institutional action, a level of individually observable
+behaviour that takes into account more than personal motivations. The
+majority of games and AI today have statically allocated allegiances
+to factions, global communicative behaviour, and global cultural
+norms. By foregrounding the social organisation of groups of agents, a
+different type of social behaviour can be modelled.
+
+Consider this problem from another angle. Current understandings of
+action, and the criteria by which we judge 'social' intelligence in
+AI, stems heavily from an ethnocentric viewpoint of modern, western
+cultures. There are games such as Unrest and Never Alone are starting
+to explore non-western and non-modern cultural descriptions. However,
+the majority of games, even when dealing with fantasy settings such as
+Skyrim, typically do not stray far from modern cultural concepts.
+
+Consider a comparison between Skyrim and Metro:2033. In Skyrim
+traveling to a different city does not bring about any important
+changes in behaviour or social norms. I can rest assured that there
+will be traders, a market economy, houses for families,and so on. I do
+not need to consider that there will be vastly different social norms
+as to how to successfully greet npc's, nor that i need to pay
+attention to individuals behaviours to be able to survive.
+
+Contrast this, somewhat, with Metro:2033. Although much more linear,
+each metro station has it's own atmosphere, politics, and
+allegiances. The factions are still static, but at least I get the
+sense that they each have their own sets of values rather than being
+cardboard cutouts of each other. The Reich, the Reds, the
+Rangers... each have goals that can be expressed in opposition to the
+other factions.
+
+Now consider fiction such as Altered Carbon, or Gormenghast. In these,
+there are multiple layers of social norms, centuries of tradition,
+and goals that group individuals together. Part of the attraction of
+seeing the characters in these works manipulate their situations is
+that some things are inviolable, while others are not.
+
+How could such variation and fluidity be achieved? There do exist social
+simulations that enable individuals to have personal goals, and
+interact with other agents in broad and complex ways. Yet there is no
+capability to manipulate structural aspects of their lives. They can
+not have realisable political goals.
+
+Such viewpoints may bring about useful and novel play
+experiences. Rawl's Veil of Ignorance is one such possibility if we
+can author societies instead of individuals. Allowing a player in an
+RPG to roll a society, with their character being placed in that
+society randomly, may enable a level of cultural criticism and
+exploration not currently feasible. Current events such as Trayvon
+Martin and Eric Garner have highlighted the consequences of ingrained
+cultural views on particular classes of people, both police and
+minorities. To be able to allow players to explore the difficulties of
+living in particular societies that on the face of it are entirely
+just, but only become problematic when power differences become
+apparent, would be a valuable contribution to society.
+
+*** Theory
+   
+*** Sociology
+
+There is a whole host of sociological, philosophical, and
+anthropological literature that goes into various ways of describing
+and reasoning about such structures in human lives. Discussion of
+power by Bourdieu, Greene, and Levi-martin. Considerations of cultural
+structures include people such as Bill Bryson, Norbert Elias, and Ruth
+Benedict. There is a whole host of literature in organisational theory
+by Powell and Dimaggio, Fligstein and McAdam, and many others.
+
+All of the above examples provide usable resources with which to add
+higher level structures onto existing personally focused social models.
+
+
+*** AI
+
+In applied Artificial Intelligence, there are the two primary social
+models of CiF and Praxis. There are considerations of continued
+actions interrupted by other higher importance actions by Bryson with
+Bod and Posh. Castelfranchi, spanning philosophy and AI, has
+considered different levels of social actions.
+
+
+*** Architecture
+
+*** Praxis
+
+*** CiF
+
+*** Media
+
+*** Existing
+
+Existing games that move towards a foregrounding of socio-institutional action include 
+
+
+*** Intended
+

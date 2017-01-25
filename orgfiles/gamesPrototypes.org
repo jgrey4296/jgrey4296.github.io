@@ -1,0 +1,186 @@
+* Games Prototypes
+** Social Roguelike
+[[file:research/socialRoguelike][Social Roguelike Notes]]
+
+
+Binding of Isaac / Dungeon of the endless
+influence,
+
+
+** Gormenghast Sim
+
+Maze of rooms generator with rituals and tradition
+to match. Cif overlay of individuals with power
+plays
+
+** Kraken Wakes
+
+Narrative focused apocalypse sim by John Wyndham.
+
+** Veil of ignorance / Red Mars spaceship society generator
+
+Galactica / Red Mars / Foundation inspired
+repeated crisis point and shift to generate a
+society.
+
+** Sol System
+
+Possibly merge with the above, but Horus Heresy
+style ship to ship combat and planet invasion
+House on haunted hill style reversal of
+allegiances.
+
+** Thud
+   
+As close a translation as i can manage of the
+discworld game.
+
+** Walking Sim
+
+Something peaceful
+
+** Titan
+
+Dynamic LOD based game of scales, titans walking
+around with villages on top. Zelda like story
+would work well here.
+
+
+** Obselete
+
+*** People/Ant Farm
+
+Similar to the sims, but where you have no control
+apart from given them general AI behaviours.
+
+*** AI Hotel
+   
+Playing as the AI hotel from Altered Carbon
+
+*** City Gen
+   
+General attempt to make a city generator that can
+do blocks and english organic growth styles.
+Possibly incorporate churches in to.
+
+*** Fencing
+
+Transistor inspired turned based fluidic movement
+of foils, sabres, and epee's. Possibly used as the
+combat for the social roguelike.
+
+*** Unnamed Horror
+
+Ghost's Hinzerhaus inspired soldier management.
+
+*** American Psycho Sim
+
+The social power plays of Patrick Bateman. Meeting
+cards, lunches at restaurants, dynamic
+conversation, With a bit of going postal thrown in
+to.
+
+*** Boarding School Power Plays
+
+Similar to above, possibly related to unnamed
+horror.
+
+*** Commander Keen Copy
+
+Like the class, and RORC
+
+*** Risk of Rain Copy (RORC)
+
+Narrative-lite, focus on generation of levels and
+shooting and wotnot
+
+*** DOW 2 / Last Stand Copy
+
+Arena based semi rts/rpg class based play.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+** General Ideas to Sort
+
+
+the court politics of discworld's night watch, of
+the west wing and house of cards, combined with
+the societal change due to decisions that result
+in a red mars like society builder. If CiF and
+Praxis represent a computationalised model of
+charismatic power, then it could be combined with
+simplistic rule systems for the legal-rational and
+moral sides of power.
+
+Conflict would arise from individuals assessments
+of how best to use resources, what rules to
+enforce etc, and changes would be brought about by
+making use of the three forms of power to get
+votes. Thus: computational republic.
+
+There are two sides to this plan. One the one hand
+is the individual interactions that realise power,
+and on the other is the manifestations of that
+power into societal structures.  Games like Prom
+Week, Wolf Among us, and Mass Effect are closer
+aligned with the former. You don't really need to
+strategise about keeping people under your thumb,
+or the capabilities of an individual you are going
+to blackmail.
+
+Linked with this is the emphasis on *time*. in
+that time needs to progress, slowly but steadily,
+as you manipulate. This is different from there
+being a timer on things. The closest I can think
+of that gets to this is dead rising, or majora's
+mask. The repeated pattern of days lets you plan
+things out, but in those games only physically.
+
+If you can daily schedules, then you can plan
+other actions, such as social actions. Set in
+motion slow mentions of things, train individuals
+to respond to particular cues. (in this way i'm
+getting towards hannibal style gameplay).
+
+So: Interpersonal Power interactions situated in
+cyclical time. Charismatic, legal-rational,
+economic, and moralistic among others, as the
+basis for manipulating the institutional
+structures to get what you want. Imperfect and
+changing information is a must, as is the need for
+misunderstandings of authority.
+
+FTL crossed with under the dome, difficulties that
+make you rely on people you can't trust, forming
+alliances for as long as you need.
+

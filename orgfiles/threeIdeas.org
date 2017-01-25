@@ -1,0 +1,156 @@
+* TODO Categorise Social norm connections between social/institutional game ideas
+  Red Mars - The Expanse 
+  Galactica - Voyager (Ep Equinox)
+  Social XCom - Forever war - Generation Kill?
+  RP The (Voyager) Doctor. Get left on, slowly become friends with
+  crew instead of just treating them.
+* TODO  Urs' Long war - Tactical thought process for hundreds of episodes
+  What would be the best way to get the transcripts of 400 youtube videos?
+  Use language recognition on the videos, get the transcripts, deep learn a language model
+  for Urs' thought process. Potentially combine that language model with a video model to link the two together.
+  Input an actual game of Xcom, have the model generate a textual description of a narration / command list?
+* TODO Real time, Functional AI authoring pipeline.
+  *Modal Behaviour* for definition and authoring, while a group of
+  agents run in configurations to observe.e
+  Recurse | Iterate | Categorise | Map | Reduce | Guard | PCM on Behaviours.
+  All while viewing Behaviours as a map / simulation , a tree, AND a... managed garden of behaviours?
+  This is looking like realtime functional AI Programming of an exclusion logic language. 
+  Similar to Supercollider's patterns for music, but for ai behaviour? Live-coded.
+*** TODO talk to richard evans about AI editing/authoring cycle for Sims/Versu. 
+** Authoring Modalities
+*** Recurse
+    Connect behaviours to each other logically, defining ever increasingly higher or lower conceptually.
+*** Iterate
+    Repeatedly define a behaviour's components with increasing detail.
+*** Map
+    Combine multiple existing behaviours into a related concept categories/types
+    ie: Homomorphic transform between types
+*** Apply
+    Iterate on selected behaviours, transforming in some way
+*** Reduce
+    Combine multiple existing behaviours into a single conceptual category/type
+*** Guard
+    Disallow or sub-type combinations of types
+*** Chain / Sequence
+    Either Monadically, or otherwise
+*** Exclude
+    Mark exclusion operators (.!) 
+*** Protect
+    Set behaviours to error / escalate to real time if they occur / don't occur under conditions
+*** PCM
+    Partial Comparison Matrix of selections of concepts, adding up to a PCM of every concept 
+    or every level of the concept tree at least
+*** Suggestive
+    Proposes concepts to refine, look at, expand. 
+    Old behaviours, over or under-defined behaviours, behaviours effected by the very last change?
+*** Type-checking / Inference / Learning
+    Define a common type between a selection, then infer the common
+    structure of the group
+
+    A Type can have preconditions, or postconditions for a behaviour.
+  
+    A Type could say :
+    1) "For all Concepts of type  X, there must be an applicable
+       condition from c,c',c''... available".
+    2) "For all concepts of type X, the set of bindings B must be
+       filled"
+    3) "For all concepts of type X, and *then* type Y, that forms a concept of
+       type Z"
+    4) "For all concepts of type X, (and | then | or) type Y, type Z
+       must come next"
+    5) "For all concepts of type X, it's physical primitives are the
+       set Y, and social set Y'  "
+
+**** TODO Possibly email that twitter AI/lang person?
+     Relatedly, below makes me think of computational semiotics and
+     guaranteed 
+*** Primitives
+     Types of Primitives: Model Based (physical/time), API
+     (outgoing communication/control protocols), sensor (incoming
+     communication protocols)
+     Actions and Events, no concepts. 
+***** The distinction between actions, events, and concepts
+      Actions are sequences of physical control protocols over time. 
+      Events are sequences of input communication protocols over time,
+      concepts are sequences of non-actions/events over time
+
+**** Social Constructs
+     Social constructions are anything that only has a conceptual
+     relation and existence. Anything that is not causally related to
+     the physical primitives. 
+
+     If you change the wrong physical primitive, things don't make
+     sense at all, you end up trying to change a tire with a fish. 
+
+     Social constructs can be changed while retaining meaning. It
+     doesnt matter if you bow or shake hands, they surve the same
+     purpose, which is entirely socially. 
+
+     But there is a hierarchy here. While I can't change physical
+     primitives, but can change a 'first-order?' related symbolic
+     action, what about other orders of symbolic actions.
+
+     'First-order symbolic actions and constructs' : Ones that are
+     themselves symbolic, but whose dependencies include primitives.
+
+     'Second-order' social constructs: Without relying on primitive  
+
+     Reciprocal-order? symbolic actions and constructs': where only particular
+     combinations of actions nad concepts make sense. Being Hostile
+     means you'll be Rude, being Rude will come across as
+     hostile. Changing these alters balance and needs to be adjusted
+     mroe carefully. 
+
+
+
+
+**** Link to computational semiotics and the reliableness of language generation
+     Given a limited system of signs, humans will construct additional
+     levels of meaning around those signs.  
+     
+** Observational Modalities
+   Observational modalities are ways of viewing the behaviours in
+   play. This can include mosh pit, situations, sequences, tree, rete
+   tree based, dilemmas, guards, and alerts
+
+*** Mosh pit
+    Put a collection of agents together, and let them run, for random
+    exploration of behaviours, to trigger guards and see overall dynamics.
+*** Situations
+    Sketch specific scenes/characters to see how characters act in
+    particular instances. TTD behaviours
+*** Dilemmas
+    Similar to Situations, but describable crisis points that have
+    larger consequences, on norms etc. eg: The 'good' and 'bad'
+    choices in Fable that modified the world around you in a good or
+    bad way. 
+*** Sequences
+    Similar to situations, but checking a sequence of situtations for
+    particular characteristics
+*** Guards
+    Behaviour Situations / Sequences that should never happen, or
+    should only ever progress to a certain point before other options
+    are taken
+*** Exclusion Tree
+    A Tree exploration of the exclusion logic describing the AI.
+*** Rete Tree
+    A Tree exploration of the rete network alpha and beta networks for
+    the AI
+*** Suggestive
+    Where the interface suggests behaviours to focus on. Uses a number
+    of heuristics:
+**** Historical
+     Suggest entries that have not been modified recently
+**** Reactive
+     Suggest entries that a recent/selected/proposed change can
+     influence to a certain (limited?) depth 
+**** Under-developed
+     Behaviours that do not have a controllable number of components,
+     to a certain level
+**** Over-developed
+     Behaviours that have a certain number of components, to a certain level
+**** Alerts
+     Pop-up alerts of guards triggering in the background.
+     
+
+

@@ -1,0 +1,102 @@
+* Dark Souls and The Institution of 'Praise The Sun'                            :examples:games:institution:darkSouls:
+
+** The Dark Souls Base Game
+
+*** The Physical System
+
+    * Combat - Physical attacks
+      The combat is a large amount of complexity. Light, Heavy, Two Handed attacks, kicking, blocking, Weapons, items, and armour all provide changes to 
+      the events that can, and do, occur. 
+    * Movement
+      The speed of movement is based upon, essentially, what a player is wearing.
+    * Conversation with specific individuals
+      Linear sequences of individual meetings, with specified binary response points, and 
+      triggered by particular actions in the larger game world. Can enable purchasing, 
+      and simple quests.
+    * Purchase of Items and Spells
+      Spells fall into a couple of particular categories (Sourcery, Pyromancer, Dark, Light)
+      which can also have meaning related to affiliation and likely actions
+    * Bloodstains and Ghosts
+      Provide short inaccurate histories of player deaths, a visual record of someones actions. 
+    * Fog Doors
+      Hint at major location transitions, and Bosses, but it can be hard to know which
+    * Bonfires
+      Hub points for individuals to gather to some extent
+    * Physical Objects
+    * Enemies
+
+*** NPCs
+There is the despondent knight, the cleric, etc. People to talk to you can buy items from,
+or summon them during fights, and who provide information. 
+
+**** [[http://darksouls.wikidot.com/solaire-of-astora][Solaire]]
+
+As a recurring, iconic individual, Solaire grabs attention, and 'Praise the Sun' has become a favourite. It has *meaning*
+and ties people together.
+
+**** [[http://darksouls.wikidot.com/siegmeyer-of-catarina][Siegmeyer]]
+Siegmeyer is another iconic character, remaining ironic as you progress past him constantly, while he is always friendly. 
+
+** Covenants
+[[http://darksouls.wikia.com/wiki/Covenant][Dark Souls Covenants]]
+The covenants provide an institution in isolation. The actions of the base game limit what can be done, while the covenant collects 
+behaviours, meaning, and messages to interact with others. The covenants are essentially the institution, abstracted from the organization. 
+They provide a set of base concepts, and idealised behaviours, without there being a formal organisation with actions, tasks etc.
+There are no relations between members of the covenants in most situations. 
+
+
+*** Warriors of Sunlight
+Solaires Covenant.
+
+** Communication with NPCs and Others
+Communication falls into Scripted text sequences between the player and NPCs, and limited grammar messages between players. 
+
+*** Custom Language Sequences
+NPCs can have limited amounts of customised language, fully english.
+
+*** Limited grammar
+Messages meanwhile are limited to a limited grammar, providing sequences of simple symbols. 
+[[http://darksouls.wikia.com/wiki/Messages][Dark Souls Grammar]]
+
+
+
+*** Surroundings + Symbols + Meaning -> Message
+You see an impressive (meaning) sight (surrounding), and leave a message to communicate that with others.
+
+You get killed by an enemy (surrounding) that you hadn't noticed initially (concept: ambush), and leave a message to warn others.
+
+You read a message of symbols which provides you a direction to praise the sun. 
+
+(Note: the surrounding, and grammar are very strictly defined)
+Can this be represented as a simple algebra? 
+meaning + surrounding + symbols -> message
+So:
+message - surrounding -> symbols + meaning
+all the while holding the following constant:
+message - surrounding - meaning - > symbols 
+
+But what is important about this is that language is powerful enough to allow repeated uses to perform:
+message - grammar - meaning -> surrounding
+and:
+message - surrounding - symbols -> meaning
+
+
+If we make up a type system for this:
+Meaning :: Grammar
+Surrounding :: Grammar
+Symbols :: Grammar
+AgentState :: (Meaning, Surrounding)
+Message :: AgentState -> Meaning -> Surrounding -> Symbols -> AgentState
+
+A Message is an operation of an agent, with limited grammars for thinking, observing, and manipulating the world,
+which triggers a state change in some other agent.  
+
+The above describes a base functional system that lacks institutions.
+The effect of institutions on those formulae could be:
+Institution ::  Rules -> Institution
+Institution(M) :: message -> Institution -> Institution(Message)
+
+Ie: An Institution is a co-monad. It holds contextual information, which can then be bound
+with an actual message, to encode effects.
+
+So, an institution can provide coherence between messages more complex than the message on its own can handle. 
