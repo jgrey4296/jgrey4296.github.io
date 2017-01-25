@@ -6,22 +6,22 @@
 ** [[file:intergalacticRobots.org::*Intergalactic%20Robots][Intergalactic Robots]]                                                         :minimal:story:concept:
 ** [[file:jass_notes.org::*JASS%20Notes][JASS Notes]]                                                                   :some_work_done:notes:web:jass:social_science:
 ** [[file:notecards.org::*Note%20Cards][Note Cards]]                                                                   :ideas:notes:some_work_done:reconstructions:
-** [[file:notes/anotherAttempt.org::*Socio-Institutional%20Action][Socio-Institutional Action]]                                                   :some_work_done:overview:writing:
-** [[file:notes/dissertationOutline.org::*Socio-Institutional%20Action][Socio-Institutional Action]]                                                   :overview:minimal:
-** [[file:notes/argumentOverview.org::*On%20Inserting%20Ritual%20structure%20into%20social%20interactions][On Inserting Ritual structure into  social interactions]]                      :some_work_done:tribes:overview:
-** [[file:notes/castelfranchi.org::*Castelfranchi][Castelfranchi]]                                                                :types:castelfranchi:
-** [[file:notes/designDocNotes.org::*Generalised%20Design%20Document][Generalised Design Document]]                                                  :template:overview:
-** [[file:notes/empiricalMethods.org::*Empirical%20Methods%20For%20AI%20notes][Empirical Methods For AI notes]]                                               :minimal:
-** [[file:notes/evansNotes.org::*A%20Socio-Institutional%20Approach%20to%20Action][A Socio-Institutional Approach to Action]]                                     :some_work_done:
-** [[file:notes/galacticaAndPhilosophyNotes.org::*Galactica%20and%20Philosophy%20Notes][Galactica and Philosophy Notes]]                                               :minimal:
-** [[file:notes/programs/logic.org::*Logic][Logic]]                                                                        :minimal:
-** [[file:notes/research/compSocScience.org::*Computational%20Social%20Science%20Thoughts][Computational Social Science Thoughts]]                                        :some_work_done:writing:
-** [[file:notes/research/gamesPrototypes.org::*Games%20Prototypes][Games Prototypes]]                                                             :some_work_done:design:concept:
-** [[file:notes/research/sia.org::*SIA][SIA]]                                                                          :some_work_done:writing:
-** [[file:notes/research/socialRoguelike.org::*The%20Social%20Roguelike][The Social Roguelike]]                                                         :writing:some_work_done:
-** [[file:notes/siaWritings.org::*SIA%20Writings][SIA Writings]]                                                                 :some_work_done:writing:
-** [[file:old/darkSoulsAsInstitution.org::*Dark%20Souls%20and%20The%20Institution%20of%20'Praise%20The%20Sun'][Dark Souls and The Institution of 'Praise The Sun']]                           :games:some_work_done:writing:analysis:
-** [[file:old/gymNotes.org::*notes1][notes1]]                                                                       :writing:gibberish:
+** [[file:anotherAttempt.org::*Socio-Institutional%20Action][Socio-Institutional Action]]                                                   :some_work_done:overview:writing:
+** [[file:dissertationOutline.org::*Socio-Institutional%20Action][Socio-Institutional Action]]                                                   :overview:minimal:
+** [[file:argumentOverview.org::*On%20Inserting%20Ritual%20structure%20into%20social%20interactions][On Inserting Ritual structure into  social interactions]]                      :some_work_done:tribes:overview:
+** [[file:castelfranchi.org::*Castelfranchi][Castelfranchi]]                                                                :types:castelfranchi:
+** [[file:designDocNotes.org::*Generalised%20Design%20Document][Generalised Design Document]]                                                  :template:overview:
+** [[file:empiricalMethods.org::*Empirical%20Methods%20For%20AI%20notes][Empirical Methods For AI notes]]                                               :minimal:
+** [[file:evansNotes.org::*A%20Socio-Institutional%20Approach%20to%20Action][A Socio-Institutional Approach to Action]]                                     :some_work_done:
+** [[file:galacticaAndPhilosophyNotes.org::*Galactica%20and%20Philosophy%20Notes][Galactica and Philosophy Notes]]                                               :minimal:
+** [[file:logic.org::*Logic][Logic]]                                                                        :minimal:
+** [[file:compSocScience.org::*Computational%20Social%20Science%20Thoughts][Computational Social Science Thoughts]]                                        :some_work_done:writing:
+** [[file:gamesPrototypes.org::*Games%20Prototypes][Games Prototypes]]                                                             :some_work_done:design:concept:
+** [[file:sia.org::*SIA][SIA]]                                                                          :some_work_done:writing:
+** [[file:socialRoguelike.org::*The%20Social%20Roguelike][The Social Roguelike]]                                                         :writing:some_work_done:
+** [[file:siaWritings.org::*SIA%20Writings][SIA Writings]]                                                                 :some_work_done:writing:
+** [[file:darkSoulsAsInstitution.org::*Dark%20Souls%20and%20The%20Institution%20of%20'Praise%20The%20Sun'][Dark Souls and The Institution of 'Praise The Sun']]                           :games:some_work_done:writing:analysis:
+** [[file:gymNotes.org::*notes1][notes1]]                                                                       :writing:gibberish:
 ** [[file:phenomenologyOfInstitutions.org::*The%20Phenomenological%20Experience%20of%20Institutional%20Variation][The Phenomenological Experience of Institutional Variation]]                   :writing:some_work_done:
 ** [[file:pirateShip.org::*A%20Pirate%20Ship%20as%20an%20Institutional%20example][A Pirate Ship as an Institutional example]]                                    :some_work_done:writing:minimal:
 ** [[file:procSocietyExamples.org::*Procedural%20Society%20Examples][Procedural Society Examples]]                                                  :writing:some_work_done:concept:design:
@@ -30,7 +30,7 @@
 ** [[file:threeIdeas.org::*Categorise%20Social%20norm%20connections%20between%20social/institutional%20game%20ideas][Categorise Social norm connections between social/institutional game ideas]]   :analysis:some_work_done:minimal:
 ** [[file:whyInstitutions.org::*Why%20Institutions%20are%20important%20for%20video-games][Why Institutions are important for video-games]]                               :argument:minimal:some_work_done:
 ** [[file:~/Dropbox/sunlessSeaNotes.org::*Sunless%20Sea%20/%20Fallen%20london][Sunless Sea / Fallen london]]                                                  :duplicate:
-** [[file:institutions.lhs::Institutions.%20A%20Way%20of%20conceptualising%20social%20interactions%20and%20their%20interrelation][institutions literal haskell]]                                                 :logic:formal:haskell:writing:some_work_done:
+** [[file:../haskell/institutions.lhs::Institutions.%20A%20Way%20of%20conceptualising%20social%20interactions%20and%20their%20interrelation][institutions literal haskell]]                                                 :logic:formal:haskell:writing:some_work_done:
 
 
 
@@ -39,55 +39,55 @@
 * Examples
 ** [[file:General_Games.org::*General%20Games%20and%20IF][General Games and IF]]                                                         :unclear_if_useful:games:examples:list:
 ** [[file:examples.org::*Examples%20of%20Socio-Institutional%20Experiences][Examples of Socio-Institutional Experiences]]                                  :list:examples:
-** [[file:notes/48laws.org::*48%20Laws%20of%20Power][48 Laws of Power]]                                                             :social_science:list:examples:
-** [[file:notes/programs/steamGames.org::*Steam%20Games%20list%20and%20notes][Steam Games list and notes]]                                                   :list:examples:games:
-** [[file:old/errorAndSocialAction.org::*Error%20and%20Social%20Action][Error and Social Action]]                                                      :writing:minimal:examples:
+** [[file:48laws.org::*48%20Laws%20of%20Power][48 Laws of Power]]                                                             :social_science:list:examples:
+** [[file:programs/steamGames.org::*Steam%20Games%20list%20and%20notes][Steam Games list and notes]]                                                   :list:examples:games:
+** [[file:errorAndSocialAction.org::*Error%20and%20Social%20Action][Error and Social Action]]                                                      :writing:minimal:examples:
 ** [[file:sweepLineSocialAlg.org::*Social%20rule%20as%20a%20hierarchical%20graph][Social rule as a hierarchical graph]]                                          :writing:some_work_done:analysis:examples:logic:
 * Reference
-** [[file:notes/highPressureSituations.org::*High%20Pressure%20Situations][High Pressure Situations]]                                                     :overview:minimal:reference:list:
-** [[file:notes/master.org::*Master%20Reference%20File%20of%20notes][Master Reference File of notes]]                                               :reference:overview:
-** [[file:notes/other/ai.org][ai]]                                                                           :reference:
-** [[file:notes/other/algorithms.org][algorithms]]                                                                   :reference:
-** [[file:notes/other/assets.org::*Assets][Assets]]                                                                       :reference:
-** [[file:notes/other/imageComments.org::*Image%20Comments][Image Comments]]                                                               :latex:reference:
-** [[file:notes/other/nlp.org::*%20Natural%20Language%20Processing:][Nlp]]                                                                          :nlp:reference:
-** [[file:notes/other/notebook_notes.org::*Cleaned%20Notebook%20notes][Cleaned Notebook notes]]                                                       :gibberish:reference:
-** [[file:notes/other/patterns.org][patterns]]                                                                     :reference:design:
-** [[file:notes/other/probability.org::*Probability][Probability]]                                                                  :reference:
-** [[file:notes/other/scratch.org][scratch]]                                                                      :reference:obselete:
-** [[file:notes/other/stats.org][stats]]                                                                        :reference:
-** [[file:notes/other/vectorMath.org][vector math]]                                                                  :reference:
-** [[file:notes/other/writing.org::*Argumentation][Argumentation]]                                                                :reference:
-** [[file:notes/programs/blender.org::*Blender][Blender]]                                                                      :reference:minimal:
-** [[file:notes/programs/emacs.org::*%20Emacs][Emacs]]                                                                        :reference:
-** [[file:notes/research/quests.org::*Quests:][Quests:]]                                                                      :reference:
-** [[file:notes/web/links.org::*General%20Web%20Links:][General Web Links:]]                                                           :reference:
-** [[file:old/john_Lambert_security_tweets.org][john lambert security tweets]]                                                 :reference:security:
-** [[file:notes/bookNotes.org::*General%20Books%20notes][General Books notes]]                                                          :examples:list:reference:
-** [[file:notes/culturalAntroNotes.org::*Cultural%20Anthropology%20notes][Cultural Anthropology notes]]                                                  :reference:examples:some_work_done:social_science:
-** [[file:notes/research/extracts.org::*Text%20extracts%20of%20interesting%20Cultural%20interactions:][Text extracts of interesting Cultural interactions:]]                          :large_quotes:fiction:examples:reference:
-** [[file:notes/research/extracts2.org::*Extracts%202][Extracts 2]]                                                                   :reference:examples:fiction:large_quotes:
-** [[file:notes/research/extracts3.org::*Extracts%203][Extracts 3]]                                                                   :examples:reference:minimal:
-** [[file:notes/research/extractsDiscussion.org::*Discussion%20on%20Various%20different%20examples%20of%20interesting%20behaviour][Discussion on Various different examples of interesting behaviour]]            :reference:examples:fiction:
-** [[file:notes/socialStructures.org::*Social%20Structure%20Notes][Social Structure Notes]]                                                       :reference:examples:minimal:
-** [[file:notes/tribeDescriptions.org::*Tribe%20Descriptions][Tribe Descriptions]]                                                           :examples:reference:some_work_done:
-** [[file:notes/web/rpsNotes.org::*Rock%20Paper%20Shotgun][Rock Paper Shotgun]]                                                           :reference:examples:games:
-** [[file:notes/web/usefulLinks.org::*Useful%20Links][Useful Links]]                                                                 :examples:reference:minimal:
-** [[file:old/sunlessSeaNotes.org::*Sunless%20Sea%20/%20Fallen%20london][Sunless Sea / Fallen london]]                                                  :reference:examples:minimal:analysis:
+** [[file:highPressureSituations.org::*High%20Pressure%20Situations][High Pressure Situations]] :overview:minimal:reference:list:
+** [[file:master.org::*Master%20Reference%20File%20of%20notes][Master Reference File of notes]]                                               :reference:overview:
+** [[file:ai.org][ai]]                                                                           :reference:
+** [[file:algorithms.org][algorithms]]                                                                   :reference:
+** [[file:assets.org::*Assets][Assets]]                                                                       :reference:
+** [[file:imageComments.org::*Image%20Comments][Image Comments]]                                                               :latex:reference:
+** [[file:nlp.org::*%20Natural%20Language%20Processing:][Nlp]]                                                                          :nlp:reference:
+** [[file:notebook_notes.org::*Cleaned%20Notebook%20notes][Cleaned Notebook notes]]                                                       :gibberish:reference:
+** [[file:patterns.org][patterns]]                                                                     :reference:design:
+** [[file:probability.org::*Probability][Probability]]                                                                  :reference:
+** [[file:scratch.org][scratch]]                                                                      :reference:obselete:
+** [[file:stats.org][stats]]                                                                        :reference:
+** [[file:vectorMath.org][vector math]]                                                                  :reference:
+** [[file:writing.org::*Argumentation][Argumentation]]                                                                :reference:
+** [[file:blender.org::*Blender][Blender]]                                                                      :reference:minimal:
+** [[file:emacs.org::*%20Emacs][Emacs]]                                                                        :reference:
+** [[file:quests.org::*Quests:][Quests:]]                                                                      :reference:
+** [[file:links.org::*General%20Web%20Links:][General Web Links:]]                                                           :reference:
+** [[file:john_Lambert_security_tweets.org][john lambert security tweets]]                                                 :reference:security:
+** [[file:bookNotes.org::*General%20Books%20notes][General Books notes]]                                                          :examples:list:reference:
+** [[file:culturalAntroNotes.org::*Cultural%20Anthropology%20notes][Cultural Anthropology notes]]                                                  :reference:examples:some_work_done:social_science:
+** [[file:extracts.org::*Text%20extracts%20of%20interesting%20Cultural%20interactions:][Text extracts of interesting Cultural interactions:]]                          :large_quotes:fiction:examples:reference:
+** [[file:extracts2.org::*Extracts%202][Extracts 2]]                                                                   :reference:examples:fiction:large_quotes:
+** [[file:extracts3.org::*Extracts%203][Extracts 3]]                                                                   :examples:reference:minimal:
+** [[file:extractsDiscussion.org::*Discussion%20on%20Various%20different%20examples%20of%20interesting%20behaviour][Discussion on Various different examples of interesting behaviour]]            :reference:examples:fiction:
+** [[file:socialStructures.org::*Social%20Structure%20Notes][Social Structure Notes]]                                                       :reference:examples:minimal:
+** [[file:tribeDescriptions.org::*Tribe%20Descriptions][Tribe Descriptions]]                                                           :examples:reference:some_work_done:
+** [[file:rpsNotes.org::*Rock%20Paper%20Shotgun][Rock Paper Shotgun]]                                                           :reference:examples:games:
+** [[file:usefulLinks.org::*Useful%20Links][Useful Links]]                                                                 :examples:reference:minimal:
+** [[file:sunlessSeaNotes.org::*Sunless%20Sea%20/%20Fallen%20london][Sunless Sea / Fallen london]]                                                  :reference:examples:minimal:analysis:
 ** [[file:workedExamples.org::*Worked%20examples%20of%20institutions][Worked examples of institutions]]                                              :some_work_done:examples:writing:reference:
 ** [[file:book_notes.org::*Book%20Notes][Book Notes]]                                                                   :list:reference:books:
 * Some Work Done
 ** [[file:jass_notes.org::*JASS%20Notes][JASS Notes]]                                                                   :some_work_done:notes:web:jass:social_science:
 ** [[file:notecards.org::*Note%20Cards][Note Cards]]                                                                   :ideas:notes:some_work_done:reconstructions:
-** [[file:notes/anotherAttempt.org::*Socio-Institutional%20Action][Socio-Institutional Action]]                                                   :some_work_done:overview:writing:
-** [[file:notes/argumentOverview.org::*On%20Inserting%20Ritual%20structure%20into%20social%20interactions][On Inserting Ritual structure into  social interactions]]                      :some_work_done:tribes:overview:
-** [[file:notes/evansNotes.org::*A%20Socio-Institutional%20Approach%20to%20Action][A Socio-Institutional Approach to Action]]                                     :some_work_done:
-** [[file:notes/research/compSocScience.org::*Computational%20Social%20Science%20Thoughts][Computational Social Science Thoughts]]                                        :some_work_done:writing:
-** [[file:notes/research/gamesPrototypes.org::*Games%20Prototypes][Games Prototypes]]                                                             :some_work_done:design:concept:
-** [[file:notes/research/sia.org::*SIA][SIA]]                                                                          :some_work_done:writing:
-** [[file:notes/research/socialRoguelike.org::*The%20Social%20Roguelike][The Social Roguelike]]                                                         :writing:some_work_done:
-** [[file:notes/siaWritings.org::*SIA%20Writings][SIA Writings]]                                                                 :some_work_done:writing:
-** [[file:old/darkSoulsAsInstitution.org::*Dark%20Souls%20and%20The%20Institution%20of%20'Praise%20The%20Sun'][Dark Souls and The Institution of 'Praise The Sun']]                           :games:some_work_done:writing:analysis:
+** [[file:anotherAttempt.org::*Socio-Institutional%20Action][Socio-Institutional Action]]                                                   :some_work_done:overview:writing:
+** [[file:argumentOverview.org::*On%20Inserting%20Ritual%20structure%20into%20social%20interactions][On Inserting Ritual structure into  social interactions]]                      :some_work_done:tribes:overview:
+** [[file:evansNotes.org::*A%20Socio-Institutional%20Approach%20to%20Action][A Socio-Institutional Approach to Action]]                                     :some_work_done:
+** [[file:compSocScience.org::*Computational%20Social%20Science%20Thoughts][Computational Social Science Thoughts]]                                        :some_work_done:writing:
+** [[file:gamesPrototypes.org::*Games%20Prototypes][Games Prototypes]]                                                             :some_work_done:design:concept:
+** [[file:sia.org::*SIA][SIA]]                                                                          :some_work_done:writing:
+** [[file:socialRoguelike.org::*The%20Social%20Roguelike][The Social Roguelike]]                                                         :writing:some_work_done:
+** [[file:siaWritings.org::*SIA%20Writings][SIA Writings]]                                                                 :some_work_done:writing:
+** [[file:darkSoulsAsInstitution.org::*Dark%20Souls%20and%20The%20Institution%20of%20'Praise%20The%20Sun'][Dark Souls and The Institution of 'Praise The Sun']]                           :games:some_work_done:writing:analysis:
 ** [[file:phenomenologyOfInstitutions.org::*The%20Phenomenological%20Experience%20of%20Institutional%20Variation][The Phenomenological Experience of Institutional Variation]]                   :writing:some_work_done:
 ** [[file:pirateShip.org::*A%20Pirate%20Ship%20as%20an%20Institutional%20example][A Pirate Ship as an Institutional example]]                                    :some_work_done:writing:minimal:
 ** [[file:procSocietyExamples.org::*Procedural%20Society%20Examples][Procedural Society Examples]]                                                  :writing:some_work_done:concept:design:
