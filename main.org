@@ -93,3 +93,4 @@
 *** [[file:whyInstitutions.org::*Why%20Institutions%20are%20important%20for%20video-games][Why Institutions are important for video-games]]                              :argument:minimal:some_work_done:
 *** [[file:~/Dropbox/sunlessSeaNotes.org::*Sunless%20Sea%20/%20Fallen%20london][Sunless Sea / Fallen london]]                                                 :duplicate:
 *** [[file:../haskell/institutions.lhs::Institutions.%20A%20Way%20of%20conceptualising%20social%20interactions%20and%20their%20interrelation][institutions literal haskell]]                                                :logic:formal:haskell:writing:some_work_done:
+*** [[file:orgfiles/machine_learning.org::*Machine%20Learning%20Notes][Machine Learning Notes]]                                                      :machine_learning:
