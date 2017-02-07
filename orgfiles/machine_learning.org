@@ -1,0 +1,125 @@
+* Machine Learning Notes
+** Algorithms
+*** C4.5
+*** K-means
+*** Support Vector Machines
+*** Apriori
+*** EM
+*** PageRank
+*** AdaBoost
+*** kNN
+    K-Nearest Neighbours
+*** Naive Bayes
+*** CART
+*** Decision Trees
+*** Ordinary Least Squares Regression
+*** Logistic Regression
+*** Ensemble Methods
+*** Clustering Algorithms
+*** Principal Component Analysis
+*** Singular Value Decomposition
+*** Independent Component Analysis
+** Libraries
+*** SK-Learn
+    Mainly implements *estimators* that can do:
+    1) Classification - assign to finite labels
+    2) Regression - predict continuous target variable
+    3) clustering
+    4) transformation (from raw data, ie: PCA)
+
+    Estimators have *.fit( array_2d )* and *.score()*
+    Score values: bigger is better
+
+
+**** Datasets
+     Sklearn datasets, loaded with 'from sklearn import datsets'
+     Located in .data member of the dataset loaded, with n_samples and n_features.
+     Description of characteristics are in .DESCR
+**** Choosing parameters
+     Can be set manually, or found using *grid search* and *cross validation*
+**** Conventions
+     Inputs will be cast by default to *float64* Classifiers will
+     preserve the output type used as target (or target names)
+     *.fit()* will overwrite a learned model
+     *.set_params()* allows hyper-param modification *without* overwriting
+     Multiclass classifiers are dependent on the format of target data.
+     (ie: *LabelBinarizer* can convert to one-hot encoding)
+     (While *MultiLabelBinarizer* converts to multiple labels in array)
+**** Classification
+***** Nearest Neighbour
+      Given a new observation, find in the training set the closest
+      feature vector.
+      Uses *sklearn.neighbors.kNeighborsClassifier*
+***** Logistic
+      To fit to binary output, for classification
+      *linear_model.LogisticRegression(C=1e5)*
+***** SVMs
+      Linear SVMS:
+      *sklearn.svm.SVC(kernel=linear)* 
+      kernel can also be 'poly' and 'rbf' (radial basis function)
+**** Regression
+***** Linear
+      Fits a model of the form:
+      *y = X B + e*
+      Where:
+      *X = Data, y = target variable, B = coefficients, e = noise*
+      Example: 
+      *sklearn.linear_model*
+      Includes LinearRegression, and RidgeRegression, and Lasso
+      Ridge is for situations with high variance, performing
+      bias/variance tradeoff.
+      *Lasso* is Least absolute shrinkage and selection operator, setting
+      some coefficients to zero for high dimensional sparse data. 
+      Lasso is efficient for large datsets.
+      *LassoLars* is efficient for problems where the weight vector is sparse.
+**** Validation
+***** K-Folds
+      use *sklearn.model_selection.KFold*
+      KFold(n_splits=n, random_state=None, shuffle=False)
+      Creates a generator to loop through, providing
+      training and testing indices to apply to datasets
+***** StratifiedKFold
+      Preserves class distribution within folds
+***** GroupKFold
+      Ensures groups aren't duplicated between training and testing sets
+***** ShuffleSplit
+      Random permutation
+***** StratifiedShuffleSplit
+      Preserves class distribution
+***** GroupShuffleSplit
+      Stops duplications
+***** LeaveOneGroupOut
+***** LeavePGroupsOut
+***** LeaveOneOut
+***** LeavePOut
+***** PredefinedSplit
+
+*** Gensim
+*** TensorFlow
+*** Numpy
+    Get the unique values in an array with *np.unique(array)*
+    Get a linear space with *np.linspace*
+    Get a log space with *np.logspace*
+
+*** Scipy
+*** Pandas
+*** statsmodels
+*** mlpy
+*** nltk
+*** spacy
+*** Matplotlib
+    To show a matrix as an image:
+    plt.imshow(image, cmap=plt.cm.gray_r)
+
+** Practices
+*** Preprocessing
+    Typically to reshape data into a n*m shape
+*** Supervised Learning
+*** Unsupervised Learning
+*** Training and Test Sets
+*** Sigmoid Functions
+    Functions to fit values to binary outputs
+    *y = sigmoid(X * B - offset) + e*
+    is:
+    *(1 / (1 + exp( - X * B + offset))) + e*
+    
