@@ -1,11 +1,7 @@
 * Master Reference File of notes
 
 [[http://www.roguebasin.com/index.php?title%3DMain_Page][Roguelike wiki]]
-[[http://users.soe.ucsc.edu/~jgrey][Ucsc Home Page]]
 [[https://github.com/jgrey4296][Github]]
-[[https://sccountybank.com/olblogin.cfm?lt%3Dpersonal][bank login]]
-[[https://www.myprepaidrefill.com/MobilityUSWeb/anonTopupStart.do?isGift%3Dfalse][Phone Top Up]]
-[[http://www2.ucsc.edu/courses/cmps112-wm/:/][112 Course Page]]
 
 ** Research
 
@@ -366,38 +362,6 @@ source ~/dropbox/scripts/shell/main_bash
  avast!.app/
  calibre.app/
  Wacom Tablet.localized/
-
-**** PATH
-/Volumes/Documents/dropbox/scripts/shell/:
-/opt/local/libexec/gnubin:
-/opt/local/include:
-/opt/local/lib:
-/opt/local/sbin:
-/opt/local/bin:
-/Volumes/Documents/Dropbox/Programming/Perl:
-/Applications/SuperCollider:
-/Volumes/Documents/Libraries/android-sdk-macosx/tools:
-/Volumes/Documents/Libraries/android-sdk-macosx/platform-tools:
-/Volumes/Documents/Libraries/android-sdk-macosx/build-tools/19.1.0:
-/usr/local/bin:
-/Users/jgrey/node_modules:
-/Volumes/Documents/dropbox/scripts/shell/:
-/opt/local/libexec/gnubin:
-/opt/local/include:
-/opt/local/lib:
-/opt/local/sbin:
-/opt/local/bin:
-/Volumes/Documents/Dropbox/Programming/Perl:
-/Applications/SuperCollider:
-/Volumes/Documents/Libraries/android-sdk-macosx/tools:
-/Volumes/Documents/Libraries/android-sdk-macosx/platform-tools:
-/Volumes/Documents/Libraries/android-sdk-macosx/build-tools/19.1.0:
-/usr/local/bin:
-/Users/jgrey/node_modules:
-/usr/bin:
-/bin:
-/usr/sbin:
-/sbin
 
 *** Command line
 
