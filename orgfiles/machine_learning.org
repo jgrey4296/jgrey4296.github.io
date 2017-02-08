@@ -29,8 +29,6 @@
 
     Estimators have *.fit( array_2d )* and *.score()*
     Score values: bigger is better
-
-
 **** Datasets
      Sklearn datasets, loaded with 'from sklearn import datsets'
      Located in .data member of the dataset loaded, with n_samples and n_features.
@@ -45,6 +43,8 @@
      Multiclass classifiers are dependent on the format of target data.
      (ie: *LabelBinarizer* can convert to one-hot encoding)
      (While *MultiLabelBinarizer* converts to multiple labels in array)
+     Estimators with 'CV' at the end will set their parameters by
+     cross validation.
 **** Classification
 ***** Nearest Neighbour
       Given a new observation, find in the training set the closest
@@ -57,6 +57,8 @@
       Linear SVMS:
       *sklearn.svm.SVC(kernel=linear)* 
       kernel can also be 'poly' and 'rbf' (radial basis function)
+***** Naive Bayes
+      sklearn.naive_bayes.MultinomialNB
 **** Regression
 ***** Linear
       Fits a model of the form:
@@ -72,44 +74,91 @@
       some coefficients to zero for high dimensional sparse data. 
       Lasso is efficient for large datsets.
       *LassoLars* is efficient for problems where the weight vector is sparse.
-**** Validation
-***** K-Folds
-      use *sklearn.model_selection.KFold*
-      KFold(n_splits=n, random_state=None, shuffle=False)
-      Creates a generator to loop through, providing
-      training and testing indices to apply to datasets
-***** StratifiedKFold
-      Preserves class distribution within folds
-***** GroupKFold
-      Ensures groups aren't duplicated between training and testing sets
-***** ShuffleSplit
-      Random permutation
-***** StratifiedShuffleSplit
-      Preserves class distribution
-***** GroupShuffleSplit
-      Stops duplications
-***** LeaveOneGroupOut
-***** LeavePGroupsOut
-***** LeaveOneOut
-***** LeavePOut
-***** PredefinedSplit
+**** Clustering
+     from sklearn import cluster
+***** KMeans
+      km = KMeans(n_clusters=n)
+      km.fit(data)
+      To see the clustered groups:
+      km.labels_
+***** Hierarchical clustering
+****** Agglomerative : Bottom up
+       sklearn.cluster.AgglomerativeClustering
+****** Divisive : Top down
+       sklearn.cluster
+**** PCA
+     Can reduced dimensionality
+     sklearn.decomposition.pca
+**** ICA
+     Independent component analysis
+**** Pipelines
+     sklearn.pipeline.Pipeline
+     Can chain estimators together
+     p = Pipeline(steps=[('stepname',estimator)...])
+     Variables of steps can be set using '__' separated param names.
+     eg: stepname__alpha = x
 
-*** Gensim
-*** TensorFlow
+**** Validation
+     sklearn.metrics
+***** Folds
+****** K-Folds
+       use *sklearn.model_selection.KFold*
+       KFold(n_splits=n, random_state=None, shuffle=False)
+       Creates a generator to loop through, providing
+       training and testing indices to apply to datasets
+****** StratifiedKFold
+       Preserves class distribution within folds
+****** GroupKFold
+       Ensures groups aren't duplicated between training and testing sets
+****** ShuffleSplit
+       Random permutation
+****** StratifiedShuffleSplit
+       Preserves class distribution
+****** GroupShuffleSplit
+       Stops duplications
+****** LeaveOneGroupOut
+****** LeavePGroupsOut
+****** LeaveOneOut
+****** LeavePOut
+****** PredefinedSplit
+***** cross_val_score
+      sklearn.model_selection.cross_val_score
+      cvs(estimator,X,y,cv=fold_instance)
+***** Grid Search
+      sklearn.model_selection.GridSearchCV
+      clf = GridSearchCV(estimator=svc,param_grid=dict(param=poss_value_list))
+      clf.fit...
+      clf.best_score_
+      clf.best_estimator_.param
+      clf.score(x,y)
+***** Reports
+      sklearn.metrics.classification_report
+      sklearn.metrics.confusion_matrix
+**** Text Processing
+     sklearn.feature_extraction.text.CountVectorizer
+     can transform text into tokens/bags of words.
+
+***** Term-Frequency times Inverse Document Frequency
+      sklearn.feature_extraction.text.TfidfTransformer
+      Can transform bags of words. 
+
+*** Matplotlib
+    To show a matrix as an image:
+    plt.imshow(image, cmap=plt.cm.gray_r)
 *** Numpy
     Get the unique values in an array with *np.unique(array)*
     Get a linear space with *np.linspace*
     Get a log space with *np.logspace*
-
+    Reshape with np.reshape(tuple),
+    Reshape can take a single -1, which will be inferred from other args.
+*** spacy
 *** Scipy
+    has scipy.sparse matrices.
 *** Pandas
 *** statsmodels
-*** mlpy
+*** TensorFlow
 *** nltk
-*** spacy
-*** Matplotlib
-    To show a matrix as an image:
-    plt.imshow(image, cmap=plt.cm.gray_r)
+*** Gensim
 
 ** Practices
 *** Preprocessing
@@ -122,4 +171,13 @@
     *y = sigmoid(X * B - offset) + e*
     is:
     *(1 / (1 + exp( - X * B + offset))) + e*
-    
+*** Metrics
+**** Precision
+**** Recall
+**** Accuracy
+**** f1?
+**** support?
+*** Estimator selection:
+    [[http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html][Flow Chart of Estimators]]
+*** Streaming
+    Use generators / yield for streaming large documents
