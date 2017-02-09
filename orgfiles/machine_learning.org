@@ -143,14 +143,119 @@
       Can transform bags of words. 
 
 *** Matplotlib
+    Two apis: OO and State based.
     To show a matrix as an image:
     plt.imshow(image, cmap=plt.cm.gray_r)
+    import matplotlib
+    import matplotlib.pyplot as plt
+
+**** Format
+    Specify only a marker for scatter plots.
+    -             solid line style
+    --            dashed line style
+    -.            dash-dot line style
+    :             dotted line style
+    .             point marker
+    ,             pixel marker
+    o             circle marker
+    v             triangle_down marker
+    ^             triangle_up marker
+    bgrcmyakw     blue green red cyan...
+    1234sp*hH+xDd|_ are all additional markers
+
+    Additional:
+
+    agg_filter: unknown
+    alpha: float (0.0 transparent through 1.0 opaque) 
+    animated: [True | False] 
+    antialiased or aa: [True | False] 
+    axes: an :class:`~matplotlib.axes.Axes` instance 
+    clip_box: a :class:`matplotlib.transforms.Bbox` instance 
+    clip_on: [True | False] 
+    clip_path: [ (:class:`~matplotlib.path.Path`, :class:`~matplotlib.transforms.Transform`) | :class:`~matplotlib.patches.Patch` | None ] 
+    color or c: any matplotlib color 
+    contains: a callable function 
+    dash_capstyle: ['butt' | 'round' | 'projecting'] 
+    dash_joinstyle: ['miter' | 'round' | 'bevel'] 
+    dashes: sequence of on/off ink in points 
+    drawstyle: ['default' | 'steps' | 'steps-pre' | 'steps-mid' | 'steps-post'] 
+    figure: a :class:`matplotlib.figure.Figure` instance 
+    fillstyle: ['full' | 'left' | 'right' | 'bottom' | 'top' | 'none'] 
+    gid: an id string 
+    label: string or anything printable with '%s' conversion. 
+    linestyle or ls: ['solid' | 'dashed', 'dashdot', 'dotted' | (offset, on-off-dash-seq) | ``'-'`` | ``'--'`` | ``'-.'`` | ``':'`` | ``'None'`` | ``' '`` | ``''``]
+    linewidth or lw: float value in points 
+    marker: :mod:`A valid marker style <matplotlib.markers>`
+    markeredgecolor or mec: any matplotlib color 
+    markeredgewidth or mew: float value in points 
+    markerfacecolor or mfc: any matplotlib color 
+    markerfacecoloralt or mfcalt: any matplotlib color 
+    markersize or ms: float 
+    markevery: [None | int | length-2 tuple of int | slice | list/array of int | float | length-2 tuple of float]
+    path_effects: unknown
+    picker: float distance in points or callable pick function ``fn(artist, event)`` 
+    pickradius: float distance in points 
+    rasterized: [True | False | None] 
+    sketch_params: unknown
+    snap: unknown
+    solid_capstyle: ['butt' | 'round' |  'projecting'] 
+    solid_joinstyle: ['miter' | 'round' | 'bevel'] 
+    transform: a :class:`matplotlib.transforms.Transform` instance 
+    url: a url string 
+    visible: [True | False] 
+    xdata: 1D array 
+    ydata: 1D array 
+    zorder: any number 
+
+**** Styles
+     plt.style.use(...)
+     Available include: seaborn, bmh, fivetheiryeight, seaborn-muted...
+
+**** Object Oriented API
+     Best way to create:
+     figure, axes = plt.subplots(2)
+
+     Figure Manipulations:
+     .saveFig(filename), .suptitle
+
+     Axes Manipulations:
+     .clear(), .axhspan, .axvspan, .set_{}/.set()
+     .plot(x,y,format,label=LABEL)
+     .legend()
+
+**** Bar Charts
+     bars = {'a':2,'b':4,'c':15,'d':1}
+     barPositions = np.arange(len(bars))
+     axes.bar(barPositions,bars.values(),align='center')
+     axes.set_xticks(barPositions)
+     axes.set_xticklabels(bars.keys())
+
+**** ErrorBars
+     fig,ax = plt.subplots(1)
+     ax.errorbar(x, y, yerr=AMNT, xerr=AMNT2, fmt=FORMAT)
+
+***** Continuous error
+      Use some form of interpolator between points 
+      (eg: sklearn.gaussian_process)
+      Then:
+      axes.plot(x,y)
+      axes.fill_between(x,y-error,y+error,alpha=0.2)
+      
+**** Scatter plots
+     axes.scatter..
+
+**** contour plots
+     a.contour...
+
+
 *** Numpy
     Get the unique values in an array with *np.unique(array)*
     Get a linear space with *np.linspace*
     Get a log space with *np.logspace*
     Reshape with np.reshape(tuple),
     Reshape can take a single -1, which will be inferred from other args.
+    
+
 *** spacy
 *** Scipy
     has scipy.sparse matrices.
