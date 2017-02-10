@@ -76,6 +76,7 @@
       *LassoLars* is efficient for problems where the weight vector is sparse.
 **** Clustering
      from sklearn import cluster
+     for clustering an nx.graph, use nx.to_numpy_matrix...
 ***** KMeans
       km = KMeans(n_clusters=n)
       km.fit(data)
@@ -85,10 +86,16 @@
 ****** Agglomerative : Bottom up
        sklearn.cluster.AgglomerativeClustering
 ****** Divisive : Top down
-       sklearn.cluster
+       sklearn.cluster...
+***** Spectral
+      cluster.SpectralClustering
+***** Affinity
+      cluster.affinity_propagation.
+      *Doesnt* use the fit pattern.
 **** PCA
      Can reduced dimensionality
      sklearn.decomposition.pca
+     sklearn.manifold.Isomap is similar
 **** ICA
      Independent component analysis
 **** Pipelines
@@ -134,6 +141,10 @@
 ***** Reports
       sklearn.metrics.classification_report
       sklearn.metrics.confusion_matrix
+      
+      used for clustering:
+      sklearn.metrics.normalized_mutual_info_score
+      sklearn.metrics.adjusted_rand_score
 **** Text Processing
      sklearn.feature_extraction.text.CountVectorizer
      can transform text into tokens/bags of words.
@@ -144,6 +155,7 @@
 
 *** Matplotlib
     Two apis: OO and State based.
+    *Seaborn* is a modern overlaying api.
     To show a matrix as an image:
     plt.imshow(image, cmap=plt.cm.gray_r)
     import matplotlib
@@ -207,13 +219,16 @@
     ydata: 1D array 
     zorder: any number 
 
+**** Colour maps
+     see *plt.cm* for various options 
 **** Styles
      plt.style.use(...)
      Available include: seaborn, bmh, fivetheiryeight, seaborn-muted...
 
 **** Object Oriented API
      Best way to create:
-     figure, axes = plt.subplots(2)
+     figure, axes = plt.subplots(2,M?)
+     For more complex arrangements, see *plt.GridSpec*
 
      Figure Manipulations:
      .saveFig(filename), .suptitle
@@ -242,11 +257,34 @@
       axes.fill_between(x,y-error,y+error,alpha=0.2)
       
 **** Scatter plots
-     axes.scatter..
+     axes.scatter(X,Y,s=sizes,c=colours,params...)
 
 **** contour plots
-     a.contour...
+     axes.contour(X,Y,Z,params...)
+     For filled version:
+     axes.contourf(....)
+     use different values of the *cmap* param for different colours.
+     See *plt.cm* for various cmaps
+     Use *plt.colorbar* to vis the colour map
 
+**** Image display
+     *plt.imshow(X)*
+     X of shape (n,m,[3,4]?)
+     Origin is *upper left*
+
+**** Histograms
+     axes.hist(x)
+     axes.hist2d...
+     axes.hexbin...
+     With bins, range, normed, weights, cumulative params
+
+*** Graphviz
+    import graphviz
+    #check graphviz.ENGINES
+    G = graphviz.Digraph(engine='fdp')
+    G.node(NAME,LABEL)
+    G.edge(TAIL,HEAD)
+    G.render(FILENAME,view=True)
 
 *** Numpy
     Get the unique values in an array with *np.unique(array)*
@@ -254,7 +292,7 @@
     Get a log space with *np.logspace*
     Reshape with np.reshape(tuple),
     Reshape can take a single -1, which will be inferred from other args.
-    
+    Create 2d grids using 1d arrays using *np.meshgrid*
 
 *** spacy
 *** Scipy
