@@ -3,6 +3,10 @@ layout: default
 ---
 <h1>{{ page.title }}</h1>
 <p class="meta">{{ page.date | date_to_string }}</p>
+Tags:
+{% for category in page.categories %}
+{{category}}
+{% endfor %}
 
 <div class="post">
   {{ content }}
