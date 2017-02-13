@@ -1,0 +1,47 @@
+.container {
+    background : grey;
+    margin-left : 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+
+.container h1 {
+    margin: auto;
+    text-align: center;
+}
+
+.container .post {
+    margin: auto;
+    text-align: left;
+}
+
+body {
+    background : white
+}
+
+nav {
+    background: darkgrey;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+nav ul {
+    margin: auto;
+}
+
+.container {
+    padding : 10px;
+}
+
+.container img {
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top:20px;
+    margin-bottom:20px;
+}
