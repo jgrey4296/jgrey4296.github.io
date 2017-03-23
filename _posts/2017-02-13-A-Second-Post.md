@@ -2,7 +2,7 @@
 layout: post
 title: "A Second Post"
 date: 2017-02-13
-categories: [havent,a,clue]
+tags: bob bill awef
 ---
 This is a second post, using a yasnippet
 With a test image:
