@@ -1,0 +1,83 @@
+* The Authoring Shell and Modal Systems
+
+A useful set of pieces to model a complex system:
+That uses:
+	1) Static data nodes
+    2) Scoped and Global Rules
+       collections of rules that apply to categories of relations.
+       [X,i] rules get applied to instantiations, 
+	   [Y,S] rules apply to defined scopes. Global, local, descendents, ancestors..., things with a tag T
+    3) Instantiation rules
+       1 and 2 get towards describing a platonic item. IRs allow 'there are
+       25 apples, with the instId of 0-25, in play in the world'.
+       String instantiation and modification would fit here to.
+    4) FSMs
+       Enabling transition systems between states of the local world's instantiations
+    5) Parameterised freedom
+
+    6) Layers, Gradient Descent, Evolution,  
+       By Specifying layers and groups with parameterised freedom,  be able to
+       treat them as nodes in a network, and have them learn, die, mate...
+
+
+If you represent all of these with a level of abstraction to get them all similar, authoring could become alot easier.
+A Modal editor, where a node can have the forms:
+
+	1) A Raw Node, with variables
+    2) A Node where Children are alternatives. Array/Set/Queue/Stack behaviour
+    3) A Node where variables are instantiations. 
+       Ie: parent's are prototypes or components, and children are existing instantiations.
+       Instantiations can be existentially exclusive of a set of options,
+       mututally exclusive, complementary, inclusive, indexed.
+    4) A Node as a rule, where parents are conditions, children are actions, and the node body holds transforms of bound variables
+       Where nodes are the the fluents being tested and manipulated in conditions, and actions.
+       Rules would be instantiable themselves, able to act in particular scopes, 
+       applicable only when attached to an instance
+       able to test for instances, and select them by index
+    5) A Node as a FSM, where the fsm has states, and conditions as modal children. (An FSM would also be instantiable)
+       Instiantiable, and then testable.`
+    6) A Node that collects a group of rules into a category, a variation on (2)
+    7) A Node that has a defined substructure 
+       So a prototypical copy of another segment of the shell?
+    8) A Node where nodes have modification controlled
+       Either permanently, modifiably, depthly or shallowly. Down to specified options, or freely.
+    9) A Node where change can view positively or negatively, and action taken accordingly?
+       Where there is a defined error assessment?
+
+
+What does this result in as a semantics and structures for node, that will cover everything else?
+*** Structure:
+  The node would need a unique id, and a dictionary of modes that it fulfills.
+  Categories being:
+  Variable-value edges
+  Value-node edges
+  Parent-Child Edges
+  Condition-Rule-Action Edges
+  Instantiation-Exclusion-Alternative edges
+  FSM-Event-State edges
+  Local-Rule edges
+  Instantiation-Rule edges
+  
+  
+
+
+** On Learning Haskell, Monads and Parsers in the right way
+   While haskell is great, it is the wrong language to use to learn how to write haskell.
+   Javascript is the *right* way to learn haskell, then you add types.
+
+   Although Monads are a type theory concept, they are a *functional* construct. By which I mean that although type theory
+   describes and enables monads, they only *require* the ability to do first class functional programming. They are used as 
+   a means to solve a problem, namely, *code repetition*.
+
+   Parsers are the prime area to learn and use monads, and not in haskell. In Haskell you get bogged down in the type system. 
+   In javascript, you have to track it in your head, but also learn the underlying patterns.
+
+   Namely, the ability to pass a function in, and possibly use it, possibly do something else, but still returning a result
+   that can be used in a similarly chained function.
+   Text -> (Maybe Parse).
+   
+   ... Here, follow the example out. expanding out what monads save in terms of if tests and hard coding
+   Show why 'return' is better seen as 'lift', to take a value, and return the value the input wrapping function can use. 
+   
+   Parsing shows how to chain functions together.
+   Also, Parsec shouldn't be imported unqualified when learning. Everything should . Parsec.<|> etc
