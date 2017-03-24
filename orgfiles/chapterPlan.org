@@ -24,13 +24,13 @@ Moise
 ** [[file:notes/anotherAttempt.org::*Socio-Institutional%20Action][Socio-Institutional Action]]                                                   :socioInstitutional:
 ** [[file:threeIdeas.org][Real time Functional AI Authoring]]                                            :authoring:ai:
 ** Conclusion
-In conclusion, I have shown how the systems in videogames are underdeveloped regarding institutions. 
-Institutions that are structured collections of norms, that the literature glosses over structural and mechanical descriptions of,
+In conclusion, I have shown how underdeveloped the systems in videogames are regarding institutions. 
+Literature on Institutions, as structured collections of norms, glosses over structural and mechanical descriptions of,
 in all but the most trivial of cases. 
 Those computational systems that have approached simulation of institutions (CiF and Versu in particular),
 have only supported authored situations, lacking the ability to vary and generate institutions themselves. 
-By describing the structural and procedural components of existing historical institutions, it can be seen that 
-requirements of institutions to make sense are quite low.
+By describing the structural and procedural components of existing historical institutions, it is clear that the 
+rational coherence of institutions are typically overstated.
 I have implemented, inspired by current Nor-MAS systems, a variety of social institutions, and varied them procedurally. 
 
 
