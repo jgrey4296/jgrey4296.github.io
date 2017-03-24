@@ -1,26 +1,28 @@
 * Top Level Org Document                                                        :overview:
 ** [[file:orgfiles/Chapters.org::*Dissertation%20Chapters][Dissertation Chapters]]
 ** Some Work Done
+** [[file:orgfiles/shellAndModalSystems.org::*The%20Authoring%20Shell%20and%20Modal%20Systems][The Authoring Shell and Modal Systems]]
+*** [[file:orgfiles/game_concepts.org::*Game%20Concepts][Game Concepts]]                                                               :concept:game:list:
 *** [[file:orgfiles/jass_notes.org::*JASS%20Notes][JASS Notes]]                                                                  :some_work_done:notes:web:jass:social_science:
 *** [[file:orgfiles/notecards.org::*Note%20Cards][Note Cards]]                                                                  :ideas:notes:some_work_done:reconstructions:
 *** [[file:orgfiles/anotherAttempt.org::*Socio-Institutional%20Action][Socio-Institutional Action]]                                                  :some_work_done:overview:writing:
 *** [[file:orgfiles/argumentOverview.org::*On%20Inserting%20Ritual%20structure%20into%20social%20interactions][On Inserting Ritual structure into  social interactions]]                     :some_work_done:tribes:overview:
 *** [[file:orgfiles/evansNotes.org::*A%20Socio-Institutional%20Approach%20to%20Action][A Socio-Institutional Approach to Action]]                                    :some_work_done:
 *** [[file:orgfiles/compSocScience.org::*Computational%20Social%20Science%20Thoughts][Computational Social Science Thoughts]]                                       :some_work_done:writing:
-*** [[file:orgfiles/gamesPrototypes.org::*Games%20Prototypes][Games Prototypes]]                                                            :some_work_done:design:concept:
 *** [[file:orgfiles/sia.org::*SIA][SIA]]                                                                         :some_work_done:writing:
 *** [[file:orgfiles/socialRoguelike.org::*The%20Social%20Roguelike][The Social Roguelike]]                                                        :writing:some_work_done:
 *** [[file:orgfiles/siaWritings.org::*SIA%20Writings][SIA Writings]]                                                                :some_work_done:writing:
 *** [[file:orgfiles/darkSoulsAsInstitution.org::*Dark%20Souls%20and%20The%20Institution%20of%20'Praise%20The%20Sun'][Dark Souls and The Institution of 'Praise The Sun']]                          :games:some_work_done:writing:analysis:
 *** [[file:orgfiles/phenomenologyOfInstitutions.org::*The%20Phenomenological%20Experience%20of%20Institutional%20Variation][The Phenomenological Experience of Institutional Variation]]                  :writing:some_work_done:
 *** [[file:orgfiles/pirateShip.org::*A%20Pirate%20Ship%20as%20an%20Institutional%20example][A Pirate Ship as an Institutional example]]                                   :some_work_done:writing:minimal:
-*** [[file:orgfiles/procSocietyExamples.org::*Procedural%20Society%20Examples][Procedural Society Examples]]                                                 :writing:some_work_done:concept:design:
 *** [[file:orgfiles/questions.org::*Questions%20to%20ask%20about%20institutions][Questions to ask about institutions]]                                         :writing:questions:some_work_done:overview:
 *** [[file:orgfiles/threeIdeas.org::*Categorise%20Social%20norm%20connections%20between%20social/institutional%20game%20ideas][Categorise Social norm connections between social/institutional game ideas]]  :analysis:some_work_done:minimal:
 *** [[file:orgfiles/whyInstitutions.org::*Why%20Institutions%20are%20important%20for%20video-games][Why Institutions are important for video-games]]                              :argument:minimal:some_work_done:
 *** [[file:haskell/institutions.lhs::Institutions.%20A%20Way%20of%20conceptualising%20social%20interactions%20and%20their%20interrelation][institutions literal haskell]]                                                :logic:formal:haskell:writing:some_work_done:
-*** [[file:orgfiles/Rational_Reconstructions.org::*Rational%20Reconstructions][Rational Reconstructions]]                                                    :reconstructions:design:
 *** [[file:orgfiles/book_notes.org::*Book%20Notes][Book Notes]]                                                                  :some_work_done:reference:
+*** [[file:orgfiles/conversation_generation.org::*Conversation%20Generation][Conversation Generation]]                                                     :some_work_done:
+*** [[file:orgfiles/Moise.org::*MOISE%20Notes][MOISE Notes]]                                                                 :MAS:
+*** [[file:orgfiles/scott_institution_notes.org::*Institutions%20and%20Organizations][Institutions and Organizations]]
 ** Examples
 *** [[file:orgfiles/General_Games.org::*General%20Games%20and%20IF][General Games and IF]]                                                        :unclear_if_useful:games:examples:list:
 *** [[file:orgfiles/examples.org::*Examples%20of%20Socio-Institutional%20Experiences][Examples of Socio-Institutional Experiences]]                                 :list:examples:
@@ -46,10 +48,10 @@
 *** [[file:orgfiles/blender.org::*Blender][Blender]]                                                                     :reference:minimal:
 *** [[file:orgfiles/emacs.org::*%20Emacs][Emacs]]                                                                       :reference:
 *** [[file:orgfiles/quests.org][Quests]]                                                                      :reference:
-*** [[file:orgfiles/links.org][General Web Links:]]                             :reference:
+*** [[file:orgfiles/links.org][General Web Links:]]                                                          :reference:
 *** [[file:orgfiles/john_Lambert_security_tweets.org][john lambert security tweets]]                                                :reference:security:
 *** [[file:orgfiles/culturalAntroNotes.org::*Cultural%20Anthropology%20notes][Cultural Anthropology notes]]                                                 :reference:examples:some_work_done:social_science:
-*** [[file:orgfiles/extracts.org][Extracts]]                                    :large_quotes:fiction:examples:reference:
+*** [[file:orgfiles/extracts.org][Extracts]]                                                                    :large_quotes:fiction:examples:reference:
 *** [[file:orgfiles/extractsDiscussion.org::*Discussion%20on%20Various%20different%20examples%20of%20interesting%20behaviour][Discussion on Various different examples of interesting behaviour]]           :reference:examples:fiction:
 *** [[file:orgfiles/socialStructures.org::*Social%20Structure%20Notes][Social Structure Notes]]                                                      :reference:examples:minimal:
 *** [[file:orgfiles/tribeDescriptions.org::*Tribe%20Descriptions][Tribe Descriptions]]                                                          :examples:reference:some_work_done:
@@ -59,10 +61,9 @@
 *** [[file:orgfiles/workedExamples.org::*Worked%20examples%20of%20institutions][Worked examples of institutions]]                                             :some_work_done:examples:writing:reference:
 
 ** Other
-*** [[file:orgfiles/Artifact_examples.org::*Artifact%20Examples][Artifact Examples]] a basic logic                                             :unclear_if_useful:logic:minimal:
+*** [[file:orgfiles/Artifact_examples.org::*Artifact%20Examples][Artifact Examples]]                                                           :minimal:unclear_if_useful:logic:
 *** [[file:orgfiles/chapterPlan.org::*Institutions][Institutions]]                                                                :conclusion:overview:plan:
 *** [[file:orgfiles/firefighting.org::*Firefighting%20as%20a%20Game/Sci-fi%20concept][Firefighting as a Game/Sci-fi concept]]                                       :game:concept:design:
-*** [[file:orgfiles/game_concepts.org::*Game%20Concepts][Game Concepts]]                                                               :concept:game:list:
 *** [[file:orgfiles/intergalacticRobots.org::*Intergalactic%20Robots][Intergalactic Robots]]                                                        :minimal:story:concept:
 *** [[file:orgfiles/jass_notes.org::*JASS%20Notes][JASS Notes]]                                                                  :some_work_done:notes:web:jass:social_science:
 *** [[file:orgfiles/notecards.org::*Note%20Cards][Note Cards]]                                                                  :ideas:notes:some_work_done:reconstructions:
@@ -90,3 +91,30 @@
 *** [[file:orgfiles/threeIdeas.org::*Categorise%20Social%20norm%20connections%20between%20social/institutional%20game%20ideas][Categorise Social norm connections between social/institutional game ideas]]  :analysis:some_work_done:minimal:
 *** [[file:orgfiles/whyInstitutions.org::*Why%20Institutions%20are%20important%20for%20video-games][Why Institutions are important for video-games]]                              :argument:minimal:some_work_done:
 *** [[file:orgfiles/machine_learning.org::*Machine%20Learning%20Notes][Machine Learning Notes]]                                                      :machine_learning:
+** TODO
+   Datasets
+** TODO Unit Testing of writing?
+   If i annotate sections with meta-data, I could write a unit testing framework for documents
+   that looks for particular regexs, tags, sequences, headings etc.
+
+   Such as (using chai like notation):
+   document.should.have.a.section('background')
+   document.should.mention('fligstein')
+   document.section('background').should.mention('bourdieu')
+   document.should.have.a.greaterthan.length('10 pages');
+   
+   document.section('introduction').should.precede.section('background')
+   document.section('introduction').should.mention('research questions')
+   document.section('introduction').should.have.subsections(3)
+** TODO Layered Architecture
+   <2017-03-29 Wed>
+   CiF has layers but not constitutive rules
+   Versu has constitutive rules, fsms, but only one layer
+
+   There are different combinations of:
+   constitutive rules,
+   aggregations
+   scaling,
+   selection
+
+   That can be applied in different layers. What would the architecture be for that?
