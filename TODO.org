@@ -1,0 +1,66 @@
+* TODO Global
+** iELPY 
+*** TODO Parser
+    <2017-03-25 Sat>
+*** TODO Runtime
+    <2017-03-26 Sun>
+** Shell
+*** TODO Preact UI
+    <2017-03-27 Mon>
+*** TODO Shell Runtime
+**** TODO Test searching
+     <2017-03-23 Thu>
+**** TODO Rule Mode
+     <2017-03-24 Fri>
+**** TODO FSM Mode
+     <2017-03-25 Sat>
+*** Rete
+**** TODO Write actual logic tests
+     <2017-03-26 Sun>
+** Behaviour Tree.js
+*** TODO Exclusion Logic
+    <2017-03-24 Fri>
+    Union of EL.js and iELPy language, to use in both
+** Newspaper Gen
+*** TODO Tracery
+    <2017-03-24 Fri>
+    Add tracery in for straight away text gen
+** Writing
+*** DONE Jekyll TAGS
+    <2017-03-23 Thu>
+*** Unit Testing
+**** TODO First document: An Overview
+     <2017-03-24 Fri>
+** TODO Prototypes
+   <2017-03-28 Tue>
+*** Hex Board -> Preact
+*** Battle System
+*** Credit System
+*** Mordor - alike
+*** Prisoners dilemma
+*** NetLogo
+*** Unity
+**** Animation
+** TODO Data Analysis
+   <2017-03-28 Tue>
+*** Game Scraping
+    
+*** Web Scraping
+**** Dota
+**** WoW
+** TODO Reading
+*** TODO Books
+    <2017-03-29 Wed>
+**** TODO Scott
+     <2017-03-24 Fri>
+     <2017-03-25 Sat>
+**** Bicchieri
+**** Graeber
+**** North
+**** Ostrom
+*** Dagstuhl
+*** Dissertations
+*** Papers
+** TODO Haskell
+   <2017-03-30 Thu>
+   Write a simple parser using parsec
