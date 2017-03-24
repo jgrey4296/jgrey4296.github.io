@@ -385,3 +385,37 @@
 *** Ensemble Methods
 *** Clustering Algorithms
 *** Singular Value Decomposition
+
+** TODO Possible uses
+
+*** Association learning from rulesets
+    Both CiF and Versu, potentially even from game data, all have rules
+    that could be encoded for association learning.
+
+*** Naive Bayes / Association learning in a live simulation
+    As a means to identify norms?
+    
+
+*** Clustering of Social Modes / Pageranking
+    Operating on datasets (social physics ones),
+    or on character occurrences in texts, 
+    bookmarks.
+
+*** Regression of rule weights from microtheories
+    There are a few thousand rules for CiF, it would be interesting
+    to try to train a regression (Adaboost) for determining likely weights.
+
+*** Clustering rulesets
+    Extracting implicit structure from the rulesets would be interesting
+
+*** Character extraction
+    Training custom NER's for discworld / horus heresy
+
+*** Speech quote extraction
+    From texts, to link characters with.
+
+*** Generative Language Model
+    N-gram based to start? 
+    Possibly training on Speech acts?
+
+
