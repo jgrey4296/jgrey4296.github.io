@@ -304,3 +304,19 @@
    
 
 
+** Moise notes from shell
+*** Organisational Spec
+Description of components 
+
+Structural Spec - Roles, components etc
+Deontic/Normative Spec - link roles to permissions/obligations, 
+Functional Spec - Action/Activity descriptions
+Environment Spec - Physical interface
+
+Translation of roles -> actions as intersection of sets based on permission, environment etc
+*** Organisation Entity
+Instantiation of Spec.
+Map Agents -> Roles
+Track Agents -> Roles -> Activities
+
+
