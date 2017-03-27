@@ -1,0 +1,38 @@
+* Typology of Behaviour Errors
+  An agent needs to perform appropriately in a variety of
+  environments. What are the ways in which their behaviour can break
+  the requirements of the situation and world?
+
+  Issues could arise from the environment, the behaviour, the
+  connection of the behaviour to other behaviours, normative
+  expectations, semantic sense, causality, agent preferences,
+  purposive failures, informational failures, 
+
+  So *Structural*, *functional*, *normative*, *environmental*,
+  and... *informational*, *preferential*?, ....
+
+  *Strong limits*:
+  1) *Environmental* Action is impossible in the physical world.
+     eg: attempting to put a whale in a car boot.
+     Attempting to use an item not in possession.
+     Attempting to move to a physical location that is unreachable.
+  2) *Structural* Action is behaviourally infeasible?
+     eg: a civilian giving a solider an order,
+     an atheist performing a religious ceremony
+  3) *Functional* Action is unrelated to goal
+     eg: Intending to pay a debt, but sitting down to read instead
+
+  *Weak Limits*:
+  1) *Preferential* Performing one action when agent preferences
+     dictate another action
+     eg: picking the worse prize, all other things being equal
+  2) *Normative* Performing an action contrary to norms
+     Much Weaker,
+  3) *informational* performing an action without possessing the
+     required knowledge
+     eg: Greeting someone unknown by name
+     Calling someone the wrong gender
+
+
+
+** Ways to Avoid these errors...
