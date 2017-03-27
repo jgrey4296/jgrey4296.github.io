@@ -1,528 +1,528 @@
 * Ipad Documents: Books
 ** DIR: Books
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Biochemistry.pdf][Biochemistry.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Valve_Handbook_LowRes.pdf][Valve_Handbook_LowRes.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/CollectiveIntelligence.pdf][CollectiveIntelligence.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/acousticsandarch031464mbp.pdf][acousticsandarch031464mbp.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/JASON_Programming.pdf][JASON_Programming.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/MajorEvents_full.pdf][MajorEvents_full.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/RAND and the Information Revolution.pdf][RAND and the Information Revolution.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/college-physics-9.30.pdf][college-physics-9.30.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Grune - Parsing.pdf][Grune - Parsing.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Mass Effect 1 script.odt][Mass Effect 1 script.odt]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Computer Organization and design.pdf][Computer Organization and design.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/thelinuxcommandline.pdf][thelinuxcommandline.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/LaurenIpsum1421975366.pdf][LaurenIpsum1421975366.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Erickson - Models of Computation.pdf][Erickson - Models of Computation.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/historyofarchite00kimbuoft.pdf][historyofarchite00kimbuoft.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/James - The varieties of religious experience.pdf][James - The varieties of religious experience.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Relative truth and its applications.pdf][Relative truth and its applications.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/theartoflegodesign.pdf][theartoflegodesign.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/rahwan - argumentation in artificial intelligence.pdf][rahwan - argumentation in artificial intelligence.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/supervert - necrophilia variations.pdf][supervert - necrophilia variations.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/MangaGuidetoElectricity1421975366.pdf][MangaGuidetoElectricity1421975366.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/MLBOOK.pdf][MLBOOK.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/MangaGuidetoPhysics1421975366.pdf][MangaGuidetoPhysics1421975366.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game-Research-Methods_Lankoski-Bjork-etal-web.pdf][Game-Research-Methods_Lankoski-Bjork-etal-web.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Beautiful_Testing_ch10.pdf][Beautiful_Testing_ch10.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/forsyth - group dynamics.pdf][forsyth - group dynamics.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Computer science from the ground up.pdf][Computer science from the ground up.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Lapp.pdf][Lapp.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/incredibleplatetectonicscomic.pdf][incredibleplatetectonicscomic.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/generalscience00clarrich.pdf][generalscience00clarrich.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/How-to-Teach-Adults-by-Dan-Spalding.pdf][How-to-Teach-Adults-by-Dan-Spalding.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/automatetheboringstuff.pdf][automatetheboringstuff.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/benkler - CollectiveIntelligence.pdf][benkler - CollectiveIntelligence.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The Art of Seduction.pdf][The Art of Seduction.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Open Logic Textbook.pdf][Open Logic Textbook.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/JavaScriptforKids1421975366.pdf][JavaScriptforKids1421975366.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/MangaGuidetoCalculus1421975366.pdf][MangaGuidetoCalculus1421975366.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The practical book of architecture.pdf][The practical book of architecture.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Computer Music.pdf][Computer Music.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/TIS-100 Reference Manual.pdf][TIS-100 Reference Manual.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/themangaguidetodatabases.pdf][themangaguidetodatabases.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Mathematics for computer science.pdf][Mathematics for computer science.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Ref_scientific_evidence.pdf][Ref_scientific_evidence.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Human Intelligence.pdf][Human Intelligence.pdf]]
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/meyn - Control Techniques For Complex Networks.pdf][meyn - Control Techniques For Complex Networks.pdf]]
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Biochemistry.pdf][Biochemistry.pdf]]                                                       :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Valve_Handbook_LowRes.pdf][Valve_Handbook_LowRes.pdf]]                                              :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/CollectiveIntelligence.pdf][CollectiveIntelligence.pdf]]                                             :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/acousticsandarch031464mbp.pdf][acousticsandarch031464mbp.pdf]]                                          :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/JASON_Programming.pdf][JASON_Programming.pdf]]                                                  :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/MajorEvents_full.pdf][MajorEvents_full.pdf]]                                                   :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/RAND and the Information Revolution.pdf][RAND and the Information Revolution.pdf]]                                :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/college-physics-9.30.pdf][college-physics-9.30.pdf]]                                               :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Grune - Parsing.pdf][Grune - Parsing.pdf]]                                                    :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Mass Effect 1 script.odt][Mass Effect 1 script.odt]]                                               :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Computer Organization and design.pdf][Computer Organization and design.pdf]]                                   :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/thelinuxcommandline.pdf][thelinuxcommandline.pdf]]                                                :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/LaurenIpsum1421975366.pdf][LaurenIpsum1421975366.pdf]]                                              :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Erickson - Models of Computation.pdf][Erickson - Models of Computation.pdf]]                                   :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/historyofarchite00kimbuoft.pdf][historyofarchite00kimbuoft.pdf]]                                         :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/James - The varieties of religious experience.pdf][James - The varieties of religious experience.pdf]]                      :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Relative truth and its applications.pdf][Relative truth and its applications.pdf]]                                :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/theartoflegodesign.pdf][theartoflegodesign.pdf]]                                                 :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/rahwan - argumentation in artificial intelligence.pdf][rahwan - argumentation in artificial intelligence.pdf]]                  :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/supervert - necrophilia variations.pdf][supervert - necrophilia variations.pdf]]                                 :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/MangaGuidetoElectricity1421975366.pdf][MangaGuidetoElectricity1421975366.pdf]]                                  :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/MLBOOK.pdf][MLBOOK.pdf]]                                                             :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/MangaGuidetoPhysics1421975366.pdf][MangaGuidetoPhysics1421975366.pdf]]                                      :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game-Research-Methods_Lankoski-Bjork-etal-web.pdf][Game-Research-Methods_Lankoski-Bjork-etal-web.pdf]]                      :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Beautiful_Testing_ch10.pdf][Beautiful_Testing_ch10.pdf]]                                             :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/forsyth - group dynamics.pdf][forsyth - group dynamics.pdf]]                                           :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Computer science from the ground up.pdf][Computer science from the ground up.pdf]]                                :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Lapp.pdf][Lapp.pdf]]                                                               :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/incredibleplatetectonicscomic.pdf][incredibleplatetectonicscomic.pdf]]                                      :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/generalscience00clarrich.pdf][generalscience00clarrich.pdf]]                                           :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/How-to-Teach-Adults-by-Dan-Spalding.pdf][How-to-Teach-Adults-by-Dan-Spalding.pdf]]                                :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/automatetheboringstuff.pdf][automatetheboringstuff.pdf]]                                             :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/benkler - CollectiveIntelligence.pdf][benkler - CollectiveIntelligence.pdf]]                                   :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The Art of Seduction.pdf][The Art of Seduction.pdf]]                                               :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Open Logic Textbook.pdf][Open Logic Textbook.pdf]]                                                :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/JavaScriptforKids1421975366.pdf][JavaScriptforKids1421975366.pdf]]                                        :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/MangaGuidetoCalculus1421975366.pdf][MangaGuidetoCalculus1421975366.pdf]]                                     :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The practical book of architecture.pdf][The practical book of architecture.pdf]]                                 :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Computer Music.pdf][Computer Music.pdf]]                                                     :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/TIS-100 Reference Manual.pdf][TIS-100 Reference Manual.pdf]]                                           :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/themangaguidetodatabases.pdf][themangaguidetodatabases.pdf]]                                           :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Mathematics for computer science.pdf][Mathematics for computer science.pdf]]                                   :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Ref_scientific_evidence.pdf][Ref_scientific_evidence.pdf]]                                            :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Human Intelligence.pdf][Human Intelligence.pdf]]                                                 :book:
+*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/meyn - Control Techniques For Complex Networks.pdf][meyn - Control Techniques For Complex Networks.pdf]]                     :book:
 *** DIR: Economics
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Economics/Reinert - Globalization, Economic Development and Inequality.pdf][Reinert - Globalization, Economic Development and Inequality.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Economics/GaryM.WaltonHughRockoffHistoryoftheAmerBookFi.org.pdf][GaryM.WaltonHughRockoffHistoryoftheAmerBookFi.org.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Economics/lessons_for_the_young_economist_murphy.pdf][lessons_for_the_young_economist_murphy.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Economics/principlesofEconomics.pdf][principlesofEconomics.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Economics/reinert - globalization economic development and inequality.pdf][reinert - globalization economic development and inequality.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Economics/Discovering artificial economics.pdf][Discovering artificial economics.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Economics/Reinert - Globalization, Economic Development and Inequality.pdf][Reinert - Globalization, Economic Development and Inequality.pdf]]      :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Economics/GaryM.WaltonHughRockoffHistoryoftheAmerBookFi.org.pdf][GaryM.WaltonHughRockoffHistoryoftheAmerBookFi.org.pdf]]                 :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Economics/lessons_for_the_young_economist_murphy.pdf][lessons_for_the_young_economist_murphy.pdf]]                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Economics/principlesofEconomics.pdf][principlesofEconomics.pdf]]                                             :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Economics/reinert - globalization economic development and inequality.pdf][reinert - globalization economic development and inequality.pdf]]       :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Economics/Discovering artificial economics.pdf][Discovering artificial economics.pdf]]                                  :book:
 *** DIR: AI
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Building Expert Systems in Prolog - Dennis Merritt.pdf][Building Expert Systems in Prolog - Dennis Merritt.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Artificial Intelligence and Expert Systems for Engineers - Krishnamoorthy , S. Rajeev.pdf][Artificial Intelligence and Expert Systems for Engineers - Krishnamoorthy , S. Rajeev.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Swarm intelligence - James Kennedy.pdf][Swarm intelligence - James Kennedy.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/agre - Computation and Human Experience.pdf][agre - Computation and Human Experience.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/beliefs.pdf][beliefs.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Inductive logic programming.pdf][Inductive logic programming.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/AI a systems approach.pdf][AI a systems approach.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Nilsson - History of AI.pdf][Nilsson - History of AI.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Practical AI in Java.pdf][Practical AI in Java.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Knowledge representation reasoning and declarative problem solving with Answer sets - Chitta Baral.pdf][Knowledge representation reasoning and declarative problem solving with Answer sets - Chitta Baral.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/AI A Modern Approach.pdf][AI A Modern Approach.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Fuzzy Expert Systems and Fuzzy Reasoning - William Siler.pdf][Fuzzy Expert Systems and Fuzzy Reasoning - William Siler.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/AI_Pattern_Language.pdf][AI_Pattern_Language.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/intro-soar.pdf][intro-soar.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/The handbook of applied expert systems  - Jay Liebowitz.pdf][The handbook of applied expert systems  - Jay Liebowitz.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Building Expert Systems in Prolog - Dennis Merritt.pdf][Building Expert Systems in Prolog - Dennis Merritt.pdf]]                :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Artificial Intelligence and Expert Systems for Engineers - Krishnamoorthy , S. Rajeev.pdf][Artificial Intelligence and Expert Systems for Engineers - Krishnamoorthy , S. Rajeev.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Swarm intelligence - James Kennedy.pdf][Swarm intelligence - James Kennedy.pdf]]                                :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/agre - Computation and Human Experience.pdf][agre - Computation and Human Experience.pdf]]                           :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/beliefs.pdf][beliefs.pdf]]                                                           :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Inductive logic programming.pdf][Inductive logic programming.pdf]]                                       :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/AI a systems approach.pdf][AI a systems approach.pdf]]                                             :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Nilsson - History of AI.pdf][Nilsson - History of AI.pdf]]                                           :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Practical AI in Java.pdf][Practical AI in Java.pdf]]                                              :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Knowledge representation reasoning and declarative problem solving with Answer sets - Chitta Baral.pdf][Knowledge representation reasoning and declarative problem solving with Answer sets - Chitta Baral.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/AI A Modern Approach.pdf][AI A Modern Approach.pdf]]                                              :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Fuzzy Expert Systems and Fuzzy Reasoning - William Siler.pdf][Fuzzy Expert Systems and Fuzzy Reasoning - William Siler.pdf]]          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/AI_Pattern_Language.pdf][AI_Pattern_Language.pdf]]                                               :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/intro-soar.pdf][intro-soar.pdf]]                                                        :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/The handbook of applied expert systems  - Jay Liebowitz.pdf][The handbook of applied expert systems  - Jay Liebowitz.pdf]]           :book:
 **** DIR: Soar
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Soar/Soar-SMem Manual.pdf][Soar-SMem Manual.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Soar/Soar Tutorial Part 2.pdf][Soar Tutorial Part 2.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Soar/SoarManual.pdf][SoarManual.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Soar/Soar-EpMem Manual.pdf][Soar-EpMem Manual.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Soar/Soar Tutorial Part 5.pdf][Soar Tutorial Part 5.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Soar/Soar Tutorial Part 1.pdf][Soar Tutorial Part 1.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Soar/GentleIntroduction-2006.pdf][GentleIntroduction-2006.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Soar/Soar Tutorial Part 6.pdf][Soar Tutorial Part 6.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Soar/Soar Tutorial Part 4.pdf][Soar Tutorial Part 4.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Soar/Soar-RL Manual.pdf][Soar-RL Manual.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Soar/Soar-RL Tutorial.pdf][Soar-RL Tutorial.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Soar/Soar Tutorial Part 3.pdf][Soar Tutorial Part 3.pdf]]
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Soar/Soar-SMem Manual.pdf][Soar-SMem Manual.pdf]]                                                 :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Soar/Soar Tutorial Part 2.pdf][Soar Tutorial Part 2.pdf]]                                             :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Soar/SoarManual.pdf][SoarManual.pdf]]                                                       :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Soar/Soar-EpMem Manual.pdf][Soar-EpMem Manual.pdf]]                                                :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Soar/Soar Tutorial Part 5.pdf][Soar Tutorial Part 5.pdf]]                                             :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Soar/Soar Tutorial Part 1.pdf][Soar Tutorial Part 1.pdf]]                                             :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Soar/GentleIntroduction-2006.pdf][GentleIntroduction-2006.pdf]]                                          :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Soar/Soar Tutorial Part 6.pdf][Soar Tutorial Part 6.pdf]]                                             :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Soar/Soar Tutorial Part 4.pdf][Soar Tutorial Part 4.pdf]]                                             :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Soar/Soar-RL Manual.pdf][Soar-RL Manual.pdf]]                                                   :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Soar/Soar-RL Tutorial.pdf][Soar-RL Tutorial.pdf]]                                                 :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Soar/Soar Tutorial Part 3.pdf][Soar Tutorial Part 3.pdf]]                                             :book:
 **** DIR: Act-r
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit5.pdf][unit5.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit3_exp.pdf][unit3_exp.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit1_exp.pdf][unit1_exp.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit7.pdf][unit7.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit2_exp.pdf][unit2_exp.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit3.pdf][unit3.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit7_exp.pdf][unit7_exp.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit5_exp.pdf][unit5_exp.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit6_exp.pdf][unit6_exp.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit2.pdf][unit2.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit4.pdf][unit4.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit6.pdf][unit6.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit4_exp.pdf][unit4_exp.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit1.pdf][unit1.pdf]]
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit5.pdf][unit5.pdf]]                                                            :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit3_exp.pdf][unit3_exp.pdf]]                                                        :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit1_exp.pdf][unit1_exp.pdf]]                                                        :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit7.pdf][unit7.pdf]]                                                            :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit2_exp.pdf][unit2_exp.pdf]]                                                        :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit3.pdf][unit3.pdf]]                                                            :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit7_exp.pdf][unit7_exp.pdf]]                                                        :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit5_exp.pdf][unit5_exp.pdf]]                                                        :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit6_exp.pdf][unit6_exp.pdf]]                                                        :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit2.pdf][unit2.pdf]]                                                            :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit4.pdf][unit4.pdf]]                                                            :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit6.pdf][unit6.pdf]]                                                            :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit4_exp.pdf][unit4_exp.pdf]]                                                        :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/AI/Act-r/unit1.pdf][unit1.pdf]]                                                            :book:
 *** DIR: Algorithms
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Algorithms/Practical Genetic Algorithms.pdf][Practical Genetic Algorithms.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Algorithms/Algorithms.pdf][Algorithms.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Algorithms/Computational Geometry.pdf][Computational Geometry.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Algorithms/Open data structures.pdf][Open data structures.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Algorithms/HowToThinkAboutAlgorithms.pdf][HowToThinkAboutAlgorithms.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Algorithms/StructureOfPrograms.pdf][StructureOfPrograms.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Algorithms/Intro to Algorithms.pdf][Intro to Algorithms.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Algorithms/TheAlgorithmDesignManual.pdf][TheAlgorithmDesignManual.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Algorithms/Practical Genetic Algorithms.pdf][Practical Genetic Algorithms.pdf]]                                      :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Algorithms/Algorithms.pdf][Algorithms.pdf]]                                                        :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Algorithms/Computational Geometry.pdf][Computational Geometry.pdf]]                                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Algorithms/Open data structures.pdf][Open data structures.pdf]]                                              :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Algorithms/HowToThinkAboutAlgorithms.pdf][HowToThinkAboutAlgorithms.pdf]]                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Algorithms/StructureOfPrograms.pdf][StructureOfPrograms.pdf]]                                               :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Algorithms/Intro to Algorithms.pdf][Intro to Algorithms.pdf]]                                               :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Algorithms/TheAlgorithmDesignManual.pdf][TheAlgorithmDesignManual.pdf]]                                          :book:
 *** DIR: Maths
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/Networks, Crowds, and Markets.pdf][Networks, Crowds, and Markets.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/Calculus.pdf][Calculus.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/math4all.pdf][math4all.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/BookOfProof.pdf][BookOfProof.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/Godels incompleteness theorems.pdf][Godels incompleteness theorems.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/Russel intro to math philosophy.pdf][Russel intro to math philosophy.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/Proofs and Types.pdf][Proofs and Types.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/Graph Theory.pdf][Graph Theory.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/Probability and Statistics.pdf][Probability and Statistics.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/logicexercises.pdf][logicexercises.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/ElemenLinearAlgebra_annot.pdf][ElemenLinearAlgebra_annot.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/Art of proof.pdf][Art of proof.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/principlesofmath01russ.pdf][principlesofmath01russ.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/Basic_Engineering_Mathematics.pdf][Basic_Engineering_Mathematics.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/Networks, Crowds, and Markets.pdf][Networks, Crowds, and Markets.pdf]]                                     :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/Calculus.pdf][Calculus.pdf]]                                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/math4all.pdf][math4all.pdf]]                                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/BookOfProof.pdf][BookOfProof.pdf]]                                                       :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/Godels incompleteness theorems.pdf][Godels incompleteness theorems.pdf]]                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/Russel intro to math philosophy.pdf][Russel intro to math philosophy.pdf]]                                   :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/Proofs and Types.pdf][Proofs and Types.pdf]]                                                  :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/Graph Theory.pdf][Graph Theory.pdf]]                                                      :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/Probability and Statistics.pdf][Probability and Statistics.pdf]]                                        :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/logicexercises.pdf][logicexercises.pdf]]                                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/ElemenLinearAlgebra_annot.pdf][ElemenLinearAlgebra_annot.pdf]]                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/Art of proof.pdf][Art of proof.pdf]]                                                      :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/principlesofmath01russ.pdf][principlesofmath01russ.pdf]]                                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/Basic_Engineering_Mathematics.pdf][Basic_Engineering_Mathematics.pdf]]                                     :book:
 **** DIR: nonuniformrandomvariates
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_eleven.pdf][chapter_eleven.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_one.pdf][chapter_one.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_eight.pdf][chapter_eight.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/fore.pdf][fore.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_two.pdf][chapter_two.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_five.pdf][chapter_five.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_four.pdf][chapter_four.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/preface.pdf][preface.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_fourteen_1.pdf][chapter_fourteen_1.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_fifteen_2.pdf][chapter_fifteen_2.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_seven.pdf][chapter_seven.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_fourteen_2.pdf][chapter_fourteen_2.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_nine.pdf][chapter_nine.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_twelve.pdf][chapter_twelve.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_thirteen.pdf][chapter_thirteen.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_fifteen_1.pdf][chapter_fifteen_1.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_ten.pdf][chapter_ten.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_three.pdf][chapter_three.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_six.pdf][chapter_six.pdf]]
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_eleven.pdf][chapter_eleven.pdf]]                                                   :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_one.pdf][chapter_one.pdf]]                                                      :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_eight.pdf][chapter_eight.pdf]]                                                    :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/fore.pdf][fore.pdf]]                                                             :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_two.pdf][chapter_two.pdf]]                                                      :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_five.pdf][chapter_five.pdf]]                                                     :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_four.pdf][chapter_four.pdf]]                                                     :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/preface.pdf][preface.pdf]]                                                          :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_fourteen_1.pdf][chapter_fourteen_1.pdf]]                                               :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_fifteen_2.pdf][chapter_fifteen_2.pdf]]                                                :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_seven.pdf][chapter_seven.pdf]]                                                    :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_fourteen_2.pdf][chapter_fourteen_2.pdf]]                                               :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_nine.pdf][chapter_nine.pdf]]                                                     :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_twelve.pdf][chapter_twelve.pdf]]                                                   :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_thirteen.pdf][chapter_thirteen.pdf]]                                                 :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_fifteen_1.pdf][chapter_fifteen_1.pdf]]                                                :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_ten.pdf][chapter_ten.pdf]]                                                      :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_three.pdf][chapter_three.pdf]]                                                    :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Maths/nonuniformrandomvariates/chapter_six.pdf][chapter_six.pdf]]                                                      :book:
 *** DIR: Psychology
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/dd303_b1_prelims_chapter1.pdf][dd303_b1_prelims_chapter1.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/DD303_Journal_Articles.doc][DD303_Journal_Articles.doc]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/dd303_b1_part4.pdf][dd303_b1_part4.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/CogPsychBook1Part1 - annotated.pdf][CogPsychBook1Part1 - annotated.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/Eric Berne - Games People Play.pdf][Eric Berne - Games People Play.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/dd303_b1_colour_section.pdf][dd303_b1_colour_section.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/SocialPsychBook2 - annotated.pdf][SocialPsychBook2 - annotated.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/ebook_dd303_methodsbook_e2i1_n9781848734685_l3.pdf][ebook_dd303_methodsbook_e2i1_n9781848734685_l3.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/ebook_sd226_book5_e2i2_n9780749214456_l1.pdf][ebook_sd226_book5_e2i2_n9780749214456_l1.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/ebook_sd226_book4_e2i2_n9780749214449_l3_1.pdf][ebook_sd226_book4_e2i2_n9780749214449_l3_1.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/MappingPsychBook1Part1.pdf][MappingPsychBook1Part1.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/ebook_dd303_mc_e2i1_Reading1_isbn9781848734685.pdf][ebook_dd303_mc_e2i1_Reading1_isbn9781848734685.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/dd303_b1_part2.pdf][dd303_b1_part2.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/ebook_sd226_book2_e2i2_n9780749214319_l3_1.pdf][ebook_sd226_book2_e2i2_n9780749214319_l3_1.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/socialpowersthre00joneiala.pdf][socialpowersthre00joneiala.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/dd303_b1_part3.pdf][dd303_b1_part3.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/dd303_b1_part5.pdf][dd303_b1_part5.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/MappingPsychBook1Part2.pdf][MappingPsychBook1Part2.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/ebook_sd226_book1_e2i2_n9780749214302_isbn0749214309_l3_1.pdf][ebook_sd226_book1_e2i2_n9780749214302_isbn0749214309_l3_1.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/BioPsychBook1Part1 - annotated.pdf][BioPsychBook1Part1 - annotated.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/SocialPsychBook1 - annotated.pdf][SocialPsychBook1 - annotated.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/dd303_b1_part1.pdf][dd303_b1_part1.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/ebook_sd226_book3_e2i2_n9780749214326_l3_1.pdf][ebook_sd226_book3_e2i2_n9780749214326_l3_1.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/PsychMethodsBook.pdf][PsychMethodsBook.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/ebook_dd303_mc_e2i1_Reading2_isbn9781848734685.pdf][ebook_dd303_mc_e2i1_Reading2_isbn9781848734685.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/Group Dynamics Textbook.pdf][Group Dynamics Textbook.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/MappingPsychBook2.pdf][MappingPsychBook2.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/CogPsychMethods - annotated.pdf][CogPsychMethods - annotated.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/ebook_sd226_book6_e2i2_n9780749214463_l1.pdf][ebook_sd226_book6_e2i2_n9780749214463_l1.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/dd303_methods_companion_colour_section.pdf][dd303_methods_companion_colour_section.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/dd303_b1_prelims_chapter1.pdf][dd303_b1_prelims_chapter1.pdf]]                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/DD303_Journal_Articles.doc][DD303_Journal_Articles.doc]]                                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/dd303_b1_part4.pdf][dd303_b1_part4.pdf]]                                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/CogPsychBook1Part1 - annotated.pdf][CogPsychBook1Part1 - annotated.pdf]]                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/Eric Berne - Games People Play.pdf][Eric Berne - Games People Play.pdf]]                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/dd303_b1_colour_section.pdf][dd303_b1_colour_section.pdf]]                                           :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/SocialPsychBook2 - annotated.pdf][SocialPsychBook2 - annotated.pdf]]                                      :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/ebook_dd303_methodsbook_e2i1_n9781848734685_l3.pdf][ebook_dd303_methodsbook_e2i1_n9781848734685_l3.pdf]]                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/ebook_sd226_book5_e2i2_n9780749214456_l1.pdf][ebook_sd226_book5_e2i2_n9780749214456_l1.pdf]]                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/ebook_sd226_book4_e2i2_n9780749214449_l3_1.pdf][ebook_sd226_book4_e2i2_n9780749214449_l3_1.pdf]]                        :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/MappingPsychBook1Part1.pdf][MappingPsychBook1Part1.pdf]]                                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/ebook_dd303_mc_e2i1_Reading1_isbn9781848734685.pdf][ebook_dd303_mc_e2i1_Reading1_isbn9781848734685.pdf]]                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/dd303_b1_part2.pdf][dd303_b1_part2.pdf]]                                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/ebook_sd226_book2_e2i2_n9780749214319_l3_1.pdf][ebook_sd226_book2_e2i2_n9780749214319_l3_1.pdf]]                        :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/socialpowersthre00joneiala.pdf][socialpowersthre00joneiala.pdf]]                                        :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/dd303_b1_part3.pdf][dd303_b1_part3.pdf]]                                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/dd303_b1_part5.pdf][dd303_b1_part5.pdf]]                                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/MappingPsychBook1Part2.pdf][MappingPsychBook1Part2.pdf]]                                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/ebook_sd226_book1_e2i2_n9780749214302_isbn0749214309_l3_1.pdf][ebook_sd226_book1_e2i2_n9780749214302_isbn0749214309_l3_1.pdf]]         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/BioPsychBook1Part1 - annotated.pdf][BioPsychBook1Part1 - annotated.pdf]]                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/SocialPsychBook1 - annotated.pdf][SocialPsychBook1 - annotated.pdf]]                                      :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/dd303_b1_part1.pdf][dd303_b1_part1.pdf]]                                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/ebook_sd226_book3_e2i2_n9780749214326_l3_1.pdf][ebook_sd226_book3_e2i2_n9780749214326_l3_1.pdf]]                        :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/PsychMethodsBook.pdf][PsychMethodsBook.pdf]]                                                  :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/ebook_dd303_mc_e2i1_Reading2_isbn9781848734685.pdf][ebook_dd303_mc_e2i1_Reading2_isbn9781848734685.pdf]]                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/Group Dynamics Textbook.pdf][Group Dynamics Textbook.pdf]]                                           :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/MappingPsychBook2.pdf][MappingPsychBook2.pdf]]                                                 :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/CogPsychMethods - annotated.pdf][CogPsychMethods - annotated.pdf]]                                       :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/ebook_sd226_book6_e2i2_n9780749214463_l1.pdf][ebook_sd226_book6_e2i2_n9780749214463_l1.pdf]]                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Psychology/dd303_methods_companion_colour_section.pdf][dd303_methods_companion_colour_section.pdf]]                            :book:
 *** DIR: The informed writer
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter6.pdf][chapter6.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter9.pdf][chapter9.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter16.pdf][chapter16.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter13.pdf][chapter13.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter14.pdf][chapter14.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter4.pdf][chapter4.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter1.pdf][chapter1.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter7.pdf][chapter7.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter10.pdf][chapter10.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter2.pdf][chapter2.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter3.pdf][chapter3.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter15.pdf][chapter15.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter5.pdf][chapter5.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter12.pdf][chapter12.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter8.pdf][chapter8.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter11.pdf][chapter11.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter6.pdf][chapter6.pdf]]                                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter9.pdf][chapter9.pdf]]                                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter16.pdf][chapter16.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter13.pdf][chapter13.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter14.pdf][chapter14.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter4.pdf][chapter4.pdf]]                                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter1.pdf][chapter1.pdf]]                                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter7.pdf][chapter7.pdf]]                                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter10.pdf][chapter10.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter2.pdf][chapter2.pdf]]                                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter3.pdf][chapter3.pdf]]                                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter15.pdf][chapter15.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter5.pdf][chapter5.pdf]]                                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter12.pdf][chapter12.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter8.pdf][chapter8.pdf]]                                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The informed writer/chapter11.pdf][chapter11.pdf]]                                                         :book:
 *** DIR: Anthropology
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Anthropology/Kinship and social organization.pdf][Kinship and social organization.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Anthropology/Sociocultural systems.pdf][Sociocultural systems.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Anthropology/How Canadians communicate.pdf][How Canadians communicate.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Anthropology/Graeber, David - Toward An Anthropological Theory of Value.pdf][Graeber, David - Toward An Anthropological Theory of Value.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Anthropology/The importance of being monogamous.pdf][The importance of being monogamous.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Anthropology/A metaphoric mind.pdf][A metaphoric mind.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Anthropology/How canadians communicate IV.pdf][How canadians communicate IV.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Anthropology/Kinship and social organization.pdf][Kinship and social organization.pdf]]                                   :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Anthropology/Sociocultural systems.pdf][Sociocultural systems.pdf]]                                             :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Anthropology/How Canadians communicate.pdf][How Canadians communicate.pdf]]                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Anthropology/Graeber, David - Toward An Anthropological Theory of Value.pdf][Graeber, David - Toward An Anthropological Theory of Value.pdf]]        :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Anthropology/The importance of being monogamous.pdf][The importance of being monogamous.pdf]]                                :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Anthropology/A metaphoric mind.pdf][A metaphoric mind.pdf]]                                                 :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Anthropology/How canadians communicate IV.pdf][How canadians communicate IV.pdf]]                                      :book:
 *** DIR: Law and politics
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Law and politics/voterID2.pdf][voterID2.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Law and politics/FreeCultureLessig.pdf][FreeCultureLessig.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Law and politics/LessigFutureIdeas.pdf][LessigFutureIdeas.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Law and politics/voterID.pdf][voterID.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Law and politics/voterID2.pdf][voterID2.pdf]]                                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Law and politics/FreeCultureLessig.pdf][FreeCultureLessig.pdf]]                                                 :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Law and politics/LessigFutureIdeas.pdf][LessigFutureIdeas.pdf]]                                                 :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Law and politics/voterID.pdf][voterID.pdf]]                                                           :book:
 *** DIR: syntax and semantics
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Chapter7.pdf][Chapter7.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Provably Correction Implementation.pdf][Provably Correction Implementation.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Chapter6.pdf][Chapter6.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Preface.pdf][Preface.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Chapter4.pdf][Chapter4.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Chapter3.pdf][Chapter3.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/AppendixA.pdf][AppendixA.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Introduction.pdf][Introduction.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/axiom.pdf][axiom.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Chapter2.pdf][Chapter2.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/More on Program Analysis.pdf][More on Program Analysis.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Chapter1.pdf][Chapter1.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Chapter9.pdf][Chapter9.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/More on Operational Sematics.pdf][More on Operational Sematics.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Chapter8.pdf][Chapter8.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/front matter.pdf][front matter.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/AppendixB.pdf][AppendixB.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/More on Axiomatic Program Verification.pdf][More on Axiomatic Program Verification.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/TOC.pdf][TOC.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Chapter12.pdf][Chapter12.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Chapter13.pdf][Chapter13.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Program Analysis.pdf][Program Analysis.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Chapter11.pdf][Chapter11.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Semantics with applications.pdf][Semantics with applications.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/semantics.pdf][semantics.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Chapter5.pdf][Chapter5.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Denotional Sematics.pdf][Denotional Sematics.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Axiomatic Program Verification.pdf][Axiomatic Program Verification.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Further Reading.pdf][Further Reading.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/lecture07-axiomatic.pdf][lecture07-axiomatic.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Notation.pdf][Notation.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Prog Lang application and interpretation.pdf][Prog Lang application and interpretation.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Operational Sematics.pdf][Operational Sematics.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Chapter10.pdf][Chapter10.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Chapter7.pdf][Chapter7.pdf]]                                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Provably Correction Implementation.pdf][Provably Correction Implementation.pdf]]                                :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Chapter6.pdf][Chapter6.pdf]]                                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Preface.pdf][Preface.pdf]]                                                           :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Chapter4.pdf][Chapter4.pdf]]                                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Chapter3.pdf][Chapter3.pdf]]                                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/AppendixA.pdf][AppendixA.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Introduction.pdf][Introduction.pdf]]                                                      :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/axiom.pdf][axiom.pdf]]                                                             :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Chapter2.pdf][Chapter2.pdf]]                                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/More on Program Analysis.pdf][More on Program Analysis.pdf]]                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Chapter1.pdf][Chapter1.pdf]]                                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Chapter9.pdf][Chapter9.pdf]]                                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/More on Operational Sematics.pdf][More on Operational Sematics.pdf]]                                      :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Chapter8.pdf][Chapter8.pdf]]                                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/front matter.pdf][front matter.pdf]]                                                      :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/AppendixB.pdf][AppendixB.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/More on Axiomatic Program Verification.pdf][More on Axiomatic Program Verification.pdf]]                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/TOC.pdf][TOC.pdf]]                                                               :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Chapter12.pdf][Chapter12.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Chapter13.pdf][Chapter13.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Program Analysis.pdf][Program Analysis.pdf]]                                                  :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Chapter11.pdf][Chapter11.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Semantics with applications.pdf][Semantics with applications.pdf]]                                       :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/semantics.pdf][semantics.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Chapter5.pdf][Chapter5.pdf]]                                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Denotional Sematics.pdf][Denotional Sematics.pdf]]                                               :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Axiomatic Program Verification.pdf][Axiomatic Program Verification.pdf]]                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Further Reading.pdf][Further Reading.pdf]]                                                   :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/lecture07-axiomatic.pdf][lecture07-axiomatic.pdf]]                                               :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Notation.pdf][Notation.pdf]]                                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Prog Lang application and interpretation.pdf][Prog Lang application and interpretation.pdf]]                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Operational Sematics.pdf][Operational Sematics.pdf]]                                              :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/syntax and semantics/Chapter10.pdf][Chapter10.pdf]]                                                         :book:
 *** DIR: Game backgrounds
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game backgrounds/Torment_Vision_Statement_1997.pdf][Torment_Vision_Statement_1997.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game backgrounds/ThePeoplesOfAuriga.pdf][ThePeoplesOfAuriga.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game backgrounds/Torment_Vision_Statement_1997.pdf][Torment_Vision_Statement_1997.pdf]]                                     :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game backgrounds/ThePeoplesOfAuriga.pdf][ThePeoplesOfAuriga.pdf]]                                                :book:
 *** DIR: Wikibooks
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Wikibooks/Warfare_2.pdf][Warfare_2.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Wikibooks/A Wikipedian Miscellany.pdf][A Wikipedian Miscellany.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Wikibooks/Warfare_1.pdf][Warfare_1.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Wikibooks/Cooking.pdf][Cooking.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Wikibooks/Warfare_2.pdf][Warfare_2.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Wikibooks/A Wikipedian Miscellany.pdf][A Wikipedian Miscellany.pdf]]                                           :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Wikibooks/Warfare_1.pdf][Warfare_1.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Wikibooks/Cooking.pdf][Cooking.pdf]]                                                           :book:
 *** DIR: Semiotics
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Semiotics/WalterBenjaminTheWorkofArt.pdf][WalterBenjaminTheWorkofArt.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Semiotics/Syntactic Structures.pdf][Syntactic Structures.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Semiotics/Baudrillard, Jean - Simulacra and Simulation.pdf][Baudrillard, Jean - Simulacra and Simulation.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Semiotics/WalterBenjaminTheWorkofArt.pdf][WalterBenjaminTheWorkofArt.pdf]]                                        :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Semiotics/Syntactic Structures.pdf][Syntactic Structures.pdf]]                                              :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Semiotics/Baudrillard, Jean - Simulacra and Simulation.pdf][Baudrillard, Jean - Simulacra and Simulation.pdf]]                      :book:
 *** DIR: Comics
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Comics/mockingdead_1403556328.pdf][mockingdead_1403556328.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Comics/Music theory.pdf][Music theory.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Comics/mockingdead_1403556328.pdf][mockingdead_1403556328.pdf]]                                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Comics/Music theory.pdf][Music theory.pdf]]                                                      :book:
 *** DIR: NLP
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/NLP/Foundations of Statistical Natural Language Processing - Christopher D. Manning.pdf][Foundations of Statistical Natural Language Processing - Christopher D. Manning.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/NLP/Speech and Language Processing.pdf][Speech and Language Processing.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/NLP/Information Retrieval.pdf][Information Retrieval.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/NLP/Natural Language Processing for Online Applications Text Retrieval,Extraction and Categorization - Peter Jackson , Isabelle Moulinier.pdf][Natural Language Processing for Online Applications Text Retrieval,Extraction and Categorization - Peter Jackson , Isabelle Moulinier.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/NLP/Foundations of Statistical Natural Language Processing - Christopher D. Manning.pdf][Foundations of Statistical Natural Language Processing - Christopher D. Manning.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/NLP/Speech and Language Processing.pdf][Speech and Language Processing.pdf]]                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/NLP/Information Retrieval.pdf][Information Retrieval.pdf]]                                             :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/NLP/Natural Language Processing for Online Applications Text Retrieval,Extraction and Categorization - Peter Jackson , Isabelle Moulinier.pdf][Natural Language Processing for Online Applications Text Retrieval,Extraction and Categorization - Peter Jackson , Isabelle Moulinier.pdf]] :book:
 *** DIR: Education
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Education/The theory and practice of online learning.pdf][The theory and practice of online learning.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Education/Flexible Pedagogy, flexible practice.pdf][Flexible Pedagogy, flexible practice.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Education/The theory and practice of online learning.pdf][The theory and practice of online learning.pdf]]                        :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Education/Flexible Pedagogy, flexible practice.pdf][Flexible Pedagogy, flexible practice.pdf]]                              :book:
 *** DIR: Latin
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Latin/Latin.pdf][Latin.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Latin/Latin.pdf][Latin.pdf]]                                                             :book:
 *** DIR: Poetry
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Poetry/Cavalcanti - the metabolism of desire.pdf][Cavalcanti - the metabolism of desire.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Poetry/Cavalcanti - the metabolism of desire.pdf][Cavalcanti - the metabolism of desire.pdf]]                             :book:
 *** DIR: Invisible Ink
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Invisible Ink/Invisible Ink1.pdf][Invisible Ink1.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Invisible Ink/Invisible Ink3.pdf][Invisible Ink3.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Invisible Ink/Invisible Ink2.pdf][Invisible Ink2.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Invisible Ink/Invisible Ink1.pdf][Invisible Ink1.pdf]]                                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Invisible Ink/Invisible Ink3.pdf][Invisible Ink3.pdf]]                                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Invisible Ink/Invisible Ink2.pdf][Invisible Ink2.pdf]]                                                    :book:
 *** DIR: Cybernetics
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Cybernetics/IntroCyb.pdf][IntroCyb.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Cybernetics/IntroCyb.pdf][IntroCyb.pdf]]                                                          :book:
 *** DIR: Fiction
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/the-library-of-babel-by-jorge-luis-borges.pdf][the-library-of-babel-by-jorge-luis-borges.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/Remember - Short Story Collection.pdf][Remember - Short Story Collection.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/Burton_Tim_-_the_melancholy_death_of_oyster_boy_other_sto.pdf][Burton_Tim_-_the_melancholy_death_of_oyster_boy_other_sto.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/MOTTCeBook.pdf][MOTTCeBook.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/CodexSeraphinianus.pdf][CodexSeraphinianus.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/machineOfDeath.pdf][machineOfDeath.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/Wells - The Island of Dr. Moreau.pdf][Wells - The Island of Dr. Moreau.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/Concerned.pdf][Concerned.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/120_days_of_sodom.pdf][120_days_of_sodom.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/Mogworld_Yahtzee.pdf][Mogworld_Yahtzee.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/Perversity think tank.pdf][Perversity think tank.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/Down and Out in the Magic Kingdom.pdf][Down and Out in the Magic Kingdom.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/nightmaresofemin032011mbp.pdf][nightmaresofemin032011mbp.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/the-library-of-babel-by-jorge-luis-borges.pdf][the-library-of-babel-by-jorge-luis-borges.pdf]]                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/Remember - Short Story Collection.pdf][Remember - Short Story Collection.pdf]]                                 :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/Burton_Tim_-_the_melancholy_death_of_oyster_boy_other_sto.pdf][Burton_Tim_-_the_melancholy_death_of_oyster_boy_other_sto.pdf]]         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/MOTTCeBook.pdf][MOTTCeBook.pdf]]                                                        :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/CodexSeraphinianus.pdf][CodexSeraphinianus.pdf]]                                                :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/machineOfDeath.pdf][machineOfDeath.pdf]]                                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/Wells - The Island of Dr. Moreau.pdf][Wells - The Island of Dr. Moreau.pdf]]                                  :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/Concerned.pdf][Concerned.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/120_days_of_sodom.pdf][120_days_of_sodom.pdf]]                                                 :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/Mogworld_Yahtzee.pdf][Mogworld_Yahtzee.pdf]]                                                  :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/Perversity think tank.pdf][Perversity think tank.pdf]]                                             :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/Down and Out in the Magic Kingdom.pdf][Down and Out in the Magic Kingdom.pdf]]                                 :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/nightmaresofemin032011mbp.pdf][nightmaresofemin032011mbp.pdf]]                                         :book:
 **** DIR: The passing
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/The passing/part4.pdf][part4.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/The passing/part1.pdf][part1.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/The passing/part2.pdf][part2.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/The passing/part3.pdf][part3.pdf]]
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/The passing/part4.pdf][part4.pdf]]                                                            :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/The passing/part1.pdf][part1.pdf]]                                                            :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/The passing/part2.pdf][part2.pdf]]                                                            :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Fiction/The passing/part3.pdf][part3.pdf]]                                                            :book:
 *** DIR: Misc Software
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Misc Software/SmartBodyManual.pdf][SmartBodyManual.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Misc Software/GNUpg.pdf][GNUpg.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Misc Software/GNU Privacy Handbook.pdf][GNU Privacy Handbook.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Misc Software/SmartBodyManual.pdf][SmartBodyManual.pdf]]                                                   :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Misc Software/GNUpg.pdf][GNUpg.pdf]]                                                             :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Misc Software/GNU Privacy Handbook.pdf][GNU Privacy Handbook.pdf]]                                              :book:
 *** DIR: Politics
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Politics/CleanedUOSSSimpleSabotage_sm.pdf][CleanedUOSSSimpleSabotage_sm.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Politics/Liberal_Democrat_General_Election_Manifesto_2015.pdf][Liberal_Democrat_General_Election_Manifesto_2015.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Politics/ConservativeManifesto2015.pdf][ConservativeManifesto2015.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Politics/cia programs.pdf][cia programs.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Politics/MiniManifesto2015.pdf][MiniManifesto2015.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Politics/BritainCanBeBetter-TheLabourPartyManifesto2015.pdf][BritainCanBeBetter-TheLabourPartyManifesto2015.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Politics/CleanedUOSSSimpleSabotage_sm.pdf][CleanedUOSSSimpleSabotage_sm.pdf]]                                      :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Politics/Liberal_Democrat_General_Election_Manifesto_2015.pdf][Liberal_Democrat_General_Election_Manifesto_2015.pdf]]                  :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Politics/ConservativeManifesto2015.pdf][ConservativeManifesto2015.pdf]]                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Politics/cia programs.pdf][cia programs.pdf]]                                                      :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Politics/MiniManifesto2015.pdf][MiniManifesto2015.pdf]]                                                 :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Politics/BritainCanBeBetter-TheLabourPartyManifesto2015.pdf][BritainCanBeBetter-TheLabourPartyManifesto2015.pdf]]                    :book:
 *** DIR: Game Studies
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Handbook Of Virtual Humans.pdf][Handbook Of Virtual Humans.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Video Game Explosion - A History from Pong to Playstation (Greenwood, 2008).pdf][Video Game Explosion - A History from Pong to Playstation (Greenwood, 2008).pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Videogames - In the Beginning - Ralph H. Baer.pdf][Videogames - In the Beginning - Ralph H. Baer.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Critical play - radical game design.pdf][Critical play - radical game design.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Pervasive Games, Theory and Design.pdf][Pervasive Games, Theory and Design.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Design and use of serious games.pdf][Design and use of serious games.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Game Design Theory and Practice.pdf][Game Design Theory and Practice.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Video.Game.Spaces.Image.Play.and.Structure.in.3D.Worlds.Mar.2009.eBook-DDU.pdf][Video.Game.Spaces.Image.Play.and.Structure.in.3D.Worlds.Mar.2009.eBook-DDU.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Game Design Workshop - A Playcentric Approach to Creating Innovative Games - 2nd Edition - Feb 2008.pdf][Game Design Workshop - A Playcentric Approach to Creating Innovative Games - 2nd Edition - Feb 2008.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Making of Karateka - Jordan Mechner.pdf][Making of Karateka - Jordan Mechner.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/simulating_humans_computer_graphics_animation_and_control_3.pdf][simulating_humans_computer_graphics_animation_and_control_3.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Game Feel A Game Designer's Guide to Virtual Sensation~tqw~darksiderg.pdf][Game Feel A Game Designer's Guide to Virtual Sensation~tqw~darksiderg.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/The Ethics of Computer Games, Miguel Sicart.pdf][The Ethics of Computer Games, Miguel Sicart.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Killing is Harmless - Brendan Keogh.pdf][Killing is Harmless - Brendan Keogh.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Chris Crawford on Game Design.chm][Chris Crawford on Game Design.chm]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Quests.Design,Theory,and.History.in.Games.and.Narratives.Jeff.Howard.A.K.Peters.pdf][Quests.Design,Theory,and.History.in.Games.and.Narratives.Jeff.Howard.A.K.Peters.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Emotional Design, Donald Norman.pdf][Emotional Design, Donald Norman.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Digital Storytelling, Carolyn Miller.pdf][Digital Storytelling, Carolyn Miller.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/casual game design.pdf][casual game design.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/kirk - Design Patterns of Successful Role-Playing Games.pdf][kirk - Design Patterns of Successful Role-Playing Games.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Racing the Beam, The Atari Video Game System, Ian Bogost and Nick Montfort.pdf][Racing the Beam, The Atari Video Game System, Ian Bogost and Nick Montfort.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Unit Operations - An Approach to Videogame Criticism.pdf][Unit Operations - An Approach to Videogame Criticism.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/The Nature Of Design - Ecology, Culture And Human Intention (2002).pdf][The Nature Of Design - Ecology, Culture And Human Intention (2002).pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Philosophy through Video Games, Jon Cogburn and Mark Silcox.pdf][Philosophy through Video Games, Jon Cogburn and Mark Silcox.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Challenges for game Designers.pdf][Challenges for game Designers.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Kill Screen Issue 2.pdf][Kill Screen Issue 2.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/The.art.of.computer.game.design.pdf][The.art.of.computer.game.design.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Raph Koster A Theory Of Fun For Game Design.pdf][Raph Koster A Theory Of Fun For Game Design.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/[Jeff_Howard]_Quests_Design,_Theory,_and_History_(BookFi.org).pdf][[Jeff_Howard]_Quests_Design,_Theory,_and_History_(BookFi.org).pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Andrew Rollings and Ernest Adams on Game Design (New Riders 2003).chm][Andrew Rollings and Ernest Adams on Game Design (New Riders 2003).chm]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Story and Simulations for Serious Games.pdf][Story and Simulations for Serious Games.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Kill Screen Issue 6.pdf][Kill Screen Issue 6.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Art Of Computer Game Design (Chris Crawford, 1997) by Tantanoid.pdf][Art Of Computer Game Design (Chris Crawford, 1997) by Tantanoid.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Understanding Digital Games, Jason Rutter and Jo Bryce.pdf][Understanding Digital Games, Jason Rutter and Jo Bryce.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/The Art Game Design.pdf][The Art Game Design.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/End to end game design, Independent serious games and simulations.pdf][End to end game design, Independent serious games and simulations.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/The Art of Computer Game Design - Chris Crawford.pdf][The Art of Computer Game Design - Chris Crawford.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Networking and Online Games--Understanding and Engineering Multiplayer Internet Games.pdf][Networking and Online Games--Understanding and Engineering Multiplayer Internet Games.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/agre - Computation and Human Experience.pdf][agre - Computation and Human Experience.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/The Video Game Theory Reader 2.pdf][The Video Game Theory Reader 2.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Videogames.and.Art.Mar.2007.pdf][Videogames.and.Art.Mar.2007.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Rules Of Play, Game Design Fundamentals, Katie Salen.chm][Rules Of Play, Game Design Fundamentals, Katie Salen.chm]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Castronova, Edward -Virtual Worlds- A First-Hand Account Of Market And Society On The Cyberian Fr.pdf][Castronova, Edward -Virtual Worlds- A First-Hand Account Of Market And Society On The Cyberian Fr.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Games_of_Empire.pdf][Games_of_Empire.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/[Digital Game-based Learning] Michael_Burmester,_Daniela_Gerhard,_Frank_Thissen(BookFi.org).pdf][[Digital Game-based Learning] Michael_Burmester,_Daniela_Gerhard,_Frank_Thissen(BookFi.org).pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/The Making of Prince of Persia - Jordan Mechner.pdf][The Making of Prince of Persia - Jordan Mechner.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Postmortems form Gamedeveloper.pdf][Postmortems form Gamedeveloper.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/[Tom_Bissell]_Extra_Lives_Why_Video_Games_Matter(BookFi.org).pdf][[Tom_Bissell]_Extra_Lives_Why_Video_Games_Matter(BookFi.org).pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Confessions of the Game Doctor - Bill Kunkel.pdf][Confessions of the Game Doctor - Bill Kunkel.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Sudnow_Pilgrim in the Microworld.pdf][Sudnow_Pilgrim in the Microworld.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/[James_Paul_Gee]_What_Video_Games_Have_to_Teach_Us(BookFi.org).pdf][[James_Paul_Gee]_What_Video_Games_Have_to_Teach_Us(BookFi.org).pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Gamification by Design - Zichermann, Cunningham - O'Reilly (2011).pdf][Gamification by Design - Zichermann, Cunningham - O'Reilly (2011).pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Generation Xbox - How Videogames Invaded Hollywood - Jamie Russell.pdf][Generation Xbox - How Videogames Invaded Hollywood - Jamie Russell.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Aarseth_Espen_J_Cybertext_Perspectives_on_Ergodic_Literature.pdf][Aarseth_Espen_J_Cybertext_Perspectives_on_Ergodic_Literature.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/[Janis_Cannon-bowers]_Serious_Game_Design_and_Deve(BookFi.org).pdf][[Janis_Cannon-bowers]_Serious_Game_Design_and_Deve(BookFi.org).pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/dormans - Engineering Emergence.pdf][dormans - Engineering Emergence.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/David Kushner - Masters Of Doom.pdf][David Kushner - Masters Of Doom.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Norman, Donald - The Design Of Everyday Things.pdf][Norman, Donald - The Design Of Everyday Things.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Story Circle Digital Storytelling Around the World~tqw~_darksiderg.pdf][Story Circle Digital Storytelling Around the World~tqw~_darksiderg.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/A Casual Revoultion, Jesper Juul.pdf][A Casual Revoultion, Jesper Juul.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Digital Game and Intelligent Toy Enhanced Learning DIGITEL 2008.pdf][Digital Game and Intelligent Toy Enhanced Learning DIGITEL 2008.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/[Karen_Schrier]_Ethics_and_Game_Design_Teaching_V(BookFi.org).pdf][[Karen_Schrier]_Ethics_and_Game_Design_Teaching_V(BookFi.org).pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Designing Virtual Worlds, Richard Bartle.chm][Designing Virtual Worlds, Richard Bartle.chm]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/adams, dormans - game mechanics.pdf][adams, dormans - game mechanics.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Space Time Play.pdf][Space Time Play.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Emergence in Games.pdf][Emergence in Games.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Phoenix - The Fall and Rise of Videogames - Leonard Herman.pdf][Phoenix - The Fall and Rise of Videogames - Leonard Herman.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/[Chris_Crawford]_The_Art_Of_Computer_Game_Design_(BookFi.org).pdf][[Chris_Crawford]_The_Art_Of_Computer_Game_Design_(BookFi.org).pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Vintage Games - An Insider Look at the History of the Most Influential Games of All Time (Focal, 2009).pdf][Vintage Games - An Insider Look at the History of the Most Influential Games of All Time (Focal, 2009).pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/The Game Producer's Handbook-Outlined.pdf][The Game Producer's Handbook-Outlined.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/woth-ds-ch1.pdf][woth-ds-ch1.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/10_PRINT_121114.pdf][10_PRINT_121114.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Serious Games. Games that Educate, Train and Inform.pdf][Serious Games. Games that Educate, Train and Inform.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Game Design Patterns For Mobile Games.pdf][Game Design Patterns For Mobile Games.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Constellation Games - Leonard Richardson.pdf][Constellation Games - Leonard Richardson.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/David Perry on Game Design - A Brainstorming Toolbox.pdf][David Perry on Game Design - A Brainstorming Toolbox.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Handbook Of Virtual Humans.pdf][Handbook Of Virtual Humans.pdf]]                                        :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Video Game Explosion - A History from Pong to Playstation (Greenwood, 2008).pdf][Video Game Explosion - A History from Pong to Playstation (Greenwood, 2008).pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Videogames - In the Beginning - Ralph H. Baer.pdf][Videogames - In the Beginning - Ralph H. Baer.pdf]]                     :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Critical play - radical game design.pdf][Critical play - radical game design.pdf]]                               :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Pervasive Games, Theory and Design.pdf][Pervasive Games, Theory and Design.pdf]]                                :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Design and use of serious games.pdf][Design and use of serious games.pdf]]                                   :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Game Design Theory and Practice.pdf][Game Design Theory and Practice.pdf]]                                   :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Video.Game.Spaces.Image.Play.and.Structure.in.3D.Worlds.Mar.2009.eBook-DDU.pdf][Video.Game.Spaces.Image.Play.and.Structure.in.3D.Worlds.Mar.2009.eBook-DDU.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Game Design Workshop - A Playcentric Approach to Creating Innovative Games - 2nd Edition - Feb 2008.pdf][Game Design Workshop - A Playcentric Approach to Creating Innovative Games - 2nd Edition - Feb 2008.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Making of Karateka - Jordan Mechner.pdf][Making of Karateka - Jordan Mechner.pdf]]                               :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/simulating_humans_computer_graphics_animation_and_control_3.pdf][simulating_humans_computer_graphics_animation_and_control_3.pdf]]       :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Game Feel A Game Designer's Guide to Virtual Sensation~tqw~darksiderg.pdf][Game Feel A Game Designer's Guide to Virtual Sensation~tqw~darksiderg.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/The Ethics of Computer Games, Miguel Sicart.pdf][The Ethics of Computer Games, Miguel Sicart.pdf]]                       :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Killing is Harmless - Brendan Keogh.pdf][Killing is Harmless - Brendan Keogh.pdf]]                               :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Chris Crawford on Game Design.chm][Chris Crawford on Game Design.chm]]                                     :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Quests.Design,Theory,and.History.in.Games.and.Narratives.Jeff.Howard.A.K.Peters.pdf][Quests.Design,Theory,and.History.in.Games.and.Narratives.Jeff.Howard.A.K.Peters.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Emotional Design, Donald Norman.pdf][Emotional Design, Donald Norman.pdf]]                                   :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Digital Storytelling, Carolyn Miller.pdf][Digital Storytelling, Carolyn Miller.pdf]]                              :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/casual game design.pdf][casual game design.pdf]]                                                :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/kirk - Design Patterns of Successful Role-Playing Games.pdf][kirk - Design Patterns of Successful Role-Playing Games.pdf]]           :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Racing the Beam, The Atari Video Game System, Ian Bogost and Nick Montfort.pdf][Racing the Beam, The Atari Video Game System, Ian Bogost and Nick Montfort.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Unit Operations - An Approach to Videogame Criticism.pdf][Unit Operations - An Approach to Videogame Criticism.pdf]]              :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/The Nature Of Design - Ecology, Culture And Human Intention (2002).pdf][The Nature Of Design - Ecology, Culture And Human Intention (2002).pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Philosophy through Video Games, Jon Cogburn and Mark Silcox.pdf][Philosophy through Video Games, Jon Cogburn and Mark Silcox.pdf]]       :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Challenges for game Designers.pdf][Challenges for game Designers.pdf]]                                     :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Kill Screen Issue 2.pdf][Kill Screen Issue 2.pdf]]                                               :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/The.art.of.computer.game.design.pdf][The.art.of.computer.game.design.pdf]]                                   :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Raph Koster A Theory Of Fun For Game Design.pdf][Raph Koster A Theory Of Fun For Game Design.pdf]]                       :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/[Jeff_Howard]_Quests_Design,_Theory,_and_History_(BookFi.org).pdf][[Jeff_Howard]_Quests_Design,_Theory,_and_History_(BookFi.org).pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Andrew Rollings and Ernest Adams on Game Design (New Riders 2003).chm][Andrew Rollings and Ernest Adams on Game Design (New Riders 2003).chm]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Story and Simulations for Serious Games.pdf][Story and Simulations for Serious Games.pdf]]                           :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Kill Screen Issue 6.pdf][Kill Screen Issue 6.pdf]]                                               :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Art Of Computer Game Design (Chris Crawford, 1997) by Tantanoid.pdf][Art Of Computer Game Design (Chris Crawford, 1997) by Tantanoid.pdf]]   :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Understanding Digital Games, Jason Rutter and Jo Bryce.pdf][Understanding Digital Games, Jason Rutter and Jo Bryce.pdf]]            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/The Art Game Design.pdf][The Art Game Design.pdf]]                                               :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/End to end game design, Independent serious games and simulations.pdf][End to end game design, Independent serious games and simulations.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/The Art of Computer Game Design - Chris Crawford.pdf][The Art of Computer Game Design - Chris Crawford.pdf]]                  :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Networking and Online Games--Understanding and Engineering Multiplayer Internet Games.pdf][Networking and Online Games--Understanding and Engineering Multiplayer Internet Games.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/agre - Computation and Human Experience.pdf][agre - Computation and Human Experience.pdf]]                           :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/The Video Game Theory Reader 2.pdf][The Video Game Theory Reader 2.pdf]]                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Videogames.and.Art.Mar.2007.pdf][Videogames.and.Art.Mar.2007.pdf]]                                       :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Rules Of Play, Game Design Fundamentals, Katie Salen.chm][Rules Of Play, Game Design Fundamentals, Katie Salen.chm]]              :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Castronova, Edward -Virtual Worlds- A First-Hand Account Of Market And Society On The Cyberian Fr.pdf][Castronova, Edward -Virtual Worlds- A First-Hand Account Of Market And Society On The Cyberian Fr.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Games_of_Empire.pdf][Games_of_Empire.pdf]]                                                   :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/[Digital Game-based Learning] Michael_Burmester,_Daniela_Gerhard,_Frank_Thissen(BookFi.org).pdf][[Digital Game-based Learning] Michael_Burmester,_Daniela_Gerhard,_Frank_Thissen(BookFi.org).pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/The Making of Prince of Persia - Jordan Mechner.pdf][The Making of Prince of Persia - Jordan Mechner.pdf]]                   :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Postmortems form Gamedeveloper.pdf][Postmortems form Gamedeveloper.pdf]]                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/[Tom_Bissell]_Extra_Lives_Why_Video_Games_Matter(BookFi.org).pdf][[Tom_Bissell]_Extra_Lives_Why_Video_Games_Matter(BookFi.org).pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Confessions of the Game Doctor - Bill Kunkel.pdf][Confessions of the Game Doctor - Bill Kunkel.pdf]]                      :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Sudnow_Pilgrim in the Microworld.pdf][Sudnow_Pilgrim in the Microworld.pdf]]                                  :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/[James_Paul_Gee]_What_Video_Games_Have_to_Teach_Us(BookFi.org).pdf][[James_Paul_Gee]_What_Video_Games_Have_to_Teach_Us(BookFi.org).pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Gamification by Design - Zichermann, Cunningham - O'Reilly (2011).pdf][Gamification by Design - Zichermann, Cunningham - O'Reilly (2011).pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Generation Xbox - How Videogames Invaded Hollywood - Jamie Russell.pdf][Generation Xbox - How Videogames Invaded Hollywood - Jamie Russell.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Aarseth_Espen_J_Cybertext_Perspectives_on_Ergodic_Literature.pdf][Aarseth_Espen_J_Cybertext_Perspectives_on_Ergodic_Literature.pdf]]      :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/[Janis_Cannon-bowers]_Serious_Game_Design_and_Deve(BookFi.org).pdf][[Janis_Cannon-bowers]_Serious_Game_Design_and_Deve(BookFi.org).pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/dormans - Engineering Emergence.pdf][dormans - Engineering Emergence.pdf]]                                   :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/David Kushner - Masters Of Doom.pdf][David Kushner - Masters Of Doom.pdf]]                                   :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Norman, Donald - The Design Of Everyday Things.pdf][Norman, Donald - The Design Of Everyday Things.pdf]]                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Story Circle Digital Storytelling Around the World~tqw~_darksiderg.pdf][Story Circle Digital Storytelling Around the World~tqw~_darksiderg.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/A Casual Revoultion, Jesper Juul.pdf][A Casual Revoultion, Jesper Juul.pdf]]                                  :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Digital Game and Intelligent Toy Enhanced Learning DIGITEL 2008.pdf][Digital Game and Intelligent Toy Enhanced Learning DIGITEL 2008.pdf]]   :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/[Karen_Schrier]_Ethics_and_Game_Design_Teaching_V(BookFi.org).pdf][[Karen_Schrier]_Ethics_and_Game_Design_Teaching_V(BookFi.org).pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Designing Virtual Worlds, Richard Bartle.chm][Designing Virtual Worlds, Richard Bartle.chm]]                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/adams, dormans - game mechanics.pdf][adams, dormans - game mechanics.pdf]]                                   :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Space Time Play.pdf][Space Time Play.pdf]]                                                   :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Emergence in Games.pdf][Emergence in Games.pdf]]                                                :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Phoenix - The Fall and Rise of Videogames - Leonard Herman.pdf][Phoenix - The Fall and Rise of Videogames - Leonard Herman.pdf]]        :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/[Chris_Crawford]_The_Art_Of_Computer_Game_Design_(BookFi.org).pdf][[Chris_Crawford]_The_Art_Of_Computer_Game_Design_(BookFi.org).pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Vintage Games - An Insider Look at the History of the Most Influential Games of All Time (Focal, 2009).pdf][Vintage Games - An Insider Look at the History of the Most Influential Games of All Time (Focal, 2009).pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/The Game Producer's Handbook-Outlined.pdf][The Game Producer's Handbook-Outlined.pdf]]                             :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/woth-ds-ch1.pdf][woth-ds-ch1.pdf]]                                                       :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/10_PRINT_121114.pdf][10_PRINT_121114.pdf]]                                                   :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Serious Games. Games that Educate, Train and Inform.pdf][Serious Games. Games that Educate, Train and Inform.pdf]]               :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Game Design Patterns For Mobile Games.pdf][Game Design Patterns For Mobile Games.pdf]]                             :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Constellation Games - Leonard Richardson.pdf][Constellation Games - Leonard Richardson.pdf]]                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/David Perry on Game Design - A Brainstorming Toolbox.pdf][David Perry on Game Design - A Brainstorming Toolbox.pdf]]              :book:
 *** DIR: Social simulation
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Social simulation/Artificial intelligence and rational self-government.pdf][Artificial intelligence and rational self-government.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Social simulation/Congress on Social Simulation.pdf][Congress on Social Simulation.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Social simulation/Artificial intelligence and rational self-government.pdf][Artificial intelligence and rational self-government.pdf]]              :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Social simulation/Congress on Social Simulation.pdf][Congress on Social Simulation.pdf]]                                     :book:
 *** DIR: Urban engineering
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch13.pdf][urban-engineering-ch13.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch8.pdf][urban-engineering-ch8.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch7.pdf][urban-engineering-ch7.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch4.pdf][urban-engineering-ch4.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch14.pdf][urban-engineering-ch14.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch3.pdf][urban-engineering-ch3.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch2.pdf][urban-engineering-ch2.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch6.pdf][urban-engineering-ch6.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch5.pdf][urban-engineering-ch5.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch10.pdf][urban-engineering-ch10.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch12.pdf][urban-engineering-ch12.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch9.pdf][urban-engineering-ch9.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch11.pdf][urban-engineering-ch11.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch1.pdf][urban-engineering-ch1.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch15.pdf][urban-engineering-ch15.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch13.pdf][urban-engineering-ch13.pdf]]                                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch8.pdf][urban-engineering-ch8.pdf]]                                             :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch7.pdf][urban-engineering-ch7.pdf]]                                             :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch4.pdf][urban-engineering-ch4.pdf]]                                             :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch14.pdf][urban-engineering-ch14.pdf]]                                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch3.pdf][urban-engineering-ch3.pdf]]                                             :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch2.pdf][urban-engineering-ch2.pdf]]                                             :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch6.pdf][urban-engineering-ch6.pdf]]                                             :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch5.pdf][urban-engineering-ch5.pdf]]                                             :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch10.pdf][urban-engineering-ch10.pdf]]                                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch12.pdf][urban-engineering-ch12.pdf]]                                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch9.pdf][urban-engineering-ch9.pdf]]                                             :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch11.pdf][urban-engineering-ch11.pdf]]                                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch1.pdf][urban-engineering-ch1.pdf]]                                             :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Urban engineering/urban-engineering-ch15.pdf][urban-engineering-ch15.pdf]]                                            :book:
 *** DIR: Language Design
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Language Design/ANTLR 4.pdf][ANTLR 4.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Language Design/language implementation patterns.pdf][language implementation patterns.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Language Design/The implementation of functional programming languages.pdf][The implementation of functional programming languages.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Language Design/Formal Syntax and Semantics of Programming Languages - Kenneth Slonneger.pdf][Formal Syntax and Semantics of Programming Languages - Kenneth Slonneger.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Language Design/proglang.pdf][proglang.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Language Design/Ontological Semantics - Sergei Nirenburg , Victor Raskin.pdf][Ontological Semantics - Sergei Nirenburg , Victor Raskin.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Language Design/Proofs and Types.pdf][Proofs and Types.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Language Design/Programming languages: Application and Interpretation.pdf][Programming languages: Application and Interpretation.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Language Design/lisphackers.pdf][lisphackers.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Language Design/ANTLR 4.pdf][ANTLR 4.pdf]]                                                           :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Language Design/language implementation patterns.pdf][language implementation patterns.pdf]]                                  :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Language Design/The implementation of functional programming languages.pdf][The implementation of functional programming languages.pdf]]            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Language Design/Formal Syntax and Semantics of Programming Languages - Kenneth Slonneger.pdf][Formal Syntax and Semantics of Programming Languages - Kenneth Slonneger.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Language Design/proglang.pdf][proglang.pdf]]                                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Language Design/Ontological Semantics - Sergei Nirenburg , Victor Raskin.pdf][Ontological Semantics - Sergei Nirenburg , Victor Raskin.pdf]]          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Language Design/Proofs and Types.pdf][Proofs and Types.pdf]]                                                  :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Language Design/Programming languages: Application and Interpretation.pdf][Programming languages: Application and Interpretation.pdf]]             :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Language Design/lisphackers.pdf][lisphackers.pdf]]                                                       :book:
 *** DIR: Neural networks
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/Fusion of Neural Networks, Fuzzy Systems and Genetic Algorithms Industrial Applications - Lakhmi C. Jain , N.M. Martin.pdf][Fusion of Neural Networks, Fuzzy Systems and Genetic Algorithms Industrial Applications - Lakhmi C. Jain , N.M. Martin.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/Machine Learning, Neural And Statistical Classification - Cc Taylor.pdf][Machine Learning, Neural And Statistical Classification - Cc Taylor.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/Foundations of Neural Networks, Fuzzy Systems, and Knowledge Engineering - Nikola Kazabov.pdf][Foundations of Neural Networks, Fuzzy Systems, and Knowledge Engineering - Nikola Kazabov.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/Neural Networks Algorithms, Applications,and Programming Techniques - James A. Freeman.pdf][Neural Networks Algorithms, Applications,and Programming Techniques - James A. Freeman.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/Programming Neural Networks in Java - JeffHeaton.pdf][Programming Neural Networks in Java - JeffHeaton.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/Recurrent Neural Networks Design And Applications - L.R. Medsker.pdf][Recurrent Neural Networks Design And Applications - L.R. Medsker.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/The Handbook Of Brain Theory And Neural Networks 2Nd Ed - Michael A Arbib.pdf][The Handbook Of Brain Theory And Neural Networks 2Nd Ed - Michael A Arbib.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/Kalman Filtering and Neural Networks - Simon Haykin.pdf][Kalman Filtering and Neural Networks - Simon Haykin.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/Artificial Neural Networks in Real-life Applications - Juan R. Rabunal.pdf][Artificial Neural Networks in Real-life Applications - Juan R. Rabunal.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/Analysis And Applications Of Artificial Neural Networks - LPG Veelenturf.pdf][Analysis And Applications Of Artificial Neural Networks - LPG Veelenturf.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/Neural Networks - A Comprehensive Foundation - Simon Haykin.pdf][Neural Networks - A Comprehensive Foundation - Simon Haykin.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/RECENT ADVANCES IN ARTIFICIAL NEURAL NETWORKS Design and Applications - Lakhmi Jain.pdf][RECENT ADVANCES IN ARTIFICIAL NEURAL NETWORKS Design and Applications - Lakhmi Jain.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/Static and Dynamic Neural Networks From Fundamentals to Advanced Theory - Madan M. Gupta, Liang Jin, Noriyasu Homma.pdf][Static and Dynamic Neural Networks From Fundamentals to Advanced Theory - Madan M. Gupta, Liang Jin, Noriyasu Homma.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/Methods and Procedures for the Verification and Validation of Artificial Neural Networks - Brian J. Taylor.pdf][Methods and Procedures for the Verification and Validation of Artificial Neural Networks - Brian J. Taylor.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/C++ Neural Networks and Fuzzy Logic - Valluru B. Rao.pdf][C++ Neural Networks and Fuzzy Logic - Valluru B. Rao.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/Artificial Neural Networks - Colin Fyfe.pdf][Artificial Neural Networks - Colin Fyfe.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/An Introduction to Neural Networks - Patrick van der Smagt.pdf][An Introduction to Neural Networks - Patrick van der Smagt.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/Fusion of Neural Networks, Fuzzy Systems and Genetic Algorithms Industrial Applications - Lakhmi C. Jain , N.M. Martin.pdf][Fusion of Neural Networks, Fuzzy Systems and Genetic Algorithms Industrial Applications - Lakhmi C. Jain , N.M. Martin.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/Machine Learning, Neural And Statistical Classification - Cc Taylor.pdf][Machine Learning, Neural And Statistical Classification - Cc Taylor.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/Foundations of Neural Networks, Fuzzy Systems, and Knowledge Engineering - Nikola Kazabov.pdf][Foundations of Neural Networks, Fuzzy Systems, and Knowledge Engineering - Nikola Kazabov.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/Neural Networks Algorithms, Applications,and Programming Techniques - James A. Freeman.pdf][Neural Networks Algorithms, Applications,and Programming Techniques - James A. Freeman.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/Programming Neural Networks in Java - JeffHeaton.pdf][Programming Neural Networks in Java - JeffHeaton.pdf]]                  :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/Recurrent Neural Networks Design And Applications - L.R. Medsker.pdf][Recurrent Neural Networks Design And Applications - L.R. Medsker.pdf]]  :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/The Handbook Of Brain Theory And Neural Networks 2Nd Ed - Michael A Arbib.pdf][The Handbook Of Brain Theory And Neural Networks 2Nd Ed - Michael A Arbib.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/Kalman Filtering and Neural Networks - Simon Haykin.pdf][Kalman Filtering and Neural Networks - Simon Haykin.pdf]]               :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/Artificial Neural Networks in Real-life Applications - Juan R. Rabunal.pdf][Artificial Neural Networks in Real-life Applications - Juan R. Rabunal.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/Analysis And Applications Of Artificial Neural Networks - LPG Veelenturf.pdf][Analysis And Applications Of Artificial Neural Networks - LPG Veelenturf.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/Neural Networks - A Comprehensive Foundation - Simon Haykin.pdf][Neural Networks - A Comprehensive Foundation - Simon Haykin.pdf]]       :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/RECENT ADVANCES IN ARTIFICIAL NEURAL NETWORKS Design and Applications - Lakhmi Jain.pdf][RECENT ADVANCES IN ARTIFICIAL NEURAL NETWORKS Design and Applications - Lakhmi Jain.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/Static and Dynamic Neural Networks From Fundamentals to Advanced Theory - Madan M. Gupta, Liang Jin, Noriyasu Homma.pdf][Static and Dynamic Neural Networks From Fundamentals to Advanced Theory - Madan M. Gupta, Liang Jin, Noriyasu Homma.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/Methods and Procedures for the Verification and Validation of Artificial Neural Networks - Brian J. Taylor.pdf][Methods and Procedures for the Verification and Validation of Artificial Neural Networks - Brian J. Taylor.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/C++ Neural Networks and Fuzzy Logic - Valluru B. Rao.pdf][C++ Neural Networks and Fuzzy Logic - Valluru B. Rao.pdf]]              :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/Artificial Neural Networks - Colin Fyfe.pdf][Artificial Neural Networks - Colin Fyfe.pdf]]                           :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Neural networks/An Introduction to Neural Networks - Patrick van der Smagt.pdf][An Introduction to Neural Networks - Patrick van der Smagt.pdf]]        :book:
 *** DIR: Ethics
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Ethics/The Satanic Bible (Underground Edition).pdf][The Satanic Bible (Underground Edition).pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Ethics/The Satanic Bible Ebook.pdf][The Satanic Bible Ebook.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Ethics/psychologypower.pdf][psychologypower.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Ethics/The Satanic Bible (Underground Edition).pdf][The Satanic Bible (Underground Edition).pdf]]                           :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Ethics/The Satanic Bible Ebook.pdf][The Satanic Bible Ebook.pdf]]                                           :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Ethics/psychologypower.pdf][psychologypower.pdf]]                                                   :book:
 *** DIR: Cognitive science
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Cognitive science/Mind body world.pdf][Mind body world.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Cognitive science/Mind body world.pdf][Mind body world.pdf]]                                                   :book:
 *** DIR: P&P RPGS
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/P&P RPGS/Kingdom_RPG.zip][Kingdom_RPG.zip]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/P&P RPGS/Microscope_RPG.zip][Microscope_RPG.zip]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/P&P RPGS/Kingdom_RPG.zip][Kingdom_RPG.zip]]                                                       :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/P&P RPGS/Microscope_RPG.zip][Microscope_RPG.zip]]                                                    :book:
 *** DIR: HCI
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/HCI/Interaction Design.pdf][Interaction Design.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/HCI/HCI Models, Theories, and Frameworks.pdf][HCI Models, Theories, and Frameworks.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/HCI/Interaction Design.pdf][Interaction Design.pdf]]                                                :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/HCI/HCI Models, Theories, and Frameworks.pdf][HCI Models, Theories, and Frameworks.pdf]]                              :book:
 *** DIR: Machine Learning
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/IntroMLBook.pdf][IntroMLBook.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/The elements of statistical learning.pdf][The elements of statistical learning.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Machine Learning - Tom Mitchell.pdf][Machine Learning - Tom Mitchell.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch12.pdf][reinforce_ch12.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/lionbook.pdf][lionbook.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Machine learning, Neural and statistical classification.pdf][Machine learning, Neural and statistical classification.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Daume - a course of machine learning.pdf][Daume - a course of machine learning.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Gaussian processes for Machine Learning.pdf][Gaussian processes for Machine Learning.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch8.pdf][reinforce_ch8.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Bayesian Reasoning and Machine Learning.pdf][Bayesian Reasoning and Machine Learning.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch21.pdf][reinforce_ch21.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch5.pdf][reinforce_ch5.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch18.pdf][reinforce_ch18.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/An Introduction to Support Vector Machines and Other Kernel-based Learning Methods - Nello Cristianini , John Shawe.chm][An Introduction to Support Vector Machines and Other Kernel-based Learning Methods - Nello Cristianini , John Shawe.chm]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Introduction to Machine Learning - Nils J Nilsson.pdf][Introduction to Machine Learning - Nils J Nilsson.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Machine Learning, Game Play, and Go - David Stoutamire.pdf][Machine Learning, Game Play, and Go - David Stoutamire.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Introduction to machine learning.pdf][Introduction to machine learning.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch4.pdf][reinforce_ch4.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch15.pdf][reinforce_ch15.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch22.pdf][reinforce_ch22.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch10.pdf][reinforce_ch10.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch2.pdf][reinforce_ch2.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Data Mining Practical Machine Learning Tools and Techniques 2d ed - Morgan Kaufmann.pdf][Data Mining Practical Machine Learning Tools and Techniques 2d ed - Morgan Kaufmann.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Intro to Machine Learning.pdf][Intro to Machine Learning.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch19.pdf][reinforce_ch19.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/PROBLEM SOLVING WITH REINFORCEMENT LEARNING - Gavin Adrian Rummery.pdf][PROBLEM SOLVING WITH REINFORCEMENT LEARNING - Gavin Adrian Rummery.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/I2ML.pdf][I2ML.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Statistical Machine Learning For Information Retrieval - Adam Berger.pdf][Statistical Machine Learning For Information Retrieval - Adam Berger.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch3.pdf][reinforce_ch3.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch20.pdf][reinforce_ch20.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Information theory, inference and learning algorithms.pdf][Information theory, inference and learning algorithms.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Reinforcement Learning  An Introduction - Richard S. Sutton , Andrew G. Barto.pdf][Reinforcement Learning  An Introduction - Richard S. Sutton , Andrew G. Barto.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Mining massive data sets.pdf][Mining massive data sets.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Machine Learning And Its Applications - Georgios Paliouras.pdf][Machine Learning And Its Applications - Georgios Paliouras.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Machine Learning in Computer Vision - N. SEBE.pdf][Machine Learning in Computer Vision - N. SEBE.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch13.pdf][reinforce_ch13.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch14.pdf][reinforce_ch14.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch17.pdf][reinforce_ch17.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Machine Learning, Neural And Statistical Classification - Michie , Spiegelhalter , Taylor.pdf][Machine Learning, Neural And Statistical Classification - Michie , Spiegelhalter , Taylor.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch6.pdf][reinforce_ch6.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch11.pdf][reinforce_ch11.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch7.pdf][reinforce_ch7.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch9.pdf][reinforce_ch9.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforcech1.pdf][reinforcech1.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch16.pdf][reinforce_ch16.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/IntroMLBook.pdf][IntroMLBook.pdf]]                                                       :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/The elements of statistical learning.pdf][The elements of statistical learning.pdf]]                              :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Machine Learning - Tom Mitchell.pdf][Machine Learning - Tom Mitchell.pdf]]                                   :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch12.pdf][reinforce_ch12.pdf]]                                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/lionbook.pdf][lionbook.pdf]]                                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Machine learning, Neural and statistical classification.pdf][Machine learning, Neural and statistical classification.pdf]]           :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Daume - a course of machine learning.pdf][Daume - a course of machine learning.pdf]]                              :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Gaussian processes for Machine Learning.pdf][Gaussian processes for Machine Learning.pdf]]                           :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch8.pdf][reinforce_ch8.pdf]]                                                     :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Bayesian Reasoning and Machine Learning.pdf][Bayesian Reasoning and Machine Learning.pdf]]                           :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch21.pdf][reinforce_ch21.pdf]]                                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch5.pdf][reinforce_ch5.pdf]]                                                     :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch18.pdf][reinforce_ch18.pdf]]                                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/An Introduction to Support Vector Machines and Other Kernel-based Learning Methods - Nello Cristianini , John Shawe.chm][An Introduction to Support Vector Machines and Other Kernel-based Learning Methods - Nello Cristianini , John Shawe.chm]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Introduction to Machine Learning - Nils J Nilsson.pdf][Introduction to Machine Learning - Nils J Nilsson.pdf]]                 :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Machine Learning, Game Play, and Go - David Stoutamire.pdf][Machine Learning, Game Play, and Go - David Stoutamire.pdf]]            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Introduction to machine learning.pdf][Introduction to machine learning.pdf]]                                  :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch4.pdf][reinforce_ch4.pdf]]                                                     :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch15.pdf][reinforce_ch15.pdf]]                                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch22.pdf][reinforce_ch22.pdf]]                                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch10.pdf][reinforce_ch10.pdf]]                                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch2.pdf][reinforce_ch2.pdf]]                                                     :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Data Mining Practical Machine Learning Tools and Techniques 2d ed - Morgan Kaufmann.pdf][Data Mining Practical Machine Learning Tools and Techniques 2d ed - Morgan Kaufmann.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Intro to Machine Learning.pdf][Intro to Machine Learning.pdf]]                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch19.pdf][reinforce_ch19.pdf]]                                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/PROBLEM SOLVING WITH REINFORCEMENT LEARNING - Gavin Adrian Rummery.pdf][PROBLEM SOLVING WITH REINFORCEMENT LEARNING - Gavin Adrian Rummery.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/I2ML.pdf][I2ML.pdf]]                                                              :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Statistical Machine Learning For Information Retrieval - Adam Berger.pdf][Statistical Machine Learning For Information Retrieval - Adam Berger.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch3.pdf][reinforce_ch3.pdf]]                                                     :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch20.pdf][reinforce_ch20.pdf]]                                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Information theory, inference and learning algorithms.pdf][Information theory, inference and learning algorithms.pdf]]             :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Reinforcement Learning  An Introduction - Richard S. Sutton , Andrew G. Barto.pdf][Reinforcement Learning  An Introduction - Richard S. Sutton , Andrew G. Barto.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Mining massive data sets.pdf][Mining massive data sets.pdf]]                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Machine Learning And Its Applications - Georgios Paliouras.pdf][Machine Learning And Its Applications - Georgios Paliouras.pdf]]        :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Machine Learning in Computer Vision - N. SEBE.pdf][Machine Learning in Computer Vision - N. SEBE.pdf]]                     :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch13.pdf][reinforce_ch13.pdf]]                                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch14.pdf][reinforce_ch14.pdf]]                                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch17.pdf][reinforce_ch17.pdf]]                                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Machine Learning, Neural And Statistical Classification - Michie , Spiegelhalter , Taylor.pdf][Machine Learning, Neural And Statistical Classification - Michie , Spiegelhalter , Taylor.pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch6.pdf][reinforce_ch6.pdf]]                                                     :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch11.pdf][reinforce_ch11.pdf]]                                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch7.pdf][reinforce_ch7.pdf]]                                                     :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch9.pdf][reinforce_ch9.pdf]]                                                     :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforcech1.pdf][reinforcech1.pdf]]                                                      :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/reinforce_ch16.pdf][reinforce_ch16.pdf]]                                                    :book:
 **** DIR: Pattern recognition
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Pattern recognition/Particle Swarm Optimization Methods for Pattern Recognition and Image Processing - Mahamed G. H. Omran.pdf][Particle Swarm Optimization Methods for Pattern Recognition and Image Processing - Mahamed G. H. Omran.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Pattern recognition/Evolutionary Synthesis of Pattern Recognition Systems - Bir Bhanu.pdf][Evolutionary Synthesis of Pattern Recognition Systems - Bir Bhanu.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Pattern recognition/An Introduction to Pattern Recognition - Michael Alder.pdf][An Introduction to Pattern Recognition - Michael Alder.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Pattern recognition/Pattern Recognition with Neural Networks in C++ - Abhijit S. Pandya, Robert B. Macy.chm][Pattern Recognition with Neural Networks in C++ - Abhijit S. Pandya, Robert B. Macy.chm]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Pattern recognition/Statistical Pattern Recognition 2nd Ed - Andrew R. Webb.pdf][Statistical Pattern Recognition 2nd Ed - Andrew R. Webb.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Pattern recognition/Introduction to Statistical Pattern Recognition 2nd Ed -  Keinosuke Fukunaga.pdf][Introduction to Statistical Pattern Recognition 2nd Ed -  Keinosuke Fukunaga.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Pattern recognition/Pattern recognition and image preprocessing  2nd ed -Sing T. Bow.pdf][Pattern recognition and image preprocessing  2nd ed -Sing T. Bow.pdf]]
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Pattern recognition/Pattern Recognition in Speech and Language Processing - WU CHOU.pdf][Pattern Recognition in Speech and Language Processing - WU CHOU.pdf]]
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Pattern recognition/Particle Swarm Optimization Methods for Pattern Recognition and Image Processing - Mahamed G. H. Omran.pdf][Particle Swarm Optimization Methods for Pattern Recognition and Image Processing - Mahamed G. H. Omran.pdf]] :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Pattern recognition/Evolutionary Synthesis of Pattern Recognition Systems - Bir Bhanu.pdf][Evolutionary Synthesis of Pattern Recognition Systems - Bir Bhanu.pdf]] :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Pattern recognition/An Introduction to Pattern Recognition - Michael Alder.pdf][An Introduction to Pattern Recognition - Michael Alder.pdf]]           :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Pattern recognition/Pattern Recognition with Neural Networks in C++ - Abhijit S. Pandya, Robert B. Macy.chm][Pattern Recognition with Neural Networks in C++ - Abhijit S. Pandya, Robert B. Macy.chm]] :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Pattern recognition/Statistical Pattern Recognition 2nd Ed - Andrew R. Webb.pdf][Statistical Pattern Recognition 2nd Ed - Andrew R. Webb.pdf]]          :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Pattern recognition/Introduction to Statistical Pattern Recognition 2nd Ed -  Keinosuke Fukunaga.pdf][Introduction to Statistical Pattern Recognition 2nd Ed -  Keinosuke Fukunaga.pdf]] :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Pattern recognition/Pattern recognition and image preprocessing  2nd ed -Sing T. Bow.pdf][Pattern recognition and image preprocessing  2nd ed -Sing T. Bow.pdf]] :book:
+***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Machine Learning/Pattern recognition/Pattern Recognition in Speech and Language Processing - WU CHOU.pdf][Pattern Recognition in Speech and Language Processing - WU CHOU.pdf]]  :book:
 *** DIR: logic
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture16.pdf][lecture16.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture11.pdf][lecture11.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/REVIEW.PDF][REVIEW.PDF]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/logicrules.pdf][logicrules.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture08.pdf][lecture08.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture13.pdf][lecture13.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/CHAP09.PDF][CHAP09.PDF]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture14.pdf][lecture14.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture04.pdf][lecture04.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/ch11.pdf][ch11.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture05.pdf][lecture05.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture06.pdf][lecture06.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture10.pdf][lecture10.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/spreadsheets.pdf][spreadsheets.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture02.pdf][lecture02.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture17.pdf][lecture17.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/CHAP10.DOC][CHAP10.DOC]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/CHAP03.PDF][CHAP03.PDF]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/ch10.pdf][ch10.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/CHAP04.PDF][CHAP04.PDF]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture03.pdf][lecture03.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture15.pdf][lecture15.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/CHAP07.PDF][CHAP07.PDF]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture18.ppt][lecture18.ppt]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture01.pdf][lecture01.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/CHAP05.PDF][CHAP05.PDF]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture07.pdf][lecture07.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/CHAP06.PDF][CHAP06.PDF]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/CHAP08.PDF][CHAP08.PDF]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/CHAP01.PDF][CHAP01.PDF]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/ch12.pdf][ch12.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture12.pdf][lecture12.pdf]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/CHAP02.PDF][CHAP02.PDF]]
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture09.pdf][lecture09.pdf]]
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture16.pdf][lecture16.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture11.pdf][lecture11.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/REVIEW.PDF][REVIEW.PDF]]                                                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/logicrules.pdf][logicrules.pdf]]                                                        :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture08.pdf][lecture08.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture13.pdf][lecture13.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/CHAP09.PDF][CHAP09.PDF]]                                                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture14.pdf][lecture14.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture04.pdf][lecture04.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/ch11.pdf][ch11.pdf]]                                                              :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture05.pdf][lecture05.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture06.pdf][lecture06.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture10.pdf][lecture10.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/spreadsheets.pdf][spreadsheets.pdf]]                                                      :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture02.pdf][lecture02.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture17.pdf][lecture17.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/CHAP10.DOC][CHAP10.DOC]]                                                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/CHAP03.PDF][CHAP03.PDF]]                                                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/ch10.pdf][ch10.pdf]]                                                              :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/CHAP04.PDF][CHAP04.PDF]]                                                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture03.pdf][lecture03.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture15.pdf][lecture15.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/CHAP07.PDF][CHAP07.PDF]]                                                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture18.ppt][lecture18.ppt]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture01.pdf][lecture01.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/CHAP05.PDF][CHAP05.PDF]]                                                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture07.pdf][lecture07.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/CHAP06.PDF][CHAP06.PDF]]                                                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/CHAP08.PDF][CHAP08.PDF]]                                                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/CHAP01.PDF][CHAP01.PDF]]                                                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/ch12.pdf][ch12.pdf]]                                                              :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture12.pdf][lecture12.pdf]]                                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/CHAP02.PDF][CHAP02.PDF]]                                                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/logic/lecture09.pdf][lecture09.pdf]]                                                         :book:
 
