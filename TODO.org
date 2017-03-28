@@ -65,6 +65,8 @@
    Write a simple parser using parsec
 *** TODO Haskell: add a python version of iEL
     <2017-03-30 Thu>
+** TODO Python Red-Black Weighting
+   <2017-03-28 Tue>
 ** Other
 *** DONE Change Sheets
     <2017-03-24 Fri>
