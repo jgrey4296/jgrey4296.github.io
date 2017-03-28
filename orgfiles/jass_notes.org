@@ -1,7 +1,7 @@
 * JASS Notes                         :research:simulation:jass:socialScience:
 ** Primary
 
-*** TODO [[../web_pages/A Virtual Laboratory for the Study of History and Cultural Dynamics.html][A Virtual Laboratory for the study of History and Cultural Dyanmics]]
+*** TODO [[http://jasss.soc.surrey.ac.uk/14/4/19.html][A Virtual Laboratory for the study of History and Cultural Dyanmics]]
 Suarezz and Sancho (2011)
 
 
@@ -18,7 +18,7 @@ Suarezz and Sancho (2011)
       Reception, memory, learning, and emission
       Emmission : Dominant/Creative/Passive behaviours
 
-*** DONE [[../web_pages/Generating Social Practices.html][Generating Social Practices]]
+*** DONE [[http://jasss.soc.surrey.ac.uk/17/1/17.html][Generating Social Practices]]
 Holtz (2014)
 
 **** Results
@@ -127,7 +127,7 @@ Holtz (2014)
 **** Implementation
      Simple bitstrings.
 
-*** DONE [[../web_pages/Kerstin Dautenhahn and Steven J. Coles_ Intelligence from the Bottom Up.html][Narrative Intelligence from the Bottom Up: A Computational Framework for the Study of Story-Telling in Autonomous Agents]]
+*** DONE [[http://jasss.soc.surrey.ac.uk/4/1/1.html][Narrative Intelligence from the Bottom Up: A Computational Framework for the Study of Story-Telling in Autonomous Agents]]
 Dautenhahn and Coles (2001)
 
 	Levels of narrative intelligence:
@@ -141,42 +141,42 @@ Dautenhahn and Coles (2001)
 Hubner, Sichman and Boissier
 (Moise)
 
-*** [[../web_pages/Agent-Based Modelling.html][Agent-Based Modeling: The Next 15 Years]]
+*** [[http://jasss.soc.surrey.ac.uk/13/4/7.html][Agent-Based Modeling: The Next 15 Years]]
 Hamill (2010)
 
-*** [[../web_pages/Jose Manuel Galan and Luis R. Izquierdo_ Appearances Can Be Deceiving.html][Appearances can be decieving: Lessons Learned Re-Implementing Axelrod's 'Evolutionary Approach To Norms']]
+*** [[http://jasss.soc.surrey.ac.uk/8/3/2.html][Appearances can be decieving: Lessons Learned Re-Implementing Axelrod's 'Evolutionary Approach To Norms']]
 Galan and Izquierdo (2005)
 
-*** [[../web_pages/Considering a Multi-Level Model as a Society of Interacting Models.html][Considering a Multi-Level Model as a Soceity of Interactive Models: Application to a Collective Motion Example]]
-Camus, Bourjot and Chevrier (2015)
+*** [[http://jasss.soc.surrey.ac.uk/18/3/7.html][Considering a Multi-Level Model as a Soceity of Interactive Models: Application to a Collective Motion Example]]
+    Camus, Bourjot and Chevrier (2015)
 
-*** [[../web_pages/Explaining Simulations Through Self Explaining Agents.html][Explaining Simulations Through Self Explaining Agents]]
+*** [[http://jasss.soc.surrey.ac.uk/13/1/4.html][Explaining Simulations Through Self Explaining Agents]]
 Harbers, Meyer, and van den Bosch (2010)
 
-*** [[../web_pages/Maria Fasli_ Formal Systems and Agent-Based Social Simulation = Null?.html][Formal Systems and Agent-Based Social Simulation = Null?]]
-Fasli (2004)
-*** [[../web_pages/Rosaria Conte and Frank Dignum_ From Social Monitoring to Normative Influence.html][From Social Monitoring to Normative Influence]]
+*** [[http://jasss.soc.surrey.ac.uk/7/4/7.html][Formal Systems and Agent-Based Social Simulation = Null?]]
+    Fasli (2004)
+*** [[http://jasss.soc.surrey.ac.uk/4/2/7.html][From Social Monitoring to Normative Influence]]
 Conte and Dignum (2001)
 
-*** [[../web_pages/Felix Flentge, Daniel Polani and Thomas Uthmann_ Modelling the Emergence of Possession Norms using Memes.html][Modeling the Emergence of Possession Norms using Memes]]
+*** [[http://jasss.soc.surrey.ac.uk/4/4/3.html][Modeling the Emergence of Possession Norms using Memes]]
 Flentge, Polani and Uthmann (2001)
 
-*** [[../web_pages/Chris Goldspink_ Modelling social systems as complex_ Towards a social simulation meta-model.html][Modelling Social Systems as Complex: Towards a social simulation meta-model]]
+*** [[http://jasss.soc.surrey.ac.uk/3/2/1.html][Modelling Social Systems as Complex: Towards a social simulation meta-model]]
 Goldspink (2000)
 
 *** [[../pdfs/dfu-vol4-complete.pdf][Normative Multi-Agent Systems]]
 Andrighetto et All
 
-*** [[../web_pages/Olivier Barreteau, Christophe Le Page and Patrick D'Aquino_ Role-Playing Games, Models and Negotiation Processes.html][Role-Playing Games, Models and Negotiation Processes]]
+*** [[http://jasss.soc.surrey.ac.uk/6/2/10.html][Role-Playing Games, Models and Negotiation Processes]]
 Barreteau, Le Page and D'Aquino (2003)
 
-*** [[../web_pages/Nicole J. Saam and Andreas Harrer_ Simulating norms, social inequality, and functional change in artificial societies.html][Simulating Norms, Social Inequality, and Functional Change in Artificial Societies]]
+*** [[http://jasss.soc.surrey.ac.uk/2/1/2.html][Simulating Norms, Social Inequality, and Functional Change in Artificial Societies]]
 Saam and Harrer (1999)
 
-*** [[../web_pages/Christian Hahn, Bettina Fley, Michael Florian, Daniela Spresny and Klaus Fischer_ Social Reputation.html][Social Reputation: A Mechanism for Flexible Self-Regulation of Multiagent Systems]]
+*** [[http://jasss.soc.surrey.ac.uk/10/1/2.html][Social Reputation: A Mechanism for Flexible Self-Regulation of Multiagent Systems]]
 Hahn, Fley, Florian, Spresny and Fischer (2007)
 
-*** [[../web_pages/The Current State of Normative Agent-Based Systems.html][The Current State of Normative Agent-Based Systems]]
+*** [[http://jasss.soc.surrey.ac.uk/14/2/6.html][The Current State of Normative Agent-Based Systems]]
 Hollander and Wu (2011)
 
     Always with *efficiency*:
@@ -339,10 +339,10 @@ Hollander and Wu (2011)
 
 
 
-*** [[../web_pages/José Castro Caldas and Helder Coelho_ The Origin of Institutions.html][The Origin of Institutions: Socio-economic processes, choice, norms and conventions]]
+*** [[http://jasss.soc.surrey.ac.uk/2/2/1.html][The Origin of Institutions: Socio-economic processes, choice, norms and conventions]]
 Caldas and Coelho (1999)
 
-*** [[../web_pages/Guido Fioretti and Alessandro Lomi_ An Agent-Based Representation of the Garbage Can Model of Organizational Choice.html][An Agent-Based Representation of the Garbage Can Model of Organizational Choice]]
+*** [[http://jasss.soc.surrey.ac.uk/11/1/1.html][An Agent-Based Representation of the Garbage Can Model of Organizational Choice]]
 Fioretti and Lomi (2008)
 
 *** [[../pdfs/Castelfranchi - Towards Institutional Actions.pdf][Towards Institutional Actions ]]
@@ -399,14 +399,14 @@ Fioretti and Lomi (2008)
      Institutions are resonant groups of reinforcing actions, whose consequences are 
      unintended / non-obvious.
 
-*** [[../web_pages/Cristiano Castelfranchi, Rosaria Conte and Mario Paolucci_ Normative reputation and the costs of compliance.html][Normative Reputation and the costs of compliance]]
+*** [[http://jasss.soc.surrey.ac.uk/1/3/3.htm][Normative Reputation and the costs of compliance]]
 Castelfranchi, Conte, and Paolucci (1998)
 
 *** TODO [[../pdfs/ai_law_submitted.pdf][Combining Institutional Frameworks and Agent-Based Simulation for the Design of Enforcement Policies]]
 Balke, De Vos (2012)
 
 
-*** TODO [[../web_pages/How Do Agents Make Decisions?.html][How Do Agents Make Decisions? A Survey]]
+*** TODO [http://jasss.soc.surrey.ac.uk/17/4/13.html][How Do Agents Make Decisions? A Survey]]
 Balke and Gilbert (2014)
 
 **** Dimensions of Comparison
@@ -448,7 +448,7 @@ Balke and Gilbert (2014)
 
 **** Overview
 
-*** TODO [[../web_pages/Homo Socionicus.html][Homo Socionicus: A Case Study of Simulation Models of Norms]]
+*** TODO [[http://jasss.soc.surrey.ac.uk/11/4/6.html][Homo Socionicus: A Case Study of Simulation Models of Norms]]
 Neumann (2008)
 
 **** Intro
@@ -617,97 +617,99 @@ behaviour become more frequent, without formalising the mechanism.
 
 *** TODO Programming Institutional Facts
 
-*** TODO [[../web_pages/Typical Pitfalls of Simulation Modeling - Lessons Learned from Armed Forces and Business.html][Typical Pitfalls of Simulation Modeling - Lessons Learned from Armed Forces and Business]]
+*** TODO [[http://jasss.soc.surrey.ac.uk/15/2/5.html][Typical Pitfalls of Simulation Modeling - Lessons Learned from Armed Forces and Business]]
 Barth, Meyer and Spitzner (2012)
 
-*** TODO [[../web_pages/Tools of the Trade.html][Tools of the Trade: A Survey of various Agent Based Modeling Platforms]]
+*** TODO [[http://jasss.soc.surrey.ac.uk/12/2/2.html][Tools of the Trade: A Survey of various Agent Based Modeling Platforms]]
 Nikolai and Madey (2009)
     
 
 ** Secondary
 
-*** [[../web_pages/A Computational Model of Worker Protest.html][A Computational Model of Worker Protest]]
+*** [[http://jasss.soc.surrey.ac.uk/14/3/1.html][A Computational Model of Worker Protest]]
 Kim and Hanneman (2011)
-*** [[../web_pages/A Context- and Scope-Sensitive Analysis of Narrative Data to Aid the Specification of Agent Behaviour.html][A Context- and Scope-Sensitive Analysis of Narrative Data to Aid the Specification of Agent Behaviour]]
+*** [[http://jasss.soc.surrey.ac.uk/18/1/17.html][A Context- and Scope-Sensitive Analysis of Narrative Data to Aid the Specification of Agent Behaviour]]
 Edmonds (2015)
-*** [[../web_pages/A Pragmatic Reading of Friedman's Methodological Essay and What It Tells Us for the Discussion of ABMs.html][A Pragmatic Reading of Friedman's Methodological Essay and What It Tells Us for the Discussion of ABMs]]
+*** [[http://jasss.soc.surrey.ac.uk/12/4/6.html][A Pragmatic Reading of Friedman's Methodological Essay and What It Tells Us for the Discussion of ABMs]]
 Deichsel and Pyka (2009)
-*** [[../web_pages/Between Replication and Docking.html][Between Replication and Docking: "Adaptive Agents, Political Institutions, and Civic Traditions" Revisited]]
+*** [[http://jasss.soc.surrey.ac.uk/13/3/1.html][Between Replication and Docking: "Adaptive Agents, Political Institutions, and Civic Traditions" Revisited]]
 Miodownik, Cartrite and Bhavnani (2010)
 
-*** [[../web_pages/Flaminio Squazzoni and Riccardo Boero_ Economic Performance, Inter-Firm Relations and Local Institutional Engineering.html][Economic Performance, Inter-Firm Relations and Local Institutional Engineering in a Computational Prototype of Industrial Districts]]
+*** [[http://jasss.soc.surrey.ac.uk/5/1/1.html][Economic Performance, Inter-Firm Relations and Local Institutional Engineering in a Computational Prototype of Industrial Districts]]
 Squazzoni and Boero (2002)
 
-*** [[../web_pages/Emergence and Collapse of the Norm of Resource Sharing Around Locally Abundant Resources.html][Emergence and Collapse of the Norm of Resource Sharing Around Locally Abundant Resources]]
+*** [[http://jasss.soc.surrey.ac.uk/18/4/7.html][Emergence and Collapse of the Norm of Resource Sharing Around Locally Abundant Resources]]
 Horiuchi (2015)
-*** [[../web_pages/Extracting OWL Ontologies from Agent-Based Models.html][Extracting OWL Ontologies from Agent-Based Models: A Netlogo Extension]]
+*** [[http://jasss.soc.surrey.ac.uk/18/2/15.html][Extracting OWL Ontologies from Agent-Based Models: A Netlogo Extension]]
 Polhill (2015)
-*** [[../web_pages/Governments, Civilians, and the Evolution of Insurgency.html][Governments, Civilians, and the Evolution of Insurgency: Modeling the Early Dynamics of Insurgencies]]
+*** [[http://jasss.soc.surrey.ac.uk/11/4/7.html][Governments, Civilians, and the Evolution of Insurgency: Modeling the Early Dynamics of Insurgencies]]
 Bennett (2008)
 
-*** [[../web_pages/Grounded Simulation.html][Grounded Simulation]]
+*** [[http://jasss.soc.surrey.ac.uk/18/1/9.html][Grounded Simulation]]
 Neumann (2015)
 
-*** [[../web_pages/Josep M. Pujol, Andreas Flache, Jordi Delgado and Ramon Sangüesa_ How Can Social Networks Ever Become Complex?.html][How can Social Networks Ever Become Complex? Modelling the Emergence of Complex Networks from Local Social Exchanges]]
+*** [[http://jasss.soc.surrey.ac.uk/8/4/12.html][How can Social Networks Ever Become Complex? Modelling the Emergence of Complex Networks from Local Social Exchanges]]
 Pujol, Flache, Delgado and Sanguesa (2005)
 
-*** [[../web_pages/Alexander Staller and Paolo Petta_ Introducing Emotions into the Computational Study of Social Norms.html][Introducing Emotions into the Computational Study of Social Norms: A First Evaluation]]
+*** [[http://jasss.soc.surrey.ac.uk/4/1/2.html][Introducing Emotions into the Computational Study of Social Norms: A First Evaluation]]
 Staller and Petta (2001)
 
-*** [[../web_pages/Scott Wheeler_ It Pays to Be Popular.html][It Pays to Be Popular: A Study of Civilian Assistance and Guerilla Warfare]]
+*** [[http://jasss.soc.surrey.ac.uk/8/4/9.html][It Pays to Be Popular: A Study of Civilian Assistance and Guerilla Warfare]]
 Wheeler (2005)
 
-*** [[../web_pages/Leadership in Small Societies.html][Leadership in Small Societies]]
+*** [[http://jasss.soc.surrey.ac.uk/13/3/5.html][Leadership in Small Societies]]
 Younger (2010)
 
-*** [[../web_pages/Learning Dilemmas in a Social-Ecological System.html][Learning Dilemmas in a Social-Ecological System: An Agent-Based Modeling Exploration]]
+*** [[http://jasss.soc.surrey.ac.uk/17/1/2.html][Learning Dilemmas in a Social-Ecological System: An Agent-Based Modeling Exploration]]
 Bohensky (2014)
 
-*** [[../web_pages/MAIA.html][MAIA: A Framework for Developing Agent-Based Social Simulations]]
+*** [[http://jasss.soc.surrey.ac.uk/16/2/9.html][MAIA: A Framework for Developing Agent-Based Social Simulations]]
 Ghorbani, Bots, Dignum and Dijkema (2013)
 
-*** [[../web_pages/Rafael Bordini, Antônio Carlos da Rocha Costa, Jomi F. Hübner, Álvaro F. Moreira, Fabio Y. Okuyama and Renata Vieira_ MAS-SOC.html][MAS-SOC: a Social Simulation Platform Based on Agent-Oriented Programming]]
+*** [[http://jasss.soc.surrey.ac.uk/8/3/7.html][MAS-SOC: a Social Simulation Platform Based on Agent-Oriented Programming]]
 Bordini et al (2005)
 
-*** [[../web_pages/Michael Agar_ My Kingdom for a Function.html][My Kingdom for a Function: Modeling Misadventures of the Innumerate]]
+*** [[http://jasss.soc.surrey.ac.uk/6/3/8.html][My Kingdom for a Function: Modeling Misadventures of the Innumerate]]
 Agar (2003)
 
 *** [[../web_pages/NetLogo 5.3.1 User Manual.html][Netlogo]]
 
-*** [[../web_pages/Norm Internalisation in Human and Artificial Intelligence.html][Norm and Internalisation in Human and Artificial Intelligence]]
+*** [[http://jasss.soc.surrey.ac.uk/13/1/12.html][Norm and Internalisation in Human and Artificial Intelligence]]
 Neumann (2010)
 
-*** [[../web_pages/Obligation Norm Identification in Agent Societies.html][Obligation Norm Identification in Agent Societies]]
+*** [[http://jasss.soc.surrey.ac.uk/13/4/3.html][Obligation Norm Identification in Agent Societies]]
 Savarimuthu, Cranefield, Purvis and Purvis (2010)
 
-*** [[../web_pages/Pearson and Boudarel_ Pair Interactions.html][Pair Interactions: Real and Perceived Attitudes]]
+*** [[http://jasss.soc.surrey.ac.uk/4/4/4.html][Pair Interactions: Real and Perceived Attitudes]]
 Pearson and Boudarel (2001)
-*** [[../web_pages/Steven Patrick, Patricia M. Dorman and Robert L. Marsh _ Simulating Correctional Disturbances.html][Simulating Correctional Disturbances: The Application of Organization Control Theory to Correctional Organizations via Computer Simulation]]
+*** [[http://jasss.soc.surrey.ac.uk/2/1/1.html][Simulating Correctional Disturbances: The Application of Organization Control Theory to Correctional Organizations via Computer Simulation]]
 Patrick, Dorman and Marsh (1999)
 
-*** [[../web_pages/Gérard Weisbuch and Guillemette Duchateau-Nguyen_ Societies, cultures and fisheries.html][Societies, cultures and fisheries from a modeling perspective]]
+*** [[http://jasss.soc.surrey.ac.uk/1/2/2.html][Societies, cultures and fisheries from a modeling perspective]]
 Weisbuch and Duchateau-Nguyen (1998)
 
-*** [[../web_pages/Structuring Qualitative Data for Agent-Based Modelling.html][Structuring Qualitative Data for Agent-Based Modelling]]
+*** [[http://jasss.soc.surrey.ac.uk/18/1/2.html][Structuring Qualitative Data for Agent-Based Modelling]]
 Ghorbani, Dijkema and Schrauwen (2015)
 
-*** [[../web_pages/The Development of Social Simulation as Reflected in the First Ten Years of <i>JASSS<_i>.html][The Development of Social Simulation as Reflected in the First Ten Years of JASSS: A Citation and Co-Citation Analysis]]
+*** [[http://jasss.soc.surrey.ac.uk/12/4/12.html][The Development of Social Simulation as Reflected in the First Ten Years of JASSS: A Citation and Co-Citation Analysis]]
 Meyer, Lorscheid and Troitzsch (2009)
 
-*** [[../web_pages/The Effects of Network Structure on the Emergence of Norms in Adaptive Populations.html][The Effects of Network Structure on the Emergence of Norms in Adaptive Populations]]
+*** [[http://jasss.soc.surrey.ac.uk/18/4/14.html][The Effects of Network Structure on the Emergence of Norms in Adaptive Populations]]
 Froncek (2015)
 
-*** [[../web_pages/László Gulyás, Tamás Kozsik, John. B. Corliss_ The Multi-Agent Modelling Language and the Model Design Interface.html][The Multi-Agent Modelling Language and the Model Design Interface]]
+*** [[http://jasss.soc.surrey.ac.uk/2/3/8.html][The Multi-Agent Modelling Language and the Model Design Interface]]
 Gulyas, Kozsik and Corliss (1999)
 
-*** [[../web_pages/Rainer Hegselmann and Andreas Flache_ Understanding Complex Social Dynamics.html][Understanding Complex Social Dynamics: A Plea For Cellular Automata Based Modelling]]
+*** [[http://jasss.soc.surrey.ac.uk/1/3/1.html][Understanding Complex Social Dynamics: A Plea For Cellular Automata Based Modelling]]
 Hegselmann and Flache (1998)
 
-*** [[../web_pages/Using Qualitative Evidence to Inform the Specification of Agent-Based Models.html][Using Qualitative Evidence to Inform the Specification of Agent-Based Models]]
+*** [[http://jasss.soc.surrey.ac.uk/18/1/18.html][Using Qualitative Evidence to Inform the Specification of Agent-Based Models]]
 Edmonds (2015)
 
-*** [[../web_pages/Using Social Simulation to Explore the Dynamics at Stake in Participatory Research.html][Using Social Simulation to Explore the Dynamics at Stake in Participatory Research]]
+*** [[http://jasss.soc.surrey.ac.uk/14/4/12.html][Using Social Simulation to Explore the Dynamics at Stake in Participatory Research]]
 Barreteau and Le Page (2011)
+
+
 
 
 
