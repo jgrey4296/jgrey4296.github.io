@@ -1,0 +1,22 @@
+INFO:__main__:Setting up
+INFO:doctester.Document:Selected files: ['Background.org', 'Introduction.org']
+INFO:doctester.DocTestRunner:====================
+INFO:doctester.DocTestRunner:Running Tests:
+INFO:doctester.DocTestRunner:====================
+INFO:doctester.DocTestRunner:	 [92m✓[0m : test_background_structure
+INFO:doctester.DocTestRunner:	 [92m✓[0m : test_chapters
+INFO:doctester.DocTestRunner:	 [92m✓[0m : test_intro_structure
+WARNING:doctester.DocTestRunner:------------------------------
+WARNING:doctester.DocTestRunner:		 [91mX[0m : test_lengths 
+ 	 	 Not Enough words to fulfill page count: 8/(2 * 50)
+WARNING:doctester.DocTestRunner:------------------------------
+WARNING:doctester.DocTestRunner:------------------------------
+WARNING:doctester.DocTestRunner:		 [91mX[0m : test_mentions_and_citations 
+ 	 	 No mention found : missing Bicchieri
+WARNING:doctester.DocTestRunner:------------------------------
+INFO:doctester.DocTestRunner:====================
+INFO:doctester.DocTestRunner:Running Fail Tests:
+INFO:doctester.DocTestRunner:====================
+INFO:doctester.DocTestRunner:
+
+Finished. 3/5 Passed. 2/5 Failed.
