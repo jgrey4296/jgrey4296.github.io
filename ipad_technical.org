@@ -1,45 +1,46 @@
 * Ipad Documents: Technical Reference
 ** DIR: Technical reference
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/probability_cheatsheet.pdf][probability_cheatsheet.pdf]]                                             :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/verse-paper-emil.pdf][verse-paper-emil.pdf]]                                                   :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Javicarus.pdf][Javicarus.pdf]]                                                          :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/learnxinyminutes.pdf][learnxinyminutes.pdf]]                                                   :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/learnyouahaskellforgreatgood.pdf][learnyouahaskellforgreatgood.pdf]]                                       :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/ifhemmingwaywrotejavascript.pdf][ifhemmingwaywrotejavascript.pdf]]                                        :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/writegreatcode_vol1.pdf][writegreatcode_vol1.pdf]]                                                :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/thinklikeaprogrammer.pdf][thinklikeaprogrammer.pdf]]                                               :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Busy Coders Android.pdf][Busy Coders Android.pdf]]                                                :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/ChucK_manual.pdf][ChucK_manual.pdf]]                                                       :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Learning haskell.pdf][Learning haskell.pdf]]                                                   :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Oberon 2.pdf][Oberon 2.pdf]]                                                           :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/landoflisp_learntoprgraminlisp.pdf][landoflisp_learntoprgraminlisp.pdf]]                                     :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/learnyousomeerlangforgreatgood.pdf][learnyousomeerlangforgreatgood.pdf]]                                     :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/titov - TCPIP illustrated.pdf][titov - TCPIP illustrated.pdf]]                                          :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/progit.pdf][progit.pdf]]                                                             :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Drepper - What every programmer should know about memory.pdf][Drepper - What every programmer should know about memory.pdf]]           :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/theprinciplesofobjectorientedjavascript.pdf][theprinciplesofobjectorientedjavascript.pdf]]                            :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/artofrprogramming.pdf][artofrprogramming.pdf]]                                                  :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/erlang-book-part1.pdf][erlang-book-part1.pdf]]                                                  :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/joyofcoding_sampler.pdf][joyofcoding_sampler.pdf]]                                                :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/realmofracket_learntoprogram.pdf][realmofracket_learntoprogram.pdf]]                                       :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Cottle - Computer music with Supercollider 3.pdf][Cottle - Computer music with Supercollider 3.pdf]]                       :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/theSuperColliderHelpBook.pdf][theSuperColliderHelpBook.pdf]]                                           :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/svn-book.pdf][svn-book.pdf]]                                                           :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/edwards - antlrtut.pdf][edwards - antlrtut.pdf]]                                                 :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/writegreatcode_vol2.pdf][writegreatcode_vol2.pdf]]                                                :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/latex.pdf][latex.pdf]]                                                              :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Building Expert Systems in Prolog - Dennis Merritt.pdf][Building Expert Systems in Prolog - Dennis Merritt.pdf]]                 :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/clipsProgramming.pdf][clipsProgramming.pdf]]                                                   :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/jbd2e.pdf][jbd2e.pdf]]                                                              :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Latex guide.pdf][Latex guide.pdf]]                                                        :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/eloquentjavascript_2ndedition.pdf][eloquentjavascript_2ndedition.pdf]]                                      :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/X3TC For Dummies.pdf][X3TC For Dummies.pdf]]                                                   :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Computational Geometry algorithms and applications 2d ed - De berg.pdf][Computational Geometry algorithms and applications 2d ed - De berg.pdf]] :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/pythonplayground_geekyprojectsforthecuriousprogrammer.pdf][pythonplayground_geekyprojectsforthecuriousprogrammer.pdf]]              :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Project euler problems.pdf][Project euler problems.pdf]]                                             :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Javicarus Manual.pdf][Javicarus Manual.pdf]]                                                   :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/thebookoffsharp.pdf][thebookoffsharp.pdf]]                                                    :technical:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/clojureforthebraveandtrue.pdf][clojureforthebraveandtrue.pdf]]                                          :technical:
+*** General
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/probability_cheatsheet.pdf][probability_cheatsheet.pdf]]                                            :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/verse-paper-emil.pdf][verse-paper-emil.pdf]]                                                  :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Javicarus.pdf][Javicarus.pdf]]                                                         :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/learnxinyminutes.pdf][learnxinyminutes.pdf]]                                                  :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/learnyouahaskellforgreatgood.pdf][learnyouahaskellforgreatgood.pdf]]                                      :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/ifhemmingwaywrotejavascript.pdf][ifhemmingwaywrotejavascript.pdf]]                                       :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/writegreatcode_vol1.pdf][writegreatcode_vol1.pdf]]                                               :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/thinklikeaprogrammer.pdf][thinklikeaprogrammer.pdf]]                                              :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Busy Coders Android.pdf][Busy Coders Android.pdf]]                                               :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/ChucK_manual.pdf][ChucK_manual.pdf]]                                                      :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Learning haskell.pdf][Learning haskell.pdf]]                                                  :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Oberon 2.pdf][Oberon 2.pdf]]                                                          :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/landoflisp_learntoprgraminlisp.pdf][landoflisp_learntoprgraminlisp.pdf]]                                    :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/learnyousomeerlangforgreatgood.pdf][learnyousomeerlangforgreatgood.pdf]]                                    :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/titov - TCPIP illustrated.pdf][titov - TCPIP illustrated.pdf]]                                         :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/progit.pdf][progit.pdf]]                                                            :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Drepper - What every programmer should know about memory.pdf][Drepper - What every programmer should know about memory.pdf]]          :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/theprinciplesofobjectorientedjavascript.pdf][theprinciplesofobjectorientedjavascript.pdf]]                           :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/artofrprogramming.pdf][artofrprogramming.pdf]]                                                 :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/erlang-book-part1.pdf][erlang-book-part1.pdf]]                                                 :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/joyofcoding_sampler.pdf][joyofcoding_sampler.pdf]]                                               :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/realmofracket_learntoprogram.pdf][realmofracket_learntoprogram.pdf]]                                      :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Cottle - Computer music with Supercollider 3.pdf][Cottle - Computer music with Supercollider 3.pdf]]                      :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/theSuperColliderHelpBook.pdf][theSuperColliderHelpBook.pdf]]                                          :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/svn-book.pdf][svn-book.pdf]]                                                          :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/edwards - antlrtut.pdf][edwards - antlrtut.pdf]]                                                :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/writegreatcode_vol2.pdf][writegreatcode_vol2.pdf]]                                               :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/latex.pdf][latex.pdf]]                                                             :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Building Expert Systems in Prolog - Dennis Merritt.pdf][Building Expert Systems in Prolog - Dennis Merritt.pdf]]                :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/clipsProgramming.pdf][clipsProgramming.pdf]]                                                  :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/jbd2e.pdf][jbd2e.pdf]]                                                             :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Latex guide.pdf][Latex guide.pdf]]                                                       :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/eloquentjavascript_2ndedition.pdf][eloquentjavascript_2ndedition.pdf]]                                     :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/X3TC For Dummies.pdf][X3TC For Dummies.pdf]]                                                  :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Computational Geometry algorithms and applications 2d ed - De berg.pdf][Computational Geometry algorithms and applications 2d ed - De berg.pdf]] :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/pythonplayground_geekyprojectsforthecuriousprogrammer.pdf][pythonplayground_geekyprojectsforthecuriousprogrammer.pdf]]             :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Project euler problems.pdf][Project euler problems.pdf]]                                            :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Javicarus Manual.pdf][Javicarus Manual.pdf]]                                                  :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/thebookoffsharp.pdf][thebookoffsharp.pdf]]                                                   :technical:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/clojureforthebraveandtrue.pdf][clojureforthebraveandtrue.pdf]]                                         :technical:
 *** DIR: Supercollider
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Supercollider/A_Practical_Guide_to_Patterns.pdf][A_Practical_Guide_to_Patterns.pdf]]                                     :technical:
 *** DIR: C++

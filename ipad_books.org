@@ -1,50 +1,51 @@
 * Ipad Documents: Books
 ** DIR: Books
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Biochemistry.pdf][Biochemistry.pdf]]                                                       :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Valve_Handbook_LowRes.pdf][Valve_Handbook_LowRes.pdf]]                                              :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/CollectiveIntelligence.pdf][CollectiveIntelligence.pdf]]                                             :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/acousticsandarch031464mbp.pdf][acousticsandarch031464mbp.pdf]]                                          :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/JASON_Programming.pdf][JASON_Programming.pdf]]                                                  :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/MajorEvents_full.pdf][MajorEvents_full.pdf]]                                                   :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/RAND and the Information Revolution.pdf][RAND and the Information Revolution.pdf]]                                :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/college-physics-9.30.pdf][college-physics-9.30.pdf]]                                               :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Grune - Parsing.pdf][Grune - Parsing.pdf]]                                                    :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Mass Effect 1 script.odt][Mass Effect 1 script.odt]]                                               :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Computer Organization and design.pdf][Computer Organization and design.pdf]]                                   :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/thelinuxcommandline.pdf][thelinuxcommandline.pdf]]                                                :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/LaurenIpsum1421975366.pdf][LaurenIpsum1421975366.pdf]]                                              :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Erickson - Models of Computation.pdf][Erickson - Models of Computation.pdf]]                                   :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/historyofarchite00kimbuoft.pdf][historyofarchite00kimbuoft.pdf]]                                         :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/James - The varieties of religious experience.pdf][James - The varieties of religious experience.pdf]]                      :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Relative truth and its applications.pdf][Relative truth and its applications.pdf]]                                :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/theartoflegodesign.pdf][theartoflegodesign.pdf]]                                                 :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/rahwan - argumentation in artificial intelligence.pdf][rahwan - argumentation in artificial intelligence.pdf]]                  :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/supervert - necrophilia variations.pdf][supervert - necrophilia variations.pdf]]                                 :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/MangaGuidetoElectricity1421975366.pdf][MangaGuidetoElectricity1421975366.pdf]]                                  :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/MLBOOK.pdf][MLBOOK.pdf]]                                                             :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/MangaGuidetoPhysics1421975366.pdf][MangaGuidetoPhysics1421975366.pdf]]                                      :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game-Research-Methods_Lankoski-Bjork-etal-web.pdf][Game-Research-Methods_Lankoski-Bjork-etal-web.pdf]]                      :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Beautiful_Testing_ch10.pdf][Beautiful_Testing_ch10.pdf]]                                             :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/forsyth - group dynamics.pdf][forsyth - group dynamics.pdf]]                                           :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Computer science from the ground up.pdf][Computer science from the ground up.pdf]]                                :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Lapp.pdf][Lapp.pdf]]                                                               :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/incredibleplatetectonicscomic.pdf][incredibleplatetectonicscomic.pdf]]                                      :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/generalscience00clarrich.pdf][generalscience00clarrich.pdf]]                                           :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/How-to-Teach-Adults-by-Dan-Spalding.pdf][How-to-Teach-Adults-by-Dan-Spalding.pdf]]                                :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/automatetheboringstuff.pdf][automatetheboringstuff.pdf]]                                             :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/benkler - CollectiveIntelligence.pdf][benkler - CollectiveIntelligence.pdf]]                                   :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The Art of Seduction.pdf][The Art of Seduction.pdf]]                                               :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Open Logic Textbook.pdf][Open Logic Textbook.pdf]]                                                :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/JavaScriptforKids1421975366.pdf][JavaScriptforKids1421975366.pdf]]                                        :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/MangaGuidetoCalculus1421975366.pdf][MangaGuidetoCalculus1421975366.pdf]]                                     :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The practical book of architecture.pdf][The practical book of architecture.pdf]]                                 :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Computer Music.pdf][Computer Music.pdf]]                                                     :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/TIS-100 Reference Manual.pdf][TIS-100 Reference Manual.pdf]]                                           :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/themangaguidetodatabases.pdf][themangaguidetodatabases.pdf]]                                           :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Mathematics for computer science.pdf][Mathematics for computer science.pdf]]                                   :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Ref_scientific_evidence.pdf][Ref_scientific_evidence.pdf]]                                            :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Human Intelligence.pdf][Human Intelligence.pdf]]                                                 :book:
-*** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/meyn - Control Techniques For Complex Networks.pdf][meyn - Control Techniques For Complex Networks.pdf]]                     :book:
+*** General
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Biochemistry.pdf][Biochemistry.pdf]]                                                      :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Valve_Handbook_LowRes.pdf][Valve_Handbook_LowRes.pdf]]                                             :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/CollectiveIntelligence.pdf][CollectiveIntelligence.pdf]]                                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/acousticsandarch031464mbp.pdf][acousticsandarch031464mbp.pdf]]                                         :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/JASON_Programming.pdf][JASON_Programming.pdf]]                                                 :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/MajorEvents_full.pdf][MajorEvents_full.pdf]]                                                  :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/RAND and the Information Revolution.pdf][RAND and the Information Revolution.pdf]]                               :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/college-physics-9.30.pdf][college-physics-9.30.pdf]]                                              :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Grune - Parsing.pdf][Grune - Parsing.pdf]]                                                   :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Mass Effect 1 script.odt][Mass Effect 1 script.odt]]                                              :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Computer Organization and design.pdf][Computer Organization and design.pdf]]                                  :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/thelinuxcommandline.pdf][thelinuxcommandline.pdf]]                                               :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/LaurenIpsum1421975366.pdf][LaurenIpsum1421975366.pdf]]                                             :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Erickson - Models of Computation.pdf][Erickson - Models of Computation.pdf]]                                  :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/historyofarchite00kimbuoft.pdf][historyofarchite00kimbuoft.pdf]]                                        :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/James - The varieties of religious experience.pdf][James - The varieties of religious experience.pdf]]                     :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Relative truth and its applications.pdf][Relative truth and its applications.pdf]]                               :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/theartoflegodesign.pdf][theartoflegodesign.pdf]]                                                :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/rahwan - argumentation in artificial intelligence.pdf][rahwan - argumentation in artificial intelligence.pdf]]                 :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/supervert - necrophilia variations.pdf][supervert - necrophilia variations.pdf]]                                :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/MangaGuidetoElectricity1421975366.pdf][MangaGuidetoElectricity1421975366.pdf]]                                 :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/MLBOOK.pdf][MLBOOK.pdf]]                                                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/MangaGuidetoPhysics1421975366.pdf][MangaGuidetoPhysics1421975366.pdf]]                                     :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game-Research-Methods_Lankoski-Bjork-etal-web.pdf][Game-Research-Methods_Lankoski-Bjork-etal-web.pdf]]                     :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Beautiful_Testing_ch10.pdf][Beautiful_Testing_ch10.pdf]]                                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/forsyth - group dynamics.pdf][forsyth - group dynamics.pdf]]                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Computer science from the ground up.pdf][Computer science from the ground up.pdf]]                               :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Lapp.pdf][Lapp.pdf]]                                                              :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/incredibleplatetectonicscomic.pdf][incredibleplatetectonicscomic.pdf]]                                     :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/generalscience00clarrich.pdf][generalscience00clarrich.pdf]]                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/How-to-Teach-Adults-by-Dan-Spalding.pdf][How-to-Teach-Adults-by-Dan-Spalding.pdf]]                               :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/automatetheboringstuff.pdf][automatetheboringstuff.pdf]]                                            :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/benkler - CollectiveIntelligence.pdf][benkler - CollectiveIntelligence.pdf]]                                  :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The Art of Seduction.pdf][The Art of Seduction.pdf]]                                              :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Open Logic Textbook.pdf][Open Logic Textbook.pdf]]                                               :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/JavaScriptforKids1421975366.pdf][JavaScriptforKids1421975366.pdf]]                                       :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/MangaGuidetoCalculus1421975366.pdf][MangaGuidetoCalculus1421975366.pdf]]                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/The practical book of architecture.pdf][The practical book of architecture.pdf]]                                :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Computer Music.pdf][Computer Music.pdf]]                                                    :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/TIS-100 Reference Manual.pdf][TIS-100 Reference Manual.pdf]]                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/themangaguidetodatabases.pdf][themangaguidetodatabases.pdf]]                                          :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Mathematics for computer science.pdf][Mathematics for computer science.pdf]]                                  :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Ref_scientific_evidence.pdf][Ref_scientific_evidence.pdf]]                                           :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Human Intelligence.pdf][Human Intelligence.pdf]]                                                :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/meyn - Control Techniques For Complex Networks.pdf][meyn - Control Techniques For Complex Networks.pdf]]                    :book:
 *** DIR: Economics
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Economics/Reinert - Globalization, Economic Development and Inequality.pdf][Reinert - Globalization, Economic Development and Inequality.pdf]]      :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Economics/GaryM.WaltonHughRockoffHistoryoftheAmerBookFi.org.pdf][GaryM.WaltonHughRockoffHistoryoftheAmerBookFi.org.pdf]]                 :book:
@@ -328,7 +329,7 @@
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Kill Screen Issue 2.pdf][Kill Screen Issue 2.pdf]]                                               :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/The.art.of.computer.game.design.pdf][The.art.of.computer.game.design.pdf]]                                   :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Raph Koster A Theory Of Fun For Game Design.pdf][Raph Koster A Theory Of Fun For Game Design.pdf]]                       :book:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/[Jeff_Howard]_Quests_Design,_Theory,_and_History_(BookFi.org).pdf][[Jeff_Howard]_Quests_Design,_Theory,_and_History_(BookFi.org).pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Howard - Quests.pdf][Howard - Quests.pdf]] :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Andrew Rollings and Ernest Adams on Game Design (New Riders 2003).chm][Andrew Rollings and Ernest Adams on Game Design (New Riders 2003).chm]] :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Story and Simulations for Serious Games.pdf][Story and Simulations for Serious Games.pdf]]                           :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Kill Screen Issue 6.pdf][Kill Screen Issue 6.pdf]]                                               :book:
@@ -344,30 +345,30 @@
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Rules Of Play, Game Design Fundamentals, Katie Salen.chm][Rules Of Play, Game Design Fundamentals, Katie Salen.chm]]              :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Castronova, Edward -Virtual Worlds- A First-Hand Account Of Market And Society On The Cyberian Fr.pdf][Castronova, Edward -Virtual Worlds- A First-Hand Account Of Market And Society On The Cyberian Fr.pdf]] :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Games_of_Empire.pdf][Games_of_Empire.pdf]]                                                   :book:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/[Digital Game-based Learning] Michael_Burmester,_Daniela_Gerhard,_Frank_Thissen(BookFi.org).pdf][[Digital Game-based Learning] Michael_Burmester,_Daniela_Gerhard,_Frank_Thissen(BookFi.org).pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Digital Game-based Learning Michael_Burmester_Daniela_Gerhard_Frank_Thissen.pdf][Digital Game-based Learning Michael_Burmester,_Daniela_Gerhard,_Frank_Thissen(BookFi.org).pdf]] :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/The Making of Prince of Persia - Jordan Mechner.pdf][The Making of Prince of Persia - Jordan Mechner.pdf]]                   :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Postmortems form Gamedeveloper.pdf][Postmortems form Gamedeveloper.pdf]]                                    :book:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/[Tom_Bissell]_Extra_Lives_Why_Video_Games_Matter(BookFi.org).pdf][[Tom_Bissell]_Extra_Lives_Why_Video_Games_Matter(BookFi.org).pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Tom_Bissell_Extra_Lives_Why_Video_Games_Matter.pdf][Tom_Bissell_Extra_Lives_Why_Video_Games_Matter(BookFi.org).pdf]] :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Confessions of the Game Doctor - Bill Kunkel.pdf][Confessions of the Game Doctor - Bill Kunkel.pdf]]                      :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Sudnow_Pilgrim in the Microworld.pdf][Sudnow_Pilgrim in the Microworld.pdf]]                                  :book:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/[James_Paul_Gee]_What_Video_Games_Have_to_Teach_Us(BookFi.org).pdf][[James_Paul_Gee]_What_Video_Games_Have_to_Teach_Us(BookFi.org).pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/James_Paul_Gee_What_Video_Games_Have_to_Teach_Us.pdf][James_Paul_Gee_What_Video_Games_Have_to_Teach_Us(BookFi.org).pdf]] :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Gamification by Design - Zichermann, Cunningham - O'Reilly (2011).pdf][Gamification by Design - Zichermann, Cunningham - O'Reilly (2011).pdf]] :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Generation Xbox - How Videogames Invaded Hollywood - Jamie Russell.pdf][Generation Xbox - How Videogames Invaded Hollywood - Jamie Russell.pdf]] :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Aarseth_Espen_J_Cybertext_Perspectives_on_Ergodic_Literature.pdf][Aarseth_Espen_J_Cybertext_Perspectives_on_Ergodic_Literature.pdf]]      :book:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/[Janis_Cannon-bowers]_Serious_Game_Design_and_Deve(BookFi.org).pdf][[Janis_Cannon-bowers]_Serious_Game_Design_and_Deve(BookFi.org).pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Janis_Cannon-bowers_Serious_Game_Design_and_Deve.pdf][Janis_Cannon-bowers_Serious_Game_Design_and_Deve(BookFi.org).pdf]] :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/dormans - Engineering Emergence.pdf][dormans - Engineering Emergence.pdf]]                                   :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/David Kushner - Masters Of Doom.pdf][David Kushner - Masters Of Doom.pdf]]                                   :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Norman, Donald - The Design Of Everyday Things.pdf][Norman, Donald - The Design Of Everyday Things.pdf]]                    :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Story Circle Digital Storytelling Around the World~tqw~_darksiderg.pdf][Story Circle Digital Storytelling Around the World~tqw~_darksiderg.pdf]] :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/A Casual Revoultion, Jesper Juul.pdf][A Casual Revoultion, Jesper Juul.pdf]]                                  :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Digital Game and Intelligent Toy Enhanced Learning DIGITEL 2008.pdf][Digital Game and Intelligent Toy Enhanced Learning DIGITEL 2008.pdf]]   :book:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/[Karen_Schrier]_Ethics_and_Game_Design_Teaching_V(BookFi.org).pdf][[Karen_Schrier]_Ethics_and_Game_Design_Teaching_V(BookFi.org).pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Karen_Schrier_Ethics_and_Game_Design_Teaching_V.pdf][Karen_Schrier_Ethics_and_Game_Design_Teaching_V(BookFi.org).pdf]]       :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Designing Virtual Worlds, Richard Bartle.chm][Designing Virtual Worlds, Richard Bartle.chm]]                          :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/adams, dormans - game mechanics.pdf][adams, dormans - game mechanics.pdf]]                                   :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Space Time Play.pdf][Space Time Play.pdf]]                                                   :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Emergence in Games.pdf][Emergence in Games.pdf]]                                                :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Phoenix - The Fall and Rise of Videogames - Leonard Herman.pdf][Phoenix - The Fall and Rise of Videogames - Leonard Herman.pdf]]        :book:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/[Chris_Crawford]_The_Art_Of_Computer_Game_Design_(BookFi.org).pdf][[Chris_Crawford]_The_Art_Of_Computer_Game_Design_(BookFi.org).pdf]] :book:
+**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Chris_Crawford_The_Art_Of_Computer_Game_Design.pdf][Chris_Crawford_The_Art_Of_Computer_Game_Design_(BookFi.org).pdf]]       :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/Vintage Games - An Insider Look at the History of the Most Influential Games of All Time (Focal, 2009).pdf][Vintage Games - An Insider Look at the History of the Most Influential Games of All Time (Focal, 2009).pdf]] :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/The Game Producer's Handbook-Outlined.pdf][The Game Producer's Handbook-Outlined.pdf]]                             :book:
 **** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Books/Game Studies/woth-ds-ch1.pdf][woth-ds-ch1.pdf]]                                                       :book:
