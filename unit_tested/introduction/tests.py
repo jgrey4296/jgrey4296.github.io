@@ -40,6 +40,11 @@ class DocTests(DocTestRunner):
         intro.section('Motivation').should.precede('Research Questions')
         all([x.should.precede('Conclusion') for x in intro.sections() if not x.titleIs('conclusion')])
 
+    def test_research_questions(self):
+        researchQs = self.d.chapter('Introduction').section('Research Questions')
+        researchQs.should.have.tag('instStructure')
+        researchQs.should.have.tag('instChange')
+        
     def test_mentions_and_citations(self):
         intro = self.d.chapter('Introduction')
         #People:
