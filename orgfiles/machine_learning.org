@@ -69,7 +69,7 @@
 *** Principal Component Analysis                                                :unsupervised:
 *** Independent Component Analysis
 ** Libraries
-*** SK-Learn
+*** SK-Learn                                                                    :sklearn:
     Mainly implements *estimators* that can do:
     1) Classification - assign to finite labels
     2) Regression - predict continuous target variable
@@ -78,6 +78,7 @@
 
     Estimators have *.fit( array_2d )* and *.score()*
     Score values: bigger is better
+    *.predict to use the classifier
 **** Datasets
      Sklearn datasets, loaded with 'from sklearn import datsets'
      Located in .data member of the dataset loaded, with n_samples and n_features.
