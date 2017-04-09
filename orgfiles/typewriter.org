@@ -1,0 +1,997 @@
+* Typewritten Notes
+** Hierarchical scaling from norms to institutions
+   re: Blockchain demo
+
+   Many concepts will be explained through a sequence of increasingly
+   complex systems. In the blockchain demo this progresses from a
+   hash, to a block, to a blockchain etc.
+
+   What is the equivalent pathway for institutions and systems of
+   institutions?
+   
+   Rules of action -> Activities -> norms -> microtheories -> group
+   norms -> social practices -> organisations -> institutions ->
+   clusters -> culture 
+
+   
+   Simple Activity theory Pyramid, expands to the full
+   activity theory pyramid to account for norms. These lead to
+   microtheories then group norms. Group norms lead to social
+   practices, social practices combine to form
+   organisations. Institutions are flexible structures above
+   organisations. Institutions form clusters, and separate clusters of
+   institutions form culture.
+
+   *Agglomerative Authoring*
+** Thoughts on Stack based approaches to conversation
+   
+   If conversation is treated as a stack, rather than a tree, it would
+   simplify the tracking of topics.
+   Would the conversation be simpler actually?
+   What would the main operations be? Add, pop, replace?
+   Would current options be limted to the top of the stack?
+   Or would the converser have full access to the stack?
+   Presumably some actions would clear the stack.
+   Would it be a single stack? or would there be multiple ones for
+   categories of conversation, or would each participant get a
+   separate stack?
+
+   Would conversational strategies that used statements fullfilling
+   multiple stack entries be preferred or workable?
+   or would elements on the stack be essentially atomic/ separate?
+
+   Related to this is the topic of speech act modelling, DAMSL, and
+   the way of pairing speech acts with surface representations?
+
+   Rather than have performance as a component of a speech set, have
+   them as separate data structures, with conditions on use such as
+   template parameters which must be fulfilled.
+   Then speech acts may be registered with particular performances and
+   *multiple* performances, which could be selected after filtering by
+   the fulfilled conditions at run time of the conversation.
+
+   A Process for Authoring:
+   1) Create performance level strings
+   2) Annotate with variables
+   3) Anotate with conditions
+   4) Annotate with state changes
+   5) Connect with graph of conversation topics
+      1) connect as fsms?
+   6) Run simulation to verify connectedness
+ 
+** Isomorphism in Institutions
+   Hofstadter goes into detail about isomorphisms and formal systems.
+   Although institutions are not formal systems, they do resemble them
+   to a certain degree. They do have a similar level of isomorphism
+   between components of the institutional system, and actions. 
+   Particularly language to enable intelligible descriptions and
+   communication.
+
+   To this end, it would be useful to formalise the types of
+   isomorphisms present in institutional systems, and describe a
+   typology for the concepts representable within an institution.
+
+   As a preliminary grouping, the following should be considered:
+   1) Physical Objects
+   2) Physical Actions
+   3) Communicative descriptions of 1 and 2
+   4) Physical interface concepts
+   5) pure symbolic concepts
+   6) time
+   7) institutionally structuring concepts
+   8) institutionally exported concepts
+   9) Institutionally imported concepts
+
+   Alt:
+   Basic States and Fluents
+   f(basic)
+   Complex States and Fluents
+   Symbolic
+   ins_internal
+   ins_public
+   ins_consuming
+
+   But what about norms, and structure in the symbolic state?
+
+
+   With the understanding that further distinctions may become apparent
+   at a later date.
+
+   
+   In a type system:
+   States :: (Elstring, [Interface])
+   Fluent :: ([Elstring] -> [Elstring], [Interface])
+   Communication :: (Elstring -> String, [Interface])
+   Interface :: ( Elstring -> Bool, [Interface])
+   Symbolic :: ( Elstring, [Interface])
+   Symbolic_Action :: (Symbolic -> Fluence -> Symbolic, [Interface])
+   Time :: Elstring -> Elstring
+   Institution :: { 
+   	Internal_state :: [Symbolic],
+    Available_actions :: [Symbolic_action],
+    Exported_concepts :: ([Symbolic], [Symbolic_action])
+    Consuming :: ([Symbolic], [Symbolic_action])
+   }
+
+** The Phenomenology of Institutions
+   Institutions are generally thought of in large scale terms. They
+   are societal behemoths, hard to change, organising large groups of
+   people and behaviours. They are rarely characterised by their
+   phenomenology.
+   The experience of waiting in line at the dmv, joining the military
+   or police, or working in an office. These situations are, in many
+   ways, a more accurate portrayal of the institutions they are part
+   of, and can more accurately represent differences in corruption,
+   bureaucracy, and institutional variation. Yet such conceptions of
+   institutions are unformalised and often neglected in current
+   research.
+
+   The question arises then of *How should we describe institutional
+   phenomenologies?* Considering the nature of the problem, do the
+   normal considerations of phenomenology (such as temporality,
+   intentionality, facticity, dasein and authenticity) suffice, or do
+   we need to account for the expanded social considerations at play?
+
+   
+
+
+
+** Procedural Institutions
+
+*** Introduction
+    What are institutions? Why should they be procedurally generated?
+    Why haven't they been? Have institutions been modelled, or even
+    described?
+
+*** Background
+    Weber onwards, sociologists into subsets of economists. Economists
+    lead to computational social scienteists and
+    multi-agent-systems. Always cellular autonoma
+    representations. Contrast with character focused game
+    representations and expressive media.
+
+*** Theory
+    Where Social Science and systems design meet expressive media.
+    Structured rule systems intended to interact. Explicit input and
+    output interfaces. T-boxes and Monadic Composition. Deontics.
+    Subdivision into activities/ separated from activities?
+
+    
+*** Computational Artifacts
+    Conversational maps, institutional progression paths, SoM-like
+    character customisation, Monadic rule system composition.
+
+*** Analysis
+    Source analysis of games (existing) to identify similarities and
+    evidence based meta categorisation.
+
+*** Future work
+    There are limitations on how far a procedural institution can go
+    at the moment. Future work should aim towards greater flexibility,
+    larger variations of rules, and increased isomorphism between
+    rules and language.
+
+*** Conclusion
+
+** On the representation of conversation in games
+   And the need for conversation mazes
+   
+   Conversations are, for a wide variety of social interactions,
+   crucial. Representations of conversations however are severely
+   lacking. Whether in the interactive fiction of Versu, or the
+   Character focused RPGs of Mass Effect, to the classic styles of rpg
+   like Baldurs Gate, conversation is typically represented and
+   controlled, the same: Through conversation trees and selection of
+   segments of speech that the conversational partner responds to.
+
+   (Different needs of authoring vs playing. When Authoring you can
+   move freely, when playing you need more info for moves, as you
+   can't rewind.)
+
+   These representations suffer from a number of weaknesses:
+   1) Conversations are typically only two party affairs. (limited size)
+   2) The player only knows the history of the conversation, and their
+      available next moves. (limited control)
+   3) The conversation is modelled as a graph, without being
+      visualised as such, only as a tree. (impoverished representation)
+   4) Conversations are sequences of pre-authored, but parameterised
+      conversationa segments. (limited flexibility)
+
+   To elaborate on point 2, I mean a player has no knowledge of *how
+   the conversation might proceed*, as they only know their next
+   immediate moves. Meanwhile for point 3, I mean that although a
+   conversation will be represented as a set of nodes and edges which
+   connect them, the player is only presented with the prior context
+   and the nodes available, with minimal representation of how those
+   nodes can contribute to the overall conversation.
+
+   Two illustrating situations are: when a player wants to *leave* a
+   conversation, and when the player is trying to make a *decision
+   between different options*.
+
+   1) If a player wants to end a conversation, but must navigate to a
+      specific "Goodbye" speech act, this can result in frustration as
+      they navigate the conversation graph a node at a time.
+
+   2) If a player is presented with summaries of options such as "Be
+      friendly" and "Be hostile", they may regret their choice when
+      the resulting hostile speech act is stronger than they intended,
+      or makes use of a piece of context the player did not
+      intend. Eg: A hostile act in an otherwise friendly conversation
+      that mocks the other participants dead parent.
+
+   The above issues are weakenesses arising from the flawed
+   representation of the conversation. How else might
+   conversations, or the highly contextual and planned social
+   interactions we participate in daily, be represented?
+   (both in structure, interaction, procedure, and representation)
+
+   One possibility is to present to the player a maze, or map, rather
+   than a tree. In the same way that the map in the binding of isaac
+   will present the item room, boss room, shop and other important
+   rooms to the player, a maze of conversation can provide greater
+   information and planning opportunities. It does not need to be a
+   complete information map, and it could be dynamically updated. Yet
+   if the end of the conversation and other important speech acts were
+   displayed to the player, conversations would be alot more
+   manageable.
+
+   Example: adapt a conversation from fiction rather than write one?
+
+   There are two main areas to solve regarding conversation mazes. The
+   first is authoring/generating the maze to being with. The second is
+   the representation, and how dynamic it should be and how much 'fog
+   of war' there should be.
+
+   Let us explore the concept with a minimally authored conversation.
+
+
+
+** Towards the simulation and manipulation of Institutions
+   Institutions - Their definition and applications to social
+   simulation and videogames.
+
+   The problem: Institutions are all around us, yet invisible, all
+   powerful, but uncontrollable by individuals.
+
+   To rectify this, institutions needto be described and modelled in
+   games in such a way as to foreground the structures of our lives so
+   often left implicit. The problem of foregrounding structures larger
+   than individuals.
+
+   Research Questions:
+   1) How can Institutions be modelled and described?
+   2) What would procedrually generated Institutions look like?
+   3) Why would players/observers benefit from such simulations?
+   4) How would players interact with the institutions?
+   5) How would players enact changes on said institutions?
+
+   Constraints of work:
+   This work does not intend to accurately model the real world, to
+   the point of making testable predictions, as this will be the first
+   few steps in a much larger project, given the size and complexity
+   of human institutions.
+   
+   By synthesising together the research from fields typically ignored
+   by the videogame and expressive intelligence communities, I intend
+   to provide a framework for the procedural generation of
+   institutions. In particular, areas such as the New Institutionalism
+   of Sociology; anthropology; and Multi-Agent-Systems research will
+   be used for structure and examples. These can be integrated with the
+   latest artificial intelligence applicable to games, namely rule
+   systems, modal logics, grammars, and utility systems, to offer a
+   system capable of filling the gaps in current research.
+
+   Primarily, such a system needs to fulfill the following criteria:
+   1) Rapid authoring of content (namely rules) to the scale of
+      thousands of rules. (+Gui)
+   2) Grammatical recombination of authored content into reasonably
+      novel combinations of rule systems. (The coherence of which
+      shall be discussed later).
+   3) Structuring (through a type system?) of the rules to distinguish
+      between content with strict and weak isomorphisms.
+   4) Player/Agent triggered modifications to the rule sets that take
+      advantage of those weak isomorphisms. (Politics?)
+
+   Constraints: Socially inspired by not intending to accurately model
+   yet.
+
+   Examples - categorised - scales -ind/interpersonal - ind->group,
+   societal. 
+
+   Existence proof of manipulable situations at each scale?
+
+
+   *Requirements of modelling software*: System: functions, text-output,
+   graphic manip, interfaces with tool/authoring shell, single-
+   represent institution in data + procedure?
+   State-transition-loop. Functional?
+
+   Domain requirements? similarity to examples.
+
+   user: turn-based non-realtime, natural language, graphical and
+   behavioural portrayals of institutions, interactive/manipulable
+   institutions.
+
+   Verifiable system goals?
+
+** On the scaling of institutional phenomenology
+   As institutions broach all areas of modern human life, it will be
+   useful to clarify the different scales upon which institutions can
+   impact upon the individual.
+   1) *The Direct* Here an individual feels the power of an
+      institution in an *immediately perceivable* way, both in time
+      and space. The police, as the direct application of force by the
+      state, is a suitable example. Enforcement and enactment without
+      modification. Sanctions.
+   2) *The Indirect* Where an individual does not have an institution,
+      or its enforcement, applied at a definitive time or by
+      designated agents, but rather follows the *rules encoded* in the
+      already established context they currently exist within. Eg:
+      House zoning,or the rules of interaction (ie: the
+      courts). Anti-homeless designs. The rules of the *IGU*.
+   3) *The Normative* here the individual is constrained and
+      influenced by the value systems and judgements of others who,
+      while external to the system proper, have internalised its rules
+      and structure.
+   4) *Gatekeepers and Incumbents* Where there are individuals located
+      in the structure of an institution who can, for a variety of
+      reasons, modify (temporarily or permanently), the institution to
+      help or hinder. The IGU proper.
+   5) *The unmodifiable physical* Although a large amount of an
+      institution is symbolic, there are physical principles that,
+      presumably, must remain inviolable. Items must burn when set on
+      fire, as a necessary condition for a fire department.
+
+  What doesn't fit this typology?
+  
+  Scales: 
+  Gatekeepers ( symbolic), 
+  Unmodifiable (non-symbolic)
+  Direct (Symbolic)
+  Normative (symbolic)
+  Indirect (symbolic)
+
+  Towards institutional structure:
+  Chained isomorphisms? (or are they something else?)
+  Can institutions be stacked arbitrarily high? Looped?
+  How do chained isomorphisms interact? across institutions?
+ 
+  Describe two separate institution-layers, from the same base
+  system. Not just physical by L2-4 as well?
+
+  Monad-transformers of institutions?
+  Stacking:
+  Physical,
+  indirect/environmental
+  direct/enforcing
+  gatekeepers
+  normative/internalised
+  
+
+
+
+
+** The difficulties of authoring and visualistion (of trees)
+
+   It is apparent that authoring behaviours and content comes with a
+   number of challenges (mentioned by mccoy, evans, mateas [oz review,
+   ai authoring tools], szilas, shen, ryan [modular content,
+   composition representation, story recognition, story support]).
+   
+   *Structuring* (particularly for tree based representations) which
+    breaks down as the size of data increases, and
+    *combinatino/declaration of interactions* which also suffers as
+    more content is added.
+    *Visualising* what is typically represented as a tree has
+    limitations. The single node based representation used for
+    animation, and rule systems like cif shows promise.
+
+    This still leaves how to address interactions. Here I propose
+    using a tag based system, with all inputs and outputs to
+    nodes/rules being tagged. The aim is to have the system propose
+    and highligh conflicts. (ai supported authoring).
+
+    Louchart.
+    Riedl - authorial intent, character autonomy.
+    Evans - Speed of authoring, feedback, interface, coordination,
+    continuity, freewill, complexity of concurrent practices,
+    in-game-character creation.
+
+    Authoring:
+    Tracking (changes/updates),
+    Visualistion (trees/nodes), (Growth of complexity),
+    Debugging (combinations, bad combinations, testing, seeing effects
+    of new entries)
+    Structuring (recursive, patterns)
+    Planning (pre-authoring)
+    Creation (typically spreadsheets, recursive)
+
+    Solution:
+    Reduced effort of input and navigation (shell),
+    testing
+    tagging
+    single node visualisation
+
+
+
+** Todo:
+   Plan each chapter in detail
+   1) Argument, and contribution to the main arguments
+   2) Evidence
+   3) references
+   4) IAD (Ostrom/Macbeth analysis)
+      of Dota, don't starve?
+
+   Sociologically inspired computing (Jones, in MacBeth)
+
+   Observed Phenomena / Existing Media
+     |
+     |
+    \|/
+    Preformal Theory
+     |
+     |  Formal Characterisation
+    \|/
+    Calculus
+     |
+     |  Principled Operationalisation
+    \|/
+    Computer Model
+     |
+     |  Controlled Experimentation
+    \|/
+    Observed Performance / New Media
+
+    Macbeth p24: Data -> Information distinction
+    information = Data + Interpretation
+
+    Analysis of game societies / rules by Ostrom's 7 property
+    rights. P44 of Macbeth.
+
+** Todo 2
+   1) Determine *Fiction* and *Real world* examples and anylsis
+   2) Institutional Analyses of Games
+   3) Institutionally Focused Designs (generate)
+   4) Architectures to compute institutions (structure)
+   5) Tool Designs for authoring (assist)
+
+** Research Questions
+   1) How do they *change*?
+   2) What behaviours of institutions are important to model?
+   3) What are Institutions?
+   4) What is the design space of Institutions?
+   5) How are institutions structured?
+   6) How can they be authored?
+   7) What effects on the world do they have?
+   8) How can they be modeled computationally?
+   9) Do institutions provide a useful lens for thinking about,
+      analyzing, designing, and implementing social simulations and
+      games?
+
+   Structure, dyanmics, variety, artifacts -> Authoring games,
+   resurgence, world around us.?
+
+** Motivation
+   1) Current authoring limitations,
+   2) Quests, growth from procedural
+   3) growth of non-combat focused games
+   4) current events - BLM, Social Justice, Trump
+   5) Stagnation and resurgence in MAS
+
+** Contributions
+   1) Game - Artifacts, criticism, design
+   2) authoring - methodology, support tools
+   3) system architecture - expanded social capabilities
+
+** Writing structure:
+   1) Intro: 
+      Research questions, motivation, overview, chapter summaries, 
+      Methodology, contributions
+   2) Background:
+      Institutions, ABM, MAS, IF and expressive intelligence,
+      procedural content
+   3) Examples:
+      Fiction, Real World
+   4) Institutional Theory:
+      Phenomenology, computational focus
+   5) Interpretive and design application
+      Applied to existing games, / new games
+   6) System architecture
+   7) Tooling and authoring
+   8) Realised artifacts and examples
+   9) Evaluation
+   10) Conclusion
+   11) Future work
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+
+** Example dissertation structures
+*** Meehan:
+    1) Intro
+    2) Examples
+    3) Planning / Architecture
+    4) Theory
+    5) Theory
+    6) Theory
+    7) Theory
+    8) Failures
+    9) ?
+    10) Technical details
+    11) Details
+    12) Theory
+    13) Conclusion
+
+
+
+
+
+
+
+
+
+
+*** Smith
+    1) Intro
+    2) PCG Background
+    3) Design
+    4) System
+    5) System
+    6) Artifact
+    7) Eval
+    8) Conclusion
+
+
+
+
+
+
+
+
+*** Macbeth
+    1) Intro
+    2) Problem area
+    3) Background
+    4) System design
+    5) System architecture
+    6) Simulation
+    7) Conclusion
+
+
+
+
+*** Sullivan
+    1) Intro + Overview
+    2) Background
+    3) theory
+    4) System - Player Level
+    5) System - Game Level
+    6) Tools
+    7) Empath
+    8) Mismanor / artifact
+    9) Future work + Conclusion
+
+
+
+
+
+
+
+*** McCoy
+    1) Intro
+    2) Related Work
+    3) CiF / System
+    4) Prom Week /Artifact
+    5) Eval
+    6) Holodeck / Artifact
+    7) Theory /Method of Authoring
+    8) Conclusion
+
+
+
+
+
+
+
+*** Grossi
+    1) Intro
+    2) Terminology / Background
+    3) Theory Background
+    4) Formal theory background
+    5) Theory
+    6) Theory
+    7) Conclusion
+
+
+
+
+** Notes on Norms
+   Dagstuhl
+*** Gordon's Requirements for representing norms in law
+    1) Temporal Properties:
+       In force, can produce effects, when effects hold.
+    2) Norm Effects:
+       Evaluative, qualificatotry, definitional, deontic, 
+       potestative, evidentiary, existential,
+       meta.
+    3) Concepts:
+       Isomorphisms, rule semantics, defeasibility (conflicts, and
+       exclusionary norms), contributory factors, validity, legal
+       procedrures, persistence of normative effects, values.
+*** Open Questions:
+    1) Moral Agency
+    2) Group Norms
+    3) Fuzziness of norms
+    4) Argumentation:
+       1) arguing about norms
+          1) societal modeling and control / merits/ persuade of
+             utility
+          2) constitutive norms
+             1) ontology argument
+             2) avoiding central norm resource
+          3) regulative norms
+          4) normative constraints
+             1) deadlines
+             2) violation
+             3) fulfillment
+          5) normative conflict
+             1) preference models
+          6) practical reasoning
+          7) monitoring norms
+       2) norms about argumentation
+          1) dialogue
+             1) dialectical
+             2) procedrual
+          2) multi-norm dialogue
+          3) burden of proof
+*** Types of norms:
+    1) Termporal
+    2) contextual
+    3) determinative - define, constitutive
+    4) technical procedure
+    5) prescriptions - deontics
+    6) conventions - sanction-less
+    7) s-norms - emergent, for perception of normal
+    8) r-norms - created by authority
+
+*** Enforcement:
+    1) Disapproval
+    2) internalisation
+    3) voluntary coordination
+    4) sanctions
+       1) can't be applied to breaking constitutive norms?
+
+*** Variation of norms:
+    1) Determinative - group creation
+    2) Technical - social bureaucracy
+    3) Prescriptions - values
+
+   Structure -> identify
+   Identify -> change, apply
+   Change -> structure, conditions
+   Conditions -> apply
+   Apply -> change?
+
+   Permission, disability, obligation, claim, power (legal, physical),
+   immunity, duty, right, liability.
+*** Norms
+    1) Join Agreement
+    2) need to be connected to physical reality in some way.
+       Money, documents
+    3) environment based - habits
+    4) social reality based - norms, operating on groups, but are
+       greedy?
+    5) violations
+       Become impossible when you have enough physical control
+
+    6) Structure
+       1) Group norms
+          1) fulfilling group norms signifies belonging to group
+             morals, promotion of value similarities
+          2) institutional entrepreneurs can violate but belong?
+    7) Prohibition
+    8) Obligation
+    9) regimented norms - physical
+    10) core / penumbra
+    11) violations
+    12) incentives
+    13) deterrents
+    14) hierarchy of violence
+    15) norms -> consequences -> control -> others/ environment
+
+  Private attitudes are not observable.
+  Types of norm depend on the richness of social reality, concepts
+  that are available, and whether the individual has motivational
+  attitudes in relation to them.
+
+  Because norms cannot always be implemented physically, it is
+  remedied by constructing rigid interaction patterns where control
+  resides always outside the individual.
+
+*** NMAS Definitions
+    1) Social Definition
+       System governed by restrictions on pattersm of behaviour
+       1) transmitted
+       2) social function
+       3) social impact
+       4) contextual
+       5) prescriptive
+       6) followable
+    2) Norm Change
+       System in which agents decide to follow explicitly represented
+       norms, and also modify norms
+       Requires clarification of norm types
+       RQ: how and why norms can be changed?, 
+       RQ: if agents can violate norms
+    3) Mechanism Design
+       System organized by mechanisms to:
+       1) represent
+       2) communicate
+       3) distribute
+       4) detect
+       5) create
+       6) modify
+       7) enforce
+       8) deliberate
+       9) detect vioations
+       10) detect fulfilment
+*** Problems
+    1) Relation of power and permission
+    2) how to specify contexts
+    3) how to design a system that implements a set of norms
+    4) how to check for normative system compliance
+    5) how do norms contribute to design agents organizations
+    6) roles of norms in societies
+    7) relation of games and norms
+    8) how to ensure norms are followable
+    9) how to deal with normative awareness
+
+*** Guidelines
+    1) motivate definition of nmas:
+       1) (strong) declarative norms)
+       2) (weak) system spec norms
+       3) other
+    2) make explicit why norms are a soft constraint
+    3) explain how and why norms can be changed at runtime
+    4) discuss the use of norms in game theory settings
+    5) clarify role of norms as part of institution
+
+    If any illegal behaviour is just ruled out by the specification:
+    1) we are unable to spec what should happen if such illegal
+       behaviour occurs
+    2) we fail to adopt a meaningful concept of norm
+    3) agents cannot violate norms, so we do not model autonomy
+
+    One of the peculiar features of the law is that it necessarily
+    takes the form of a dynamic normative system.
+
+** Examples/Fiction
+
+*** Night Watch
+    Vetinari <-> Guilds / City Nobles
+    Vimes -> Vetinari, Angua, Carrot, Detritus, etc
+     
+    Vimes sets policy, 
+    Anguage and Carrot enforce it,
+    Detritus inducts trainees into appropriate behaviour
+    Information and feedback is passed up the chain as well
+    Vetinari provides funding and reprimands
+    Criminals form alternate institution of behaviours.
+     
+*** Democracy 3 / Africa
+    In a Network:
+    People / Groups,
+    Events
+    Policies
+    Statistics
+
+    modifiers -> groups -> voting/popularity
+    triggers/states -> events -> modifiers
+    policies -> modifiers / states
+    modifiers -> statistics -> modifiers
+    modifiers -> state -> modifiers
+     
+    Elements to check:
+    There are no islands, all connected. connected components,
+    islands, hubs.
+    Average, min, max connections, weights.
+    Numbers of events/policies/stats/state/groups
+    variability of modifiers per node / states
+    balance : any nodes purely positive /negative
+    cycles?
+
+*** Borderlands weapon gen
+    Gun grammar:
+    1) Gun
+       1) Manufacturer
+          1) stats mods
+          2) unique traits
+          3) colours
+       2) type
+          1) sniper
+          2) lmg
+          3) pistol
+          4) rocket launcher
+          5) shotgun
+          6) energy
+    2) Variations of type components:
+       1) scope
+       2) stock
+       3) barrel
+       4) grip
+       5) trigger
+
+    Gun Stats:
+    1) Price
+    2) level
+    3) manufacturer
+    4) reload speed
+    5) magazine type
+    6) magazine size
+    7) firing speed
+    8) damage
+    9) num shots
+    10) bullet speed
+    11) zoom
+    12) iron sights
+    13) ammo type
+    14) elemental type
+    15) firing type
+    16) accuracy
+    17) recoil
+    18) special
+
+   Isomorphisms between description and stats.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*** Accident grammar
+    1) Accident
+       1) physical
+          1) animal
+          2) illness
+          3) disease
+          4) environment
+          5) starvation
+          6) disfigurement
+          7) body failure
+          8) hostility
+          9) Death
+          10) poison
+       2) mental
+          1) insanity
+          2) phobia
+          3) distress
+          4) personal flaw
+          5) misfortune on other
+       3) social
+          1) crime
+          2) rumour
+          3) legal
+          4) social failure
+          5) religion
+          6) disfavour
+          7) disinformation
+       4) fate
+       5) unnatural
+*** XCom Sequence / FSM
+    Time passes / Troops Train  (time / stats) ->
+    Alien incursion  (location, force, grammar + selection) ->
+    Squad Select (utility) ->
+    Travel to incursion (behaviours, utility) ->
+    Battle (sequence of combat grammars) ->
+    Travel back (behaviours, utility) ->
+    Consequences (physical, social, mental, military) ->
+    rest ->
+    REPEAT 
+
+
+    Consequences:
+    1) Physical
+       1) Damage
+       2) Injruy
+       3) Death
+       4) Loot
+       5) Capture
+    2) Social
+       1) Animosity
+       2) life debts
+       3) friendship
+       4) respect
+       5) feuds
+    3) Mental
+       1) Fatigue
+       2) Verteran
+       3) PTSD
+       4) Psychosis
+
+   Stategraph - see don't starve
+   Transitions - conditional, conditionless, timed?
+*** Speech grammar 
+    Bob was:
+    1) attacked by a ferret
+    2) struck with a case of gout
+    3) tripped down the stairs
+    4) without a meal for three days
+    5) scarred by fire
+    6) in pain from a broken arm
+    7) kicked by a bully
+
+    Jill went:
+    1) insane
+    2) into hysterics from a spider
+    3) into distress from some tea leaves
+    4) uncontrollable.
+
+    Jills Husband died.
+
+    Jill:
+    1) Had her home broken into
+    2) was rumoured to eat children
+    3) had the attention of a corrupt policeman
+    4) made a fool of herself shopping
+    5) was condemned by her pastor
+    6) was disliked by the local matriarch
+    7) wrongly sent flowers to the 'widow' of a man who hadn't died,
+       only ran off with the milkmaid.
+
+
+    Text -> markup tags -> logic definitions
+** Organisation Structure Generation
+   Possible Types of graph structure:
+   1) Hierarchy
+      Either: Responsibilities are of those below (Military)
+      Or: There are enumerate (company) responsibility groups)
+   2) Democracy:
+      All Nodes connected equally as siblings
+   3) Representative Democracy
+      Individuals connected to state layer of legislators.
+   4) Social
+      More complex graph without a predefined structure, based on
+      opportunity.
+   5) Chain
+   6) Tribal
+   7) Gatekeeper
+
+** System concept
+   A system governed by restrictions on patterns of behaviour. 
+   Transmitted, social function, impact, contextual ,prescriptive,
+   followable. 
+
+
+
+
+    
+
+    
