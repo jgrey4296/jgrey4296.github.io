@@ -87,3 +87,51 @@
    Don't bother giving the value itself, just its relation to neighbours.
    Red-black keeps it balanced so you don't need too many pairings to determine a rank
    
+
+
+* An authoring methodology
+  BOD would have primitives described, then repeatedly refine each level.
+  Instead, have questions, work out from the middle to define inputs and outputs.
+  
+  Have a hypergraph of institutions of the form:
+  inputs -> Institutional Spec -> outputs
+
+  Described by repeatedly asking questions to refine the specification:
+
+  What is the name of the Institutions?
+  What are the core values of {name}?
+  What are some Categories / Roles in {name} ?
+  What is the role structure for {name} ?
+  What are the performable actions ?
+  What are the goals?
+  What are the jobs / permissions ?
+  What can be delegated?
+  What can be parallelised?
+  What can be split across sessions?
+  What are the habits?
+  What are the sanctions?
+  What is the weighting of values / roles/ categories / goals / jobs /sanctions ? ( use heuristic weighting )
+  What are the physical laws? (unmodifiable rules of physicality)
+  What are the communicative acts?
+  What are the regulative laws? 
+  What are the normative expectations? 
+  What are the monitoring / sanctioning / disrupting activities?
+  What are the artifacts?
+  What are the artifact specification rules?
+  What are the object standards?
+  What are the symbolic variations of artifacts?
+  What are the artifacts functional uses?
+  What is the IGU in {name}? Person / Role / Group / Institution  -> specify
+  Who are the incumbents of the institution?
+  Who are the challengers of the institution?
+  For each activity, what is its object, what are the tools usable in the activity?
+  What community of individuals are involved with the task, what is the division of labour?
+  And What are the additional rules beyond that?
+  What is the time/space specification of the activities / jobs/ roles ...?
+  
+
+  Carriers: Symbolic Systems, relational systems, activities, artifacts (for scott)
+  Pillars: Regulative, Normative, Cultural Cognitive
+  With Institutional Entrepreneurs
+
+  
