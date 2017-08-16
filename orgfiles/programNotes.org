@@ -1,0 +1,63 @@
+* Program notes
+** Unity
+*** 2d
+**** Social-Roguelike
+*** 3d
+**** Street-sim
+     looks useful, would need to be backed by a generator for the society.
+
+     Can make 3d models, location, and pathfind, and display GUI.
+     Animation, and sound are doable. Instantiation of objects as needed also doable.
+     
+***** Assets:
+      Building fronts, materials, colours. Smaller objects, people, animals.
+      Sounds of birds, work, people..
+     
+***** AI:
+      Could code up a behaviour tree, or utility system in C#.
+      Could interface it with the authoring system.
+      Or could communicate over network with python.
+****** Requirements:
+       Inputs:
+       identity, position, lookingAt, animationState, locations, other agents.
+       Items in the envrionment, build/modify status of environment. 
+       Sun position. Temperature possibly. sounds. 
+
+       Outputs:
+       Movement to waypoints. animation trigger, sound trigger, gui trigger,
+       lookAt, instantiate/destroy object. 
+
+       Internal Transforms:
+       state changes, utility evals, language gen, output-triggers
+       
+       Gui Outputs: 
+       text gen, descriptions, history... 
+     
+
+** Newspaper
+** iElPy
+** NetLogo
+** Behaviour Tree
+** Authoring Shell
+
+** SubPrograms
+*** Battle system
+*** Credit System
+*** Genetic Algorithm
+*** Heuristic RB Tree Weighting
+*** hexagons?
+*** island Gen
+*** Mordor-a-like
+*** Prisoners dilemma
+
+* Analysis of other programs
+** Cif
+** Twine
+** Cotillion
+** Sugar scape
+** Games
+*** Democracy 3
+*** Spacebase DF-9
+*** Dota
+*** WoW
+*** Shadow of Mordor
