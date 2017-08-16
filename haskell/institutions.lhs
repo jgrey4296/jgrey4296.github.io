@@ -4,14 +4,14 @@ Let institutions exist independently of individuals,
 > data Institution = Institution {
 >   instName :: [String]
 >   , instNameModifiers :: [NameMod]
->   , principle :: InstitutionPrinciple --The guiding principle
->   , physicalObjects :: [PhysicalObject] --physical objects of the institution
->   , locations :: [Location String] --physical locations of the institution
->   , communicationChannels :: [(CommChannel)] --the channels by which meaning can be communicated in the institution
+>   , principle :: InstitutionPrinciple           --The guiding principle
+>   , physicalObjects :: [PhysicalObject]         --physical objects of the institution
+>   , locations :: [Location String]              --physical locations of the institution
+>   , communicationChannels :: [(CommChannel)]    --the channels by which meaning can be communicated in the institution
 >   -- Norms:
->   , membershipNorms :: [Norm] --who the institution encompasses, dynamically
->   , constitutiveNorms :: [Norm] -- what the concepts/actions in the institution are
->   , regulativeNorms :: [Norm] -- how to use the concepts/actions
+>   , membershipNorms :: [Norm]                   --who the institution encompasses, dynamically
+>   , constitutiveNorms :: [Norm]                 -- what the concepts/actions in the institution are
+>   , regulativeNorms :: [Norm]                   -- how to use the concepts/actions
 >   -- Broader Field:
 >   , relatedInstitutions :: [(Institution, [Norm])]
 >   , unrelatedInstitutions :: [Institution]
@@ -24,7 +24,7 @@ Let institutions exist independently of individuals,
 Institutions are applied to Individuals
 
 > data Individual a b = Individual {
->   indName :: [String] --all possible refering names
+>   indName :: [String]                           --all possible refering names
 >   , indNameModifiers :: [NameMod] 
 >   , communicationChannelStates :: [CommChannelState a]
 >   , location :: Location b
@@ -37,7 +37,7 @@ Institutions are applied to Individuals
 >   , effects :: [Fact]
 >   }-- eg: hammer, nails, playing card, house, door, trouses
 > data Location a = Location { -- eg: Kitchen, Building, Neighbourhood, City, Country
->   locName :: [String] --all possible refering names
+>   locName :: [String]                           --all possible refering names
 >   , nameModifiers :: [Regex]
 >   , scale :: Int
 >   , contains :: [a]
@@ -108,3 +108,5 @@ Relatedly: Accidents
 >   step :: [Fact] -> a -> (a, [Action]) 
 
 > data Action = Action [Fact]
+
+
