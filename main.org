@@ -1,9 +1,39 @@
 * Top Level Org Document                                                        :overview:
+** [[file:orgfiles/VaultDesign.org::*Vault%20Sim%20Design%20Doc][Vault Sim Design Doc]]
+** [[file:orgfiles/current_links.org::*Current%20web%20links][Current web links]]
 ** TODO Unsorted Notes
    Compare the types of norms from dagstuhl, to how
    representable they are in cif, abl, versu, netlogo
+** Westworld anthony hopkins quote
+   "They come back because they discover something they imagine no
+   one had ever noticed before. Something they fall in love
+   with. They’re not looking for a story that tells them who they
+   are. They already know who they are. They’re here because they want
+   a glimpse of who they could be.”
+
+   Rather, make games where: 
+
+   "They're not looking for a story that tells them who they are. They
+   already know who they are. They're here because they want a glimpse
+   of how the world could be."
+   
+   Shift the focus from the individual, to the society around them.
+   Let people play to understand more about the world in which they live.
+** Against Machine Learning for my work
+   Machine learned models contain the biases of the training dataset.
+   Authored content provides individual perspectives, and reactions
+   against biases. 
+** nlp thoughts
+   Nyt presidential mentions. Amount, detection of inauguration, candidacy, promotion? First mention. Last mention, obit. Movements? 
+   Expand to other politicians? And chart them. Has trump had a different news cycle pattern from other presidents? To what degree?
+   Sentiment? Style of language used, length of article...
+   Papers that report absolute failure? 
+   Videogame politics shift since the election?
+   Versu simulates people, giving them a language of desires. If social structures are also modelled with a language of desires and rituals, let the individuals modify the institutions. Instutions will model the individuals who determine the modifications
+** TODO [[file:orgfiles/SocialSituationNotes.org::*Social%20Situations][Social Situations]]
 *** TODO
     Datasets
+*** [[file:orgfiles/programNotes.org::*Program%20notes][Program notes]]
 *** TODO Unit Testing of writing?
     If i annotate sections with meta-data, I could write a unit testing framework for documents
     that looks for particular regexs, tags, sequences, headings etc.
@@ -64,20 +94,21 @@
     instance, exclusion, transition, condition, action, rule, instantial structure
     existence, ground.
 
-   
 *** TODO the state and individual stakes
     the state as an automatic link from an individual to supreme
     authority you have a say in
 
 *** [[file:orgfiles/softwarePossibilities.org::*Software%20Possibilities][Software Possibilities]]
-*** [[file:orgfiles/webLinks.org::*Web%20Links%20of%20interest%20from%20bookmarks][Web Links of interest from bookmarks]]
+*** TODO [[file:orgfiles/webLinks.org::*Web%20Links%20of%20interest%20from%20bookmarks][Web Links of interest from bookmarks]]
 *** [[file:ipad_summary.org::*IPad%20Documents][IPad Documents]]
 *** [[file:orgfiles/naturalLanguageGrammar.org::*Natural%20Language%20Grammar][Natural Language Grammar]]
 *** [[file:orgfiles/behaviourErrors.org::*Typology%20of%20Behaviour%20Errors][Typology of Behaviour Errors]]
 *** [[file:orgfiles/shellAndModalSystems.org::*The%20Authoring%20Shell%20and%20Modal%20Systems][The Authoring Shell and Modal Systems]]
 *** TODO [[file:orgfiles/typewriter.org::*Typewritten%20Notes][Typewritten Notes]]
-
-** [[file:orgfiles/Chapters.org::*Dissertation%20Chapters][Dissertation Chapters]]
+*** TODO Things to implement
+**** Netlogo simulations
+*** TODO [[file:orgfiles/physicalBooks.org::*Physical%20Books][Physical Books]]
+** TODO [[file:orgfiles/Chapters.org::*Dissertation%20Chapters][Dissertation Chapters]]
 ** Some Work Done
 *** [[file:orgfiles/game_concepts.org::*Game%20Concepts][Game Concepts]]                                                               :concept:game:list:
 *** [[file:orgfiles/jass_notes.org::*JASS%20Notes][JASS Notes]]                                                                  :some_work_done:notes:web:jass:social_science:
@@ -163,9 +194,9 @@
 *** [[file:orgfiles/phenomenologyOfInstitutions.org::*The%20Phenomenological%20Experience%20of%20Institutional%20Variation][The Phenomenological Experience of Institutional Variation]]                  :writing:some_work_done:
 *** [[file:orgfiles/pirateShip.org::*A%20Pirate%20Ship%20as%20an%20Institutional%20example][A Pirate Ship as an Institutional example]]                                   :some_work_done:writing:minimal:
 *** [[file:orgfiles/procSocietyExamples.org::*Procedural%20Society%20Examples][Procedural Society Examples]]                                                 :writing:some_work_done:concept:design:
-*** [[file:orgfiles/questions.org::*Questions%20to%20ask%20about%20institutions][Questions to ask about institutions]]                                         :writing:questions:some_work_done:overview:
 *** [[file:orgfiles/scifiHorror.org::*A%20war%20beyond%20belief][A war beyond belief]]                                                         :writing:concept:fiction:
 *** [[file:orgfiles/threeIdeas.org::*Categorise%20Social%20norm%20connections%20between%20social/institutional%20game%20ideas][Categorise Social norm connections between social/institutional game ideas]]  :analysis:some_work_done:minimal:
 *** [[file:orgfiles/whyInstitutions.org::*Why%20Institutions%20are%20important%20for%20video-games][Why Institutions are important for video-games]]                              :argument:minimal:some_work_done:
 *** [[file:orgfiles/machine_learning.org::*Machine%20Learning%20Notes][Machine Learning Notes]]                                                      :machine_learning:
-   
+
+** [[file:orgfiles/institutionStructure.org::*Institution%20Structure][Institution Structure]]
