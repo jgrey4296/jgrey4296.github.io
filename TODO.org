@@ -1,37 +1,43 @@
 * TODO Global
-** iELPY 
-*** TODO Parser
-    <2017-03-25 Sat>
-*** TODO Runtime
-    <2017-03-26 Sun>
-** Shell
-*** TODO Preact UI
+
+** Other
+*** Cancel pet insurance
     <2017-03-27 Mon>
-*** TODO Shell Runtime
-**** DONE Test searching
-     <2017-03-23 Thu>
-**** TODO Rule Mode
-     <2017-03-25 Sat>
-**** TODO FSM Mode
-     <2017-03-25 Sat>
-*** Rete
-**** TODO Write actual logic tests
-     <2017-03-26 Sun>
-** Behaviour Tree.js
-*** TODO Exclusion Logic
-    <2017-03-26 Sun>
-    Union of EL.js and iELPy language, to use in both
+
+
+* Progressed
+** iELPY 
+*** Parser
+*** Runtime
+
 ** Newspaper Gen
 *** DONE Tracery
     <2017-03-24 Fri>
     Add tracery in for straight away text gen
+    ** Shell
+*** Preact UI
+    <2017-03-27 Mon>
+*** Shell Runtime
+**** DONE Test searching
+     <2017-03-23 Thu>
+**** Rule Mode
+     <2017-03-25 Sat>
+**** FSM Mode
+     <2017-03-25 Sat>
+*** Rete
+**** Write actual logic tests
+     <2017-03-26 Sun>
+** Behaviour Tree.js
+*** Exclusion Logic
+    <2017-03-26 Sun>
+    Union of EL.js and iELPy language, to use in both
 ** Writing
 *** DONE Jekyll TAGS
     <2017-03-23 Thu>
 *** Unit Testing
-**** TODO First document: An Overview
+**** First document: An Overview
      <2017-03-27 Mon>
-** TODO Prototypes
+** Prototypes
    <2017-03-28 Tue>
 *** Hex Board -> Preact
 *** Battle System
@@ -41,17 +47,17 @@
 *** NetLogo
 *** Unity
 **** Animation
-** TODO Data Analysis
+** Data Analysis
    <2017-03-28 Tue>
 *** Game Scraping
     
 *** Web Scraping
 **** Dota
 **** WoW
-** TODO Reading
-*** TODO Books
+** Reading
+*** Books
     <2017-03-29 Wed>
-**** TODO Scott
+**** Scott
      <2017-03-26 Sun>
 **** Bicchieri
 **** Graeber
@@ -63,12 +69,7 @@
 ** DONE Haskell
    <2017-03-24 Fri>
    Write a simple parser using parsec
-*** TODO Haskell: add a python version of iEL
+*** Haskell: add a python version of iEL
     <2017-03-30 Thu>
-** TODO Python Red-Black Weighting
+** DONE Python Red-Black Weighting
    <2017-03-28 Tue>
-** Other
-*** DONE Change Sheets
-    <2017-03-24 Fri>
-*** TODO Cancel pet insurance
-    <2017-03-27 Mon>
