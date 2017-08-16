@@ -40,10 +40,8 @@ The simple types are identified through reserved words.
 A reference type is a class type, an interface type, an array type, 
   or a delegate type. 
 
-
 ** Scope
 namespace blah{}
-
 
 ** Basic Data Types
 
@@ -56,7 +54,6 @@ DateTime fooDate = DateTime.Now;
 Console.WriteLine(fooDate.ToString("hh:mm, dd MMM yyyy"));
 
 *** Booleans
-
 
 ** Typecasting
   // Convert String To Integer
@@ -75,16 +72,15 @@ Convert.ToString(123);
 // or
 tryInt.ToString();
 
-
 ** Arithmetic
   + - / % *
   // Incrementations
   int i = 0;
-Console.WriteLine("\n->Inc/Dec-rementation");
-Console.WriteLine(i++); //i = 1. Post-Incrementation
-Console.WriteLine(++i); //i = 2. Pre-Incrementation
-Console.WriteLine(i--); //i = 1. Post-Decrementation
-Console.WriteLine(--i); //i = 0. Pre-Decrementation
+  Console.WriteLine("\n->Inc/Dec-rementation");
+  Console.WriteLine(i++); //i = 1. Post-Incrementation
+  Console.WriteLine(++i); //i = 2. Pre-Incrementation
+  Console.WriteLine(i--); //i = 1. Post-Decrementation
+  Console.WriteLine(--i); //i = 0. Pre-Decrementation
 
 *** Bitwise
    ~       Unary bitwise complement
@@ -98,49 +94,49 @@ Console.WriteLine(--i); //i = 0. Pre-Decrementation
 *** Comparisons and Logic
 
 ** Variables
-//<type><name>
-  byte foo = 100;
+   //<type><name>
+   byte foo = 100;
 
-//Value types = int,uint,long,ulong,double,float,decimal,bool,char
-//Reference Types = string
-//has const
+   //Value types = int,uint,long,ulong,double,float,decimal,bool,char
+   //Reference Types = string
+   //has const
 ** Data Structures
-//Stack,Queue,Dictionary,HashSet,Tuple
+   //Stack,Queue,Dictionary,HashSet,Tuple
 
 *** Arrays
-// Arrays - zero indexed
-// The array size must be decided upon declaration
-// The format for declaring an array is follows:
-// <datatype>[] <var name> = new <datatype>[<array size>];
-int[] intArray = new int[10];
+    // Arrays - zero indexed
+    // The array size must be decided upon declaration
+    // The format for declaring an array is follows:
+    // <datatype>[] <var name> = new <datatype>[<array size>];
+    int[] intArray = new int[10];
 
-// Another way to declare & initialize an array
-int[] y = { 9000, 1000, 1337 };
+    // Another way to declare & initialize an array
+    int[] y = { 9000, 1000, 1337 };
 
-// Indexing an array - Accessing an element
-Console.WriteLine("intArray @ 0: " + intArray[0]);
-// Arrays are mutable.
-intArray[1] = 1;
+    // Indexing an array - Accessing an element
+    Console.WriteLine("intArray @ 0: " + intArray[0]);
+    // Arrays are mutable.
+    intArray[1] = 1;
 
-int[] array1 = new int[5];
-int[,] array2 = new int[4,6];
-int[][] array3;
+    int[] array1 = new int[5];
+    int[,] array2 = new int[4,6];
+    int[][] array3;
 
 
 *** Lists
-// Lists
-// Lists are used more frequently than arrays as they are more flexible
-// The format for declaring a list is follows:
-// List<datatype> <var name> = new List<datatype>();
-List<int> intList = new List<int>();
-List<string> stringList = new List<string>();
-List<int> z = new List<int> { 9000, 1000, 1337 }; // intialize
-// The <> are for generics - Check out the cool stuff section
-
-// Lists don't default to a value;
-// A value must be added before accessing the index
-intList.Add(1);
-Console.WriteLine("intList @ 0: " + intList[0]);
+    // Lists
+    // Lists are used more frequently than arrays as they are more flexible
+    // The format for declaring a list is follows:
+    // List<datatype> <var name> = new List<datatype>();
+    List<int> intList = new List<int>();
+    List<string> stringList = new List<string>();
+    List<int> z = new List<int> { 9000, 1000, 1337 }; // intialize
+    // The <> are for generics - Check out the cool stuff section
+    
+    // Lists don't default to a value;
+    // A value must be added before accessing the index
+    intList.Add(1);
+    Console.WriteLine("intList @ 0: " + intList[0]);
 
 
 *** Objects/Classes
@@ -245,9 +241,6 @@ Func<int, int> square = (x) => x * x;
 // Last T item is the return value
 
 ** Examples
-
-
-
 ** Language Specific Concepts:
 
 Structs vs. Classes
