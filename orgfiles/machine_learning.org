@@ -281,7 +281,7 @@
      For more complex arrangements, see *plt.GridSpec*
 
      Figure Manipulations:
-     .saveFig(filename), .suptitle
+     .saveFig(filename), .subtitle
 
      Axes Manipulations:
      .clear(), .axhspan, .axvspan, .set_{}/.set()
@@ -347,6 +347,17 @@
 *** spacy
 *** Scipy
     has scipy.sparse matrices.
+**** Stats
+     Has probability distributions
+     #+begin_src python
+       import numpy as np
+       import scipy.stats as stats
+       x = np.linspace(0, 1, 1000)
+       #loc = mean, scale = stddev
+       y = stats.norm.pdf(x, loc=0.5, scale=0.5)
+     #+end_src
+
+
 *** Pandas
 *** statsmodels
 *** TensorFlow
