@@ -281,7 +281,7 @@
      
 
 ** Thoughts
-   Repeated mentions of debugging being hard, and mind-traces note being enough.
+   Repeated mentions of debugging being hard, and mind-traces not being enough.
    What *is* needed to debug complex agent organisations?
    Knowledge of: 
    1) External Environment state,
