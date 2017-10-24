@@ -82,3 +82,17 @@
    Mark Seam:                 C-e mark seam
    Unwrap:                    u (in edit mode)
    Load image in uv editor:   M-o
+
+   Bones:
+   Create bone                Shift-A
+   Extrude bones              E
+   Parent vertices            C-p
+   Pose Mode                  C-TAB
+   Separate bones:            P
+   
+   In Timeline:
+   Start / End Frame:         Shift-L_ARROW/R_ARROW
+   Play:                      M-a
+   Insert Keyframe:           i
+   Delete Keyframe:           M-i
+   
