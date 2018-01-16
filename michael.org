@@ -1,0 +1,174 @@
+* To Mention to Michael
+** Dissertation Structure
+*** Title
+*** Introduction
+**** Institutions 101 
+**** Problems
+**** Socially Inspired Computing
+**** Research Questions
+**** Contributions
+*** Institutional Design 101
+*** Core Theory Influences
+**** New Institutionalism / Field Theory
+**** Activity Theory
+**** Normative Multi-Agent Systems
+*** General Background
+**** Theories  
+**** Media
+**** Formalisms
+**** NorMAS
+**** Sociology and Anthropology
+**** Authoring Tool Design
+*** Theory of Institutions 
+**** Structure of Institutions
+**** Norms and Rules
+*** Institutional Analysis of Existing Media
+*** Institutionally Inspired Simulations/Games
+*** Architecture
+**** Authoring Tool
+**** Institution Sim
+*** Implementations
+*** Results and Analysis
+*** Conclusion
+** Research Questions
+   Focusing on:
+   1) How Can we Describe Institutions?
+      (using assisted-authoring environments to manage the complexity,
+      Praxis, Versu, Democracy -> iELPy and the Shell )
+   1a) What are their components?
+   1b) 
+   2) How can we portray what is typically invisible?
+      Using procedural variation to highlight institutional delta,
+      and phenomenological experience of the institutional effects.
+   3) How can we model changes in institutions?
+      Through performative production of the institutions, changing the level
+      of inertia to increase rate of change from individuals
+      actions. By highlighting the effects of institutional
+      entrepreneurs and IGUs.
+
+    
+   : or as a motivation:
+   4) Do institutions provide a useful lens to consider for social
+      simulations, especially games?
+      Yes as they provide previously underdeveloped areas of effectful choice.
+
+
+   how can ins be foregrounded -> how can they be presented in playable experiences?
+
+** Theory
+   Socially inspired computing (MacBeth),
+   Explorables (Nick Case)
+   Institutions in NorMAS.
+   Expressive, Phenomenological portrayal.
+   Assisted Hypergraph authoring so component institutions
+
+** Programming
+   
+*** Street Sim
+    As a phenomenologically focused front end to Democracy 3. 
+    *Seeing* the changes on particular streets due to policies.
+    Doesn't require too much in terms of assets, could have flat characters.
+    Modelling passing on the street behaviours only. So minimal animation needs.
+    Sound as another variable.
+    Veil of Ignorance.
+
+*** Newspaper Generator
+    Similar to street sim. Phenomenologically focused representation
+    of socieities and the variations between. 
+    The things that are front page headlines denote the values of the society.
+
+    Related: NYT analysis.
+    Analysis and generation of nyt dataset to compare against.
+    NLP and Deeplearning.
+    Wouldn't model institutional structures.
+    Analysis to look at topics, named entities, wars, recessions, technology etc.
+    Time variation.
+    Could inform norms? 'Should' and other deontic language, sentiment of subjects.
+    Amount subjects are mentioned.
+
+*** Vault Sim
+    Automating the physical sim and building of a vault, leaving the player to control
+    the social norms and institutions.
+    Most perspectives would say: 'We should add more complexity to the individuals'
+    I say: 'We should add more complexity to the social contexts'
+    Norms of behaviour. Feuds, trends, social hierarchies based on commodities.
+    2d, like Prison Architect / Rimworld / Fallout Shelter.
+    Minimal interactions. 
+    Vaults in fallout had strange experiments, some social.
+    Also think of a procedural gormenghast.
+    Related: Social Roguelike / Sliders / 'Go Get some milk I Dare you'
+
+*** NetLogo sim
+    As the most straight forward, normally used social
+    simulation. MOISE would be preferable, but is in java. A lot of
+    other MAS architectures I can't find online.
+    Minimal, simplified model of the street sim?
+    Or an expanded AIDS transmission model as an instituion, ie: Modelling Reagans response
+    Gatekeepers (literally, like chimera), or as entry to social groups.
+
+*** iElPy
+    Exclusion Logic Language to be supplemented with institutional primitives.
+    Intended to be the reasoning engine for the sims
+    (street/news/vault)?
+    
+*** Heuristic weighting
+    RB-Tree that asks the use to compare items as it adds elements.
+    Want to compare results of it to manual ranking, and the Reddit ranking algorithm.
+    For value systems, 
+    Sanction enforcement escalation strategies
+
+*** Social Pokemon-like turned based battle system 
+    Like @pokecon_bot, but using the social situations I've collected, or the nyt dataset,
+    to actually build a simulation. A Potential way to get around
+    writing dialogue.
+    Utility based system.
+
+*** Credit system? 
+    Based credit and debt enabled subsystem of a simulation?
+    Fairly straight forward. Unit of account, debt, interest.
+
+*** Mordor a like. 
+    Graph based implementation of the simplest nemesis system, to be able to plug into 
+    the social pokemon combat.
+    Mordor is a prime example of mixing character development, with
+    institutional play.
+
+*** ABL-like behaviour tree
+    Semantics worked, reworking the condition / predicate system.
+
+*** Authoring systems
+    The shell (which exports to twine),
+    iElPy, heuristic weighting, and type inference / network analysis
+    on inputs outputs of self contained subsystems.
+
+*** ASP Conversation pathways
+    Conversations with forward planning opportunities on the part of
+    the player.
+    ASP also powers Tina Balke's institution work.
+
+*** Haskell Monad-Transformer of Behaviour Trees / Institutions
+    Nobody seems to have done behaviour trees in haskell. 
+
+** Misc
+*** Games writing since the election
+    Specifically considering gamergate -> alt right (re: leigh alexander),
+    Lack of consideration of things like norm change, policy consequences,
+    and discrimination?
+
+*** Type inference
+
+*** Code analysis, applied to game ai 
+
+*** document unit tester
+
+*** Tyranny discussion and writing?
+*** Papers that report actual failure
+
+
+
+skyrim mod of cif?
+
+five programs plus miniatures -shank and ableson
+zhu
+
+psych - open research? replication crisis
