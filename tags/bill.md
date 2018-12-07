@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Posts with tag bill
+title: bill
 tag: bill
 permalink: /tags/bill/
 sitemap: false

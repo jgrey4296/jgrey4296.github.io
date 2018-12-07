@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Posts with tag bob
+title: bob
 tag: bob
 permalink: /tags/bob/
 sitemap: false

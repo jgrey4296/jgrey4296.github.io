@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Posts with tag awef
+title: awef
 tag: awef
 permalink: /tags/awef/
 sitemap: false

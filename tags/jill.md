@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Posts with tag jill
+title: jill
 tag: jill
 permalink: /tags/jill/
 sitemap: false
