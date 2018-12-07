@@ -34,7 +34,7 @@ def write_yaml_tag_file(dir,tag):
     with open(join(dir,"{}.md".format(tag)),'w') as f:
         f.write('---\n')
         f.write('layout: tag\n')
-        f.write('title: Posts with tag {}\n'.format(tag))
+        f.write('title: {}\n'.format(tag))
         f.write('tag: {}\n'.format(tag))
         f.write('permalink: /tags/{}/\n'.format(tag))
         f.write('sitemap: false\n')
