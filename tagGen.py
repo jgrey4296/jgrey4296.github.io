@@ -1,4 +1,7 @@
-from os.path import join,isfile,exists,isdir 
+"""
+Process all posts and create tag aggregate pages
+"""
+from os.path import join,isfile,exists,isdir
 from os import listdir
 import yaml
 
@@ -18,7 +21,7 @@ def load_yaml_data(filename):
                 total += currLine
             currLine = f.readline()
     return yaml.safe_load(total)
-            
+
 def load_all_posts(dir):
     files = listdir(dir)
     loadedData = [load_yaml_data(join(dir,f)) for f in files]
