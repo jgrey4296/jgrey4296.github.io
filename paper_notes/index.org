@@ -1,0 +1,174 @@
+* Summary Index
+** Papers
+*** TODO Currently Read
+**** [[file:action_selection_in_games.org::*Title:%20A%20Model%20for%20Decision%20Making%20in%20Games:%20Action%20Selection][A Model for Decision Making in Games: Action Selection]]            :read:
+**** [[file:agre_institutional_change.org::*Title:%20Information%20and%20Institutional%20Change][Information and Institutional Change]]                              :read:
+**** [[file:an_invitation_to_grounded_theory.org::*Title:%20An%20Invitation%20to%20Grounded%20Theory][An Invitation to Grounded Theory]]                                  :read:
+**** [[file:anthro_of_bureaucracy.org::*Title:%20Current%20Trends%20in%20the%20Anthropology%20of%20Bureaucracy%20-%20A%20Report][Current Trends in the Anthropology of Bureaucracy - A Report]]      :read:
+**** [[file:arpabet.org::*Title:%20Arpabet][Arpabet]]                                                           :read:
+**** [[file:artikis_design_of_ST_systems.org::*Title:%20The%20Design%20of%20Intelligent%20Socio-Technical%20Systems][The Design of Intelligent Socio-Technical Systems]]                 :read:
+**** [[file:artikis_dynamic_protocols.org::*Title:%20Dynamic%20Protocols%20for%20Open%20Agent%20Systems][Dynamic Protocols for Open Agent Systems]]                          :read:
+**** [[file:bourgaisa_emotion_modeling.org::*Title:%20Emotion%20Modeling%20in%20Social%20Simulation][Emotion Modeling in Social Simulation]]                             :read:
+**** [[file:brewka_dynamic_arguments.org::*Title:%20Dynamic%20Argument%20Systems:%20A%20Formal%20Model%20of%20Argumentation%20Processes%20Based%20on%20Situation%20Calculus][Dynamic Argument Systems: A Formal Model of Argumentation Processes Based on Situation Calculus]] :read:
+**** [[file:bryson_hypothesis_testing.org::*Title:%20Hypothesis%20Testing%20for%20Complex%20Agents][Hypothesis Testing for Complex Agents]]                             :read:
+**** [[file:castelfranchi_theory_of_delegation.org::*Title:%20Towards%20a%20Theory%20of%20Delegation%20for%20Agent%20Based%20Systems][Towards a Theory of Delegation for Agent Based Systems]]            :read:
+**** [[file:chapman_competence.org::*Title:%20Developing%20ethical,%20social%20and%20cognitive%20competence][Developing ethical, social and cognitive competence]]               :read:
+**** [[file:choice_architecture.org::*Title:%20Choice%20Architecture][Choice Architecture]]                                               :read:
+**** [[file:cochrane_writing_tips.org::*Title:%20Writing%20Tips%20for%20PhD%20Students][Writing Tips for PhD Students]]                                     :read:
+**** [[file:frasca_rethinking_agency.org::*Title:%20Rethinking%20Agency%20and%20Immersion:%20Videogames%20as%20a%20means%20of%20consciousness-raising][Rethinking Agency and Immersion: Videogames as a means of consciousness-raising]] :read:
+**** [[file:geels_typology_of_sociotechnical_transition_pathways.org::*Title:%20Typology%20of%20sociotechnical%20transition%20pathways][Typology of sociotechnical transition pathways]]                    :read:
+**** [[file:gil_speculative_ethnology.org::*Title:%20Dossier%20Chin%20Laboratory%20of%20Speculative%20Ethnology][Dossier Chin Laboratory of Speculative Ethnology]]                  :read:
+**** [[file:grabmuller_monad_transformers_step_by_step.org::*Title:%20Monad%20Transformers%20Step%20by%20Step][Monad Transformers Step by Step]]                                   :read:
+**** [[file:graebner_models_to_reality.org::*Title:%20How%20to%20Relate%20Models%20to%20Reality?][How to Relate Models to Reality?]]                                  :read:
+**** [[file:grant_taxonomy_erroneou_planning.org::*Title:%20Towards%20a%20Taxonomy%20of%20Erroneous%20Planning][Towards a Taxonomy of Erroneous Planning]]                          :read:
+**** [[file:hallett_inhabited_institutions.org::*Title:%20Inhabited%20Institutions:%20Social%20Interactions%20and%20Organizational%20Forms%20in%20Gouldner's%20Patterns%20of%20Industrial%20Bureaucracy][Inhabited Institutions: Social Interactions and Organizational Forms in Gouldner's Patterns of Industrial Bureaucracy]] :read:
+**** [[file:hanson_modal_dialogue.org::*Title:%20A%20Non-Modal%20Approach%20to%20Integrating%20Dialogue%20and%20Actiong][A Non-Modal Approach to Integrating Dialogue and Actiong]]          :read:
+**** [[file:hartsook_procedural_worlds.org::*Title:%20Toward%20Supporting%20Stories%20with%20Procedurally%20Generated%20Game%20Worlds][Toward Supporting Stories with Procedurally Generated Game Worlds]] :read:
+**** [[file:kohlberg_moral_development.org::*Title:%20Lawrence%20Kohlberg's%20stages%20of%20moral%20development][Lawrence Kohlberg's stages of moral development]]                   :read:
+**** [[file:koster_social_mechanics.org::*Title:%20Social%20Mechanics:%20The%20Engines%20Behind%20Everything%20Multiplayer][Social Mechanics: The Engines Behind Everything Multiplayer]]       :read:
+**** [[file:landin_next_700_languages.org::*Title:%20The%20Next%20700%20Programming%20Languages][The Next 700 Programming Languages]]                                :read:
+**** [[file:lansing_balinese_water_temples.org::*Title:%20Emergent%20Properties%20of%20Balinese%20Water%20Temple%20Networks:%20Coadapatation%20on%20a%20Rugged%20Fitness%20Lanscape][Emergent Properties of Balinese Water Temple Networks: Coadapatation on a Rugged Fitness Lanscape]] :read:
+**** [[file:lefebvre.org::*Title:%20Henri%20Lefebvre][Henri Lefebvre]]                                                    :read:
+**** [[file:lehnert_plot_units.org::*Title:%20Plot%20Units%20and%20Narrative%20Summarization][Plot Units and Narrative Summarization]]                            :read:
+**** [[file:lewis_what_went_wrong.org::*Title:%20What%20Went%20Wrong:%20A%20Taxonomy%20of%20Video%20Game%20Bugs][What Went Wrong: A Taxonomy of Video Game Bugs]]                    :read:
+**** [[file:lin_pomdp_language.org::*Title:%20A%20Programming%20Language%20with%20a%20POMDP%20Inside][A Programming Language with a POMDP Inside]]                        :read:
+**** [[file:lotzmanna_simulation_interpretation.org::*Title:%20Simulation%20for%20Interpretation][Simulation for Interpretation]]                                     :read:
+**** [[file:makinson_input_output.org::*Title:%20What%20Is%20Input/Output%20Logic?][What Is Input/Output Logic?]]                                       :read:
+**** [[file:martens_centre.org::*Title:%20Ceptre:%20A%20Language%20for%20Modeling%20Generative%20Interactive%20Systems][Ceptre: A Language for Modeling Generative Interactive Systems]]    :read:
+**** [[file:martinek_dynamic_provisions.org::*Title:%20Dynamics%20of%20Legal%20Provisions%20and%20its%20Representation][Dynamics of Legal Provisions and its Representation]]               :read:
+**** [[file:mateas_operational_logics.org::*Title:%20Defining%20Operational%20Logics][Defining Operational Logics]]                                       :read:
+**** [[file:mcda.org::*Title:%20Multiple-Criteria%20Decision-Analysis][Multiple-Criteria Decision-Analysis]]                               :read:
+**** [[file:mclean_tidal_coding.org::*Title:%20Making%20Programming%20Languages%20to%20Dance%20to:%20Live%20Coding%20with%20Tidal][Making Programming Languages to Dance to: Live Coding with Tidal]]  :read:
+**** [[file:merton_unanticipated_action.org::*Title:%20The%20Unanticipated%20Consquences%20of%20Purposive%20Social%20Action][The Unanticipated Consquences of Purposive Social Action]]          :read:
+**** [[file:nardin_sanctions.org::*Title:%20Classifying%20Sanctions%20and%20designing%20a%20conceptual%20sanctioning%20process%20model%20for%20socio-technical%20systems][Classifying Sanctions and designing a conceptual sanctioning process model for socio-technical systems]] :read:
+**** [[file:ostrom_classifying_rules.org::*Title:%20Classifying%20Rules][Classifying Rules]]                                                 :read:
+**** [[file:ostrom_why_classify_rules.org::*Title:%20Why%20Classify%20Generic%20Rules?][Why Classify Generic Rules?]]                                       :read:
+**** [[file:pinciroli_buzz.org::*Title:%20Buzz:%20An%20Extensible%20Programming%20Language%20for%20Self-Organizing%20Heterogeneous%20Robot%20Swarms][Buzz: An Extensible Programming Language for Self-Organizing Heterogeneous Robot Swarms]] :read:
+**** [[file:pitt_nomic_mutable_agents.org::*Title:%20Reasoning%20and%20Reflection%20in%20the%20Game%20of%20Nomic:%20Self-Organising%20Self-Aware%20Agents%20with%20Mutable%20Rule-Sets][Reasoning and Reflection in the Game of Nomic: Self-Organising Self-Aware Agents with Mutable Rule-Sets]] :read:
+**** [[file:queuing_theory.org::*Title:%20Queueing%20Theory][Queueing Theory]]                                                   :read:
+**** [[file:robertson_cooperative.org::*Title:%20Cooperative%20Work%20and%20Lived%20Cognition:%20A%20Taxonomy%20of%20Embodied%20Actions][Cooperative Work and Lived Cognition: A Taxonomy of Embodied Actions]] :read:
+**** [[file:rossignol_acoustic_scene_simulator.org::*Title:%20SimScene:%20a%20web-based%20acoustic%20scenes%20simulator][SimScene: a web-based acoustic scenes simulator]]                   :read:
+**** [[file:speculative_anthro.org::*Title:%20Speculative%20Anthropologies][Speculative Anthropologies]]                                        :read:
+**** [[file:sudden_anthropology.org::*Title:%20Sudden%20Anthropology:%20Brief%20Encounters%20with%20Cultures][Sudden Anthropology: Brief Encounters with Cultures]]               :read:
+**** [[file:sun_input_output_logic.org::*Title:%20How%20to%20build%20input/output%20logic][How to build input/output logic]]                                   :read:
+**** [[file:treanor_ai_game_design_patterns.org::*Title:%20AI-Based%20Game%20Design%20Patterns][AI-Based Game Design Patterns]]                                     :read:
+**** [[file:varsamopoulos_how_to_write_a_technical_paper.org::*Title:%20How%20to%20Write%20a%20Technical%20Paper][How to Write a Technical Paper]]                                    :read:
+**** [[file:writing_comments.org::*Title:%20Writing%20System%20Software:%20Code%20Comments][Writing System Software: Code Comments]]                            :read:
+
+*** TODO To Read
+**** [[file:schmill_ontologies_for_failures.org::*Title:%20Ontologies%20for%20Reasoning%20about%20Failures%20in%20AI%20Systems][Ontologies for Reasoning about Failures in AI Systems]]
+**** [[file:scherer_evidence_based_policy_modelling.org::*Title:%20Evidence%20Based%20and%20Conceptual%20Model%20Driven%20Approach%20for%20Agent-Based%20Policy%20Modelling][Evidence Based and Conceptual Model Driven Approach for Agent-Based Policy Modeling]]
+**** [[file:schank_five_programs_plus_miniatures.org::*Title:%20Inside%20Computer%20Understanding:%20Five%20Programs%20Plus%20Miniatures][Inside Computer Understanding: Five Programs Plus Miniatures]]
+**** [[file:rapoport_coffee_feature_creep.org::*Coffee%20and%20its%20Effects%20on%20Feature%20Creep][Coffee and its Effects on Feature Creep]]
+**** [[file:tummolini_institutional_actions.org::*The%20Cognitive%20and%20behavioral%20mediation%20of%20institutions:%20Towards%20an%20account%20of%20institutional%20actions][The Cognitive and behavioral mediation of institutions: Towards an account of institutional actions]]
+**** [[file:van_roy_programming_paradigms.org::*Programming%20Paragidms%20for%20dummies:%20What%20every%20programmer%20should%20know][Programming Paragidms for dummies: What every programmer should know]]
+**** [[file:fararo_institutions_as_production_systems.org::*Institutions%20as%20Production%20Systems][Institutions as Production Systems]]
+**** [[file:hollander_normative_agent_systems.org::*The%20Current%20State%20of%20Normative%20Agent-Based%20Systems][The Current State of Normative Agent-Based Systems]]
+**** [[file:balke_agent_decision_survey.org::*How%20Do%20Agents%20Make%20Decisions?%20A%20Survey][How Do Agents Make Decisions? A Survey]]
+**** [[file:franz_modelling_dynamic_deontics.org::*Modelling%20Institutions%20using%20Dyanmic%20Deontics][Modelling Institutions using Dyanmic Deontics]]
+**** [[file:artikis_dynamic_specification.org::*Dynamic%20Specification%20of%20Open%20Agent%20Systems][Dynamic Specification of Open Agent Systems]]
+**** [[file:git_project_guidelines.org::*Git%20Project%20Guidelines][Git Project Guidelines]]
+**** [[file:flassbeck_past_and_future_political_economy.org::*The%20Past%20and%20Future%20of%20Political%20Economy][The Past and Future of Political Economy]]
+**** [[file:house_bill_1117.org::*North%20Carolina%20House%20Bill%201117][North Carolina House Bill 1117]]
+**** [[file:grosz_unthought_futures.org::*Thinking%20the%20New:%20Of%20Futures%20Yet%20Unthought][Thinking the New: Of Futures Yet Unthought]]
+**** [[file:fire_and_smoke.org::*Fire%20and%20Smoke%20Introduction][Fire and Smoke Introduction]]
+**** [[file:makinson_constraints_for_IO_logic.org::*Constraints%20for%20Input/Output%20Logics][Constraints for Input/Output Logics]]
+**** [[file:innes_credit_theory_of_money.org::*The%20Credit%20Theory%20of%20Money][The Credit Theory of Money]]
+**** [[file:wang_chuck_language.org::*ChucK:%20A%20Strongly%20Timed%20Computer%20Music%20Language][ChucK: A Strongly Timed Computer Music Language]]
+**** [[file:innes_what_is_money.org::*What%20is%20Money?][What is Money?]]
+**** [[file:sokolowski_artificial_intelligence.org::*Natural%20and%20Artificial%20Intelligence][Natural and Artificial Intelligence]]
+**** [[file:zaytsev_grammar_zoo.org::*Grammar%20Zoo:%20A%20Corpus%20of%20Experimental%20Grammarware][Grammar Zoo: A Corpus of Experimental Grammarware]]
+**** [[file:zaytsev_micropatterns.org::*Micropatterns%20in%20Grammars][Micropatterns in Grammars]]
+**** [[file:douence_crosscuts.org::*A%20Formal%20Definition%20of%20Crosscuts][A Formal Definition of Crosscuts]]
+**** [[file:collendanchise_stachastic_behavior_trees.org::*Performance%20Analysis%20of%20Stachastic%20Behavior%20Trees][Performance Analysis of Stachastic Behavior Trees]]
+**** [[file:hagedorn_nature_institutions.org::*Particular%20Requirements%20for%20Institutional%20Analysis%20in%20Nature%20Related%20Sectors][Particular Requirements for Institutional Analysis in Nature Related Sectors]]
+**** [[file:haber_composition_of_languages.org::*Composition%20of%20Heterogeneous%20Modeling%20Languages][Composition of Heterogeneous Modeling Languages]]
+**** [[file:mlk_birmingham_jail.org::*Letter%20from%20Birmingham%20Jail][Letter from Birmingham Jail]]
+**** [[file:consensus_algorithm.org::*In%20Search%20of%20an%20Understandable%20Consensus%20Algorithm][In Search of an Understandable Consensus Algorithm]]
+**** [[file:ghorbani_maia.org::*MAIA:%20A%20Framwork%20for%20Developing%20Agent-Based%20Social%20Simulations][MAIA: A Framwork for Developing Agent-Based Social Simulations]]
+**** [[file:conte_manifesto_comp_sci.org::*Manifesto%20of%20Computational%20Social%20Science][Manifesto of Computational Social Science]]
+**** [[file:amrutha_agent_routine_activity.org::*Agent%20Based%20Simulation%20of%20Routine%20Activity%20Theory][Agent Based Simulation of Routine Activity Theory]]
+**** [[file:petricek_coeffects.org::*Coeffects:%20Context%20Aware%20Programming%20Languages][Coeffects: Context Aware Programming Languages]]
+**** [[file:raposo_architecture_as_character.org::*Architecture%20as%20Character:%20Bayonetta][Architecture as Character: Bayonetta]]
+**** [[file:wolf_meyer_scifi_and_anthropology.org::*The%20Necessary%20Tention%20between%20Science%20Fiction%20and%20Anthropology%20-%20Cultural%20Anthropology][The Necessary Tention between Science Fiction and Anthropology - Cultural Anthropology]]
+**** [[file:waypoint_fps_games.org::*First%20Person%20Games%20are%20Changing.%20But%20Into%20What?][First Person Games are Changing. But Into What?]]
+**** [[file:olson_unbounding_field_notes.org::*Unbounding%20the%20Field/Note%20-%20Cultural%20Anthropology][Unbounding the Field/Note - Cultural Anthropology]]
+**** [[file:collins_latent_futures.org::*Anthropology's%20Latent%20Futures%20-%20Cultural%20Anthropology][Anthropology's Latent Futures - Cultural Anthropology]]
+**** [[file:reddy_speculative_fiction.org::*Speculative%20Fiction%20and%20Speculating%20about%20the%20Social][Speculative Fiction and Speculating about the Social]]
+**** [[file:oman_reagan_first_contact.org::*First%20Contact%20with%20Possible%20Futures][First Contact with Possible Futures]]
+**** [[file:nelms_invisible_city.org::*Invisible%20City:%20A%20Speculative%20Guide][Invisible City: A Speculative Guide]]
+**** [[file:lempert_scifi_and_ethnography.org::*Planeterra%20Nullius:%20Science%20Fiction%20Writing%20and%20the%20Ethnographic%20Imagination][Planeterra Nullius: Science Fiction Writing and the Ethnographic Imagination]]
+**** [[file:miller_defining_modularity.org::*Defining%20Modules,%20Modularity%20and%20Modularization][Defining Modules, Modularity and Modularization]]
+**** [[file:czarnecki_model_transformation_survey.org::*Feature-based%20survey%20of%20model%20transformation%20approaches][Feature-based survey of model transformation approaches]]
+**** [[file:mens_taxonomy_of_model_transformation.org::*A%20Taxonomy%20of%20Model%20Transformation][A Taxonomy of Model Transformation]]
+**** [[file:czarnecki_classification_of_transforms.org::*Classification%20of%20Model%20Transformation%20Approaches][Classification of Model Transformation Approaches]]
+**** [[file:agrawal_graph_transformations.org::*Graph%20Transformations%20on%20Domain%20Specific%20Models][Graph Transformations on Domain Specific Models]]
+**** [[file:klint_easy_metaprogramming_rascal.org::*Easy%20Meta-Programming%20with%20Rascal][Easy Meta-Programming with Rascal]]
+**** [[file:dimensional_analysis.org::*Dimensional%20Analysis][Dimensional Analysis]]
+**** [[file:raja_meta_control_in_mas.org::*Meta-level%20Control%20in%20Multi-Agent%20Systems][Meta-level Control in Multi-Agent Systems]]
+**** [[file:governatori_norm_modifications.org::*Norm%20Modifications%20in%20Defeasible%20Logic][Norm Modifications in Defeasible Logic]]
+**** [[file:gentner_structure_mapping.org::*Structure-Mapping:%20A%20Theoretical%20Framework%20for%20Analogy][Structure-Mapping: A Theoretical Framework for Analogy]]
+**** [[file:tinnemeier_programming_norm_change.org::*Programming%20Norm%20Change][Programming Norm Change]]
+**** [[file:gaertner_etiquette_mas.org::*Ballroom%20etiquette:%20a%20case%20study%20for%20norm-governed%20multi-agent%20systems][Ballroom etiquette: a case study for norm-governed multi-agent systems]]
+**** [[file:boella_permissions_and_obligations.org::*Permissions%20and%20Obligations%20in%20Hierarchical%20Normative%20Systems][Permissions and Obligations in Hierarchical Normative Systems]]
+**** [[file:winner_artefacts_politics.org::*Do%20Artifacts%20have%20Politics?][Do Artifacts have Politics?]]
+**** [[file:joerges_politics_artefacts.org::*Do%20Politics%20have%20Artefacts?][Do Politics have Artefacts?]]
+**** [[file:cliffe_specifying_multiple_institutions.org::*Specifying%20and%20Reasoning%20about%20Multiple%20Institutions][Specifying and Reasoning about Multiple Institutions]]
+**** [[file:kahneman_norm_theory.org::*Norm%20Theory:%20Comparing%20Reality%20to%20Its%20Alternatives][Norm Theory: Comparing Reality to Its Alternatives]]
+**** [[file:grau_modularity_ontologies.org::*A%20Logical%20Framework%20for%20Modularity%20of%20Ontologies][A Logical Framework for Modularity of Ontologies]]
+**** [[file:stijlaart_taxonomy_grammar_smells.org::*Towards%20a%20Taxonomy%20of%20Grammar%20Smells][Towards a Taxonomy of Grammar Smells]]
+**** [[file:klint_rascal_dsl.org::*Rascal:%20A%20Domain%20Specific%20Language%20for%20Source%20Code%20Analysis%20and%20Manipulation][Rascal: A Domain Specific Language for Source Code Analysis and Manipulation]]
+**** [[file:jong_defining_repetition.org::*Defining%20Modularity,%20Hierarchy,%20and%20Repetition][Defining Modularity, Hierarchy, and Repetition]]
+**** [[file:warth_ometa.org::*OMeta:%20An%20Object-Oriented%20Language%20for%20Pattern%20Matching][OMeta: An Object-Oriented Language for Pattern Matching]]
+**** [[file:basten_modular_implementation_rascall.org::*Modular%20Language%20Implementation%20in%20Rascal][Modular Language Implementation in Rascal]]
+**** [[file:milner_polaydic_pi_calculus.org::*The%20Polyadic%20Pi%20Calculus][The Polyadic Pi Calculus]]
+**** [[file:brus_clean_functional_graph_rewriting.org::*Clean%20-%20A%20Language%20for%20Functional%20Graph%20Rewriting][Clean - A Language for Functional Graph Rewriting]]
+**** [[file:fabre_fault_tolerant_applications.org::*Implementing%20Fault%20Tolerant%20Applications%20Using%20Reflective%20Object-Oriented%20Programming][Implementing Fault Tolerant Applications Using Reflective Object-Oriented Programming]]
+**** [[file:thorisson_self_programming_for_agi.org::*Approaches%20and%20Assumptions%20of%20Self-Programming%20in%20Achieving%20Artificial%20General%20Intelligence][Approaches and Assumptions of Self-Programming in Achieving Artificial General Intelligence]]
+**** [[file:moses_funarg_problem.org::*The%20function%20of%20FUNCTION%20in%20Lisp%20or%20Why%20the%20FUNARG%20problem%20should%20be%20called%20the%20environment%20problem][The function of FUNCTION in Lisp or Why the FUNARG problem should be called the environment problem]]
+**** [[file:shoham_synthesis_of_social_laws.org::*On%20the%20Synthesis%20of%20Useful%20Social%20Laws%20for%20Artificial%20Agent%20Societies][On the Synthesis of Useful Social Laws for Artificial Agent Societies]]
+**** [[file:tosatto_visualizing_normative_systems.org::*Visualizing%20Normative%20Systems:%20An%20Abstract%20Approach][Visualizing Normative Systems: An Abstract Approach]]
+**** [[file:sussman_art_of_the_propagator.org::*Th%20Art%20of%20the%20Propagator][Th Art of the Propagator]]
+**** [[file:everaere_continuous_preferences.org::*Continuous%20Preferences%20for%20Action%20Selection][Continuous Preferences for Action Selection]]
+**** [[file:tratt_evolving_a_dsl.org::*Evolving%20a%20DSL%20Implementation][Evolving a DSL Implementation]]
+**** [[file:sileno_intra_agent_representations.org::*From%20Inter-Agent%20to%20Intra-Agent%20Representations:%20Mapping%20Social%20Scenarios%20to%20Agent-Role%20Descriptions][From Inter-Agent to Intra-Agent Representations: Mapping Social Scenarios to Agent-Role Descriptions]]
+**** [[file:hawes_survey_motivation_frameworks.org::*A%20survey%20of%20motivation%20frameworks%20for%20intelligent%20systems][A survey of motivation frameworks for intelligent systems]]
+**** [[file:konig_graph_rewriting_polyadic_pi_calculus.org::*A%20Graph%20Rewriting%20Semantics%20for%20the%20Polyadic%20Pi%20Calculus][A Graph Rewriting Semantics for the Polyadic Pi Calculus]]
+**** [[file:thorisson_bounded_seed_agi.org::*Bounded%20Seed%20AGI][Bounded Seed AGI]]
+**** [[file:thorisson_machines_with_autonomy_which_methodology.org::*Machines%20with%20Autonomy%20and%20General%20Intelligence:%20Which%20Methodology?][Machines with Autonomy and General Intelligence: Which Methodology?]]
+**** [[file:mccarthy_thinking_machines.org::*The%20Little%20Thoughts%20of%20Thinking%20Machines][The Little Thoughts of Thinking Machines]]
+**** [[file:ostrom_crafting_tools.org::*Crafting%20Analytical%20Tools%20to%20Study%20Institutional%20Change][Crafting Analytical Tools to Study Institutional Change]]
+**** [[file:nance_redundancy_in_model_specifications.org::*Redundancy%20in%20Model%20Specifications%20for%20Discrete%20Even%20Simulation][Redundancy in Model Specifications for Discrete Even Simulation]]
+**** [[file:lambalgen_event_calculus.org::*The%20Event%20Calculus][The Event Calculus]]
+**** [[file:jafery_uncertainty.org::*Sums%20of%20Uncertainty:%20Refinements%20Go%20Gradual][Sums of Uncertainty: Refinements Go Gradual]]
+**** [[file:dunfield_complete_and_easy_typechecking.org::*Complete%20and%20Easy%20Bidirectional%20Typechecking%20for%20Higher%20Rank%20Polymorphism][Complete and Easy Bidirectional Typechecking for Higher Rank Polymorphism]]
+**** [[file:schillo_flexible_holons.org::*Towards%20a%20theory%20of%20flexible%20holons:%20Modelling%20Institutions%20for%20Making%20Multi-Agent%20Systems%20Robust][Towards a theory of flexible holons: Modelling Institutions for Making Multi-Agent Systems Robust]]
+**** [[file:johnston_international_institutions.org::*Treating%20International%20Institutions%20as%20Social%20Environments][Treating International Institutions as Social Environments]]
+**** [[file:wand_reflective_tower.org::*The%20Mystery%20of%20the%20Tower%20Revealed:%20A%20Nonreflective%20Description%20of%20the%20Reflective%20Tower][The Mystery of the Tower Revealed: A Nonreflective Description of the Reflective Tower]]
+**** [[file:poggi_typology_of_gestures.org::*From%20a%20Typology%20of%20Gestures%20to%20a%20Procedure%20for%20Gesture%20Production][From a Typology of Gestures to a Procedure for Gesture Production]]
+**** [[file:gordon_comparing_requirements.org::*Comparing%20Requirements%20from%20Multiple%20Juridictions][Comparing Requirements from Multiple Juridictions]]
+**** [[file:herzeel_reflection_for_the_masses.org::*Reflection%20for%20the%20Masses][Reflection for the Masses]]
+**** [[file:murphy_revision_of_production_systems.org::*Revision%20of%20Production%20System%20Rule-Bases][Revision of Production System Rule-Bases]]
+**** [[file:schillo_taxonomy_of_autonomy.org::*A%20Taxonomy%20of%20Autonomy%20in%20Muliagent%20Organisation][A Taxonomy of Autonomy in Muliagent Organisation]]
+**** [[file:hodson_rules_dont_apply.org::*Rules%20don't%20apply:%20Kafka's%20insights%20on%20Bureaucracy][Rules don't apply: Kafka's insights on Bureaucracy]]
+**** [[file:aucher_dynamics_in_delegation.org::*Dynamics%20in%20Delegation%20and%20Revocation%20Schemes:%20A%20Logical%20Approach][Dynamics in Delegation and Revocation Schemes: A Logical Approach]]
+**** [[file:meredith_policy_as_types.org::*Policy%20as%20Types][Policy as Types]]
+**** [[file:lifschitz_modular_action_description.org::*A%20Modular%20Action%20Description%20Language][A Modular Action Description Language]]
+**** [[file:meredith_namespace_logic.org::*Namespace%20Logic:%20A%20Logic%20for%20a%20Reflective%20Higher-order%20Calculus][Namespace Logic: A Logic for a Reflective Higher-order Calculus]]
+**** [[file:pinto_language_independent_AOP.org::*LARA%20as%20a%20Language-Independent%20Aspect%20Oriented%20Programming%20Approach][LARA as a Language-Independent Aspect Oriented Programming Approach]]
+**** [[file:randell_spatial_logic.org::*A%20Spatial%20Logic%20Base%20On%20Regions%20And%20Connection][A Spatial Logic Base On Regions And Connection]]
+**** [[file:popovici_dynamic_weaving_aop.org::*Dynamic%20Weaving%20for%20Aspect%20Oriented%20Programming][Dynamic Weaving for Aspect Oriented Programming]]
+**** [[file:costanza_language_constructs.org::*Language%20Constructs%20for%20Context-oriented%20Programming][Language Constructs for Context-oriented Programming]]
+**** [[file:bayne_phenomenology_of_agency.org::*The%20Phenomenology%20of%20Agency][The Phenomenology of Agency]]
+**** [[file:armitage_mangrove_forest_socio_institution.org::*Socio-Institutional%20Dynamics%20and%20the%20political%20ecology%20of%20mangrove%20forest%20conservation%20in%20Central%20Sulawesi,%20Indonsia][Socio-Institutional Dynamics and the political ecology of mangrove forest conservation in Central Sulawesi, Indonsia]]
+**** [[file:crawford_grammar_of_institutions.org::*A%20Grammar%20of%20Institutions][A Grammar of Institutions]]
+**** [[file:brown_bureaucracy_as_practice.org::*Bureaucracy%20as%20Praxis:%20Toward%20a%20Political%20Phnomenology%20of%20Formal%20Organizations][Bureaucracy as Praxis: Toward a Political Phnomenology of Formal Organizations]]
+**** [[file:therborn_back_to_norms.org::*Back%20to%20Norms!%20On%20th%20Scope%20and%20Dynamics%20of%20Norms%20and%20Normative%20Action][Back to Norms! On th Scope and Dynamics of Norms and Normative Action]]
+**** [[file:bryson_embodiment_vs_memetics.org::*Embodiment%20versus%20memetics][Embodiment versus memetics]]
+**** [[file:W_E_B_du_bois_wiki.org::*W.%20E.%20B.%20Du%20Bois][W. E. B. Du Bois]]
+**** [[file:emile_durkheim_wiki.org::*Emile%20Durkheim][Emile Durkheim]]
+**** [[file:jurgen_habermas_wiki.org::*Jurgen%20Habermas][Jurgen Habermas]]
+**** [[file:habermas_arendtys_communication_concept_of_power.org::*Hannah%20Arendt's%20Communications%20Concept%20of%20Power][Hannah Arendt's Communications Concept of Power]]
+**** [[file:cantwell_smith_procedurally_reflective_langauges.org::*The%20Implementation%20of%20Procedurally%20Reflective%20Langauges][The Implementation of Procedurally Reflective Langauges]]
+
+
