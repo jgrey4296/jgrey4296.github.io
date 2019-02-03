@@ -1,45 +1,467 @@
 * Argumentation
-** Dennet - Rapoport's Rules
+** Dennet - Intuition Pumps
+*** Rapoport's Rules
 
-1) Summarise Your Opponents Position:
+    1) Summarise Your Opponents Position:
 
+    2) List Points of notable agreement:
 
-2) List Points of notable agreement:
+    3) List What has been Learned from Opponent:
 
+    4) Rebuttal or Criticism:
 
-3) List What has been Learned from Opponent:
+**  Pinker:
+   [[https://chronicle.com/article/Why-Academics-Writing-Stinks/148989][Why Academics writing stinks]]
 
+   Clear and Simple as the Truth - Thomas and Turner:
+   romantic, oracular, prophetic, pratical, plain styles
+   male generic writer, female generic reader
+   Classic style. Not using the occasion to sort out what he thinks.
 
-4) Rebuttal or Criticism:
-
-
-
-
-
-----Pinker:
-https://chronicle.com/article/Why-Academics-Writing-Stinks/148989
-
-Clear and Simple as the Truth - Thomas and Turner:
-romantic, oracular, prophetic, pratical, plain styles
-male generic writer, female generic reader
-Classic style. Not using the occasion to sort out what he thinks.
-
-Bad:
-metadiscourse. Use signposts sparingly.
-    contrast "this chapter discusses..." with "What makes..."
-professional narcissism. 
-apologising
-shudder quotes
-hedging: (almost, apparently, comparatively, fairly, in part, nearly,
-partially, predominantly, presumably, rather, relatively, seemingly,
-so to speak, somewhat, sort of, to a certain degree, to some extent,
-and the ubiquitous I would argue.)
-metaconcepts and nominalizations: –ance, –ment, or –ation. (zombie nouns)
+   Bad:
+   metadiscourse. Use signposts sparingly.
+   contrast "this chapter discusses..." with "What makes..."
+   professional narcissism.
+   apologising
+   shudder quotes
+   hedging: (almost, apparently, comparatively, fairly, in part, nearly,
+   partially, predominantly, presumably, rather, relatively, seemingly,
+   so to speak, somewhat, sort of, to a certain degree, to some extent,
+   and the ubiquitous I would argue.)
+   metaconcepts and nominalizations: –ance, –ment, or –ation. (zombie nouns)
 
 
 
-classic style:
-Conversational, so can use 'we'
-better to qualify than hedge.
+   classic style:
+   Conversational, so can use 'we'
+   better to qualify than hedge.
 
+
+** [[https://explorabl.es/jam/][Explorables Jam]]
+   P.S: tips on creating explorables
+   "Make everything bouncy" ~ nicky case
+   "Your scope is too big" ~ chris walker
+   "Start by sketching with pen + paper" ~ matthew conlen
+   "Use hsl for colors; it's easier to pick decent colors than with rgb" ~ amit patel
+   "Use simpler words" ~ pontus granström
+   "Start with almost nothing, then keep making small improvements" ~ jp posma
+   "Explain something to a real person using your explorable as an aid" ~ glen chiacchieri
+
+** [[http://worrydream.com/LadderOfAbstraction/][Up and Down the Ladder of Abstraction]]
+
+** [[http://worrydream.com/ScientificCommunicationAsSequentialArt/][Scientific Communication as Sequential Art]]
+
+
+** [[https://explorabl.es/tools/][Explorable tools]]
+
+
+** [[http://www.complexity-explorables.org/][Complexity Explorables]]
+
+
+** [[http://tomasp.net/coeffects/][Coeffects Explorable]]
+
+** [[http://blogs.lse.ac.uk/impactofsocialsciences/2017/05/17/writing-a-peer-review-is-a-structured-process-that-can-be-learned-and-improved-12-steps-to-follow/][12 Steps for a Review]]
+
+   12 steps to writing a review
+
+   Make sure you have the right expertise (check out our post, Are you the right
+   reviewer?).
+
+   Go to the journal web page to learn any specific instructions for reviewers.
+   Check the manuscript fits in the journal format and the references are
+   standardised (if the editor has not already done so).
+
+   Skim the paper very quickly to get a general sense of it. Underline key words
+   and arguments, and summarise key points. This will help you quickly “tune in”
+   to the paper during the next read.
+
+   Sit in a quiet place and read the manuscript critically (see here for our top
+   12 tips). Make sure you have the tables, figures and references visible. Ask
+   yourself key questions, including: does it have a relevant title and valuable
+   research question? Are key papers referenced? What’s the author’s motivation
+   for the study and the idea behind it? Are the data and tools suitable and
+   correct? What’s new about it? Why does that matter? Are there other
+   considerations?
+
+   Take notes about the major, moderate and minor revisions that need to be
+   made.
+
+   Create a list of things to check. For example, do the referenced studies
+   actually show what is claimed in the paper?
+
+   Assess language and grammar, and make sure it’s a right “fit” for the
+   journal. Does the paper flow – does it have connectivity? Does it have
+   clarity – are the words and structure concise and effective?
+
+   Check previous publications of the authors and of other authors in the field
+   to be sure that the results were not published before.
+
+   Confirm there are no common errors present (see here for common research
+   flaws to watch out for).
+
+   Summarise your notes for the editor (overview, contribution, strengths and
+   weaknesses, acceptability). You can also include the manuscript’s
+   contribution/context for the authors (really just to clarify whether you view
+   it similarly, or not), then prioritise and collate the major revisions and
+   minor/specific revisions into feedback. Try to compile this in a logical way,
+   grouping similar things under a common heading where possible, and numbering
+   them for ease of reference.
+
+   Give specific recommendations for changes in the manuscript that the authors
+   can address. In total you should be looking at a review that’s around two to
+   three pages (four maximum) in length.
+
+   Give your recommendation to the editor.
+** [[https://publons.com/blog/how-to-critically-evaluate-a-manuscript-12-questions-you-should-always-ask-yourself/][12 steps to critically evaluate]]
+
+
+   1. Do you have a conflict of interest when reviewing this paper? Do you
+      collaborate with these authors, are they your personal friends, or are
+      they direct competitors? Have you reviewed (and rejected) this paper
+      before? If so, you need to let the editors know.
+
+   2. Do the title and abstract cover the main aspects of the work, would it spark
+      interest to the right audience?
+
+   3. Is the Introduction easy to follow for most readers of this particular
+      journal? Does it cite the appropriate papers? Does it provide a hypothesis or
+      aim of the study?
+
+   4. Does the Methods section provide enough details for the general reader to
+      repeat the experiments?
+
+   5. If you skip the Methods, does the Results section give the right amount of
+      detail to understand the basic details of the experiments?
+
+   6. Do the Results refer to the figures in a logical order? Do the numbers in the
+      tables add up correctly? Are any figures/tables mislabeled or unclear?
+
+   7. Given the data that was obtained in this study, did the authors perform all
+      the logical analyses? Did they include the proper controls?
+
+   8. Does the Discussion address the main findings, and does it give proper
+      recognition to similar work in this field?
+
+   9. In general, is the paper easy to follow and does it have a logical flow? Are
+      there any language issues?
+
+   10. Did the authors make all their data (e.g. sequence reads, code,
+       questionnaires used) available for the readers?
+
+   11. Is this paper novel and an advancement of the field, or have other people
+       done very similar work?
+
+   12. Finally (and hopefully you will never have to answer yes to any of these
+       questions): Does the paper raise any ethical concerns? Any suspicion of
+       plagiarism (text or experiments), duplicated or tampered images, lack of IRB
+       approval, unethical animal experiments, or "dual use of research concern"?
+** [[https://publons.com/blog/6-common-research-flaws-to-watch-out-for-in-peer-review/][Common flaws of research]]
+
+   1. Inappropriate study design for the study aims
+
+   A study’s design is crucial to obtaining valid and scientifically sound results.
+   Familiarise yourself with those commonly used in your field of research. If you
+   come across an uncommon study design, read the researchers’ use and
+   justification of it carefully, and question how it might affect their data and
+   analysis. Review the study design critically but also remember to be
+   open-minded. Just because something is new and unfamiliar it does not
+   automatically mean it is incorrect or flawed.
+
+   2. Deviating from standard/best practice and methodologies
+
+   Similar to the above. The methods section, for example, should explain the steps
+   taken to produce the results. If these are not clear or you’re left questioning
+   their validity, it’s important to make your concerns known. And if they are
+   unusual then, as with the study design, examine the researchers’ justification
+   carefully with the view to ask more questions if necessary. Nonacademic
+   discourse is another deviation from best practice whereby opinionated and biased
+   statements are used throughout the study.
+
+   3. Over-interpretation of results
+
+   Over-interpretation has no place in research. Ensure the conclusions drawn in
+   the paper are based on the data presented and are not extrapolated beyond that
+   (to a larger population or ecological setting, for example). You should also
+   watch out for studies that focus on seemingly important differences where none
+   exist.
+
+   4. Commenting beyond the scope of the article
+
+   “That’s beyond the scope of this paper” is a common phrase in academic writing.
+   As a reviewer, watch out for papers that include comments or statements not
+   pertaining to the research project and data at hand.
+
+   5. Lack of evidence to support conclusions
+
+   A research paper’s concluding statements must be justified and evidence-based.
+   If you’re not convinced of the results, it could mean the researchers need to
+   clarify aspects of their methodological procedure, add more references to
+   support their claims, or include additional data or further analysis.
+
+   6. Too many words
+
+   A common pain point in manuscripts is that it’s too wordy. It’s important to
+   keep check on this scenario and encourage clear, concise and effective text
+   where possible. Too many words can be distracting for the reader, which at best
+   could cause them to lose interest and at worst could lead to them
+   misinterpreting the research.
+** [[https://jentery.github.io/ts200v2/notes.html][Before you make a thing]]
+*** Theories and Concepts
+
+     Approach technologies as congealed labour; doing so expands what
+     “technology” means and underscores the embodied work and material histories
+     at play from ideation and patenting to manufacturing and maintenance.
+     Technologies are not only things; they are processes, too. (See Mayer;
+     reading optophone; Crawford and Joler.)
+
+     Ask who benefits most from automation and novelty; doing so attends to how
+     planned obsolescence and deskilling affect various groups of people.
+     Automation may increase efficiency or productivity in some areas, but it
+     most certainly shapes craft and changes demands for occupations and forms of
+     expertise. (See Luddites; Crawford and Joler; Pedercini.)
+
+     Recognize when projects aestheticize the politics of their technologies;
+     doing so addresses how values are expressed through design as well as
+     through terms such as “user-friendly,” “fast,” “sleek,” “convenient,” and
+     even “minimalist.” Design may be politics by seemingly apolitical means.
+     (See Parker; McPherson; Crawford and Joler.)
+
+     Engage directly the power of technology; doing so foregrounds how and why a
+     given technology could oppress groups of people, or be used to resist
+     oppression. Technology is not only an object but also a force, and it is
+     entangled with issues of race, gender, sexuality, extraction, and ability.
+     (See Nakamura; Nelson; Case; Pedercini.)
+
+     Examine the “default settings” of technologies; doing so asks for whom, by
+     whom, and under what assumptions they are designed, and who they may exclude
+     and enable. All projects have intended audiences, even if those intentions
+     are not always conscious or deliberate. (See Skawennati; Nelson; Nakamura.)
+
+     Avoid flattening society to a market or venue for products; doing so
+     recognizes how social norms, contexts, and behaviours shape production, too.
+     Society is a generalization and abstraction as well as a situation and
+     practice that influences technologies. (See Hendler; McPherson.)
+
+     Try to locate technologies in their supply chains; doing so addresses their
+     dependencies and conditions of production, not to mention people’s
+     complicity with anonymous materials. Technologies persist within and through
+     vast and complex infrastructures, which are incredibly difficult to study.
+     (See Pedercini; Crawford and Joler; Le Guin.)
+
+     Pair “media” (plural) with “the media” (singular); doing so affords an
+     understanding of the relationships between content and a platform, messages
+     and a network, formats and a venue, communications and an outlet,
+     representation and a system. Media may be windows (through), portals (to),
+     frames (around), links (between), containers (in), addresses (at),
+     negotiations (with), agents (for), and records (of). (See Nakamura; Case;
+     Sullivan et al.; Morgan-Parmett.)
+
+     Note the everyday aspects of technology; doing so stresses the centrality of
+     habits and standards to development. Consider, for instance, how QWERTY
+     shapes your language and writing habits, or how HTTP protocols control the
+     web. Technologies are not only whiz-bang spectacles but also humdrum
+     routines; most of the time, they are rather boring. (See Borges; Bush.)
+
+     Consider parthood alongside forms and wholes; doing so traces the components
+     of technologies in archives and collections as well as in patents and
+     claims. Technologies don’t descend from the sky or spring from the minds of
+     lone inventors; they are assembled and maintained. (See Tennis for Two;
+     phonautograph; Rosner et al.; Parker.)
+
+     Refrain from reducing technologies to only metaphors, experiences, or tech
+     specs, or to only digital or analog processes; doing so acknowledges how
+     talking about technology is entwined with using it, making it, and repairing
+     it. All technical matters are also social and cultural matters. (See
+     McPherson; Rosner et al.; Nakamura.)
+
+     Remember that data are produced, not given or captured; doing so emphasizes
+     how this becomes that, or how data is structured, collected, and expressed
+     for interpretation. (See Greg and Nafus; Crawford and Joler.)
+
+     Read any list like this one with a healthy dose of skepticism. Generosity of
+     interpretation goes a long way, but gaps make bridges possible, and bias
+     fuels advice. What’s missing from the list? How does it communicate? What
+     motivates it? What does it assume? What does it want? How does it reflect a
+     discipline or a moment in time?
+***  Practices
+
+     Experiment across a spectrum of critical work; doing so values both distance
+     and immersion. Try writing about technologies or composing critiques of them
+     while also thinking with and through them. Researchers are not outside what
+     they study, yet they should be aware of and reflect upon their influence and
+     biases. (See Rosner et al.; Sullivan et al.; Morgan-Parmett; Barchas.)
+
+     Ask for permission before working with or circulating materials, and give
+     credit where credit’s due; doing so privileges consent, licensing,
+     attribution, and compensation in the research process. After all, the
+     materials may not be yours to use or share. (See fair dealing; Nelson;
+     Skawennati; Sullivan et al.; Le Guin.)
+
+     Conjecture with affordances; doing so demonstrates how design is relational.
+     It happens between people, environments, and things; it’s not just a quality
+     or property of objects. (See Parker; Barchas; Rosner et al.)
+
+     Produce your own time and space through technologies; doing so may help you
+     to project a world or speculate about one. Space and time are their own sort
+     of media. They act upon us, but we can also compose with them. (See Nelson;
+     Skawennati; Morgan-Parmett; Sullivan et al.)
+
+     Articulate your position on openness; doing so stresses how dissemination is
+     only one step in the production process. For example, open data is useful,
+     but people also need to know where it came from, how it was produced and
+     with whose consent, and how to interpret it. (See black box; Gregg and
+     Nafus; Crawford and Joler; Le Guin.)
+
+     Determine what your project will help people to compile or “re-member”;
+     doing so foregrounds how technologies are agents of memory and forgetting.
+     Through automation and design, they assemble parts, compile components, and
+     refresh files. Or, they keep things found for you. (See Borges; Parker;
+     Bush.)
+
+     Address the ghosts; doing so helps to engage (instead of avoid or discount)
+     the unknowns of your project, including its histories and futures. Even
+     though we may not comprehend or apprehend how they work, technologies alone
+     do not explain the past, solve pressing issues, or fix the future. They are
+     components of social and cultural processes. (See Rosner et al.; Sullivan et
+     al.; Le Guin.)
+
+     Ask yourself where your project will be in ten, twenty, or even fifty years;
+     doing so prompts attention to maintenance and obsolescence. If you want your
+     project to stick around, then facilitate preservation and repair now rather
+     than later. (See Tennis for Two; phonautograph; reading optophone.)
+
+     Where useful, value ephemerality and even magic as media; doing so may
+     increase creativity and/or decrease pressure. Not all ideas, processes, and
+     experiments need to be documented or tracked, and not everything about a
+     project must be rationalized or demystified. (See phonautograph; Sullivan et
+     al.; Barchas; Case.)
+
+     Involve your audience; doing so helps to avoid reducing them to only users
+     or consumers. It may also prompt some informative feedback and needed
+     critique. (See Rosner et al.; Sullivan et al.)
+
+     Don’t reinvent the wheel, and be leery of over-investing in either novelty
+     or failing; doing so may help to bypass the competitive tendencies and
+     attention economics of design and development. Tweaking or customizing an
+     existing technology may afford a lot; it may also reduce scope and feature
+     creep. (See Tennis for Two; phonautograph; Sullivan et al.)
+
+     Make a useless or disinterested version of your project; doing so may
+     underscore the creative and critical dimensions of technology and society.
+     After all, not all technologies must increase productivity or efficiency.
+     Consider the roles of technologies in art, theory, and storytelling. (See
+     Parker; Case.)
+***  Prototyping Techniques
+
+     Paper: Use paper to make a simple version of your project. Changes,
+     especially structural changes, may be easier when you’re working with index
+     cards and pencils. (But sometimes software is indeed easier and/or better.
+     Your call!)
+
+     Patent Search: Search patent databases for wholes and parts corresponding
+     with your project. Many ideas are patented but never mass-manufactured. Also
+     consider common components of patents: title, date (applied and granted),
+     drawing (exploded view, perspective, and section), background (history and
+     motivation), description (what it does), claims (dependent and independent),
+     and name(s) of who filed it.
+
+     2D/3D Translation: Use paper, plasticine, sticks, cardboard, or software to
+     reconstruct a 2D drawing in 3D. Or, use pen, paper, or software to represent
+     a 3D object in 2D. The translation process should give you a sense of how
+     perspective is biased (or limited) as well as how to relate with a given
+     object in time and space.
+
+     Wireframing: Sketch your project’s form and interface without focusing much,
+     if at all, on content. Wireframes provide a good sense of how people may
+     interact with your project, and they don’t require any programming. They are
+     also opportunities to talk about scope and feature creep (before the project
+     is too far along).
+
+     Exploded-View Drawing: Express your project as a constellation of parts and
+     relations. Exploded-view drawings have been used for centuries to
+     demonstrate how things come together.
+
+     Emulation/Migration/Collection: Prototype how your project would be imitated
+     or reproduced with software (emulation), how it would be treated as data or
+     a repository of files (migration), and how it would be preserved as a system
+     of hardware, software, wires, and whatnot (collection). These prototypes may
+     provide a sense of your project’s near future.
+
+     Old/New Media: Make old and new media versions of your project and then
+     compare their affordances. Following Lev Manovich, new media are represented
+     numerically, automated, variable, modular, and transcoded (both
+     computational/technical and cultural).
+
+     Media Survey: Describe your project through a survey of media variously
+     defined. Media may connect but also draw boundaries between this and that.
+     Try describing your project as a window (through), portal (to), frame
+     (around), link (between), container (in), address (at), negotiation (with),
+     agent (for), and record (of). This list isn’t exhaustive, but it’s a start.
+     It may help to articulate a language for your project.
+
+     Index/Icon/Symbol: Render your project as an index (such as data, which
+     points to something), an icon (such as an image that represents an app on
+     your phone), and symbols (such as a tagline of words that produce meaning
+     for people). This approach underscores how your project is not only designed
+     but also communicated.
+
+     Reverse-Engineering: Find a thing resembling your project, take it apart,
+     trace the parts and their histories, and put the thing back together.
+     Document the process and reflect on how it pertains to technology as
+     congealed labour. (You can also have someone else reverse-engineer your
+     project.)
+
+     Personas: Create fictional characters to better understand a past or future
+     scenario for your project. Use the personas to address how such
+     representations are reductive and problematic yet quite common in marketing.
+     You can also use personas to highlight how and why you cannot inhabit the
+     past.
+
+     Force Map: Integrate your personas into a static illustration with a setting
+     (time and place), concerns (expressed by the personas), media (what mediates
+     the concerns and relations between personas), and relations (lines
+     connecting personas and concerns). This map should illustrate your project
+     as a social and material process. It should also reveal what you don’t (yet)
+     know.
+
+     Use Story: Animate your personas and force map by storyboarding a context of
+     use for your project. Try 3-6 panels of content, which may resemble a comic
+     book or graphic novel. Perform and even video-record the storyboard, if you
+     wish. Storyboarding situates otherwise abstract representations (such as
+     exploded-view drawings) and foregrounds the importance of embodied
+     experiences and social relations to project design and development.
+
+     Playtest or Workshop: Circulate your project for feedback. Give groups
+     specific problems or issues on which to focus. Later, conduct another
+     workshop, where you don’t intervene or guide the participants; be a fly on
+     the wall, observe them interacting with your project, and take notes.
+
+     Datification: Prototype your project with data in mind. Cook up a data model
+     (entities, attributes for each entity, and relations between entities), some
+     sample data, and an example of use. For whom is the data produced? By whom?
+     How? Under what assumptions? How transparent is the process? How do people
+     consent to and participate in it? Such prototypes should prompt
+     considerations of control, surveillance, play (or gamification), and labour.
+
+     Dystopia/Utopia: Integrate your datification into two dramatically different
+     scenarios: one where the results are ostensibly positive, and one where the
+     results are ostensibly negative. Articulate why you think the results are
+     positive and negative, and also why technology is even necessary to achieve
+     them.
+
+     Design Brief: Compose a design brief for your prototype. Include your
+     project’s social aim (a specific social issue supported by peer-reviewed
+     research), intended audience (a specific group for whom your project is
+     designed), context (a particular place or situation), core parts (the
+     primary ingredients of your prototype), aesthetics (affordances, or how your
+     prototype engages people), responsibilities (what the project may change or
+     affect, who will be responsible for those changes, and how), and focus (what
+     the project won’t or doesn’t do). Provide example materials, too, such as
+     illustrations, wireframes, photographs, code, video, and/or tactile
+     prototypes. Design briefs are often written by firms and oriented toward
+     clients or customers, but this version is intended to engage the TS 200
+     course material.
+** Flaws of Reasoning
+** Logical Argument
+** Critical Thinking
 

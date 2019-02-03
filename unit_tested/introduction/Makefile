@@ -1,2 +1,0 @@
-all:
-	python tests.py

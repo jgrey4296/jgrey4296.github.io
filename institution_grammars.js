@@ -37,9 +37,9 @@ var grammars = {
                         "If there is a ritual sequence that benefits a disliked group, make it harder by adding a ritual step"],
 
         repealType : ["are multiple constitutive rules that designate individuals in your own role type, repeal one of them#maybeTime#",
-                      "are regulative constraints on an action you enjoy, remove one#maybeTime#"],   
+                      "are regulative constraints on an action you enjoy, remove one#maybeTime#"],
 
-		maybeInnate : ["", "innately", "socially"],                      
+		maybeInnate : ["", "innately", "socially"],
         maybeTime : ["", ", for the next #n# legistlative turns"],
         n : "1 2 3 4 5 6 7 8 9".split(" "),
         maybeReason : ["", " if it will #benefit# the #oldNew# role"],
@@ -54,7 +54,7 @@ var grammars = {
         iguType : ["Democracy", "Council", "Dictatorship", "Overseer", "Judges"],
     },
 
-    
+
     institution : {
         //Inter-usage consistency layers:
         ExpansionLayers: ["institutionColour", "incumbents", "challengers", "field"],
@@ -70,21 +70,21 @@ var grammars = {
         incumbents: "#role# % #role# % #role#",
         challengers : "#role# % #role# % #role#",
         field : "#norm# #norm# and #norm#",
-        
+
         maybeInstitutionPrefix : ["", "#institutionColour#"],
-        
+
         institutionType : ["Church", "Office", "Gang", "Group", "School", "Way", "Cult", "Path", "Control", "Prison", "Breeding", "Monarchy"],
         institutionTarget : [ "#incumbents#", "#challengers#", "#role.s#", "#promotion.capitalize#", "#concept#"],
         institutionName : "The #maybeInstitutionPrefix# #institutionType# of #institutionTarget#",
-        
+
         //IGU Types
         igu: ["Elected Council", "Parliament of Hereditary Peers", "Appointed Council", "Overseer", "Ombudsman", "Judges", "A Warlord", "Representative Council", "Shareholders", "Tyrant", "Referendum"],
 
         //Enforcement
         enforcers : "#incumbents#",
-        enforcement : "Enforcement is carried out by #role.s#, dictated by #incumbents.a#. <p> There is #amnt# corruption in the enforcers.",             
+        enforcement : "Enforcement is carried out by #role.s#, dictated by #incumbents.a#. <p> There is #amnt# corruption in the enforcers.",
 
-        
+
         //Promotion
         promotion : ["ritual combat", "merit in relation to #tasks#", "the favour of superiors", "supplication to ones superiors", "debt", "sacrifice", "examination", "bribery", "threat", "assassination", "murder", "ritual" ,"time", "superiority", "racism", "subgroup membership", "heredity", "enthusiasm"],
         tasks : ["institutional tasks", "personal tasks", "social tasks"],
@@ -107,7 +107,7 @@ var grammars = {
         //Clothing
         clothingAmnt : [ "minimal", "strict", "elaborative", "decorative", "regulated", "required", "optional",
                        "open to interpretation"],
-        
+
         clothingStandards : [ "The clothing standards are #clothingAmnt#. #clothingRules#."],
         clothingRules : ["#clothingRule#, #clothingRule#, and #clothingRule#"],
         clothingTarget : ["Incumbents", "Challengers", "Enforcers", "Leaders",
@@ -116,7 +116,7 @@ var grammars = {
         clothing : ["Hat" ,"Helm", "Coat", "Robe", "Suit", "Boot", "Glove", "Mask", "Right Hand Glove", "Left Hand Glove", "Cape", "Belt", "Trouser", "Skirt", "Miniskirt", "Dress"],
         clothingRule : ["#clothingTarget# #deontic# wear #clothingColour# #clothing.s#"],
 
-        
+
         //For General use:
         role: "Police Criminal Thief Murderer Wife Husband Secretary Commander Civilian Sergeant".split(" "),
         concepts : "#concept#, #concept# and #concept#",
@@ -140,7 +140,7 @@ var grammars = {
 
         //Roles and people - who a norm applies to
         attribute : ["#role#", "#characteristic# people", "#gender#"],
-        
+
         //Deontic statements, with s
         deonticMaybeSanction : ["#deontic#", "#deonticAndSanction#"],
         deontic : ["should #never# #aim# #conditions#",
@@ -188,7 +188,7 @@ var grammars = {
                 "Evening",
                 "#moontype# moon"],
         moontype : ["Full", "Waxing" ,"Waning", "New", "Eclipsed"],
-        
+
         //Conditions
         conditions : ["#if# #condition#",
                       "#if# #condition# and #condition#",
@@ -216,7 +216,7 @@ var grammars = {
                       "#not# been given permission by",
                       "#not# requested permission from",
                      "#not# been forbidden to by"],
-                     
+
         //Actions
         action : ["wave to #attribute#",
                   "buy #items#",
@@ -249,7 +249,7 @@ var grammars = {
 
         workers : ["prostitutes", "labourers", "chefs", "maids", "butlers", "soldiers",
                    "guards", "clerks", "secretaries", "prisoners", "janitors"],
-        
+
         weaveType : ["clothes", "capes", "rugs", "tapestries"],
         paintType : ["portraits", "landscapes", "abstract paintings", "murals", ""],
         withPeople : ["with #attribute#", "with a #relMod##personalRelation#'s #relMod##relation#"],
@@ -260,22 +260,22 @@ var grammars = {
         relation : ["Mother", "Father", "Son", "Daughter", "Sister", "Brother",
                     "Lover", "Lover", "Husband", "Wife", "Ex-Wife"],
         relMod : ["Ex-","Step-", ""],
-                
+
         bookType : [ "", "Religious books" ,"Secular books", "Political books",
                    "Fiction", "Non-Fiction", "Cooking books", "Maps",
-                   "History books", "Foreign books", "Philosophical books"],                   
-        
+                   "History books", "Foreign books", "Philosophical books"],
+
         god : ["God of #godType#", "Gods of #godType#", "Pantheon of #godType#", "Almighty"],
 
         godType : ["Fire", "Water", "the #time#", "#location#", "#items.capitalize#",
-                   "#caste# caste", "#colour#"], 
-        
+                   "#caste# caste", "#colour#"],
+
         constitute : ["#not# be counted among #attribute#",
                       "have the same #properties# as #attribute#"],
 
         properties : ["property rights", "marriage rights", "discrimination rights",
                       "priviledges", "duties"],
-        
+
         constraint : ["less than", "more than", "exactly"],
         numberChildren : ["one child", "#number# children"],
         number : "two three four five six seven eight nine ten".split(' '),
@@ -284,7 +284,7 @@ var grammars = {
                       "be affiliated with #guild#"],
 
         guild : ["The guild of #items.capitalize#"],
-                      
+
     },
 
 
