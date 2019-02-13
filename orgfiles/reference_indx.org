@@ -1,0 +1,29 @@
+* Reference
+** [[file:orgfiles/highPressureSituations.org::*High%20Pressure%20Situations][High Pressure Situations]]                                                     :overview:minimal:reference:list:
+** [[file:orgfiles/master.org::*Master%20Reference%20File%20of%20notes][Master Reference File of notes]]                                               :reference:overview:
+** [[file:orgfiles/ai.org][ai]]                                                                           :reference:
+** [[file:orgfiles/algorithms.org][algorithms]]                                                                   :reference:
+** [[file:orgfiles/assets.org::*Assets][Assets]]                                                                       :reference:
+** [[file:orgfiles/imageComments.org::*Image%20Comments][Image Comments]]                                                               :latex:reference:
+** [[file:orgfiles/nlp.org::*%20Natural%20Language%20Processing:][Nlp]]                                                                          :nlp:reference:
+** [[file:orgfiles/notebook_notes.org::*Cleaned%20Notebook%20notes][Cleaned Notebook notes]]                                                       :gibberish:reference:
+** [[file:orgfiles/patterns.org][patterns]]                                                                     :reference:design:
+** [[file:orgfiles/probability.org::*Probability][Probability]]                                                                  :reference:
+** [[file:orgfiles/scratch.org][scratch]]                                                                      :reference:obselete:
+** [[file:orgfiles/stats.org][stats]]                                                                        :reference:
+** [[file:orgfiles/vectorMath.org][vector math]]                                                                  :reference:
+** [[file:orgfiles/writing.org::*Argumentation][Argumentation]]                                                                :reference:
+** [[file:orgfiles/blender.org::*Blender][Blender]]                                                                      :reference:minimal:
+** [[file:orgfiles/emacs.org::*%20Emacs][Emacs]]                                                                        :reference:
+** [[file:orgfiles/quests.org][Quests]]                                                                       :reference:
+** [[file:orgfiles/links.org][General Web Links:]]                                                           :reference:
+** [[file:orgfiles/john_Lambert_security_tweets.org][john lambert security tweets]]                                                 :reference:security:
+** [[file:orgfiles/culturalAntroNotes.org::*Cultural%20Anthropology%20notes][Cultural Anthropology notes]]                                                  :reference:examples:some_work_done:social_science:
+** [[file:orgfiles/extracts.org][Extracts]]                                                                     :large_quotes:fiction:examples:reference:
+** [[file:orgfiles/extractsDiscussion.org::*Discussion%20on%20Various%20different%20examples%20of%20interesting%20behaviour][Discussion on Various different examples of interesting behaviour]]            :reference:examples:fiction:
+** [[file:orgfiles/socialStructures.org::*Social%20Structure%20Notes][Social Structure Notes]]                                                       :reference:examples:minimal:
+** [[file:orgfiles/tribeDescriptions.org::*Tribe%20Descriptions][Tribe Descriptions]]                                                           :examples:reference:some_work_done:
+** [[file:orgfiles/rpsNotes.org::*Rock%20Paper%20Shotgun][Rock Paper Shotgun]]                                                           :reference:examples:games:
+** [[file:orgfiles/usefulLinks.org::*Useful%20Links][Useful Links]]                                                                 :examples:reference:minimal:
+** [[file:orgfiles/sunlessSeaNotes.org][Sunless Sea / Fallen london]]                                                  :reference:examples:minimal:analysis:
+** [[file:orgfiles/workedExamples.org::*Worked%20examples%20of%20institutions][Worked examples of institutions]]                                              :some_work_done:examples:writing:reference:

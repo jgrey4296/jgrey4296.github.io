@@ -1,0 +1,78 @@
+* TODO [[file:SocialSituationNotes.org::*Social%20Situations][Social Situations]]
+** TODO
+   Datasets
+** [[file:programNotes.org::*Program%20notes][Program notes]]
+** TODO Unit Testing of writing?
+   If i annotate sections with meta-data, I could write a unit testing framework for documents
+   that looks for particular regexs, tags, sequences, headings etc.
+
+   Such as (using chai like notation):
+   document.should.have.a.section('background')
+   document.should.mention('fligstein')
+   document.section('background').should.mention('bourdieu')
+   document.should.have.a.greaterthan.length('10 pages');
+   
+   document.section('introduction').should.precede.section('background')
+   document.section('introduction').should.mention('research questions')
+   document.section('introduction').should.have.subsections(3)
+** TODO Layered Architecture
+   <2017-03-29 Wed>
+   CiF has layers but not constitutive rules
+   Versu has constitutive rules, fsms, but only one layer
+
+   There are different combinations of:
+   constitutive rules,
+   aggregations
+   scaling,
+   selection
+
+   That can be applied in different layers. What would the architecture be for that?
+** TODO Heuristic Ranking
+   Heuristically compared red/black tree, 
+   assumes a single, consistent, complete ordering.
+
+   RB Tree helps minimise the number of comparisons the user has to perform.
+   
+   should be able to adjust values by shifting them in relation to neighbours,
+   in ways similar to the Voronoi Beach Line.
+
+   intersecting tags to determine exclusion?
+
+   selecting societal elements from a pool?
+** TODO Soundscape generation
+   combined or separate from streetgen,
+   supercollider mixing of various samples, 
+   structure out into: background, midground, foregground.
+** TODO Shell Node MetaGraph
+   node/event/state/fsm/instance/rule,
+   all with inputs, and outputs
+
+   Rules: conditions can test on any other morphism?
+   how would that be encoded in EL?
+   .x.y.[instance].$id.name.$x?
+
+   instance semantics?
+   to select a particular concept: .person
+   to select an instance of a concept: .person(instance)?
+   instance of an instance? 
+
+   modal morphism operators?
+   types of rule: instance -> existence -> ground?
+
+   instance, exclusion, transition, condition, action, rule, instantial structure
+   existence, ground.
+
+** TODO the state and individual stakes
+   the state as an automatic link from an individual to supreme
+   authority you have a say in
+
+** [[file:softwarePossibilities.org::*Software%20Possibilities][Software Possibilities]]
+** TODO [[file:webLinks.org::*Web%20Links%20of%20interest%20from%20bookmarks][Web Links of interest from bookmarks]]
+** [[file:ipad_summary.org::*IPad%20Documents][IPad Documents]]
+** [[file:naturalLanguageGrammar.org::*Natural%20Language%20Grammar][Natural Language Grammar]]
+** [[file:behaviourErrors.org::*Typology%20of%20Behaviour%20Errors][Typology of Behaviour Errors]]
+** [[file:shellAndModalSystems.org::*The%20Authoring%20Shell%20and%20Modal%20Systems][The Authoring Shell and Modal Systems]]
+** TODO [[file:typewriter.org::*Typewritten%20Notes][Typewritten Notes]]
+** TODO Things to implement
+*** Netlogo simulations
+** TODO [[file:physicalBooks.org::*Physical%20Books][Physical Books]]

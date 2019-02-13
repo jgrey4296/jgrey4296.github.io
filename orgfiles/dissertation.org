@@ -1,0 +1,66 @@
+*  Dissertation
+** Prior Work and Context
+   Sociology/ Anthropology / Ethnology
+   Economics
+   Critical Theory
+   AI and MAS
+   Computational Media
+
+   Identification of Hole in Literature:
+
+** Methodology
+   Phenomenology and Grounded Theory
+   Inhabited Institutions
+   Computational Media and code studies
+
+   Resulting Methodology:
+
+** Existing in the World
+   Fiction
+   Non-Fiction
+   Theory
+   Computational
+
+   Result: Dataset
+
+** Pre-formal Theory
+   Analysis of existing forms and examples
+   Source Code Analysis
+   Grounded Theory Coding
+
+   Result:
+
+** Formal Calculus
+   Delegation Logic, Monads, Exclusion logic,
+   Temporal Calculus etc
+
+   Result:
+
+** Computational Implementation
+   consideration of Cif, Versu, Rete, Neural Networks, haskell, monad transformers
+   Tidal and ChuCk, Meta/Reflective towers, MOISE
+
+   result: python layered DSL Production System, temporal, reflective, typed? modular
+
+** Authoring / UX Considerations
+   WebShell, prior authoring programs, programming, netlogo,
+   user interfaces, live coding
+   emacs, spacemacs
+
+** Resulting Experiences
+   city map, newspaper, soundscape, vault, street, bot?
+
+   Result:
+
+** Rebuttal of Criticisms
+   Games criticisms
+   Theory criticisms
+   Engineering criticisms
+
+** Reflection
+** Title
+** Introduction
+** Abstract
+
+
+
