@@ -1,0 +1,704 @@
+*  Taxonomies
+
+** Ostrom Taxonomy of Rules
+
+   | Rule Type       | Description                                                        |
+   |-----------------+--------------------------------------------------------------------|
+   | Position        | determine roles actors are assigned to                             |
+   | Demarcation     | regulate qualifications to enter or leave positions                |
+   | Decision making | how decisions are to be made                                       |
+   | Choice          | define whichactors may or may not act in an arena                  |
+   | Information     | determine amount and importance of information available to actors |
+   | payoff          | specify rewards and sanctions linked to actions and outcomes       |
+   | Scope           | delimit outcomes                                                  |
+
+
+** Propp's story functions
+
+   | Story Function | Description |
+   |----------------+-------------|
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+   |                |             |
+
+
+
+
+** Lehnerts Plot Units
+
+   | Plot unit | Type     |
+   |-----------+----------|
+   |           | Positive |
+   |           | Negative |
+   |           | Mental   |
+   |           |          |
+
+
+** Grimmelmann's Taxonomy of Moderation
+   mentioned in Klonick : The New Governors: The people, rules and processes
+   governing online speech
+
+   | Type                        | Description |
+   |-----------------------------+-------------|
+   | Automatic / Manual          |             |
+   | Transparent / Secret        |             |
+   | Ex Ante / Ex Post           |             |
+   | Centralized / Decentralized |             |
+
+
+** [[https://casrai.org/credit/][CRediT Contributor Taxonomy]]
+   
+
+** Grammar Smells
+   In Stiljaart and Zaytsev: Towards a taxonomy of Grammar Smells
+
+   | High level    | Mid level        | Description |
+   |---------------+------------------+-------------|
+   | Organisation: |                  |             |
+   |---------------+------------------+-------------|
+   | Convention    | Misformat        |             |
+   |               | Misnomer         |             |
+   |               | SayMyName        |             |
+   |               | ZigZag           |             |
+   |               | Splat            |             |
+   | Notation      | Underuse         |             |
+   |               | Overspec         |             |
+   |               | Priorities       |             |
+   |               | Singleton        |             |
+   |               | Combo            |             |
+   |               | Chant            |             |
+   |               | Deprecated       |             |
+   |               | Exotic           |             |
+   | Parsing       | Factoring        |             |
+   |               | 1SidedRecusion   |             |
+   |               | Superset         |             |
+   |               | Shotgun          |             |
+   |               | NoDefault        |             |
+   |               | Action           |             |
+   | Duplication   | Echo             |             |
+   |               | Clone            |             |
+   |               | Foldable         |             |
+   |               | Common           |             |
+   |               | Permuted         |             |
+   |               | Lookalike        |             |
+   |---------------+------------------+-------------|
+   | Navigation:   |                  |             |
+   |---------------+------------------+-------------|
+   | Spaghetti     | Uncluster        |             |
+   |               | Unsequence       |             |
+   |               | StartInTheMiddle |             |
+   | Shortage      | AlmostAlphbet    |             |
+   |               | ConfusingEntry   |             |
+   |               | Dead             |             |
+   |               | Bottom           |             |
+   |               | Debt             |             |
+   | Mixture       | BadLayout        |             |
+   |               | Preprocessor     |             |
+   |---------------+------------------+-------------|
+   | Structure:    |                  |             |
+   |---------------+------------------+-------------|
+   | Proxy         | Chain            |             |
+   |               | Throwaway        |             |
+   |               | Weak             |             |
+   |               | Ghost            |             |
+   |               | Multitool        |             |
+   | Dependency    | Diamond          |             |
+   |               | Rivalry          |             |
+   |               | Ouroboros        |             |
+   |               | Soulmates        |             |
+   |               | Spillover        |             |
+   |               | Mythic           |             |
+   | Complexity    | TooWide          |             |
+   |               | TooRamose        |             |
+   |               | TooRecursive     |             |
+   |               | TooNested        |             |
+   |               | TooTall          |             |
+   |               | Lonely           |             |
+   |               | TooModular       |             |
+   |               | Greedy           |             |
+   |               | Lazy             |             |
+   |               | TooCoupled       |             |
+   
+** Taxonomy of PCG
+   In Yannakakis and Togelius: "Artificial Intelligence and Games"
+
+   | Type    | Sub-Type                                 | Description |
+   |---------+------------------------------------------+-------------|
+   | Content | Necessary v Optional                     |             |
+   |---------+------------------------------------------+-------------|
+   | Methods | Stochastic v Deterministic               |             |
+   |         | Controllable vs Non-Controllable         |             |
+   |         | Constructive vs Generate and Test        |             |
+   |---------+------------------------------------------+-------------|
+   | Roles   | Autonomy vs Mixed-Initiative             |             |
+   |         | Experience Agnostic vs Experience-driven |             |
+   
+
+** Judgment Aggregation Rules
+   In Lang, Pigozzi Slavkovik et al: "A Partial Taxonomy of Judgment aggregation
+   rules and their properties"
+
+   | Type                          | Rule                   | Description |
+   |-------------------------------+------------------------+-------------|
+   | Majoritarian                  | Maximal Condorcet      |             |
+   |                               | Maxcard Condorcet      |             |
+   |-------------------------------+------------------------+-------------|
+   | Weighted Majoritarian         | Median                 |             |
+   |                               | Ranked Agenda Rule     |             |
+   |                               | Leximax                |             |
+   |-------------------------------+------------------------+-------------|
+   | Elementary Change in Profiles | Young                  |             |
+   |                               | Minimal Profile Change |             |
+   |-------------------------------+------------------------+-------------|
+   | Pseudo-distances              | Hamming                |             |
+   |                               | Geodesic               |             |
+   |-------------------------------+------------------------+-------------|
+   | Scoring                       | MED                    |             |
+   |                               | Borda                  |             |
+   |                               | Entailment             |             |
+   |                               | Disjoint Entailment    |             |
+   |                               | Minimal Entailment     |             |
+   |                               | Irreducible Entailment |             |
+   |-------------------------------+------------------------+-------------|
+
+
+** Reputation System Taxonomy
+   In Hendrikx, Bubendorfer, Chard "Reputation systems: A Survey and Taxonomy"
+
+   | Type     | Structure        | SubStructure        | Description |
+   |----------+------------------+---------------------+-------------|
+   | Implicit |                  |                     |             |
+   |----------+------------------+---------------------+-------------|
+   | Explicit | History          | Personal            |             |
+   |          |                  | Global              |             |
+   |          | Context          | Single              |             |
+   |          |                  | Multiple            |             |
+   |          |                  | Attribute           |             |
+   |          | Collection       | Direct Experience   |             |
+   |          |                  | Direct Observation  |             |
+   |          |                  | Indirect Individual |             |
+   |          |                  | Indirect Group      |             |
+   |          |                  | Derived             |             |
+   |          | Representation   | Binary              |             |
+   |          |                  | Discrete            |             |
+   |          |                  | Continuous          |             |
+   |          |                  | String              |             |
+   |          |                  | Vector              |             |
+   |          | Aggregation      | Counting            |             |
+   |          |                  | Discrete            |             |
+   |          |                  | Probabilistic       |             |
+   |          |                  | Fuzzy               |             |
+   |          |                  | Flow                |             |
+   |          | Entities         | Individual          |             |
+   |          |                  | Group               |             |
+   |          | Presence         | Online              |             |
+   |          |                  | Partial             |             |
+   |          |                  | Offline             |             |
+   |          | Governance       | Centralized         |             |
+   |          |                  | Distributed         |             |
+   |          | Fabric           | Structured          |             |
+   |          |                  | Unstructured        |             |
+   |          | Interoperability | Open                |             |
+   |          |                  | Closed              |             |
+   |          | Controllable     | Incentives          |             |
+   |          |                  | Rules               |             |
+   |          | Evaluation       | Holistic            |             |
+   |          |                  | Atomistic           |             |
+   |          | Data Filtering   | None                |             |
+   |          |                  | Recent Subset       |             |
+   |          |                  | Selected Subset     |             |
+   |          | Data Aging       | None                |             |
+   |          |                  | Decay               |             |
+   |          |                  | Death of Old        |             |
+   |          |                  | Death of Selected   |             |
+   
+
+** Group Norm Taxonomy
+   In Aldewereld, Dignum and Vasconcelos "Group Norms for Multi-Agent Organisations"
+
+   |                | Individual                 | Representative               | Collective                     |
+   |                | Responsibility             | Responsibility               | Responsibility                 |
+   |----------------+----------------------------+------------------------------+--------------------------------|
+   | Individual     | Role based spec            | "Employees are obliged       | "Every child must clean        |
+   | Actorship      | "PC members are            | to do task, but if task      | his/her worktable,             |
+   |                | obliged to return reviews" | goes wrong blame management" | otherwise the whole            |
+   |                |                            |                              | class will miss morning break" |
+   |----------------+----------------------------+------------------------------+--------------------------------|
+   | Representative | "Group leader must submit  | "Every meeting out to have   | "The child who broke the       |
+   | Actorship      | report by 12pm, otherwise  | public minutes. The chairman | flowerpot must confess,        |
+   |                | each student in the group  | is responsible for minutes   | otherwise the whole class      |
+   |                | fails the course"          | being taken by the           | will miss morning break."      |
+   |                |                            | secretary"                   |                                |
+   |----------------+----------------------------+------------------------------+--------------------------------|
+   | Collective     | "Groups of more than 3     | "All PhD students must       | "All children must clean the   |
+   | Actorship      | children are not allowed   | pack the supervisors stuff   | classroom together, or the     |
+   |                | to enter the shop          | for the move, or the         | whole class will miss morning  |
+   |                | together"                  | supervisor will be blamed."  | break."                      |
+   
+
+** An AI Pattern Language
+   Elish and Hwang
+
+   | Challenge                | Pattern                | Description |
+   |--------------------------+------------------------+-------------|
+   | Assuring Users           | Show the man           |             |
+   | Perceive Good Intentions | behind the curtain     |             |
+   |                          |                        |             |
+   |                          | Open Up the Black Box  |             |
+   |                          |                        |             |
+   |                          | Demonstrate fair       |             |
+   |                          | and equal treatment    |             |
+   |--------------------------+------------------------+-------------|
+   | Protecting Privacy       | Data security is       |             |
+   |                          | foundational           |             |
+   |                          |                        |             |
+   |                          | Establish a catch      |             |
+   |                          | and release data       |             |
+   |                          | pattern                |             |
+   |                          |                        |             |
+   |                          | Tailor Expectations    |             |
+   |                          | to context             |             |
+   |                          |                        |             |
+   |                          | Be Patient             |             |
+   |                          |                        |             |
+   |                          | Ignore the anxiety     |             |
+   |                          | around privacy         |             |
+   |--------------------------+------------------------+-------------|
+   | Establishing Successful  | Ask: Who is being made |             |
+   | and long term adoption   | the hero?              |             |
+   |                          |                        |             |
+   |                          | Plan for the role of   |             |
+   |                          | HR                     |             |
+   |--------------------------+------------------------+-------------|
+   | Demonstrating Accuracy   | Explain the conditions |             |
+   | and reliability          | of accuracy            |             |
+   |                          |                        |             |
+   |                          | Prove success by       |             |
+   |                          | showing failure        |             |
+   |                          |                        |             |
+   |                          | Establish a baseline   |             |
+
+
+
+
+
+** Classifying Sanctions
+   Nardin, Balke-Visser, Ajmeri et al in "Classifying Sanctions and designing
+   a conceptual sanctioning process model for socio-technical systems"
+
+   | Type           | Sub-type       | Modality       | Description |
+   |----------------+----------------+----------------+-------------|
+   | Purpose        | Influence      | Punishment     |             |
+   |                |                | Reward         |             |
+   |                |                |                |             |
+   |                | Performance    | Incapacitation |             |
+   |                |                | Guidance       |             |
+   |                |                | Enablement     |             |
+   |----------------+----------------+----------------+-------------|
+   | Issuer         | Formal         |                |             |
+   |                | Informal       |                |             |
+   |----------------+----------------+----------------+-------------|
+   | Locus          | Self-Directed  |                |             |
+   |                | Other-Directed |                |             |
+   |----------------+----------------+----------------+-------------|
+   | Mode           | Direct         |                |             |
+   |                | Indirect       |                |             |
+   |----------------+----------------+----------------+-------------|
+   | Polarity       | Positive       |                |             |
+   |                | Negative       |                |             |
+   |----------------+----------------+----------------+-------------|
+   | Discernibility | Noticeable     |                |             |
+   |                | Unnoticeable   |                |             |
+   
+
+
+
+
+
+** Ostrom ADICO
+
+   | Type       | Description |
+   |------------+-------------|
+   | Attributes |             |
+   | Deontic    |             |
+   | Aim        |             |
+   | Conditions |             |
+   | Or Else    |             |
+   
+
+** Davidsson Taxonomy of Artificial Societies
+   Mentioned in Sebastia "A Framework for Norm Monitoring on Dynamic
+   Electronic Institutions"
+
+   | Type        | Description |
+   |-------------+-------------|
+   | Open        |             |
+   | Closed      |             |
+   | Semi-Closed |             |
+   | Semi-Open   |             |
+   
+
+** Suppression across different rule scenarios
+   In "The Empiricists Insurgency", Bermand and Matanock
+
+   | Opponent(Examples)     | Rule Scenario       | Information   | Government |
+   |                        |                     | requirement   | seeks      |
+   |------------------------+---------------------+---------------+------------|
+   | Boers in South Africa  | No Rules            | Target/Coerce | Security   |
+   | Taliban in Afghanistan | Rules of Engagement | Target        | Security   |
+   | Gangs in US            | Rule of Law         | Prosecute     | Welfare    |
+
+
+** The State of the Art in Visualising Group Structures in Graphs
+   Vehlow, Beck and Weiskopf
+
+   | Type         | Description |
+   |--------------+-------------|
+   | Visual node  |             |
+   | attributes   |             |
+   |              |             |
+   | juxtaposed   |             |
+   |              |             |
+   | superimposed |             |
+   |              |             |
+   | embedded     |             |
+   
+
+
+** Searle Speech Acts
+
+   | Type        | Description |
+   |-------------+-------------|
+   | Assertive   |             |
+   | Directive   |             |
+   | Commissive  |             |
+   | Expressive  |             |
+   | Declarative |             |
+   
+
+** AI Based Game Design Patterns
+   Treanor, Zook, Eladhari et al
+
+   | Pattern          | What Players do            | Role of AI                     | Examples           |
+   |------------------+----------------------------+--------------------------------+--------------------|
+   | AI is Visualized | Observe AI State           | Give information               | Third Eye Crime    |
+   | AI as Role Model | Imitate AI                 | Show agent actions             | Spy Party          |
+   | AI as Trainee    | Teach AI                   | Child/Student                  | Black and White    |
+   | AI is Editable   | Edit AI                    | Manipulable Artifact           | Galactic Arms Race |
+   | AI is Guided     | Guide/Manage AI            | Partly independent inhabitants | The Sims           |
+   | AI as Co-creator | Make artifacts with AI     | Co-creator, making artifacts   | ViewPoints AI      |
+   | AI as Adversary  | Play game against opponent | Opponent                       | Chess, Go          |
+   | AI as Villain    | Combat the Villain         | Villain in game, NPC           | Alien Isolation    |
+   | AI as Spectacle  | Observe                    | Enact simulated society        | Nowhere            |
+   
+** A Panorama of Artificial and Computational Intelligence in Games
+   Yannakakis and Togelius
+
+   | Type | Description |
+   |------+-------------|
+   |      |             |
+   |      |             |
+   |      |             |
+   |      |             |
+   |      |             |
+   |      |             |
+   |      |             |
+   |      |             |
+   |      |             |
+   
+
+** Procedural Content Generation in Games
+   Shaker, Togelius, Nelson
+
+   | Type                                    | Description |
+   |-----------------------------------------+-------------|
+   | Online v Offline                        |             |
+   | Necessary v Optional                    |             |
+   | Degree and Dimensions of Control        |             |
+   | Generic versus adaptive                 |             |
+   | Stochastic versus deterministic         |             |
+   | Constructive versus generate and test   |             |
+   | Automatic generation v mixed authorship |             |
+   
+
+** Brown and Levinson (1987) Social Politeness
+   In IMMERSE Final report
+
+
+
+
+** Wodak The Politics of Fear
+
+   The Political Field:
+   | Fields of Action                        | Political SubGenres                  | Description |
+   |-----------------------------------------+--------------------------------------+-------------|
+   | Lawmaking Procedure                     | Law                                  |             |
+   |                                         | Bill                                 |             |
+   |                                         | Amendment...                         |             |
+   |-----------------------------------------+--------------------------------------+-------------|
+   | Formation of Public                     | Press Release                        |             |
+   | Attitudes, Opinions                     | Interview..                          |             |
+   | and Will                                |                                      |             |
+   |-----------------------------------------+--------------------------------------+-------------|
+   | Party-Internal Formation                | Party Programme                      |             |
+   | of Attitudes, Opinions                  | Declaration...                       |             |
+   | and Will                                |                                      |             |
+   |-----------------------------------------+--------------------------------------+-------------|
+   | Inter-party formation of                | Coalition Negotiation                |             |
+   | Attitudes, Opinions and Will            | Coalition programme...               |             |
+   |-----------------------------------------+--------------------------------------+-------------|
+   | Organization of Internation/Inter-State | Speech on occasion of state visit... |             |
+   | Relations                               |                                      |             |
+   |-----------------------------------------+--------------------------------------+-------------|
+   | Political Advertising                   | Election Programme                   |             |
+   |                                         | Election Slogan...                   |             |
+   |-----------------------------------------+--------------------------------------+-------------|
+   | Political Executive and Admin           | Decisions,                           |             |
+   |                                         | Chanellors Speech...                 |             |
+   |-----------------------------------------+--------------------------------------+-------------|
+   | Political Control                       | Declaration of Opposition Party...   |             |
+   |-----------------------------------------+--------------------------------------+-------------|
+   |                                         |                                      |             |
+   | Misc:                                   | Speeches                             |             |
+   |                                         | Election Rallies                     |             |
+   |                                         | TV Debates                           |             |
+   |                                         | TV Interviews                        |             |
+   |                                         | Posters                              |             |
+   |                                         | Leaflets                             |             |
+   |                                         | Comics                               |             |
+   |                                         | Facebook                             |             |
+   |                                         | Homepages                            |             |
+   |                                         | Election Manifestos                  |             |
+   |                                         | Songs                                |             |
+   |                                         | Slogans                              |             |
+   |                                         | Debates in Parliament etc            |             |
+   
+   Aristotle's Taxonomy of Argumentation
+   | Type          | Description |
+   |---------------+-------------|
+   | Definition    |             |
+   | Species       |             |
+   | Genus         |             |
+   | Comparison    |             |
+   | Similarity    |             |
+   | Difference    |             |
+   | The Part      |             |
+   | The Whole     |             |
+   | Authority     |             |
+   | Examples      |             |
+   | Analogy       |             |
+   | Opposites     |             |
+   | Syllogism     |             |
+   | Consequential |             |
+   | Cause         |             |
+   
+   Topos of Right wing populist rhetoric
+   | Type        | Warrant |
+   |-------------+---------|
+   | People      |         |
+   | Usefulness  |         |
+   | Uselessness |         |
+   | Threat      |         |
+   | Burden      |         |
+   | Finance     |         |
+   | Reality     |         |
+   | Numbers     |         |
+   | Saviour     |         |
+   | History     |         |
+   
+** Systems Engineering (taxonomy of knowledge types)
+   Moser
+   
+   Andersons Taxonomy of Knowledge Types (modified)
+   | Knowledge  | Definition                                            | Example |
+   | type       |                                                       |         |
+   |------------+-------------------------------------------------------+---------|
+   | Factual    | Terminology, details, elements                        |         |
+   | Conceptual | Classifications, principles, models                   |         |
+   | Procedural | Techniques, methods                                   |         |
+   | Relational | Relations within and between field-specific knowledge |         |
+
+   | Cognitive Process | Definition | Example |
+   |-------------------+------------+---------|
+   | Remember          |            |         |
+   | Understand        |            |         |
+   | Apply             |            |         |
+   | Analyse           |            |         |
+   | Evaluate          |            |         |
+   | Create            |            |         |
+   
+*** TODO Return to for Activity Theory
+
+** Imaginary Soundscapes: The SoDA Project
+   
+** Towards a Theory of Delegation for Agent Based Systems
+   Castelfranchi and Falcone
+
+   | Type       | Description |
+   |------------+-------------|
+   | Delegation |             |
+   | Adoption   |             |
+   | Contract   | Strict Delegation requires Strict Adoption |
+   |            |             |
+   
+
+   Delegation:
+   |                 | Unilateral          | Acceptance-based          |
+   |-----------------+---------------------+---------------------------|
+   |                 | (weak delegation)   |                           |
+   | by Exploitation | no mutual belief    | mutual belief             |
+   |                 | passive achievement | passive achievement       |
+   |-----------------+---------------------+---------------------------|
+   |                 | (mild delegation)   |                           |
+   | by Induction    | no mutual belief    | mutual belief             |
+   |                 | active achievement  | active achievement        |
+   |-----------------+---------------------+---------------------------|
+   |                 |                     | (Strict delegation)       |
+   | by Agreement    |                     | mutual belief and         |
+   |                 |                     | mutual active achievement |
+
+   
+   Adoption:
+   |                | Unilateral          | Acceptance Based          |
+   |----------------+---------------------+---------------------------|
+   | by Spontaneous | (Weak Adoption)     |                           |
+   | Initiative     | No mutual belief,   | mutual belief,            |
+   |                | passive achievement | passive achievement       |
+   |----------------+---------------------+---------------------------|
+   | by Agreement   |                     | (Strict Adoption)         |
+   |                |                     | mutual belief             |
+   |                |                     | mutual active achievement |
+
+   By Specification of Task
+   | Type                  | Description |
+   |-----------------------+-------------|
+   | Open                  |             |
+   | Closed                |             |
+   | Partial               |             |
+   | Distributed           |             |
+   |-----------------------+-------------|
+   | Domain                |             |
+   | Meta                  |             |
+   |-----------------------+-------------|
+   | Sub-Delegation        |             |
+   |                       |             |
+   |-----------------------+-------------|
+   | Delegation of Control |             |
+   
+   Levels of Adoption of task
+   | Type                | Description |
+   |---------------------+-------------|
+   | Literal Help        |             |
+   | Overhelp            |             |
+   | Critical Help       |             |
+   | Critical Overhelp   |             |
+   | Hyper-critical Help |             |
+
+   Level of Agency
+   | Type        | Description |
+   |-------------+-------------|
+   | Performance |             |
+   | Planning    |             |
+   | Goal        |             |
+
+   Agent Modeling
+   | Type                             | Description                             |
+   |----------------------------------+-----------------------------------------|
+   | Ability                          | Class / Universal / Personal Competence |
+   | Reliability                      |                                         |
+   | Previous experience of behaviour |                                         |
+   | Communication                    |                                         |
+   | Attributions to category or role |                                         |
+   | Trust                            |                                         |
+   
+   Conflict
+   | Type                                         | Description |
+   |----------------------------------------------+-------------|
+   | Due to contractors sub-help                  |             |
+   | Due to Contractor's over/critical/hyper help |             |
+   |                                              |             |
+   |----------------------------------------------+-------------|
+   | Lack of Coordination                         |             |
+   | Disagreement about action results            |             |
+   | Role and Status                              |             |
+   |                                              |             |
+   |----------------------------------------------+-------------|
+   | Over Task Specification                      |             |
+   
+** TODO Castelfranchi's Taxonomy of Social Action
+
+** TODO Weber's Types of Bureaucracy 
+   
+
+
+** Typology of Consumption Practices
+   Douglas Holt "How Consumers Consume: A Typology of Consumption Practices"
+
+   
+   |           |                       | Purpose of Action |                      |
+   |-----------+-----------------------+-------------------+----------------------|
+   |           |                       | Autotelic Actions | Instrumental Actions |
+   |-----------+-----------------------+-------------------+----------------------|
+   | Structure | Object Actions        | Experience        | Integration          |
+   | of Action | Interpersonal Actions | Play              | Classification       |
+   
+** McGrath's Typology of Tasks
+   In Straus 'Testing a Typology of Tasks: An Empirical Validation of McGrath's
+   Group Task Circumplex"
+
+   |                    | Cog-Beh     | Collaborate-     | Gen-Execute       |
+   |                    |             | Coordinate       | Choose-Negotiate  |
+   |                    |             | Conflict-Resolve |                   |
+   |--------------------+-------------+------------------+-------------------|
+   | Creativity         | Cognitive   | Collaborate      | Choose-Generate   |
+   | Planning           | Behavioural | Collaborate      | Execute-Generate  |
+   | Psychomotor        | Behavioural | Coordinate       | Execute-Generate  |
+   | Contests           | Behavioural | Coordinate       | Execute-Negotiate |
+   | Mixed Motive       | Behavioural | Conflict-Resolve | Negotiate-Execute |
+   | Cognitive Conflict | Cognitive   | Conflict-Resolve | Negotiate-Choose  |
+   | Judgement          | Cognitive   | Coordinate       | Choose-Negotiate  |
+   | Intellective       | Cognitive   | Coordinate       | Choose-Generate   |
+   
+** TODO Typology of Sociotechnical Transition Pathways
+   Geels and Schot
+
+
+
+** Four Types of Moral Wriggle Room
+   Spiekermann
+
+   | Manipulate information | Target Own             | Target others'             |
+   | about...               | Beliefs                | Beliefs                    |
+   |------------------------+------------------------+----------------------------|
+   | action-facts           | Strategic Ignorance    | Hiding behind a small cake |
+   | norm-facts             | Biased Norm Perception | ?                          |
+   
+
