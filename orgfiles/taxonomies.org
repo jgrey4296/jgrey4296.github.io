@@ -12,7 +12,6 @@
    | payoff          | specify rewards and sanctions linked to actions and outcomes       |
    | Scope           | delimit outcomes                                                  |
 
-
 ** Propp's story functions
 
    | Story Function | Description |
@@ -51,7 +50,6 @@
 
 
 
-
 ** Lehnerts Plot Units
 
    | Plot unit | Type     |
@@ -60,7 +58,6 @@
    |           | Negative |
    |           | Mental   |
    |           |          |
-
 
 ** Grimmelmann's Taxonomy of Moderation
    mentioned in Klonick : The New Governors: The people, rules and processes
@@ -73,9 +70,7 @@
    | Ex Ante / Ex Post           |             |
    | Centralized / Decentralized |             |
 
-
 ** [[https://casrai.org/credit/][CRediT Contributor Taxonomy]]
-   
 
 ** Grammar Smells
    In Stiljaart and Zaytsev: Towards a taxonomy of Grammar Smells
@@ -146,7 +141,7 @@
    |               | Greedy           |             |
    |               | Lazy             |             |
    |               | TooCoupled       |             |
-   
+
 ** Taxonomy of PCG
    In Yannakakis and Togelius: "Artificial Intelligence and Games"
 
@@ -160,7 +155,6 @@
    |---------+------------------------------------------+-------------|
    | Roles   | Autonomy vs Mixed-Initiative             |             |
    |         | Experience Agnostic vs Experience-driven |             |
-   
 
 ** Judgment Aggregation Rules
    In Lang, Pigozzi Slavkovik et al: "A Partial Taxonomy of Judgment aggregation
@@ -188,7 +182,6 @@
    |                               | Minimal Entailment     |             |
    |                               | Irreducible Entailment |             |
    |-------------------------------+------------------------+-------------|
-
 
 ** Reputation System Taxonomy
    In Hendrikx, Bubendorfer, Chard "Reputation systems: A Survey and Taxonomy"
@@ -239,7 +232,6 @@
    |          |                  | Decay               |             |
    |          |                  | Death of Old        |             |
    |          |                  | Death of Selected   |             |
-   
 
 ** Group Norm Taxonomy
    In Aldewereld, Dignum and Vasconcelos "Group Norms for Multi-Agent Organisations"
@@ -262,7 +254,6 @@
    | Actorship      | children are not allowed   | pack the supervisors stuff   | classroom together, or the     |
    |                | to enter the shop          | for the move, or the         | whole class will miss morning  |
    |                | together"                  | supervisor will be blamed."  | break."                      |
-   
 
 ** An AI Pattern Language
    Elish and Hwang
@@ -309,7 +300,6 @@
 
 
 
-
 ** Classifying Sanctions
    Nardin, Balke-Visser, Ajmeri et al in "Classifying Sanctions and designing
    a conceptual sanctioning process model for socio-technical systems"
@@ -337,7 +327,6 @@
    |----------------+----------------+----------------+-------------|
    | Discernibility | Noticeable     |                |             |
    |                | Unnoticeable   |                |             |
-   
 
 
 
@@ -352,7 +341,6 @@
    | Aim        |             |
    | Conditions |             |
    | Or Else    |             |
-   
 
 ** Davidsson Taxonomy of Artificial Societies
    Mentioned in Sebastia "A Framework for Norm Monitoring on Dynamic
@@ -364,7 +352,6 @@
    | Closed      |             |
    | Semi-Closed |             |
    | Semi-Open   |             |
-   
 
 ** Suppression across different rule scenarios
    In "The Empiricists Insurgency", Bermand and Matanock
@@ -375,7 +362,6 @@
    | Boers in South Africa  | No Rules            | Target/Coerce | Security   |
    | Taliban in Afghanistan | Rules of Engagement | Target        | Security   |
    | Gangs in US            | Rule of Law         | Prosecute     | Welfare    |
-
 
 ** The State of the Art in Visualising Group Structures in Graphs
    Vehlow, Beck and Weiskopf
@@ -390,7 +376,6 @@
    | superimposed |             |
    |              |             |
    | embedded     |             |
-   
 
 
 ** Searle Speech Acts
@@ -402,7 +387,6 @@
    | Commissive  |             |
    | Expressive  |             |
    | Declarative |             |
-   
 
 ** AI Based Game Design Patterns
    Treanor, Zook, Eladhari et al
@@ -418,7 +402,7 @@
    | AI as Adversary  | Play game against opponent | Opponent                       | Chess, Go          |
    | AI as Villain    | Combat the Villain         | Villain in game, NPC           | Alien Isolation    |
    | AI as Spectacle  | Observe                    | Enact simulated society        | Nowhere            |
-   
+
 ** A Panorama of Artificial and Computational Intelligence in Games
    Yannakakis and Togelius
 
@@ -433,7 +417,6 @@
    |      |             |
    |      |             |
    |      |             |
-   
 
 ** Procedural Content Generation in Games
    Shaker, Togelius, Nelson
@@ -447,11 +430,9 @@
    | Stochastic versus deterministic         |             |
    | Constructive versus generate and test   |             |
    | Automatic generation v mixed authorship |             |
-   
 
 ** Brown and Levinson (1987) Social Politeness
    In IMMERSE Final report
-
 
 
 
@@ -500,7 +481,7 @@
    |                                         | Songs                                |             |
    |                                         | Slogans                              |             |
    |                                         | Debates in Parliament etc            |             |
-   
+
    Aristotle's Taxonomy of Argumentation
    | Type          | Description |
    |---------------+-------------|
@@ -519,7 +500,7 @@
    | Syllogism     |             |
    | Consequential |             |
    | Cause         |             |
-   
+
    Topos of Right wing populist rhetoric
    | Type        | Warrant |
    |-------------+---------|
@@ -533,10 +514,10 @@
    | Numbers     |         |
    | Saviour     |         |
    | History     |         |
-   
+
 ** Systems Engineering (taxonomy of knowledge types)
    Moser
-   
+
    Andersons Taxonomy of Knowledge Types (modified)
    | Knowledge  | Definition                                            | Example |
    | type       |                                                       |         |
@@ -554,11 +535,9 @@
    | Analyse           |            |         |
    | Evaluate          |            |         |
    | Create            |            |         |
-   
+
 *** TODO Return to for Activity Theory
 
-** Imaginary Soundscapes: The SoDA Project
-   
 ** Towards a Theory of Delegation for Agent Based Systems
    Castelfranchi and Falcone
 
@@ -568,7 +547,7 @@
    | Adoption   |             |
    | Contract   | Strict Delegation requires Strict Adoption |
    |            |             |
-   
+
 
    Delegation:
    |                 | Unilateral          | Acceptance-based          |
@@ -585,7 +564,7 @@
    | by Agreement    |                     | mutual belief and         |
    |                 |                     | mutual active achievement |
 
-   
+
    Adoption:
    |                | Unilateral          | Acceptance Based          |
    |----------------+---------------------+---------------------------|
@@ -612,7 +591,7 @@
    |                       |             |
    |-----------------------+-------------|
    | Delegation of Control |             |
-   
+
    Levels of Adoption of task
    | Type                | Description |
    |---------------------+-------------|
@@ -638,7 +617,7 @@
    | Communication                    |                                         |
    | Attributions to category or role |                                         |
    | Trust                            |                                         |
-   
+
    Conflict
    | Type                                         | Description |
    |----------------------------------------------+-------------|
@@ -652,24 +631,23 @@
    |                                              |             |
    |----------------------------------------------+-------------|
    | Over Task Specification                      |             |
-   
+
 ** TODO Castelfranchi's Taxonomy of Social Action
 
-** TODO Weber's Types of Bureaucracy 
-   
+** TODO Weber's Types of Bureaucracy
 
 
 ** Typology of Consumption Practices
    Douglas Holt "How Consumers Consume: A Typology of Consumption Practices"
 
-   
+
    |           |                       | Purpose of Action |                      |
    |-----------+-----------------------+-------------------+----------------------|
    |           |                       | Autotelic Actions | Instrumental Actions |
    |-----------+-----------------------+-------------------+----------------------|
    | Structure | Object Actions        | Experience        | Integration          |
    | of Action | Interpersonal Actions | Play              | Classification       |
-   
+
 ** McGrath's Typology of Tasks
    In Straus 'Testing a Typology of Tasks: An Empirical Validation of McGrath's
    Group Task Circumplex"
@@ -686,10 +664,9 @@
    | Cognitive Conflict | Cognitive   | Conflict-Resolve | Negotiate-Choose  |
    | Judgement          | Cognitive   | Coordinate       | Choose-Negotiate  |
    | Intellective       | Cognitive   | Coordinate       | Choose-Generate   |
-   
+
 ** TODO Typology of Sociotechnical Transition Pathways
    Geels and Schot
-
 
 
 ** Four Types of Moral Wriggle Room
@@ -700,5 +677,60 @@
    |------------------------+------------------------+----------------------------|
    | action-facts           | Strategic Ignorance    | Hiding behind a small cake |
    | norm-facts             | Biased Norm Perception | ?                          |
-   
 
+
+** Taxonomy of Database Sorting Algorithms
+   in Graefe "Query Evaluation Techniques for Large Databases"
+
+   | Determinant              | Options                                             |
+   |--------------------------+-----------------------------------------------------|
+   | Input Division           | Logical Keys (Partioning)                           |
+   |                          |                                                     |
+   | Result Combination       | Logical Keys (merging)                              |
+   |                          |                                                     |
+   | Main-memory sort         | Quicksort or replacement selection                  |
+   |                          |                                                     |
+   | Merging                  | Eager or lazy or semi-eager                         |
+   |                          |                                                     |
+   | Read-ahead               | None, double-buffering, forecasting                 |
+   |                          |                                                     |
+   | Input                    | Single-stream or parallel                           |
+   |                          |                                                     |
+   | Output                   | Single-stream or parallel                           |
+   |                          |                                                     |
+   | Number of data exchanges | One or Multiple                                     |
+   |                          |                                                     |
+   | Data exchange            | Before or after local sort                          |
+   |                          |                                                     |
+   | Sort objects             | Original records or key-RID pairs (substitute sort) |
+   |                          |                                                     |
+
+   Hash Table Overflow: Avoidance and Resolution
+
+** Building Problem solvers
+   Ken Forbus, J. Kleer
+
+   | Type                | Description                                          |
+   |---------------------+------------------------------------------------------|
+   | Knowledge Model     | How is the system's knowledge represented?           |
+   |                     |                                                      |
+   | Reference mechanism | How do procedures get the data they need to execute? |
+   |                     |                                                      |
+   | Procedure model     | How are procedures decomposed and organized?         |
+   |                     |                                                      |
+   | Execution strategy  | How are procedures carried out?                      |
+   |                     |                                                      |
+   | Dependency model    | What information is recorded about the               |
+   |                     | relationships between a system's belief?             |
+
+   Life cycle of AI Program
+   | Type                | Description                                                      |
+   |---------------------+------------------------------------------------------------------|
+   | Conceptualization   | A Problem is chosen. Literature checked to see how others fared. |
+   |                     |                                                                  |
+   | Initial Exploration | Exploratory programming.                                         |
+   |                     |                                                                  |
+   | Experimentation     | Workout of idea                                                  |
+   |                     |                                                                  |
+   | Production          | Application as a module for others to use                      |
+   
