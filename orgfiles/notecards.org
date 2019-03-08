@@ -2,7 +2,6 @@
 ** Papers
    Scott, 85: "Weapons of the weak: Everyday forms of peasant resistance"
 
-
 ** Games                                                              :games:
 
 *** Spore                                               :existingMedia:games:
@@ -77,7 +76,6 @@
 
 
 
-
 *** Fligstein                                                  :institutions:
     Institutional Entrepreneurs. p7.
 
@@ -129,7 +127,6 @@
 
        
        
-
 
 *** Bill Bryson                                              :norms:examples:
 
@@ -285,7 +282,6 @@
 
 
 
-
 *** Cohen                                               :methods:ai:research:
     Three Basic Research Questions:
     1) How will a change in agent structure affect behaviour?
@@ -348,7 +344,6 @@
     
     
 
-
 *** Varian                                       :economics:research:methods:
     How to build an Economic model in your spare time:
     1) Get an idea
@@ -368,16 +363,13 @@
           
 
 
-
 ** Topics of Interest                                              :concepts:
 
 *** Partial Ordering / Incomplete Pairwise Matrices                    :math:
 
-
 ** Software and Simulations                    :existing:software:simulation:
 
 *** Netlogo                                                      :simulation:
-
 
 ** Plans and Dissertation Structure            :dissertation:structure:plans:
 
@@ -420,9 +412,7 @@
     real world institutions accurately?
     Do Institutions explain the changes that can occur socially?
     
-
 ** Theory                                                            :theory:
-
 *** Institutional Structure                   :structure:theory:institutions:
 
     Simulation Base                  ->  Constitutive input
@@ -458,7 +448,6 @@
 
 
 
-
 *** Institutions As AI
     Assume that we cannot create something smarter than ourselves If
     Institutions are AI, they are not Human-AI Complete If So, they
@@ -468,7 +457,6 @@
 
     Person of Interest is an example of this, AI's existing but
     interacting and manipulating the world through human actors.
-
 
 
 
@@ -493,7 +481,6 @@
 ***** Abortion
       Legality -> Means -> Consequences -> Judgements
      
-
 *** Behaviour Monad                                 :formal:math:monad:types:
 
     Purpose: To allow descriptions of institutional data to be processed

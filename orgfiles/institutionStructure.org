@@ -1,16 +1,10 @@
 * Institution Structure
 ** Moise
    [[file:~/github/writing/haskell/moise.hs::--%20Moise%20Spec%20as%20Haskell][Moise Spec as Haskell]]
-
 ** Scott
-
 *** Regulative
-    
 *** Normative
-
 *** Cultural-Cognitive
-   
-   
 *** Components
     Basis of compliance: expedience, social obligation, shared understanding
     Basis of order: regulative rules, expectations, constitutive schema 
@@ -27,23 +21,16 @@
 
     Legalization as dimensions of obligation, precision, delegation
 
-
 ** Castelfranchi - Social Tools
-
 ** Ostrom
-
 ** North
-
 ** Fligstein
    Components: Strategic Action Field, Incumbents/Challengers,
    IGU, Social Skill + Existential Social, broader field, 
    exogenous shocks / contention leading to settlement.
-
 ** Activity Theory
    Actor - Tool    - Object             -> Outcome
    Rules - Community - Division of Labour
-
-
 ** Bicchieri - Social norms
    Comprising of:
    1) Contingency. X knows that a rule R exists and applies to situation S.
@@ -51,10 +38,5 @@
       1) Empirical expectations. Others are likely to conform in similar situations.
       2) Normative expectations. Others are likely to expect conformance.
       3) Sanction expectations. Others are likely to expect conformance and will sanction otherwise.
-
-
-
 ** Giddens
-   
-
 ** Bourdieu

@@ -1,5 +1,5 @@
 * TODO Categorise Social norm connections between social/institutional game ideas
-  Red Mars - The Expanse 
+  Red Mars - The Expanse
   Galactica - Voyager (Ep Equinox)
   Social XCom - Forever war - Generation Kill?
   RP The (Voyager) Doctor. Get left on, slowly become friends with
@@ -14,9 +14,9 @@
   agents run in configurations to observe.e
   Recurse | Iterate | Categorise | Map | Reduce | Guard | PCM on Behaviours.
   All while viewing Behaviours as a map / simulation , a tree, AND a... managed garden of behaviours?
-  This is looking like realtime functional AI Programming of an exclusion logic language. 
+  This is looking like realtime functional AI Programming of an exclusion logic language.
   Similar to Supercollider's patterns for music, but for ai behaviour? Live-coded.
-*** TODO talk to richard evans about AI editing/authoring cycle for Sims/Versu. 
+*** TODO talk to richard evans about AI editing/authoring cycle for Sims/Versu.
 ** Authoring Modalities
 *** Recurse
     Connect behaviours to each other logically, defining ever increasingly higher or lower conceptually.
@@ -34,21 +34,21 @@
 *** Chain / Sequence
     Either Monadically, or otherwise
 *** Exclude
-    Mark exclusion operators (.!) 
+    Mark exclusion operators (.!)
 *** Protect
     Set behaviours to error / escalate to real time if they occur / don't occur under conditions
 *** PCM
-    Partial Comparison Matrix of selections of concepts, adding up to a PCM of every concept 
+    Partial Comparison Matrix of selections of concepts, adding up to a PCM of every concept
     or every level of the concept tree at least
 *** Suggestive
-    Proposes concepts to refine, look at, expand. 
+    Proposes concepts to refine, look at, expand.
     Old behaviours, over or under-defined behaviours, behaviours effected by the very last change?
 *** Type-checking / Inference / Learning
     Define a common type between a selection, then infer the common
     structure of the group
 
     A Type can have preconditions, or postconditions for a behaviour.
-  
+
     A Type could say :
     1) "For all Concepts of type  X, there must be an applicable
        condition from c,c',c''... available".
@@ -63,28 +63,28 @@
 
 **** TODO Possibly email that twitter AI/lang person?
      Relatedly, below makes me think of computational semiotics and
-     guaranteed 
+     guaranteed
 *** Primitives
-     Types of Primitives: Model Based (physical/time), API
-     (outgoing communication/control protocols), sensor (incoming
-     communication protocols)
-     Actions and Events, no concepts. 
+    Types of Primitives: Model Based (physical/time), API
+    (outgoing communication/control protocols), sensor (incoming
+    communication protocols)
+    Actions and Events, no concepts.
 ***** The distinction between actions, events, and concepts
-      Actions are sequences of physical control protocols over time. 
+      Actions are sequences of physical control protocols over time.
       Events are sequences of input communication protocols over time,
       concepts are sequences of non-actions/events over time
 
 **** Social Constructs
      Social constructions are anything that only has a conceptual
      relation and existence. Anything that is not causally related to
-     the physical primitives. 
+     the physical primitives.
 
      If you change the wrong physical primitive, things don't make
-     sense at all, you end up trying to change a tire with a fish. 
+     sense at all, you end up trying to change a tire with a fish.
 
      Social constructs can be changed while retaining meaning. It
      doesnt matter if you bow or shake hands, they surve the same
-     purpose, which is entirely socially. 
+     purpose, which is entirely socially.
 
      But there is a hierarchy here. While I can't change physical
      primitives, but can change a 'first-order?' related symbolic
@@ -93,21 +93,21 @@
      'First-order symbolic actions and constructs' : Ones that are
      themselves symbolic, but whose dependencies include primitives.
 
-     'Second-order' social constructs: Without relying on primitive  
+     'Second-order' social constructs: Without relying on primitive
 
      Reciprocal-order? symbolic actions and constructs': where only particular
      combinations of actions nad concepts make sense. Being Hostile
      means you'll be Rude, being Rude will come across as
      hostile. Changing these alters balance and needs to be adjusted
-     mroe carefully. 
+     mroe carefully.
 
 
 
 
 **** Link to computational semiotics and the reliableness of language generation
      Given a limited system of signs, humans will construct additional
-     levels of meaning around those signs.  
-     
+     levels of meaning around those signs.
+
 ** Observational Modalities
    Observational modalities are ways of viewing the behaviours in
    play. This can include mosh pit, situations, sequences, tree, rete
@@ -123,7 +123,7 @@
     Similar to Situations, but describable crisis points that have
     larger consequences, on norms etc. eg: The 'good' and 'bad'
     choices in Fable that modified the world around you in a good or
-    bad way. 
+    bad way.
 *** Sequences
     Similar to situations, but checking a sequence of situtations for
     particular characteristics
@@ -143,7 +143,7 @@
      Suggest entries that have not been modified recently
 **** Reactive
      Suggest entries that a recent/selected/proposed change can
-     influence to a certain (limited?) depth 
+     influence to a certain (limited?) depth
 **** Under-developed
      Behaviours that do not have a controllable number of components,
      to a certain level
@@ -151,6 +151,3 @@
      Behaviours that have a certain number of components, to a certain level
 **** Alerts
      Pop-up alerts of guards triggering in the background.
-     
-
-

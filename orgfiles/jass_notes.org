@@ -2,16 +2,13 @@
 ** Primary
 
 *** TODO [[http://jasss.soc.surrey.ac.uk/14/4/19.html][A Virtual Laboratory for the study of History and Cultural Dyanmics]]
-Suarezz and Sancho (2011)
-
-
-
+    Suarezz and Sancho (2011)
 **** The Model
 
 ***** Agents
       Individuals - mobile, carry messages, have preferences and range of behaviours, limited storage.
       Repositories - immobile, preferences, tolerance, no learning, limited storage.
-      Cultural Items - No reception, just a single message in memory. 
+      Cultural Items - No reception, just a single message in memory.
 ***** Messages
 
 ***** Behaviours
@@ -19,11 +16,11 @@ Suarezz and Sancho (2011)
       Emmission : Dominant/Creative/Passive behaviours
 
 *** DONE [[http://jasss.soc.surrey.ac.uk/17/1/17.html][Generating Social Practices]]
-Holtz (2014)
+    Holtz (2014)
 
 **** Results
      Simulation model able to generate social practices
-     Mechanism for Behavioural lock-in identified 
+     Mechanism for Behavioural lock-in identified
 
 **** Background
 ***** TODO Social Practice Theory?
@@ -34,48 +31,48 @@ Holtz (2014)
       laundry according to a specific standard of cleanness
       (Shove 2004) have a large impact on a society's resource use."
 
-----
+      ----
       "Jackson (2005) notes that "… our understanding of the dynamics
       of social practice, of the ways in which social practices
       evolve, and of the interaction between policy and social
       practice is as yet so limited that it would be difficult to see
       how policy could make use of this position…" (p. 63). "
-      
+
       JACKSON, T. (2005). Motivating Sustainable Consumption – a review of
       evidence on consumer behaviour and behavioural change. A report
       to the Sustainable Development Research Network.
-----
+      ----
 
-	 Giddens - Structuration mediates between actors and structure. 
-     Extended by Schatzki and Reckwitz.
+      Giddens - Structuration mediates between actors and structure.
+      Extended by Schatzki and Reckwitz.
 
-     ( RECKWITZ, A. (2002). Toward a Theory of Social
-     Practices. European Journal of Sociology, 5(2), 243–263. )
+      ( RECKWITZ, A. (2002). Toward a Theory of Social
+      Practices. European Journal of Sociology, 5(2), 243–263. )
 
-     "Individuals are seen as the 'carriers of practices' who do not
-     freely choose between practices based on utility or similar
-     individualistic concepts but are 'recruited' to practices
-     according to their background and history (Reckwitz 2002)"
+      "Individuals are seen as the 'carriers of practices' who do not
+      freely choose between practices based on utility or similar
+      individualistic concepts but are 'recruited' to practices
+      according to their background and history (Reckwitz 2002)"
 
-----
+      ----
 
-	SHOVE, E., & Pantzar, M. (2005). Consumers, Producers and
-	Practices. Journal of Consumer Culture, 5(1),
-	43–64. [doi:10.1177/1469540505049846]
+      SHOVE, E., & Pantzar, M. (2005). Consumers, Producers and
+      Practices. Journal of Consumer Culture, 5(1),
+      43–64. [doi:10.1177/1469540505049846]
 
-    "Conceptualised the role of the material (bodily activities,
-    technological artefacts) in social practices, that was mostly
-    neglected in early practice theories, but which is crucial for
-    analysing environmental effects of practices."
+      "Conceptualised the role of the material (bodily activities,
+      technological artefacts) in social practices, that was mostly
+      neglected in early practice theories, but which is crucial for
+      analysing environmental effects of practices."
 
-    A Practice is a configuration of three components: material, meaning and competence.
+      A Practice is a configuration of three components: material, meaning and competence.
 
-----
+      ----
 
-	"SPT doesn't conceptualise how the components 'glue together',
-	ie. why certain elements form 'succesful' practices which diffuse
-	and are maintained by a substantial part of society while other
-	constellations of elements do not succeed."
+      "SPT doesn't conceptualise how the components 'glue together',
+      ie. why certain elements form 'succesful' practices which diffuse
+      and are maintained by a substantial part of society while other
+      constellations of elements do not succeed."
 
 **** Conceptual framework of social practices
 ***** Components
@@ -84,19 +81,19 @@ Holtz (2014)
       Components linked by individuals when carrying out a practice.
 
 ****** Material
-       Physical aspects of the performance of a practice. 
+       Physical aspects of the performance of a practice.
 ****** Meaning
        understandings, beliefs, emotions
 ****** Competence
-       skills and knowledge which are required to perform the practice. 
+       skills and knowledge which are required to perform the practice.
        eg: driving skills, knowledge of public transport routes.
 
 ***** Coherence
-     Coherence elaborated by Holtz.
-     ( HOLTZ, G. (2012a). Coherence of social practices: the case of
-     meat consumption. Unpublished working
-     paper. http://www.usf.uos.de/institut/publikationen/forschungsgruppen/rem.html )
-     ( HOLTZ, G. (2012b). An agent-based model of social practices. ESSA 2012 Proceedings. )
+      Coherence elaborated by Holtz.
+      ( HOLTZ, G. (2012a). Coherence of social practices: the case of
+      meat consumption. Unpublished working
+      paper. http://www.usf.uos.de/institut/publikationen/forschungsgruppen/rem.html )
+      ( HOLTZ, G. (2012b). An agent-based model of social practices. ESSA 2012 Proceedings. )
 
 ****** Cognitive consitency
        (alighning behaviours with beliefs / deontics)
@@ -121,16 +118,16 @@ Holtz (2014)
 ******* habitual behaviour keeping current material
 
 ****** adapt material
-       
+
 ****** exchange meaning
 
 **** Implementation
      Simple bitstrings.
 
 *** DONE [[http://jasss.soc.surrey.ac.uk/4/1/1.html][Narrative Intelligence from the Bottom Up: A Computational Framework for the Study of Story-Telling in Autonomous Agents]]
-Dautenhahn and Coles (2001)
+    Dautenhahn and Coles (2001)
 
-	Levels of narrative intelligence:
+    Levels of narrative intelligence:
     0) "Grandfather Model" of Schank and Abelson. *Essentially a
        Doorbell*.
     1) Random selection of stories to tell
@@ -138,51 +135,51 @@ Dautenhahn and Coles (2001)
     3) Interpretive/ encode and retrieval based storyteller
     4) Human narrative intelligence.
 *** [[../pdfs/Huber-sbia2002.pdf][A Model for the Structural, Functional, and Deontic Specification of Organizations in Mutliagent Systems]]
-Hubner, Sichman and Boissier
-(Moise)
+    Hubner, Sichman and Boissier
+    (Moise)
 
 *** [[http://jasss.soc.surrey.ac.uk/13/4/7.html][Agent-Based Modeling: The Next 15 Years]]
-Hamill (2010)
+    Hamill (2010)
 
 *** [[http://jasss.soc.surrey.ac.uk/8/3/2.html][Appearances can be decieving: Lessons Learned Re-Implementing Axelrod's 'Evolutionary Approach To Norms']]
-Galan and Izquierdo (2005)
+    Galan and Izquierdo (2005)
 
 *** [[http://jasss.soc.surrey.ac.uk/18/3/7.html][Considering a Multi-Level Model as a Soceity of Interactive Models: Application to a Collective Motion Example]]
     Camus, Bourjot and Chevrier (2015)
 
 *** [[http://jasss.soc.surrey.ac.uk/13/1/4.html][Explaining Simulations Through Self Explaining Agents]]
-Harbers, Meyer, and van den Bosch (2010)
+    Harbers, Meyer, and van den Bosch (2010)
 
 *** [[http://jasss.soc.surrey.ac.uk/7/4/7.html][Formal Systems and Agent-Based Social Simulation = Null?]]
     Fasli (2004)
 *** [[http://jasss.soc.surrey.ac.uk/4/2/7.html][From Social Monitoring to Normative Influence]]
-Conte and Dignum (2001)
+    Conte and Dignum (2001)
 
 *** [[http://jasss.soc.surrey.ac.uk/4/4/3.html][Modeling the Emergence of Possession Norms using Memes]]
-Flentge, Polani and Uthmann (2001)
+    Flentge, Polani and Uthmann (2001)
 
 *** [[http://jasss.soc.surrey.ac.uk/3/2/1.html][Modelling Social Systems as Complex: Towards a social simulation meta-model]]
-Goldspink (2000)
+    Goldspink (2000)
 
 *** [[../pdfs/dfu-vol4-complete.pdf][Normative Multi-Agent Systems]]
-Andrighetto et All
+    Andrighetto et All
 
 *** [[http://jasss.soc.surrey.ac.uk/6/2/10.html][Role-Playing Games, Models and Negotiation Processes]]
-Barreteau, Le Page and D'Aquino (2003)
+    Barreteau, Le Page and D'Aquino (2003)
 
 *** [[http://jasss.soc.surrey.ac.uk/2/1/2.html][Simulating Norms, Social Inequality, and Functional Change in Artificial Societies]]
-Saam and Harrer (1999)
+    Saam and Harrer (1999)
 
 *** [[http://jasss.soc.surrey.ac.uk/10/1/2.html][Social Reputation: A Mechanism for Flexible Self-Regulation of Multiagent Systems]]
-Hahn, Fley, Florian, Spresny and Fischer (2007)
+    Hahn, Fley, Florian, Spresny and Fischer (2007)
 
 *** [[http://jasss.soc.surrey.ac.uk/14/2/6.html][The Current State of Normative Agent-Based Systems]]
-Hollander and Wu (2011)
+    Hollander and Wu (2011)
 
     Always with *efficiency*:
-	"Research on social control address the challenge of ensuring that
-	a system operates *efficiently* while at the same time allowing
-	individual agents maintain their freedom"
+    "Research on social control address the challenge of ensuring that
+    a system operates *efficiently* while at the same time allowing
+    individual agents maintain their freedom"
 
     Makes the point of following *methodological individualism*. This
     works from the individual on up. Again, consider institutional
@@ -191,7 +188,7 @@ Hollander and Wu (2011)
     Normative agents must:
     1) satisfy the regular notions associated with artificial agents
     2) represent norms in a format that allows them to be reasoned
-       over and modified during the lifetime of the agent 
+       over and modified during the lifetime of the agent
     3) recognise and infer the norms of other agents based on
        observations and interactions while not confusing the norms
        with individual rules and constraints
@@ -206,7 +203,7 @@ Hollander and Wu (2011)
 
      an obligation / permission (boella)
 
-     or a prohibition 
+     or a prohibition
 
      in legal theory: any behavioural rule dictated by a ruling body
      (verhagen)
@@ -227,7 +224,7 @@ Hollander and Wu (2011)
 
      *COIN* workshops? *EMIL* project for norm innovation
      *COST* action OC0801 working group on norms
-     
+
 **** Key Concepts
      a norm is a behavioural rule that is considered valid by the
      majority of the population
@@ -240,7 +237,7 @@ Hollander and Wu (2011)
 
 **** Means of representing norms
 
-     
+
 ***** In the Social Sciences
 
       social function of norms: durkheim, parsons, merton
@@ -259,28 +256,28 @@ Hollander and Wu (2011)
       social impact: cost provided to / imposed on parties involved in
       a social interaction.
       can impose costs and benefits on individuals or groups.
-      
+
       most recently: interest in norm emergence and creation.
       Two general methods of norm creation: (Boella, Tuomela,
       Verhagen)
-      1) *Type 1* explicitly created and enforced by an authority structure 
+      1) *Type 1* explicitly created and enforced by an authority structure
       2) *Type 2* emerge from regularities in behaviour
 
-      
+
 ****** oughtness
        refers to the notion that there are behaviours an agent should
        or should not perform regardless of the possible consequences
-       
+
 ****** expectation
        refers to the behaviours other agents anticipate when observing
        an agent.
        created when an agent displays behavioural regularity when it
        encounters specific contexts.
-       
+
 
 ***** In Computer Science
 
-      
+
 ****** Modal Logic
        deontic logic as a derivation. Exclusion logic / Versu too.
        links to legal theory.
@@ -299,12 +296,12 @@ Hollander and Wu (2011)
 ****** game theory
        Bicchieri. CiF.
        choices and payoffs
-       
 
-**** Norm Life Cycle 
+
+**** Norm Life Cycle
      mentions norm taxonomies and typologies of *finnemore and
      sikkink* and *savarimuthu and cranefield* and *verhagen*.
-     
+
 ***** Patterns of norm life cycles
 
       enforcement -> recognition -> obedience -> sanctions
@@ -340,10 +337,10 @@ Hollander and Wu (2011)
 
 
 *** [[http://jasss.soc.surrey.ac.uk/2/2/1.html][The Origin of Institutions: Socio-economic processes, choice, norms and conventions]]
-Caldas and Coelho (1999)
+    Caldas and Coelho (1999)
 
 *** [[http://jasss.soc.surrey.ac.uk/11/1/1.html][An Agent-Based Representation of the Garbage Can Model of Organizational Choice]]
-Fioretti and Lomi (2008)
+    Fioretti and Lomi (2008)
 
 *** [[../pdfs/Castelfranchi - Towards Institutional Actions.pdf][Towards Institutional Actions ]]
     Castelfranchi - 2005
@@ -364,7 +361,7 @@ Fioretti and Lomi (2008)
     "X, seen as a token of a CT, counts as Y in C"
 
     "The double empowerment of tools and artifacts"
-    
+
     On Function - "an external goal placed on a system that results in
     a transformation of the structural properties of the system",
     which "modify the shape of the system"
@@ -374,8 +371,8 @@ Fioretti and Lomi (2008)
 
     Functional aspects are:
     1) Any item in the agent that produces the unintended effect through a casual feedback loop
-       
-    
+
+
 
 **** Commentary
      C / Searle are taking actions as prior to  objects. How does this relate to Graeber / Debt?
@@ -388,26 +385,26 @@ Fioretti and Lomi (2008)
      Institutional Action -> Institutional Object
 
      But is this really the case?
-     Debt is an institutional concept, rather than an Action. 
+     Debt is an institutional concept, rather than an Action.
      It is closer to Holtz three component distinction. Material, Meaning, Competence.
      So:
      Paying -> Material
-     Money -> Artifact? 
+     Money -> Artifact?
      Debt -> Meaning
      ?    -> Competence
 
-     Institutions are resonant groups of reinforcing actions, whose consequences are 
+     Institutions are resonant groups of reinforcing actions, whose consequences are
      unintended / non-obvious.
 
 *** [[http://jasss.soc.surrey.ac.uk/1/3/3.htm][Normative Reputation and the costs of compliance]]
-Castelfranchi, Conte, and Paolucci (1998)
+    Castelfranchi, Conte, and Paolucci (1998)
 
 *** TODO [[../pdfs/ai_law_submitted.pdf][Combining Institutional Frameworks and Agent-Based Simulation for the Design of Enforcement Policies]]
-Balke, De Vos (2012)
+    Balke, De Vos (2012)
 
 
 *** TODO [http://jasss.soc.surrey.ac.uk/17/4/13.html][How Do Agents Make Decisions? A Survey]]
-Balke and Gilbert (2014)
+    Balke and Gilbert (2014)
 
 **** Dimensions of Comparison
      Cognitive | Affective | Social | Norm consideration | Learning
@@ -449,13 +446,13 @@ Balke and Gilbert (2014)
 **** Overview
 
 *** TODO [[http://jasss.soc.surrey.ac.uk/11/4/6.html][Homo Socionicus: A Case Study of Simulation Models of Norms]]
-Neumann (2008)
+    Neumann (2008)
 
 **** Intro
      Mentions link between role theory (ie: Parsons), and norms.
      Action as guided by normative orientation.
      Over the past 20 years there has been criticism of Social Factor
-     based explanations. 
+     based explanations.
      Role theory was based on Durkheim / social factors.
      Rise of *Methodological Individualism* / 'From Factors to Actors'
      (Macy and Willer). This enables investigation into *the feedback
@@ -480,7 +477,7 @@ Neumann (2008)
      would tell us. "
 
      We find out *social facts* about him, without finding out about
-     Smith's unique identity. 
+     Smith's unique identity.
      Social Facts -> Social Positions -> Social Roles.
      "Roles are defined by specific attributes, behaviour and social
      relations. Demands of society determine individual behaviour"
@@ -494,7 +491,7 @@ Neumann (2008)
 ***** Characteristics of Norms
       1) Norms show generality
       2) Norms ahve a subjective element
-         Action sets for roles can cover a wide range. 
+         Action sets for roles can cover a wide range.
          Ends of an action have to be determined internally.
       3) Roles are functionally relevant for the reproduction of society.
          Father educates child, Lecturer socialises pupils.
@@ -524,14 +521,14 @@ Neumann (2008)
          spread to or decay from one agent to another. (Transmission
          problem).
 
-Research traces back to game theory (J: ie: Bicchieri) and AI (ie:
-Boella).
+      Research traces back to game theory (J: ie: Bicchieri) and AI (ie:
+      Boella).
 
 ***** TODO See Hegselmann for a broad range of moral dynamics.
 
 **** Discussion of Axelrod's evolutionary norms
      Creates a norm and meta-norm game. *Does not rely on rationality*
-     only on effectiveness of norms.   
+     only on effectiveness of norms.
      Variables for meta-norm enforcement include boldness and
      vengefulness.
 
@@ -544,7 +541,7 @@ Boella).
      "An active element of normative orientation in the choice
      relating to the ends of action cannot be found in a game
      theoretic approach". Mirrors Parson's critique of utilitarian
-     theories of action. 
+     theories of action.
 
      Agents do not act focused on norms. Norms are for interpretation
      of others behaviour. *Transformation is not identical with
@@ -558,9 +555,9 @@ Boella).
 
      Simple world of agents, food, smell, attacks, and diminishing
      strength.
-     
+
 ***** Types of Experiment
-      1) Blind Aggression. 
+      1) Blind Aggression.
          No means to control aggression, always attack when able.
       2) Strategic aggression.
          Attacks constrained by strategic reasoning.
@@ -568,49 +565,49 @@ Boella).
       3) Normative agents.
          Finder-keeper norm. Multiple possession.
          Agents do not attack agents eating their own possessed food.
-         
-Units of analysis: *rate of aggression*, *average strength of agents*,
-*variance of individual strength*.
 
-"The classical scheme of a functional explanation assumes a social
-phenomena P, whereby P has a (functional) effect n for the
-society. Individual actors have reasons to practise P independently of
-the functional effect n. Moreover there is a feedback loop so that in
-the case of a decrease of P, there is a cause for an amplification of
-P. Thus, society remains in equilibrium. It is claimed that this state
-of affairs is crucial for the 'survival' of the society. "
+      Units of analysis: *rate of aggression*, *average strength of agents*,
+      *variance of individual strength*.
+
+      "The classical scheme of a functional explanation assumes a social
+      phenomena P, whereby P has a (functional) effect n for the
+      society. Individual actors have reasons to practise P independently of
+      the functional effect n. Moreover there is a feedback loop so that in
+      the case of a decrease of P, there is a cause for an amplification of
+      P. Thus, society remains in equilibrium. It is claimed that this state
+      of affairs is crucial for the 'survival' of the society. "
 
 
-Norms in this model, unlike Axelrod's, are explicit action routines.
+      Norms in this model, unlike Axelrod's, are explicit action routines.
 
-However, transmission, transformation, and internalisation are not
-dealt with by Castelfranchi's model. The agents are normative automata
-with no personal variation in behaviour.
+      However, transmission, transformation, and internalisation are not
+      dealt with by Castelfranchi's model. The agents are normative automata
+      with no personal variation in behaviour.
 
 ***** Development of normative agents.
-Section *6* of the paper describes a number of game theoretic and
-cognitive architectures for normative simulations.
-Implementations include *dynamic propensities*, *conditional
-strategies*, *dynamic updating*,*decision trees* and *dynamic
-thresholds*.
+      Section *6* of the paper describes a number of game theoretic and
+      cognitive architectures for normative simulations.
+      Implementations include *dynamic propensities*, *conditional
+      strategies*, *dynamic updating*,*decision trees* and *dynamic
+      thresholds*.
 
-Game theoretic tradition tends to investigate norm dynamics, while AI
-tradition tends to investigate functional aspects of norms.
-Cognitive agents have become more flexible and applicable to
-transformation problems. GT tends to use sanctions, AI uses a variety
-of means.
+      Game theoretic tradition tends to investigate norm dynamics, while AI
+      tradition tends to investigate functional aspects of norms.
+      Cognitive agents have become more flexible and applicable to
+      transformation problems. GT tends to use sanctions, AI uses a variety
+      of means.
 
-Communication for transformation is more explicitly modelled in AI.
+      Communication for transformation is more explicitly modelled in AI.
 
-Social learning is implemented in many game theoretic models by
-replicator dynamics. This amounts to: more successful types of
-behaviour become more frequent, without formalising the mechanism.
+      Social learning is implemented in many game theoretic models by
+      replicator dynamics. This amounts to: more successful types of
+      behaviour become more frequent, without formalising the mechanism.
 
 **** TODO Convergence example: Verhagen
 
 **** TODO Convergence example: Savarimuthu
 
-     
+
 
 
 *** TODO Four Types of Moral Wriggle Room
@@ -618,99 +615,93 @@ behaviour become more frequent, without formalising the mechanism.
 *** TODO Programming Institutional Facts
 
 *** TODO [[http://jasss.soc.surrey.ac.uk/15/2/5.html][Typical Pitfalls of Simulation Modeling - Lessons Learned from Armed Forces and Business]]
-Barth, Meyer and Spitzner (2012)
+    Barth, Meyer and Spitzner (2012)
 
 *** TODO [[http://jasss.soc.surrey.ac.uk/12/2/2.html][Tools of the Trade: A Survey of various Agent Based Modeling Platforms]]
-Nikolai and Madey (2009)
-    
+    Nikolai and Madey (2009)
+
 
 ** Secondary
 
 *** [[http://jasss.soc.surrey.ac.uk/14/3/1.html][A Computational Model of Worker Protest]]
-Kim and Hanneman (2011)
+    Kim and Hanneman (2011)
 *** [[http://jasss.soc.surrey.ac.uk/18/1/17.html][A Context- and Scope-Sensitive Analysis of Narrative Data to Aid the Specification of Agent Behaviour]]
-Edmonds (2015)
+    Edmonds (2015)
 *** [[http://jasss.soc.surrey.ac.uk/12/4/6.html][A Pragmatic Reading of Friedman's Methodological Essay and What It Tells Us for the Discussion of ABMs]]
-Deichsel and Pyka (2009)
+    Deichsel and Pyka (2009)
 *** [[http://jasss.soc.surrey.ac.uk/13/3/1.html][Between Replication and Docking: "Adaptive Agents, Political Institutions, and Civic Traditions" Revisited]]
-Miodownik, Cartrite and Bhavnani (2010)
+    Miodownik, Cartrite and Bhavnani (2010)
 
 *** [[http://jasss.soc.surrey.ac.uk/5/1/1.html][Economic Performance, Inter-Firm Relations and Local Institutional Engineering in a Computational Prototype of Industrial Districts]]
-Squazzoni and Boero (2002)
+    Squazzoni and Boero (2002)
 
 *** [[http://jasss.soc.surrey.ac.uk/18/4/7.html][Emergence and Collapse of the Norm of Resource Sharing Around Locally Abundant Resources]]
-Horiuchi (2015)
+    Horiuchi (2015)
 *** [[http://jasss.soc.surrey.ac.uk/18/2/15.html][Extracting OWL Ontologies from Agent-Based Models: A Netlogo Extension]]
-Polhill (2015)
+    Polhill (2015)
 *** [[http://jasss.soc.surrey.ac.uk/11/4/7.html][Governments, Civilians, and the Evolution of Insurgency: Modeling the Early Dynamics of Insurgencies]]
-Bennett (2008)
+    Bennett (2008)
 
 *** [[http://jasss.soc.surrey.ac.uk/18/1/9.html][Grounded Simulation]]
-Neumann (2015)
+    Neumann (2015)
 
 *** [[http://jasss.soc.surrey.ac.uk/8/4/12.html][How can Social Networks Ever Become Complex? Modelling the Emergence of Complex Networks from Local Social Exchanges]]
-Pujol, Flache, Delgado and Sanguesa (2005)
+    Pujol, Flache, Delgado and Sanguesa (2005)
 
 *** [[http://jasss.soc.surrey.ac.uk/4/1/2.html][Introducing Emotions into the Computational Study of Social Norms: A First Evaluation]]
-Staller and Petta (2001)
+    Staller and Petta (2001)
 
 *** [[http://jasss.soc.surrey.ac.uk/8/4/9.html][It Pays to Be Popular: A Study of Civilian Assistance and Guerilla Warfare]]
-Wheeler (2005)
+    Wheeler (2005)
 
 *** [[http://jasss.soc.surrey.ac.uk/13/3/5.html][Leadership in Small Societies]]
-Younger (2010)
+    Younger (2010)
 
 *** [[http://jasss.soc.surrey.ac.uk/17/1/2.html][Learning Dilemmas in a Social-Ecological System: An Agent-Based Modeling Exploration]]
-Bohensky (2014)
+    Bohensky (2014)
 
 *** [[http://jasss.soc.surrey.ac.uk/16/2/9.html][MAIA: A Framework for Developing Agent-Based Social Simulations]]
-Ghorbani, Bots, Dignum and Dijkema (2013)
+    Ghorbani, Bots, Dignum and Dijkema (2013)
 
 *** [[http://jasss.soc.surrey.ac.uk/8/3/7.html][MAS-SOC: a Social Simulation Platform Based on Agent-Oriented Programming]]
-Bordini et al (2005)
+    Bordini et al (2005)
 
 *** [[http://jasss.soc.surrey.ac.uk/6/3/8.html][My Kingdom for a Function: Modeling Misadventures of the Innumerate]]
-Agar (2003)
+    Agar (2003)
 
 *** [[../web_pages/NetLogo 5.3.1 User Manual.html][Netlogo]]
 
 *** [[http://jasss.soc.surrey.ac.uk/13/1/12.html][Norm and Internalisation in Human and Artificial Intelligence]]
-Neumann (2010)
+    Neumann (2010)
 
 *** [[http://jasss.soc.surrey.ac.uk/13/4/3.html][Obligation Norm Identification in Agent Societies]]
-Savarimuthu, Cranefield, Purvis and Purvis (2010)
+    Savarimuthu, Cranefield, Purvis and Purvis (2010)
 
 *** [[http://jasss.soc.surrey.ac.uk/4/4/4.html][Pair Interactions: Real and Perceived Attitudes]]
-Pearson and Boudarel (2001)
+    Pearson and Boudarel (2001)
 *** [[http://jasss.soc.surrey.ac.uk/2/1/1.html][Simulating Correctional Disturbances: The Application of Organization Control Theory to Correctional Organizations via Computer Simulation]]
-Patrick, Dorman and Marsh (1999)
+    Patrick, Dorman and Marsh (1999)
 
 *** [[http://jasss.soc.surrey.ac.uk/1/2/2.html][Societies, cultures and fisheries from a modeling perspective]]
-Weisbuch and Duchateau-Nguyen (1998)
+    Weisbuch and Duchateau-Nguyen (1998)
 
 *** [[http://jasss.soc.surrey.ac.uk/18/1/2.html][Structuring Qualitative Data for Agent-Based Modelling]]
-Ghorbani, Dijkema and Schrauwen (2015)
+    Ghorbani, Dijkema and Schrauwen (2015)
 
 *** [[http://jasss.soc.surrey.ac.uk/12/4/12.html][The Development of Social Simulation as Reflected in the First Ten Years of JASSS: A Citation and Co-Citation Analysis]]
-Meyer, Lorscheid and Troitzsch (2009)
+    Meyer, Lorscheid and Troitzsch (2009)
 
 *** [[http://jasss.soc.surrey.ac.uk/18/4/14.html][The Effects of Network Structure on the Emergence of Norms in Adaptive Populations]]
-Froncek (2015)
+    Froncek (2015)
 
 *** [[http://jasss.soc.surrey.ac.uk/2/3/8.html][The Multi-Agent Modelling Language and the Model Design Interface]]
-Gulyas, Kozsik and Corliss (1999)
+    Gulyas, Kozsik and Corliss (1999)
 
 *** [[http://jasss.soc.surrey.ac.uk/1/3/1.html][Understanding Complex Social Dynamics: A Plea For Cellular Automata Based Modelling]]
-Hegselmann and Flache (1998)
+    Hegselmann and Flache (1998)
 
 *** [[http://jasss.soc.surrey.ac.uk/18/1/18.html][Using Qualitative Evidence to Inform the Specification of Agent-Based Models]]
-Edmonds (2015)
+    Edmonds (2015)
 
 *** [[http://jasss.soc.surrey.ac.uk/14/4/12.html][Using Social Simulation to Explore the Dynamics at Stake in Participatory Research]]
-Barreteau and Le Page (2011)
-
-
-
-
-
-
+    Barreteau and Le Page (2011)

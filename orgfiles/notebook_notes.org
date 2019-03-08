@@ -1,306 +1,279 @@
 * Cleaned Notebook notes
 
 ** perl book
-What the perl book says on context is very interesting. reread.
-in connection with thinking about monads: a non-agent based, or hive
-mind social model could think of behaviours and context as something
-similar to the maybe monad?
-in that:
-                         ---->Action::Wave
-behaviour::greeting -----|
-                         ---->(Maybe) Modifier::Angry
+   What the perl book says on context is very interesting. reread.
+   in connection with thinking about monads: a non-agent based, or hive
+   mind social model could think of behaviours and context as something
+   similar to the maybe monad?
+   in that:
+   ---->Action::Wave
+   behaviour::greeting -----|
+   ---->(Maybe) Modifier::Angry
 
-With modifiers defined to modify a particular place in the list
-structure, all, some, add or delete...
+   With modifiers defined to modify a particular place in the list
+   structure, all, some, add or delete...
 
 
-So represent conflicts as logical expressions, rather than as static
-values. What would the difference be between this and a resource
-manager? individual requirements for individual behaviours. So a
-behaviour conflicts if.... what?
-
+   So represent conflicts as logical expressions, rather than as static
+   values. What would the difference be between this and a resource
+   manager? individual requirements for individual behaviours. So a
+   behaviour conflicts if.... what?
 
 ** Questions
 
 *** Confusion
-How about confusion arising by occasionally taking a different meaning parent from which he is meant to?
-  
+    How about confusion arising by occasionally taking a different meaning parent from which he is meant to?
 
-If meaning is a chain of contexts in a graph, confusion is taking a
-different parent (as each indivudal node will have multiple
-parents. Furthermore, a single named concept might have multiple
-parents and completely different scopes, but which can get crossed
-easily. Achieve this through.... applying context by passing in
-context which limits to that contex unless confusion is selected)
+
+    If meaning is a chain of contexts in a graph, confusion is taking a
+    different parent (as each indivudal node will have multiple
+    parents. Furthermore, a single named concept might have multiple
+    parents and completely different scopes, but which can get crossed
+    easily. Achieve this through.... applying context by passing in
+    context which limits to that contex unless confusion is selected)
 
 *** Dishonesty
 
-dishonest, or just not knowing the social practise your
-  in?
+    dishonest, or just not knowing the social practise your
+    in?
 
-Dishonesty is lying, is a lie a social practise, or a strategy in a
-different practice? This speaks to both my wonder about the modularity
-of praxis' social practices. Additionally, it speaks to me on a level
-about how acts are `lifted' to gain additional meaning.
+    Dishonesty is lying, is a lie a social practise, or a strategy in a
+    different practice? This speaks to both my wonder about the modularity
+    of praxis' social practices. Additionally, it speaks to me on a level
+    about how acts are `lifted' to gain additional meaning.
 
 
 *** mixins
 
-mixin behaviour $\Rightarrow$ subset: call different
-  things by different names?
+    mixin behaviour $\Rightarrow$ subset: call different
+    things by different names?
 
-for this i should look at the component papers ive found. give every
-behaviour a set of standard ``plugs'' such as:
-\begin{itemize}
-\item pre-start (implicit)
-\item start group (populated with behaviours)
-\item s-m group (implicit)
-\item mid group (populated with behaviours)
-\item m-e group (implicit)
-\item end group (populated with behaviours)
-\item post-end group (implicit)
-\end{itemize}
-These assume a sequential behaviour, though similar annotations could
-occur in parallel behaviours such that there are a group of
-``complementary'' actions, and ``important'' actions.
+    for this i should look at the component papers ive found. give every
+    behaviour a set of standard ``plugs'' such as:
+    \item pre-start (implicit)
+    \item start group (populated with behaviours)
+    \item s-m group (implicit)
+    \item mid group (populated with behaviours)
+    \item m-e group (implicit)
+    \item end group (populated with behaviours)
+    \item post-end group (implicit)
+    These assume a sequential behaviour, though similar annotations could
+    occur in parallel behaviours such that there are a group of
+    ``complementary'' actions, and ``important'' actions.
 
-If this is the case, why not just make it so you can look for
-behaviours as a whole? regex or something?
+    If this is the case, why not just make it so you can look for
+    behaviours as a whole? regex or something?
 
-This is too free, it doesnt allow structure. What is preferable is
-being able to specify ``slots'' in a behaviour to act as targets. Thus
-you can spawn a behaviour somewhere specific in a tree, and somewhere
-specific in a behaviour. 
+    This is too free, it doesnt allow structure. What is preferable is
+    being able to specify ``slots'' in a behaviour to act as targets. Thus
+    you can spawn a behaviour somewhere specific in a tree, and somewhere
+    specific in a behaviour.
 
-Why not have rules then to allow use of the slots at specific times?
+    Why not have rules then to allow use of the slots at specific times?
 
-In the form of microtheories that turn on and off different slots,
-that are populated by other behaviours? So something like:
+    In the form of microtheories that turn on and off different slots,
+    that are populated by other behaviours? So something like:
 
-\begin{verbatim}
-lift (BEHAVIOUR) => EmoBeh;
-bind (emoBeh, sadFunc) => sadBeh;  
-\end{verbatim}
+    lift (BEHAVIOUR) => EmoBeh;
+    bind (emoBeh, sadFunc) => sadBeh;
 
-Lift turns on particular connection points, bind combines available
-actions into those connection points. 
+    Lift turns on particular connection points, bind combines available
+    actions into those connection points.
 
 
-For conversation understanding:
-\begin{verbatim}
-lift (speech act) => conv_act;
-bind(conversationAct, cntxtFunction) 
-             => cntxtConvAct;
-\end{verbatim}
+    For conversation understanding:
+    lift (speech act) => conv_act;
+    bind(conversationAct, cntxtFunction)
+                 => cntxtConvAct;
 
 *** tree monads
 
     226:How would monads \emph{work} and be written in a tree based language
- like nail and abl?\\
- 
-As mentioned above. Specifically in terms of Trees, it would require
-that lifting and binding did not interfere with other tree operations,
-didnt remove nodes that were executing... what else? What are the
-composition rules for behaviours?
+    like nail and abl?\\
 
-Retain order?, annotate actions appropriately, retain (modified)
-meaning, conflicts are resolved, doesnt get into an infinite loop?
-dependencies are respected. 
+    As mentioned above. Specifically in terms of Trees, it would require
+    that lifting and binding did not interfere with other tree operations,
+    didnt remove nodes that were executing... what else? What are the
+    composition rules for behaviours?
+
+    Retain order?, annotate actions appropriately, retain (modified)
+    meaning, conflicts are resolved, doesnt get into an infinite loop?
+    dependencies are respected.
 
 *** function composition
 
     233:composition of functions, so different axioms would need to be
     defined?
 
-monads are a triple consisting of a type, a lift function, and a bind
-function. They respect left and right identity and are associative:
+    monads are a triple consisting of a type, a lift function, and a bind
+    function. They respect left and right identity and are associative:
 
-\begin{verbatim}
-Bind(Lift(e), k) = k;
-Bind(m, Lift) = m;
-Bind(m, x => Bind(k(x), 
-        y => h(y)) 
-= Bind(Bind(m, x => k(x)),
-        y => h(y));
-\end{verbatim}
+    Bind(Lift(e), k) = k;
+    Bind(m, Lift) = m;
+    Bind(m, x => Bind(k(x),
+            y => h(y))
+    = Bind(Bind(m, x => k(x)),
+            y => h(y));
 
-So a behaviour monad would be a triple, of a behaviour type, a lift
-function and a bind function:
+    So a behaviour monad would be a triple, of a behaviour type, a lift
+    function and a bind function:
 
-\begin{verbatim}
-Lift: behaviour => monad behaviour;
-Bind: (monad behaviour, 
-       (behaviour => monad behaviour)) 
-                  => monad behaviour_b;
-\end{verbatim}
+    Lift: behaviour => monad behaviour;
+    Bind: (monad behaviour,
+           (behaviour => monad behaviour))
+                      => monad behaviour_b;
 
-So the main monad would be an alterBehaviour monad. Lift a behaviour
-up to have sockets, and apply a function that adds actions into the
-sockets. Behaviours could be repeatedly lifted and bound with further
-annotations. 
+    So the main monad would be an alterBehaviour monad. Lift a behaviour
+    up to have sockets, and apply a function that adds actions into the
+    sockets. Behaviours could be repeatedly lifted and bound with further
+    annotations.
 
-A speech interpretation monad would be as follows: Lift a low level
-speech act to be a speechMonad. Bind an interpretation function that
-adds to the monad the appropriate context. repeatedly bind
-interpretation functions. 
+    A speech interpretation monad would be as follows: Lift a low level
+    speech act to be a speechMonad. Bind an interpretation function that
+    adds to the monad the appropriate context. repeatedly bind
+    interpretation functions.
 
-no. context is not represented as an object, it is the functions and
-only the functions. They are called and modified every time an
-interpretation needs to happen. Possibly in a microtheory format.
+    no. context is not represented as an object, it is the functions and
+    only the functions. They are called and modified every time an
+    interpretation needs to happen. Possibly in a microtheory format.
 
-So how would the speech monad be used? Pass in a speech act, apply the
-monad, to lift to a type that can interpret/parse the base level of
-meaning of the speech act. look at the meaning of the sentence so far,
-and add a interpretation function based on that understanding. 
+    So how would the speech monad be used? Pass in a speech act, apply the
+    monad, to lift to a type that can interpret/parse the base level of
+    meaning of the speech act. look at the meaning of the sentence so far,
+    and add a interpretation function based on that understanding.
 
-interpretation functions could: add understanding nodes to the
-context, add or delete conversational obligations, add or delete wmes
-from the episodic memory, add or delete clauses from the
-sentence. create queries for the working memory, substitute words into
-the sentence...
+    interpretation functions could: add understanding nodes to the
+    context, add or delete conversational obligations, add or delete wmes
+    from the episodic memory, add or delete clauses from the
+    sentence. create queries for the working memory, substitute words into
+    the sentence...
 
 *** speech acts
 
-So what are the effects of a speech act on the reciever:
-\begin{itemize}
-\item add nodes to context
-\item add obligations
-\item add memories/information
-\item add delete or substitute clauses from the sentence
-\item queries working memory
-\item change state
-\item modify context node
-\end{itemize}
-\\\\\\
-And on the sender:
-\begin{itemize}
-\item Transmit a piece of information
-\item Transmit an obligation
-\item Ellicit emotional response
-\item Declare Something
-\end{itemize}
-\\\\\\
-Axioms of Conversation:
-\begin{itemize}
-\item (A Says B) =\textgreater (A Knows B)
-\item (A Hears B) =\textgreater (A Knows B)
-\item (A Declares B as C) =\textgreater (Current-Context (Rule A to B))
-\item Obligations must be resolved
-\end{itemize}
-\\\\\\
-Types of ``thing'':
-\begin{itemize}
-\item Person
-\item Object
-\item Time
-\item Place
-\item Emotion
-\item Concept
-\item Memory
-\item Action
-\item Sequence
-\item clause?
-\end{itemize}
-\\\\\\
-Things you can say about a thing:
-\begin{itemize}
-\item where it is
-\item who or what it is
-\item components of it
-\item when it is
-\item what came before or after it
-\item tense
-\end{itemize}
-\\\\\\
-Elements of a Concept:
-\begin{itemize}
-\item Form of / linking
-\item volition assessments /rules
-\item language use
-\item ranking types
-\item working memory references
-\item parents
-\item children
-\end{itemize}\\\\
+    So what are the effects of a speech act on the reciever:
+    \item add nodes to context
+    \item add obligations
+    \item add memories/information
+    \item add delete or substitute clauses from the sentence
+    \item queries working memory
+    \item change state
+    \item modify context node
+    \\\\\\
+    And on the sender:
+    \item Transmit a piece of information
+    \item Transmit an obligation
+    \item Ellicit emotional response
+    \item Declare Something
+    \\\\\\
+    Axioms of Conversation:
+    \item (A Says B) =\textgreater (A Knows B)
+    \item (A Hears B) =\textgreater (A Knows B)
+    \item (A Declares B as C) =\textgreater (Current-Context (Rule A to B))
+    \item Obligations must be resolved
+    \\\\\\
+    Types of ``thing'':
+    \item Person
+    \item Object
+    \item Time
+    \item Place
+    \item Emotion
+    \item Concept
+    \item Memory
+    \item Action
+    \item Sequence
+    \item clause?
+    \\\\\\
+    Things you can say about a thing:
+    \item where it is
+    \item who or what it is
+    \item components of it
+    \item when it is
+    \item what came before or after it
+    \item tense
+    \\\\\\
+    Elements of a Concept:
+    \item Form of / linking
+    \item volition assessments /rules
+    \item language use
+    \item ranking types
+    \item working memory references
+    \item parents
+    \item children
 
-Manipulations on the Conversation Grammar:
-\begin{itemize}
-\item add or remove edges from the finite state machine of
-  conversational actions
-\item expand single statements to multiple statements
-\item reduce multiple statements to single statements (ie saying n
-  mean things can be reduced to ``being mean''. or is this a
-  perception monad?)
-\end{itemize}\\\\
+    Manipulations on the Conversation Grammar:
+    \item add or remove edges from the finite state machine of
+      conversational actions
+    \item expand single statements to multiple statements
+    \item reduce multiple statements to single statements (ie saying n
+      mean things can be reduced to ``being mean''. or is this a
+      perception monad?)
 
-Manipulations on the Cultural Grammar:
-\begin{itemize}
-\item add or remove parents and children
-\item modify global hierarchy of concepts
-\item modify local hierarchy of types
-\item modify rules etc
-\end{itemize}
+    Manipulations on the Cultural Grammar:
+    \item add or remove parents and children
+    \item modify global hierarchy of concepts
+    \item modify local hierarchy of types
+    \item modify rules etc
 
 
-This could be, without too much difficulty, turned into a bnf grammar?
+    This could be, without too much difficulty, turned into a bnf grammar?
 
 
-understanding nodes consist of substitution rules for words/children
-to change the sentence/add another track of meaning, and also to add
-or remove potential nodes into the available language? these can all
-bottom out in a speech act
+    understanding nodes consist of substitution rules for words/children
+    to change the sentence/add another track of meaning, and also to add
+    or remove potential nodes into the available language? these can all
+    bottom out in a speech act
 
 
-what it seems to come to, is that richard evans doesnt go far
-enough. With a language like exclusion logic, have a conversion
-between sentences and the logic, and have substitution rules as
-metaphors and cultural understanding. But not just editing rules, have
-it changing state, creating collections etc etc. 
+    what it seems to come to, is that richard evans doesnt go far
+    enough. With a language like exclusion logic, have a conversion
+    between sentences and the logic, and have substitution rules as
+    metaphors and cultural understanding. But not just editing rules, have
+    it changing state, creating collections etc etc.
 
 
-Dissonance between act and meaning/speech and movement/different
-layered meaning: as a choice, recognised and used for sarcasm possibly.
+    Dissonance between act and meaning/speech and movement/different
+    layered meaning: as a choice, recognised and used for sarcasm possibly.
 
 *** text search based meta behaviour?
 
-If i let the user use regex's to determine what to modify would that
-be helpful?
+    If i let the user use regex's to determine what to modify would that
+    be helpful?
 
 ***    255:generalization /type/token?
 
-Richard evans distinction between types and tokens. need to look
-again, differentiate between types and tokens in socio-ins stuff.
+    Richard evans distinction between types and tokens. need to look
+    again, differentiate between types and tokens in socio-ins stuff.
 
 ***    257:socio-institutional forms?
 
-see above
+    see above
 
 ***    260:Dunbars number of people you can know?\\
 
-Limit the size of agent somewhat. while this shouldnt be a major
-difficulty with even naive memory loss algorithms, its good to remember.
+    Limit the size of agent somewhat. while this shouldnt be a major
+    difficulty with even naive memory loss algorithms, its good to remember.
 
 ***    263:institutions as a process rather than as data?\\
 
-This is a big one, how to represent the dynamic processes of
-socio-insitutional activities. Different ones interact in particular
-ways. Should I leave this to be dynamic, or have... more abstract SI
-monads that enable interactions between institutions?
+    This is a big one, how to represent the dynamic processes of
+    socio-insitutional activities. Different ones interact in particular
+    ways. Should I leave this to be dynamic, or have... more abstract SI
+    monads that enable interactions between institutions?
 
 ***    269:cif style volition in nail?\\
 
-multiple rules giving a large number of volitional variables. how
-would this change preconditions? Turn it into auto refactoring of
-tests to make microtheories from preconditions? 
+    multiple rules giving a large number of volitional variables. how
+    would this change preconditions? Turn it into auto refactoring of
+    tests to make microtheories from preconditions?
 
-Also, if volition is to be used, where will it be used? Replace the
-abt with access to everything, straight cif? or use volition to
-resolve the conflict set instead of priority? both?
+    Also, if volition is to be used, where will it be used? Replace the
+    abt with access to everything, straight cif? or use volition to
+    resolve the conflict set instead of priority? both?
 
 ***    272:democracy -\textgreater facism?\\\\
 
-What is the \emph{process} by which democracy can become facism. Where
-are the patterns, and how do you represent that in a model?
+    What is the \emph{process} by which democracy can become facism. Where
+    are the patterns, and how do you represent that in a model?
 
 
     274:confusion - how many types are there? just breakdown of communication.\\\\
@@ -418,398 +391,386 @@ are the patterns, and how do you represent that in a model?
     985:specific places on the tree, remove from tree? PAUSE? escape/cleanup behaviours?\\\\
     987:fold behaviours together with overlapping actions?\\\\
     998:form of personality?\\\\
-   1008:  BLANK is to abl coding?\\\\
-   1011:  are you today??'' as a performative becomes ``good morning''.\\\\
-   1012:item british ``how are you?'' expects ``fine''. It is an exchange\\\\
-   1021:two separate data structures for definitions and instances? put\\\\
-   1024:uses prototype pattern? or would if it was better in java. As is, have\\\\
-   1029:have definitional vs instancial preconditions?\\\\
-   1031:multi-part conflict set creation?:\\\\
-   1035:hierarchical variable search: up the tree, or up definitions? or\\\\
-   1038:treat nodes as clauses on the tree?\\\\
-   1043:actions to flip conditions on or off? Then if its too big, cleanup?\\\\
-   1046:parsing: literally line by line? hmm. a REPL would be useful\\\\
-   1049:tree, and the ABT? on this point it got more complicated when i added\\\\
-   1056:linking the object representations with the relevant code somehow?\\\\
-   1059:inline explicit?\\\\
-   1061:using a stack of hashmaps to deal with scope of symbol tables? or\\\\
-   1062:actually just go up the tree?\\\\
-   1071:Return values: syntax to extract values returned?\\\\
-   1074:together, or can occur at any time within?\\\\
-   1076:type inference goes down the tree, execution goes up?\\\\
-   1084:Tree, back, forward, cross edges. Can these be used in nail?\\\\
-   1086:nodes describing state and edges?\\\\
-   1099:item return setup?\\\\
-   1103:cif style volition of behaviours? behaviour entry only?\\\\
-   1106:spawns appropriate behaviours? \\\\
-   1108:Add Regex into nail to allow for regex selection of behaviours?\\\\
-   1115:position, effect only, inheritence, wait time?\\\\
-   1124:symbol tables and stacks of aliased variables?\\\\
-   1131:belief-revision??\\\\
-   1138:alternatively, be able to set listener clauses manually?\\\\
-   1145:versus external wmes created via sensors?\\\\
-   1146:how do i deal with cleaning up the working memory?\\\\
-   1150:facilitate counter factual thinking?)\\\\
-   1153:in additional classes somehow for more specific behaviour?\\\\
-   1155:make WMEs able to initiate actions or chains of actions/behaviours?\\\\
-   1158:instances?\\\\
-   1160:Claiming, strength of claiming, release behaviours? exit actions?\\\\
-   1164:characters/conceptual constructs? \\\\
-   1166:So bob does a,b,c,d,e while jill simultaneously does \_,f,\_,t,\_,\_,a?\\\\
-   1173:monads and praxis? \\\\
-   1176:First order logic (maybe exclusion logic?) in the language for wme\\\\
-   1177:tests and volition tests?\\\\
-   1222:using JSON as a storage format? allows analysing later on?\\\\
-   1237:enforcing/declaring points of reference within behaviours to mix in?\\\\
-   1271:particle filter perception?\\\\
-   1394:json browser to analyse google reader data? \\\\
-   1407:genetic creation of a tree? of behaviours?\\\\
-   1441:algorithms?\\\\
-   1446:Use ASP and speech acts to generate templated conversations?\\\\
-   1485:to... volition/rule based ai? its not cognitive, so there are three\\\\
-   1489:voltiion based (possibly related to hofstadter's FARG stuff?)\\\\
-   1502:hierarchical reinforcement learning, dynamic scripting. hashing state space?\\\\
-   1509:markov logic networks?\\\\
-   1511:occupancy grids?\\\\
-   1531:most sensemaking properties? crowd source brute authoring then\\\\
-   1532:sensemaking assessment?\\\\
-   1534:crowdsourced conversations?\\\\
-   1536:build ins-rules for language in the same way?\\\\
-   1538:how do cheat detection programs work?\\\\
-   1559:other?\\\\
-   1563:subjective perspectives in multiplayer games? americas army?\\\\
-   1568:game of single landmass with rising sea to create archipelego slowly?\\\\
-   1570:difference between rules of the system and rules of the game? \\\\
-   1574:dubdomain for experimenting with cultural evolution: clothing choice?\\\\
-   1579:issues of fighting convergence in game systems? Economies and RPG\\\\
-   1589:designing for negative freedom? ASP possibly gets towards this\\\\
-   1595:tree to evaluate clauses? then take that entire tree into nail?\\\\
-   1623:quests rely on an amount of unknown information. What level of unknown?\\\\
-   1628:social pragmatics?\\\\
-   1708:item what happened prior?\\\\
-   1709:item how is choice conveyed?\\\\
-   1710:item how was the choice made?\\\\
-   1711:item what was the result?\\\\
-   1712:item how was the result conveyed?\\\\
-   1763:metacommunication: p371?\\\\
-   1786:dunbar?\\\\
-   1794:mark downey - open ended group?\\\\
-   1798:stuart russell - partial programming?\\\\
-   1813:could it work for other things?\\\\
-   1815:nights for violin?
+    1008:  BLANK is to abl coding?\\\\
+    1011:  are you today??'' as a performative becomes ``good morning''.\\\\
+    1012:item british ``how are you?'' expects ``fine''. It is an exchange\\\\
+    1021:two separate data structures for definitions and instances? put\\\\
+    1024:uses prototype pattern? or would if it was better in java. As is, have\\\\
+    1029:have definitional vs instancial preconditions?\\\\
+    1031:multi-part conflict set creation?:\\\\
+    1035:hierarchical variable search: up the tree, or up definitions? or\\\\
+    1038:treat nodes as clauses on the tree?\\\\
+    1043:actions to flip conditions on or off? Then if its too big, cleanup?\\\\
+    1046:parsing: literally line by line? hmm. a REPL would be useful\\\\
+    1049:tree, and the ABT? on this point it got more complicated when i added\\\\
+    1056:linking the object representations with the relevant code somehow?\\\\
+    1059:inline explicit?\\\\
+    1061:using a stack of hashmaps to deal with scope of symbol tables? or\\\\
+    1062:actually just go up the tree?\\\\
+    1071:Return values: syntax to extract values returned?\\\\
+    1074:together, or can occur at any time within?\\\\
+    1076:type inference goes down the tree, execution goes up?\\\\
+    1084:Tree, back, forward, cross edges. Can these be used in nail?\\\\
+    1086:nodes describing state and edges?\\\\
+    1099:item return setup?\\\\
+    1103:cif style volition of behaviours? behaviour entry only?\\\\
+    1106:spawns appropriate behaviours? \\\\
+    1108:Add Regex into nail to allow for regex selection of behaviours?\\\\
+    1115:position, effect only, inheritence, wait time?\\\\
+    1124:symbol tables and stacks of aliased variables?\\\\
+    1131:belief-revision??\\\\
+    1138:alternatively, be able to set listener clauses manually?\\\\
+    1145:versus external wmes created via sensors?\\\\
+    1146:how do i deal with cleaning up the working memory?\\\\
+    1150:facilitate counter factual thinking?)\\\\
+    1153:in additional classes somehow for more specific behaviour?\\\\
+    1155:make WMEs able to initiate actions or chains of actions/behaviours?\\\\
+    1158:instances?\\\\
+    1160:Claiming, strength of claiming, release behaviours? exit actions?\\\\
+    1164:characters/conceptual constructs? \\\\
+    1166:So bob does a,b,c,d,e while jill simultaneously does \_,f,\_,t,\_,\_,a?\\\\
+    1173:monads and praxis? \\\\
+    1176:First order logic (maybe exclusion logic?) in the language for wme\\\\
+    1177:tests and volition tests?\\\\
+    1222:using JSON as a storage format? allows analysing later on?\\\\
+    1237:enforcing/declaring points of reference within behaviours to mix in?\\\\
+    1271:particle filter perception?\\\\
+    1394:json browser to analyse google reader data? \\\\
+    1407:genetic creation of a tree? of behaviours?\\\\
+    1441:algorithms?\\\\
+    1446:Use ASP and speech acts to generate templated conversations?\\\\
+    1485:to... volition/rule based ai? its not cognitive, so there are three\\\\
+    1489:voltiion based (possibly related to hofstadter's FARG stuff?)\\\\
+    1502:hierarchical reinforcement learning, dynamic scripting. hashing state space?\\\\
+    1509:markov logic networks?\\\\
+    1511:occupancy grids?\\\\
+    1531:most sensemaking properties? crowd source brute authoring then\\\\
+    1532:sensemaking assessment?\\\\
+    1534:crowdsourced conversations?\\\\
+    1536:build ins-rules for language in the same way?\\\\
+    1538:how do cheat detection programs work?\\\\
+    1559:other?\\\\
+    1563:subjective perspectives in multiplayer games? americas army?\\\\
+    1568:game of single landmass with rising sea to create archipelego slowly?\\\\
+    1570:difference between rules of the system and rules of the game? \\\\
+    1574:dubdomain for experimenting with cultural evolution: clothing choice?\\\\
+    1579:issues of fighting convergence in game systems? Economies and RPG\\\\
+    1589:designing for negative freedom? ASP possibly gets towards this\\\\
+    1595:tree to evaluate clauses? then take that entire tree into nail?\\\\
+    1623:quests rely on an amount of unknown information. What level of unknown?\\\\
+    1628:social pragmatics?\\\\
+    1708:item what happened prior?\\\\
+    1709:item how is choice conveyed?\\\\
+    1710:item how was the choice made?\\\\
+    1711:item what was the result?\\\\
+    1712:item how was the result conveyed?\\\\
+    1763:metacommunication: p371?\\\\
+    1786:dunbar?\\\\
+    1794:mark downey - open ended group?\\\\
+    1798:stuart russell - partial programming?\\\\
+    1813:could it work for other things?\\\\
+    1815:nights for violin?
 
 
 *** ways of conceptualising? multiple reference dictionaries?
 
 
-``milton model conversational postulates'' -\textgreater questions
-with yes no answers that evoke a behavioural response.
+    ``milton model conversational postulates'' -\textgreater questions
+    with yes no answers that evoke a behavioural response.
 
 *** built in primitives? person? object? entities?
-How do I decide upon the atoms of the model? An extensible symbol
-table that takes an eval function to rank and compare?
+    How do I decide upon the atoms of the model? An extensible symbol
+    table that takes an eval function to rank and compare?
 
-*** cross-heirarchy coincidence? 
-How about confusion arising by occasionally taking a different meaning
-parent from which he is meant to?
-
-
-what is the difference between being a jerk, and being selfish,
-dishonest, or just not knowing the social practise your in? :
-
-this links to types of players:
-some people play within the system, going for the outcome they
-want. some people play outside the system, to do things that don't
-make sense or shouldnt be allowed. And there are people who don't see
-the system, who play within and without the system. Finally, there are
-griefers who play the ``worst'' or ``more annoying'' action possible.
+*** cross-heirarchy coincidence?
+    How about confusion arising by occasionally taking a different meaning
+    parent from which he is meant to?
 
 
-mixin behaviour $\Rightarrow$ subset: call different things by
-different names?
+    what is the difference between being a jerk, and being selfish,
+    dishonest, or just not knowing the social practise your in? :
 
-Mixin's are problematic without being able to know where to mix
-something into. This could be done with some sort of latching point,
-scheduling, or conflict declarations, or named locations within a
-behaviour that can have things mixed in, and of what type. Otherwise:
-monads.
+    this links to types of players:
+    some people play within the system, going for the outcome they
+    want. some people play outside the system, to do things that don't
+    make sense or shouldnt be allowed. And there are people who don't see
+    the system, who play within and without the system. Finally, there are
+    griefers who play the ``worst'' or ``more annoying'' action possible.
+
+
+    mixin behaviour $\Rightarrow$ subset: call different things by
+    different names?
+
+    Mixin's are problematic without being able to know where to mix
+    something into. This could be done with some sort of latching point,
+    scheduling, or conflict declarations, or named locations within a
+    behaviour that can have things mixed in, and of what type. Otherwise:
+    monads.
 
 *** Monads:
-The idea of a monad is potentially really useful for behaviour based
-AI. If implemented, it would allow a base behaviour definition to be
-created, and then lifted to include new functionality contintually,
-allowing your ``greeting'' to be supplemented and lifted with
-``unhappy'', ``quiet'', and ``with a red balloon''. 
+    The idea of a monad is potentially really useful for behaviour based
+    AI. If implemented, it would allow a base behaviour definition to be
+    created, and then lifted to include new functionality contintually,
+    allowing your ``greeting'' to be supplemented and lifted with
+    ``unhappy'', ``quiet'', and ``with a red balloon''.
 
-How would monads \emph{work} and be written in a tree based language
-like nail and abl?
+    How would monads \emph{work} and be written in a tree based language
+    like nail and abl?
 
-You would need to be able to take a behaviour, and amplify it into a
-different behaviour. So: ``Greeting'' ==\textgreater Sad
-behaviour(greeting).
+    You would need to be able to take a behaviour, and amplify it into a
+    different behaviour. So: ``Greeting'' ==\textgreater Sad
+    behaviour(greeting).
 
-Bind is the tricky one. Composition of behaviours is not the same as
-composition of functions, so different axioms would need to be defined?
+    Bind is the tricky one. Composition of behaviours is not the same as
+    composition of functions, so different axioms would need to be defined?
 
 
-This would involve taking a greeting, and modifying each step to
-incorporate whatever ``sad'' is defined to be. (possibly have
-predefined tags in behaviours: ``pre'', ``post'', ``main''. These
-could cover a number of subgoals as one, and when lifted, a behaviour
-would replace some or all of the defined tags with the corresponding
-tagged behaviour? it would preserve the tags such that you could life
-multiple times.
+    This would involve taking a greeting, and modifying each step to
+    incorporate whatever ``sad'' is defined to be. (possibly have
+    predefined tags in behaviours: ``pre'', ``post'', ``main''. These
+    could cover a number of subgoals as one, and when lifted, a behaviour
+    would replace some or all of the defined tags with the corresponding
+    tagged behaviour? it would preserve the tags such that you could life
+    multiple times.
 
-You would also need to be able to transform any operations done on the
-original type to the new type.
+    You would also need to be able to transform any operations done on the
+    original type to the new type.
 
-Finally you would preferably want to extract the original type out.
+    Finally you would preferably want to extract the original type out.
 
 
 *** text search based meta behaviour?
-If meta behaviours modified the source code rather than intermediary
-code, they might be more powerful?
+    If meta behaviours modified the source code rather than intermediary
+    code, they might be more powerful?
 
 
 *** generalization /type/token?
-Where am I in terms of understanding types and tokens with respect to
-socio-institutional forms?
+    Where am I in terms of understanding types and tokens with respect to
+    socio-institutional forms?
 
 *** dunbdar?
-Dunbars number of people you can know?
+    Dunbars number of people you can know?
 
 
 *** institutions as a process rather than as data?
-The first instinct is to represent an institution or organization as a
-data structure, even though all the interesting elements in it are
-actually processes that describe the interactions.
+    The first instinct is to represent an institution or organization as a
+    data structure, even though all the interesting elements in it are
+    actually processes that describe the interactions.
 
 
-cif style volition in nail? 
+    cif style volition in nail?
 
-translation between monarchy $\Rightarrow$ tyranny aristocracy $\Rightarrow$ oligarchy
-deomcracy - \textgreater facism?
+    translation between monarchy $\Rightarrow$ tyranny aristocracy $\Rightarrow$ oligarchy
+    deomcracy - \textgreater facism?
 
-confusion - how many types are there? just breakdown of communication.
-misunderstanding vs confusion? 
-
-
-minimum rules in society for particular things? eg: private property:
-
-item $\Rightarrow$ person $\Rightarrow$ don't do x to people?
-
-person $\Rightarrow$ item $\Rightarrow$ items $\Rightarrow$ respect things?
-
-transmission of new solutions based on contact? DFS on social network?
-flip flop - search and open colours???
+    confusion - how many types are there? just breakdown of communication.
+    misunderstanding vs confusion?
 
 
-dynamic group formation rules?
+    minimum rules in society for particular things? eg: private property:
 
-neural nets as a means for optimising after?
+    item $\Rightarrow$ person $\Rightarrow$ don't do x to people?
 
-remove key people in an organisation that doesnt have titles? 
-consent?
+    person $\Rightarrow$ item $\Rightarrow$ items $\Rightarrow$ respect things?
 
-mixed constitutive/restrictive rule model?
-
-monads? lifting a social practise to include another?
-
-heideggers 'public mood'?
+    transmission of new solutions based on contact? DFS on social network?
+    flip flop - search and open colours???
 
 
-if insrules provide desire independent reasons for action, what is the
-selection heuristic to choose between a social practise action and
-something you actually desire?
+    dynamic group formation rules?
+
+    neural nets as a means for optimising after?
+
+    remove key people in an organisation that doesnt have titles?
+    consent?
+
+    mixed constitutive/restrictive rule model?
+
+    monads? lifting a social practise to include another?
+
+    heideggers 'public mood'?
 
 
-deeper meaning? coreferences?
-
-how do we differentiate between breaking social practice and mental
-illness?
-
-Status function declarations enable particular social practice?
-charaters $\Rightarrow$ roles $\Rightarrow$ social practices
-\textlesser- status function declaration
-
-institutions as networks of SFD's and roles?
-
-design patterns of social actions?
-
-recap: conversations represented as a collection made of:
-statement-tree, meaning graph, obligation set. what else?
-would there be a social practise graph as well?
+    if insrules provide desire independent reasons for action, what is the
+    selection heuristic to choose between a social practise action and
+    something you actually desire?
 
 
-which is it: actions make and start the social practise, or the social
-practise starts and makes the actions?
+    deeper meaning? coreferences?
+
+    how do we differentiate between breaking social practice and mental
+    illness?
+
+    Status function declarations enable particular social practice?
+    charaters $\Rightarrow$ roles $\Rightarrow$ social practices
+    \textlesser- status function declaration
+
+    institutions as networks of SFD's and roles?
+
+    design patterns of social actions?
+
+    recap: conversations represented as a collection made of:
+    statement-tree, meaning graph, obligation set. what else?
+    would there be a social practise graph as well?
+
+
+    which is it: actions make and start the social practise, or the social
+    practise starts and makes the actions?
 
 
 *** socio-mimetic vs socio-intuitive? (off swen - biomimetic):
-*** cross-heirarchical coincidence? 
-So similar patterns occuring on different levels of a
-hierarchy. Hitchhikers guide to the galaxy is an example: Arthur Dents
-home being demolished, and the earth being similarly demolished.
-
+*** cross-heirarchical coincidence?
+    So similar patterns occuring on different levels of a
+    hierarchy. Hitchhikers guide to the galaxy is an example: Arthur Dents
+    home being demolished, and the earth being similarly demolished.
 
 ** Thoughts
 
-politeness, doing things to do things to be polite to show respect
-(respect and polite are different in some cultures)
+   politeness, doing things to do things to be polite to show respect
+   (respect and polite are different in some cultures)
 
-axes of relationships: neurotic - stable and cooperative -
-antagonistic
+   axes of relationships: neurotic - stable and cooperative -
+   antagonistic
 
-difference that im going for (Chess / cif / praxis) against (Go /
-SIAQ). a much subtler game...
+   difference that im going for (Chess / cif / praxis) against (Go /
+   SIAQ). a much subtler game...
 
-chains of insRules causing conflict, a reverse tree of interpretations
+   chains of insRules causing conflict, a reverse tree of interpretations
 
-insRules need to have boundaries
-
-
-personality as flailing cords. Desires without release. Tentacles that
-will latch to available realisations.
-
-call and response based langauge where its not \emph{what} you say but
-the modifications you make to the previous sentence that imparts meaning
-
-Expectation set.
+   insRules need to have boundaries
 
 
-cultural views on emotion $\Rightarrow$ personal experience. 
-$\Rightarrow$ social-insitutional \emph{understanding} rather than performance.
+   personality as flailing cords. Desires without release. Tentacles that
+   will latch to available realisations.
 
-interpersonal vs institutional obligations
+   call and response based langauge where its not \emph{what} you say but
+   the modifications you make to the previous sentence that imparts meaning
 
-Relational opinions: define everything in terms of modifications of
-YOUR state. So you dont say what Bob believes or knows, you modify
-what you know to arrive at your understanding of Bob's state.
-
-\emph{This raises an interesting concept: defining an individual as a
-  process rather than as a structure, such that at every moment you
-  are figuring out what to do. Perception (not sensation) becomes
-  crucial. The ways in which you interpret incoming information offers
-additional social practises. Thus, reading an article, i can agree or
-disagree with each sentence as I read it. This can be used to group
-all the opinions together, giving me an opinion of the newspaper
-article as a whole. By processing the article, I have generated an
-opinion. If that opinion is held strongly enough, and I am the sort of
-person to do so, I can decide to write an opinion letter to the
-newspaper, interpreting it as a conversation rather than a
-broadcast. I don't have a ``check to see if i have a strong enough
-opinion to send a letter'' precondition on a behaviour, the behaviour
-is instantiated due to something else triggering. }
-
-to arrive at someone's view of someone else's view do it for each
-step:
-Bob $\Rightarrow$ Bill $\Rightarrow$ kate $\Rightarrow$ joy's view on something.
-
-so the operations are:
-\begin{itemize}
-\item Bob(B) creates Bill's(BI) relational mind(BIRM)
-\item BIRM creates Kates(K) relational mind(KRM)
-\item KRM creates Joys(J) relational mind (JRM)
-\item JRM generates an opinion.
-\end{itemize}
-
-at each stage, based on all information of the target, remove (and
-maybe add (possibly ``templated'' knowledge rather than the actual
-thing) information to a clone of your mind, which can recurse to the
-necessary level. Then its a case of retrieval.
+   Expectation set.
 
 
-{positions, roles, norms, values} $\Rightarrow$ social structures
-$\Rightarrow$ stable patterns of human acitvity $\Rightarrow$ plsr, ri,
-svss. (see above).
+   cultural views on emotion $\Rightarrow$ personal experience.
+   $\Rightarrow$ social-insitutional \emph{understanding} rather than performance.
 
-change from a hivemind architecture of cif and praxis to agent based,
-as i need everyone to have their own understanding. (this can be
-instantiated at the start by randomly adding/subtracting meanings, or
-generating new ones to add some variation). when doing opinion
-inference you assume people are exactly like an existing model,
-usually you, plus or minus particular things. But it doesnt have to be
-based on you. You could store the manipulations as separate models. In
-which case a couple of things. Firstly, manipulations will need to be
-somewhat exagerated because its inference. Secondly, You could do
-reinforcement learning or something, thus you infer better for
-particular people as time goes on. You could also use these models for
-new people based on your expectations of what sort of person you will meet?
+   interpersonal vs institutional obligations
 
-ins rules as metaphor to modify an S.P. ie: argument as war offering
-particular options and ways of describing something.
+   Relational opinions: define everything in terms of modifications of
+   YOUR state. So you dont say what Bob believes or knows, you modify
+   what you know to arrive at your understanding of Bob's state.
 
-to think of the opinion of someone else is to think of your opinion
-and then modify it with what you believe about the person you are
-focusing on.
-Thus: Bob thinks Bill doesn't like Kate.
-Is: Bob thinks (Bob's opinion of kate modified by what is known and
-thought of Bill).
+   \emph{This raises an interesting concept: defining an individual as a
+   process rather than as a structure, such that at every moment you
+   are figuring out what to do. Perception (not sensation) becomes
+   crucial. The ways in which you interpret incoming information offers
+   additional social practises. Thus, reading an article, i can agree or
+   disagree with each sentence as I read it. This can be used to group
+   all the opinions together, giving me an opinion of the newspaper
+   article as a whole. By processing the article, I have generated an
+   opinion. If that opinion is held strongly enough, and I am the sort of
+   person to do so, I can decide to write an opinion letter to the
+   newspaper, interpreting it as a conversation rather than a
+   broadcast. I don't have a ``check to see if i have a strong enough
+   opinion to send a letter'' precondition on a behaviour, the behaviour
+   is instantiated due to something else triggering. }
 
+   to arrive at someone's view of someone else's view do it for each
+   step:
+   Bob $\Rightarrow$ Bill $\Rightarrow$ kate $\Rightarrow$ joy's view on something.
+
+   so the operations are:
+   \item Bob(B) creates Bill's(BI) relational mind(BIRM)
+   \item BIRM creates Kates(K) relational mind(KRM)
+   \item KRM creates Joys(J) relational mind (JRM)
+   \item JRM generates an opinion.
+
+   at each stage, based on all information of the target, remove (and
+   maybe add (possibly ``templated'' knowledge rather than the actual
+   thing) information to a clone of your mind, which can recurse to the
+   necessary level. Then its a case of retrieval.
+
+
+   {positions, roles, norms, values} $\Rightarrow$ social structures
+   $\Rightarrow$ stable patterns of human acitvity $\Rightarrow$ plsr, ri,
+   svss. (see above).
+
+   change from a hivemind architecture of cif and praxis to agent based,
+   as i need everyone to have their own understanding. (this can be
+   instantiated at the start by randomly adding/subtracting meanings, or
+   generating new ones to add some variation). when doing opinion
+   inference you assume people are exactly like an existing model,
+   usually you, plus or minus particular things. But it doesnt have to be
+   based on you. You could store the manipulations as separate models. In
+   which case a couple of things. Firstly, manipulations will need to be
+   somewhat exagerated because its inference. Secondly, You could do
+   reinforcement learning or something, thus you infer better for
+   particular people as time goes on. You could also use these models for
+   new people based on your expectations of what sort of person you will meet?
+
+   ins rules as metaphor to modify an S.P. ie: argument as war offering
+   particular options and ways of describing something.
+
+   to think of the opinion of someone else is to think of your opinion
+   and then modify it with what you believe about the person you are
+   focusing on.
+   Thus: Bob thinks Bill doesn't like Kate.
+   Is: Bob thinks (Bob's opinion of kate modified by what is known and
+   thought of Bill).
 
 ** Social Models
 
-Concerns of how to construct a model of social activity that includes
-both low level, speech act type communication ability, up to
-institutional manipulation.
+   Concerns of how to construct a model of social activity that includes
+   both low level, speech act type communication ability, up to
+   institutional manipulation.
 
 *** Theory and Defintions
 
 
-types of questions. (bookmarked)
+    types of questions. (bookmarked)
 
-%means, motive, opportunity
-%In crime dramas, it needs to be proved that a suspect had three
-%different levels of capability to commit the crime, of personal
-%volition, ability, and the correct free time.
+    %means, motive, opportunity
+    %In crime dramas, it needs to be proved that a suspect had three
+    %different levels of capability to commit the crime, of personal
+    %volition, ability, and the correct free time.
 
 
-%desired elements of a social model:
-The desired elements are at least:
-\begin{itemize}
-\item expanded desire formation to account for longer term goals
-\item institutional facts. use and creation  for higher level meanings
-\item micro-theories for mixed social/non-social actions -
-  microtheories and conflicts in some form?
-\item templated quests - or not. Instead select a desire to be made
-  real. 
-\item institutional chain quests + planning
-\item mod CKB, situtational CKB (this is actually like praxis)
-\item expanded multi-agent conversation ability. using ins facts.
-\item time, perception, action selection integration
-\item dynamic rules
-\item multi-volition games
-\item lower level control of conversation (speech acts)
-\end{itemize}
+    %desired elements of a social model:
+    The desired elements are at least:
+    \item expanded desire formation to account for longer term goals
+    \item institutional facts. use and creation  for higher level meanings
+    \item micro-theories for mixed social/non-social actions -
+      microtheories and conflicts in some form?
+    \item templated quests - or not. Instead select a desire to be made
+      real.
+    \item institutional chain quests + planning
+    \item mod CKB, situtational CKB (this is actually like praxis)
+    \item expanded multi-agent conversation ability. using ins facts.
+    \item time, perception, action selection integration
+    \item dynamic rules
+    \item multi-volition games
+    \item lower level control of conversation (speech acts)
 
 
 **** Turner
-Turner on social institutions:
+     Turner on social institutions:
 
-\begin{quotation}
-a complex of positions, roles, norms and values lodged in particular
-types of social structures and organizing relatively stable patterns of
-human activity with respect to fundamental problems in producing
-life-sustatining resources, in reproducing individuals, and in
-sustaining viable social structures within a given environment.
-\end{quotation}
+     a complex of positions, roles, norms and values lodged in particular
+     types of social structures and organizing relatively stable patterns of
+     human activity with respect to fundamental problems in producing
+     life-sustatining resources, in reproducing individuals, and in
+     sustaining viable social structures within a given environment.
 
-so:
+     so:
 
-\begin{itemize}
-\item a complex of \begin{itemize}
-  \item positions
-    \item roles
-    \item norms
-    \item values \end{itemize}
-\item lodged in social structures
-\item organizing stable patterns of activity:
-  \begin{itemize}
-    \item producing life-sutstaining resources
-      \item reproducing individuals
-        \item sustaining viable social structues within an environment
-\end{itemize}
-\end{itemize}
+     \item a complex of 
+       \item positions
+         \item roles
+         \item norms
+         \item values \end{itemize}
+     \item lodged in social structures
+     \item organizing stable patterns of activity:
+       \item producing life-sutstaining resources
+         \item reproducing individuals
+           \item sustaining viable social structues within an environment
 
 **** Perez
 
@@ -819,99 +780,93 @@ so:
 
 **** Lehnert
 
-threat, promise, honoured/denied/bungled request,
-effective, ineffective, bungled coercion,
-promise request, honoured, bungled,
-coerced agreement,
-double corss,
-coerced double cross
-unsolicited help,
-problem resolution by effective coercion
-obigation,
-serial exchange, simultaneous exchange,
-malicious/kind act,
-retaliation,
-regrettable mistake,
-sabotage.
+     threat, promise, honoured/denied/bungled request,
+     effective, ineffective, bungled coercion,
+     promise request, honoured, bungled,
+     coerced agreement,
+     double corss,
+     coerced double cross
+     unsolicited help,
+     problem resolution by effective coercion
+     obigation,
+     serial exchange, simultaneous exchange,
+     malicious/kind act,
+     retaliation,
+     regrettable mistake,
+     sabotage.
 
 
 **** Shapiro
 
 
-difference between missions vs quests. missions are more known,
-quests rely on an amount of unknown information. What level of unknown?
+     difference between missions vs quests. missions are more known,
+     quests rely on an amount of unknown information. What level of unknown?
 
-wrap ons - separate actions and attitudes. before, inplace, after,
-alongside.
+     wrap ons - separate actions and attitudes. before, inplace, after,
+     alongside.
 
-social pragmatics?
+     social pragmatics?
 
-social state $\Rightarrow$ institutional rules
+     social state $\Rightarrow$ institutional rules
 
-group formation, attention, social reactions, conversation, siu
-interleaving
+     group formation, attention, social reactions, conversation, siu
+     interleaving
 
-(SIU's == Social Games == Social Practises != behaviours)
+     (SIU's == Social Games == Social Practises != behaviours)
 
 
 
 **** Fergusen
 
-mindscape - social world model analogous to physical landscape for
-social interactions
+     mindscape - social world model analogous to physical landscape for
+     social interactions
 
-describe social interaction from observer, rather than agents,
-perspective.
+     describe social interaction from observer, rather than agents,
+     perspective.
 
-visibilities and exertions in social topology
+     visibilities and exertions in social topology
 
-instability $\Rightarrow$ conflict.
+     instability $\Rightarrow$ conflict.
 
-characters: language, appearance, comportment, choices, values,
-history, judgements and interpretations
+     characters: language, appearance, comportment, choices, values,
+     history, judgements and interpretations
 
-and allusive associations, role in story, interactions with player,
-sensibilities (how they interpret choices and others choices)
+     and allusive associations, role in story, interactions with player,
+     sensibilities (how they interpret choices and others choices)
 
 
 **** Castelfranchi
-\begin{itemize}
-\item interference and dependence. x adapts to/changes y's behaviour
-\item weak social action. beliefs about anothers
-  mind. selfish/collaborative, reactive/proactive, positive/negative.
-\item delegation. unilateral relance, induction/acceptance delegation.
-\item goals about others goals
-\item social goal-adoption.
-\end{itemize}
+     \item interference and dependence. x adapts to/changes y's behaviour
+     \item weak social action. beliefs about anothers
+       mind. selfish/collaborative, reactive/proactive, positive/negative.
+     \item delegation. unilateral relance, induction/acceptance delegation.
+     \item goals about others goals
+     \item social goal-adoption.
 
-Types of collaboration:
-\begin{itemize}
-\item literal help
-\item overhelp
-\item critical help
-\item overcritical help
-\item hyper-critical help
-\end{itemize}
+     Types of collaboration:
+     \item literal help
+     \item overhelp
+     \item critical help
+     \item overcritical help
+     \item hyper-critical help
 
-``on behalf of definitions of tasks. Ironic that agents are often
-defined thus, though players in rpgs are ore like limited capability
-drones that can be given tasks to do.
+     ``on behalf of definitions of tasks. Ironic that agents are often
+     defined thus, though players in rpgs are ore like limited capability
+     drones that can be given tasks to do.
 
 
 **** Hofstadter
 
 
-farg models share:
-\begin{itemize}
-\item thinking is thousands of small independent actions, biased by
-  currently activated concepts
-\item activation spreads
-\item there is a mental temperature for amount of randomness
-\item promising avenues are explored more than unpromising ones.
-\end{itemize}
+     farg models share:
+     \item thinking is thousands of small independent actions, biased by
+       currently activated concepts
+     \item activation spreads
+     \item there is a mental temperature for amount of randomness
+     \item promising avenues are explored more than unpromising ones.
 
-godel escher bach: self-referential strange loops.
-chunking.
+     godel escher bach: self-referential strange loops.
+     chunking.
 
 **** Cif
 
@@ -923,923 +878,870 @@ chunking.
 
 **** Economics
 
-economics seems promising particularly macroeconomics and
-hexereoeconomics?
-game theory as well.
+     economics seems promising particularly macroeconomics and
+     hexereoeconomics?
+     game theory as well.
 
 
 **** Social Patterns
 
-m counts as a number, but needs a transform for it to make
-sense. (dial ``m'' for murder, literally).
+     m counts as a number, but needs a transform for it to make
+     sense. (dial ``m'' for murder, literally).
 
-embarressment - princess kali, stripping
+     embarressment - princess kali, stripping
 
-personal vs social time vs special time
-
-
-jealousy - socially constructed. metamors.
-
-decision making, coordination, continuity.
-
-Somebody else's problem fields. 
-
-telling a story - shared/in the abscence of another/similar to someone
-elses.
-
-panic - spreading from person to person.
+     personal vs social time vs special time
 
 
-Le guins the disposessed
+     jealousy - socially constructed. metamors.
 
-russell howard - child with no internal monologue, narrating her
-stealing his potatoes.
+     decision making, coordination, continuity.
 
-adaptations of sotires into new times. shakespeare, sherlock, PRIDE
-AND PREJUDICE WITH ZOMBIES.
+     Somebody else's problem fields.
 
-patterns of revolution: mao, far cry 3, hunger games, activism.
+     telling a story - shared/in the abscence of another/similar to someone
+     elses.
 
-
-%%%%%%%%%%%
+     panic - spreading from person to person.
 
 
-status functions: have conditions
-enable/disable capabilities.
+     Le guins the disposessed
 
-judgements on other behaviours
+     russell howard - child with no internal monologue, narrating her
+     stealing his potatoes.
 
-chains of Status functions
+     adaptations of sotires into new times. shakespeare, sherlock, PRIDE
+     AND PREJUDICE WITH ZOMBIES.
 
-obligations/norms.
-wh-questions
-modifiers - very, hugely, not much (negation)
-coreferences
+     patterns of revolution: mao, far cry 3, hunger games, activism.
+
+
+     %%%%%%%%%%%
+
+
+     status functions: have conditions
+     enable/disable capabilities.
+
+     judgements on other behaviours
+
+     chains of Status functions
+
+     obligations/norms.
+     wh-questions
+     modifiers - very, hugely, not much (negation)
+     coreferences
 
 ** Books
 
-\begin{itemize}
-\item the stars my destinations
-\item gateway
-\item discworld
-\item red mars
-\item under the dome
-\item foundation
-\item horus heresy
-\item hitch hikers guide to the galaxy
-\end{itemize}
+   \item the stars my destinations
+   \item gateway
+   \item discworld
+   \item red mars
+   \item under the dome
+   \item foundation
+   \item horus heresy
+   \item hitch hikers guide to the galaxy
 
 ** Shows
 
-\begin{itemize}
-\item hannibal
-\item boardwalk empire
-\item under the dome
-\item burn notice
-\item sherlock
-\item dexter
-\item the sopranos
-\item doctor who
-\item galactica
-\item borgias
-\item game of thrones
-\item walking dead
-\end{itemize}
+   \item hannibal
+   \item boardwalk empire
+   \item under the dome
+   \item burn notice
+   \item sherlock
+   \item dexter
+   \item the sopranos
+   \item doctor who
+   \item galactica
+   \item borgias
+   \item game of thrones
+   \item walking dead
 
 *** Burn Notice study
 
-\begin{itemize}
-\item main and side problem
-\item means of resolution main and side
-\item problems
-\item division of labour
-\item points of delay
-\item reason michael isnt in control
-\end{itemize}
+    \item main and side problem
+    \item means of resolution main and side
+    \item problems
+    \item division of labour
+    \item points of delay
+    \item reason michael isnt in control
 
 *** films
-dial m for murder
-hunger games: playing a game within a system.
-
-
+    dial m for murder
+    hunger games: playing a game within a system.
 
 ** SIAQ
 
-siaq: better at describing the variations of quests, and increase the
-possibility space?
+   siaq: better at describing the variations of quests, and increase the
+   possibility space?
 
 
-siaq -\greater nail
-theory -\gt implementation
+   siaq -\greater nail
+   theory -\gt implementation
 
-interpersonal $\Rightarrow$ group $\Rightarrow$ institutional $\Rightarrow$ cultural.
+   interpersonal $\Rightarrow$ group $\Rightarrow$ institutional $\Rightarrow$ cultural.
 
-hale - COIN dissertation.
+   hale - COIN dissertation.
 
-institutional rules work for static structures, but how to describe
-\emph{dynamics} of institutions.
+   institutional rules work for static structures, but how to describe
+   \emph{dynamics} of institutions.
 
-markov chains?
+   markov chains?
 
-deontic rules are independent of character. microtheories are
-intrinsic to character? or are they the same? certainly i need to come
-up with a method of making rules personalised.
+   deontic rules are independent of character. microtheories are
+   intrinsic to character? or are they the same? certainly i need to come
+   up with a method of making rules personalised.
 
-microtheories provide volition, deontic rules are desire/volition
-independent?
+   microtheories provide volition, deontic rules are desire/volition
+   independent?
 
-change microtheories to incorporate description of patterns of
-SAS/conversations/Social games.
+   change microtheories to incorporate description of patterns of
+   SAS/conversations/Social games.
 
-differentiate character statuses from institutional statuses?
+   differentiate character statuses from institutional statuses?
 
-micro-schemas in a similar way to microtheories? small partial plans.
+   micro-schemas in a similar way to microtheories? small partial plans.
 
-different organisations are characterised by different institutional
-rules:
-\begin{itemize}
-\item 1 to 1 interactions.
-\item many to 1
-\item 1 to many
-\item many to many
-\item hierarchical
-\item non-hierarchical
-\item equal reciprocal
-\item unequal reciprocal
-\item unidirectional
-\item non-directional
-\end{itemize}
+   different organisations are characterised by different institutional
+   rules:
+   \item 1 to 1 interactions.
+   \item many to 1
+   \item 1 to many
+   \item many to many
+   \item hierarchical
+   \item non-hierarchical
+   \item equal reciprocal
+   \item unequal reciprocal
+   \item unidirectional
+   \item non-directional
 
-status as rule of behaviour versus prohibition? 
+   status as rule of behaviour versus prohibition?
 
-rules:
-\begin{itemize}
-\item descriptive
-\item targeted
-\item nontargeted
-\item declarative
-\item procedural?
-\item prohibition
-\item reactive
-\item proactive
-\end{itemize}
+   rules:
+   \item descriptive
+   \item targeted
+   \item nontargeted
+   \item declarative
+   \item procedural?
+   \item prohibition
+   \item reactive
+   \item proactive
 
-What about the patterns of insrules for a crown?
+   What about the patterns of insrules for a crown?
 
-social constructionists
-horror - words giving power continually.
+   social constructionists
+   horror - words giving power continually.
 
-1st, 2nd and 3rd wave feminism focuses on insitutionalised,
-socialised, and then personalised elements.
+   1st, 2nd and 3rd wave feminism focuses on insitutionalised,
+   socialised, and then personalised elements.
 
-slavery - transfer of ownership, double cross, nonterminal failure.
+   slavery - transfer of ownership, double cross, nonterminal failure.
 
-insrules countas relationship, use tree compression algorithm?
+   insrules countas relationship, use tree compression algorithm?
 
-the ``function'' part of status functions
+   the ``function'' part of status functions
 
 
-desired:
-\begin{itemize}
-\item no story manager
-\item conversation through an intermediary
-\item understanding of larger contexts: taking part in an S.P to get
-  to one you want? (defined S.P flow?)
-\item subversive use of S.Ps
-\item s.ps that change/grow more complex/ have changes in popularity
-\item balance of constitutive and regulative rules
-\item social standing determining the S.Ps available
-\item fluid gender
-\item orders
-\item S.Ps are only the top of the activity theory pyramid, what about
-  division of labour, collaborative S.P's, dynamic grouping?
-\item delegation?
-\end{itemize}
+   desired:
+   \item no story manager
+   \item conversation through an intermediary
+   \item understanding of larger contexts: taking part in an S.P to get
+     to one you want? (defined S.P flow?)
+   \item subversive use of S.Ps
+   \item s.ps that change/grow more complex/ have changes in popularity
+   \item balance of constitutive and regulative rules
+   \item social standing determining the S.Ps available
+   \item fluid gender
+   \item orders
+   \item S.Ps are only the top of the activity theory pyramid, what about
+     division of labour, collaborative S.P's, dynamic grouping?
+   \item delegation?
 
-ins rules to enable instantiation of social practises?
+   ins rules to enable instantiation of social practises?
 
-independent requirements for the sp itself, defines whether an agent
-has the ability to initiate?
+   independent requirements for the sp itself, defines whether an agent
+   has the ability to initiate?
 
-speech acts $\Rightarrow$ very low level
-S.P $\Rightarrow$ low level external influences
-ins rules + sfd $\Rightarrow$ mid level
-character arc $\Rightarrow$ high level internal
+   speech acts $\Rightarrow$ very low level
+   S.P $\Rightarrow$ low level external influences
+   ins rules + sfd $\Rightarrow$ mid level
+   character arc $\Rightarrow$ high level internal
 
-insrules +sfd $\Rightarrow$ allow use of different actions in place of
-others (pain for pleasure?)
+   insrules +sfd $\Rightarrow$ allow use of different actions in place of
+   others (pain for pleasure?)
 
-compare the length of a insrule chains to resolve amount of power
-differences?
+   compare the length of a insrule chains to resolve amount of power
+   differences?
 
-combine insRules with personality, then mix in elements that are to
-the characters benefit in their actions. Thus:
-masochist $\Rightarrow$ pain, so
-(beating \textgreater pain) $\Rightarrow$ greeting
+   combine insRules with personality, then mix in elements that are to
+   the characters benefit in their actions. Thus:
+   masochist $\Rightarrow$ pain, so
+   (beating \textgreater pain) $\Rightarrow$ greeting
 
-insrules enabling s.p's for groups/guilds/companies. 
-(how to represent groups/guilds/companies? as data structures or
-processes? separate agents? lists of membership? structures of goals
-and members? some sort of process seems appropriate)
+   insrules enabling s.p's for groups/guilds/companies.
+   (how to represent groups/guilds/companies? as data structures or
+   processes? separate agents? lists of membership? structures of goals
+   and members? some sort of process seems appropriate)
 
-replace s.p's with other ones, parts of others, or
-shortened/lengthened s.p's.
+   replace s.p's with other ones, parts of others, or
+   shortened/lengthened s.p's.
 
-have s.p's be defining some of the ordering and options and chaining
-context, while the conversation is generated at a lower level?
- 
+   have s.p's be defining some of the ordering and options and chaining
+   context, while the conversation is generated at a lower level?
+
 ** CiF
 
-social games are just single moves. not particularly game like.
+   social games are just single moves. not particularly game like.
 
-conversations getting away from you is very difficult
+   conversations getting away from you is very difficult
 
-possible modifications:
-\begin{itemize}
-\item supplement cultural knowledge base with individual subsets
-\item confusion
-\item indirect coversations
-\item n-ary individual games.
-\item institutional rules
-\end{itemize}
+   possible modifications:
+   \item supplement cultural knowledge base with individual subsets
+   \item confusion
+   \item indirect coversations
+   \item n-ary individual games.
+   \item institutional rules
 
-architecture of cif:
+   architecture of cif:
 
 *** CiF-RPG
-the differences between the two
-
+    the differences between the two
 
 ** Praxis
 
-episodic memory? how do agents remember previous events.
+   episodic memory? how do agents remember previous events.
 
-how do power relations work in praxis? meekness?
+   how do power relations work in praxis? meekness?
 
-how would a play party work?
+   how would a play party work?
 
-how much agency does an agent have?
+   how much agency does an agent have?
 
-how could versu deal with two people in a conversation, and someone
-wandering by and joining in? + confusion, talking at cross purposes
+   how could versu deal with two people in a conversation, and someone
+   wandering by and joining in? + confusion, talking at cross purposes
 
-1 to 1 conversation all good. What about 1 to many: ie: a press
-conference. Its not many 1 to 1 social practises, but they act in that
-way. just one of the roles is filled by many people. 
-
-
-versu has difficulty with non-symmetric relationships like those more
-in poly.
-
-what about actions outside of S.P's? or unexpected norm violations,
-sudden shifts etc.
-
-swapping in and out different SP's?
-
-how could praxis do a nefarious plan?
+   1 to 1 conversation all good. What about 1 to many: ie: a press
+   conference. Its not many 1 to 1 social practises, but they act in that
+   way. just one of the roles is filled by many people.
 
 
-need to specifically author norm violations
+   versu has difficulty with non-symmetric relationships like those more
+   in poly.
 
-``processes''/social practises: how does it deal with failure,
-recover, and coordinate on a longer scale?
+   what about actions outside of S.P's? or unexpected norm violations,
+   sudden shifts etc.
 
-social practises are constitutive rather than regulative. how does
-this contrast with behaviours?
+   swapping in and out different SP's?
 
-countying?
-
-top-down instantiation of social practises. What would a bottom up
-form look like?
-
-can't really deal with conversations that have an intermediary?
-
-\begin{itemize}
-\item assumes agents are in the same practise?
-\item has difficulty with sudden shifts of social practise?
-\item uses desires for action selection, SP's should also exert influence?
-\item doesnt allow for S.P's to be used in novel ways, or in
-  subversive ways?
-\item hierarchical S.P's
-\item parallel behaviours, defined sequences, repair etc?
-\end{itemize}
+   how could praxis do a nefarious plan?
 
 
-core model of beliefs, emotions, relationships and evaluations.
+   need to specifically author norm violations
 
-how does praxis manage continuity?
+   ``processes''/social practises: how does it deal with failure,
+   recover, and coordinate on a longer scale?
 
-still requires large amounts of specific authoring
+   social practises are constitutive rather than regulative. how does
+   this contrast with behaviours?
 
-generation of new social practises as reskins of old ones?
+   countying?
 
-exclusion operator is problematic re gender.
+   top-down instantiation of social practises. What would a bottom up
+   form look like?
 
-authoring norm violating actions.....hmmm
+   can't really deal with conversations that have an intermediary?
 
-has ``official'' long term relationship status. hmmm.
+   \item assumes agents are in the same practise?
+   \item has difficulty with sudden shifts of social practise?
+   \item uses desires for action selection, SP's should also exert influence?
+   \item doesnt allow for S.P's to be used in novel ways, or in
+     subversive ways?
+   \item hierarchical S.P's
+   \item parallel behaviours, defined sequences, repair etc?
 
-player reactions important.
+
+   core model of beliefs, emotions, relationships and evaluations.
+
+   how does praxis manage continuity?
+
+   still requires large amounts of specific authoring
+
+   generation of new social practises as reskins of old ones?
+
+   exclusion operator is problematic re gender.
+
+   authoring norm violating actions.....hmmm
+
+   has ``official'' long term relationship status. hmmm.
+
+   player reactions important.
 
 
 
-characters look at actual consequences, perfect forward
-knowledge. this is not ideal.
+   characters look at actual consequences, perfect forward
+   knowledge. this is not ideal.
 
-quantified wants/desires/preconditions
-
-
-
-sees the entire simulations state, no hidden information
-
-short term planner, so how are longer plans realised?
+   quantified wants/desires/preconditions
 
 
 
-Can praxis have a rule of the form: let there be a hostile group of 3
-people+ who are collectively non-violent with a power struggle
-potentially?
+   sees the entire simulations state, no hidden information
 
-also praxis could do status function declarations? dynamically linked? 
-language needs to generate those sort of sfds
+   short term planner, so how are longer plans realised?
 
-richard evans has talked about type/token distinction and scorekeeping
-for social practise state. Isnt this what Praxis is doing despite his
-argument against?
 
-how much is just scorekeeping?
 
-multiple instances of social practises but only one of each character?
-what about the other way round?
+   Can praxis have a rule of the form: let there be a hostile group of 3
+   people+ who are collectively non-violent with a power struggle
+   potentially?
 
-is there a union of character, role, and concept of character.
+   also praxis could do status function declarations? dynamically linked?
+   language needs to generate those sort of sfds
 
-or concept of character != role?
+   richard evans has talked about type/token distinction and scorekeeping
+   for social practise state. Isnt this what Praxis is doing despite his
+   argument against?
 
-deterministic
+   how much is just scorekeeping?
 
-architecture of praxis:
+   multiple instances of social practises but only one of each character?
+   what about the other way round?
 
+   is there a union of character, role, and concept of character.
+
+   or concept of character != role?
+
+   deterministic
+
+   architecture of praxis:
 
 ** NLG
 
 
-Conversation:
-with conversation as a tree, and graphs for meaning, someone could
-join a conversation by just instantiating a conversation with only the
-heard elements history, and no local scope meanings instanced. thus
-confusion could arise. 
+   Conversation:
+   with conversation as a tree, and graphs for meaning, someone could
+   join a conversation by just instantiating a conversation with only the
+   heard elements history, and no local scope meanings instanced. thus
+   confusion could arise.
 
-socio-mimetic: paradigm inspired by social systems. socially
-cooperative agents. for SYNTHESIZING SOCIAL SYSTEMS. 
+   socio-mimetic: paradigm inspired by social systems. socially
+   cooperative agents. for SYNTHESIZING SOCIAL SYSTEMS.
 
-cif: assess motivations, use them to select from all actions
-praxis: assess motivations, select from active social plays
-abl: manage tree of active behaviours, step through them.
-nail and siaq: ?
-
-
-multple authoring of conversation components:
-\begin{itemize}
-\item script for social practices, supplemented by:
-\item generalised speech acts, that connect with a previous statement,
-  combined with:
-\item commissives, directives that try to change the world in
-  beneficial ways for the character.
-\end{itemize}
+   cif: assess motivations, use them to select from all actions
+   praxis: assess motivations, select from active social plays
+   abl: manage tree of active behaviours, step through them.
+   nail and siaq: ?
 
 
-directive for e to tell x to a (e: a person; x: a statement; a: a person)
-a but not e  have memories that have the entire conversation from their
-point of view. e has his own conversational history with the player
-and a. 
-
-Thus: hmm, if conversation is a tree, then its recoverable after the
-conversation, or able to be instantiated without being talking to a
-person. when you get something that can count in that sentence,
-specifically if you are told its part of it, then you add it on in the
-right place. a stack like operation is what im thinking here.
-
- 
-
-x $\Rightarrow$ tempory state of a particular SP + a + history of
-communication.
-respond, as a directive
+   multple authoring of conversation components:
+   \item script for social practices, supplemented by:
+   \item generalised speech acts, that connect with a previous statement,
+     combined with:
+   \item commissives, directives that try to change the world in
+     beneficial ways for the character.
 
 
-Sam Vimes sighed - ``Person'' did ``something'' (action)
-when he heard the scream, - when ``something-2'' (event) (something
-AND something-2 generalised to similar time frame)
-but - set up opposition
-he finished shaving - one event (think on gant chart dependencies)
-before - happened and finished
-he did anything about it. - waiting/cued event. generalised.
+   directive for e to tell x to a (e: a person; x: a statement; a: a person)
+   a but not e  have memories that have the entire conversation from their
+   point of view. e has his own conversational history with the player
+   and a.
+
+   Thus: hmm, if conversation is a tree, then its recoverable after the
+   conversation, or able to be instantiated without being talking to a
+   person. when you get something that can count in that sentence,
+   specifically if you are told its part of it, then you add it on in the
+   right place. a stack like operation is what im thinking here.
 
 
 
-(remembering: ``i don't believe we've met'' - so there is the event
-``we've met'', which can be inferred not to have happened if there
-isnt a memory of you. This is not guaranteed unless there is a
-reference to the person in knowledge of them, without a corresponding
-lack of meeting. this can then be negated in two different places -
-the don't believe, or the we've met.)
-
-Types of Speech:
-\begin{itemize}
-\item questions about a ``thing'' for information
-\item statements of a ``thing'' past, variable truth
-\item statements of a ``thing'' current, variable truth
-\item statement of a ``thing'' future, variable truth
-\item opinion, internal state
-\item opinion of ``thing''
-\item questions - boolean
-\item request for action
-\item declaration (naming something)
-\item reason/justification?
-\item negation?
-\item conditional proposition
-\item comparison/preference
-\item internal/external properties
-\end{itemize}
+   x $\Rightarrow$ tempory state of a particular SP + a + history of
+   communication.
+   respond, as a directive
 
 
-magic deck based conversation generation?
-
-wh - questions:
-\begin{itemize}
-\item who
-\item what
-\item why
-\item where
-\item wither
-\item whether
-\item whence
-\item when
-\end{itemize}
-
-what other question types are there that are not wh-based?
-
-\begin{itemize}
-\item how
-\item how far
-\item how long
-\item how many
-\item how much
-\item how old
-\item whom
-\item which
-\item whose
-\end{itemize}
+   Sam Vimes sighed - ``Person'' did ``something'' (action)
+   when he heard the scream, - when ``something-2'' (event) (something
+   AND something-2 generalised to similar time frame)
+   but - set up opposition
+   he finished shaving - one event (think on gant chart dependencies)
+   before - happened and finished
+   he did anything about it. - waiting/cued event. generalised.
 
 
 
-a quick google:
-\begin{itemize}
-\item factual: getting specific facts. ``What is the name of a
-  shakespeare play?''
-\item convergent: comprehension, application, analysis, inferences,
-  conjectures.
-\item divergent: analyse, synthesize, evaluate.
-\item evaluative: sophisticated levels of cognition
-\item combinations.
-\end{itemize}
+   (remembering: ``i don't believe we've met'' - so there is the event
+   ``we've met'', which can be inferred not to have happened if there
+   isnt a memory of you. This is not guaranteed unless there is a
+   reference to the person in knowledge of them, without a corresponding
+   lack of meeting. this can then be negated in two different places -
+   the don't believe, or the we've met.)
+
+   Types of Speech:
+   \item questions about a ``thing'' for information
+   \item statements of a ``thing'' past, variable truth
+   \item statements of a ``thing'' current, variable truth
+   \item statement of a ``thing'' future, variable truth
+   \item opinion, internal state
+   \item opinion of ``thing''
+   \item questions - boolean
+   \item request for action
+   \item declaration (naming something)
+   \item reason/justification?
+   \item negation?
+   \item conditional proposition
+   \item comparison/preference
+   \item internal/external properties
 
 
-resolve tenses based on timestamps of statements?
+   magic deck based conversation generation?
 
-eddie izzard + muppets + very british problems + ? = my conversational
-style.
+   wh - questions:
+   \item who
+   \item what
+   \item why
+   \item where
+   \item wither
+   \item whether
+   \item whence
+   \item when
 
-conversational stylings as aschetypes on axes that you mix?
+   what other question types are there that are not wh-based?
 
-like eddie izzard - blackadder - alan rickman - mike myers axes
+   \item how
+   \item how far
+   \item how long
+   \item how many
+   \item how much
+   \item how old
+   \item whom
+   \item which
+   \item whose
+
+
+
+   a quick google:
+   \item factual: getting specific facts. ``What is the name of a
+     shakespeare play?''
+   \item convergent: comprehension, application, analysis, inferences,
+     conjectures.
+   \item divergent: analyse, synthesize, evaluate.
+   \item evaluative: sophisticated levels of cognition
+   \item combinations.
+
+
+   resolve tenses based on timestamps of statements?
+
+   eddie izzard + muppets + very british problems + ? = my conversational
+   style.
+
+   conversational stylings as aschetypes on axes that you mix?
+
+   like eddie izzard - blackadder - alan rickman - mike myers axes
 
 *** Speech acts
-Searles stuff: declaration, representation, emotive, commissive... and
-one more.
+    Searles stuff: declaration, representation, emotive, commissive... and
+    one more.
 
-labelling, repeating, answering, requesting, calling, greeting,
-protesting, practicing....?
+    labelling, repeating, answering, requesting, calling, greeting,
+    protesting, practicing....?
 
-some way of describing authority for declarations?
+    some way of describing authority for declarations?
 
-response rules? inheritence/lookback?
-
-
-
-\begin{itemize}
-\item expressives
-\item representatives
-\item directives
-\item commissive
-\item declarations
-\end{itemize}
-
-what are the operational semantics of transfer between different
-speech acts?
-
-low level conversations made out of speech acts. 
-
-conversation structured as a tree, DFS strategy of dealing with
-comments?
-
-or directed graph of tuples {speechAct,context}?
+    response rules? inheritence/lookback?
 
 
 
-parameters:
-\begin{itemize}
-\item type
-\item force
-\item surety
-\item context bindings
-\item precursor
-\item context
-\item opinion
-\item fact
-\item quote
-\item randomised
-\end{itemize}
+    \item expressives
+    \item representatives
+    \item directives
+    \item commissive
+    \item declarations
 
+    what are the operational semantics of transfer between different
+    speech acts?
+
+    low level conversations made out of speech acts.
+
+    conversation structured as a tree, DFS strategy of dealing with
+    comments?
+
+    or directed graph of tuples {speechAct,context}?
+
+
+
+    parameters:
+    \item type
+    \item force
+    \item surety
+    \item context bindings
+    \item precursor
+    \item context
+    \item opinion
+    \item fact
+    \item quote
+    \item randomised
 
 ** Activity theory
 
 *** Circumplex
-McGrath
-
+    McGrath
 
 ** Quests
 
-if rather than templated quests, we were to go the praxis route of
-defined statements that a character would/does want, then a quest
-could be a simulated series of positive steps *plural*, with just the
-final one given. Thus, the player is given a goal state that is
-somewhat distant but certainly possible, they can then cock it up as
-they like. 
+   if rather than templated quests, we were to go the praxis route of
+   defined statements that a character would/does want, then a quest
+   could be a simulated series of positive steps *plural*, with just the
+   final one given. Thus, the player is given a goal state that is
+   somewhat distant but certainly possible, they can then cock it up as
+   they like.
 
-i would argue that quests have typically had a techno-economic focus,
-or a marlistic focus, or an interpersonal focus, none of which are
-particularly socio-institutional.
+   i would argue that quests have typically had a techno-economic focus,
+   or a marlistic focus, or an interpersonal focus, none of which are
+   particularly socio-institutional.
 
-a post-structuralist aproach to quests?
+   a post-structuralist aproach to quests?
 
-is there any character transformation really in quests?
+   is there any character transformation really in quests?
 
-type and token distinction in quests?
+   type and token distinction in quests?
 
-burn notice as odyssean dramatic structure?
-
-
-quests in grailgm: either relationship or status(items/knowledge)
-quests.
-
-Desire $\Rightarrow$ activity
-intent $\Rightarrow$ goal
-performance $\Rightarrow$ operation
-
-burn notice style delays $\Rightarrow$ rhythm generator???
+   burn notice as odyssean dramatic structure?
 
 
+   quests in grailgm: either relationship or status(items/knowledge)
+   quests.
+
+   Desire $\Rightarrow$ activity
+   intent $\Rightarrow$ goal
+   performance $\Rightarrow$ operation
+
+   burn notice style delays $\Rightarrow$ rhythm generator???
 
 ** Nail
 
-finger trees seem potentially useful.
+   finger trees seem potentially useful.
 
-cheaper and faster to author hopefully
-better suited for mixed tree and volition based ai also?
-
-
+   cheaper and faster to author hopefully
+   better suited for mixed tree and volition based ai also?
 
 
-status function objects?
-
-non-sequential plans/behaviours that have steps you dont care about?
-
-preconditions as generalised micro-rules that change weighting?
-
-how to go about biinding?
-
-preconditions will likely need a rete network
-
-Numerous steps: Define Grammar, implement parser, write operational
-semantics, write runtime. VARIABLE SPEED
 
 
-Workflow for nail:
-\begin{itemize}
-\item Startup
-\item Define WMEs
-\item Define Base Actions
-\item Add behaviours and WMES
-\item Update runtime as new behaviours and WMEs are added.
-\item Define ``Missing'' behaviour actions
-\end{itemize}
+   status function objects?
 
-needs to be able to reuse code/ start developing libraries of behaviours
+   non-sequential plans/behaviours that have steps you dont care about?
+
+   preconditions as generalised micro-rules that change weighting?
+
+   how to go about biinding?
+
+   preconditions will likely need a rete network
+
+   Numerous steps: Define Grammar, implement parser, write operational
+   semantics, write runtime. VARIABLE SPEED
+
+
+   Workflow for nail:
+   \item Startup
+   \item Define WMEs
+   \item Define Base Actions
+   \item Add behaviours and WMES
+   \item Update runtime as new behaviours and WMEs are added.
+   \item Define ``Missing'' behaviour actions
+
+   needs to be able to reuse code/ start developing libraries of behaviours
 
 
 *** Language Elements
-behaviour modifier: ``exit condition'' to replace persistence? similar
-to success test
+    behaviour modifier: ``exit condition'' to replace persistence? similar
+    to success test
 
-behaviours returning values
+    behaviours returning values
 
-inline parallel only
+    inline parallel only
 
-variables valid anywhere, if unable to access instantiates a default
-value
+    variables valid anywhere, if unable to access instantiates a default
+    value
 
-for class vs instance variables, BBAI alternative is... declaration vs
-tree variables
+    for class vs instance variables, BBAI alternative is... declaration vs
+    tree variables
 
-a ``next'' variable? what would this do? 
+    a ``next'' variable? what would this do?
 
-default ``not found'' behaviour
+    default ``not found'' behaviour
 
-What would a chuck like use of time be like in nail?
+    What would a chuck like use of time be like in nail?
 
-joint parameters allowing roles? write the behaviour that directs all
-roles in one behaviour?
+    joint parameters allowing roles? write the behaviour that directs all
+    roles in one behaviour?
 
 
-some sort of standardised priorty system? This relates to the conflict
-set idea of having it as a priority queue with countdowns of how long
-before an option/behaviour times out.
+    some sort of standardised priorty system? This relates to the conflict
+    set idea of having it as a priority queue with countdowns of how long
+    before an option/behaviour times out.
 
-praxis is allowing the role-modified joing behaviours that ABL cant
-do.
-parallel sync control would be useful here.
+    praxis is allowing the role-modified joing behaviours that ABL cant
+    do.
+    parallel sync control would be useful here.
 
-define minimum duration of behaviour? implicitly wait if behaviour
-goes too fast? this could negate the need for successtests and waiting
+    define minimum duration of behaviour? implicitly wait if behaviour
+    goes too fast? this could negate the need for successtests and waiting
 
-use a tag system? information foraging?
+    use a tag system? information foraging?
 
-hotswapping of behaviours in specific agents?
+    hotswapping of behaviours in specific agents?
 
-scope of dot operator?
+    scope of dot operator?
 
-using integers for whole priorities, floats for relative? 
+    using integers for whole priorities, floats for relative?
 
-probability modifier for selection? similar to volition.
+    probability modifier for selection? similar to volition.
 
 
 *** Meta-Operations
 
-This needs to be more powerful than abl. Not sure what to do here. 
-Have a better interface for mixins, mixOUTS? mod behaviour for
-specific places on the tree, remove from tree? PAUSE? escape/cleanup behaviours?
+    This needs to be more powerful than abl. Not sure what to do here.
+    Have a better interface for mixins, mixOUTS? mod behaviour for
+    specific places on the tree, remove from tree? PAUSE? escape/cleanup behaviours?
 
-fold behaviours together with overlapping actions?
+    fold behaviours together with overlapping actions?
 
 *** Operational Semantics
 
-yeah this will take a while
+    yeah this will take a while
 
 
 
 *** implementation details
 
-obligational priority queue. methods of selection and planning are a
-form of personality?
+    obligational priority queue. methods of selection and planning are a
+    form of personality?
 
-\begin{itemize}
-\item an adaptive priority queue. in order of number of turns left
-  before social action time out. agent takes n actions each turn. with
-  various strategies. greedy, non-greedy, optimal, etc etc.
-\item conversation trees. backtracking has different strategies. dfs,
-  bfs, random, forgetful. post order, in order.....
-\item imperative versus ASP. defining how to get something versus what
-  the end thing must look like. so ASP is to imperative programming as
-  BLANK is to abl coding?
-\item what the british say vs what the mean. perfect example of
-  interpersonal institutions, underlying model represents ``hello how
-  are you today??'' as a performative becomes ``good morning''.
-\item british ``how are you?'' expects ``fine''. It is an exchange
-  that can be completely discarded, unless something meaningful is
-  said. at which point ``fine could mean many things across
-  participants. a1 $\Rightarrow$ i'm good $\Rightarrow$ find
-  $\Rightarrow$ meh $\Rightarrow$ a2.
-\end{itemize}
+    \item an adaptive priority queue. in order of number of turns left
+      before social action time out. agent takes n actions each turn. with
+      various strategies. greedy, non-greedy, optimal, etc etc.
+    \item conversation trees. backtracking has different strategies. dfs,
+      bfs, random, forgetful. post order, in order.....
+    \item imperative versus ASP. defining how to get something versus what
+      the end thing must look like. so ASP is to imperative programming as
+      BLANK is to abl coding?
+    \item what the british say vs what the mean. perfect example of
+      interpersonal institutions, underlying model represents ``hello how
+      are you today??'' as a performative becomes ``good morning''.
+    \item british ``how are you?'' expects ``fine''. It is an exchange
+      that can be completely discarded, unless something meaningful is
+      said. at which point ``fine could mean many things across
+      participants. a1 $\Rightarrow$ i'm good $\Rightarrow$ find
+      $\Rightarrow$ meh $\Rightarrow$ a2.
 
 
 
-two separate data structures for definitions and instances? put
-execution into the definitions, instances hold symbol tables
+    two separate data structures for definitions and instances? put
+    execution into the definitions, instances hold symbol tables
 
-uses prototype pattern? or would if it was better in java. As is, have
-instances on the tree, which all reference a definition. If that
-definition is changed as part of the behaviour, define whether its
-global or temporarily modified.
+    uses prototype pattern? or would if it was better in java. As is, have
+    instances on the tree, which all reference a definition. If that
+    definition is changed as part of the behaviour, define whether its
+    global or temporarily modified.
 
-have definitional vs instancial preconditions?
+    have definitional vs instancial preconditions?
 
-multi-part conflict set creation?:
-protoypes $$\Rightarrow$$ potential elements based on ``next'' values of current
-leaf nodes $$\Rightarrow$$ conflict set
+    multi-part conflict set creation?:
+    protoypes $$\Rightarrow$$ potential elements based on ``next'' values of current
+    leaf nodes $$\Rightarrow$$ conflict set
 
-hierarchical variable search: up the tree, or up definitions? or
-specify search root/path
+    hierarchical variable search: up the tree, or up definitions? or
+    specify search root/path
 
-treat nodes as clauses on the tree?
-
-
-preconditions: clauses aren't necessarily AND linked, they could be OR
-linked, or treated as a tree/chain in themselves, allowing simple
-actions to flip conditions on or off? Then if its too big, cleanup?
-some amount of planning representation here could be useful
-
-parsing: literally line by line? hmm. a REPL would be useful
-
-differentiate between syntax tree, compiled object representation
-tree, and the ABT? on this point it got more complicated when i added
-in the type system
-
-mental acts: gone. prefer to do everything internally to nail
-
-\emph{haskell}
-
-linking the object representations with the relevant code somehow?
-
-trying to make literally everything a variable. both implicit and
-inline explicit?
-
-using a stack of hashmaps to deal with scope of symbol tables? or
-actually just go up the tree?
+    treat nodes as clauses on the tree?
 
 
-Obj-C like syntax for pass parameters. ie: subgoal name (ParamB:
-value);
+    preconditions: clauses aren't necessarily AND linked, they could be OR
+    linked, or treated as a tree/chain in themselves, allowing simple
+    actions to flip conditions on or off? Then if its too big, cleanup?
+    some amount of planning representation here could be useful
 
-Assume step mods, but allow them to be passed in in the subgoaling as
-well: subgoal name (Priority:3);
+    parsing: literally line by line? hmm. a REPL would be useful
 
-Return values: syntax to extract values returned?
+    differentiate between syntax tree, compiled object representation
+    tree, and the ABT? on this point it got more complicated when i added
+    in the type system
 
-Synchronisation: specify if parallel behaviours start together, end
-together, or can occur at any time within?
+    mental acts: gone. prefer to do everything internally to nail
 
-type inference goes down the tree, execution goes up?
+    \emph{haskell}
 
+    linking the object representations with the relevant code somehow?
 
-CONFLICT SET: easily done using an adjacency list, just look for nodes
-with no links
+    trying to make literally everything a variable. both implicit and
+    inline explicit?
 
-
-ABT and edges:
-Tree, back, forward, cross edges. Can these be used in nail?
-
-nodes describing state and edges?
-
-volition selection for nail behaviour packages. 
-
-goal: flexibility + capability + authoring speed. Not efficiency of algorithms.
-
-Nail behaviour creation:
-\begin{itemize}
-\item pass in astbehaviour
-\item store astbehaviour in correct package
-\item to instantiate extract mods, variables to set flags and create
-  symbol table
-\item put prorotypes in list for steps.
-\item return setup?
-\end{itemize}
+    using a stack of hashmaps to deal with scope of symbol tables? or
+    actually just go up the tree?
 
 
-cif style volition of behaviours? behaviour entry only?
+    Obj-C like syntax for pass parameters. ie: subgoal name (ParamB:
+    value);
 
-superspawn parallel nodes. takes a package of available behaviours,
-spawns appropriate behaviours? 
+    Assume step mods, but allow them to be passed in in the subgoaling as
+    well: subgoal name (Priority:3);
 
-Add Regex into nail to allow for regex selection of behaviours?
+    Return values: syntax to extract values returned?
+
+    Synchronisation: specify if parallel behaviours start together, end
+    together, or can occur at any time within?
+
+    type inference goes down the tree, execution goes up?
+
+
+    CONFLICT SET: easily done using an adjacency list, just look for nodes
+    with no links
+
+
+    ABT and edges:
+    Tree, back, forward, cross edges. Can these be used in nail?
+
+    nodes describing state and edges?
+
+    volition selection for nail behaviour packages.
+
+    goal: flexibility + capability + authoring speed. Not efficiency of algorithms.
+
+    Nail behaviour creation:
+    \item pass in astbehaviour
+    \item store astbehaviour in correct package
+    \item to instantiate extract mods, variables to set flags and create
+      symbol table
+    \item put prorotypes in list for steps.
+    \item return setup?
+
+
+    cif style volition of behaviours? behaviour entry only?
+
+    superspawn parallel nodes. takes a package of available behaviours,
+    spawns appropriate behaviours?
+
+    Add Regex into nail to allow for regex selection of behaviours?
 
 
 
 *** Specifications
 
-Behaviour parameters: priority, specificity, conditions, parent,
-position, effect only, inheritence, wait time?
+    Behaviour parameters: priority, specificity, conditions, parent,
+    position, effect only, inheritence, wait time?
 
-Behaviour library: wmes, location, person, event, item
+    Behaviour library: wmes, location, person, event, item
 
 *** Types
 
-The type system is linked with the behaviour library, using both a
-tree structure of inheritence, and package level access.
+    The type system is linked with the behaviour library, using both a
+    tree structure of inheritence, and package level access.
 
-symbol tables and stacks of aliased variables?
+    symbol tables and stacks of aliased variables?
 
-Time as a type, along with wmes and behaviours
+    Time as a type, along with wmes and behaviours
 
 
 *** Working Memory
 
-belief-revision??
+    belief-revision??
 
-compile preconditions into a data structure, and use a listener
-pattern to update it. Every time a wme is added, and thus state
-changes, the structure is updated with the new wme in the locations it
-should be.
+    compile preconditions into a data structure, and use a listener
+    pattern to update it. Every time a wme is added, and thus state
+    changes, the structure is updated with the new wme in the locations it
+    should be.
 
-alternatively, be able to set listener clauses manually?
-
-
-have a bunch of standard internal wmes such as locations, person,
-events, items.
-
-differentiate between internal origin wmes created by behaviours,
-versus external wmes created via sensors?
-how do i deal with cleaning up the working memory?
-
-Working memory SHOULD be a hash, and a queue, or ordered by time in
-some way, so that you can specify starting and ending points (to
-facilitate counter factual thinking?)
-
-have a general template wme, with the ability for the runtime to load
-in additional classes somehow for more specific behaviour?
-
-make WMEs able to initiate actions or chains of actions/behaviours?
-
-what would the specific effects of modifying a behaviour have on other
-instances?
-
-Claiming, strength of claiming, release behaviours? exit actions?
+    alternatively, be able to set listener clauses manually?
 
 
-linear ordering of wmes... possibly on separate lanes for separate
-characters/conceptual constructs? 
+    have a bunch of standard internal wmes such as locations, person,
+    events, items.
 
-So bob does a,b,c,d,e while jill simultaneously does _,f,_,t,_,_,a?
+    differentiate between internal origin wmes created by behaviours,
+    versus external wmes created via sensors?
+    how do i deal with cleaning up the working memory?
+
+    Working memory SHOULD be a hash, and a queue, or ordered by time in
+    some way, so that you can specify starting and ending points (to
+    facilitate counter factual thinking?)
+
+    have a general template wme, with the ability for the runtime to load
+    in additional classes somehow for more specific behaviour?
+
+    make WMEs able to initiate actions or chains of actions/behaviours?
+
+    what would the specific effects of modifying a behaviour have on other
+    instances?
+
+    Claiming, strength of claiming, release behaviours? exit actions?
 
 
+    linear ordering of wmes... possibly on separate lanes for separate
+    characters/conceptual constructs?
+
+    So bob does a,b,c,d,e while jill simultaneously does _,f,_,t,_,_,a?
 
 
 
 ** Logic
-monads and praxis? 
+   monads and praxis?
 
 
-First order logic (maybe exclusion logic?) in the language for wme
-tests and volition tests?
+   First order logic (maybe exclusion logic?) in the language for wme
+   tests and volition tests?
 
-\begin{math}
 
-\exists x, wme(x) $\Rightarrow$ ...
-\forall x, wme(x) $\Rightarrow$ ....
+   \exists x, wme(x) $\Rightarrow$ ...
+   \forall x, wme(x) $\Rightarrow$ ....
 
-\exists x, \forall y, wme(x,y) $\Rightarrow$ ...
+   \exists x, \forall y, wme(x,y) $\Rightarrow$ ...
 
-\forall x, \exists y, wme(x,y) $\Rightarrow$ ...
+   \forall x, \exists y, wme(x,y) $\Rightarrow$ ...
 
-\forall x, \forall y, wme(x,y) $\Rightarrow$ ...
+   \forall x, \forall y, wme(x,y) $\Rightarrow$ ...
 
-\end{math}
 
-Where x is a type of wme, and y is a field
+   Where x is a type of wme, and y is a field
 
 ** Interpretation Loop
-Text $\Rightarrow$ lexer $\Rightarrow$ parser $\Rightarrow$ runtime $\Rightarrow$ acts $\Rightarrow$ output
+   Text $\Rightarrow$ lexer $\Rightarrow$ parser $\Rightarrow$ runtime $\Rightarrow$ acts $\Rightarrow$ output
 
-runtime <$\Rightarrow$ working memory
+   runtime <$\Rightarrow$ working memory
 
 ** Nail IDE
-Interface of a text editor, or integrate into emacs. Save, load,
-render tree, start runtime and pass code into it.
+   Interface of a text editor, or integrate into emacs. Save, load,
+   render tree, start runtime and pass code into it.
 
-Runtime can be run separately, and instantiated on its own in a
-game. includes parser, main runtime, working memory, decision cycle
-etc.
+   Runtime can be run separately, and instantiated on its own in a
+   game. includes parser, main runtime, working memory, decision cycle
+   etc.
 
-Compiler comes later.
+   Compiler comes later.
 
-would have 5 windows primarily:
-\begin{itemize}
-\item A Tabbed window of wme declarations
-\item Current working memory state
-\item Behaviour declarations in tabs
-\item Instantiated Tree
-\item Compiled tree allowing behaviour navigation
-\end{itemize}
+   would have 5 windows primarily:
+   \item A Tabbed window of wme declarations
+   \item Current working memory state
+   \item Behaviour declarations in tabs
+   \item Instantiated Tree
+   \item Compiled tree allowing behaviour navigation
 
 
-record incoming wmes, allow to repeat them, disengaged from everything
-else, to allow for test sequences.
+   record incoming wmes, allow to repeat them, disengaged from everything
+   else, to allow for test sequences.
 
-using JSON as a storage format? allows analysing later on?
-
+   using JSON as a storage format? allows analysing later on?
 
 ** ABL
 
-types of mixin:
-\begin{itemize}
-\item pre
-\item post
-\item during
-\item additive
-\item negative
-\item replacement
-\end{itemize}
+   types of mixin:
+   \item pre
+   \item post
+   \item during
+   \item additive
+   \item negative
+   \item replacement
 
-enforcing/declaring points of reference within behaviours to mix in?
+   enforcing/declaring points of reference within behaviours to mix in?
 
 ** Misc
 
@@ -1847,330 +1749,304 @@ enforcing/declaring points of reference within behaviours to mix in?
 
 
 
-xcom - reagan pheremones instead of regen.
+   xcom - reagan pheremones instead of regen.
 
-software inferno. coincident demands : cost, schedule, quality. ie:
-cheaper, faster, better.
-
-
-in a world where there is ai, and they can freehold themselves similar
-to discworld golems: live your life as a robot. upgrading, etc
-etc. Sci fi sims. specifically be able to be an altered carbon hotel.
-
-learning system that will follow a tree, and if it is taken off the
-tree by an error, will try a random action, record the result, and
-start trying to infer when to use that action/variations of the
-behaviour again. 
+   software inferno. coincident demands : cost, schedule, quality. ie:
+   cheaper, faster, better.
 
 
-small scale dynamic grouping $\Rightarrow$ mid scale institutional
-manipulation $\Rightarrow$ larg scale institutional inertia.
+   in a world where there is ai, and they can freehold themselves similar
+   to discworld golems: live your life as a robot. upgrading, etc
+   etc. Sci fi sims. specifically be able to be an altered carbon hotel.
 
-ssdg: gateway, midnight. people shifting alligences, panic.
-msim: burn notice.
-lsii: variable culture informing quests. ie: no private property, or
-honour bound, or thieves.
-
-futurama: city overgrown with massive beanstalks.
-
-allergic to people
-
-zen navigation
-
-particle filter perception?
+   learning system that will follow a tree, and if it is taken off the
+   tree by an error, will try a random action, record the result, and
+   start trying to infer when to use that action/variations of the
+   behaviour again.
 
 
-Facebook/social media as imposter syndrom self-flagellation. Comparing
-your life to other people's 'best bits'.
+   small scale dynamic grouping $\Rightarrow$ mid scale institutional
+   manipulation $\Rightarrow$ larg scale institutional inertia.
 
-Things to lookup:
-Grayling:
-\begin{itemize}
-\item wealth p382
-\item accomodation theory p3
-\item war p375
-\item consequentialism p89
-\item consumption
-\item economics p 105
-\item epistemology p117
-\item ethics p123
-\item falsifiability p145
-\item law p202
-\item liberty p209
-\item logic p213
-\item multiculturalism p246
-\item politics p268
-\item postmodernism p275
-\item deontology p102
-\item punishment p293
-\item scientific revolution p331
-\item slavery p336
-\item socialism p341
-\item terrorism p356
-\item truth p363
-\item verificationism p368
-\item virtue ethics p377
+   ssdg: gateway, midnight. people shifting alligences, panic.
+   msim: burn notice.
+   lsii: variable culture informing quests. ie: no private property, or
+   honour bound, or thieves.
 
-\end{itemize}
+   futurama: city overgrown with massive beanstalks.
+
+   allergic to people
+
+   zen navigation
+
+   particle filter perception?
+
+
+   Facebook/social media as imposter syndrom self-flagellation. Comparing
+   your life to other people's 'best bits'.
+
+   Things to lookup:
+   Grayling:
+   \item wealth p382
+   \item accomodation theory p3
+   \item war p375
+   \item consequentialism p89
+   \item consumption
+   \item economics p 105
+   \item epistemology p117
+   \item ethics p123
+   \item falsifiability p145
+   \item law p202
+   \item liberty p209
+   \item logic p213
+   \item multiculturalism p246
+   \item politics p268
+   \item postmodernism p275
+   \item deontology p102
+   \item punishment p293
+   \item scientific revolution p331
+   \item slavery p336
+   \item socialism p341
+   \item terrorism p356
+   \item truth p363
+   \item verificationism p368
+   \item virtue ethics p377
 
 ** Expressive AI Model
-Michaels Model: Theory $\Rightarrow$ technical $\Rightarrow$ new experience
+   Michaels Model: Theory $\Rightarrow$ technical $\Rightarrow$ new experience
 
 ** kink
 
-play theory applied to kink playing. mimicry, ilinx. aleatory...
+   play theory applied to kink playing. mimicry, ilinx. aleatory...
 
-Typologies Of Pleasure (Leblanc): 
-\begin{itemize}
-\item sensation
-\item fantasy
-\item narrative
-\item challenge
-\item fellowship
-\item discovery
-\item expression
-\item submission
-\end{itemize}
+   Typologies Of Pleasure (Leblanc):
+   \item sensation
+   \item fantasy
+   \item narrative
+   \item challenge
+   \item fellowship
+   \item discovery
+   \item expression
+   \item submission
 
 ** Media
-
 
 ** Music
 
 ** Audio
-ryans music
-nine inch nails multitracks
-own compositions
+   ryans music
+   nine inch nails multitracks
+   own compositions
 
 ** Images
-british library flickr - lots of public domain images.
-edited portraits from flickr
-landscapes
-tumblr liked posts
-
-
+   british library flickr - lots of public domain images.
+   edited portraits from flickr
+   landscapes
+   tumblr liked posts
 
 
 
 ** Programming
-Serializer plans $\Rightarrow$ generalised interface for java serialization. 
-JSON parser in nail.
+   Serializer plans $\Rightarrow$ generalised interface for java serialization.
+   JSON parser in nail.
 
-Json parsing and twitter. $\Rightarrow$ done. in perl old scripts.
+   Json parsing and twitter. $\Rightarrow$ done. in perl old scripts.
 
-json browser to analyse google reader data? 
+   json browser to analyse google reader data?
 
-have a script to open a random page from reader data, remove it from
-possible choices. Automate to give me a few interesting things to read
-each day
+   have a script to open a random page from reader data, remove it from
+   possible choices. Automate to give me a few interesting things to read
+   each day
 
-processing tree-rendering $\Rightarrow$ done.
+   processing tree-rendering $\Rightarrow$ done.
 
-thread programming. 
+   thread programming.
 
-genetic evolution of multiple simultaneous agents for a game. See what
-happens with a changing fitness landscape.
+   genetic evolution of multiple simultaneous agents for a game. See what
+   happens with a changing fitness landscape.
 
-genetic creation of a tree? of behaviours?
+   genetic creation of a tree? of behaviours?
 
-perl:
-\begin{itemize}
-\item newproject
-\item newprogram
-\item mkd - make document
-\item mkp - make program
-\end{itemize}
+   perl:
+   \item newproject
+   \item newprogram
+   \item mkd - make document
+   \item mkp - make program
 
-possibly write a perl script to do what i want on tumblr
+   possibly write a perl script to do what i want on tumblr
 
-perl script parsing of bank data
+   perl script parsing of bank data
 
-standard processing libraries to create:
-\begin{itemize}
-\item simple interface for open $\Rightarrow$ process $\Rightarrow$ save image/video.
-\item simple chaining of images together to make movie
-\item simple animation system
-\item simple data visualisation stuff to combine with perl script.
-\end{itemize}
-
+   standard processing libraries to create:
+   \item simple interface for open $\Rightarrow$ process $\Rightarrow$ save image/video.
+   \item simple chaining of images together to make movie
+   \item simple animation system
+   \item simple data visualisation stuff to combine with perl script.
 
 ** Cif applied to landscape/map generation
 
-
 ** pcg
 
-kate:
-Assets, Rules, Parameters.  grammar based design.
+   kate:
+   Assets, Rules, Parameters.  grammar based design.
 
-procedrual animation: controller based - suitable for genetic
-algorithms?
-keyframe-tweaking - eskil steenberg.
-
+   procedrual animation: controller based - suitable for genetic
+   algorithms?
+   keyframe-tweaking - eskil steenberg.
 
 ** ASP
-Use ASP and speech acts to generate templated conversations?
+   Use ASP and speech acts to generate templated conversations?
 
-if ASP is deductive, SRC is the inductive equivalent.
-
-
+   if ASP is deductive, SRC is the inductive equivalent.
 
 ** AI
 
-subversion of plans: 
+   subversion of plans:
 
-\begin{itemize}
-\item parallels
-\item echoes
-\item reflections/repititions
-\item contrasts
-\item patterns
-\end{itemize}
+   \item parallels
+   \item echoes
+   \item reflections/repititions
+   \item contrasts
+   \item patterns
 
-in plot, structure, motive, situation, language...
+   in plot, structure, motive, situation, language...
 
-birdirectional traversal for perception. wheel $\Rightarrow$ car, car
-$\Rightarrow$ wheels
+   birdirectional traversal for perception. wheel $\Rightarrow$ car, car
+   $\Rightarrow$ wheels
 
 
 
-counter factual thinking $\Rightarrow$ analogy $\Rightarrow$ institutional rules. 
-Its all calling one thing another thing, and having that calling of
-something have effects.
+   counter factual thinking $\Rightarrow$ analogy $\Rightarrow$ institutional rules.
+   Its all calling one thing another thing, and having that calling of
+   something have effects.
 
-hand-eye control, two types:
-\begin{itemize}
-\item max importance
-\item min importance
-\end{itemize}
+   hand-eye control, two types:
+   \item max importance
+   \item min importance
 
-add variable amounts of jitter to actions based on type of movement,
-and also personality etc.
+   add variable amounts of jitter to actions based on type of movement,
+   and also personality etc.
 
-What are the consequences of the move from behaviour based ai
-to... volition/rule based ai? its not cognitive, so there are three
-main types of ai that interest me:
-classical rule based
-behaviour based
-voltiion based (possibly related to hofstadter's FARG stuff?)
+   What are the consequences of the move from behaviour based ai
+   to... volition/rule based ai? its not cognitive, so there are three
+   main types of ai that interest me:
+   classical rule based
+   behaviour based
+   voltiion based (possibly related to hofstadter's FARG stuff?)
 
 
-\begin{itemize}
-\item Retrieval /Perception
-\item Inference
-\item Knowledge Representation
-\item Learning
-\item search / decision making
-\end{itemize}
+   \item Retrieval /Perception
+   \item Inference
+   \item Knowledge Representation
+   \item Learning
+   \item search / decision making
 
-reinforcement learning.
+   reinforcement learning.
 
-hierarchical reinforcement learning, dynamic scripting. hashing state space?
+   hierarchical reinforcement learning, dynamic scripting. hashing state space?
 
 
 
-overloading binding environment
-probabilistic knowledge
+   overloading binding environment
+   probabilistic knowledge
 
-markov logic networks?
+   markov logic networks?
 
-occupancy grids?
+   occupancy grids?
 
-matching language for entire agent architecture
-veos, prs
+   matching language for entire agent architecture
+   veos, prs
 
 ** Design
 
-a game where your physical movement determines the story. Go down into
-a dark place and the story follows. likewise for light. perfect for
-branching, but im more interested in the authoring effect.
+   a game where your physical movement determines the story. Go down into
+   a dark place and the story follows. likewise for light. perfect for
+   branching, but im more interested in the authoring effect.
 
-a game where you are the \emph{trapped} consciousness of someone in
-someone elses body, in a similar way to the end of being john malkovich
+   a game where you are the \emph{trapped} consciousness of someone in
+   someone elses body, in a similar way to the end of being john malkovich
 
-a game that lets you view an emotional journey of a trees life.?
+   a game that lets you view an emotional journey of a trees life.?
 
-go to work things seem to start speeding up gradually until you cant
-cope and you need to hide to stay safe.
-or: have the ai be able to understand if something is 'wrong' and
-start to crowd around you.
-
-
-
-rpg's have lacked complex social interaction capabilities instead
-focusing on physical actions. now that social interaction becomes a
-possibility, quest forms need to adapt. 
-
-
-genetic algorithm to evolve which paremters create the smallest but
-most sensemaking properties? crowd source brute authoring then
-sensemaking assessment?
-
-crowdsourced conversations?
-
-build ins-rules for language in the same way?
-
-how do cheat detection programs work?
-
-horror game where naming a monster, even with a new name, summons
-it. it can be referenced in any way.
-
-failure should not be game over. games should reconfigure
-
-power trhough alliance $\Rightarrow$ guilds, hierarchical power.
-
-don norman - wide, narrow, short, deep tasks.
-
-operational semantics of game mechanics.
-semiotics of game mechanics ( or dynamics or aesthetics)
-
-``ready, aim...negotiate!'' - Nixon in futurama
-
-Look at the different types of ethical systems, contrast to the
-morality systems of fable and mass effect, baldurs gate etc, and see
-what possibilities are available.
-
-Religious rules, deontological, consequentialism, virtue ethics,
-other?
-
-political compass to.
-
-subjective perspectives in multiplayer games? americas army?
-
-game where you modify the soundscape to influence people. Similar to
-
-
-game of single landmass with rising sea to create archipelego slowly?
-
-difference between rules of the system and rules of the game? 
-
-cities on leaves, each cell as a block
-
-dubdomain for experimenting with cultural evolution: clothing choice?
-
-4x games. civ etc. 
-
-
-issues of fighting convergence in game systems? Economies and RPG
-combat systems often lose purpose after a while. 
+   go to work things seem to start speeding up gradually until you cant
+   cope and you need to hide to stay safe.
+   or: have the ai be able to understand if something is 'wrong' and
+   start to crowd around you.
 
 
 
-slavery in mmos / games would be hard to do with taste but would be
-very interesting - reminiscent of the ``kidnapped'' day z player who
-tweeted about it.
+   rpg's have lacked complex social interaction capabilities instead
+   focusing on physical actions. now that social interaction becomes a
+   possibility, quest forms need to adapt.
 
-we focus alot on the positive freedoms afforded in games, rather than
-designing for negative freedom? ASP possibly gets towards this
-somewhat.
 
+   genetic algorithm to evolve which paremters create the smallest but
+   most sensemaking properties? crowd source brute authoring then
+   sensemaking assessment?
+
+   crowdsourced conversations?
+
+   build ins-rules for language in the same way?
+
+   how do cheat detection programs work?
+
+   horror game where naming a monster, even with a new name, summons
+   it. it can be referenced in any way.
+
+   failure should not be game over. games should reconfigure
+
+   power trhough alliance $\Rightarrow$ guilds, hierarchical power.
+
+   don norman - wide, narrow, short, deep tasks.
+
+   operational semantics of game mechanics.
+   semiotics of game mechanics ( or dynamics or aesthetics)
+
+   ``ready, aim...negotiate!'' - Nixon in futurama
+
+   Look at the different types of ethical systems, contrast to the
+   morality systems of fable and mass effect, baldurs gate etc, and see
+   what possibilities are available.
+
+   Religious rules, deontological, consequentialism, virtue ethics,
+   other?
+
+   political compass to.
+
+   subjective perspectives in multiplayer games? americas army?
+
+   game where you modify the soundscape to influence people. Similar to
+
+
+   game of single landmass with rising sea to create archipelego slowly?
+
+   difference between rules of the system and rules of the game?
+
+   cities on leaves, each cell as a block
+
+   dubdomain for experimenting with cultural evolution: clothing choice?
+
+   4x games. civ etc.
+
+
+   issues of fighting convergence in game systems? Economies and RPG
+   combat systems often lose purpose after a while.
+
+
+
+   slavery in mmos / games would be hard to do with taste but would be
+   very interesting - reminiscent of the ``kidnapped'' day z player who
+   tweeted about it.
+
+   we focus alot on the positive freedoms afforded in games, rather than
+   designing for negative freedom? ASP possibly gets towards this
+   somewhat.
 
 ** Logic
 
-tree to evaluate clauses? then take that entire tree into nail?
-
+   tree to evaluate clauses? then take that entire tree into nail?
 
 ** Games
-
 
 ** Specific Researchers
 
@@ -2178,241 +2054,229 @@ tree to evaluate clauses? then take that entire tree into nail?
 
 
 *** Lehnert's plot units
-threat, promise, honoured/denied/bungled request,
-effective, ineffective, bungled coercion,
-promise request, honoured, bungled,
-coerced agreement,
-double corss,
-coerced double cross
-unsolicited help,
-problem resolution by effective coercion
-obigation,
-serial exchange, simultaneous exchange,
-malicious/kind act,
-retaliation,
-regrettable mistake,
-sabotage.
+    threat, promise, honoured/denied/bungled request,
+    effective, ineffective, bungled coercion,
+    promise request, honoured, bungled,
+    coerced agreement,
+    double corss,
+    coerced double cross
+    unsolicited help,
+    problem resolution by effective coercion
+    obigation,
+    serial exchange, simultaneous exchange,
+    malicious/kind act,
+    retaliation,
+    regrettable mistake,
+    sabotage.
 
 *** Shapiro talk
 
-difference between missions vs quests. missions are more known,
-quests rely on an amount of unknown information. What level of unknown?
+    difference between missions vs quests. missions are more known,
+    quests rely on an amount of unknown information. What level of unknown?
 
-wrap ons - separate actions and attitudes. before, inplace, after,
-alongside.
+    wrap ons - separate actions and attitudes. before, inplace, after,
+    alongside.
 
-social pragmatics?
+    social pragmatics?
 
-social state $\Rightarrow$ institutional rules
+    social state $\Rightarrow$ institutional rules
 
-group formation, attention, social reactions, conversation, siu
-interleaving
+    group formation, attention, social reactions, conversation, siu
+    interleaving
 
-(SIU's == Social Games == Social Practises != behaviours)
+    (SIU's == Social Games == Social Practises != behaviours)
 
 
 *** bill fergusen
-mindscape - social world model analogous to physical landscape for
-social interactions
+    mindscape - social world model analogous to physical landscape for
+    social interactions
 
-describe social interaction from observer, rather than agents,
-perspective.
+    describe social interaction from observer, rather than agents,
+    perspective.
 
-visibilities and exertions in social topology
+    visibilities and exertions in social topology
 
-instability $\Rightarrow$ conflict.
+    instability $\Rightarrow$ conflict.
 
-characters: language, appearance, comportment, choices, values,
-history, judgements and interpretations
+    characters: language, appearance, comportment, choices, values,
+    history, judgements and interpretations
 
-and allusive associations, role in story, interactions with player,
-sensibilities (how they interpret choices and others choices)
+    and allusive associations, role in story, interactions with player,
+    sensibilities (how they interpret choices and others choices)
 
 
 *** Castelfranchi Social action
-\begin{itemize}
-\item interference and dependence. x adapts to/changes y's behaviour
-\item weak social action. beliefs about anothers
-  mind. selfish/collaborative, reactive/proactive, positive/negative.
-\item delegation. unilateral relance, induction/acceptance delegation.
-\item goals about others goals
-\item social goal-adoption.
-\end{itemize}
+    \item interference and dependence. x adapts to/changes y's behaviour
+    \item weak social action. beliefs about anothers
+      mind. selfish/collaborative, reactive/proactive, positive/negative.
+    \item delegation. unilateral relance, induction/acceptance delegation.
+    \item goals about others goals
+    \item social goal-adoption.
 
-Types of collaboration:
-\begin{itemize}
-\item literal help
-\item overhelp
-\item critical help
-\item overcritical help
-\item hyper-critical help
-\end{itemize}
+    Types of collaboration:
+    \item literal help
+    \item overhelp
+    \item critical help
+    \item overcritical help
+    \item hyper-critical help
 
-``on behalf of definitions of tasks. Ironic that agents are often
-defined thus, though players in rpgs are ore like limited capability
-drones that can be given tasks to do.
+    ``on behalf of definitions of tasks. Ironic that agents are often
+    defined thus, though players in rpgs are ore like limited capability
+    drones that can be given tasks to do.
 
 
 *** hofstadter + farg
 
-Geb: self-ref and self-rep. Quining, use and mention distinction,
-referencing.
+    Geb: self-ref and self-rep. Quining, use and mention distinction,
+    referencing.
 
-``the value of OUTPUT is not a mere trigger like 11-u. instaed all the
-information of the original program lies ``close to the surface'' of
-the output''.
+    ``the value of OUTPUT is not a mere trigger like 11-u. instaed all the
+    information of the original program lies ``close to the surface'' of
+    the output''.
 
-social acts seem to be similar, containing (noisy) information on how
-to do an action ourselfs.
+    social acts seem to be similar, containing (noisy) information on how
+    to do an action ourselfs.
 
-to do this in abl, pass context down the tree, add a subtree where two
-agents differ, gives perfect learning. how to make it noisy?
-generalisation? merging subtrees, or removal of bits of subtrees that
-can be designated as S.F.D actions rather than... what? physical
-  actions? too broad, physically resultant actions? defined by use
-  purpose? discussion of the browad view of use mention applied to
-  violin as a fly-swatter. intrinsic properties of the physical
-  simulation.
+    to do this in abl, pass context down the tree, add a subtree where two
+    agents differ, gives perfect learning. how to make it noisy?
+    generalisation? merging subtrees, or removal of bits of subtrees that
+    can be designated as S.F.D actions rather than... what? physical
+    actions? too broad, physically resultant actions? defined by use
+    purpose? discussion of the browad view of use mention applied to
+    violin as a fly-swatter. intrinsic properties of the physical
+    simulation.
 
-this doesnt talk of how to add new tests or preconditions to the tree
-to put novel subtrees into...
+    this doesnt talk of how to add new tests or preconditions to the tree
+    to put novel subtrees into...
 
 
-farg models share:
-\begin{itemize}
-\item thinking is thousands of small independent actions, biased by
-  currently activated concepts
-\item activation spreads
-\item there is a mental temperature for amount of randomness
-\item promising avenues are explored more than unpromising ones.
-\end{itemize}
+    farg models share:
+    \item thinking is thousands of small independent actions, biased by
+      currently activated concepts
+    \item activation spreads
+    \item there is a mental temperature for amount of randomness
+    \item promising avenues are explored more than unpromising ones.
 
-godel escher bach: self-referential strange loops.
-chunking.
+    godel escher bach: self-referential strange loops.
+    chunking.
 
 
 
 *** Salen and Zimmerman notes
 
-Meaningful play:
-player action \textlesser$\Rightarrow$ system outcome interaction
-discernable and integrated into larger context
+    Meaningful play:
+    player action \textlesser$\Rightarrow$ system outcome interaction
+    discernable and integrated into larger context
 
-choice and interaction: micro chains into macro. - contrasts with
-annes story levels and activity theory.
+    choice and interaction: micro chains into macro. - contrasts with
+    annes story levels and activity theory.
 
-anatomy of a choice:
-\begin{itemize}
-\item what happened prior?
-\item how is choice conveyed?
-\item how was the choice made?
-\item what was the result?
-\item how was the result conveyed?
-\end{itemize}
+    anatomy of a choice:
+    \item what happened prior?
+    \item how is choice conveyed?
+    \item how was the choice made?
+    \item what was the result?
+    \item how was the result conveyed?
 
-information theory:
-source $\Rightarrow$ transmitter $\Rightarrow$ (noise) $\Rightarrow$
-receiver $\Rightarrow$ destination
+    information theory:
+    source $\Rightarrow$ transmitter $\Rightarrow$ (noise) $\Rightarrow$
+    receiver $\Rightarrow$ destination
 
-uncertainty: micro versus macro uncertainty.
+    uncertainty: micro versus macro uncertainty.
 
-systems of information: perfect/imperfect, degree of transfer
+    systems of information: perfect/imperfect, degree of transfer
 
-``randomly generated information''
+    ``randomly generated information''
 
-economy of information: fog of war, secret locations, item economies,
-rules as information.
+    economy of information: fog of war, secret locations, item economies,
+    rules as information.
 
 
-cybernetics: positive (cumulative) and negative (stabilising) feedback. 
+    cybernetics: positive (cumulative) and negative (stabilising) feedback.
 
-feedback in games: leblanc: state $\Rightarrow$ scoring $\Rightarrow$
-controller $\Rightarrow$ game mechanic bias -\text repeat.
+    feedback in games: leblanc: state $\Rightarrow$ scoring $\Rightarrow$
+    controller $\Rightarrow$ game mechanic bias -\text repeat.
 
-Caillois types of play: ago, alea, mimicry, ilinx, paida, ludus.
+    Caillois types of play: ago, alea, mimicry, ilinx, paida, ludus.
 
-typologies of pleasure (leblanc): 
-\begin{itemize}
-\item sensation
-\item fantasy
-\item narrative
-\item challenge
-\item fellowship
-\item discovery
-\item expression
-\item submission
-\end{itemize}
+    typologies of pleasure (leblanc):
+    \item sensation
+    \item fantasy
+    \item narrative
+    \item challenge
+    \item fellowship
+    \item discovery
+    \item expression
+    \item submission
 
-structural phenomenology: (apter)
-\begin{itemize}
-\item arousing stimulation
-\item fiction and narrative
-\item challenge
-\item exploration
-\item negativism
-\item cognitive synergy
-\item facing danger
-\end{itemize}
+    structural phenomenology: (apter)
+    \item arousing stimulation
+    \item fiction and narrative
+    \item challenge
+    \item exploration
+    \item negativism
+    \item cognitive synergy
+    \item facing danger
 
 
-boredom: dull places solutions: ``weenies'' to lead, guideships, sneak
-attacks, waterspout last ditch.
+    boredom: dull places solutions: ``weenies'' to lead, guideships, sneak
+    attacks, waterspout last ditch.
 
-metacommunication: p371?
+    metacommunication: p371?
 
-retelling: recounting, sharing series of events, sharing strategy,
-celebrate pleasre of play.
+    retelling: recounting, sharing series of events, sharing strategy,
+    celebrate pleasre of play.
 
-diplomacy: p429
+    diplomacy: p429
 
-social play (sutton-smith): race, chase, attack, capture, hass, search, rescue, seduce.
+    social play (sutton-smith): race, chase, attack, capture, hass, search, rescue, seduce.
 
-emergent social games - p467
+    emergent social games - p467
 
-transformative social play - p475
+    transformative social play - p475
 
-rhetorics of play (suttons-smith): progress, fate, power, identity,
-imagination, rhetoric of self, frivolity
+    rhetorics of play (suttons-smith): progress, fate, power, identity,
+    imagination, rhetoric of self, frivolity
 
-player as producer: tools, create, distribute, play
+    player as producer: tools, create, distribute, play
 
-play as cultural resistance
+    play as cultural resistance
 
 
 
 *** People to look up
 
-vincent corruble.
-dunbar?
-Chrstina Strong - HTN conversation generation
-carlotta perez - larger scale institutions.  institutional
-inertia. contrasts techno-economic with socio-institutional.
-williamson
-howard giles
-jim campbell - loew resolution displays
-donato maniello - time scanning
-mark downey - open ended group?
-brett something - inventing on principle
+    vincent corruble.
+    dunbar?
+    Chrstina Strong - HTN conversation generation
+    carlotta perez - larger scale institutions.  institutional
+    inertia. contrasts techno-economic with socio-institutional.
+    williamson
+    howard giles
+    jim campbell - loew resolution displays
+    donato maniello - time scanning
+    mark downey - open ended group?
+    brett something - inventing on principle
 
-kates pcg talk slides
-stuart russell - partial programming?
-mike treanor - rhetorical affordances. separation of rules and themes.
-sicart - ethics of games.
-eskil steenberg
-ken perlin
-georgeff - sri, prs
-zhu - agency not as prevalent as we think
-meier - series of interesting choices. beads on a string.
+    kates pcg talk slides
+    stuart russell - partial programming?
+    mike treanor - rhetorical affordances. separation of rules and themes.
+    sicart - ethics of games.
+    eskil steenberg
+    ken perlin
+    georgeff - sri, prs
+    zhu - agency not as prevalent as we think
+    meier - series of interesting choices. beads on a string.
 
-daniel cook - pcg for throwaway elements. 
+    daniel cook - pcg for throwaway elements.
 
 ** Lifestyle
 
-cleaning: every saturday
-cleaning: regular is better than on a need basis
-could it work for other things?
+   cleaning: every saturday
+   cleaning: regular is better than on a need basis
+   could it work for other things?
 
-nights for violin?
+   nights for violin?
 
-i need defined goals, regular checkins, and forcing functions to get
-me to work.
+   i need defined goals, regular checkins, and forcing functions to get
+   me to work.
