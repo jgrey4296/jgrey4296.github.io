@@ -22,7 +22,7 @@
   | σ Σ    | Sigma          |
   | τ Τ    | Tau            |
   | υ Υ    | Upsilon        |
-  | φ Φ    | Phi            |
+  | φ Φ ϕ  | Phi            |
   | χ Χ    | Chi            |
   | ψ Ψ    | Psi            |
   | ω Ω    | Omega          |
