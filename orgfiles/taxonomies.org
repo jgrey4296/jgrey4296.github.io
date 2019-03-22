@@ -1,17 +1,93 @@
 *  Taxonomies
-** TODO Brown and Levinson (1987) Social Politeness                             :politeness:social:
-   In IMMERSE Final report
+** Graeber - Functions of Money
 
-** TODO Typology of Sociotechnical Transition Pathways
-   Geels and Schot
+   | Function           |   |
+   |--------------------+---|
+   | Medium of Exchange |   |
+   |                    |   |
+   | Unit of Account    |   |
+   |                    |   |
+   | Store of Value     |   |
+   
+** [[file:48laws.org::*48%20Laws%20of%20Power][48 Laws of Power]]                                                             :power:rules:
+** [[file:pirateShip.org::*A%20Pirate%20Ship%20as%20an%20Institutional%20example][A Pirate Ship as an Institutional example]]                                    :routine:sanctions:
+** A Taxonomy of Inference in Simulation Models                                 :simulation:model:inference:
+   Brenner and Werker
 
-** TODO Weber's Types of Bureaucracy
-** TODO Taxonomy of layers in neural nets
+   | Approach         | Building                  | Conducting                | Usual                  | Possible          |
+   |                  | the Model                 | the runs                  | Analysis               | Analysis          |
+   |------------------+---------------------------+---------------------------+------------------------+-------------------|
+   | Conventional     | Rather hypothetical,      | Usually one               | Characteristics        | Comparison        |
+   |                  | specific                  | specification run         | study                  |                   |
+   |                  |                           |                           |                        |                   |
+   | Microsimulation  | Empirical, specific       | One specification run     | Prediction,            |                   |
+   |                  |                           |                           | characteristics        |                   |
+   |                  |                           |                           | study, some comparison |                   |
+   |                  |                           |                           |                        |                   |
+   | Bayesian         | Hypothetical, general     | Many specifications       | Comparison             | Characteristics   |
+   |                  |                           | run                       |                        | study, Prediction |
+   |                  |                           | (sometimes Monte-Carlo)   |                        |                   |
+   |                  |                           |                           |                        |                   |
+   | History Friendly | Rather empirical,         | One specification run,    | Comparison,            |                   |
+   |                  | specific                  | with sensitivity analysis | characteristics study  |                   |
+   |                  |                           |                           |                        |                   |
+   | Abductive        | As empirical as possible, | Many specification runs   | Comparison,            | Prediction        |
+   |                  | as general as necessary   | (Monte-Carlo)             | characteristics study, |                   |
+   |                  |                           |                           | categorisation         |                   |
+   
+** A Taxonomy of model transformation                                           :transforms:rules:pipeline:model:
+   Mens and Van Gorp
 
-** TODO [[https://casrai.org/credit/][CRediT Contributor Taxonomy]]                                             :authorship:ontology:
-** TODO [[https://sites.ualberta.ca/~urban/Projects/English/Motif_Index.htm][Mythology Types]]                                                         :mythology:
-** TODO [[https://sites.ualberta.ca/~urban/Projects/English/Content/Propp_Functions.htm][Propp's story functions]]                                                 :mythology:folklore:narrative:
-** TODO [[https://sites.ualberta.ca/~urban/Projects/English/Content/Structural_Analysis_2.htm][Structural Analysis Methods]]                                             :method:
+   | Type                             | Description                                                                                   |
+   |----------------------------------+-----------------------------------------------------------------------------------------------|
+   | Transformation Definition        | Set of transform rules from one model to another                                              |
+   | Transform Rule                   | Description of how one or more constructs in the source model can be transformed into another |
+   | Multi Source/Target Transforms   | One-To-Many and Many-To-One Transforms                                                        |
+   | Technical Space                  |                                                                                               |
+   | Endogenous transforms            | Transforms in the same language                                                               |
+   | Exogenous transforms             | Transforms between different languages                                                        |
+   | Horizontal transforms            | Between same abstraction levels                                                               |
+   | Vertical transforms              | Between different abstraction levels                                                          |
+   | Syntactic transforms             |                                                                                               |
+   | Semantic transforms              |                                                                                               |
+   | Preservation / Refactoring       | Behaviour is preserved                                                                        |
+   | Refinements                      | Program correctness is preserved                                                              |
+   | Composability                    |                                                                                               |
+   | Genericity                       |                                                                                               |
+   | Bidirectionality                 |                                                                                               |
+   | Traceability/ Change Propagation |                                                                                               |
+   | Verbosity / Conciseness          |                                                                                               |
+   | Extensibility                    |                                                                                               |
+   | Interoperability                 |                                                                                               |
+   | Acceptability by user community  |                                                                                               |
+   | Standardization                  |                                                                                               |
+
+   |            | Horizontal         | Vertical          |
+   |------------+--------------------+-------------------|
+   | Endogenous | Refactoring        | Formal Refinement |
+   | Exogenous  | Language Migration | Code Generation   |
+   
+** Activity Theory                                                              :division_of_labour:social:activity:methodology:design:
+
+   | Type               | Description |
+   |--------------------+-------------|
+   | Subject            |             |
+   | Tool               |             |
+   | Object             |             |
+   |--------------------+-------------|
+   | Community          |             |
+   | Rules              |             |
+   | Division of Labour |             |
+   |--------------------+-------------|
+   | Outcome            |             |
+
+
+   | Type      | Description |
+   |-----------+-------------|
+   | Activity  |             |
+   | Task      |             |
+   | Operation |             |
+   
 ** AI Based Game Design Patterns                                                :games:ai:
    Treanor, Zook, Eladhari et al
 
@@ -68,6 +144,10 @@
    |                          | showing failure        |             |
    |                          |                        |             |
    |                          | Establish a baseline   |             |
+
+** [[file:notecards.org::*Books][Books]]
+** TODO Brown and Levinson (1987) Social Politeness                             :politeness:social:
+   In IMMERSE Final report
 
 ** Building Problem solvers                                                     :life_cycle:ontology:architecture:
    Ken Forbus, J. Kleer
@@ -237,6 +317,26 @@
    |                     | Donated money to a charitable organisation           |
    |---------------------+------------------------------------------------------|
    
+** [[https://casrai.org/credit/][CRediT Contributor Taxonomy]]                                                  :authorship:ontology:
+
+   | Type                       | Description |
+   |----------------------------+-------------|
+   | Conceptualisation          |             |
+   | Data Curation              |             |
+   | Formal Analysis            |             |
+   | Funding Acquisition        |             |
+   | Investigation              |             |
+   | Methodology                |             |
+   | Project Administration     |             |
+   | Resources                  |             |
+   | Software                   |             |
+   | Supervision                |             |
+   | Validation                 |             |
+   | Visualisation              |             |
+   | Writing - Original Draft   |             |
+   | Writing - Review & Editing |             |
+   
+** [[file:culturalAntroNotes.org::*Cultural%20Anthropology%20notes][Cultural Anthropology notes]]                                                  :formula:tribes:
 ** Davidsson Taxonomy of Artificial Societies                                   :norms:simulation:society:
    Mentioned in Sebastia "A Framework for Norm Monitoring on Dynamic
    Electronic Institutions"
@@ -312,6 +412,21 @@
    to publish it whichever way it comes out. If we only publish results of a
    certain kind, we can make the argument look good. We must publish both kinds
    of results."
+** [[file:ds_9_episodes.org::*DS9%20Episodes][DS9 Episodes]]                                                                 :rules:tv_shows:
+** [[file:examples_typology_notes.org::*Examples%20Typology][Examples Typology]]                                                            :examples:
+** Fligstein
+
+   | Type                   | Description                        |
+   |------------------------+------------------------------------|
+   | Roles                  | (Incumbents, Challengers)          |
+   | Strategic Action Field |                                    |
+   | Broader Field          |                                    |
+   | Social Skill           | Existential Function of the Social |
+   | IGU                    |                                    |
+   | Exogenous Shocks       |                                    |
+   | Episodes of Contention |                                    |
+   | Settlement           |                                    |
+   
 ** Four Types of Moral Wriggle Room                                             :manipulation:norms:morals:
    Spiekermann
 
@@ -322,6 +437,7 @@
    |------------------------+------------------------+----------------------------|
    | norm-facts             | Biased Norm Perception | ?                          |
 
+** [[file:General_Games.org::*General%20Games%20and%20IF][General Games and IF]]
 ** Genre Taxonomy of Organizational Communication                               :questions:ontology:
    in Yoshioka and Herman: "Genre Taxonomy: A Knowledge Repository of Communicative Actions"
 
@@ -438,6 +554,7 @@
    |                | to enter the shop          | for the move, or the         | whole class will miss morning  |
    |                | together"                  | supervisor will be blamed."  | break."                      |
 
+** [[https://wiki.haskell.org/Typeclassopedia#Comonad][haskell typeclassopedia]]                                                      :programming:types:
 ** Hofstede Culture Theory                                                      :dimensions:norms:social:
    in Andrighetto, Castelfranchi, Mayor et al: "(Social) Norm Dynamics"
 
@@ -450,6 +567,8 @@
    | Immutability vs Pragmatism | Short- vs Long-term orientation   |             |
    | Gratification of drives    | Indulgence vs Restraint           |             |
    
+** [[file:latest_institution_attempt.org][Institution Attempt]]                                                          :programming:rules:
+** [[file:institutionStructure.org::*Institution%20Structure][Institution Structure]]                                                        :castelfranchi:norms:activity:institutions:
 ** Judgment Aggregation Rules                                                   :norms:voting:judgement:
    In Lang, Pigozzi Slavkovik et al: "A Partial Taxonomy of Judgment aggregation
    rules and their properties"
@@ -506,18 +625,16 @@
    | regrettable mistake                      |             |
    | sabotage                                 |             |
    
-** Typology of Pleasure (Leblanc)                                               :motivation:pleasure:
+** Managing Conflicts between rules                                             :meta:rules:conflict:
+   Jagadish, Mendelzon, Mumick
 
-   | Type       | Description |
-   |------------+-------------|
-   | Sensation  |             |
-   | Fantasy    |             |
-   | Narrative  |             |
-   | Challenge  |             |
-   | Fellowship |             |
-   | Discovery  |             |
-   | Expression |             |
-   | Submission |             |
+   Meta Rules
+   | Type                 | Description                       |
+   |----------------------+-----------------------------------|
+   | Positive requirement | A ⊃ B. If A fires, B must as well |
+   | Disabling Rules      | A and B are mutually exclusive    |
+   | Preference Rules     | A < B                             |
+   | Scheduling Rules     | A Comes before B                  |
    
 ** McGrath's Typology of Tasks                                                  :action:tasks:
    In Straus 'Testing a Typology of Tasks: An Empirical Validation of McGrath's
@@ -568,6 +685,281 @@
 
    Time as *Linear Change with Forward Order* or *Repeating Cycles* (Buzsaki  2006)
 
+** [[file:Moise.org::*MOISE%20Notes][MOISE Notes]]                                                                  :organisation:
+** TODO [[https://sites.ualberta.ca/~urban/Projects/English/Motif_Index.htm][Mythology Types]]                                                         :mythology:
+** Normative Multi Agent Systems
+   Andrighetto, Governatori, Noriega, van der Torre. 
+    
+*** Norms
+
+    |                   |                     | Description                       |
+    |-------------------+---------------------+-----------------------------------|
+    |                   | Core                | Stable part                       |
+    |                   | Penumbra            | More flexible                     |
+    |-------------------+---------------------+-----------------------------------|
+    |                   | Rule Structure      |                                   |
+    |-------------------+---------------------+-----------------------------------|
+    | (von Wright)      | Determinative       | define concepts                   |
+    |                   |                     |                                   |
+    |                   | Technical           | what has to be done to attain     |
+    |                   |                     | something                         |
+    |                   |                     |                                   |
+    |                   | Prescriptions       | regulate actions (who, does what, |
+    |                   |                     | in circumstances, and the nature  |
+    |                   |                     | of the guidance                   |
+    |-------------------+---------------------+-----------------------------------|
+    | Hart              | Hierarchy           |                                   |
+    |                   | Application         |                                   |
+    |                   | Change              |                                   |
+    |-------------------+---------------------+-----------------------------------|
+    | Tuomela and       | S-Norms             | Emerge as a feature of normative  |
+    | Bonnevier-Tuomela |                     | context                           |
+    |                   |                     |                                   |
+    |                   | R-Norms             | Created by an Authority           |
+    |-------------------+---------------------+-----------------------------------|
+    | Legal Theory      | Power               | Both *Legal* and *Physical*       |
+    |                   | Duty                |                                   |
+    |                   | Right               |                                   |
+    |                   | Liability           |                                   |
+    |                   | Disability          |                                   |
+    |                   | Claim               |                                   |
+    |                   | Immunity            |                                   |
+
+
+
+    | Properties of Norm  |                           | Description                                        |
+    |---------------------+---------------------------+----------------------------------------------------|
+    | Temporal Properties | When in force,            |                                                    |
+    |                     | When can produce effects, |                                                    |
+    |                     | when it holds             |                                                    |
+    |---------------------+---------------------------+----------------------------------------------------|
+    | Normative Effects   | Evaluative                | Specify values to be optimised or minimised        |
+    |                     |                           |                                                    |
+    |                     | Qualificatory             | ascribe a quality to a person or object            |
+    |                     |                           |                                                    |
+    |                     | Definitional              | specify meaning of a term                          |
+    |                     |                           |                                                    |
+    |                     | Deontic                   | obligation, permission, prohibition                |
+    |                     |                           |                                                    |
+    |                     | Potestative               | Attributes powers                                  |
+    |                     |                           |                                                    |
+    |                     | Evidentiary               | Establishes conclusion to be drawn from evidence   |
+    |                     |                           |                                                    |
+    |                     | Existential               | Specify beginning and terminal of entity existence |
+    |                     |                           |                                                    |
+    |                     | Norm-concerning effects   | Abrogation, repeal, substitution.                  |
+    |                     |                           |                                                    |
+
+    
+    | Gordon's Requirements            |                                                                                     |
+    | for representing norms           |                                                                                     |
+    |----------------------------------+-------------------------------------------------------------------------------------|
+    | Isomorphism                      |                                                                                     |
+    |                                  |                                                                                     |
+    | Rule Semantics                   |                                                                                     |
+    |                                  |                                                                                     |
+    | Defeasibility                    | Conflicts: (exceptions, different rankings, enacted at different times)             |
+    |                                  | Resolutions: Lex Specialis, Lex Superior, Lex Posterior                             |
+    |                                  | Exclusionary Norms                                                                  |
+    |                                  |                                                                                     |
+    | Contributory Reasons             | "The educational value of a work needs to be taken into consideration               |
+    |                                  | when evaluating whether the work is covered by the copyright doctrine of fair use"  |
+    |                                  |                                                                                     |
+    | Norm Validity                    | Annulment: repeals as if it had never been enacted                                  |
+    |                                  | Abrogation: continues to apply for events which occurred before the rule abrogation |
+    |                                  |                                                                                     |
+    | Legal Procedures                 | Regulate how to detect violations. eg: illegal detection may void effects           |
+    |                                  | Determine effects of violations, eg: Reparative obligations                         |
+    |                                  |                                                                                     |
+    | Persistence of normative effects |                                                                                     |
+    |                                  |                                                                                     |
+    | Values                           |                                                                                   |
+    
+*** Design Guidelines
+
+    | Guideline                                                  |                                 |
+    |------------------------------------------------------------+---------------------------------|
+    | Motive which definition of nMAS is used                    | (See Norm representation types) |
+    | and explain which representation should be adopted         |                                 |
+    |                                                            |                                 |
+    | Make Explicit why your norms are a kind of soft constraint |                                 |
+    | that deserve special analysis                              |                                 |
+    |                                                            |                                 |
+    | Explain why and how norms can be changed at runtime        |                                 |
+    |                                                            |                                 |
+    | Discuss the use and role of norms always                   |                                 |
+    | as a mechanism in a game theoretic setting                 |                                 |
+    |                                                            |                                 |
+    | Clarify the role of norms in your system as par of an      |                                 |
+    | organisation or institution                                |                                 |
+    
+
+
+    | Norm Representation Type |                                                                   |
+    |--------------------------+-------------------------------------------------------------------|
+    | Strong                   | Explicit representation in agents and system in a declarative way |
+    |                          |                                                                   |
+    | Weak                     | Explicit representation in overall system specification |
+    |                          |                                                                   |
+    | None                     |                                                                   |
+    |                          |                                                                   |
+    
+*** Identified Problems 
+
+    | Problem                                    |                                                               |
+    |--------------------------------------------+---------------------------------------------------------------|
+    | How to define the relation                 | Example of a priest having the power,                         |
+    | between physical and legal power           | but not the permission, to marry two people                   |
+    |                                            |                                                               |
+    | How to define at which point of time       |                                                               |
+    | or in which state an agent has which power |                                                               |
+    |--------------------------------------------+---------------------------------------------------------------|
+    | How to specify the context in which        |                                                               |
+    | norms apply                                |                                                               |
+    |                                            |                                                               |
+    | How to deal with a lack of                 |                                                               |
+    | normative awareness                        |                                                               |
+    |                                            |                                                               |
+    | How to ensure that norms are followable    |                                                               |
+    | for agents                                 |                                                               |
+    |                                            |                                                               |
+    | How can we check whether a system complies |                                                               |
+    | with relevant norms?                       |                                                               |
+    |                                            |                                                               |
+    | How can we design a system such that it    |                                                               |
+    | complies with a given set of norms?        |                                                               |
+    |                                            |                                                               |
+    | Investigating the connection between games |                                                               |
+    | and norms                                  |                                                               |
+    |                                            |                                                               |
+    | Providing a clarification of the different | (Norm violations may increase upon imposition of sanctioning, |
+    | role that norms plain in agents societies  | as it removes the moral component - look into more)           |
+    |                                            |                                                               |
+    | How do norms contribute to design agents'  |                                                               |
+    | organisations?                             |                                                               |
+    
+*** Open Questions
+
+    |                                            |                               |                                                                              |
+    |--------------------------------------------+-------------------------------+------------------------------------------------------------------------------|
+    | Moral Agency                               |                               |                                                                              |
+    | Group Norms                                |                               |                                                                              |
+    | Connection between argumentation and norms |                               |                                                                              |
+    | Vagueness and fuzziness of norms           |                               |                                                                              |
+    |--------------------------------------------+-------------------------------+------------------------------------------------------------------------------|
+    | Arguing about Norms                        | Societal modeling and control | Where individual debate about merits and effects of norms                    |
+    |                                            |                               | where indidividuals persuade others about the utility or norm adoption       |
+    |                                            |                               |                                                                              |
+    |                                            | constitutive norms            | more than two agents performing ontology alignment                           |
+    |                                            |                               | avoiding the need for central ontology mapping repository                    |
+    |                                            |                               |                                                                              |
+    |                                            | regulative norms              | considering norms in practical reasoning                                     |
+    |                                            |                               |                                                                              |
+    |                                            | normative constraints         | complex norm reasoning for dealines, violation, fulfillment                  |
+    |                                            |                               | using argumentation schemes to reason about norms being in force             |
+    |                                            |                               |                                                                              |
+    |                                            | normative conflict            | developing preference models and logics for reasoning about norm interaction |
+    |                                            |                               |                                                                              |
+    |                                            | practical reasoning           | integration of domain specific knowledge                                     |
+    |                                            |                               | new reasoning heuristics                                                     |
+    |                                            |                               |                                                                              |
+    |                                            | monitoring norms              | identifying argument schemes which reason about uncertainty                  |
+    |                                            |                               | weighing up conflicting uncertain evidence                                   |
+    |                                            |                               |                                                                              |
+    |--------------------------------------------+-------------------------------+------------------------------------------------------------------------------|
+    | Norms about arguing                        | dialogue                      | interplay between dialectical norms and procedural norms                     |
+    |                                            |                               | modelling dialogues where several norms regulate a dialogue                  |
+    |                                            |                               |                                                                              |
+    |                                            | burden of proof               | tools for supporting legal field verification of proof standards             |
+    |                                            |                               |                                                                            |
+
+*** Definitions
+
+    | nMAS Definition             |                                                                          |
+    |-----------------------------+--------------------------------------------------------------------------|
+    | Social Definition           | "A Normative MAS is a MAS governed by restrictions                       |
+    |                             | on patterns of behaviour of the agents in the system                     |
+    |                             | that are actively or passively transmitted and                           |
+    |                             | have a social function and impact."                                      |
+    |                             |                                                                          |
+    | Norm Change Definition      | "A Normative MAS is a MAS together with normative systems in             |
+    |                             | which agents on the one hand decide whether to follow the explicitly     |
+    |                             | represented norms, and on the other the normative systems specify        |
+    |                             | how and to what extent the agents can modify the norms."                 |
+    |                             |                                                                          |
+    | Mechanism Design Definition | "A Normative MAS is a MAS organized by means of mechanism                |
+    |                             | to represent, communicate, distribut, detect, create, modify and enforce |
+    |                             | norms, and mechanism to deliberate about norms and detect norm violation |
+    |                             | and fulfillment."                                                        |
+    
+*** Trends in Deontic Logic
+
+    |                           |                                                                                                        |
+    |---------------------------+--------------------------------------------------------------------------------------------------------|
+    | Norms without Truth       | Input/Output Logic, NOBL (Aqvist)                                                                      |
+    |                           |                                                                                                        |
+    | Reasoning about violation | SDL has modality OA, and accessibility relation R                                                      |
+    |                           |                                                                                                        |
+    | Norm conflicts            | How can deontic logic accommodate conflicts, and how can                                               |
+    |                           | conflicts be semantically modeled?                                                                     |
+    |                           |                                                                                                        |
+    | Time                      | Validity Time and Reference Time of deontic modality                                                   |
+    |                           | ie: Obligation now (validity time) to show up tomorrow (reference time)                                |
+    |                           |                                                                                                        |
+    | Action                    | stit logic.                                                                                            |
+    |                           |                                                                                                        |
+    | Permissive norms          | was assumed permission is dual of obligation. not necessarily so.                                      |
+    |                           |                                                                                                        |
+    | Constitutive norms        | Boella and van der Torre notion of logical architecture combining several logics into a complex system |
+    |                           | (logical input/output nets)                                                                              |
+    |                           |                                                                                                        |
+    
+*** Trends in NorMAS
+    
+**** Traditional Normative reasoning
+     |                       |                                          |
+     |-----------------------+------------------------------------------|
+     | Von Wrights System KD | Distinguishes Good/Badd, Right/Wrong     |
+     | Anderson              | Represents norms by violation conditions |
+     | Hanson                | Preference based semantics               |
+     | Makinson              | Iterative approach                       |
+     
+
+**** Logics for NorMAS
+
+     | Acronym | Notes                                        |
+     |---------+----------------------------------------------|
+     | PDF     | Propositional Dynamic Logic                  |
+     |---------+----------------------------------------------|
+     | ATL     | Alternating-time Temporal Logic              |
+     | CTL     | Computational Tree Logic (fragment of ATL)   |
+     | CL      | Coalition Logic (fragment of ATL)            |
+     |---------+----------------------------------------------|
+     | STIT    | See To It That (embeds ATL)                  |
+     | DLA     | Dynamic Logic of Agency (embeds CL and STIT) |
+     
+**** Norm Change
+
+     |                |                                                                   |
+     |----------------+-------------------------------------------------------------------|
+     | Theory Change  | Alchourron and Makinson the first to study changes to legal code. |
+     |                | Amendment, derogtion. Hierarchy of regulations.                   |
+     |                | Expansion, revision, contraction.                                 |
+     |----------------+-------------------------------------------------------------------|
+     | Legal Dynamics | Needs considerable defeasibility and temporal reasoning           |
+     |                |                                                                   |
+     
+**** Agreement process: Bolla and van der Torre (p.74)
+     
+     |                                  |                                      |
+     |----------------------------------+--------------------------------------|
+     | Trust update                     | Violation detection                  |
+     | Derivation acceptable agreements | Construction argumentation framework |
+     | Derivation potential agreements  | Identification of powers of agents   |
+     | Generation deontics              | Interpretation of norms              |
+     | Judgment Aggregation             | Anchoring and Grounding              |
+     | Individual Judgments             |                                      |
+     
 ** Ostrom ADICO                                                                 :institutions:sanctions:ostrom:rules:
    [[file:traceryADICO.org::*Tracery%20norm%20grammars][Tracery norm grammars]]
 
@@ -604,6 +996,17 @@
    | Constructive versus generate and test   |             |
    | Automatic generation v mixed authorship |             |
 
+** TODO [[https://sites.ualberta.ca/~urban/Projects/English/Content/Propp_Functions.htm][Propp's story functions]]                                                 :mythology:folklore:narrative:
+** Questions Options Criteria                                                   :methodology:design:
+
+   | Type      | Description |
+   |-----------+-------------|
+   | Questions |             |
+   | Options   |             |
+   | Criteria  |             |
+   
+** [[file:workedExamples.org::*Racist%20Police%20Violence][Racist Police Violence]]                                                       :organisation:field:structure:systems:police:
+** [[file:threeIdeas.org::*Real%20time,%20Functional%20AI%20authoring%20pipeline.][Real time, Functional AI authoring pipeline.]]                                 :pipeline:modality:
 ** Reputation System Taxonomy                                                   :judgement:norms:reputation:
    In Hendrikx, Bubendorfer, Chard "Reputation systems: A Survey and Taxonomy"
 
@@ -664,6 +1067,9 @@
    | Expressive  |             |
    | Declarative |             |
 
+** [[file:SocialSituationNotes.org::*Social%20Situations][Social Situations]]                                                            :structure:links:
+** [[file:structuredSocialSituations2.org::*Social%20Situations%20structured%20by%20institutional%20focus][Social Situations structured by institutional focus]]                          :time:links:fligstein:norms:
+** [[file:notebook_notes.org::*speech%20acts][speech acts]]                                                                  :speech_acts:
 ** Stand on Zanzibar                                                            :society:
 
    The Innis Mode: "Innis makes no effort to 'spell out' the
@@ -738,6 +1144,8 @@
    |                                                |                                     |                                         |
    |                                                |                                     |                                         |
    
+** TODO [[https://sites.ualberta.ca/~urban/Projects/English/Content/Structural_Analysis_2.htm][Structural Analysis Methods]]                                             :method:
+** [[file:structured_social_situtations.org::*Structured%20Social%20Situations][Structured Social Situations]]                                                 :sanctions:society:power:bureaucracy:links:norm_change:norms:
 ** Suppression across different rule scenarios                                  :sanctions:rules:law:politics:
    In "The Empiricists Insurgency", Bermand and Matanock
 
@@ -771,6 +1179,20 @@
 
 *** TODO Return to for Activity Theory
 
+** Taxonomy of Autonomy in Holons                                               :action:social:agents:ai:holons:
+   M. Schillo and K. Fischer
+
+   | Type of Autonomy   | Description                                                  |
+   |--------------------+--------------------------------------------------------------|
+   | Skill and Resource | N/A in Collaborative Holons                                  |
+   | Goal               | Goal of Holon                                                |
+   | Representational   | Set of Holon Heads                                           |
+   | Deontic            | Mechanism for Task Delegation                                |
+   | Planning           | Membership restrictions                                      |
+   | Income             | Profit Distribution                                          |
+   | Exit               | Rules for termination of Holon, and initiator of termination |
+   | Processing         | All of the above                                             |
+   
 ** Taxonomy of Database Sorting Algorithms                                      :layers:pipeline:sorting:query:questions:database:
    in Graefe "Query Evaluation Techniques for Large Databases"
 
@@ -905,6 +1327,126 @@
     | Predicate-list Level |             |
     |                      |             |
     
+** Taxonomy of layers in neural nets
+
+   | Library    | Layers                                     |
+   |------------+--------------------------------------------|
+   | [[https://keras.io/layers/core/][Keras]]      | Dense                                      |
+   |            | Activation                                 |
+   |            | Dropout                                    |
+   |            | Flatten                                    |
+   |            | Input                                      |
+   |            | Reshape                                    |
+   |            | Permute                                    |
+   |            | RepeatVector                               |
+   |            | Lambda                                     |
+   |            | ActivityRegularization                     |
+   |            | Masking                                    |
+   |            | SpatialDropout - 1,2,3D                    |
+   |            |                                            |
+   |            | Convolution - n-D                          |
+   |            | SeparableConvolution - n-D                 |
+   |            | DepthwiseConvolution - n-D                 |
+   |            | ConvolutionTranspose - n-D (Deconvolution) |
+   |            | Cropping - n-D                             |
+   |            | Upsampling - n-D                           |
+   |            | ZeroPadding - n-D                          |
+   |            |                                            |
+   |            | MaxPooling - n-D                           |
+   |            | AveragePooling - n-D                       |
+   |            | GlobalMaxPooling - n-D                     |
+   |            |                                            |
+   |            | LocallyConnected - n-D                     |
+   |            |                                            |
+   |            | Recurrent (RNN)                            |
+   |            | Gated Recurrent                            |
+   |            | LSTM                                       |
+   |            | ConvLSTM                                   |
+   |            | RNN-Cell                                   |
+   |            | GRU-Cell                                   |
+   |            | LSTM-Cell                                  |
+   |            |                                            |
+   |            | Embedding                                  |
+   |            |                                            |
+   |            | Add                                        |
+   |            | Subtract                                   |
+   |            | Multiply                                   |
+   |            | Average                                    |
+   |            | Maximum                                    |
+   |            | Minimum                                    |
+   |            | Concatenate                                |
+   |            | Dot                                        |
+   |            |                                            |
+   |            | ReLU (Rectified Linear Unit)               |
+   |            | LeakyReLU                                  |
+   |            | Parametric ReLU                            |
+   |            | ELU (Exponential Linear Unit)              |
+   |            | ThresholdReLU                              |
+   |            | SoftMax                                    |
+   |            |                                            |
+   |            | BatchNormalization                         |
+   |            |                                            |
+   |            | GaussianNoise                              |
+   |            | GaussianDropout                            |
+   |            | AlphaDropout                               |
+   |            |                                            |
+   |            | TimeDistributed Wrapper                    |
+   |            | Bidirectional Wrapper                      |
+   |------------+--------------------------------------------|
+   | [[https://mochajl.readthedocs.io/en/latest/user-guide/layers/overview.html][Mocha]]      | Data Layers                                |
+   |            | Computation Layers                         |
+   |            | Loss Layers                                |
+   |            | Statistics Layers                          |
+   |            | Utility Layers                             |
+   |            |                                            |
+   |            | TanH                                       |
+   |            | Initializers                               |
+   |------------+--------------------------------------------|
+   | [[https://lasagne.readthedocs.io/en/latest/modules/layers.html][lasagne]]    |                                            |
+   |------------+--------------------------------------------|
+   | [[https://blocks.readthedocs.io/en/latest/bricks_overview.html][blocks]]     | Annotates variables with role,             |
+   |            | constructs auxiliary variables.            |
+   |            |                                            |
+   |            | Fork                                       |
+   |            | Merge                                      |
+   |            | Parallel                                   |
+   |            | Attention                                  |
+   |            |                                            |
+   |            | Path                                       |
+   |            | Selector                                   |
+   |            |                                            |
+   |------------+--------------------------------------------|
+   | [[http://caffe.berkeleyvision.org/doxygen/annotated.html][caffe]]      |                                            |
+   |------------+--------------------------------------------|
+   | [[http://tflearn.org/layers/core/][Tensorflow]] |                                            |
+   |------------+--------------------------------------------|
+   
+
+
+** Taxonomy of Norms and Sanctions                                              :enforcement:agents:autonomy:sanctions:norms:
+   in Grossi, Aldewereld, Dignum: "Ubi Lex, Ibi Poena: Designing norm
+   enforcement in E-institutions"
+
+   | Norm Type        | Description |
+   |------------------+-------------|
+   | Substantive Norm |             |
+   | Check Norm       | Enforcement |
+   | Reaction Norm    | Enforcement |
+   
+   | Autonomy Level | Description |
+   |----------------+-------------|
+   | Norm           |             |
+   | Goal           |             |
+   | Plan           |             |
+   | Reactivity     |             |
+
+   | Sanction Function | Description                                                     |
+   |-------------------+-----------------------------------------------------------------|
+   | Discouragement    | Applied by institution, benefits institution                    |
+   | Compensation      | To those effected by violation of norm. Institution is mediator |
+   | Direct            | Influence Agent immediately and are noticeable                  |
+   | Indirect          | Non-observable sanction. Reputation and trust damage           |
+   
 ** Taxonomy of PCG                                                              :ai:games:procedural_content:
    In Yannakakis and Togelius: "Artificial Intelligence and Games"
 
@@ -919,6 +1461,7 @@
    | Roles   | Autonomy vs Mixed-Initiative             |             |
    |         | Experience Agnostic vs Experience-driven |             |
 
+** [[file:book_notes.org::*The%20Grammar%20of%20Society%20-%20Cristina%20Bicchieri][The Grammar of Society - Cristina Bicchieri]]                                  :rules:norms:
 ** The State of the Art in Visualising Group Structures in Graphs               :graphs:intuition_pump:visualisation:
    Vehlow, Beck and Weiskopf
 
@@ -933,6 +1476,7 @@
    |              |             |
    | embedded     |             |
 
+** [[file:notecards.org::*Theory][Theory]]                                                                       :meta:rules:norms:structure:
 ** Towards a Theory of Delegation for Agent Based Systems                       :contract:action:social:delegation:castelfranchi:
    Castelfranchi and Falcone
 
@@ -1025,6 +1569,9 @@
     |----------------------------------------------+-------------|
     | Over Task Specification                      |             |
 
+** [[file:tribeDescriptions.org::*Tribe%20Descriptions][Tribe Descriptions]]                                                           :structure:social:society:honourifics:tribes:
+** [[file:typewriter.org::*Typewritten%20Notes][Typewritten Notes]]                                                            :organisation:the_watch:rules:phenomenology:conversation:
+** [[file:behaviourErrors.org::*Typology%20of%20Behaviour%20Errors][Typology of Behaviour Errors]]                                                 :slips:mistakes:
 ** Typology of Consumption Practices                                            :social:action:play:consumption:
    Douglas Holt "How Consumers Consume: A Typology of Consumption Practices"
 
@@ -1036,6 +1583,50 @@
    | Structure | Object Actions        | Experience        | Integration          |
    | of Action | Interpersonal Actions | Play              | Classification       |
 
+** Typology of Pleasure (Leblanc)                                               :motivation:pleasure:
+
+   | Type       | Description |
+   |------------+-------------|
+   | Sensation  |             |
+   | Fantasy    |             |
+   | Narrative  |             |
+   | Challenge  |             |
+   | Fellowship |             |
+   | Discovery  |             |
+   | Expression |             |
+   | Submission |             |
+   
+** TODO Typology of Sociotechnical Transition Pathways
+   Geels and Schot
+
+** Usability Evaluation Taxonomy                                                :ui:evaluation:usability:
+   in Bowman, Gabbard and Hix: "A Survey of Usability Evaluation in Virtual
+   Environments : Classification and Comparison of Methods 1 Introduction and
+   motivation 2 Distinctive characteristics of VE evaluation"
+
+   |                                                    | Context of                   | Type of                  | User         |
+   | Type                                               | Evaluation                   | Results                  | Involvement  |
+   |----------------------------------------------------+------------------------------+--------------------------+--------------|
+   | Generic Performance Models (Fitts Law etc)         | Generic                      | Quantitative             | Not Required |
+   | Informal Summative Evaluation                      | Generic                      | Qualitative              | Required     |
+   | Formal Summative Evaluation                        | Generic/Application Specific | Quantitative             | Required     |
+   | Heuristic Evaluation                               | Generic/Application Specific | Qualitative              | Not Required |
+   | Post-hoc Questionnaire                             | Generic/Application Specific | Quantitative/Qualitative | Required     |
+   | Formative Evaluation                               | Application Specific         | Quantitative/Qualitative | Required     |
+   | Application Specific Performance Models (GOMS etc) | Application Specific         | Quantitative             | Not Required |
+   | Interview/Demo                                     | Application Specific         | Qualitative              | Required     |
+   | Cognitive Walkthrough                              | Application Specific         | Qualitative              | Not Required |
+
+** Weber's Types of Authority
+
+   | Type           | Description |
+   |----------------+-------------|
+   | Charismatic    |             |
+   |                |             |
+   | Legal-Rational |             |
+   |                |             |
+   | Traditional    |             |
+   
 ** Wodak The Politics of Fear                                                   :society:social:law:argumentation:politics:
 
 *** The Political Field:
@@ -1115,190 +1706,120 @@
     | Saviour     |         |
     | History     |         |
 
-** Usability Evaluation Taxonomy                                                :ui:evaluation:usability:
-   in Bowman, Gabbard and Hix: "A Survey of Usability Evaluation in Virtual
-   Environments : Classification and Comparison of Methods 1 Introduction and
-   motivation 2 Distinctive characteristics of VE evaluation"
+** Raph Kosters Social Mechanics
 
-   |                                                    | Context of                   | Type of                  | User         |
-   | Type                                               | Evaluation                   | Results                  | Involvement  |
-   |----------------------------------------------------+------------------------------+--------------------------+--------------|
-   | Generic Performance Models (Fitts Law etc)         | Generic                      | Quantitative             | Not Required |
-   | Informal Summative Evaluation                      | Generic                      | Qualitative              | Required     |
-   | Formal Summative Evaluation                        | Generic/Application Specific | Quantitative             | Required     |
-   | Heuristic Evaluation                               | Generic/Application Specific | Qualitative              | Not Required |
-   | Post-hoc Questionnaire                             | Generic/Application Specific | Quantitative/Qualitative | Required     |
-   | Formative Evaluation                               | Application Specific         | Quantitative/Qualitative | Required     |
-   | Application Specific Performance Models (GOMS etc) | Application Specific         | Quantitative             | Not Required |
-   | Interview/Demo                                     | Application Specific         | Qualitative              | Required     |
-   | Cognitive Walkthrough                              | Application Specific         | Qualitative              | Not Required |
-
-** Questions Options Criteria                                                   :methodology:design:
-
-   | Type      | Description |
-   |-----------+-------------|
-   | Questions |             |
-   | Options   |             |
-   | Criteria  |             |
+   | Multiplayer Type                 | Mechanics                      | Description                                             |
+   |----------------------------------+--------------------------------+---------------------------------------------------------|
+   | (True Single Player)             |                                |                                                         |
+   | 1 v self/system                  | Helping                        | Outgrowth of spectating. Advice and assistance          |
+   |                                  |                                |                                                         |
+   |----------------------------------+--------------------------------+---------------------------------------------------------|
+   | (Parallel Symmetric)             |                                |                                                         |
+   | 1 v system vs 1 v system         | Status                         |                                                         |
+   |                                  | Races                          |                                                         |
+   |                                  | Leaderboards                   |                                                         |
+   |                                  |                                |                                                         |
+   |----------------------------------+--------------------------------+---------------------------------------------------------|
+   | (Parallel asymmetric)            |                                |                                                         |
+   | 1 vs system, 1 vs another system | Tournaments                    |                                                         |
+   |                                  |                                |                                                         |
+   |----------------------------------+--------------------------------+---------------------------------------------------------|
+   | (Opposition)                     |                                |                                                         |
+   | 1 vs 1                           | Flower picking                 | Non-zero-sum resource consumption                       |
+   |                                  | Dot eating                     | Zero-sum resource consumption                           |
+   |                                  | Tug of War                     |                                                         |
+   |                                  | Handicapping                   |                                                         |
+   |                                  | Secrets                        |                                                         |
+   |                                  |                                |                                                         |
+   |----------------------------------+--------------------------------+---------------------------------------------------------|
+   | (Multifront opposition)          |                                |                                                         |
+   | 1 vs 1 vs 1... n                 | Last Man Standing              |                                                         |
+   |                                  | Bidding                        | Mediate status via rivalrous good                       |
+   |                                  | Booing                         | multiplayer "helping"                                   |
+   |                                  | Deception and Bluffing         |                                                         |
+   |                                  | 3rd Party Betting              |                                                         |
+   |                                  | Prisoners Dilemma              |                                                         |
+   |                                  | Gamesmaster Pattern            |                                                         |
+   |                                  |                                |                                                         |
+   |----------------------------------+--------------------------------+---------------------------------------------------------|
+   | (Small groups)                   |                                |                                                         |
+   | n vs n                           | Roles                          |                                                         |
+   |                                  | Hot potato / Ganging Up        |                                                         |
+   |                                  | Rituals                        | Transitions of State, Holidays, Religious               |
+   |                                  |                                | Marked with changes of uniform, gatherings, gifts       |
+   |                                  | Gifts                          | Transferring rivalrous good to another actor            |
+   |                                  | Reciprocity                    | Social expectation of a gift                            |
+   |                                  | Mentoring & Twinking           | Onboarding group members via gifting                    |
+   |                                  | Identity                       | Means of displaying status and role via rivalrous goods |
+   |                                  | Ostracism                      | Group removal via denial of common resources            |
+   |                                  |                                |                                                         |
+   |----------------------------------+--------------------------------+---------------------------------------------------------|
+   | Social Networks                  | Trust                          | Trust - Reputation - Faith                              |
+   |                                  | Guilds/Tribes                  |                                                         |
+   |                                  | Exclusivity                    | Manipulation of goods' values                           |
+   |                                  |                                |                                                         |
+   |                                  | Guild v Guild                  |                                                         |
+   |                                  | Trade and Contract             |                                                         |
+   |                                  |                                |                                                         |
+   |                                  | Elections                      |                                                         |
+   |                                  | Reputation, Influence and Fame |                                                         |
+   |                                  | Public Goods                   |                                                         |
+   |                                  | Tragedy of the Commons         |                                                         |
+   |                                  | Community                      |                                                         |
+   |                                  | Strategy Guides                | Transform of Rule-based secrets into public goods       |
+   |                                  | Teamwork                       |                                                         |
+   |                                  | Services                       |                                                         |
+   |                                  | Cheating                       |                                                         |
+   |                                  | Arbitrage                      |                                                         |
+   |                                  | Supply Chains                  |                                                         |
+   |                                  | User Generated Content         |                                                         |
+   |                                  | Griefing                       |                                                         |
    
-** Activity Theory                                                              :division_of_labour:social:activity:methodology:design:
 
-   | Type               | Description |
-   |--------------------+-------------|
-   | Subject            |             |
-   | Tool               |             |
-   | Object             |             |
-   |--------------------+-------------|
-   | Community          |             |
-   | Rules              |             |
-   | Division of Labour |             |
-   |--------------------+-------------|
-   | Outcome            |             |
-
-
-   | Type      | Description |
-   |-----------+-------------|
-   | Activity  |             |
-   | Task      |             |
-   | Operation |             |
+   | Tiers of Economy        |   |
+   |-------------------------+---|
+   | Non-market economies    |   |
+   | Generalized Reciprocity |   |
+   | Balanced reciprocity    |   |
+   | Negative reciprocity    |   |
    
-** Managing Conflicts between rules                                             :meta:rules:conflict:
-   Jagadish, Mendelzon, Mumick
-
-   Meta Rules
-   | Type                 | Description                       |
-   |----------------------+-----------------------------------|
-   | Positive requirement | A ⊃ B. If A fires, B must as well |
-   | Disabling Rules      | A and B are mutually exclusive    |
-   | Preference Rules     | A < B                             |
-   | Scheduling Rules     | A Comes before B                  |
+   | Naik Identifiers of Tribes        |   |
+   |-----------------------------------+---|
+   | Social Distance from other Tribes |   |
+   | Frequency of Contact              |   |
+   | Community of Interests            |   |
+   | Scale                             |   |
+   | Compactness and self-sufficiency  |   |
+   | Politically Organized             |   |
+   | Customary Laws                    |   |
+   | Multifarious Economic Pursuits    |   |
    
-** Taxonomy of Autonomy in Holons                                               :action:social:agents:ai:holons:
-   M. Schillo and K. Fischer
-
-   | Type of Autonomy   | Description                                                  |
-   |--------------------+--------------------------------------------------------------|
-   | Skill and Resource | N/A in Collaborative Holons                                  |
-   | Goal               | Goal of Holon                                                |
-   | Representational   | Set of Holon Heads                                           |
-   | Deontic            | Mechanism for Task Delegation                                |
-   | Planning           | Membership restrictions                                      |
-   | Income             | Profit Distribution                                          |
-   | Exit               | Rules for termination of Holon, and initiator of termination |
-   | Processing         | All of the above                                             |
+   | Impact of Scale of Tribes |                                      |
+   |---------------------------+--------------------------------------|
+   | Bands                     | No Fixed Home                        |
+   |                           | Egalitarian Leadership               |
+   |                           | No real bureaucracy                  |
+   |                           | No laws                              |
+   |                           | unstratified culture                 |
+   |---------------------------+--------------------------------------|
+   | Tribes                    | A Single Home                        |
+   |                           | Egalitarian or Big man               |
+   |                           | Organized resource extraction        |
+   |                           | Still unstratified                   |
+   |---------------------------+--------------------------------------|
+   | Chiefdoms                 | Many homes                           |
+   |                           | Castes and Classes                   |
+   |                           | Cronyism & monarchs                  |
+   |                           | Bureaucracy & laws                   |
+   |                           | Taxes, indentured labour and slavery |
+   |                           | Public Architecture                  |
+   |                           | Luxuries for elites                |
    
-** A Taxonomy of model transformation                                           :transforms:rules:pipeline:model:
-   Mens and Van Gorp
-
-   | Type                             | Description                                                                                   |
-   |----------------------------------+-----------------------------------------------------------------------------------------------|
-   | Transformation Definition        | Set of transform rules from one model to another                                              |
-   | Transform Rule                   | Description of how one or more constructs in the source model can be transformed into another |
-   | Multi Source/Target Transforms   | One-To-Many and Many-To-One Transforms                                                        |
-   | Technical Space                  |                                                                                               |
-   | Endogenous transforms            | Transforms in the same language                                                               |
-   | Exogenous transforms             | Transforms between different languages                                                        |
-   | Horizontal transforms            | Between same abstraction levels                                                               |
-   | Vertical transforms              | Between different abstraction levels                                                          |
-   | Syntactic transforms             |                                                                                               |
-   | Semantic transforms              |                                                                                               |
-   | Preservation / Refactoring       | Behaviour is preserved                                                                        |
-   | Refinements                      | Program correctness is preserved                                                              |
-   | Composability                    |                                                                                               |
-   | Genericity                       |                                                                                               |
-   | Bidirectionality                 |                                                                                               |
-   | Traceability/ Change Propagation |                                                                                               |
-   | Verbosity / Conciseness          |                                                                                               |
-   | Extensibility                    |                                                                                               |
-   | Interoperability                 |                                                                                               |
-   | Acceptability by user community  |                                                                                               |
-   | Standardization                  |                                                                                               |
-
-   |            | Horizontal         | Vertical          |
-   |------------+--------------------+-------------------|
-   | Endogenous | Refactoring        | Formal Refinement |
-   | Exogenous  | Language Migration | Code Generation   |
+   | PASES Model |   |
+   |-------------+---|
+   | Politics    |   |
+   | Arts        |   |
+   | Science     |   |
+   | Economics   |   |
+   | Sociology   |   |
    
-** A Taxonomy of Inference in Simulation Models                                 :simulation:model:inference:
-   Brenner and Werker
-
-   | Approach         | Building                  | Conducting                | Usual                  | Possible          |
-   |                  | the Model                 | the runs                  | Analysis               | Analysis          |
-   |------------------+---------------------------+---------------------------+------------------------+-------------------|
-   | Conventional     | Rather hypothetical,      | Usually one               | Characteristics        | Comparison        |
-   |                  | specific                  | specification run         | study                  |                   |
-   |                  |                           |                           |                        |                   |
-   | Microsimulation  | Empirical, specific       | One specification run     | Prediction,            |                   |
-   |                  |                           |                           | characteristics        |                   |
-   |                  |                           |                           | study, some comparison |                   |
-   |                  |                           |                           |                        |                   |
-   | Bayesian         | Hypothetical, general     | Many specifications       | Comparison             | Characteristics   |
-   |                  |                           | run                       |                        | study, Prediction |
-   |                  |                           | (sometimes Monte-Carlo)   |                        |                   |
-   |                  |                           |                           |                        |                   |
-   | History Friendly | Rather empirical,         | One specification run,    | Comparison,            |                   |
-   |                  | specific                  | with sensitivity analysis | characteristics study  |                   |
-   |                  |                           |                           |                        |                   |
-   | Abductive        | As empirical as possible, | Many specification runs   | Comparison,            | Prediction        |
-   |                  | as general as necessary   | (Monte-Carlo)             | characteristics study, |                   |
-   |                  |                           |                           | categorisation         |                   |
-   
-** Taxonomy of Norms and Sanctions                                              :enforcement:agents:autonomy:sanctions:norms:
-   in Grossi, Aldewereld, Dignum: "Ubi Lex, Ibi Poena: Designing norm
-   enforcement in E-institutions"
-
-   | Norm Type        | Description |
-   |------------------+-------------|
-   | Substantive Norm |             |
-   | Check Norm       | Enforcement |
-   | Reaction Norm    | Enforcement |
-   
-   | Autonomy Level | Description |
-   |----------------+-------------|
-   | Norm           |             |
-   | Goal           |             |
-   | Plan           |             |
-   | Reactivity     |             |
-
-   | Sanction Function | Description                                                     |
-   |-------------------+-----------------------------------------------------------------|
-   | Discouragement    | Applied by institution, benefits institution                    |
-   | Compensation      | To those effected by violation of norm. Institution is mediator |
-   | Direct            | Influence Agent immediately and are noticeable                  |
-   | Indirect          | Non-observable sanction. Reputation and trust damage           |
-   
-** [[file:48laws.org::*48%20Laws%20of%20Power][48 Laws of Power]]                                                             :power:rules:
-** [[file:General_Games.org::*General%20Games%20and%20IF][General Games and IF]]
-** [[file:Moise.org::*MOISE%20Notes][MOISE Notes]]                                                                  :organisation:
-** [[file:SocialSituationNotes.org::*Social%20Situations][Social Situations]]                                                            :structure:links:
-** [[file:behaviourErrors.org::*Typology%20of%20Behaviour%20Errors][Typology of Behaviour Errors]]                                                 :slips:mistakes:
-** [[file:book_notes.org::*The%20Grammar%20of%20Society%20-%20Cristina%20Bicchieri][The Grammar of Society - Cristina Bicchieri]]                                  :rules:norms:
-** [[file:culturalAntroNotes.org::*Cultural%20Anthropology%20notes][Cultural Anthropology notes]]                                                  :formula:tribes:
-** [[https://wiki.haskell.org/Typeclassopedia#Comonad][haskell typeclassopedia]]                                                      :programming:types:
-** [[file:ds_9_episodes.org::*DS9%20Episodes][DS9 Episodes]]                                                                 :rules:tv_shows:
-** [[file:examples_typology_notes.org::*Examples%20Typology][Examples Typology]]                                                            :examples:
-** [[file:institutionStructure.org::*Institution%20Structure][Institution Structure]]                                                        :castelfranchi:norms:activity:institutions:
-** [[file:latest_institution_attempt.org][Institution Attempt]]                                                          :programming:rules:
-** [[file:notebook_notes.org::*speech%20acts][speech acts]]                                                                  :speech_acts:
-** [[file:notecards.org::*Books][Books]]
-** [[file:notecards.org::*Theory][Theory]]                                                                       :meta:rules:norms:structure:
-** Fligstein
-
-   | Type              | Description |
-   |-------------------+-------------|
-   | Roles             |             |
-   | Field             |             |
-   | Greater Influence |             |
-   | Social Skill      |             |
-   | IGU               |             |
-   | Crisis            |             |
-   | Resolution        |             |
-   
-** [[file:pirateShip.org::*A%20Pirate%20Ship%20as%20an%20Institutional%20example][A Pirate Ship as an Institutional example]]                                    :routine:sanctions:
-** [[file:structuredSocialSituations2.org::*Social%20Situations%20structured%20by%20institutional%20focus][Social Situations structured by institutional focus]]                          :time:links:fligstein:norms:
-** [[file:structured_social_situtations.org::*Structured%20Social%20Situations][Structured Social Situations]]                                                 :sanctions:society:power:bureaucracy:links:norm_change:norms:
-** [[file:threeIdeas.org::*Real%20time,%20Functional%20AI%20authoring%20pipeline.][Real time, Functional AI authoring pipeline.]]                                 :pipeline:modality:
-** [[file:tribeDescriptions.org::*Tribe%20Descriptions][Tribe Descriptions]]                                                           :structure:social:society:honourifics:tribes:
-** [[file:typewriter.org::*Typewritten%20Notes][Typewritten Notes]]                                                            :organisation:the_watch:rules:phenomenology:conversation:
-** [[file:workedExamples.org::*Racist%20Police%20Violence][Racist Police Violence]]                                                       :organisation:field:structure:systems:police:
-
