@@ -915,7 +915,6 @@
     |                           |                                                                                                        |
     
 *** Trends in NorMAS
-    
 **** Traditional Normative reasoning
      |                       |                                          |
      |-----------------------+------------------------------------------|
@@ -924,7 +923,6 @@
      | Hanson                | Preference based semantics               |
      | Makinson              | Iterative approach                       |
      
-
 **** Logics for NorMAS
 
      | Acronym | Notes                                        |
@@ -959,6 +957,100 @@
      | Generation deontics              | Interpretation of norms              |
      | Judgment Aggregation             | Anchoring and Grounding              |
      | Individual Judgments             |                                      |
+     
+*** Computational Models for Normative MAS
+
+**** Norm Spec and Verification
+     Focuses on *Coherence*. p84
+
+     "As we descend the legal hierarchy we find everyday regulations having
+     other requirements: they tend to be operational, describing how a set of
+     actors (or agents) should behave in a daily manner" p85
+
+     Problem of application at scale, and expressivity. p86.
+
+     | Deontic Logics             | Description                                   |
+     |----------------------------+-----------------------------------------------|
+     | Hagiwara and Tojo          | Automated Conflict detection in Prolog.       |
+     |                            | Limited to logical contradition.              |
+     |                            |                                               |
+     | BCL                        | Contract Spec Language. Defeasible Logic.     |
+     | (Governatori et al)        | Can detect conflicts offline, has clause      |
+     |                            | normalisation, temporal reasoning.            |
+     |                            | Does not support *background theories*        |
+     |                            |                                               |
+     | CL                         | Dynamic Logic. Coherence Checker. First class |
+     | (Prisacariu and Schneider) | obligations, permissions, prohibitions.       |
+     |                            | Hard to express certain things.               |
+     |                            |                                               |
+     | FL                         | LTL based, uses SPIN, DiViNE, NuSMV.          |
+     | (Gorin, Mera, Schapachnik) | Doesn't have first class deontics.            |
+     |                            |                                               |
+
+     
+**** Computational Architectures
+
+     |                    | Middleware                   | Description                                                           |
+     |--------------------+------------------------------+-----------------------------------------------------------------------|
+     | Organisational,    | [[http://www.cs.uu.nl/research/projects/opera/#conceptualFramework][OPERA]] / Operreta             |                                                                       |
+     | with high level    | (V. Dignum)                  |                                                                       |
+     | norms.             |                              |                                                                       |
+     |                    | MOISE+                       | Structural, Functional and Deontic Spec.                              |
+     |                    | (Hubner, Sichman, Boissier)  | Not grounded in a logical/mathematical formalism.                     |
+     |                    |                              |                                                                       |
+     |--------------------+------------------------------+-----------------------------------------------------------------------|
+     | Institutional, low | INSTAL                       | Event Driven, ASP based.                                              |
+     | level norms        | (Cliffe, De Vos, Padget)     | Uses Brute Facts and Counts as relations.                             |
+     |                    |                              |                                                                       |
+     |                    | OCeAN                        | Event Calculus based. Requires an                                     |
+     |                    | (Fornara and Colombetti)     | (i) ontology for concepts and rules in the domain;                    |
+     |                    |                              | (ii) definition of events, actions, institutional actions and events; |
+     |                    |                              | (iii) definition of roles                                             |
+     |                    |                              | (iv) and Agent Communication Language                                 |
+     |                    |                              | (v) definition of institutional powers                                |
+     |                    |                              | (vi) set of norms for obligations, prohibitions, permissions          |
+     |                    |                              |                                                                       |
+     |                    | [[http://e-institutions.iiia.csic.es/software.html][ISLANDER]]                     | Based on Noriega. Doesn't allow for norm violations. Simulated using  |
+     |                    | (Esteva, De La Cruz, Sierra) | SIMDEI.                                                               |
+     |                    |                              |                                                                       |
+
+
+**** Programming Languages
+
+     | Approaches                               |   |
+     |------------------------------------------+---|
+     | Languages for Agents can                 |   |
+     | be extended with social and org concepts |   |
+     |                                          |   |
+     | Regulate behaviour of exogenously        |   |
+     |                                          |   |
+
+     | Programming Normative |                                                          |
+     | Organisations         |                                                          |
+     |-----------------------+----------------------------------------------------------|
+     | ISLANDER              | One of Earliest. AMELI is the computational platform.    |
+     |                       | Norms cant be violated.                                  |
+     |                       |                                                          |
+     | MOISE                 | S-MOISE implements ability to change org and spec.       |
+     |                       | ORG4MAS implments organisational artifacts.              |
+     |                       |                                                          |
+     | PowerJava             | Exogenous. Limited set of concepts.                      |
+     | PowerJade             |                                                          |
+     |                       |                                                          |
+     | [[http://oopluu.sourceforge.net/][2OPL]]                  | Prolog based. Can use sanctions. Cyclic control process. |
+     |                       |                                                          |
+     | [[http://responder.ruleml.org/][Rule Responder]]        |                                                          |
+
+     | Programming Norm |   |
+     | Aware Agents     |   |
+     |------------------+---|
+     | I-MOISE          |   |
+     |                  |   |
+     | Jacamo           |   |
+     |                  |   |
+     | N-2APL           |   |
+     |                  |   |
+     | DR-DEVICE        |   |
      
 ** Ostrom ADICO                                                                 :institutions:sanctions:ostrom:rules:
    [[file:traceryADICO.org::*Tracery%20norm%20grammars][Tracery norm grammars]]
@@ -1327,7 +1419,7 @@
     | Predicate-list Level |             |
     |                      |             |
     
-** Taxonomy of layers in neural nets
+** Taxonomy of layers in neural nets                                            :neural_nets:layers:
 
    | Library    | Layers                                     |
    |------------+--------------------------------------------|
