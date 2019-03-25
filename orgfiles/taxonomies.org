@@ -689,274 +689,276 @@
 ** TODO [[https://sites.ualberta.ca/~urban/Projects/English/Motif_Index.htm][Mythology Types]]                                                         :mythology:
 ** Normative Multi Agent Systems
    Andrighetto, Governatori, Noriega, van der Torre. 
+
+*** Norms in MAS: Definitions and Related Concepts
+**** Norms
+
+     |                   |                     | Description                       |
+     |-------------------+---------------------+-----------------------------------|
+     |                   | Core                | Stable part                       |
+     |                   | Penumbra            | More flexible                     |
+     |-------------------+---------------------+-----------------------------------|
+     |                   | Rule Structure      |                                   |
+     |-------------------+---------------------+-----------------------------------|
+     | (von Wright)      | Determinative       | define concepts                   |
+     |                   |                     |                                   |
+     |                   | Technical           | what has to be done to attain     |
+     |                   |                     | something                         |
+     |                   |                     |                                   |
+     |                   | Prescriptions       | regulate actions (who, does what, |
+     |                   |                     | in circumstances, and the nature  |
+     |                   |                     | of the guidance                   |
+     |-------------------+---------------------+-----------------------------------|
+     | Hart              | Hierarchy           |                                   |
+     |                   | Application         |                                   |
+     |                   | Change              |                                   |
+     |-------------------+---------------------+-----------------------------------|
+     | Tuomela and       | S-Norms             | Emerge as a feature of normative  |
+     | Bonnevier-Tuomela |                     | context                           |
+     |                   |                     |                                   |
+     |                   | R-Norms             | Created by an Authority           |
+     |-------------------+---------------------+-----------------------------------|
+     | Legal Theory      | Power               | Both *Legal* and *Physical*       |
+     |                   | Duty                |                                   |
+     |                   | Right               |                                   |
+     |                   | Liability           |                                   |
+     |                   | Disability          |                                   |
+     |                   | Claim               |                                   |
+     |                   | Immunity            |                                   |
+
+
+
+     | Properties of Norm  |                           | Description                                        |
+     |---------------------+---------------------------+----------------------------------------------------|
+     | Temporal Properties | When in force,            |                                                    |
+     |                     | When can produce effects, |                                                    |
+     |                     | when it holds             |                                                    |
+     |---------------------+---------------------------+----------------------------------------------------|
+     | Normative Effects   | Evaluative                | Specify values to be optimised or minimised        |
+     |                     |                           |                                                    |
+     |                     | Qualificatory             | ascribe a quality to a person or object            |
+     |                     |                           |                                                    |
+     |                     | Definitional              | specify meaning of a term                          |
+     |                     |                           |                                                    |
+     |                     | Deontic                   | obligation, permission, prohibition                |
+     |                     |                           |                                                    |
+     |                     | Potestative               | Attributes powers                                  |
+     |                     |                           |                                                    |
+     |                     | Evidentiary               | Establishes conclusion to be drawn from evidence   |
+     |                     |                           |                                                    |
+     |                     | Existential               | Specify beginning and terminal of entity existence |
+     |                     |                           |                                                    |
+     |                     | Norm-concerning effects   | Abrogation, repeal, substitution.                  |
+     |                     |                           |                                                    |
+
     
-*** Norms
-
-    |                   |                     | Description                       |
-    |-------------------+---------------------+-----------------------------------|
-    |                   | Core                | Stable part                       |
-    |                   | Penumbra            | More flexible                     |
-    |-------------------+---------------------+-----------------------------------|
-    |                   | Rule Structure      |                                   |
-    |-------------------+---------------------+-----------------------------------|
-    | (von Wright)      | Determinative       | define concepts                   |
-    |                   |                     |                                   |
-    |                   | Technical           | what has to be done to attain     |
-    |                   |                     | something                         |
-    |                   |                     |                                   |
-    |                   | Prescriptions       | regulate actions (who, does what, |
-    |                   |                     | in circumstances, and the nature  |
-    |                   |                     | of the guidance                   |
-    |-------------------+---------------------+-----------------------------------|
-    | Hart              | Hierarchy           |                                   |
-    |                   | Application         |                                   |
-    |                   | Change              |                                   |
-    |-------------------+---------------------+-----------------------------------|
-    | Tuomela and       | S-Norms             | Emerge as a feature of normative  |
-    | Bonnevier-Tuomela |                     | context                           |
-    |                   |                     |                                   |
-    |                   | R-Norms             | Created by an Authority           |
-    |-------------------+---------------------+-----------------------------------|
-    | Legal Theory      | Power               | Both *Legal* and *Physical*       |
-    |                   | Duty                |                                   |
-    |                   | Right               |                                   |
-    |                   | Liability           |                                   |
-    |                   | Disability          |                                   |
-    |                   | Claim               |                                   |
-    |                   | Immunity            |                                   |
-
-
-
-    | Properties of Norm  |                           | Description                                        |
-    |---------------------+---------------------------+----------------------------------------------------|
-    | Temporal Properties | When in force,            |                                                    |
-    |                     | When can produce effects, |                                                    |
-    |                     | when it holds             |                                                    |
-    |---------------------+---------------------------+----------------------------------------------------|
-    | Normative Effects   | Evaluative                | Specify values to be optimised or minimised        |
-    |                     |                           |                                                    |
-    |                     | Qualificatory             | ascribe a quality to a person or object            |
-    |                     |                           |                                                    |
-    |                     | Definitional              | specify meaning of a term                          |
-    |                     |                           |                                                    |
-    |                     | Deontic                   | obligation, permission, prohibition                |
-    |                     |                           |                                                    |
-    |                     | Potestative               | Attributes powers                                  |
-    |                     |                           |                                                    |
-    |                     | Evidentiary               | Establishes conclusion to be drawn from evidence   |
-    |                     |                           |                                                    |
-    |                     | Existential               | Specify beginning and terminal of entity existence |
-    |                     |                           |                                                    |
-    |                     | Norm-concerning effects   | Abrogation, repeal, substitution.                  |
-    |                     |                           |                                                    |
-
+     | Gordon's Requirements            |                                                                                     |
+     | for representing norms           |                                                                                     |
+     |----------------------------------+-------------------------------------------------------------------------------------|
+     | Isomorphism                      |                                                                                     |
+     |                                  |                                                                                     |
+     | Rule Semantics                   |                                                                                     |
+     |                                  |                                                                                     |
+     | Defeasibility                    | Conflicts: (exceptions, different rankings, enacted at different times)             |
+     |                                  | Resolutions: Lex Specialis, Lex Superior, Lex Posterior                             |
+     |                                  | Exclusionary Norms                                                                  |
+     |                                  |                                                                                     |
+     | Contributory Reasons             | "The educational value of a work needs to be taken into consideration               |
+     |                                  | when evaluating whether the work is covered by the copyright doctrine of fair use"  |
+     |                                  |                                                                                     |
+     | Norm Validity                    | Annulment: repeals as if it had never been enacted                                  |
+     |                                  | Abrogation: continues to apply for events which occurred before the rule abrogation |
+     |                                  |                                                                                     |
+     | Legal Procedures                 | Regulate how to detect violations. eg: illegal detection may void effects           |
+     |                                  | Determine effects of violations, eg: Reparative obligations                         |
+     |                                  |                                                                                     |
+     | Persistence of normative effects |                                                                                     |
+     |                                  |                                                                                     |
+     | Values                           |                                                                                   |
     
-    | Gordon's Requirements            |                                                                                     |
-    | for representing norms           |                                                                                     |
-    |----------------------------------+-------------------------------------------------------------------------------------|
-    | Isomorphism                      |                                                                                     |
-    |                                  |                                                                                     |
-    | Rule Semantics                   |                                                                                     |
-    |                                  |                                                                                     |
-    | Defeasibility                    | Conflicts: (exceptions, different rankings, enacted at different times)             |
-    |                                  | Resolutions: Lex Specialis, Lex Superior, Lex Posterior                             |
-    |                                  | Exclusionary Norms                                                                  |
-    |                                  |                                                                                     |
-    | Contributory Reasons             | "The educational value of a work needs to be taken into consideration               |
-    |                                  | when evaluating whether the work is covered by the copyright doctrine of fair use"  |
-    |                                  |                                                                                     |
-    | Norm Validity                    | Annulment: repeals as if it had never been enacted                                  |
-    |                                  | Abrogation: continues to apply for events which occurred before the rule abrogation |
-    |                                  |                                                                                     |
-    | Legal Procedures                 | Regulate how to detect violations. eg: illegal detection may void effects           |
-    |                                  | Determine effects of violations, eg: Reparative obligations                         |
-    |                                  |                                                                                     |
-    | Persistence of normative effects |                                                                                     |
-    |                                  |                                                                                     |
-    | Values                           |                                                                                   |
-    
-*** Design Guidelines
+**** Design Guidelines
 
-    | Guideline                                                  |                                 |
-    |------------------------------------------------------------+---------------------------------|
-    | Motive which definition of nMAS is used                    | (See Norm representation types) |
-    | and explain which representation should be adopted         |                                 |
-    |                                                            |                                 |
-    | Make Explicit why your norms are a kind of soft constraint |                                 |
-    | that deserve special analysis                              |                                 |
-    |                                                            |                                 |
-    | Explain why and how norms can be changed at runtime        |                                 |
-    |                                                            |                                 |
-    | Discuss the use and role of norms always                   |                                 |
-    | as a mechanism in a game theoretic setting                 |                                 |
-    |                                                            |                                 |
-    | Clarify the role of norms in your system as par of an      |                                 |
-    | organisation or institution                                |                                 |
+     | Guideline                                                  |                                 |
+     |------------------------------------------------------------+---------------------------------|
+     | Motive which definition of nMAS is used                    | (See Norm representation types) |
+     | and explain which representation should be adopted         |                                 |
+     |                                                            |                                 |
+     | Make Explicit why your norms are a kind of soft constraint |                                 |
+     | that deserve special analysis                              |                                 |
+     |                                                            |                                 |
+     | Explain why and how norms can be changed at runtime        |                                 |
+     |                                                            |                                 |
+     | Discuss the use and role of norms always                   |                                 |
+     | as a mechanism in a game theoretic setting                 |                                 |
+     |                                                            |                                 |
+     | Clarify the role of norms in your system as par of an      |                                 |
+     | organisation or institution                                |                                 |
     
 
 
-    | Norm Representation Type |                                                                   |
-    |--------------------------+-------------------------------------------------------------------|
-    | Strong                   | Explicit representation in agents and system in a declarative way |
-    |                          |                                                                   |
-    | Weak                     | Explicit representation in overall system specification |
-    |                          |                                                                   |
-    | None                     |                                                                   |
-    |                          |                                                                   |
+     | Norm Representation Type |                                                                   |
+     |--------------------------+-------------------------------------------------------------------|
+     | Strong                   | Explicit representation in agents and system in a declarative way |
+     |                          |                                                                   |
+     | Weak                     | Explicit representation in overall system specification |
+     |                          |                                                                   |
+     | None                     |                                                                   |
+     |                          |                                                                   |
     
-*** Identified Problems 
+**** Identified Problems 
 
-    | Problem                                    |                                                               |
-    |--------------------------------------------+---------------------------------------------------------------|
-    | How to define the relation                 | Example of a priest having the power,                         |
-    | between physical and legal power           | but not the permission, to marry two people                   |
-    |                                            |                                                               |
-    | How to define at which point of time       |                                                               |
-    | or in which state an agent has which power |                                                               |
-    |--------------------------------------------+---------------------------------------------------------------|
-    | How to specify the context in which        |                                                               |
-    | norms apply                                |                                                               |
-    |                                            |                                                               |
-    | How to deal with a lack of                 |                                                               |
-    | normative awareness                        |                                                               |
-    |                                            |                                                               |
-    | How to ensure that norms are followable    |                                                               |
-    | for agents                                 |                                                               |
-    |                                            |                                                               |
-    | How can we check whether a system complies |                                                               |
-    | with relevant norms?                       |                                                               |
-    |                                            |                                                               |
-    | How can we design a system such that it    |                                                               |
-    | complies with a given set of norms?        |                                                               |
-    |                                            |                                                               |
-    | Investigating the connection between games |                                                               |
-    | and norms                                  |                                                               |
-    |                                            |                                                               |
-    | Providing a clarification of the different | (Norm violations may increase upon imposition of sanctioning, |
-    | role that norms plain in agents societies  | as it removes the moral component - look into more)           |
-    |                                            |                                                               |
-    | How do norms contribute to design agents'  |                                                               |
-    | organisations?                             |                                                               |
+     | Problem                                    |                                                               |
+     |--------------------------------------------+---------------------------------------------------------------|
+     | How to define the relation                 | Example of a priest having the power,                         |
+     | between physical and legal power           | but not the permission, to marry two people                   |
+     |                                            |                                                               |
+     | How to define at which point of time       |                                                               |
+     | or in which state an agent has which power |                                                               |
+     |--------------------------------------------+---------------------------------------------------------------|
+     | How to specify the context in which        |                                                               |
+     | norms apply                                |                                                               |
+     |                                            |                                                               |
+     | How to deal with a lack of                 |                                                               |
+     | normative awareness                        |                                                               |
+     |                                            |                                                               |
+     | How to ensure that norms are followable    |                                                               |
+     | for agents                                 |                                                               |
+     |                                            |                                                               |
+     | How can we check whether a system complies |                                                               |
+     | with relevant norms?                       |                                                               |
+     |                                            |                                                               |
+     | How can we design a system such that it    |                                                               |
+     | complies with a given set of norms?        |                                                               |
+     |                                            |                                                               |
+     | Investigating the connection between games |                                                               |
+     | and norms                                  |                                                               |
+     |                                            |                                                               |
+     | Providing a clarification of the different | (Norm violations may increase upon imposition of sanctioning, |
+     | role that norms plain in agents societies  | as it removes the moral component - look into more)           |
+     |                                            |                                                               |
+     | How do norms contribute to design agents'  |                                                               |
+     | organisations?                             |                                                               |
     
-*** Open Questions
+**** Open Questions
 
-    |                                            |                               |                                                                              |
-    |--------------------------------------------+-------------------------------+------------------------------------------------------------------------------|
-    | Moral Agency                               |                               |                                                                              |
-    | Group Norms                                |                               |                                                                              |
-    | Connection between argumentation and norms |                               |                                                                              |
-    | Vagueness and fuzziness of norms           |                               |                                                                              |
-    |--------------------------------------------+-------------------------------+------------------------------------------------------------------------------|
-    | Arguing about Norms                        | Societal modeling and control | Where individual debate about merits and effects of norms                    |
-    |                                            |                               | where indidividuals persuade others about the utility or norm adoption       |
-    |                                            |                               |                                                                              |
-    |                                            | constitutive norms            | more than two agents performing ontology alignment                           |
-    |                                            |                               | avoiding the need for central ontology mapping repository                    |
-    |                                            |                               |                                                                              |
-    |                                            | regulative norms              | considering norms in practical reasoning                                     |
-    |                                            |                               |                                                                              |
-    |                                            | normative constraints         | complex norm reasoning for dealines, violation, fulfillment                  |
-    |                                            |                               | using argumentation schemes to reason about norms being in force             |
-    |                                            |                               |                                                                              |
-    |                                            | normative conflict            | developing preference models and logics for reasoning about norm interaction |
-    |                                            |                               |                                                                              |
-    |                                            | practical reasoning           | integration of domain specific knowledge                                     |
-    |                                            |                               | new reasoning heuristics                                                     |
-    |                                            |                               |                                                                              |
-    |                                            | monitoring norms              | identifying argument schemes which reason about uncertainty                  |
-    |                                            |                               | weighing up conflicting uncertain evidence                                   |
-    |                                            |                               |                                                                              |
-    |--------------------------------------------+-------------------------------+------------------------------------------------------------------------------|
-    | Norms about arguing                        | dialogue                      | interplay between dialectical norms and procedural norms                     |
-    |                                            |                               | modelling dialogues where several norms regulate a dialogue                  |
-    |                                            |                               |                                                                              |
-    |                                            | burden of proof               | tools for supporting legal field verification of proof standards             |
-    |                                            |                               |                                                                            |
+     |                                            |                               |                                                                              |
+     |--------------------------------------------+-------------------------------+------------------------------------------------------------------------------|
+     | Moral Agency                               |                               |                                                                              |
+     | Group Norms                                |                               |                                                                              |
+     | Connection between argumentation and norms |                               |                                                                              |
+     | Vagueness and fuzziness of norms           |                               |                                                                              |
+     |--------------------------------------------+-------------------------------+------------------------------------------------------------------------------|
+     | Arguing about Norms                        | Societal modeling and control | Where individual debate about merits and effects of norms                    |
+     |                                            |                               | where indidividuals persuade others about the utility or norm adoption       |
+     |                                            |                               |                                                                              |
+     |                                            | constitutive norms            | more than two agents performing ontology alignment                           |
+     |                                            |                               | avoiding the need for central ontology mapping repository                    |
+     |                                            |                               |                                                                              |
+     |                                            | regulative norms              | considering norms in practical reasoning                                     |
+     |                                            |                               |                                                                              |
+     |                                            | normative constraints         | complex norm reasoning for dealines, violation, fulfillment                  |
+     |                                            |                               | using argumentation schemes to reason about norms being in force             |
+     |                                            |                               |                                                                              |
+     |                                            | normative conflict            | developing preference models and logics for reasoning about norm interaction |
+     |                                            |                               |                                                                              |
+     |                                            | practical reasoning           | integration of domain specific knowledge                                     |
+     |                                            |                               | new reasoning heuristics                                                     |
+     |                                            |                               |                                                                              |
+     |                                            | monitoring norms              | identifying argument schemes which reason about uncertainty                  |
+     |                                            |                               | weighing up conflicting uncertain evidence                                   |
+     |                                            |                               |                                                                              |
+     |--------------------------------------------+-------------------------------+------------------------------------------------------------------------------|
+     | Norms about arguing                        | dialogue                      | interplay between dialectical norms and procedural norms                     |
+     |                                            |                               | modelling dialogues where several norms regulate a dialogue                  |
+     |                                            |                               |                                                                              |
+     |                                            | burden of proof               | tools for supporting legal field verification of proof standards             |
+     |                                            |                               |                                                                            |
 
-*** Definitions
+**** Definitions
 
-    | nMAS Definition             |                                                                          |
-    |-----------------------------+--------------------------------------------------------------------------|
-    | Social Definition           | "A Normative MAS is a MAS governed by restrictions                       |
-    |                             | on patterns of behaviour of the agents in the system                     |
-    |                             | that are actively or passively transmitted and                           |
-    |                             | have a social function and impact."                                      |
-    |                             |                                                                          |
-    | Norm Change Definition      | "A Normative MAS is a MAS together with normative systems in             |
-    |                             | which agents on the one hand decide whether to follow the explicitly     |
-    |                             | represented norms, and on the other the normative systems specify        |
-    |                             | how and to what extent the agents can modify the norms."                 |
-    |                             |                                                                          |
-    | Mechanism Design Definition | "A Normative MAS is a MAS organized by means of mechanism                |
-    |                             | to represent, communicate, distribut, detect, create, modify and enforce |
-    |                             | norms, and mechanism to deliberate about norms and detect norm violation |
-    |                             | and fulfillment."                                                        |
+     | nMAS Definition             |                                                                          |
+     |-----------------------------+--------------------------------------------------------------------------|
+     | Social Definition           | "A Normative MAS is a MAS governed by restrictions                       |
+     |                             | on patterns of behaviour of the agents in the system                     |
+     |                             | that are actively or passively transmitted and                           |
+     |                             | have a social function and impact."                                      |
+     |                             |                                                                          |
+     | Norm Change Definition      | "A Normative MAS is a MAS together with normative systems in             |
+     |                             | which agents on the one hand decide whether to follow the explicitly     |
+     |                             | represented norms, and on the other the normative systems specify        |
+     |                             | how and to what extent the agents can modify the norms."                 |
+     |                             |                                                                          |
+     | Mechanism Design Definition | "A Normative MAS is a MAS organized by means of mechanism                |
+     |                             | to represent, communicate, distribut, detect, create, modify and enforce |
+     |                             | norms, and mechanism to deliberate about norms and detect norm violation |
+     |                             | and fulfillment."                                                        |
     
-*** Trends in Deontic Logic
+*** Normative Reasoning and Consequence
+**** Trends in Deontic Logic
 
-    |                           |                                                                                                        |
-    |---------------------------+--------------------------------------------------------------------------------------------------------|
-    | Norms without Truth       | Input/Output Logic, NOBL (Aqvist)                                                                      |
-    |                           |                                                                                                        |
-    | Reasoning about violation | SDL has modality OA, and accessibility relation R                                                      |
-    |                           |                                                                                                        |
-    | Norm conflicts            | How can deontic logic accommodate conflicts, and how can                                               |
-    |                           | conflicts be semantically modeled?                                                                     |
-    |                           |                                                                                                        |
-    | Time                      | Validity Time and Reference Time of deontic modality                                                   |
-    |                           | ie: Obligation now (validity time) to show up tomorrow (reference time)                                |
-    |                           |                                                                                                        |
-    | Action                    | stit logic.                                                                                            |
-    |                           |                                                                                                        |
-    | Permissive norms          | was assumed permission is dual of obligation. not necessarily so.                                      |
-    |                           |                                                                                                        |
-    | Constitutive norms        | Boella and van der Torre notion of logical architecture combining several logics into a complex system |
-    |                           | (logical input/output nets)                                                                              |
-    |                           |                                                                                                        |
+     |                           |                                                                                                        |
+     |---------------------------+--------------------------------------------------------------------------------------------------------|
+     | Norms without Truth       | Input/Output Logic, NOBL (Aqvist)                                                                      |
+     |                           |                                                                                                        |
+     | Reasoning about violation | SDL has modality OA, and accessibility relation R                                                      |
+     |                           |                                                                                                        |
+     | Norm conflicts            | How can deontic logic accommodate conflicts, and how can                                               |
+     |                           | conflicts be semantically modeled?                                                                     |
+     |                           |                                                                                                        |
+     | Time                      | Validity Time and Reference Time of deontic modality                                                   |
+     |                           | ie: Obligation now (validity time) to show up tomorrow (reference time)                                |
+     |                           |                                                                                                        |
+     | Action                    | stit logic.                                                                                            |
+     |                           |                                                                                                        |
+     | Permissive norms          | was assumed permission is dual of obligation. not necessarily so.                                      |
+     |                           |                                                                                                        |
+     | Constitutive norms        | Boella and van der Torre notion of logical architecture combining several logics into a complex system |
+     |                           | (logical input/output nets)                                                                              |
+     |                           |                                                                                                        |
     
-*** Trends in NorMAS
-**** Traditional Normative reasoning
-     |                       |                                          |
-     |-----------------------+------------------------------------------|
-     | Von Wrights System KD | Distinguishes Good/Badd, Right/Wrong     |
-     | Anderson              | Represents norms by violation conditions |
-     | Hanson                | Preference based semantics               |
-     | Makinson              | Iterative approach                       |
+**** Trends in NorMAS
+***** Traditional Normative reasoning
+      |                       |                                          |
+      |-----------------------+------------------------------------------|
+      | Von Wrights System KD | Distinguishes Good/Badd, Right/Wrong     |
+      | Anderson              | Represents norms by violation conditions |
+      | Hanson                | Preference based semantics               |
+      | Makinson              | Iterative approach                       |
      
-**** Logics for NorMAS
+***** Logics for NorMAS
 
-     | Acronym | Notes                                        |
-     |---------+----------------------------------------------|
-     | PDF     | Propositional Dynamic Logic                  |
-     |---------+----------------------------------------------|
-     | ATL     | Alternating-time Temporal Logic              |
-     | CTL     | Computational Tree Logic (fragment of ATL)   |
-     | CL      | Coalition Logic (fragment of ATL)            |
-     |---------+----------------------------------------------|
-     | STIT    | See To It That (embeds ATL)                  |
-     | DLA     | Dynamic Logic of Agency (embeds CL and STIT) |
+      | Acronym | Notes                                        |
+      |---------+----------------------------------------------|
+      | PDF     | Propositional Dynamic Logic                  |
+      |---------+----------------------------------------------|
+      | ATL     | Alternating-time Temporal Logic              |
+      | CTL     | Computational Tree Logic (fragment of ATL)   |
+      | CL      | Coalition Logic (fragment of ATL)            |
+      |---------+----------------------------------------------|
+      | STIT    | See To It That (embeds ATL)                  |
+      | DLA     | Dynamic Logic of Agency (embeds CL and STIT) |
      
-**** Norm Change
+***** Norm Change
 
-     |                |                                                                   |
-     |----------------+-------------------------------------------------------------------|
-     | Theory Change  | Alchourron and Makinson the first to study changes to legal code. |
-     |                | Amendment, derogtion. Hierarchy of regulations.                   |
-     |                | Expansion, revision, contraction.                                 |
-     |----------------+-------------------------------------------------------------------|
-     | Legal Dynamics | Needs considerable defeasibility and temporal reasoning           |
-     |                |                                                                   |
+      |                |                                                                   |
+      |----------------+-------------------------------------------------------------------|
+      | Theory Change  | Alchourron and Makinson the first to study changes to legal code. |
+      |                | Amendment, derogtion. Hierarchy of regulations.                   |
+      |                | Expansion, revision, contraction.                                 |
+      |----------------+-------------------------------------------------------------------|
+      | Legal Dynamics | Needs considerable defeasibility and temporal reasoning           |
+      |                |                                                                   |
      
-**** Agreement process: Bolla and van der Torre (p.74)
+***** Agreement process: Bolla and van der Torre (p.74)
      
-     |                                  |                                      |
-     |----------------------------------+--------------------------------------|
-     | Trust update                     | Violation detection                  |
-     | Derivation acceptable agreements | Construction argumentation framework |
-     | Derivation potential agreements  | Identification of powers of agents   |
-     | Generation deontics              | Interpretation of norms              |
-     | Judgment Aggregation             | Anchoring and Grounding              |
-     | Individual Judgments             |                                      |
+      |                                  |                                      |
+      |----------------------------------+--------------------------------------|
+      | Trust update                     | Violation detection                  |
+      | Derivation acceptable agreements | Construction argumentation framework |
+      | Derivation potential agreements  | Identification of powers of agents   |
+      | Generation deontics              | Interpretation of norms              |
+      | Judgment Aggregation             | Anchoring and Grounding              |
+      | Individual Judgments             |                                      |
      
 *** Computational Models for Normative MAS
 
@@ -1041,17 +1043,49 @@
      |                       |                                                          |
      | [[http://responder.ruleml.org/][Rule Responder]]        |                                                          |
 
-     | Programming Norm |   |
-     | Aware Agents     |   |
-     |------------------+---|
-     | I-MOISE          |   |
-     |                  |   |
-     | Jacamo           |   |
-     |                  |   |
-     | N-2APL           |   |
-     |                  |   |
-     | DR-DEVICE        |   |
-     
+     | Programming Norm |                                                                 |
+     | Aware Agents     |                                                                 |
+     |------------------+-----------------------------------------------------------------|
+     | I-MOISE          | Allows access and modification of state of S-MOISE org.         |
+     |                  |                                                                 |
+     | Jacamo           | Org Artifacts + Agents. Though they have no explicit mechanisms |
+     |                  | to reason about norms, deadlines, and sanctions.                |
+     |                  |                                                                 |
+     | N-2APL           | Norm Aware. Provides BDI + Norms, Santions, Deadlines           |
+     |                  | Interfaces with 2OPL. Does not consider deadlines and sanctions |
+     |                  | when scheduling.                                                |
+     |                  |                                                                 |
+     | DR-DEVICE        | Uses Deontic Defeasible Logic. Semantic-Web aware.              |
+     |                  | Extensible Agent type definition in rule base.                  |
+     |                  | Modality interactions dealt with in external definition files.  |
+
+     | Programming Norm Change                     | See Artikis, Bou, Campos, Dastani |
+     |---------------------------------------------+-----------------------------------|
+     | Entity/Authority that can issue change      |                                   |
+     |                                             |                                   |
+     | Types of norms that can change              |                                   |
+     |                                             |                                   |
+     | Constraints that change mechanism should    |                                   |
+     | satisfy                                     |                                   |
+     |                                             |                                   |
+     | How to handle conflicts as a result of norm |                                   |
+     | change                                      |                                   |
+     |                                             |                                   |
+     | Annulment / Abrogation                      |                                   |
+     |                                             |                                   |
+     | organisational change                       |                                   |
+     |                                             |                                   |
+     | adaptation and emergence                    |                                   |
+     |                                             |                                   |
+     |                                             |                                   |
+
+*** TODO Regulated MAS: Social Perspective
+
+*** TODO Social Norm Dynamics
+
+*** TODO Simulation and NorMAS
+
+*** TODO The Uses of Norms
 ** Ostrom ADICO                                                                 :institutions:sanctions:ostrom:rules:
    [[file:traceryADICO.org::*Tracery%20norm%20grammars][Tracery norm grammars]]
 
@@ -1513,8 +1547,6 @@
    | [[http://tflearn.org/layers/core/][Tensorflow]] |                                            |
    |------------+--------------------------------------------|
    
-
-
 ** Taxonomy of Norms and Sanctions                                              :enforcement:agents:autonomy:sanctions:norms:
    in Grossi, Aldewereld, Dignum: "Ubi Lex, Ibi Poena: Designing norm
    enforcement in E-institutions"
