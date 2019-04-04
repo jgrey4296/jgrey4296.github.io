@@ -1,16 +1,6 @@
 *  Taxonomies
-** Graeber - Functions of Money
-
-   | Function           |   |
-   |--------------------+---|
-   | Medium of Exchange |   |
-   |                    |   |
-   | Unit of Account    |   |
-   |                    |   |
-   | Store of Value     |   |
-   
-** [[file:48laws.org::*48%20Laws%20of%20Power][48 Laws of Power]]                                                             :power:rules:
-** [[file:pirateShip.org::*A%20Pirate%20Ship%20as%20an%20Institutional%20example][A Pirate Ship as an Institutional example]]                                    :routine:sanctions:
+** [[file:48laws.org::*48%20Laws%20of%20Power][48 Laws of Power]]                                                             :links:power:rules:
+** [[file:pirateShip.org::*A%20Pirate%20Ship%20as%20an%20Institutional%20example][A Pirate Ship as an Institutional example]]                                    :links:routine:sanctions:
 ** A Taxonomy of Inference in Simulation Models                                 :simulation:model:inference:
    Brenner and Werker
 
@@ -145,7 +135,7 @@
    |                          |                        |             |
    |                          | Establish a baseline   |             |
 
-** [[file:notecards.org::*Books][Books]]
+** [[file:notecards.org::*Books][Books]]                                                                        :links:
 ** TODO Brown and Levinson (1987) Social Politeness                             :politeness:social:
    In IMMERSE Final report
 
@@ -317,7 +307,7 @@
    |                     | Donated money to a charitable organisation           |
    |---------------------+------------------------------------------------------|
    
-** [[https://casrai.org/credit/][CRediT Contributor Taxonomy]]                                                  :authorship:ontology:
+** [[https://casrai.org/credit/][CRediT Contributor Taxonomy]]                                                  :links:authorship:ontology:
 
    | Type                       | Description |
    |----------------------------+-------------|
@@ -336,7 +326,7 @@
    | Writing - Original Draft   |             |
    | Writing - Review & Editing |             |
    
-** [[file:culturalAntroNotes.org::*Cultural%20Anthropology%20notes][Cultural Anthropology notes]]                                                  :formula:tribes:
+** [[file:culturalAntroNotes.org::*Cultural%20Anthropology%20notes][Cultural Anthropology notes]]                                                  :links:formula:tribes:
 ** Davidsson Taxonomy of Artificial Societies                                   :norms:simulation:society:
    Mentioned in Sebastia "A Framework for Norm Monitoring on Dynamic
    Electronic Institutions"
@@ -412,9 +402,9 @@
    to publish it whichever way it comes out. If we only publish results of a
    certain kind, we can make the argument look good. We must publish both kinds
    of results."
-** [[file:ds_9_episodes.org::*DS9%20Episodes][DS9 Episodes]]                                                                 :rules:tv_shows:
-** [[file:examples_typology_notes.org::*Examples%20Typology][Examples Typology]]                                                            :examples:
-** Fligstein
+** [[file:ds_9_episodes.org::*DS9%20Episodes][DS9 Episodes]]                                                                 :links:rules:tv_shows:
+** [[file:examples_typology_notes.org::*Examples%20Typology][Examples Typology]]                                                            :links:examples:
+** Fligstein                                                                    :crisis:governance:field:
 
    | Type                   | Description                        |
    |------------------------+------------------------------------|
@@ -426,6 +416,15 @@
    | Exogenous Shocks       |                                    |
    | Episodes of Contention |                                    |
    | Settlement           |                                    |
+
+   | Purposes of IGUs |   |
+   |------------------+---|
+   | Admin            |   |
+   | Regulation       |   |
+   | Certification    |   |
+   | Information      |   |
+   | Enforcement      |   |
+   | Gatekeeping      |   |
    
 ** Four Types of Moral Wriggle Room                                             :manipulation:norms:morals:
    Spiekermann
@@ -437,7 +436,7 @@
    |------------------------+------------------------+----------------------------|
    | norm-facts             | Biased Norm Perception | ?                          |
 
-** [[file:General_Games.org::*General%20Games%20and%20IF][General Games and IF]]
+** [[file:General_Games.org::*General%20Games%20and%20IF][General Games and IF]]                                                         :library:examples:games:links:
 ** Genre Taxonomy of Organizational Communication                               :questions:ontology:
    in Yoshioka and Herman: "Genre Taxonomy: A Knowledge Repository of Communicative Actions"
 
@@ -452,6 +451,16 @@
     | Where    |             |
     | How      |             |
     
+** Graeber - Functions of Money
+
+   | Function           |   |
+   |--------------------+---|
+   | Medium of Exchange |   |
+   |                    |   |
+   | Unit of Account    |   |
+   |                    |   |
+   | Store of Value     |   |
+   
 ** Grammar Smells                                                               :programming:language:grammar:
    In Stiljaart and Zaytsev: Towards a taxonomy of Grammar Smells
 
@@ -554,7 +563,7 @@
    |                | to enter the shop          | for the move, or the         | whole class will miss morning  |
    |                | together"                  | supervisor will be blamed."  | break."                      |
 
-** [[https://wiki.haskell.org/Typeclassopedia#Comonad][haskell typeclassopedia]]                                                      :programming:types:
+** [[https://wiki.haskell.org/Typeclassopedia#Comonad][haskell typeclassopedia]]                                                      :links:programming:types:
 ** Hofstede Culture Theory                                                      :dimensions:norms:social:
    in Andrighetto, Castelfranchi, Mayor et al: "(Social) Norm Dynamics"
 
@@ -567,8 +576,8 @@
    | Immutability vs Pragmatism | Short- vs Long-term orientation   |             |
    | Gratification of drives    | Indulgence vs Restraint           |             |
    
-** [[file:latest_institution_attempt.org][Institution Attempt]]                                                          :programming:rules:
-** [[file:institutionStructure.org::*Institution%20Structure][Institution Structure]]                                                        :castelfranchi:norms:activity:institutions:
+** [[file:latest_institution_attempt.org][Institution Attempt]]                                                          :links:programming:rules:
+** [[file:institutionStructure.org::*Institution%20Structure][Institution Structure]]                                                        :links:castelfranchi:norms:activity:institutions:
 ** Judgment Aggregation Rules                                                   :norms:voting:judgement:
    In Lang, Pigozzi Slavkovik et al: "A Partial Taxonomy of Judgment aggregation
    rules and their properties"
@@ -685,9 +694,9 @@
 
    Time as *Linear Change with Forward Order* or *Repeating Cycles* (Buzsaki  2006)
 
-** [[file:Moise.org::*MOISE%20Notes][MOISE Notes]]                                                                  :organisation:
-** TODO [[https://sites.ualberta.ca/~urban/Projects/English/Motif_Index.htm][Mythology Types]]                                                         :mythology:
-** Normative Multi Agent Systems
+** [[file:Moise.org::*MOISE%20Notes][MOISE Notes]]                                                                  :links:organisation:
+** TODO [[https://sites.ualberta.ca/~urban/Projects/English/Motif_Index.htm][Mythology Types]]                                                         :links:mythology:
+** Normative Multi Agent Systems                                                :deontic:logic:norms:NorMAS:
    Andrighetto, Governatori, Noriega, van der Torre. 
 
 *** Norms in MAS: Definitions and Related Concepts
@@ -1131,8 +1140,125 @@
    | Options   |             |
    | Criteria  |             |
    
-** [[file:workedExamples.org::*Racist%20Police%20Violence][Racist Police Violence]]                                                       :organisation:field:structure:systems:police:
-** [[file:threeIdeas.org::*Real%20time,%20Functional%20AI%20authoring%20pipeline.][Real time, Functional AI authoring pipeline.]]                                 :pipeline:modality:
+** [[file:workedExamples.org::*Racist%20Police%20Violence][Racist Police Violence]]                                                       :links:organisation:field:structure:systems:police:
+** Raph Kosters Social Mechanics                                                :competition:systems:games:multiplayer:
+
+   | Multiplayer Type                 | Mechanics                      | Description                                             |
+   |----------------------------------+--------------------------------+---------------------------------------------------------|
+   | (True Single Player)             |                                |                                                         |
+   | 1 v self/system                  | Helping                        | Outgrowth of spectating. Advice and assistance          |
+   |                                  |                                |                                                         |
+   |----------------------------------+--------------------------------+---------------------------------------------------------|
+   | (Parallel Symmetric)             |                                |                                                         |
+   | 1 v system vs 1 v system         | Status                         |                                                         |
+   |                                  | Races                          |                                                         |
+   |                                  | Leaderboards                   |                                                         |
+   |                                  |                                |                                                         |
+   |----------------------------------+--------------------------------+---------------------------------------------------------|
+   | (Parallel asymmetric)            |                                |                                                         |
+   | 1 vs system, 1 vs another system | Tournaments                    |                                                         |
+   |                                  |                                |                                                         |
+   |----------------------------------+--------------------------------+---------------------------------------------------------|
+   | (Opposition)                     |                                |                                                         |
+   | 1 vs 1                           | Flower picking                 | Non-zero-sum resource consumption                       |
+   |                                  | Dot eating                     | Zero-sum resource consumption                           |
+   |                                  | Tug of War                     |                                                         |
+   |                                  | Handicapping                   |                                                         |
+   |                                  | Secrets                        |                                                         |
+   |                                  |                                |                                                         |
+   |----------------------------------+--------------------------------+---------------------------------------------------------|
+   | (Multifront opposition)          |                                |                                                         |
+   | 1 vs 1 vs 1... n                 | Last Man Standing              |                                                         |
+   |                                  | Bidding                        | Mediate status via rivalrous good                       |
+   |                                  | Booing                         | multiplayer "helping"                                   |
+   |                                  | Deception and Bluffing         |                                                         |
+   |                                  | 3rd Party Betting              |                                                         |
+   |                                  | Prisoners Dilemma              |                                                         |
+   |                                  | Gamesmaster Pattern            |                                                         |
+   |                                  |                                |                                                         |
+   |----------------------------------+--------------------------------+---------------------------------------------------------|
+   | (Small groups)                   |                                |                                                         |
+   | n vs n                           | Roles                          |                                                         |
+   |                                  | Hot potato / Ganging Up        |                                                         |
+   |                                  | Rituals                        | Transitions of State, Holidays, Religious               |
+   |                                  |                                | Marked with changes of uniform, gatherings, gifts       |
+   |                                  | Gifts                          | Transferring rivalrous good to another actor            |
+   |                                  | Reciprocity                    | Social expectation of a gift                            |
+   |                                  | Mentoring & Twinking           | Onboarding group members via gifting                    |
+   |                                  | Identity                       | Means of displaying status and role via rivalrous goods |
+   |                                  | Ostracism                      | Group removal via denial of common resources            |
+   |                                  |                                |                                                         |
+   |----------------------------------+--------------------------------+---------------------------------------------------------|
+   | Social Networks                  | Trust                          | Trust - Reputation - Faith                              |
+   |                                  | Guilds/Tribes                  |                                                         |
+   |                                  | Exclusivity                    | Manipulation of goods' values                           |
+   |                                  |                                |                                                         |
+   |                                  | Guild v Guild                  |                                                         |
+   |                                  | Trade and Contract             |                                                         |
+   |                                  |                                |                                                         |
+   |                                  | Elections                      |                                                         |
+   |                                  | Reputation, Influence and Fame |                                                         |
+   |                                  | Public Goods                   |                                                         |
+   |                                  | Tragedy of the Commons         |                                                         |
+   |                                  | Community                      |                                                         |
+   |                                  | Strategy Guides                | Transform of Rule-based secrets into public goods       |
+   |                                  | Teamwork                       |                                                         |
+   |                                  | Services                       |                                                         |
+   |                                  | Cheating                       |                                                         |
+   |                                  | Arbitrage                      |                                                         |
+   |                                  | Supply Chains                  |                                                         |
+   |                                  | User Generated Content         |                                                         |
+   |                                  | Griefing                       |                                                         |
+   
+
+   | Tiers of Economy        |   |
+   |-------------------------+---|
+   | Non-market economies    |   |
+   | Generalized Reciprocity |   |
+   | Balanced reciprocity    |   |
+   | Negative reciprocity    |   |
+   
+   | Naik Identifiers of Tribes        |   |
+   |-----------------------------------+---|
+   | Social Distance from other Tribes |   |
+   | Frequency of Contact              |   |
+   | Community of Interests            |   |
+   | Scale                             |   |
+   | Compactness and self-sufficiency  |   |
+   | Politically Organized             |   |
+   | Customary Laws                    |   |
+   | Multifarious Economic Pursuits    |   |
+   
+   | Impact of Scale of Tribes |                                      |
+   |---------------------------+--------------------------------------|
+   | Bands                     | No Fixed Home                        |
+   |                           | Egalitarian Leadership               |
+   |                           | No real bureaucracy                  |
+   |                           | No laws                              |
+   |                           | unstratified culture                 |
+   |---------------------------+--------------------------------------|
+   | Tribes                    | A Single Home                        |
+   |                           | Egalitarian or Big man               |
+   |                           | Organized resource extraction        |
+   |                           | Still unstratified                   |
+   |---------------------------+--------------------------------------|
+   | Chiefdoms                 | Many homes                           |
+   |                           | Castes and Classes                   |
+   |                           | Cronyism & monarchs                  |
+   |                           | Bureaucracy & laws                   |
+   |                           | Taxes, indentured labour and slavery |
+   |                           | Public Architecture                  |
+   |                           | Luxuries for elites                |
+   
+   | PASES Model |   |
+   |-------------+---|
+   | Politics    |   |
+   | Arts        |   |
+   | Science     |   |
+   | Economics   |   |
+   | Sociology   |   |
+   
+** [[file:threeIdeas.org::*Real%20time,%20Functional%20AI%20authoring%20pipeline.][Real time, Functional AI authoring pipeline.]]                                 :links:pipeline:modality:
 ** Reputation System Taxonomy                                                   :judgement:norms:reputation:
    In Hendrikx, Bubendorfer, Chard "Reputation systems: A Survey and Taxonomy"
 
@@ -1193,9 +1319,9 @@
    | Expressive  |             |
    | Declarative |             |
 
-** [[file:SocialSituationNotes.org::*Social%20Situations][Social Situations]]                                                            :structure:links:
-** [[file:structuredSocialSituations2.org::*Social%20Situations%20structured%20by%20institutional%20focus][Social Situations structured by institutional focus]]                          :time:links:fligstein:norms:
-** [[file:notebook_notes.org::*speech%20acts][speech acts]]                                                                  :speech_acts:
+** [[file:SocialSituationNotes.org::*Social%20Situations][Social Situations]]                                                            :structure:
+** [[file:structuredSocialSituations2.org::*Social%20Situations%20structured%20by%20institutional%20focus][Social Situations structured by institutional focus]]                          :time:fligstein:norms:
+** [[file:notebook_notes.org::*speech%20acts][speech acts]]                                                                  :links:speech_acts:
 ** Stand on Zanzibar                                                            :society:
 
    The Innis Mode: "Innis makes no effort to 'spell out' the
@@ -1270,8 +1396,8 @@
    |                                                |                                     |                                         |
    |                                                |                                     |                                         |
    
-** TODO [[https://sites.ualberta.ca/~urban/Projects/English/Content/Structural_Analysis_2.htm][Structural Analysis Methods]]                                             :method:
-** [[file:structured_social_situtations.org::*Structured%20Social%20Situations][Structured Social Situations]]                                                 :sanctions:society:power:bureaucracy:links:norm_change:norms:
+** TODO [[https://sites.ualberta.ca/~urban/Projects/English/Content/Structural_Analysis_2.htm][Structural Analysis Methods]]                                             :links:method:
+** [[file:structured_social_situtations.org::*Structured%20Social%20Situations][Structured Social Situations]]                                                 :sanctions:society:power:bureaucracy:norm_change:norms:
 ** Suppression across different rule scenarios                                  :sanctions:rules:law:politics:
    In "The Empiricists Insurgency", Bermand and Matanock
 
@@ -1585,7 +1711,7 @@
    | Roles   | Autonomy vs Mixed-Initiative             |             |
    |         | Experience Agnostic vs Experience-driven |             |
 
-** [[file:book_notes.org::*The%20Grammar%20of%20Society%20-%20Cristina%20Bicchieri][The Grammar of Society - Cristina Bicchieri]]                                  :rules:norms:
+** [[file:book_notes.org::*The%20Grammar%20of%20Society%20-%20Cristina%20Bicchieri][The Grammar of Society - Cristina Bicchieri]]                                  :links:rules:norms:
 ** The State of the Art in Visualising Group Structures in Graphs               :graphs:intuition_pump:visualisation:
    Vehlow, Beck and Weiskopf
 
@@ -1600,7 +1726,7 @@
    |              |             |
    | embedded     |             |
 
-** [[file:notecards.org::*Theory][Theory]]                                                                       :meta:rules:norms:structure:
+** [[file:notecards.org::*Theory][Theory]]                                                                       :links:meta:rules:norms:structure:
 ** Towards a Theory of Delegation for Agent Based Systems                       :contract:action:social:delegation:castelfranchi:
    Castelfranchi and Falcone
 
@@ -1693,9 +1819,9 @@
     |----------------------------------------------+-------------|
     | Over Task Specification                      |             |
 
-** [[file:tribeDescriptions.org::*Tribe%20Descriptions][Tribe Descriptions]]                                                           :structure:social:society:honourifics:tribes:
-** [[file:typewriter.org::*Typewritten%20Notes][Typewritten Notes]]                                                            :organisation:the_watch:rules:phenomenology:conversation:
-** [[file:behaviourErrors.org::*Typology%20of%20Behaviour%20Errors][Typology of Behaviour Errors]]                                                 :slips:mistakes:
+** [[file:tribeDescriptions.org::*Tribe%20Descriptions][Tribe Descriptions]]                                                           :links:structure:social:society:honourifics:tribes:
+** [[file:typewriter.org::*Typewritten%20Notes][Typewritten Notes]]                                                            :links:organisation:the_watch:rules:phenomenology:conversation:
+** [[file:behaviourErrors.org::*Typology%20of%20Behaviour%20Errors][Typology of Behaviour Errors]]                                                 :links:slips:mistakes:
 ** Typology of Consumption Practices                                            :social:action:play:consumption:
    Douglas Holt "How Consumers Consume: A Typology of Consumption Practices"
 
@@ -1741,7 +1867,7 @@
    | Interview/Demo                                     | Application Specific         | Qualitative              | Required     |
    | Cognitive Walkthrough                              | Application Specific         | Qualitative              | Not Required |
 
-** Weber's Types of Authority
+** Weber's Types of Authority                                                   :leadership:authority:
 
    | Type           | Description |
    |----------------+-------------|
@@ -1830,120 +1956,75 @@
     | Saviour     |         |
     | History     |         |
 
-** Raph Kosters Social Mechanics
+** Versu
 
-   | Multiplayer Type                 | Mechanics                      | Description                                             |
-   |----------------------------------+--------------------------------+---------------------------------------------------------|
-   | (True Single Player)             |                                |                                                         |
-   | 1 v self/system                  | Helping                        | Outgrowth of spectating. Advice and assistance          |
-   |                                  |                                |                                                         |
-   |----------------------------------+--------------------------------+---------------------------------------------------------|
-   | (Parallel Symmetric)             |                                |                                                         |
-   | 1 v system vs 1 v system         | Status                         |                                                         |
-   |                                  | Races                          |                                                         |
-   |                                  | Leaderboards                   |                                                         |
-   |                                  |                                |                                                         |
-   |----------------------------------+--------------------------------+---------------------------------------------------------|
-   | (Parallel asymmetric)            |                                |                                                         |
-   | 1 vs system, 1 vs another system | Tournaments                    |                                                         |
-   |                                  |                                |                                                         |
-   |----------------------------------+--------------------------------+---------------------------------------------------------|
-   | (Opposition)                     |                                |                                                         |
-   | 1 vs 1                           | Flower picking                 | Non-zero-sum resource consumption                       |
-   |                                  | Dot eating                     | Zero-sum resource consumption                           |
-   |                                  | Tug of War                     |                                                         |
-   |                                  | Handicapping                   |                                                         |
-   |                                  | Secrets                        |                                                         |
-   |                                  |                                |                                                         |
-   |----------------------------------+--------------------------------+---------------------------------------------------------|
-   | (Multifront opposition)          |                                |                                                         |
-   | 1 vs 1 vs 1... n                 | Last Man Standing              |                                                         |
-   |                                  | Bidding                        | Mediate status via rivalrous good                       |
-   |                                  | Booing                         | multiplayer "helping"                                   |
-   |                                  | Deception and Bluffing         |                                                         |
-   |                                  | 3rd Party Betting              |                                                         |
-   |                                  | Prisoners Dilemma              |                                                         |
-   |                                  | Gamesmaster Pattern            |                                                         |
-   |                                  |                                |                                                         |
-   |----------------------------------+--------------------------------+---------------------------------------------------------|
-   | (Small groups)                   |                                |                                                         |
-   | n vs n                           | Roles                          |                                                         |
-   |                                  | Hot potato / Ganging Up        |                                                         |
-   |                                  | Rituals                        | Transitions of State, Holidays, Religious               |
-   |                                  |                                | Marked with changes of uniform, gatherings, gifts       |
-   |                                  | Gifts                          | Transferring rivalrous good to another actor            |
-   |                                  | Reciprocity                    | Social expectation of a gift                            |
-   |                                  | Mentoring & Twinking           | Onboarding group members via gifting                    |
-   |                                  | Identity                       | Means of displaying status and role via rivalrous goods |
-   |                                  | Ostracism                      | Group removal via denial of common resources            |
-   |                                  |                                |                                                         |
-   |----------------------------------+--------------------------------+---------------------------------------------------------|
-   | Social Networks                  | Trust                          | Trust - Reputation - Faith                              |
-   |                                  | Guilds/Tribes                  |                                                         |
-   |                                  | Exclusivity                    | Manipulation of goods' values                           |
-   |                                  |                                |                                                         |
-   |                                  | Guild v Guild                  |                                                         |
-   |                                  | Trade and Contract             |                                                         |
-   |                                  |                                |                                                         |
-   |                                  | Elections                      |                                                         |
-   |                                  | Reputation, Influence and Fame |                                                         |
-   |                                  | Public Goods                   |                                                         |
-   |                                  | Tragedy of the Commons         |                                                         |
-   |                                  | Community                      |                                                         |
-   |                                  | Strategy Guides                | Transform of Rule-based secrets into public goods       |
-   |                                  | Teamwork                       |                                                         |
-   |                                  | Services                       |                                                         |
-   |                                  | Cheating                       |                                                         |
-   |                                  | Arbitrage                      |                                                         |
-   |                                  | Supply Chains                  |                                                         |
-   |                                  | User Generated Content         |                                                         |
-   |                                  | Griefing                       |                                                         |
-   
+   | Praxis Files        |   |
+   |---------------------+---|
+   | alcohol             |   |
+   | archetypes          |   |
+   | bh_persistence      |   |
+   | books_and_memories  |   |
+   | characters          |   |
+   | conversation        |   |
+   | creative_processes  |   |
+   | definitions         |   |
+   | dinner              |   |
+   | emotion             |   |
+   | events              |   |
+   | genre               |   |
+   | gogar               |   |
+   | location            |   |
+   | magic               |   |
+   | mhp                 |   |
+   | misc                |   |
+   | money_and_purchase  |   |
+   | norm_violation      |   |
+   | object_manipulation |   |
+   | persuasion          |   |
+   | pets                |   |
+   | physical_weakness   |   |
+   | props               |   |
+   | reaction            |   |
+   | relationship        |   |
+   | resistance          |   |
+   | skill               |   |
+   | standard_practice   |   |
+   | tic_tac_toe         |   |
+   | utilities           |   |
+   | weather             |   |
+   | whist_shared        |   |
 
-   | Tiers of Economy        |   |
+   | Data Files              |   |
    |-------------------------+---|
-   | Non-market economies    |   |
-   | Generalized Reciprocity |   |
-   | Balanced reciprocity    |   |
-   | Negative reciprocity    |   |
-   
-   | Naik Identifiers of Tribes        |   |
-   |-----------------------------------+---|
-   | Social Distance from other Tribes |   |
-   | Frequency of Contact              |   |
-   | Community of Interests            |   |
-   | Scale                             |   |
-   | Compactness and self-sufficiency  |   |
-   | Politically Organized             |   |
-   | Customary Laws                    |   |
-   | Multifarious Economic Pursuits    |   |
-   
-   | Impact of Scale of Tribes |                                      |
-   |---------------------------+--------------------------------------|
-   | Bands                     | No Fixed Home                        |
-   |                           | Egalitarian Leadership               |
-   |                           | No real bureaucracy                  |
-   |                           | No laws                              |
-   |                           | unstratified culture                 |
-   |---------------------------+--------------------------------------|
-   | Tribes                    | A Single Home                        |
-   |                           | Egalitarian or Big man               |
-   |                           | Organized resource extraction        |
-   |                           | Still unstratified                   |
-   |---------------------------+--------------------------------------|
-   | Chiefdoms                 | Many homes                           |
-   |                           | Castes and Classes                   |
-   |                           | Cronyism & monarchs                  |
-   |                           | Bureaucracy & laws                   |
-   |                           | Taxes, indentured labour and slavery |
-   |                           | Public Architecture                  |
-   |                           | Luxuries for elites                |
-   
-   | PASES Model |   |
-   |-------------+---|
-   | Politics    |   |
-   | Arts        |   |
-   | Science     |   |
-   | Economics   |   |
-   | Sociology   |   |
-   
+   | all_characters          |   |
+   | ancient_roman_furniture |   |
+   | conversation            |   |
+   | emotion                 |   |
+   | genre_ancient_roman     |   |
+   | genre_bramble           |   |
+   | genre_modern            |   |
+   | genre_plainspeak        |   |
+   | genre_regency           |   |
+   | genre_sample_genre      |   |
+   | modern_furniture        |   |
+   | music                   |   |
+   | music_modern            |   |
+   | norm_violation          |   |
+   | plainspeak_furniture    |   |
+   | reaction                |   |
+   | regency_furniture       |   |
+   | regency_rooms           |   |
+   | relationship            |   |
+
+   | Type Files |   |
+   |------------+---|
+   | action     |   |
+   | agent      |   |
+   | container  |   |
+   | core       |   |
+   | data       |   |
+   | episode    |   |
+   | player     |   |
+   | speech_act |   |
+   | text       |   |
+   | types      |   |
