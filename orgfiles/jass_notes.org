@@ -1,6 +1,5 @@
 * JASS Notes                         :research:simulation:jass:socialScience:
 ** Primary
-
 *** TODO [[http://jasss.soc.surrey.ac.uk/14/4/19.html][A Virtual Laboratory for the study of History and Cultural Dyanmics]]
     Suarezz and Sancho (2011)
 **** The Model
@@ -335,7 +334,6 @@
 
 
 
-
 *** [[http://jasss.soc.surrey.ac.uk/2/2/1.html][The Origin of Institutions: Socio-economic processes, choice, norms and conventions]]
     Caldas and Coelho (1999)
 
@@ -402,8 +400,7 @@
 *** TODO [[../pdfs/ai_law_submitted.pdf][Combining Institutional Frameworks and Agent-Based Simulation for the Design of Enforcement Policies]]
     Balke, De Vos (2012)
 
-
-*** TODO [http://jasss.soc.surrey.ac.uk/17/4/13.html][How Do Agents Make Decisions? A Survey]]
+*** TODO [[http://jasss.soc.surrey.ac.uk/17/4/13.html][How Do Agents Make Decisions? A Survey]]
     Balke and Gilbert (2014)
 
 **** Dimensions of Comparison
@@ -609,7 +606,6 @@
 
 
 
-
 *** TODO Four Types of Moral Wriggle Room
 
 *** TODO Programming Institutional Facts
@@ -620,9 +616,7 @@
 *** TODO [[http://jasss.soc.surrey.ac.uk/12/2/2.html][Tools of the Trade: A Survey of various Agent Based Modeling Platforms]]
     Nikolai and Madey (2009)
 
-
 ** Secondary
-
 *** [[http://jasss.soc.surrey.ac.uk/14/3/1.html][A Computational Model of Worker Protest]]
     Kim and Hanneman (2011)
 *** [[http://jasss.soc.surrey.ac.uk/18/1/17.html][A Context- and Scope-Sensitive Analysis of Narrative Data to Aid the Specification of Agent Behaviour]]
