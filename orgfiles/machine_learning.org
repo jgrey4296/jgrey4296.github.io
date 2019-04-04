@@ -357,7 +357,6 @@
        y = stats.norm.pdf(x, loc=0.5, scale=0.5)
      #+end_src
 
-
 *** Pandas
 *** statsmodels
 *** TensorFlow
@@ -399,7 +398,6 @@
 *** Singular Value Decomposition
 
 ** TODO Possible uses
-
 *** Association learning from rulesets
     Both CiF and Versu, potentially even from game data, all have rules
     that could be encoded for association learning.
@@ -407,7 +405,6 @@
 *** Naive Bayes / Association learning in a live simulation
     As a means to identify norms?
     
-
 *** Clustering of Social Modes / Pageranking
     Operating on datasets (social physics ones),
     or on character occurrences in texts, 
