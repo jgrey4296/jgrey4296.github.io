@@ -1,4 +1,5 @@
 *  Taxonomies
+  #+BIBLIOGRAPHY: ~/github/writing/main_library plain
 ** [[file:48laws.org::*48%20Laws%20of%20Power][48 Laws of Power]]                                                             :links:power:rules:
 ** [[file:pirateShip.org::*A%20Pirate%20Ship%20as%20an%20Institutional%20example][A Pirate Ship as an Institutional example]]                                    :links:routine:sanctions:
 ** A Taxonomy of Inference in Simulation Models                                 :simulation:model:inference:
@@ -451,7 +452,7 @@
     | Where    |             |
     | How      |             |
     
-** Graeber - Functions of Money
+** Graeber - Functions of Money                                                 :value:graeber:money:
 
    | Function           |   |
    |--------------------+---|
@@ -2028,3 +2029,253 @@
    | speech_act |   |
    | text       |   |
    | types      |   |
+** Bodley - Cultural Anthropology
+*** Culture: A Scale and Power Perspective
+*** Native Amazonians: Villagers of the Rain Forest
+*** Australian Aborigines: Mobile Foragers for 50,000 Years
+*** African Cattle Peoples: Tribal Pastoralists
+*** Cross Cultural Perspectives of the Tribal World
+*** Pacific ISlanders: From Leaders to Rulers
+*** Ancient Empires in Two Worlds: Mesopotamia and the Andes
+*** The Chinese Great Tradition
+*** Hinduism and Islam in South Asia
+*** The Capitalist World System
+*** The United States: An American Plutocracy
+*** An Unsustainable Global System
+*** Tribes to Nations: Progress of the Victims
+*** Small Nations Solving Global Problems
+*** Envisioning a Sustainable World
+** Reigns
+
+   | Beats                        |   |
+   |------------------------------+---|
+   | Politeness                   |   |
+   | Pious/Populist/Mighty/Frugal |   |
+   | Lackies                      |   |
+   | Cat                          |   |
+   | Sainthood                    |   |
+   | Superstitutions              |   |
+   | Childbirth                   |   |
+   | Death                        |   |
+   | Clothing                     |   |
+   | Colour Choices               |   |
+   | Religious Threats            |   |
+   | Rivalries                    |   |
+   | Misogyny                     |   |
+   | Revolution                   |   |
+   | Work Decisions               |   |
+   | Wine                         |   |
+   | Ritual Instruction           |   |
+   | Religion and Earthquakes     |   |
+   | Class Tension                |   |
+   | Favours                      |   |
+   | Intrigue                     |   |
+   | Church Minion                |   |
+   | Hunting Accident             |   |
+   | Romance / Affairs            |   |
+   | Coronation Ball              |   |
+   | Burned at the Stake          |   |
+   
+** Papers Please
+
+   |                                        |   |
+   |----------------------------------------+---|
+   | Stamp Passports                        |   |
+   | Only Particular Nationalities          |   |
+   | Passport Match                         |   |
+   | Discrepant Information                 |   |
+   | Current Passports                      |   |
+   | Citizen / Non-Citizen distinction      |   |
+   | Entry Ticket - dated, for non-citizens |   |
+   | ID cards for citizens                  |   |
+   | Work permits for non-citizens          |   |
+   | Removal of entry permits               |   |
+   | Names                                  |   |
+   | ID Numbers                             |   |
+   | Duration                               |   |
+   | Fake Passports                         |   |
+   | Ability to Arrest                      |   |
+   | Purpose of Visit                       |   |
+   | Being asked to break rules             |   |
+   | Citations for rule failures            |   |
+   | Finger printing                        |   |
+   | Wife next in line                      |   |
+   | Work pass                              |   |
+   | Notes for helping deny sex trafficker  |   |
+   | Height violation                       |   |
+   | Weight violation                       |   |
+   | Bomb scanner                           |   |
+   | "random" searches on Kolechians        |   |
+   | Gender                                 |   |
+   | Correct Stamps                         |   |
+   | Bribe                                  |   |
+   | Arrest for delinquency                 |   |
+   | Temporary Visa for denials             |   |
+   | Traitors                               |   |
+   | Corrupt guards                         |   |
+   | Incentive to detain                    |   |
+   | Inspector, award for sufficiency       |   |
+   | Resisting detainment                   |   |
+   | Counterfeits                           |   |
+   | Wanted Criminals                       |   |
+   | Neighbours reporting your wealth       |   |
+   | Confiscation                           |   |
+   
+** Reaktor
+   Also, path bar has memory
+
+   | Components  |                   |
+   |-------------+-------------------|
+   | Modules     | Input             |
+   |             | Output            |
+   |             | Explicit Controls |
+   |             |                   |
+   | Generators  | Oscillators       |
+   |             | Samplers          |
+   |             | LFOs              |
+   |             | Envelopes         |
+   |             |                   |
+   | Mods        | Filters           |
+   |             | Delays            |
+   |             | Shaping           |
+   |             |                   |
+   | Analysis    | Peak              |
+   |             | Sample and Hold   |
+   |             | Down Sampler      |
+   |             |                   |
+   | Hierarchies | Core              |
+   |             | Builtin           |
+   |             | Macro             |
+   |             | Instrument        |
+   |             | Ensemble          |
+   
+** Interactions
+
+   Different people for roles:
+   | Role A     | Role B      |
+   |------------+-------------|
+   | Father     | Son         |
+   | Teacher    | Student     |
+   | Neighbours |             |
+   | Senator    | Constituent |
+   | Senator    | Protester   |
+   | Cops       | Robbers     |
+   | Cops       | Civilians   |
+   | Cops       | Protesters  |
+   | Judge      | Criminal    |
+   | Judge      | Jury        |
+   | Judge      | Witnesses   |
+   | Judge      | Guards      |
+   | Employer   | Employees   |
+   |            |             |
+
+   One person multiple roles:
+   | Student      | Child   |
+   | Officeworker | Husband |
+   |              |         |
+
+** TODO Scotts Institutions
+
+   | 3 Pillars          |   |
+   |--------------------+---|
+   | Regulative         |   |
+   | Normative          |   |
+   | Cultural-Cognitive |   |
+   |                    |   |
+
+   | Carriers   |   |
+   |------------+---|
+   | Symbolic   |   |
+   | Relational |   |
+   | Artifacts  |   |
+   | Activity   |   |
+   
+** Authoring an FSM
+
+   |                                             |   |
+   |---------------------------------------------+---|
+   | Define Structure                            |   |
+   | Templates                                   |   |
+   | Placeholders                                |   |
+   | Nodes                                       |   |
+   | Transitions                                 |   |
+   | Type Constraints                            |   |
+   | Mark Physical/Symbolic/Communicative/Ritual |   |
+   | Conditions                                  |   |
+   | Interruptions                               |   |
+   | Times                                       |   |
+   | Min/Max I/Os                                |   |
+   | Likelihoods                                 |   |
+   | Action Pools                                |   |
+   | Delegation Constraints + Transforms         |   |
+   | Provide Traces/Runs                         |   |
+   | Warn on unused Nodes/Transitions            |   |
+   | Check Ritual/Physical Coherence             |   |
+   | Check Types                                 |   |
+   | Mark FSM Context Carrier                    |   |
+   | Entry / Exit                                |   |
+   | Physical Slots                              |   |
+
+   | Types                            |   |
+   |----------------------------------+---|
+   | Value Hierarchy                  |   |
+   | Violence Escalation              |   |
+   | Artifact / Tool                  |   |
+   | Symbolic Map                     |   |
+   | Role Map                         |   |
+   | Numbers / Ranges / Distributions |   |
+   | Rule Sets                        |   |
+   
+** TODO Grossi's Contextual Logic
+
+** Modularity
+
+   |                          |              |
+   |--------------------------+--------------|
+   | Composability            | g(f(x))      |
+   | Hot Swapping             |              |
+   | Parallel                 | f(x) + g(x)  |
+   | Selective Combination    | t(f,g)(x)    |
+   | Transforming             | g(f)(x)      |
+   | Intersection             | (f ∩ g)(x)   |
+   | Inversion                | f*(x)        |
+   | Forming a complex metric | (f(x), g(x)) |
+   | Type System              | f:: a -> b   |
+   | Monad                    | m f -> m g   |
+   
+** TODO Bourdieu
+
+*** Authorized Language
+    Symbolic Language, p107
+
+*** Rites of Institution
+    Symbolic Language p117
+
+*** On Symbolic Power
+    Symbolic Power p163
+
+    Symbolic Instruments
+    | Structuring                   | Structured                          | Instrumnts of                  |
+    | Structures                    | Structures                          | Domination                     |
+    |-------------------------------+-------------------------------------+--------------------------------|
+    | Instruments for knowing       | Means of Communication              | Power                          |
+    | and constructing the          |                                     |                                |
+    | objective world               |                                     |                                |
+    |                               |                                     |                                |
+    |                               |                                     | Division of Labour             |
+    |                               |                                     | Division of Ideological Labour |
+    |                               |                                     | Function of domination         |
+    |                               |                                     |                                |
+    | Symbolic Forms                | Symbolic Objects                    | Ideologies                     |
+    | Subjective Structures         | Objective Structures                | Myths, Languages               |
+    | Modus Operandi                | Opus Operatum                       |                                |
+    | Kant-Cassirer                 | Hegel-Saussure                      | Marx-Weber                     |
+    |                               |                                     |                                |
+    | Sapir-Whorf Culturalism       | Durkheim-Mauss-Levi-Strauss         | Body of specialists competing  |
+    | Durkheim-Mauss                |                                     | for the monopoly of legitimate |
+    |                               |                                     | cultural production            |
+    |                               |                                     |                                |
+    | Signification: Objectivity    | Signification: Objective meaning    |                                |
+    | as agreement between subjects | as a product of communication which |                                |
+    |                               | is the condition of communication   |                                |
+    
