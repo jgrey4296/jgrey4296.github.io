@@ -1,13 +1,20 @@
 *  Title: Inside Computer Understanding: Five Programs Plus Miniatures
 ** Tags                :POLITICS:TALE_SPIN:PAM:SAM:historical:ai:lisp:schank:
 ** Citation
-   
+   Schank1981
 ** AUTHORS
    Roger C. Schank
    Christopher K. Riesbeck
 ** YEAR : 
 ** ABSTRACT
-   
+** Quotes
+   In AI research, the task frequently falls
+   upon the Ph.D. student of taking a rough theory and "making it work". Rarely
+   does this theory ''work'' right away. New theories have to be postulated and
+   refinements made to old theories before anything can work at all.
+   In addition, successful Ph.D. theses have the pleasant effect of pointing
+   towards where we are going next. In the cases presented in this volume, where
+   towards where we are going next.
 ** Summary
 *** Research Questions
 

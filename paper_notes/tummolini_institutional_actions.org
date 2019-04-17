@@ -1,16 +1,179 @@
 *  The Cognitive and behavioral mediation of institutions: Towards an account of institutional actions
-** Tags             :constitutive_rules:MAS:power:castelfranchi:institutions:
+** Tags                                                                         :power:coordination:constitutive_rules:MAS:castelfranchi:institutions:
 ** Citation
-   
+   Tummolini2006
 ** AUTHORS
    Luca Tummolini
    Cristiano Castelfranchi
 ** YEAR : 2006
 ** ABSTRACT
-   
-** Summary
-*** Research Questions
+   The aim of this paper is to provide an analysis of institutional actions from
+   the standpoint of cognitive science. The notion of con- stitutive rules have
+   been proposed to describe the conceptual nature of institutions. In this
+   paper it is extended to cover specific processes of ‘recognition’ that
+   provide the agents with additional artificial powers. The power of doing an
+   institutional action is considered as a special kind of artificial power. It
+   is argued that institutional actions achieve their effects thanks to a
+   cognitive and behavioral mediation of a collective of agents. Individual
+   actions are seen and treated as (count as) institutional actions by the
+   involved participants even if, in fact, institutional actions are collective
+   actions. When human behavior becomes institutionalized, it acquires special
+   conventional powers to bring about effects in the social world. A model of
+   such conventional empowerment of an agent is proposed and is identified in a
+   sort of collective permission. Finally it is argued that institutions are a
+   specific kind of coordination artifacts. In particular, the importance of
+   institutional roles as artifacts that assign conventional powers is
+   investigated.
+** Quotes
+   "Institutions are usually conceived as normative systems that structure social interactions."
 
+   "As it is generally acknowledged, an institution is a solu- tion to
+   coordination problems of a collective, but what seems to be special in the
+   case of institutions is that such coordination is obtained thanks to the
+   constitution of a new level of actions that can be done. "
+
+   "We agree with Searle that there is a 'primacy of the micro-level' where the
+   individual agents constitute the institution by considering something as
+   something else.'
+
+   " Take this example from Jones and Sergot (1996): in a department the
+   signature of the secretary (X term) counts as the signature of the boss (Y
+   term)."
+
+   "It is at least since the late forties (Bruner & Goodman, 1947) that it is
+   argued that percep- tion is ‘‘necessarily the end product of a process of
+   cat- egorization [. . .] in which organisms move inferentially from cues to
+   category identity’’. Such a ‘perceptual semi- osis’ is something different
+   from the signification process where something stands for something else."
+
+   "An action is always a (supra-)action composed of a vehicle action and an
+   external delegated event."
+
+   "The function of the chairs depends on their physical features that are there
+   independently of any human agreement. However, at the same time, Searle
+   argues that functions are never intrinsic and always obser- ver relative. In
+   his theory, functions are always ascribed by humans to the external material
+   world."
+
+   "A function is ‘‘an external goal placed on a system that results in a trans-
+   formation of the structural properties of the system’’. The external goal is
+   usually internal to another goal-governed agent, but what is specific
+   relative to weaker notions like ‘use’ and ‘destination’ is that the physical
+   characteristics of the system are caused by the external goal."
+
+   "However, we also claim that there exist external goals that are not internal
+   to any agent at all. ... Finalities are selecting effects that modify an
+   organism’s characteristics in a way that will render it more adaptive."
+
+   "Let x be an entity instantiated in a sequence of distinct repetitions
+   (x1, ..., xn). A sequence of repetitions is defined as a set of occurrences
+   of the same entity linked in such a way that each is produced by the
+   preceding, and produces the following occurrences (if any) in the sequence,
+   thanks to whatever mechanism of reproduction. Let Bx be the set of behaviors
+   or characteristics of x, a finality or function can be defined as follows:
+
+   (1) some items in Bx produces effects unintended by, and unknown to, x;
+   (2) any item in x that produces the unintended effect is functional, if that
+   effect acts through a causal feedback loop on the mechanism of reproduction,
+   favoring x’s reproduction, and as a consequence, that of the item themselves.
+
+   ... It has selected and shaped that behavior or morphology to be as it is. "
+
+   "A goal can be defined as a sieve used to select the (morphological or
+   behavioral) properties of a system such that at time t1 such properties are
+   not the result of chance, but of its preceding history (t0) that consists in
+   the rejections resulting from the sieve sifting the alterna- tives of a given
+   property."
+
+   "Something is usable as a chair even if it is not recognized as a chair,
+   however this possibility of being used as a chair will never be actualized if
+   somebody does not recognize it as a chair. In this recognition process, the
+   agent needs to infer a possible use of the artifact. Notwithstanding its
+   intrinsic function, if the agent does not acknowledge its use, the artifact
+   seems to lack the status of being fully a chair."
+
+   "The ‘use’ of something is a weaker notion relative to the notion of
+   ‘function’. We consider the ‘use’ as the simplest notion of external goal.
+   Even if something does not have a function, it can still have a use."
+
+   "We say that such a tool (and of course a proper artifact) provides the agent
+   with the physical power of achieving at least one of his goals"
+
+   "However, to effectively have the power of achieving the goal, even an
+   artifact with a function needs to be rec- ognized as usable which means that
+   the agent is able to infer how the artifact is supposed to be used (rules of
+   use)"
+
+   "From this perspective, to say that ‘‘objects that are designed and used to
+   be sat on by one person counts as chairs’’ is something more that a simple
+   description. A sort of empowerment is present also when agents appropriately
+   recognize a tool or an artifact. Conceptualization of arti- facts is a form of
+   empowerment.
+
+   We can consider this process as a double empowerment. By recognizing
+   artifacts and tools as usable – somehow acknowledging their ‘rules of use’ –
+   (1) and by using them
+   (2) agents become able to produce new physical effects in the world.
+   Because the former kind of empowerment is mediated by the agent itself we
+   consider it a process of artificialization.
+   Even if the process is individual, it is the agent that produces it by means
+   of his (individual) cognitive mediation, and so in the end he acquires
+   additional artificial powers."
+
+   "To the eyes of the agents, the tie between the artifact and the enabled
+   actions is so strict the ordinary language allows expressions such ‘the goal
+   of the knife is to cut’. This com- mon conception treats the action as
+   intrinsic to the artifact"
+
+   "Our claim is that to institutionalize something is to assign a specific
+   kind of artificial powers to it by means of a conceptualization that can be
+   expressed by counts as formulas."
+
+   "Our ontological statement is that institutional actions, like paying,
+   marrying, promising, having precedence and so on and so forth, are concrete
+   physical actions in the physical world. "
+
+   "In our model an action A is composed of a vehicle action a and of an
+   external delegated event E on which the agent relies to achieve its intended
+   results. The action A can be named supra-action to distinguish it clearly
+   from the vehicle one."
+
+   "A minimal model of action implies that the agent believes that his action A
+   is necessary and sufficient to achieve R (while the vehicle action is only
+   necessary) and that he can obtain R by doing A."
+
+   "An agent has an objective power when, given his goals, he has the internal
+   (skills, motivation, etc.), and external resources (tools and artifacts or
+   what- ever) and the conditions for action are such that if he acts, he
+   achieves those goals."
+
+   "In collaborative activities, there is more than one agent executing the
+   necessary vehicle actions {a, b, . . . , n} and each of these vehicles are
+   part of the collective action A."
+
+   "It is in fact a communicative action, when one is doing his share in a group
+   activity is also emitting a message. "
+
+   "Take the institutional action of ‘marrying’. If Paul, the priest, is
+   marrying John and Mary such action can be exe- cuted only if there is a set of
+   agents recognizing it. The involved agents see the vehicle actions of the priest
+   as a token of the Cognitive Type ‘to marry’ (cognitive media- tion). While
+   necessary, this condition however is not sufficient. As in the case of ‘acting
+   together’ for such an action to have physical effects
+   in the world (and so to exist), it is also necessary that the set of involved
+   actors act accordingly to this interpretation (treat as). Because they have
+   recognized that the institutional action A has already occurred, they
+   consequently believe the R obtains, viz. that John and Mary are married (mutual
+   belief that R is true). Either the belief that the supra-action has been accom-
+   plished or simply its
+   reactive interpretation (disposition to behave), trigger the agent to treat the
+   vehicle action a as A and so act on this basis (behavioral mediation)."
+
+
+
+** Summary
+   "Institutional actions are always multi-agent actions."
+*** Research Questions
 *** Hypothesis tested
 
 *** Methods
@@ -19,6 +182,39 @@
 
 *** Authors key findings
 
+    In form of a conclusion is useful to summarize the main theses that we have
+    defended:
+    (1) the process of institutionalization of human behavior is a
+    process of
+    artificial empowerment;
+
+    (2) an institutional action is a socially mediated multi- agent action;
+
+    (3) while an institutional action is a socially mediated multi-agent action
+    (viz. a collaborative activity) it is not executed on the basis of a shared
+    plan;
+
+    (4) an institutional action is regarded as a single agent action and the
+    agent believes he has the power of doing the action;
+    (5) an institutional action has artificial effects that are added by the
+    collectivity so that the intended result is obtained;
+
+    (6) the main result that the action is achieving is the coordination result.
+    This result is not necessary intended but is the ultimate end of the action
+    (function);
+
+    (7) the institutional action can be done intentionally or not by the agent
+    but it is a real action relative to the function of coordinating the
+    collectivity;
+
+    (8) the institutional role is the artifact that assign the conventional
+    power to the agent. The collectivity by recognizing the role and by acting
+    accordingly enable the institutional actions because they wrongly attri-
+    bute the power of the action to the role. This is why having the role is
+    having the power;
+
+    (9) the conventional power is always a power of coordi nating a collectivity
+    of agents.
 *** Contributions [Faster/Cheaper/Better]
 
 ** What kind of text is it?
