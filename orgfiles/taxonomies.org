@@ -136,7 +136,94 @@
    |                          |                        |             |
    |                          | Establish a baseline   |             |
 
+** Authoring an FSM
+
+   |                                             |   |
+   |---------------------------------------------+---|
+   | Define Structure                            |   |
+   | Templates                                   |   |
+   | Placeholders                                |   |
+   | Nodes                                       |   |
+   | Transitions                                 |   |
+   | Type Constraints                            |   |
+   | Mark Physical/Symbolic/Communicative/Ritual |   |
+   | Conditions                                  |   |
+   | Interruptions                               |   |
+   | Times                                       |   |
+   | Min/Max I/Os                                |   |
+   | Likelihoods                                 |   |
+   | Action Pools                                |   |
+   | Delegation Constraints + Transforms         |   |
+   | Provide Traces/Runs                         |   |
+   | Warn on unused Nodes/Transitions            |   |
+   | Check Ritual/Physical Coherence             |   |
+   | Check Types                                 |   |
+   | Mark FSM Context Carrier                    |   |
+   | Entry / Exit                                |   |
+   | Physical Slots                              |   |
+
+   | Types                            |   |
+   |----------------------------------+---|
+   | Value Hierarchy                  |   |
+   | Violence Escalation              |   |
+   | Artifact / Tool                  |   |
+   | Symbolic Map                     |   |
+   | Role Map                         |   |
+   | Numbers / Ranges / Distributions |   |
+   | Rule Sets                        |   |
+   
+** TODO Bodley - [[file:culturalAntroNotes.org::*Cultural%20Anthropology%20notes][Cultural Anthropology notes]]                                    :links:tribes:formula:
+*** Culture: A Scale and Power Perspective
+*** Native Amazonians: Villagers of the Rain Forest
+*** Australian Aborigines: Mobile Foragers for 50,000 Years
+*** African Cattle Peoples: Tribal Pastoralists
+*** Cross Cultural Perspectives of the Tribal World
+*** Pacific Islanders: From Leaders to Rulers
+*** Ancient Empires in Two Worlds: Mesopotamia and the Andes
+*** The Chinese Great Tradition
+*** Hinduism and Islam in South Asia
+*** The Capitalist World System
+*** The United States: An American Plutocracy
+*** An Unsustainable Global System
+*** Tribes to Nations: Progress of the Victims
+*** Small Nations Solving Global Problems
+*** Envisioning a Sustainable World
 ** [[file:notecards.org::*Books][Books]]                                                                        :links:
+** TODO Bourdieu
+*** Authorized Language
+    Symbolic Language, p107
+
+*** Rites of Institution
+    Symbolic Language p117
+
+*** On Symbolic Power
+    Symbolic Power p163
+
+    Symbolic Instruments
+    | Structuring                   | Structured                          | Instrumnts of                  |
+    | Structures                    | Structures                          | Domination                     |
+    |-------------------------------+-------------------------------------+--------------------------------|
+    | Instruments for knowing       | Means of Communication              | Power                          |
+    | and constructing the          |                                     |                                |
+    | objective world               |                                     |                                |
+    |                               |                                     |                                |
+    |                               |                                     | Division of Labour             |
+    |                               |                                     | Division of Ideological Labour |
+    |                               |                                     | Function of domination         |
+    |                               |                                     |                                |
+    | Symbolic Forms                | Symbolic Objects                    | Ideologies                     |
+    | Subjective Structures         | Objective Structures                | Myths, Languages               |
+    | Modus Operandi                | Opus Operatum                       |                                |
+    | Kant-Cassirer                 | Hegel-Saussure                      | Marx-Weber                     |
+    |                               |                                     |                                |
+    | Sapir-Whorf Culturalism       | Durkheim-Mauss-Levi-Strauss         | Body of specialists competing  |
+    | Durkheim-Mauss                |                                     | for the monopoly of legitimate |
+    |                               |                                     | cultural production            |
+    |                               |                                     |                                |
+    | Signification: Objectivity    | Signification: Objective meaning    |                                |
+    | as agreement between subjects | as a product of communication which |                                |
+    |                               | is the condition of communication   |                                |
+    
 ** TODO Brown and Levinson (1987) Social Politeness                             :politeness:social:
    In IMMERSE Final report
 
@@ -240,6 +327,98 @@
     | Mutual     | Realising a commong goal |
     | Reciprocal | Realising different goals |
    
+** Castelfranchi's Towards a Theory of Delegation for Agent Based Systems       :contract:action:social:delegation:castelfranchi:
+   Castelfranchi and Falcone
+
+   | Type       | Description                                |
+   |------------+--------------------------------------------|
+   | Delegation |                                            |
+   | Adoption   |                                            |
+   | Contract   | Strict Delegation requires Strict Adoption |
+   |            |                                            |
+
+*** Delegation:
+    |                 | Unilateral          | Acceptance-based          |
+    |-----------------+---------------------+---------------------------|
+    |                 | (weak delegation)   |                           |
+    | by Exploitation | no mutual belief    | mutual belief             |
+    |                 | passive achievement | passive achievement       |
+    |-----------------+---------------------+---------------------------|
+    |                 | (mild delegation)   |                           |
+    | by Induction    | no mutual belief    | mutual belief             |
+    |                 | active achievement  | active achievement        |
+    |-----------------+---------------------+---------------------------|
+    |                 |                     | (Strict delegation)       |
+    | by Agreement    |                     | mutual belief and         |
+    |                 |                     | mutual active achievement |
+
+*** Adoption:
+    |                | Unilateral          | Acceptance Based          |
+    |----------------+---------------------+---------------------------|
+    | by Spontaneous | (Weak Adoption)     |                           |
+    | Initiative     | No mutual belief,   | mutual belief,            |
+    |                | passive achievement | passive achievement       |
+    |----------------+---------------------+---------------------------|
+    | by Agreement   |                     | (Strict Adoption)         |
+    |                |                     | mutual belief             |
+    |                |                     | mutual active achievement |
+
+*** By Specification of Task
+    | Type                  | Description |
+    |-----------------------+-------------|
+    | Open                  |             |
+    | Closed                |             |
+    | Partial               |             |
+    | Distributed           |             |
+    |-----------------------+-------------|
+    | Domain                |             |
+    | Meta                  |             |
+    |-----------------------+-------------|
+    | Sub-Delegation        |             |
+    |                       |             |
+    |-----------------------+-------------|
+    | Delegation of Control |             |
+
+*** Levels of Adoption of task
+    | Type                | Description |
+    |---------------------+-------------|
+    | Literal Help        |             |
+    | Overhelp            |             |
+    | Critical Help       |             |
+    | Critical Overhelp   |             |
+    | Hyper-critical Help |             |
+
+*** Level of Agency
+    | Type        | Description |
+    |-------------+-------------|
+    | Performance |             |
+    | Planning    |             |
+    | Goal        |             |
+
+*** Agent Modeling
+    | Type                             | Description                             |
+    |----------------------------------+-----------------------------------------|
+    | Ability                          | Class / Universal / Personal Competence |
+    | Reliability                      |                                         |
+    | Previous experience of behaviour |                                         |
+    | Communication                    |                                         |
+    | Attributions to category or role |                                         |
+    | Trust                            |                                         |
+
+*** Conflict
+    | Type                                         | Description |
+    |----------------------------------------------+-------------|
+    | Due to contractors sub-help                  |             |
+    | Due to Contractor's over/critical/hyper help |             |
+    |                                              |             |
+    |----------------------------------------------+-------------|
+    | Lack of Coordination                         |             |
+    | Disagreement about action results            |             |
+    | Role and Status                              |             |
+    |                                              |             |
+    |----------------------------------------------+-------------|
+    | Over Task Specification                      |             |
+
 ** Chen Taxonomy of variation                                                   :leverage:variation:authorship:
    in 'Evaluating Types of Variations in Interactive Story' Advancement
 
@@ -327,7 +506,6 @@
    | Writing - Original Draft   |             |
    | Writing - Review & Editing |             |
    
-** [[file:culturalAntroNotes.org::*Cultural%20Anthropology%20notes][Cultural Anthropology notes]]                                                  :links:formula:tribes:
 ** Davidsson Taxonomy of Artificial Societies                                   :norms:simulation:society:
    Mentioned in Sebastia "A Framework for Norm Monitoring on Dynamic
    Electronic Institutions"
@@ -440,7 +618,6 @@
 ** [[file:General_Games.org::*General%20Games%20and%20IF][General Games and IF]]                                                         :library:examples:games:links:
 ** Genre Taxonomy of Organizational Communication                               :questions:ontology:
    in Yoshioka and Herman: "Genre Taxonomy: A Knowledge Repository of Communicative Actions"
-
 *** 5W1H Questions
 
     | Question | Description |
@@ -542,6 +719,7 @@
    | Ex Ante / Ex Post           |             |
    | Centralized / Decentralized |             |
 
+** TODO Grossi's Contextual Logic
 ** Group Norm Taxonomy                                                          :agency:responsibility:social:individual:
    In Aldewereld, Dignum and Vasconcelos "Group Norms for Multi-Agent Organisations"
 
@@ -579,6 +757,31 @@
    
 ** [[file:latest_institution_attempt.org][Institution Attempt]]                                                          :links:programming:rules:
 ** [[file:institutionStructure.org::*Institution%20Structure][Institution Structure]]                                                        :links:castelfranchi:norms:activity:institutions:
+** Interactions
+
+   Different people for roles:
+   | Role A     | Role B      |
+   |------------+-------------|
+   | Father     | Son         |
+   | Teacher    | Student     |
+   | Neighbours |             |
+   | Senator    | Constituent |
+   | Senator    | Protester   |
+   | Cops       | Robbers     |
+   | Cops       | Civilians   |
+   | Cops       | Protesters  |
+   | Judge      | Criminal    |
+   | Judge      | Jury        |
+   | Judge      | Witnesses   |
+   | Judge      | Guards      |
+   | Employer   | Employees   |
+   |            |             |
+
+   One person multiple roles:
+   | Student      | Child   |
+   | Officeworker | Husband |
+   |              |         |
+
 ** Judgment Aggregation Rules                                                   :norms:voting:judgement:
    In Lang, Pigozzi Slavkovik et al: "A Partial Taxonomy of Judgment aggregation
    rules and their properties"
@@ -695,11 +898,25 @@
 
    Time as *Linear Change with Forward Order* or *Repeating Cycles* (Buzsaki  2006)
 
+** Modularity
+
+   |                          |              |
+   |--------------------------+--------------|
+   | Composability            | g(f(x))      |
+   | Hot Swapping             |              |
+   | Parallel                 | f(x) + g(x)  |
+   | Selective Combination    | t(f,g)(x)    |
+   | Transforming             | g(f)(x)      |
+   | Intersection             | (f ∩ g)(x)   |
+   | Inversion                | f*(x)        |
+   | Forming a complex metric | (f(x), g(x)) |
+   | Type System              | f:: a -> b   |
+   | Monad                    | m f -> m g   |
+   
 ** [[file:Moise.org::*MOISE%20Notes][MOISE Notes]]                                                                  :links:organisation:
 ** TODO [[https://sites.ualberta.ca/~urban/Projects/English/Motif_Index.htm][Mythology Types]]                                                         :links:mythology:
 ** Normative Multi Agent Systems                                                :deontic:logic:norms:NorMAS:
    Andrighetto, Governatori, Noriega, van der Torre. 
-
 *** Norms in MAS: Definitions and Related Concepts
 **** Norms
 
@@ -971,7 +1188,6 @@
       | Individual Judgments             |                                      |
      
 *** Computational Models for Normative MAS
-
 **** Norm Spec and Verification
      Focuses on *Coherence*. p84
 
@@ -1114,11 +1330,56 @@
    | Position        | determine roles actors are assigned to                             |
    | Demarcation     | regulate qualifications to enter or leave positions                |
    | Decision making | how decisions are to be made                                       |
-   | Choice          | define whichactors may or may not act in an arena                  |
+   | Choice          | define which actors may or may not act in an arena                  |
    | Information     | determine amount and importance of information available to actors |
    | payoff          | specify rewards and sanctions linked to actions and outcomes       |
    | Scope           | delimit outcomes                                                  |
 
+** Papers Please
+
+   |                                        |   |
+   |----------------------------------------+---|
+   | Stamp Passports                        |   |
+   | Only Particular Nationalities          |   |
+   | Passport Match                         |   |
+   | Discrepant Information                 |   |
+   | Current Passports                      |   |
+   | Citizen / Non-Citizen distinction      |   |
+   | Entry Ticket - dated, for non-citizens |   |
+   | ID cards for citizens                  |   |
+   | Work permits for non-citizens          |   |
+   | Removal of entry permits               |   |
+   | Names                                  |   |
+   | ID Numbers                             |   |
+   | Duration                               |   |
+   | Fake Passports                         |   |
+   | Ability to Arrest                      |   |
+   | Purpose of Visit                       |   |
+   | Being asked to break rules             |   |
+   | Citations for rule failures            |   |
+   | Finger printing                        |   |
+   | Wife next in line                      |   |
+   | Work pass                              |   |
+   | Notes for helping deny sex trafficker  |   |
+   | Height violation                       |   |
+   | Weight violation                       |   |
+   | Bomb scanner                           |   |
+   | "random" searches on Kolechians        |   |
+   | Gender                                 |   |
+   | Correct Stamps                         |   |
+   | Bribe                                  |   |
+   | Arrest for delinquency                 |   |
+   | Temporary Visa for denials             |   |
+   | Traitors                               |   |
+   | Corrupt guards                         |   |
+   | Incentive to detain                    |   |
+   | Inspector, award for sufficiency       |   |
+   | Resisting detainment                   |   |
+   | Counterfeits                           |   |
+   | Wanted Criminals                       |   |
+   | Neighbours reporting your wealth       |   |
+   | Confiscation                           |   |
+   
 ** Procedural Content Generation in Games                                       :procedural_content:games:
    Shaker, Togelius, Nelson
 
@@ -1259,7 +1520,66 @@
    | Economics   |   |
    | Sociology   |   |
    
+** Reaktor
+   Also, path bar has memory
+
+   | Components  |                   |
+   |-------------+-------------------|
+   | Modules     | Input             |
+   |             | Output            |
+   |             | Explicit Controls |
+   |             |                   |
+   | Generators  | Oscillators       |
+   |             | Samplers          |
+   |             | LFOs              |
+   |             | Envelopes         |
+   |             |                   |
+   | Mods        | Filters           |
+   |             | Delays            |
+   |             | Shaping           |
+   |             |                   |
+   | Analysis    | Peak              |
+   |             | Sample and Hold   |
+   |             | Down Sampler      |
+   |             |                   |
+   | Hierarchies | Core              |
+   |             | Builtin           |
+   |             | Macro             |
+   |             | Instrument        |
+   |             | Ensemble          |
+   
 ** [[file:threeIdeas.org::*Real%20time,%20Functional%20AI%20authoring%20pipeline.][Real time, Functional AI authoring pipeline.]]                                 :links:pipeline:modality:
+** Reigns
+
+   | Beats                        |   |
+   |------------------------------+---|
+   | Politeness                   |   |
+   | Pious/Populist/Mighty/Frugal |   |
+   | Lackies                      |   |
+   | Cat                          |   |
+   | Sainthood                    |   |
+   | Superstitutions              |   |
+   | Childbirth                   |   |
+   | Death                        |   |
+   | Clothing                     |   |
+   | Colour Choices               |   |
+   | Religious Threats            |   |
+   | Rivalries                    |   |
+   | Misogyny                     |   |
+   | Revolution                   |   |
+   | Work Decisions               |   |
+   | Wine                         |   |
+   | Ritual Instruction           |   |
+   | Religion and Earthquakes     |   |
+   | Class Tension                |   |
+   | Favours                      |   |
+   | Intrigue                     |   |
+   | Church Minion                |   |
+   | Hunting Accident             |   |
+   | Romance / Affairs            |   |
+   | Coronation Ball              |   |
+   | Burned at the Stake          |   |
+   
 ** Reputation System Taxonomy                                                   :judgement:norms:reputation:
    In Hendrikx, Bubendorfer, Chard "Reputation systems: A Survey and Taxonomy"
 
@@ -1310,6 +1630,86 @@
    |          |                  | Death of Old        |             |
    |          |                  | Death of Selected   |             |
 
+** Scotts Institutions
+
+   | 3 Pillars          |   |
+   |--------------------+---|
+   | Regulative         |   |
+   | Normative          |   |
+   | Cultural-Cognitive |   |
+   |                    |   |
+
+
+   |                | Regulative             | Normative            | Cultural Cognitive      |
+   |----------------+------------------------+----------------------+-------------------------|
+   | Basis of       | Expedience             | Social               | Taken-for-grantedness   |
+   | Compliance     |                        | Obligation           | Shared understanding    |
+   |                |                        |                      |                         |
+   | Basis of Order | Regulative Rules       | Binding Expectations | Constitutive Schema     |
+   |                |                        |                      |                         |
+   | Mechanisms     | Coercive               | Normative            | Mimetic                 |
+   |                |                        |                      |                         |
+   | Logic          | Instrumentality        | Appropriateness      | Orthodoxy               |
+   |                |                        |                      |                         |
+   | Indicators     | Rules                  | Certification        | Common beliefs          |
+   |                | Laws                   | Accreditation        | Shared logics of action |
+   |                | Sanctions              |                      | Isomorphism             |
+   |                |                        |                      |                         |
+   | Affect         | Fear Guilt / Innocence | Shame / Honour       | Certainty / Confusion   |
+   |                |                        |                      |                         |
+   | Basis of       | Legally Sanctioned     | Morally governed     | Comprehensible          |
+   | Legitimacy     |                        |                      | Recognizable            |
+   |                |                        |                      | Culturally supported    |
+
+   | Legalisation continuum |   |
+   |------------------------+---|
+   | Obligation             |   |
+   | Precision              |   |
+   | Delegation             |   |
+
+
+   | Carriers   |   |
+   |------------+---|
+   | Symbolic   |   |
+   | Relational |   |
+   | Artifacts  |   |
+   | Activity   |   |
+
+   |                    | Regulative              | Normative                    | Cultural-Cognitive                |
+   |--------------------+-------------------------+------------------------------+-----------------------------------|
+   | Symbolic Systems   | Rules                   | Values                       | Categories                        |
+   |                    | Laws                    | Expectations                 | Typifications                     |
+   |                    |                         | Standards                    | Schemas                           |
+   |                    |                         |                              | Frames                            |
+   |                    |                         |                              |                                   |
+   | Relational Systems | Governance Systems      | Regimes                      | Structural Isomorphism            |
+   |                    | Power Systems           | Authority Systems            | Identities                        |
+   |                    |                         |                              |                                   |
+   | Activities         | Monitoring              | Roles, jobs                  | Predispositions                   |
+   |                    | Sanctioning             | Routines                     | Scripts                           |
+   |                    | Disrupting              | Habits                       |                                   |
+   |                    |                         | Repertoire of Collective     |                                   |
+   |                    |                         | Action                       |                                   |
+   |                    |                         |                              |                                   |
+   | Artifacts          | Objects complying with  | Objects meeting conventions, | Objects possessing symbolic value |
+   |                    | mandated specifications | standards                    |                                   |
+
+
+   |                           | Regulative                        | Normative                           | Cultural Cognitive          |
+   |---------------------------+-----------------------------------+-------------------------------------+-----------------------------|
+   | World System              | Economic History                  |                                     |                             |
+   |                           |                                   |                                     |                             |
+   | Societal                  |                                   |                                     | Neo-institutional sociology |
+   |                           |                                   |                                     |                             |
+   | Organizational Field      | Historical Institutionalism       | Traditional Institutional sociology |                             |
+   |                           | in poli-sci                       |                                     |                             |
+   |                           |                                   |                                     |                             |
+   | Organizational Population |                                   | Population Ecology                  |                             |
+   |                           |                                   |                                     |                             |
+   | Organization              | Neo-institutionalism in economics |                                     |                             |
+   |                           |                                   |                                     |                             |
+   | Organizational Subsystem  |                                   | Ethno-methodology                   |                             |
+   
 ** Searle Speech Acts                                                           :speech_acts:
 
    | Type        | Description |
@@ -1728,98 +2128,6 @@
    | embedded     |             |
 
 ** [[file:notecards.org::*Theory][Theory]]                                                                       :links:meta:rules:norms:structure:
-** Towards a Theory of Delegation for Agent Based Systems                       :contract:action:social:delegation:castelfranchi:
-   Castelfranchi and Falcone
-
-   | Type       | Description                                |
-   |------------+--------------------------------------------|
-   | Delegation |                                            |
-   | Adoption   |                                            |
-   | Contract   | Strict Delegation requires Strict Adoption |
-   |            |                                            |
-
-*** Delegation:
-    |                 | Unilateral          | Acceptance-based          |
-    |-----------------+---------------------+---------------------------|
-    |                 | (weak delegation)   |                           |
-    | by Exploitation | no mutual belief    | mutual belief             |
-    |                 | passive achievement | passive achievement       |
-    |-----------------+---------------------+---------------------------|
-    |                 | (mild delegation)   |                           |
-    | by Induction    | no mutual belief    | mutual belief             |
-    |                 | active achievement  | active achievement        |
-    |-----------------+---------------------+---------------------------|
-    |                 |                     | (Strict delegation)       |
-    | by Agreement    |                     | mutual belief and         |
-    |                 |                     | mutual active achievement |
-
-*** Adoption:
-    |                | Unilateral          | Acceptance Based          |
-    |----------------+---------------------+---------------------------|
-    | by Spontaneous | (Weak Adoption)     |                           |
-    | Initiative     | No mutual belief,   | mutual belief,            |
-    |                | passive achievement | passive achievement       |
-    |----------------+---------------------+---------------------------|
-    | by Agreement   |                     | (Strict Adoption)         |
-    |                |                     | mutual belief             |
-    |                |                     | mutual active achievement |
-
-*** By Specification of Task
-    | Type                  | Description |
-    |-----------------------+-------------|
-    | Open                  |             |
-    | Closed                |             |
-    | Partial               |             |
-    | Distributed           |             |
-    |-----------------------+-------------|
-    | Domain                |             |
-    | Meta                  |             |
-    |-----------------------+-------------|
-    | Sub-Delegation        |             |
-    |                       |             |
-    |-----------------------+-------------|
-    | Delegation of Control |             |
-
-*** Levels of Adoption of task
-    | Type                | Description |
-    |---------------------+-------------|
-    | Literal Help        |             |
-    | Overhelp            |             |
-    | Critical Help       |             |
-    | Critical Overhelp   |             |
-    | Hyper-critical Help |             |
-
-*** Level of Agency
-    | Type        | Description |
-    |-------------+-------------|
-    | Performance |             |
-    | Planning    |             |
-    | Goal        |             |
-
-*** Agent Modeling
-    | Type                             | Description                             |
-    |----------------------------------+-----------------------------------------|
-    | Ability                          | Class / Universal / Personal Competence |
-    | Reliability                      |                                         |
-    | Previous experience of behaviour |                                         |
-    | Communication                    |                                         |
-    | Attributions to category or role |                                         |
-    | Trust                            |                                         |
-
-*** Conflict
-    | Type                                         | Description |
-    |----------------------------------------------+-------------|
-    | Due to contractors sub-help                  |             |
-    | Due to Contractor's over/critical/hyper help |             |
-    |                                              |             |
-    |----------------------------------------------+-------------|
-    | Lack of Coordination                         |             |
-    | Disagreement about action results            |             |
-    | Role and Status                              |             |
-    |                                              |             |
-    |----------------------------------------------+-------------|
-    | Over Task Specification                      |             |
-
 ** [[file:tribeDescriptions.org::*Tribe%20Descriptions][Tribe Descriptions]]                                                           :links:structure:social:society:honourifics:tribes:
 ** [[file:typewriter.org::*Typewritten%20Notes][Typewritten Notes]]                                                            :links:organisation:the_watch:rules:phenomenology:conversation:
 ** [[file:behaviourErrors.org::*Typology%20of%20Behaviour%20Errors][Typology of Behaviour Errors]]                                                 :links:slips:mistakes:
@@ -1868,6 +2176,78 @@
    | Interview/Demo                                     | Application Specific         | Qualitative              | Required     |
    | Cognitive Walkthrough                              | Application Specific         | Qualitative              | Not Required |
 
+** Versu
+
+   | Praxis Files        |   |
+   |---------------------+---|
+   | alcohol             |   |
+   | archetypes          |   |
+   | bh_persistence      |   |
+   | books_and_memories  |   |
+   | characters          |   |
+   | conversation        |   |
+   | creative_processes  |   |
+   | definitions         |   |
+   | dinner              |   |
+   | emotion             |   |
+   | events              |   |
+   | genre               |   |
+   | gogar               |   |
+   | location            |   |
+   | magic               |   |
+   | mhp                 |   |
+   | misc                |   |
+   | money_and_purchase  |   |
+   | norm_violation      |   |
+   | object_manipulation |   |
+   | persuasion          |   |
+   | pets                |   |
+   | physical_weakness   |   |
+   | props               |   |
+   | reaction            |   |
+   | relationship        |   |
+   | resistance          |   |
+   | skill               |   |
+   | standard_practice   |   |
+   | tic_tac_toe         |   |
+   | utilities           |   |
+   | weather             |   |
+   | whist_shared        |   |
+
+   | Data Files              |   |
+   |-------------------------+---|
+   | all_characters          |   |
+   | ancient_roman_furniture |   |
+   | conversation            |   |
+   | emotion                 |   |
+   | genre_ancient_roman     |   |
+   | genre_bramble           |   |
+   | genre_modern            |   |
+   | genre_plainspeak        |   |
+   | genre_regency           |   |
+   | genre_sample_genre      |   |
+   | modern_furniture        |   |
+   | music                   |   |
+   | music_modern            |   |
+   | norm_violation          |   |
+   | plainspeak_furniture    |   |
+   | reaction                |   |
+   | regency_furniture       |   |
+   | regency_rooms           |   |
+   | relationship            |   |
+
+   | Type Files |   |
+   |------------+---|
+   | action     |   |
+   | agent      |   |
+   | container  |   |
+   | core       |   |
+   | data       |   |
+   | episode    |   |
+   | player     |   |
+   | speech_act |   |
+   | text       |   |
+   | types      |   |
 ** Weber's Types of Authority                                                   :leadership:authority:
 
    | Type           | Description |
@@ -1957,325 +2337,3 @@
     | Saviour     |         |
     | History     |         |
 
-** Versu
-
-   | Praxis Files        |   |
-   |---------------------+---|
-   | alcohol             |   |
-   | archetypes          |   |
-   | bh_persistence      |   |
-   | books_and_memories  |   |
-   | characters          |   |
-   | conversation        |   |
-   | creative_processes  |   |
-   | definitions         |   |
-   | dinner              |   |
-   | emotion             |   |
-   | events              |   |
-   | genre               |   |
-   | gogar               |   |
-   | location            |   |
-   | magic               |   |
-   | mhp                 |   |
-   | misc                |   |
-   | money_and_purchase  |   |
-   | norm_violation      |   |
-   | object_manipulation |   |
-   | persuasion          |   |
-   | pets                |   |
-   | physical_weakness   |   |
-   | props               |   |
-   | reaction            |   |
-   | relationship        |   |
-   | resistance          |   |
-   | skill               |   |
-   | standard_practice   |   |
-   | tic_tac_toe         |   |
-   | utilities           |   |
-   | weather             |   |
-   | whist_shared        |   |
-
-   | Data Files              |   |
-   |-------------------------+---|
-   | all_characters          |   |
-   | ancient_roman_furniture |   |
-   | conversation            |   |
-   | emotion                 |   |
-   | genre_ancient_roman     |   |
-   | genre_bramble           |   |
-   | genre_modern            |   |
-   | genre_plainspeak        |   |
-   | genre_regency           |   |
-   | genre_sample_genre      |   |
-   | modern_furniture        |   |
-   | music                   |   |
-   | music_modern            |   |
-   | norm_violation          |   |
-   | plainspeak_furniture    |   |
-   | reaction                |   |
-   | regency_furniture       |   |
-   | regency_rooms           |   |
-   | relationship            |   |
-
-   | Type Files |   |
-   |------------+---|
-   | action     |   |
-   | agent      |   |
-   | container  |   |
-   | core       |   |
-   | data       |   |
-   | episode    |   |
-   | player     |   |
-   | speech_act |   |
-   | text       |   |
-   | types      |   |
-** Bodley - Cultural Anthropology
-*** Culture: A Scale and Power Perspective
-*** Native Amazonians: Villagers of the Rain Forest
-*** Australian Aborigines: Mobile Foragers for 50,000 Years
-*** African Cattle Peoples: Tribal Pastoralists
-*** Cross Cultural Perspectives of the Tribal World
-*** Pacific ISlanders: From Leaders to Rulers
-*** Ancient Empires in Two Worlds: Mesopotamia and the Andes
-*** The Chinese Great Tradition
-*** Hinduism and Islam in South Asia
-*** The Capitalist World System
-*** The United States: An American Plutocracy
-*** An Unsustainable Global System
-*** Tribes to Nations: Progress of the Victims
-*** Small Nations Solving Global Problems
-*** Envisioning a Sustainable World
-** Reigns
-
-   | Beats                        |   |
-   |------------------------------+---|
-   | Politeness                   |   |
-   | Pious/Populist/Mighty/Frugal |   |
-   | Lackies                      |   |
-   | Cat                          |   |
-   | Sainthood                    |   |
-   | Superstitutions              |   |
-   | Childbirth                   |   |
-   | Death                        |   |
-   | Clothing                     |   |
-   | Colour Choices               |   |
-   | Religious Threats            |   |
-   | Rivalries                    |   |
-   | Misogyny                     |   |
-   | Revolution                   |   |
-   | Work Decisions               |   |
-   | Wine                         |   |
-   | Ritual Instruction           |   |
-   | Religion and Earthquakes     |   |
-   | Class Tension                |   |
-   | Favours                      |   |
-   | Intrigue                     |   |
-   | Church Minion                |   |
-   | Hunting Accident             |   |
-   | Romance / Affairs            |   |
-   | Coronation Ball              |   |
-   | Burned at the Stake          |   |
-   
-** Papers Please
-
-   |                                        |   |
-   |----------------------------------------+---|
-   | Stamp Passports                        |   |
-   | Only Particular Nationalities          |   |
-   | Passport Match                         |   |
-   | Discrepant Information                 |   |
-   | Current Passports                      |   |
-   | Citizen / Non-Citizen distinction      |   |
-   | Entry Ticket - dated, for non-citizens |   |
-   | ID cards for citizens                  |   |
-   | Work permits for non-citizens          |   |
-   | Removal of entry permits               |   |
-   | Names                                  |   |
-   | ID Numbers                             |   |
-   | Duration                               |   |
-   | Fake Passports                         |   |
-   | Ability to Arrest                      |   |
-   | Purpose of Visit                       |   |
-   | Being asked to break rules             |   |
-   | Citations for rule failures            |   |
-   | Finger printing                        |   |
-   | Wife next in line                      |   |
-   | Work pass                              |   |
-   | Notes for helping deny sex trafficker  |   |
-   | Height violation                       |   |
-   | Weight violation                       |   |
-   | Bomb scanner                           |   |
-   | "random" searches on Kolechians        |   |
-   | Gender                                 |   |
-   | Correct Stamps                         |   |
-   | Bribe                                  |   |
-   | Arrest for delinquency                 |   |
-   | Temporary Visa for denials             |   |
-   | Traitors                               |   |
-   | Corrupt guards                         |   |
-   | Incentive to detain                    |   |
-   | Inspector, award for sufficiency       |   |
-   | Resisting detainment                   |   |
-   | Counterfeits                           |   |
-   | Wanted Criminals                       |   |
-   | Neighbours reporting your wealth       |   |
-   | Confiscation                           |   |
-   
-** Reaktor
-   Also, path bar has memory
-
-   | Components  |                   |
-   |-------------+-------------------|
-   | Modules     | Input             |
-   |             | Output            |
-   |             | Explicit Controls |
-   |             |                   |
-   | Generators  | Oscillators       |
-   |             | Samplers          |
-   |             | LFOs              |
-   |             | Envelopes         |
-   |             |                   |
-   | Mods        | Filters           |
-   |             | Delays            |
-   |             | Shaping           |
-   |             |                   |
-   | Analysis    | Peak              |
-   |             | Sample and Hold   |
-   |             | Down Sampler      |
-   |             |                   |
-   | Hierarchies | Core              |
-   |             | Builtin           |
-   |             | Macro             |
-   |             | Instrument        |
-   |             | Ensemble          |
-   
-** Interactions
-
-   Different people for roles:
-   | Role A     | Role B      |
-   |------------+-------------|
-   | Father     | Son         |
-   | Teacher    | Student     |
-   | Neighbours |             |
-   | Senator    | Constituent |
-   | Senator    | Protester   |
-   | Cops       | Robbers     |
-   | Cops       | Civilians   |
-   | Cops       | Protesters  |
-   | Judge      | Criminal    |
-   | Judge      | Jury        |
-   | Judge      | Witnesses   |
-   | Judge      | Guards      |
-   | Employer   | Employees   |
-   |            |             |
-
-   One person multiple roles:
-   | Student      | Child   |
-   | Officeworker | Husband |
-   |              |         |
-
-** TODO Scotts Institutions
-
-   | 3 Pillars          |   |
-   |--------------------+---|
-   | Regulative         |   |
-   | Normative          |   |
-   | Cultural-Cognitive |   |
-   |                    |   |
-
-   | Carriers   |   |
-   |------------+---|
-   | Symbolic   |   |
-   | Relational |   |
-   | Artifacts  |   |
-   | Activity   |   |
-   
-** Authoring an FSM
-
-   |                                             |   |
-   |---------------------------------------------+---|
-   | Define Structure                            |   |
-   | Templates                                   |   |
-   | Placeholders                                |   |
-   | Nodes                                       |   |
-   | Transitions                                 |   |
-   | Type Constraints                            |   |
-   | Mark Physical/Symbolic/Communicative/Ritual |   |
-   | Conditions                                  |   |
-   | Interruptions                               |   |
-   | Times                                       |   |
-   | Min/Max I/Os                                |   |
-   | Likelihoods                                 |   |
-   | Action Pools                                |   |
-   | Delegation Constraints + Transforms         |   |
-   | Provide Traces/Runs                         |   |
-   | Warn on unused Nodes/Transitions            |   |
-   | Check Ritual/Physical Coherence             |   |
-   | Check Types                                 |   |
-   | Mark FSM Context Carrier                    |   |
-   | Entry / Exit                                |   |
-   | Physical Slots                              |   |
-
-   | Types                            |   |
-   |----------------------------------+---|
-   | Value Hierarchy                  |   |
-   | Violence Escalation              |   |
-   | Artifact / Tool                  |   |
-   | Symbolic Map                     |   |
-   | Role Map                         |   |
-   | Numbers / Ranges / Distributions |   |
-   | Rule Sets                        |   |
-   
-** TODO Grossi's Contextual Logic
-
-** Modularity
-
-   |                          |              |
-   |--------------------------+--------------|
-   | Composability            | g(f(x))      |
-   | Hot Swapping             |              |
-   | Parallel                 | f(x) + g(x)  |
-   | Selective Combination    | t(f,g)(x)    |
-   | Transforming             | g(f)(x)      |
-   | Intersection             | (f ∩ g)(x)   |
-   | Inversion                | f*(x)        |
-   | Forming a complex metric | (f(x), g(x)) |
-   | Type System              | f:: a -> b   |
-   | Monad                    | m f -> m g   |
-   
-** TODO Bourdieu
-
-*** Authorized Language
-    Symbolic Language, p107
-
-*** Rites of Institution
-    Symbolic Language p117
-
-*** On Symbolic Power
-    Symbolic Power p163
-
-    Symbolic Instruments
-    | Structuring                   | Structured                          | Instrumnts of                  |
-    | Structures                    | Structures                          | Domination                     |
-    |-------------------------------+-------------------------------------+--------------------------------|
-    | Instruments for knowing       | Means of Communication              | Power                          |
-    | and constructing the          |                                     |                                |
-    | objective world               |                                     |                                |
-    |                               |                                     |                                |
-    |                               |                                     | Division of Labour             |
-    |                               |                                     | Division of Ideological Labour |
-    |                               |                                     | Function of domination         |
-    |                               |                                     |                                |
-    | Symbolic Forms                | Symbolic Objects                    | Ideologies                     |
-    | Subjective Structures         | Objective Structures                | Myths, Languages               |
-    | Modus Operandi                | Opus Operatum                       |                                |
-    | Kant-Cassirer                 | Hegel-Saussure                      | Marx-Weber                     |
-    |                               |                                     |                                |
-    | Sapir-Whorf Culturalism       | Durkheim-Mauss-Levi-Strauss         | Body of specialists competing  |
-    | Durkheim-Mauss                |                                     | for the monopoly of legitimate |
-    |                               |                                     | cultural production            |
-    |                               |                                     |                                |
-    | Signification: Objectivity    | Signification: Objective meaning    |                                |
-    | as agreement between subjects | as a product of communication which |                                |
-    |                               | is the condition of communication   |                                |
-    
