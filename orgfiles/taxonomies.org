@@ -1,5 +1,5 @@
 *  Taxonomies
-  #+BIBLIOGRAPHY: ~/github/writing/main_library plain
+  #+BIBLIOGRAPHY: ~/github/writing/other_files/main_bibliography plain
 ** [[file:48laws.org::*48%20Laws%20of%20Power][48 Laws of Power]]                                                             :links:power:rules:
 ** [[file:pirateShip.org::*A%20Pirate%20Ship%20as%20an%20Institutional%20example][A Pirate Ship as an Institutional example]]                                    :links:routine:sanctions:
 ** A Taxonomy of Inference in Simulation Models                                 :simulation:model:inference:
@@ -837,6 +837,20 @@
    | retaliation                              |             |
    | regrettable mistake                      |             |
    | sabotage                                 |             |
+   
+** Malaby's Categories of Indeterminacy                                         :chance:indeterminacy:
+   in Montfort et al: 10 Print
+
+   |                            |                                           |
+   |----------------------------+-------------------------------------------|
+   | Formal Indeterminacy       | Chance                                    |
+   |                            |                                           |
+   | Social Indeterminacy       | The impossibility of knowing others minds |
+   |                            |                                           |
+   | Performative Indeterminacy | Unreliability of actions                  |
+   |                            |                                           |
+   | Cosmological Indeterminacy | Suspicion over the rules                  |
+   |                            |                                           |
    
 ** Managing Conflicts between rules                                             :meta:rules:conflict:
    Jagadish, Mendelzon, Mumick
