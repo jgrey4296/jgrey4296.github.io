@@ -1,0 +1,84 @@
+*  The Effects of Network Structure on the Emergence of Norms in Adaptive Populations
+  [[http://jasss.soc.surrey.ac.uk/18/4/14.html][Paper Link]]
+** Tags                                                                         :cooperation:neighborhood_structure:social_networks:ABM:social_norms:
+** Citation:
+** YEAR : 2015
+** AUTHORS
+   Peter Froncek
+** ABSTRACT
+   The different ways individuals socialize with others affect the conditions under
+   which social norms are able to emerge. In this work an agent-based model of
+   cooperation in a population of adaptive agents is presented. The model has the
+   ability to implement a multitude of network topologies. The agents possess
+   strategies represented by boldness and vengefulness values in the spirit of
+   Axelrod's (1986) norms game. However, unlike in the norms game, the simulations
+   abandon the evolutionary approach and only follow a single-generation of agents
+   who are nevertheless able to adapt their strategies based on changes in their
+   environment. The model is analyzed for potential emergence or collapse of norms
+   under different network and neighborhood configurations as well as different
+   vigilance levels in the agent population. In doing so the model is found able to
+   exhibit interesting emergent behavior suggesting potential for norm
+   establishment even without the use of so-called metanorms. Although the model
+   shows that the success of the norm is dependent on the neighborhood size and the
+   vigilance of the agent population, the likelihood of norm collapse is not
+   monotonically related to decreases in vigilance.
+** Summary
+*** Research Questions
+
+*** Hypothesis tested
+
+*** Methods
+
+*** Results
+
+*** Authors key findings
+
+*** Contributions [Faster/Cheaper/Better]
+
+** What kind of text is it?
+
+** What genre is the text?
+
+** What is the critical context?
+
+** What is the intended audience?
+
+** What is your purpose in reading?
+
+** What are you meant to get out of the text?
+*** Are you supposed to get the gist, or details?
+
+*** Are you meant to close read the language of the text?
+
+*** Are you meant to apply or relate the text to something else?
+
+*** Are you supposed to engage with (agree, disagree, tweak, nuance) the text?
+
+** What it says / What it does
+   For each chapter/section/subsection/paragraph
+*** What it Says: Stated or implied topic
+
+*** What it Does: Function within the reading
+    Evidence for claim, summarize opposing view, data, analogy etc.
+
+** Double Entry
+*** Represent the text in your own words. Restate the argument.
+
+*** Respond to the text.
+    Analyse, relate, question, believe, doubt, refute, go beyond.
+
+** Believe / Doubt
+   Read with opposing views.
+*** Believing - Read generously
+
+*** Doubting  - Read critically
+
+** Reverse Outline
+   Organise text hierarchically by function
+
+** Freewrite argumentative response
+*** Before I read this text, the author assumed I knew and believed X
+
+*** After I Read this text, the author wanted me to think and believe that Y
+
+*** The Author was (not) successful in changing my views. How so, and why.

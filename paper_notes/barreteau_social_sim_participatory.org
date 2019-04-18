@@ -1,37 +1,34 @@
-*  10 Print Randomness
-** Tags                    :mateas:analysis:software:code_studies:randomness:
-** Citation
-   Montfort
+*  Using Social Simulation to Explore the Dynamics at Stake in Participatory Research
+  [[http://jasss.soc.surrey.ac.uk/14/4/12.html][Paper Link]]
+** Tags
+** Citation:
+** YEAR : 2011
 ** AUTHORS
-   Montfort, Nick
-   Baudoin, Patsy
-   Bell, John
-   Bogost, Ian
-   Douglass, Jeremy
-   Marino, Mark C
-   Mateas, Michael
-   Reas, Casey
-   Sample, Mark
-   Vawter, Noah
-** YEAR : 2012
+   Olivier Barreteaua and Christophe Le Pageb
 ** ABSTRACT
-
+   This position paper contributes to the debate on perspectives for simulating the
+   social processes of science through the specific angle of participatory
+   research. This new way of producing science is still in its infancy and needs
+   some step back and analysis, to understand what is taking place on the
+   boundaries between academic, policy and lay worlds. We argue that social
+   simulation of this practice of cooperation can help in understanding further
+   this new way of doing science, building on existing experience in simulation of
+   knowledge flows as well as pragmatic approaches in social sciences.
 ** Summary
-   Mentions George Brecht: Change Imagery.
-   Where two types of chance art: Processes that are
-   subconscious, and processes that are mechanical.
+*** Research Questions
 
-   Jean Hans Arp: "Data wished to destroy the reasonable frauds 
-   of men and recover the natural, unreasonable order. Dada wished to replace
-   the logical nonsense of the men of today with an illogical nonsense."
+*** Hypothesis tested
 
-   "Cage's method of random composition was to create a system of parameters and
-   then leave the results to circumstance."
+*** Methods
 
-   Mentions Charles Csuri's Random War (1967). Generates Two armies with names
-   of soldiers, and statues of dead, wounded or missing.
+*** Results
+
+*** Authors key findings
+
+*** Contributions [Faster/Cheaper/Better]
 
 ** What kind of text is it?
+
 ** What genre is the text?
 
 ** What is the critical context?

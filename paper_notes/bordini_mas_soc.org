@@ -1,37 +1,34 @@
-*  10 Print Randomness
-** Tags                    :mateas:analysis:software:code_studies:randomness:
-** Citation
-   Montfort
+*  MAS-SOC: a Social Simulation Platform Based on Agent-Oriented Programming
+  [[http://jasss.soc.surrey.ac.uk/8/3/7.html][Paper Link]]
+** Tags                                                                         :environment_modelling_language:cognitive_agents:platform:AOP:mas:
+** Citation:
+** YEAR : 2005
 ** AUTHORS
-   Montfort, Nick
-   Baudoin, Patsy
-   Bell, John
-   Bogost, Ian
-   Douglass, Jeremy
-   Marino, Mark C
-   Mateas, Michael
-   Reas, Casey
-   Sample, Mark
-   Vawter, Noah
-** YEAR : 2012
+   Rafael H. Bordini, Antônio Carlos da Rocha Costa, Jomi F. Hübner, Álvaro F. Moreira, Fabio Y. Okuyama and Renata Vieira
 ** ABSTRACT
-
+   This article gives an overview of our efforts in creating a platform for
+   multi-agent based social simulation building on recent progress in the area of
+   agent-oriented programming languages. The platform is called MAS-SOC, and the
+   approach to building multi-agent based simulations with it includes the use of
+   Jason, an interpreter for an extended version of AgentSpeak, and ELMS, a
+   language for modelling environments where cognitive agents are situated. This
+   article also mentions recent work on the use of ontologies in defining
+   environments with ELMS and illustrates the approach with a simple example.
 ** Summary
-   Mentions George Brecht: Change Imagery.
-   Where two types of chance art: Processes that are
-   subconscious, and processes that are mechanical.
+*** Research Questions
 
-   Jean Hans Arp: "Data wished to destroy the reasonable frauds 
-   of men and recover the natural, unreasonable order. Dada wished to replace
-   the logical nonsense of the men of today with an illogical nonsense."
+*** Hypothesis tested
 
-   "Cage's method of random composition was to create a system of parameters and
-   then leave the results to circumstance."
+*** Methods
 
-   Mentions Charles Csuri's Random War (1967). Generates Two armies with names
-   of soldiers, and statues of dead, wounded or missing.
+*** Results
+
+*** Authors key findings
+
+*** Contributions [Faster/Cheaper/Better]
 
 ** What kind of text is it?
+
 ** What genre is the text?
 
 ** What is the critical context?

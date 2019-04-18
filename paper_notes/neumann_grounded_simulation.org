@@ -1,12 +1,26 @@
-*  Title: Grounded Simulation
-** Tags :theoretical_coding:ontology:evidence_based_modeling:grounded_theory:
+*  Grounded Simulation
+  [[http://jasss.soc.surrey.ac.uk/18/1/9.html][Paper Link]]
+** Tags                                                                         :theoretical_coding:ontology:evidence_based_modeling:grounded_theory:
 ** Citation
    
 ** AUTHORS
    Martin Neumann
 ** YEAR : 2015
 ** ABSTRACT
-   
+   This paper investigates the contribution of evidence-based modelling to
+   grounded theory (GT). It is argued that evidence-based modelling provides
+   additional sources to truly arrive at a theory through the inductive process
+   of a Grounded Theory approach. This is shown by two examples. One example
+   concerns the development of software ontologies of criminal organisations.
+   The other example is a simulation model of escalation of ethno-nationalist
+   conflicts. The first example concerns early to middle stages of the research
+   process. The development of an ontology provides a tool for the process of
+   theoretical coding in a GT approach. The second example shows stylised facts
+   resulting from a simulation model of the escalation of ethno-nationalist
+   conflicts in the former Yugoslavia. These reveal mechanisms of nationalist
+   radicalisation. This provides additional credibility for the claim that
+   evidence-based modelling assists to inductively generate a theory in a GT
+   approach.
 ** Summary
 *** Research Questions
 

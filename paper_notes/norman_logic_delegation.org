@@ -1,37 +1,37 @@
-*  10 Print Randomness
-** Tags                    :mateas:analysis:software:code_studies:randomness:
-** Citation
-   Montfort
+*  A Logic of Delegation
+** Tags                                                                         :agent_communication:responsibility:imperatives:groups:delegation:logic:
+** Citation: Norman2010
+** YEAR : 2010
 ** AUTHORS
-   Montfort, Nick
-   Baudoin, Patsy
-   Bell, John
-   Bogost, Ian
-   Douglass, Jeremy
-   Marino, Mark C
-   Mateas, Michael
-   Reas, Casey
-   Sample, Mark
-   Vawter, Noah
-** YEAR : 2012
+   Timothy J. Norman
+   Chris Reed
 ** ABSTRACT
-
+   Delegation is a foundational concept for understanding and engineering systems
+   that interact and execute tasks autonomously. By extending recent work on tensed
+   action logic, it becomes possible to pin down a specific interpretation of
+   responsibility with a well specified semantics and a convenient and intuitive
+   logic for expression. Once descriptions of direct agent responsibility can be
+   formed, there is a foundation upon which to characterise the dynamics of how
+   responsibility can be acquired, transferred and discharged and, in particular,
+   how delegation can be effected. The resulting logic, designed specifically to
+   cater for responsibility and delegation, can then be employed to offer an
+   axiological and semantic exploration of the related concepts of forbearance,
+   imperatives and group communication.
 ** Summary
-   Mentions George Brecht: Change Imagery.
-   Where two types of chance art: Processes that are
-   subconscious, and processes that are mechanical.
+*** Research Questions
 
-   Jean Hans Arp: "Data wished to destroy the reasonable frauds 
-   of men and recover the natural, unreasonable order. Dada wished to replace
-   the logical nonsense of the men of today with an illogical nonsense."
+*** Hypothesis tested
 
-   "Cage's method of random composition was to create a system of parameters and
-   then leave the results to circumstance."
+*** Methods
 
-   Mentions Charles Csuri's Random War (1967). Generates Two armies with names
-   of soldiers, and statues of dead, wounded or missing.
+*** Results
+
+*** Authors key findings
+
+*** Contributions [Faster/Cheaper/Better]
 
 ** What kind of text is it?
+
 ** What genre is the text?
 
 ** What is the critical context?

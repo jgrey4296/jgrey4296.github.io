@@ -1,0 +1,86 @@
+*  Modelling social systems as complex: Towards a social simulation meta-model
+  [[http://jasss.soc.surrey.ac.uk/3/2/1.html][Paper Link]]
+** Tags                                                                         :ontology:meta_model:modelling:agents:cognition:social_simulation:autopoiesis:complex_systems:
+** Citation:
+** YEAR : 2000
+** AUTHORS
+   Chris Goldspink
+** ABSTRACT
+   There is growing interest in extending complex systems approaches to the social
+   sciences. This is apparent in the increasingly widespread literature and
+   journals that deal with the topic and is being facilitated by adoption of
+   multi-agent simulation in research. Much of this research uses simple agents to
+   explore limited aspects of social behaviour. Incorporation of higher order
+   capabilities such as cognition into agents has proven problematic. Influenced by
+   AI approaches, where cognitive capability has been sought, it has commonly been
+   attempted based on a 'representational' theory of cognition. This has proven
+   computationally expensive and difficult to implement. There would be some
+   benefit also in the development of a framework for social simulation research
+   which provides a consistent set of assumptions applicable in different fields
+   and which can be scaled to apply to simple and more complex simulation tasks.
+   This paper sets out, as a basis for discussion, a meta-model incorporating an
+   'enactive' model of cognition drawing on both complex system insights and the
+   theory of autopoiesis. It is intended to provide an ontology that avoids some of
+   the limitation of more traditional approaches and at the same time providing a
+   basis for simulation in a wide range of fields and pursuant of a wider range of
+   human behaviours.
+** Summary
+*** Research Questions
+
+*** Hypothesis tested
+
+*** Methods
+
+*** Results
+
+*** Authors key findings
+
+*** Contributions [Faster/Cheaper/Better]
+
+** What kind of text is it?
+
+** What genre is the text?
+
+** What is the critical context?
+
+** What is the intended audience?
+
+** What is your purpose in reading?
+
+** What are you meant to get out of the text?
+*** Are you supposed to get the gist, or details?
+
+*** Are you meant to close read the language of the text?
+
+*** Are you meant to apply or relate the text to something else?
+
+*** Are you supposed to engage with (agree, disagree, tweak, nuance) the text?
+
+** What it says / What it does
+   For each chapter/section/subsection/paragraph
+*** What it Says: Stated or implied topic
+
+*** What it Does: Function within the reading
+    Evidence for claim, summarize opposing view, data, analogy etc.
+
+** Double Entry
+*** Represent the text in your own words. Restate the argument.
+
+*** Respond to the text.
+    Analyse, relate, question, believe, doubt, refute, go beyond.
+
+** Believe / Doubt
+   Read with opposing views.
+*** Believing - Read generously
+
+*** Doubting  - Read critically
+
+** Reverse Outline
+   Organise text hierarchically by function
+
+** Freewrite argumentative response
+*** Before I read this text, the author assumed I knew and believed X
+
+*** After I Read this text, the author wanted me to think and believe that Y
+
+*** The Author was (not) successful in changing my views. How so, and why.

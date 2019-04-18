@@ -1,28 +1,23 @@
-*  MAIA: A Framwork for Developing Agent-Based Social Simulations
-  [[http://jasss.soc.surrey.ac.uk/16/2/9.html][Paper Link]]
-** Tags        :meta_model:institutions:MAIA:MAS:agents:social_science:jasss:
-** Citation
+*  Leadership in Small Societies
+  [[http://jasss.soc.surrey.ac.uk/13/3/5.html][Paper Link]]
+** Tags                                                                         :norms:pacific_island_societies:reciprocity:leadership:
+** Citation:
+** YEAR : 2010
 ** AUTHORS
-   Amineh Ghorbani
-   Pieter Bots
-   Virginia Dignum
-   Gerard Dijkema
-** YEAR : 2013
+   Stephen Younger
 ** ABSTRACT
-   In this paper we introduce and motivate a conceptualization framework for
-   agent-based social simulation, MAIA: Modelling Agent systems based on
-   Institutional Analysis. The MAIA framework is based on Ostrom's Institutional
-   Analysis and Development framework, and provides an extensive set of modelling
-   concepts that is rich enough to capture a large range of complex social
-   phenomena. Developing advanced agent-based models requires substantial
-   experience and knowledge of software development knowledge and skills. MAIA has
-   been developed to help modellers who are unfamiliar with software development to
-   conceptualize and implement agent-based models. It provides the foundation for a
-   conceptualization procedure that guides modellers to adequately capture,
-   analyse, and understand the domain of application, and helps them report
-   explicitly on the motivations behind modelling choices. A web-based application
-   supports conceptualization with MAIA, and outputs an XML file which is used to
-   generate Java code for an executable simulation.
+   Multi-agent simulation was used to study several styles of leadership in small
+   societies. Populations of 50 and100 agents inhabited a bounded landscape
+   containing a fixed number of food sources. Agents moved about the landscape in
+   search of food, mated, produced offspring, and died either of hunger or at a
+   predetermined maximum age. Leadership models focused on the collection and
+   redistribution of food. The simulations suggest that individual households were
+   more effective at meeting their needs than a simple collection-redistribution
+   scheme. Leadership affected the normative makeup of the population: altruistic
+   leaders caused altruistic societies and demanding leaders caused aggressive
+   societies. Specific leadership styles did not provide a clear advantage when two
+   groups competed for the same resources. The simulation results are compared to
+   ethnographic observations of leadership in Pacific island societies.
 ** Summary
 *** Research Questions
 

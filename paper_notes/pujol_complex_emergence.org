@@ -1,28 +1,21 @@
-*  MAIA: A Framwork for Developing Agent-Based Social Simulations
-  [[http://jasss.soc.surrey.ac.uk/16/2/9.html][Paper Link]]
-** Tags        :meta_model:institutions:MAIA:MAS:agents:social_science:jasss:
-** Citation
+*  How Can Social Networks Ever Become Complex? Modelling the Emergence of Complex Networks from Local Social Exchanges
+  [[http://jasss.soc.surrey.ac.uk/8/4/12.html][Paper Link]]
+** Tags                                                                         :structural_emergence:social_exchange_theory:abm:small_world:scale_free:power_law:complex_networks:
+** Citation:
+** YEAR : 2005
 ** AUTHORS
-   Amineh Ghorbani
-   Pieter Bots
-   Virginia Dignum
-   Gerard Dijkema
-** YEAR : 2013
+   Josep M. Pujol, Andreas Flache, Jordi Delgado and Ramon Sangüesa
 ** ABSTRACT
-   In this paper we introduce and motivate a conceptualization framework for
-   agent-based social simulation, MAIA: Modelling Agent systems based on
-   Institutional Analysis. The MAIA framework is based on Ostrom's Institutional
-   Analysis and Development framework, and provides an extensive set of modelling
-   concepts that is rich enough to capture a large range of complex social
-   phenomena. Developing advanced agent-based models requires substantial
-   experience and knowledge of software development knowledge and skills. MAIA has
-   been developed to help modellers who are unfamiliar with software development to
-   conceptualize and implement agent-based models. It provides the foundation for a
-   conceptualization procedure that guides modellers to adequately capture,
-   analyse, and understand the domain of application, and helps them report
-   explicitly on the motivations behind modelling choices. A web-based application
-   supports conceptualization with MAIA, and outputs an XML file which is used to
-   generate Java code for an executable simulation.
+   Small-world and power-law network structures have been prominently proposed as
+   models of large networks. However, the assumptions of these models usually lack
+   sociological grounding. We present a computational model grounded in social
+   exchange theory. Agents search attractive exchange partners in a diverse
+   population. Agent use simple decision heuristics, based on imperfect, local
+   information. Computer simulations show that the topological structure of the
+   emergent social network depends heavily upon two sets of conditions, harshness
+   of the exchange game and learning capacities of the agents. Further analysis
+   show that a combination of these conditions affects whether star-like,
+   small-world or power-law structures emerge.
 ** Summary
 *** Research Questions
 

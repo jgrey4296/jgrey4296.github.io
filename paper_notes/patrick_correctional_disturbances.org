@@ -1,28 +1,23 @@
-*  MAIA: A Framwork for Developing Agent-Based Social Simulations
-  [[http://jasss.soc.surrey.ac.uk/16/2/9.html][Paper Link]]
-** Tags        :meta_model:institutions:MAIA:MAS:agents:social_science:jasss:
-** Citation
+*  Simulating Correctional Disturbances: The Application of Organization Control Theory to Correctional Organizations via Computer Simulation
+  [[http://jasss.soc.surrey.ac.uk/2/1/1.html][Paper Link]]
+** Tags                                                                         :general_systems_theory:deterministic_systems:organizational_control:prison_riots:prison_management:simulation:
+** Citation:
+** YEAR : 1999
 ** AUTHORS
-   Amineh Ghorbani
-   Pieter Bots
-   Virginia Dignum
-   Gerard Dijkema
-** YEAR : 2013
+   Steven Patrick, Patricia M. Dorman and Robert L. Marsh
 ** ABSTRACT
-   In this paper we introduce and motivate a conceptualization framework for
-   agent-based social simulation, MAIA: Modelling Agent systems based on
-   Institutional Analysis. The MAIA framework is based on Ostrom's Institutional
-   Analysis and Development framework, and provides an extensive set of modelling
-   concepts that is rich enough to capture a large range of complex social
-   phenomena. Developing advanced agent-based models requires substantial
-   experience and knowledge of software development knowledge and skills. MAIA has
-   been developed to help modellers who are unfamiliar with software development to
-   conceptualize and implement agent-based models. It provides the foundation for a
-   conceptualization procedure that guides modellers to adequately capture,
-   analyse, and understand the domain of application, and helps them report
-   explicitly on the motivations behind modelling choices. A web-based application
-   supports conceptualization with MAIA, and outputs an XML file which is used to
-   generate Java code for an executable simulation.
+   Inmate group behavior is a complex phenomenon that many researchers have
+   attempted to understand. Most of the individual theories applied to this issue
+   have had limited success. This work uses computer simulation to apply a complex
+   theory of organizational control to the issue of inmate group behavior that
+   incorporates all the major theoretical components found in the individual
+   theories. The complete theory is first presented and then basic simulation
+   results are discussed. The findings show that the simulated theory produced
+   results that are empirically realistic. The control processes used by prisons
+   generally produce compliance from inmates but these same control processes
+   result in episodic periods of negative inmate group behavior. These initial
+   results point to the promise of computer simulation for understanding complex
+   control issues in ways simpler theories cannot.
 ** Summary
 *** Research Questions
 

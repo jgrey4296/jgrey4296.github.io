@@ -1,28 +1,24 @@
-*  MAIA: A Framwork for Developing Agent-Based Social Simulations
-  [[http://jasss.soc.surrey.ac.uk/16/2/9.html][Paper Link]]
-** Tags        :meta_model:institutions:MAIA:MAS:agents:social_science:jasss:
-** Citation
+*  An Agent-Based Representation of the Garbage Can Model of Organizational Choice
+  [[http://jasss.soc.surrey.ac.uk/11/1/1.html][Paper Link]]
+** Tags                                                                         :abm:garbage_can_model:organization_theory:
+** Citation:
+** YEAR : 2008
 ** AUTHORS
-   Amineh Ghorbani
-   Pieter Bots
-   Virginia Dignum
-   Gerard Dijkema
-** YEAR : 2013
+   Guido Fioretti and Alessandro Lomi
 ** ABSTRACT
-   In this paper we introduce and motivate a conceptualization framework for
-   agent-based social simulation, MAIA: Modelling Agent systems based on
-   Institutional Analysis. The MAIA framework is based on Ostrom's Institutional
-   Analysis and Development framework, and provides an extensive set of modelling
-   concepts that is rich enough to capture a large range of complex social
-   phenomena. Developing advanced agent-based models requires substantial
-   experience and knowledge of software development knowledge and skills. MAIA has
-   been developed to help modellers who are unfamiliar with software development to
-   conceptualize and implement agent-based models. It provides the foundation for a
-   conceptualization procedure that guides modellers to adequately capture,
-   analyse, and understand the domain of application, and helps them report
-   explicitly on the motivations behind modelling choices. A web-based application
-   supports conceptualization with MAIA, and outputs an XML file which is used to
-   generate Java code for an executable simulation.
+    Cohen, March and Olsen's Garbage Can Model (GCM) of organizational choice
+    represent perhaps the first — and remains by far the most influential —
+    agent-based representation of organizational decision processes. According
+    to the GCM organizations are conceptualized as crossroads of time-dependent
+    flows of four distinct classes of objects: 'participants,' 'opportunities,'
+    'solutions' and 'problems.' Collisions among the different objects generate
+    events called 'decisions.' In this paper we use NetLogo to build an explicit
+    agent-based representation of the original GCM. We conduct a series of
+    simulation experiments to validate and extend some of the most interesting
+    conclusions of the GCM. We show that our representation is able to reproduce
+    a number of properties of the original model. Yet, unlike the original
+    model, in our representation these properties are not encoded explicitly,
+    but emerge from general principles of the Garbage Can decision processes.
 ** Summary
 *** Research Questions
 

@@ -1,0 +1,85 @@
+*  Governments, Civilians, and the Evolution of Insurgency: Modeling the Early Dynamics of Insurgencies
+  [[http://jasss.soc.surrey.ac.uk/11/4/7.html][Paper Link]]
+** Tags                                                                         :civil_war:dynamics:insurgency:abm:
+** Citation:
+** YEAR : 2008
+** AUTHORS
+   D. Scott Bennett
+** ABSTRACT
+   This paper models the early dynamics of insurgency using an agent-based computer
+   simulation of civilians, insurgents, and soldiers. In the simulation, insurgents
+   choose to attack government forces, which then strike back. Such government
+   counterattacks may result in the capture or killing of insurgents, may make
+   nearby civilians afraid to become insurgents, but may also increase the anger of
+   surrounding civilians if there is significant collateral damage. If civilians
+   become angry enough, they become new insurgents. I simulate the dynamics of
+   these interactions, focusing on the effectiveness of government forces at
+   capturing insurgents vs. their accuracy in avoiding collateral damage. The
+   simulations suggest that accuracy (avoidance of collateral damage) is more
+   important for the long-term defeat of insurgency than is effectiveness at
+   capturing insurgents in any given counterattack. There also may be a critical
+   'tipping point' for accuracy below which the length of insurgencies increases
+   dramatically. The dynamics of how insurgencies grow or decline in response to
+   various combinations of government accuracy and effectiveness illustrate the
+   tradeoffs faced by governments in dealing with the early stages of an
+   insurgency.
+** Summary
+*** Research Questions
+
+*** Hypothesis tested
+
+*** Methods
+
+*** Results
+
+*** Authors key findings
+
+*** Contributions [Faster/Cheaper/Better]
+
+** What kind of text is it?
+
+** What genre is the text?
+
+** What is the critical context?
+
+** What is the intended audience?
+
+** What is your purpose in reading?
+
+** What are you meant to get out of the text?
+*** Are you supposed to get the gist, or details?
+
+*** Are you meant to close read the language of the text?
+
+*** Are you meant to apply or relate the text to something else?
+
+*** Are you supposed to engage with (agree, disagree, tweak, nuance) the text?
+
+** What it says / What it does
+   For each chapter/section/subsection/paragraph
+*** What it Says: Stated or implied topic
+
+*** What it Does: Function within the reading
+    Evidence for claim, summarize opposing view, data, analogy etc.
+
+** Double Entry
+*** Represent the text in your own words. Restate the argument.
+
+*** Respond to the text.
+    Analyse, relate, question, believe, doubt, refute, go beyond.
+
+** Believe / Doubt
+   Read with opposing views.
+*** Believing - Read generously
+
+*** Doubting  - Read critically
+
+** Reverse Outline
+   Organise text hierarchically by function
+
+** Freewrite argumentative response
+*** Before I read this text, the author assumed I knew and believed X
+
+*** After I Read this text, the author wanted me to think and believe that Y
+
+*** The Author was (not) successful in changing my views. How so, and why.

@@ -1,28 +1,29 @@
-*  MAIA: A Framwork for Developing Agent-Based Social Simulations
-  [[http://jasss.soc.surrey.ac.uk/16/2/9.html][Paper Link]]
-** Tags        :meta_model:institutions:MAIA:MAS:agents:social_science:jasss:
-** Citation
+*  From Social Monitoring to Normative Influence
+  [[http://jasss.soc.surrey.ac.uk/4/2/7.html][Paper Link]]
+** Tags                                                                         :social_contagion:social_control:imitation:mas:norms:
+** Citation:
+** YEAR : 2001
 ** AUTHORS
-   Amineh Ghorbani
-   Pieter Bots
-   Virginia Dignum
-   Gerard Dijkema
-** YEAR : 2013
+   Rosaria Conte and Frank Dignum
 ** ABSTRACT
-   In this paper we introduce and motivate a conceptualization framework for
-   agent-based social simulation, MAIA: Modelling Agent systems based on
-   Institutional Analysis. The MAIA framework is based on Ostrom's Institutional
-   Analysis and Development framework, and provides an extensive set of modelling
-   concepts that is rich enough to capture a large range of complex social
-   phenomena. Developing advanced agent-based models requires substantial
-   experience and knowledge of software development knowledge and skills. MAIA has
-   been developed to help modellers who are unfamiliar with software development to
-   conceptualize and implement agent-based models. It provides the foundation for a
-   conceptualization procedure that guides modellers to adequately capture,
-   analyse, and understand the domain of application, and helps them report
-   explicitly on the motivations behind modelling choices. A web-based application
-   supports conceptualization with MAIA, and outputs an XML file which is used to
-   generate Java code for an executable simulation.
+   This paper is intended to analyse the concepts involved in the phenomena of
+   social monitoring and norm-based social influence for systems of normative
+   agents. These are here defined as deliberative agents, representing norms and
+   deciding upon them. Normative agents can use the norms to evaluate others'
+   behaviours and, possibly, convince them to comply with norms. Normative
+   agents contribute to the social dynamics of norms, and more specifically, of
+   norm-based social control and influence. In fact, normative intelligence
+   allows agents to
+
+   Check the efficacy of the norms (the extent to which a norm is applied in the
+   system in which it is in force), and possibly Urge their fellows to obey the
+   norms.
+
+   The following issues are addressed:
+
+   What is norm-based control?
+   Why and how do agents exercise control on one another?
+   What role does it play in the spread of norms?
 ** Summary
 *** Research Questions
 

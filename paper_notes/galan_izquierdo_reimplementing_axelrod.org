@@ -1,37 +1,35 @@
-*  10 Print Randomness
-** Tags                    :mateas:analysis:software:code_studies:randomness:
-** Citation
-   Montfort
+* Appearances Can Be Deceiving: Lessons Learned Re-Implementing Axelrod's 'Evolutionary Approach to Norms'
+  [[http://jasss.soc.surrey.ac.uk/8/3/2.html][Paper Link]]
+** Tags                                                                         :metanorms:norms:social_dilemmas:evo_game_theory:abm:replication:
+** Citation:
+** YEAR : 2005
 ** AUTHORS
-   Montfort, Nick
-   Baudoin, Patsy
-   Bell, John
-   Bogost, Ian
-   Douglass, Jeremy
-   Marino, Mark C
-   Mateas, Michael
-   Reas, Casey
-   Sample, Mark
-   Vawter, Noah
-** YEAR : 2012
+   Jose Manuel Galan and Luis R. Izquierdo
 ** ABSTRACT
-
+    In this paper we try to replicate the simulation results reported by Axelrod
+    (1986) in an influential paper on the evolution of social norms. Our study
+    shows that Axelrod's results are not as reliable as one would desire. We can
+    obtain the opposite results by running the model for longer, by slightly
+    modifying some of the parameters, or by changing some arbitrary assumptions
+    in the model. This re-implementation exercise illustrates the importance of
+    running stochastic simulations several times for many periods, exploring the
+    parameter space adequately, complementing simulation with analytical work,
+    and being aware of the scope of our simulation models.
 ** Summary
-   Mentions George Brecht: Change Imagery.
-   Where two types of chance art: Processes that are
-   subconscious, and processes that are mechanical.
+*** Research Questions
 
-   Jean Hans Arp: "Data wished to destroy the reasonable frauds 
-   of men and recover the natural, unreasonable order. Dada wished to replace
-   the logical nonsense of the men of today with an illogical nonsense."
+*** Hypothesis tested
 
-   "Cage's method of random composition was to create a system of parameters and
-   then leave the results to circumstance."
+*** Methods
 
-   Mentions Charles Csuri's Random War (1967). Generates Two armies with names
-   of soldiers, and statues of dead, wounded or missing.
+*** Results
+
+*** Authors key findings
+
+*** Contributions [Faster/Cheaper/Better]
 
 ** What kind of text is it?
+
 ** What genre is the text?
 
 ** What is the critical context?

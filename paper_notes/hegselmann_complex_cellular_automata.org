@@ -1,37 +1,32 @@
-*  10 Print Randomness
-** Tags                    :mateas:analysis:software:code_studies:randomness:
-** Citation
-   Montfort
+*  Understanding Complex Social Dynamics: A Plea For Cellular Automata Based Modelling
+  [[http://jasss.soc.surrey.ac.uk/1/3/1.html][Paper Link]]
+** Tags                                                                         :modelling:social_dynamics:cellular_automata:
+** Citation:
+** YEAR : 1998
 ** AUTHORS
-   Montfort, Nick
-   Baudoin, Patsy
-   Bell, John
-   Bogost, Ian
-   Douglass, Jeremy
-   Marino, Mark C
-   Mateas, Michael
-   Reas, Casey
-   Sample, Mark
-   Vawter, Noah
-** YEAR : 2012
+   Rainer Hegselmann and Andreas Flache
 ** ABSTRACT
-
+   The article argues that using cellular automata (CA) is a promising modelling
+   approach to understand social dynamics. The first section introduces and
+   illustrates the concept of CA. Section 2 gives a short history of CA in the
+   social sciences. Section 3 describes and analyses a more complicated model of
+   evolving support networks. The final section summarises the advantages of the CA
+   approach.
 ** Summary
-   Mentions George Brecht: Change Imagery.
-   Where two types of chance art: Processes that are
-   subconscious, and processes that are mechanical.
+*** Research Questions
 
-   Jean Hans Arp: "Data wished to destroy the reasonable frauds 
-   of men and recover the natural, unreasonable order. Dada wished to replace
-   the logical nonsense of the men of today with an illogical nonsense."
+*** Hypothesis tested
 
-   "Cage's method of random composition was to create a system of parameters and
-   then leave the results to circumstance."
+*** Methods
 
-   Mentions Charles Csuri's Random War (1967). Generates Two armies with names
-   of soldiers, and statues of dead, wounded or missing.
+*** Results
+
+*** Authors key findings
+
+*** Contributions [Faster/Cheaper/Better]
 
 ** What kind of text is it?
+
 ** What genre is the text?
 
 ** What is the critical context?

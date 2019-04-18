@@ -1,0 +1,84 @@
+*  Social Reputation: a Mechanism for Flexible Self-Regulation of Multiagent Systems
+  [[http://jasss.soc.surrey.ac.uk/10/1/2.html][Paper Link]]
+** Tags                                                                         :MAS:self_regulation:electronic_market:institution:reputation:
+** Citation:
+** YEAR : 2007
+** AUTHORS
+   Christian Hahn, Bettina Fley, Michael Florian, Daniela Spresny and Klaus Fischer
+** ABSTRACT
+   In this paper, we use multiagent technology for social simulation of
+   sociological micro-macro issues in the domain of electronic marketplaces. We
+   argue that allowing self-interested agents to enable social reputation as a
+   mechanism for flexible self-regulation during runtime can improve the
+   robustness and 'social order' of multiagent systems to cope with various
+   perturbations that arise when simulating open markets (e.g. dynamic
+   modifications of task profiles, scaling of agent populations, agent drop-outs,
+   deviant behaviour). Referring to the sociological theory of Pierre Bourdieu, we
+   provide a multi-level concept of reputation that consists of three different
+   types (image, social esteem, and prestige) and considers reputation as a kind
+   of 'symbolic capital'. Reputation is regarded to be objectified as an
+   observable property and to be incorporated into the agents' mental structures
+   through social practices of communication on different aggregation levels of
+   sociality. We present and analyse selected results of our social simulations
+   and discuss the importance of reputation with regard to the robustness of
+   multiagent simulations of electronic markets.
+** Summary
+*** Research Questions
+
+*** Hypothesis tested
+
+*** Methods
+
+*** Results
+
+*** Authors key findings
+
+*** Contributions [Faster/Cheaper/Better]
+
+** What kind of text is it?
+
+** What genre is the text?
+
+** What is the critical context?
+
+** What is the intended audience?
+
+** What is your purpose in reading?
+
+** What are you meant to get out of the text?
+*** Are you supposed to get the gist, or details?
+
+*** Are you meant to close read the language of the text?
+
+*** Are you meant to apply or relate the text to something else?
+
+*** Are you supposed to engage with (agree, disagree, tweak, nuance) the text?
+
+** What it says / What it does
+   For each chapter/section/subsection/paragraph
+*** What it Says: Stated or implied topic
+
+*** What it Does: Function within the reading
+    Evidence for claim, summarize opposing view, data, analogy etc.
+
+** Double Entry
+*** Represent the text in your own words. Restate the argument.
+
+*** Respond to the text.
+    Analyse, relate, question, believe, doubt, refute, go beyond.
+
+** Believe / Doubt
+   Read with opposing views.
+*** Believing - Read generously
+
+*** Doubting  - Read critically
+
+** Reverse Outline
+   Organise text hierarchically by function
+
+** Freewrite argumentative response
+*** Before I read this text, the author assumed I knew and believed X
+
+*** After I Read this text, the author wanted me to think and believe that Y
+
+*** The Author was (not) successful in changing my views. How so, and why.

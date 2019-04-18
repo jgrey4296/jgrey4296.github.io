@@ -1,37 +1,31 @@
-*  10 Print Randomness
-** Tags                    :mateas:analysis:software:code_studies:randomness:
-** Citation
-   Montfort
+* Using Qualitative Evidence to Inform the Specification of Agent-Based Models 
+  [[http://jasss.soc.surrey.ac.uk/18/1/18.html][Paper]]
+** Tags                                                                         :formal:quantitative:specification:narrative:evidence:qualitative:
+** Citation:
+** YEAR : 2015
 ** AUTHORS
-   Montfort, Nick
-   Baudoin, Patsy
-   Bell, John
-   Bogost, Ian
-   Douglass, Jeremy
-   Marino, Mark C
-   Mateas, Michael
-   Reas, Casey
-   Sample, Mark
-   Vawter, Noah
-** YEAR : 2012
+   Bruce Edmonds
 ** ABSTRACT
-
+   This is an introduction to the special section of JASSS on the above topic.
+   It argues for the importance of qualitative evidence in social science, and
+   particularly in the specification of agent-based models. It ends by
+   suggesting some criteria for judging methods for using qualitative evidence
+   for this purpose.
 ** Summary
-   Mentions George Brecht: Change Imagery.
-   Where two types of chance art: Processes that are
-   subconscious, and processes that are mechanical.
+*** Research Questions
 
-   Jean Hans Arp: "Data wished to destroy the reasonable frauds 
-   of men and recover the natural, unreasonable order. Dada wished to replace
-   the logical nonsense of the men of today with an illogical nonsense."
+*** Hypothesis tested
 
-   "Cage's method of random composition was to create a system of parameters and
-   then leave the results to circumstance."
+*** Methods
 
-   Mentions Charles Csuri's Random War (1967). Generates Two armies with names
-   of soldiers, and statues of dead, wounded or missing.
+*** Results
+
+*** Authors key findings
+
+*** Contributions [Faster/Cheaper/Better]
 
 ** What kind of text is it?
+
 ** What genre is the text?
 
 ** What is the critical context?

@@ -1,28 +1,24 @@
-*  MAIA: A Framwork for Developing Agent-Based Social Simulations
-  [[http://jasss.soc.surrey.ac.uk/16/2/9.html][Paper Link]]
-** Tags        :meta_model:institutions:MAIA:MAS:agents:social_science:jasss:
-** Citation
+*  Emergence and Collapse of the Norm of Resource Sharing Around Locally Abundant Resources
+  [[http://jasss.soc.surrey.ac.uk/18/4/7.html][Paper Link]]
+** Tags                                                                         :hawk_dove_bourgeouis_game:norms:resources:abm:
+** Citation:
+** YEAR : 2015
 ** AUTHORS
-   Amineh Ghorbani
-   Pieter Bots
-   Virginia Dignum
-   Gerard Dijkema
-** YEAR : 2013
+   Shiro Horiuchi
 ** ABSTRACT
-   In this paper we introduce and motivate a conceptualization framework for
-   agent-based social simulation, MAIA: Modelling Agent systems based on
-   Institutional Analysis. The MAIA framework is based on Ostrom's Institutional
-   Analysis and Development framework, and provides an extensive set of modelling
-   concepts that is rich enough to capture a large range of complex social
-   phenomena. Developing advanced agent-based models requires substantial
-   experience and knowledge of software development knowledge and skills. MAIA has
-   been developed to help modellers who are unfamiliar with software development to
-   conceptualize and implement agent-based models. It provides the foundation for a
-   conceptualization procedure that guides modellers to adequately capture,
-   analyse, and understand the domain of application, and helps them report
-   explicitly on the motivations behind modelling choices. A web-based application
-   supports conceptualization with MAIA, and outputs an XML file which is used to
-   generate Java code for an executable simulation.
+   How do individuals resolve conflicts over resources? One way is to share
+   resources, which is possible between known individuals, with the use of
+   sanctions on free riders or by partner selection. Another way is for anonymous
+   individuals to respect the finders' ownership of resources based on asymmetry
+   and avoid conflicts over resources. This study elucidates the conditions under
+   which anonymous individuals share resources with each other irrespective of
+   their asymmetry with regard to resources. High resource values inhibit anonymous
+   individuals from sharing resources; however, small cumulative values and local
+   distributions let anonymous individuals share the resources. Punishment of the
+   richest individuals also supports resource sharing. These conditions may
+   represent resource sharing among anonymous individuals in periods of great
+   disasters and may be the origin of the practice of exchange in prehistoric
+   times.
 ** Summary
 *** Research Questions
 

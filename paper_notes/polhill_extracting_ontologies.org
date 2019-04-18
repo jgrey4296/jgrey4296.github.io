@@ -1,28 +1,23 @@
-*  MAIA: A Framwork for Developing Agent-Based Social Simulations
-  [[http://jasss.soc.surrey.ac.uk/16/2/9.html][Paper Link]]
-** Tags        :meta_model:institutions:MAIA:MAS:agents:social_science:jasss:
-** Citation
+*  Extracting OWL Ontologies from Agent-Based Models: A Netlogo Extension
+  [[http://jasss.soc.surrey.ac.uk/18/2/15.html][Paper Link]]
+** Tags                                                                         :netlogo:OWL_API:OWL:transparency:ontology:
+** Citation:
+** YEAR : 2015
 ** AUTHORS
-   Amineh Ghorbani
-   Pieter Bots
-   Virginia Dignum
-   Gerard Dijkema
-** YEAR : 2013
+   Gary Polhill
 ** ABSTRACT
-   In this paper we introduce and motivate a conceptualization framework for
-   agent-based social simulation, MAIA: Modelling Agent systems based on
-   Institutional Analysis. The MAIA framework is based on Ostrom's Institutional
-   Analysis and Development framework, and provides an extensive set of modelling
-   concepts that is rich enough to capture a large range of complex social
-   phenomena. Developing advanced agent-based models requires substantial
-   experience and knowledge of software development knowledge and skills. MAIA has
-   been developed to help modellers who are unfamiliar with software development to
-   conceptualize and implement agent-based models. It provides the foundation for a
-   conceptualization procedure that guides modellers to adequately capture,
-   analyse, and understand the domain of application, and helps them report
-   explicitly on the motivations behind modelling choices. A web-based application
-   supports conceptualization with MAIA, and outputs an XML file which is used to
-   generate Java code for an executable simulation.
+   Using OWL ontologies to represent the state and structure of a simulation at any
+   one time has been argued to improve the transparency of a social simulation, on
+   the basis that this information is then not embedded in the source code of the
+   model, or in the computer's memory at run-time. Should transparency of such a
+   form be desirable, it would be preferable to enable it by extracting the
+   information automatically from a running model. However, semantic differences
+   between traditional object-oriented programming languages and description logics
+   pose an obstacle to this. This paper presents arguments that Netlogo does not
+   have the same semantic challenges to automated ontology extraction, and
+   describes an extension to Netlogo (5.0) using the OWL-API (3.1.0) that extracts
+   state and structure ontologies from an existing Netlogo model. The extension is
+   freely available from https://github.com/garypolhill/netlogo-owl.
 ** Summary
 *** Research Questions
 

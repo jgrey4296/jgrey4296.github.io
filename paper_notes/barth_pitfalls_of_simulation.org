@@ -1,37 +1,34 @@
-*  10 Print Randomness
-** Tags                    :mateas:analysis:software:code_studies:randomness:
-** Citation
-   Montfort
-** AUTHORS
-   Montfort, Nick
-   Baudoin, Patsy
-   Bell, John
-   Bogost, Ian
-   Douglass, Jeremy
-   Marino, Mark C
-   Mateas, Michael
-   Reas, Casey
-   Sample, Mark
-   Vawter, Noah
+*   Typical Pitfalls of Simulation Modeling - Lessons Learned from Armed Forces and Business
+  [[http://jasss.soc.surrey.ac.uk/15/2/5.html][Paper Link]]
+** Tags                                                                         :simulation:pitfalls:military:methodology:management:logic_of_failure:
+** Citation:
 ** YEAR : 2012
+** AUTHORS
+   Rolf Bartha, Matthias Meyerb and Jan Spitznerc
 ** ABSTRACT
-
+   This paper identifies possible pitfalls of simulation modeling and suggests ways
+   to prevent them. First, we specify five typical pitfalls that are associated
+   with the process of applying simulation models and characterize the "logic of
+   failure" (Dörner 1996) behind the pitfalls. Then, we illustrate important
+   aspects of these pitfalls using examples from applying simulation modeling to
+   military and managerial decision making and present possible solutions to them.
+   Finally, we discuss how our suggestions for avoiding them relate to current
+   methodological discussions found in the social simulation community.
 ** Summary
-   Mentions George Brecht: Change Imagery.
-   Where two types of chance art: Processes that are
-   subconscious, and processes that are mechanical.
+*** Research Questions
 
-   Jean Hans Arp: "Data wished to destroy the reasonable frauds 
-   of men and recover the natural, unreasonable order. Dada wished to replace
-   the logical nonsense of the men of today with an illogical nonsense."
+*** Hypothesis tested
 
-   "Cage's method of random composition was to create a system of parameters and
-   then leave the results to circumstance."
+*** Methods
 
-   Mentions Charles Csuri's Random War (1967). Generates Two armies with names
-   of soldiers, and statues of dead, wounded or missing.
+*** Results
+
+*** Authors key findings
+
+*** Contributions [Faster/Cheaper/Better]
 
 ** What kind of text is it?
+
 ** What genre is the text?
 
 ** What is the critical context?

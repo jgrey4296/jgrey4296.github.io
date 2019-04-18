@@ -1,28 +1,24 @@
-*  MAIA: A Framwork for Developing Agent-Based Social Simulations
-  [[http://jasss.soc.surrey.ac.uk/16/2/9.html][Paper Link]]
-** Tags        :meta_model:institutions:MAIA:MAS:agents:social_science:jasss:
-** Citation
+*  Explaining Simulations Through Self Explaining Agents
+  [[http://jasss.soc.surrey.ac.uk/13/1/4.html][Paper Link]]
+** Tags                                                                         :virtual_training:goal_based_behavior:agents:explaination:
+** Citation:
+** YEAR : 2010
 ** AUTHORS
-   Amineh Ghorbani
-   Pieter Bots
-   Virginia Dignum
-   Gerard Dijkema
-** YEAR : 2013
+   Maaike Harbersa, John-Jules Meyera and Karel van den Boschb
 ** ABSTRACT
-   In this paper we introduce and motivate a conceptualization framework for
-   agent-based social simulation, MAIA: Modelling Agent systems based on
-   Institutional Analysis. The MAIA framework is based on Ostrom's Institutional
-   Analysis and Development framework, and provides an extensive set of modelling
-   concepts that is rich enough to capture a large range of complex social
-   phenomena. Developing advanced agent-based models requires substantial
-   experience and knowledge of software development knowledge and skills. MAIA has
-   been developed to help modellers who are unfamiliar with software development to
-   conceptualize and implement agent-based models. It provides the foundation for a
-   conceptualization procedure that guides modellers to adequately capture,
-   analyse, and understand the domain of application, and helps them report
-   explicitly on the motivations behind modelling choices. A web-based application
-   supports conceptualization with MAIA, and outputs an XML file which is used to
-   generate Java code for an executable simulation.
+   Several strategies are used to explain emergent interaction patterns in
+   agent-based simulations. A distinction can be made between simulations in which
+   the agents just behave in a reactive way, and simulations involving agents with
+   also pro-active (goal-directed) behavior. Pro-active behavior is more variable
+   and harder to predict than reactive behavior, and therefore it might be harder
+   to explain. However, the approach presented in this paper tries to make
+   advantage of the agents' pro-activeness by using it to explain their behavior.
+   The aggregation of the agents' explanations form a basis for explaining the
+   simulation as a whole. In this paper, an agent model that is able to generate
+   (pro-active) behavior and explanations about that behavior is introduced, and
+   the implementation of the model is discussed. Examples show how the link between
+   behavior generation and explanation in the model can contribute to the
+   explanation of a simulation.
 ** Summary
 *** Research Questions
 

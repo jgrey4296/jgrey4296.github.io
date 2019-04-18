@@ -1,28 +1,23 @@
-*  MAIA: A Framwork for Developing Agent-Based Social Simulations
-  [[http://jasss.soc.surrey.ac.uk/16/2/9.html][Paper Link]]
-** Tags        :meta_model:institutions:MAIA:MAS:agents:social_science:jasss:
-** Citation
+*  Tools of the Trade: A Survey of Various Agent Based Modeling Platforms 
+  [[http://jasss.soc.surrey.ac.uk/12/2/2.html][Paper Link]]
+** Tags                                                                         :survey:MAS:ABM:
+** Citation:
+** YEAR : 2009
 ** AUTHORS
-   Amineh Ghorbani
-   Pieter Bots
-   Virginia Dignum
-   Gerard Dijkema
-** YEAR : 2013
+   Cynthia Nikolai and Gregory Madey
 ** ABSTRACT
-   In this paper we introduce and motivate a conceptualization framework for
-   agent-based social simulation, MAIA: Modelling Agent systems based on
-   Institutional Analysis. The MAIA framework is based on Ostrom's Institutional
-   Analysis and Development framework, and provides an extensive set of modelling
-   concepts that is rich enough to capture a large range of complex social
-   phenomena. Developing advanced agent-based models requires substantial
-   experience and knowledge of software development knowledge and skills. MAIA has
-   been developed to help modellers who are unfamiliar with software development to
-   conceptualize and implement agent-based models. It provides the foundation for a
-   conceptualization procedure that guides modellers to adequately capture,
-   analyse, and understand the domain of application, and helps them report
-   explicitly on the motivations behind modelling choices. A web-based application
-   supports conceptualization with MAIA, and outputs an XML file which is used to
-   generate Java code for an executable simulation.
+   Agent Based Modeling (ABM) toolkits are as diverse as the community of people
+   who use them. With so many toolkits available, the choice of which one is
+   best suited for a project is left to word of mouth, past experiences in using
+   particular toolkits and toolkit publicity. This is especially troublesome for
+   projects that require specialization. Rather than using toolkits that are the
+   most publicized but are designed for general projects, using this paper, one
+   will be able to choose a toolkit that already exists and that may be built
+   especially for one's particular domain and specialized needs. In this paper,
+   we examine the entire continuum of agent based toolkits. We characterize each
+   based on 5 important characteristics users consider when choosing a toolkit,
+   and then we categorize the characteristics into user-friendly taxonomies that
+   aid in rapid indexing and easy reference.
 ** Summary
 *** Research Questions
 

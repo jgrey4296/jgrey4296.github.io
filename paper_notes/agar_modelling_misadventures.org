@@ -1,28 +1,24 @@
-*  MAIA: A Framwork for Developing Agent-Based Social Simulations
-  [[http://jasss.soc.surrey.ac.uk/16/2/9.html][Paper Link]]
-** Tags        :meta_model:institutions:MAIA:MAS:agents:social_science:jasss:
-** Citation
+*  My Kingdom for a Function: Modeling Misadventures of the Innumerate
+  [[http://jasss.soc.surrey.ac.uk/6/3/8.html][Paper Link]]
+** Tags                                                                         :netlogo:ethnography:epidemiology:drug_use:abm:
+** Citation:
+** YEAR : 2003
 ** AUTHORS
-   Amineh Ghorbani
-   Pieter Bots
-   Virginia Dignum
-   Gerard Dijkema
-** YEAR : 2013
+   Michael Agar
 ** ABSTRACT
-   In this paper we introduce and motivate a conceptualization framework for
-   agent-based social simulation, MAIA: Modelling Agent systems based on
-   Institutional Analysis. The MAIA framework is based on Ostrom's Institutional
-   Analysis and Development framework, and provides an extensive set of modelling
-   concepts that is rich enough to capture a large range of complex social
-   phenomena. Developing advanced agent-based models requires substantial
-   experience and knowledge of software development knowledge and skills. MAIA has
-   been developed to help modellers who are unfamiliar with software development to
-   conceptualize and implement agent-based models. It provides the foundation for a
-   conceptualization procedure that guides modellers to adequately capture,
-   analyse, and understand the domain of application, and helps them report
-   explicitly on the motivations behind modelling choices. A web-based application
-   supports conceptualization with MAIA, and outputs an XML file which is used to
-   generate Java code for an executable simulation.
+   In this tongue-in-cheek commentary the author takes a serious look at the
+   problem of translating ethnographic conclusions into simple functions as a means
+   to the end of building an agent-based simulation in the Netlogo language.
+   Specifically, the goal is to take the simple fact that stories about illicit
+   drugs have a lot to do with whether or not they will be used and see if an
+   agent-based model can produce an epidemic incidence curve under the appropriate
+   conditions. This commentary has less to do with the model and more to do with
+   figuring out what kinds of numbers make sense. Based on the principle that
+   mathematical ignorance is bliss, the author concludes that the most important
+   thing is that number construction reflects the differences that make a
+   difference in the ethnographic work, where the discovery of what the significant
+   differences in fact were was a major result of the research. Support by NIH/NIDA
+   grant DA 10736 is gratefully acknowledged.
 ** Summary
 *** Research Questions
 

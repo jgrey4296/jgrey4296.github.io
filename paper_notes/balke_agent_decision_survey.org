@@ -1,14 +1,66 @@
 *  How Do Agents Make Decisions? A Survey
+  [[http://jasss.soc.surrey.ac.uk/17/4/13.html][Paper Link]]
 ** Tags                                 :decision_making:survey:agents:balke:
 ** Citation
-   
 ** AUTHORS
    Tina Balke
    Nigel Gilbert
 ** YEAR : 2014
 ** ABSTRACT
-   
+   When designing an agent-based simulation, an important question to answer is
+   how to model the decision making processes of the agents in the system. A
+   large number of agent decision making models can be found in the literature,
+   each inspired by different aims and research questions. In this paper we
+   provide a review of 14 agent decision making architectures that have
+   attracted interest. They range from production-rule systems to
+   psychologically- and neurologically-inspired approaches. For each of the
+   architectures we give an overview of its design, highlight research questions
+   that have been answered with its help and outline the reasons for the choice
+   of the decision making model provided by the originators. Our goal is to
+   provide guidelines about what kind of agent decision making model, with which
+   level of simplicity or complexity, to use for which kind of research
+   question.
 ** Summary
+**** Dimensions of Comparison
+     Cognitive | Affective | Social | Norm consideration | Learning
+
+**** Production Rule Systems
+
+**** BDI
+
+***** eBDI
+
+***** BOID
+
+***** BRIDGE
+
+**** Normative Models
+
+***** Deliberate Normative Agents
+
+***** EMIL-A
+
+***** NoA
+
+**** Cognitive Models
+
+***** PECS
+
+***** Consumat
+
+**** Psychological inspired models
+
+***** MHP
+
+***** CLARION
+
+***** ACT-R
+
+***** SOAR
+
+**** Overview
+
+
 *** Research Questions
 
 *** Hypothesis tested

@@ -1,28 +1,27 @@
-*  MAIA: A Framwork for Developing Agent-Based Social Simulations
-  [[http://jasss.soc.surrey.ac.uk/16/2/9.html][Paper Link]]
-** Tags        :meta_model:institutions:MAIA:MAS:agents:social_science:jasss:
-** Citation
+*  The Multi-Agent Modelling Language and the Model Design Interface
+  [[http://jasss.soc.surrey.ac.uk/2/3/8.html][Paper Link]]
+** Tags                                                                         :integrated_modelling_environment:ABM:social_science_simulation:
+** Citation:
+** YEAR : 1999
 ** AUTHORS
-   Amineh Ghorbani
-   Pieter Bots
-   Virginia Dignum
-   Gerard Dijkema
-** YEAR : 2013
+   László Gulyás, Tamás Kozsik and John B. Corliss
 ** ABSTRACT
-   In this paper we introduce and motivate a conceptualization framework for
-   agent-based social simulation, MAIA: Modelling Agent systems based on
-   Institutional Analysis. The MAIA framework is based on Ostrom's Institutional
-   Analysis and Development framework, and provides an extensive set of modelling
-   concepts that is rich enough to capture a large range of complex social
-   phenomena. Developing advanced agent-based models requires substantial
-   experience and knowledge of software development knowledge and skills. MAIA has
-   been developed to help modellers who are unfamiliar with software development to
-   conceptualize and implement agent-based models. It provides the foundation for a
-   conceptualization procedure that guides modellers to adequately capture,
-   analyse, and understand the domain of application, and helps them report
-   explicitly on the motivations behind modelling choices. A web-based application
-   supports conceptualization with MAIA, and outputs an XML file which is used to
-   generate Java code for an executable simulation.
+   While computer models provide many advantages over traditional experimental
+   methods, they also raise several problems. The process of software development
+   is a complicated task with high potential for errors, especially when it is
+   carried out by scientists holding their expertise in other fields than computer
+   science. On the other hand, the process of creating computer simulations of
+   social systems which reflect the reality of such systems requires insights
+   considerably beyond expertise in computer science. The Multi-Agent Modelling
+   Language (MAML) is one of the efforts to ease these difficulties.
+
+   In its current version, MAML is a macro-language for Swarm (a freely distributed
+   toolset under development at SFI), but it is also part of a larger
+   Swarm-independent framework. Also, the design of MAML, while influenced by
+   concepts from Swarm, is general enough to allow for later extension of the
+   supported simulation kernels. This paper gives an overview of the mentioned
+   larger framework, with special emphasis on MAML and its graphical CASE tool, the
+   Model Design Interface.
 ** Summary
 *** Research Questions
 

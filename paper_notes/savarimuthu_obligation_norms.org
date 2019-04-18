@@ -1,28 +1,22 @@
-*  MAIA: A Framwork for Developing Agent-Based Social Simulations
-  [[http://jasss.soc.surrey.ac.uk/16/2/9.html][Paper Link]]
-** Tags        :meta_model:institutions:MAIA:MAS:agents:social_science:jasss:
-** Citation
+*  Obligation Norm Identification in Agent Societies
+  [[http://jasss.soc.surrey.ac.uk/13/4/3.html][Paper Link]]
+** Tags                                                                         :norMAS:artificial_societies:simulation_of_norms:agent_based_simulation:norm_identification:obligations:social_norms:norms:
+** Citation:
+** YEAR : 2010
 ** AUTHORS
-   Amineh Ghorbani
-   Pieter Bots
-   Virginia Dignum
-   Gerard Dijkema
-** YEAR : 2013
+   Tony Savarimuthu, Stephen Cranefield, Maryam A. Purvis and Martin K. Purvis
 ** ABSTRACT
-   In this paper we introduce and motivate a conceptualization framework for
-   agent-based social simulation, MAIA: Modelling Agent systems based on
-   Institutional Analysis. The MAIA framework is based on Ostrom's Institutional
-   Analysis and Development framework, and provides an extensive set of modelling
-   concepts that is rich enough to capture a large range of complex social
-   phenomena. Developing advanced agent-based models requires substantial
-   experience and knowledge of software development knowledge and skills. MAIA has
-   been developed to help modellers who are unfamiliar with software development to
-   conceptualize and implement agent-based models. It provides the foundation for a
-   conceptualization procedure that guides modellers to adequately capture,
-   analyse, and understand the domain of application, and helps them report
-   explicitly on the motivations behind modelling choices. A web-based application
-   supports conceptualization with MAIA, and outputs an XML file which is used to
-   generate Java code for an executable simulation.
+   Most works on norms have investigated how norms are regulated using
+   institutional mechanisms. Very few works have focused on how an agent may infer
+   the norms of a society without the norm being explicitly given to the agent.
+   This paper describes a mechanism for identifying one type of norm, an obligation
+   norm. The Obligation Norm Inference (ONI) algorithm described in this paper
+   makes use of an association rule mining approach to identify obligation norms.
+   Using agent based simulation of a virtual restaurant we demonstrate how an agent
+   can identify the tipping norm. The experiments that we have conducted
+   demonstrate that an agent in the system is able to add, remove and modify norms
+   dynamically. An agent can also flexibly modify the parameters of the system
+   based on whether it is successful in identifying a norm.
 ** Summary
 *** Research Questions
 

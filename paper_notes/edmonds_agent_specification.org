@@ -1,28 +1,25 @@
-*  MAIA: A Framwork for Developing Agent-Based Social Simulations
-  [[http://jasss.soc.surrey.ac.uk/16/2/9.html][Paper Link]]
-** Tags        :meta_model:institutions:MAIA:MAS:agents:social_science:jasss:
-** Citation
+*  A Context- and Scope-Sensitive Analysis of Narrative Data to Aid the Specification of Agent Behaviour
+  [[http://jasss.soc.surrey.ac.uk/18/1/17.html][Paper Link]]
+** Tags                                                                         :narrative:specification:analysis:scope:context:qualitative_data:
+** Citation:
+** YEAR : 2015
 ** AUTHORS
-   Amineh Ghorbani
-   Pieter Bots
-   Virginia Dignum
-   Gerard Dijkema
-** YEAR : 2013
+   Bruce Edmonds
 ** ABSTRACT
-   In this paper we introduce and motivate a conceptualization framework for
-   agent-based social simulation, MAIA: Modelling Agent systems based on
-   Institutional Analysis. The MAIA framework is based on Ostrom's Institutional
-   Analysis and Development framework, and provides an extensive set of modelling
-   concepts that is rich enough to capture a large range of complex social
-   phenomena. Developing advanced agent-based models requires substantial
-   experience and knowledge of software development knowledge and skills. MAIA has
-   been developed to help modellers who are unfamiliar with software development to
-   conceptualize and implement agent-based models. It provides the foundation for a
-   conceptualization procedure that guides modellers to adequately capture,
-   analyse, and understand the domain of application, and helps them report
-   explicitly on the motivations behind modelling choices. A web-based application
-   supports conceptualization with MAIA, and outputs an XML file which is used to
-   generate Java code for an executable simulation.
+   A structure for analysing narrative data is suggested, one that distinguishes
+   three parts in sequence: context (a heuristic to identify what knowledge is
+   relevant given a kind of situation), scope (what is possible within that
+   situation) and narrative elements (the detailed conditional and sequential
+   structure of actions and events given the context and scope). This structure is
+   first motivated and then illustrated with some simple examples taken from
+   Sukaina Bharwani's thesis (Bharwani 2004). It is suggested that such a structure
+   might be helpful in preserving more of the natural meaning of such data, as well
+   as being a good match to a context-dependent computational architecture, and
+   thus facilitate the process of using narrative data to inform the specification
+   of behavioural rules in an Agent-Based Simulation. This suggestion only solves
+   part of the 'Narrative Data to Agent Behaviour' puzzle — this structure needs to
+   be combined and improved by other methods and appropriate computational
+   architectures designed to suit it.
 ** Summary
 *** Research Questions
 

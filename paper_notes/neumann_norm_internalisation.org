@@ -1,28 +1,23 @@
-*  MAIA: A Framwork for Developing Agent-Based Social Simulations
-  [[http://jasss.soc.surrey.ac.uk/16/2/9.html][Paper Link]]
-** Tags        :meta_model:institutions:MAIA:MAS:agents:social_science:jasss:
-** Citation
+*  Norm Internalisation in Human and Artificial Intelligence
+  [[http://jasss.soc.surrey.ac.uk/13/1/12.html][Paper Link]]
+** Tags                                                                         :theoretical_validity:socialisation_theories:norm_internalisation:normative_agent_architecture:
+** Citation:
+** YEAR :
 ** AUTHORS
-   Amineh Ghorbani
-   Pieter Bots
-   Virginia Dignum
-   Gerard Dijkema
-** YEAR : 2013
+   Martin Neumann
 ** ABSTRACT
-   In this paper we introduce and motivate a conceptualization framework for
-   agent-based social simulation, MAIA: Modelling Agent systems based on
-   Institutional Analysis. The MAIA framework is based on Ostrom's Institutional
-   Analysis and Development framework, and provides an extensive set of modelling
-   concepts that is rich enough to capture a large range of complex social
-   phenomena. Developing advanced agent-based models requires substantial
-   experience and knowledge of software development knowledge and skills. MAIA has
-   been developed to help modellers who are unfamiliar with software development to
-   conceptualize and implement agent-based models. It provides the foundation for a
-   conceptualization procedure that guides modellers to adequately capture,
-   analyse, and understand the domain of application, and helps them report
-   explicitly on the motivations behind modelling choices. A web-based application
-   supports conceptualization with MAIA, and outputs an XML file which is used to
-   generate Java code for an executable simulation.
+   In this article, principles of architectures relating to normative agents are
+   evaluated with regard to the question whether and to what extend results of
+   empirical research are incorporated in the architecture. In the human sciences,
+   internalisation is a crucial element within the concept of norms.
+   Internalisation distinguishes normative behaviour regulation from mere coercion.
+   The aim of this article is to begin answering the question of to what extent
+   normative agent architectures represent the theoretical construct of norm
+   internalisation. The relevant research in this area may be found in
+   socialisation research in psychology and sociology. Evaluation of conclusions
+   from the empirical sciences allows to identify drawbacks and opportunities in
+   existing architectures, as well as to develop suggestions for future
+   development.
 ** Summary
 *** Research Questions
 
