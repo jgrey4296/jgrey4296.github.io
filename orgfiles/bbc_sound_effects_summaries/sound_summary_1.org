@@ -1,0 +1,3003 @@
+** Passing overhead.                                                                                :Aircraft:Comet IV:
+    ID: 07069019.wav
+    Length: 36
+** Interior: Descent.                                                                                :Aircraft:Comet IV:
+    ID: 07069018.wav
+    Length: 180
+** Interior: take off into constant flight.                                                                                :Aircraft:Comet IV:
+    ID: 07069017.wav
+    Length: 214
+** Interior: Start up engines - taxi to take-off point.                                                                                :Aircraft:Comet IV:
+    ID: 07069016.wav
+    Length: 143
+** 747 jet aircraft - interior. Descent - touch down - taxi.                                                                                :Aircraft:Boeing:
+    ID: 07069015.wav
+    Length: 146
+** 747 jet aircraft - interior. Quiet constant flight.                                                                                :Aircraft:Boeing:
+    ID: 07069014.wav
+    Length: 210
+** 747 jet aircraft - interior. Taxi to take off - undercarriage raised at 2'00, indicator board gong - aircraft climbs.                                                                                :Aircraft:Boeing:
+    ID: 07069013.wav
+    Length: 239
+** 747 jet aircraft - Pass overhead (use at low level).                                                                                :Aircraft:Boeing:
+    ID: 07069012.wav
+    Length: 95
+** 747 jet aircraft - exterior. Land.                                                                                :Aircraft:Boeing:
+    ID: 07069011.wav
+    Length: 65
+** 747 jet aircraft - exterior. Taxi past & take off.                                                                                :Aircraft:Boeing:
+    ID: 07069010.wav
+    Length: 167
+** Landing.                                                                                :Aircraft:VC Ten:
+    ID: 07069009.wav
+    Length: 34
+** Descent.                                                                                :Aircraft:VC Ten:
+    ID: 07069008.wav
+    Length: 213
+** Constant flight.                                                                                :Aircraft:VC Ten:
+    ID: 07069007.wav
+    Length: 208
+** Pass overhead (use at low level).                                                                                :Aircraft:VC Ten:
+    ID: 07069006.wav
+    Length: 47
+** Take off (use at low level).                                                                                :Aircraft:VC Ten:
+    ID: 07069005.wav
+    Length: 57
+** Bumpy taxiing to runway.                                                                                :Aircraft:VC Ten:
+    ID: 07069004.wav
+    Length: 149
+** Start up procedure - run up engines.                                                                                :Aircraft:VC Ten:
+    ID: 07069003.wav
+    Length: 300
+** Begins to taxi.                                                                                :Aircraft:VC Ten:
+    ID: 07069002.wav
+    Length: 89
+** Start engines - warm up.                                                                                :Aircraft:VC Ten:
+    ID: 07069001.wav
+    Length: 227
+** Rome market.                                                                                :Markets:Italy:
+    ID: 07068105.wav
+    Length: 344
+** News boy.                                                                                :Markets:Italy:
+    ID: 07068104.wav
+    Length: 79
+** Melon seller.                                                                                :Markets:Italy:
+    ID: 07068103.wav
+    Length: 62
+** Fiumicio fish market.                                                                                :Markets:Fish:
+    ID: 07068102.wav
+    Length: 185
+** Clothes market, Beirut.                                                                                :Markets:Middle East:
+    ID: 07068101.wav
+    Length: 198
+** Fruit market, Beirut.                                                                                :Markets:Fruit:
+    ID: 07068100.wav
+    Length: 196
+** Vegetable market, Beirut.                                                                                :Markets:Vegetable:
+    ID: 07068099.wav
+    Length: 220
+** Berwick Street market, recorded walking along, distinct voices.                                                                                :Markets:London:
+    ID: 07068098.wav
+    Length: 219
+** Voices, traffic, footsteps, ventilator hum in market.                                                                                :Markets:Aylesbury:
+    ID: 07068097.wav
+    Length: 332
+** Boxes on roller conveyor belt, Covent Garden.                                                                                :Markets:London:
+    ID: 07068096.wav
+    Length: 148
+** Dedicated hall seller in foreground, Covent Garden.                                                                                :Markets:London:
+    ID: 07068095.wav
+    Length: 150
+** Trolleys passing, Covent Garden.                                                                                :Markets:London:
+    ID: 07068094.wav
+    Length: 110
+** Dedicated hall atmosphere, Covent Garden.                                                                                :Markets:London:
+    ID: 07068093.wav
+    Length: 326
+** Fruit and veg hall, voices and trolleys. Covent Garden.                                                                                :Markets:London:
+    ID: 07068092.wav
+    Length: 186
+** Lorries arriving, voices and movement, Covent Garden.                                                                                :Markets:London:
+    ID: 07068091.wav
+    Length: 285
+** Selling toys, Portobello Road street market.                                                                                :Markets:London:
+    ID: 07068090.wav
+    Length: 113
+** Selling glass cutting tools, Portobello Road street market.                                                                                :Markets:London:
+    ID: 07068089.wav
+    Length: 116
+** Singing beggar, Portobello Road street market.                                                                                :Markets:London:
+    ID: 07068088.wav
+    Length: 118
+** Selling daffodils, Portobello Road street market.                                                                                :Markets:London:
+    ID: 07068087.wav
+    Length: 147
+** Selling tights, Portobello Road street market.                                                                                :Markets:London:
+    ID: 07068086.wav
+    Length: 117
+** Selling tomatoes, Portobello Road street market.                                                                                :Markets:London:
+    ID: 07068085.wav
+    Length: 52
+** Auctioning fish at harbour, Peterhead fish market.                                                                                :Harbours:
+    ID: 07068084.wav
+    Length: 303
+** Exterior - park atmos., birdsong with crows & pigeons, children playing and adult voices, footsteps - distant traffic (rec. in Cismigiu Park, central Bucharest).                                                                                :Parks:
+    ID: 07068083.wav
+    Length: 295
+** Interior - department store in Bucharest busy atmosphere, with footsteps, talking - music in background.                                                                                :Shops:Department Stores:
+    ID: 07068082.wav
+    Length: 300
+** Exterior - church bells in Romania, three sets of church bells ringing in different perspectives.                                                                                :Bells:Churches:
+    ID: 07068081.wav
+    Length: 110
+** Interior - small apartment block lift, arrival of lift, doors open, travel five floors (rec. in Bucharest).                                                                                :Lifts:
+    ID: 07068080.wav
+    Length: 92
+** Interior - tram journey 1950's-built tram with trailer unit - very noisy.                                                                                :Romania:
+    ID: 07068079.wav
+    Length: 271
+** Exterior - tram passing, 1960's tram passes right to left with bell.                                                                                :Romania:
+    ID: 07068078.wav
+    Length: 16
+** Exterior - busy morning atmosphere at rush hour tram stop, 1960's-built trams arrive.                                                                                :Romania:
+    ID: 07068077.wav
+    Length: 266
+** Exterior - tram passing, 1960's-bulit tram pass left to right - traffic in background.                                                                                :Romania:
+    ID: 07068076.wav
+    Length: 16
+** Exterior - metro train ride, train arrives and stops, boarded, doors close, interior - not crowded some voices; travel two station stops - exterior - exit onto quiet platform.                                                                                :Romania:
+    ID: 07068075.wav
+    Length: 354
+** Interior - metro station platform with trains, train arrives and stops. PA announcement warning of doors closing at 0'48", train departs.                                                                                :Romania:
+    ID: 07068074.wav
+    Length: 100
+** Interior - metro station platform atmosphere, quiet, no trains, footsteps and occasional voices.                                                                                :Romania:
+    ID: 07068073.wav
+    Length: 227
+** Interior - metro station ticket hall atmos. with one person passing through barrier - ticket franking machine operating with beep (rec. at Izvor metro station Bucharest).                                                                                :Romania:
+    ID: 07068072.wav
+    Length: 43
+** Exterior - platform atmosphere, train boarding, busy movement of people with suitcases and trolleys rattling over mosaic tiling - 2nd train arrives on adjacent platform at 1'50", whistle.                                                                                :Romania:
+    ID: 07068071.wav
+    Length: 270
+** Exterior - platform atmosphere, main line station, electric train arrives (rec. close to engine) - PA announcement over.                                                                                :Romania:
+    ID: 07068070.wav
+    Length: 60
+** Interior - second class ticket hall atmosphere, main railway station Gara de Nord, very busy with movement, PA announcement at 1'08".                                                                                :Romania:
+    ID: 07068069.wav
+    Length: 266
+** Interior - first class ticket hall atmosphere, main railway station Gara de Nord, busy with movement, several PA announcements in background.                                                                                :Romania:
+    ID: 07068068.wav
+    Length: 210
+** Interior - covered vegetable market atmosphere, busy, with close talking and movement.                                                                                :Romania:
+    ID: 07068067.wav
+    Length: 331
+** Exterior - market atmosphere, morning, busy with mid-distance talking, movement at outdoor general street market.                                                                                :Romania:
+    ID: 07068066.wav
+    Length: 331
+** Interior - Bucharest building site atmosphere, noisy with drills and hammering - close people in busy foyer acoustic.                                                                                :Building Construction:
+    ID: 07068065.wav
+    Length: 195
+** Exterior - traffic atmosphere, busy rush hour traffic, with birsong and people passing - occasional distant trams (rec. in Piata Unirii, Bucharest).                                                                                :Romania:
+    ID: 07068064.wav
+    Length: 274
+** Dawn skyline atmosphere, birdsong including crows, distant traffic, barking dogs (rec. in yard enclosed by apartment blocks in Bucharest city centre).                                                                                :Atmospheres:Dawn:
+    ID: 07068063.wav
+    Length: 304
+** Exterior - atmos. in small quiet Romanian country village, dogs bark, geese in distance, children, occasional passer-by on rough unpaved road, distant intermittant voices, birdsong.                                                                                :Atmospheres:Countryside:
+    ID: 07068062.wav
+    Length: 302
+** Exterior - goose run, peasant farm goose run, animated honking and movement (rec. in Romania).                                                                                :Birds:Geese:
+    ID: 07068061.wav
+    Length: 149
+** Exterior - hillside above a Romanian village, wide perspective, birdsong, distant motor traffic, occasional insects, rooster crowing, chickens scratching, dogs.                                                                                :Atmospheres:Countryside:
+    ID: 07068060.wav
+    Length: 306
+** Exterior - peasant farm, pig in pigpen grunting and eating in close perspective (rec. in Romania).                                                                                :Pigs:
+    ID: 07068059.wav
+    Length: 91
+** Exterior - peasant farm, pig in pigpen grunting and eating in medium close-up (rec. in Romania).                                                                                :Pigs:
+    ID: 07068058.wav
+    Length: 164
+** Exterior - country-yard atmos., chickens scratching around, birdsong, distant children playing, distant motor traffic occasionally (rec. nr Bulgarian border, Romania).                                                                                :Farms:Atmospheres:
+    ID: 07068057.wav
+    Length: 285
+** Interior - trolleybus constant fast run.                                                                                :Romania:
+    ID: 07068056.wav
+    Length: 223
+** Interior - trolleybus lurches for quick start.                                                                                :Romania:
+    ID: 07068055.wav
+    Length: 3
+** Exterior - slow trolleybus approach & stop, doors open, bus boarded, doors close. Interior - trolleybus moves off in heavy traffic. Exterior - doors close trolleybus departs.                                                                                :Romania:
+    ID: 07068054.wav
+    Length: 369
+** Trolleybus klaxon sounded.                                                                                :Horns:
+    ID: 07068053.wav
+    Length: 3
+** Trolleybus pneumatic doors close.                                                                                :Romania:
+    ID: 07068052.wav
+    Length: 5
+** Trolleybus pneumatic doors open.                                                                                :Romania:
+    ID: 07068051.wav
+    Length: 6
+** Interior - trolleybus continuous tickover.                                                                                :Romania:
+    ID: 07068050.wav
+    Length: 172
+** Exterior - trolleybus continuous tickover.                                                                                :Trolley Buses:Romania:
+    ID: 07068049.wav
+    Length: 61
+** Exterior - trolleybus arrives and departs, with doors open and close.                                                                                :Romania:
+    ID: 07068048.wav
+    Length: 35
+** Exterior - trolleybus passes left ot right.                                                                                :Romania:
+    ID: 07068047.wav
+    Length: 13
+** Exterior - Dacia (Romania's national car) drive, door open, shut, engine starts, fast drive on dry street, car stop and engine switched off.                                                                                :Romania:
+    ID: 07068046.wav
+    Length: 337
+** Exterior - Dacia (Romania's national car) in the rain, starts, police whistles and heavy traffic. Interior - engine start and drive on wet streets in heavy traffic - exterior - car drives away.                                                                                :Romania:
+    ID: 07068045.wav
+    Length: 492
+** Exterior - quiet cobbled side street off busy main road, wet weather, cars passing on cobbles.                                                                                :Romania:
+    ID: 07068044.wav
+    Length: 209
+** Exterior - Piata Rosetti, Bucharest - morning rush hour atmos., traffic with birdsong, passers-by.                                                                                :Romania:
+    ID: 07068043.wav
+    Length: 406
+** Interior - crowded hall/foyer atmosphere (rec. Bucharest), unintelligible continuous conversation in large live accoustic.                                                                                :Crowds:Interior:
+    ID: 07068042.wav
+    Length: 310
+** Interior - small modern office atmosphere, keying on two word processors, occasional talk, coughs etc, infrequent car/lorry passes as heard through window (rec. Bucharest).                                                                                :Offices:
+    ID: 07068041.wav
+    Length: 386
+** Heaven.                                                                                :Hell To Heaven:
+    ID: 07068040.wav
+    Length: 300
+** Flight though space.                                                                                :Hell To Heaven:
+    ID: 07068039.wav
+    Length: 300
+** Flight though atmosphere.                                                                                :Hell To Heaven:
+    ID: 07068038.wav
+    Length: 300
+** Earthquakes - demolition.                                                                                :Hell To Heaven:
+    ID: 07068037.wav
+    Length: 300
+** Hurricane superstorm                                                                                :Hell To Heaven:
+    ID: 07068036.wav
+    Length: 300
+** Inside a human or animal body.                                                                                :Human Effects:
+    ID: 07068035.wav
+    Length: 300
+** Inside a plant.                                                                                :Hell To Heaven:
+    ID: 07068034.wav
+    Length: 300
+** Birth of life on earth.                                                                                :Hell To Heaven:
+    ID: 07068033.wav
+    Length: 300
+** Underwater - river.                                                                                :Rivers:
+    ID: 07068032.wav
+    Length: 300
+** Shallow sea - ocean surface, underwater.                                                                                :Hell To Heaven:
+    ID: 07068031.wav
+    Length: 300
+** Deep sea - ocean bed, underwater.                                                                                :Hell To Heaven:
+    ID: 07068030.wav
+    Length: 300
+** Underground - travel from Earth's core to crust.                                                                                :Hell To Heaven:
+    ID: 07068029.wav
+    Length: 300
+** Purgatory - icy wind & fire.                                                                                :Hell To Heaven:
+    ID: 07068028.wav
+    Length: 300
+** Hell - lost souls toiling in fiery depths.                                                                                :Hell To Heaven:
+    ID: 07068027.wav
+    Length: 360
+** 16ft speedboat (40hp outboard) - passing.                                                                                :Boats:Speedboats:
+    ID: 07068026.wav
+    Length: 39
+** 16ft speedboat (40hp outboard) - departing, exterior.                                                                                :Boats:Speedboats:
+    ID: 07068025.wav
+    Length: 30
+** 16ft speedboat (40hp outboard) - tickover.                                                                                :Boats:Speedboats:
+    ID: 07068024.wav
+    Length: 178
+** 16ft speedboat (40hp outboard) - pull up to stop.                                                                                :Boats:Speedboats:
+    ID: 07068023.wav
+    Length: 34
+** 16ft speedboat (40hp outboard) - constant run.                                                                                :Boats:Speedboats:
+    ID: 07068022.wav
+    Length: 246
+** Motor launch - start, reverse, high speed run, turn, high speed run and stops (in cabin).                                                                                :Boats:Launches:
+    ID: 07068021.wav
+    Length: 232
+** Motor launch - start, reverse and manoeuvre with wash and stops (on deck).                                                                                :Boats:Launches:
+    ID: 07068020.wav
+    Length: 77
+** Motor launch - constant run with wash (on deck).                                                                                :Boats:Launches:
+    ID: 07068019.wav
+    Length: 180
+** Motor launch - start, fast run with wash and stops.                                                                                :Boats:Launches:
+    ID: 07068018.wav
+    Length: 126
+** Motor launch - start, slow running with wash and stops.                                                                                :Boats:Launches:
+    ID: 07068017.wav
+    Length: 60
+** Motor launch - start into tickover, stops with splashes (on deck).                                                                                :Boats:Launches:
+    ID: 07068016.wav
+    Length: 132
+** Tug - constant run.                                                                                :Boats:Tugs:
+    ID: 07068015.wav
+    Length: 226
+** Tug - starts, tickover.                                                                                :Boats:Tugs:
+    ID: 07068014.wav
+    Length: 120
+** Tug - engines starting and running with manoeuvres.                                                                                :Boats:Tugs:
+    ID: 07068013.wav
+    Length: 221
+** Tug - engines running and stopping.                                                                                :Boats:Tugs:
+    ID: 07068012.wav
+    Length: 118
+** Trawler with diesel engine running.                                                                                :Boats:Trawlers:
+    ID: 07068011.wav
+    Length: 240
+** Close perspective of dredger operating.                                                                                :Boats:Dredgers:
+    ID: 07068010.wav
+    Length: 240
+** 1st century slave galley rowing as heard from amidship.                                                                                :Boats:Rowing:
+    ID: 07068009.wav
+    Length: 182
+** 1st century slave galley, rowing as heard from aft.                                                                                :Boats:Rowing:
+    ID: 07068008.wav
+    Length: 154
+** 1st century slave galley rowing in foreground.                                                                                :Boats:Rowing:
+    ID: 07068007.wav
+    Length: 149
+** Rowing with 1 pair oars, with a squeak.                                                                                :Boats:Rowing:
+    ID: 07068006.wav
+    Length: 200
+** Sea Scouts whaler, rowing with six pairs oars.                                                                                :Boats:Rowing:
+    ID: 07068005.wav
+    Length: 164
+** Sea Scouts whaler, fairly fast rowing with three pairs oars.                                                                                :Boats:Rowing:
+    ID: 07068004.wav
+    Length: 168
+** Sea Scouts whaler, fairly slow muffled rowing with one pair oars.                                                                                :Boats:Rowing:
+    ID: 07068003.wav
+    Length: 200
+** Rowing - one man rowing on park lake, heavy rowlock sound.                                                                                :Boats:Rowing:
+    ID: 07068002.wav
+    Length: 240
+** Rowing - one man, heavy rowing on park lake.                                                                                :Boats:Rowing:
+    ID: 07068001.wav
+    Length: 240
+** Electric trimmer switched on, runs & switched of.                                                                                :Household:Shavers:
+    ID: 07067080.wav
+    Length: 66
+** Electric shaver switched on, runs & switched off.                                                                                :Household:Shavers:
+    ID: 07067079.wav
+    Length: 91
+** Modern WC.                                                                                :Household:Toilets:
+    ID: 07067078.wav
+    Length: 11
+** Old-fashioned WC.                                                                                :Household:Toilets:
+    ID: 07067077.wav
+    Length: 10
+** Using back brush in bath.                                                                                :Household:Baths:
+    ID: 07067076.wav
+    Length: 28
+** Person under shower.                                                                                :Household:Showers:
+    ID: 07067075.wav
+    Length: 87
+** Shower running.                                                                                :Household:Showers:
+    ID: 07067074.wav
+    Length: 108
+** Shower bath curtains.                                                                                :Household:Showers:
+    ID: 07067073.wav
+    Length: 23
+** Washing body - swilling down basin, water runs away                                                                                :Household:Washing:
+    ID: 07067072.wav
+    Length: 61
+** Rinsing hands                                                                                :Household:Washing:
+    ID: 07067071.wav
+    Length: 28
+** Scrubbing nails                                                                                :Household:Washing:
+    ID: 07067070.wav
+    Length: 25
+** Washing hands                                                                                :Household:Washing:
+    ID: 07067069.wav
+    Length: 29
+** Filling hand basin.                                                                                :Household:Hand Basins:
+    ID: 07067068.wav
+    Length: 21
+** Clearing tables.                                                                                :Household:Tables:
+    ID: 07067067.wav
+    Length: 84
+** Laying table.                                                                                :Household:Tables:
+    ID: 07067066.wav
+    Length: 65
+** Laying heavy crockery on wooden (period) table.                                                                                :Household:Tables:
+    ID: 07067065.wav
+    Length: 51
+** Match struck.                                                                                :Household:Matches:
+    ID: 07067064.wav
+    Length: 6
+** Liquid poured into glasses.                                                                                :Household:Glasses:
+    ID: 07067063.wav
+    Length: 9
+** Soda water siphon.                                                                                :Household:Soda Water Siphons:
+    ID: 07067062.wav
+    Length: 18
+** Breaking ice on bucket.                                                                                :Household:Buckets:
+    ID: 07067061.wav
+    Length: 51
+** Bucket dropped 3 times.                                                                                :Household:Buckets:
+    ID: 07067060.wav
+    Length: 8
+** Dustbin lid falling & replaced.                                                                                :Household:Dustbins:
+    ID: 07067059.wav
+    Length: 9
+** Scrubbing wooden table.                                                                                :Household:Scrubbing Brushes:
+    ID: 07067058.wav
+    Length: 127
+** Hand food mixer                                                                                :Household:Food Mixers:
+    ID: 07067057.wav
+    Length: 90
+** Pop-up electric toaster (3 times).                                                                                :Household:Toasters:
+    ID: 07067056.wav
+    Length: 9
+** Fish frying in pan.                                                                                :Household:Frying:
+    ID: 07067055.wav
+    Length: 180
+** Beating egg with fork.                                                                                :Household:Eggs:
+    ID: 07067054.wav
+    Length: 36
+** Grating vegetables by hand.                                                                                :Household:Grating:
+    ID: 07067053.wav
+    Length: 58
+** Mechanical food cutter.                                                                                :Household:Cutting & Chopping:
+    ID: 07067052.wav
+    Length: 63
+** Cutting & chopping food on board.                                                                                :Household:Cutting & Chopping:
+    ID: 07067051.wav
+    Length: 85
+** Cutting bread with saw knife.                                                                                :Household:Bread:
+    ID: 07067050.wav
+    Length: 49
+** Sharpening knife.                                                                                :Household:Knives:
+    ID: 07067049.wav
+    Length: 24
+** Opening can by hand.                                                                                :Household:Can Openers:
+    ID: 07067048.wav
+    Length: 61
+** Coffee perculator bubbling.                                                                                :Household:Coffee:
+    ID: 07067047.wav
+    Length: 121
+** Roasting coffee beans by hand.                                                                                :Household:Coffee:
+    ID: 07067046.wav
+    Length: 70
+** Electric coffee bean roasting machine - switched on, run, switched off.                                                                                :Household:Coffee:
+    ID: 07067045.wav
+    Length: 118
+** Raking coffee beans to remove husks.                                                                                :Household:Coffee:
+    ID: 07067044.wav
+    Length: 14
+** Whistling kettle.                                                                                :Household:Kettles:
+    ID: 07067043.wav
+    Length: 23
+** Kettle boiling.                                                                                :Household:Kettles:
+    ID: 07067042.wav
+    Length: 116
+** Lid removed & kettle filled.                                                                                :Household:Kettles:
+    ID: 07067041.wav
+    Length: 21
+** Kettle filled with water.                                                                                :Household:Kettles:
+    ID: 07067040.wav
+    Length: 25
+** Teapot filled with water.                                                                                :Household:Teapots:
+    ID: 07067039.wav
+    Length: 10
+** Tap dripping (double drip).                                                                                :Household:Taps:
+    ID: 07067038.wav
+    Length: 170
+** Tap dipping slow.                                                                                :Household:Taps:
+    ID: 07067037.wav
+    Length: 176
+** Tap dripping fast.                                                                                :Household:Taps:
+    ID: 07067036.wav
+    Length: 139
+** Washing hands in bucket.                                                                                :Household:Buckets:
+    ID: 07067035.wav
+    Length: 72
+** Hand pump.                                                                                :Pumps:Water:
+    ID: 07067034.wav
+    Length: 46
+** Hand pump.                                                                                :Pumps:Water:
+    ID: 07067033.wav
+    Length: 47
+** Hand pump.                                                                                :Pumps:Water:
+    ID: 07067032.wav
+    Length: 34
+** Hand pump.                                                                                :Pumps:Water:
+    ID: 07067031.wav
+    Length: 42
+** 200-year old village pump filling bucket.                                                                                :Household:Buckets:
+    ID: 07067030.wav
+    Length: 28
+** Filling metal bucket from pond & pouring on to grass.                                                                                :Household:Buckets:
+    ID: 07067029.wav
+    Length: 15
+** Filling plastic bucket from pond & pouring on to concrete (3 times).                                                                                :Household:Buckets:
+    ID: 07067028.wav
+    Length: 30
+** Filling metal bucket from pond & pouring on to concrete (twice).                                                                                :Household:Buckets:
+    ID: 07067027.wav
+    Length: 24
+** Filling iron bucket with water.                                                                                :Household:Buckets:
+    ID: 07067026.wav
+    Length: 51
+** Pouring bucket down drain.                                                                                :Household:Buckets:
+    ID: 07067025.wav
+    Length: 11
+** Emptying metal bucket into sink.                                                                                :Household:Buckets:
+    ID: 07067024.wav
+    Length: 18
+** Filling metal bucket.                                                                                :Household:Buckets:
+    ID: 07067023.wav
+    Length: 44
+** Filling glass vase.                                                                                :Household:Glasses:
+    ID: 07067022.wav
+    Length: 16
+** Emptying plastic holder into sink.                                                                                :Household:Sinks:
+    ID: 07067021.wav
+    Length: 15
+** Filling plastic holder.                                                                                :Household:Plastics:
+    ID: 07067020.wav
+    Length: 15
+** Emptying plastic bucket into sink.                                                                                :Household:Buckets:
+    ID: 07067019.wav
+    Length: 14
+** Filling plastic bucket.                                                                                :Household:Buckets:
+    ID: 07067018.wav
+    Length: 39
+** Filling plastic watering can.                                                                                :Household:Watering-Cans:
+    ID: 07067017.wav
+    Length: 55
+** Filling saucepan with water.                                                                                :Household:Saucepans:
+    ID: 07067016.wav
+    Length: 28
+** Emptying metal basin.                                                                                :Household:Basins:
+    ID: 07067015.wav
+    Length: 9
+** Filling metal basin.                                                                                :Household:Basins:
+    ID: 07067014.wav
+    Length: 19
+** Pouring basin into sink.                                                                                :Household:Basins:
+    ID: 07067013.wav
+    Length: 8
+** Filling large basin.                                                                                :Household:Basins:
+    ID: 07067012.wav
+    Length: 26
+** Emptying sink.                                                                                :Household:Sinks:
+    ID: 07067011.wav
+    Length: 15
+** Filling enamel sink (stopper in).                                                                                :Household:Sinks:
+    ID: 07067010.wav
+    Length: 52
+** Filling enamel sink (no stopper).                                                                                :Household:Sinks:
+    ID: 07067009.wav
+    Length: 47
+** Emptying tin sink.                                                                                :Household:Sinks:
+    ID: 07067008.wav
+    Length: 16
+** Filling tin sink.                                                                                :Household:Sinks:
+    ID: 07067007.wav
+    Length: 43
+** Emptying stone sink.                                                                                :Household:Sinks:
+    ID: 07067006.wav
+    Length: 12
+** Filling stone sink.                                                                                :Household:Sinks:
+    ID: 07067005.wav
+    Length: 51
+** Emptying metal sink.                                                                                :Household:Sinks:
+    ID: 07067004.wav
+    Length: 15
+** Filling metal sink.                                                                                :Household:Sinks:
+    ID: 07067003.wav
+    Length: 33
+** Water running into sink (plug out - tap half on).                                                                                :Household:Sinks:
+    ID: 07067002.wav
+    Length: 145
+** Washing up crockery & cutlery.                                                                                :Washing Up:
+    ID: 07067001.wav
+    Length: 113
+** Muffled bells - starting and pealing at St, Mary the Virgin Godmanchester.                                                                                :Churches:Bells:Godmanchester:
+    ID: 07066181.wav
+    Length: 150
+** Half-muffled - starting, pealing, stopping at St Mary the Virgin Godmanchester.                                                                                :Churches:Bells:Godmanchester:
+    ID: 07066180.wav
+    Length: 205
+** 12 bells ringing, Worcester Cathedral.                                                                                :Bells:Cathedrals:Worcester:
+    ID: 07066179.wav
+    Length: 175
+** 10 bells ringing, Lichfield Cathedral.                                                                                :Bells:Cathedrals:Lichfield:
+    ID: 07066178.wav
+    Length: 173
+** 10 bells ringing, Parish of St. George, Greenock.                                                                                :Churches:Bells:Greenock:
+    ID: 07066177.wav
+    Length: 170
+** Iona Abbey's tenor bell ringing.                                                                                :Bells:Abbeys:
+    ID: 07066176.wav
+    Length: 175
+** St. Cuthbert's Edinburgh, bells ringing.                                                                                :Bells:Churches:
+    ID: 07066175.wav
+    Length: 153
+** Cambridge Maximus.                                                                                :Churches:Bells:Edinburgh:
+    ID: 07066174.wav
+    Length: 158
+** St. Philip's Cathedral, Birmingham - ringing.                                                                                :Bells:Cathedrals:Birmingham:
+    ID: 07066173.wav
+    Length: 173
+** Ringing down in peal - ringing ends (Evercreech, Somerset).                                                                                :Churches:Bells:Evercreech:
+    ID: 07066172.wav
+    Length: 131
+** Stedman triples rung - ringing , starts & ends (Evercreech, Somerset)                                                                                :Churches:Bells:Evercreech:
+    ID: 07066171.wav
+    Length: 199
+** Grandsire caters rung - ringing ends (Evercreech, Somerset).                                                                                :Churches:Bells:Evercreech:
+    ID: 07066170.wav
+    Length: 168
+** Grandsire triples run - ringing ends (Evercreech, Somerset).                                                                                :Churches:Bells:Evercreech:
+    ID: 07066169.wav
+    Length: 169
+** Parish Church of St. Bartholomew, Lostwithiel - 6 bells.                                                                                :Churches:Bells:Lostwithiel:
+    ID: 07066168.wav
+    Length: 240
+** Parish Church of St. Nicholas, Sevenoaks - 8 bells.                                                                                :Churches:Bells:Sevenoaks:
+    ID: 07066167.wav
+    Length: 157
+** Winchester Cathedral.                                                                                :Bells:Cathedrals:Winchester:
+    ID: 07066166.wav
+    Length: 171
+** Single bell tolling - with sound mechanism, English village church.                                                                                :Churches:Bells:
+    ID: 07066165.wav
+    Length: 204
+** Single bell ringing, English village church.                                                                                :Churches:Bells:
+    ID: 07066164.wav
+    Length: 197
+** Peal of 6 bells, English village church.                                                                                :Churches:Bells:
+    ID: 07066163.wav
+    Length: 403
+** Ringing up into rounds, English village church bells.                                                                                :Churches:Bells:
+    ID: 07066162.wav
+    Length: 182
+** Rounds - firing, ends with rounds, English village church.                                                                                :Churches:Bells:
+    ID: 07066161.wav
+    Length: 156
+** 6 bells poorly rung in English village church.                                                                                :Churches:Bells:Rung Poorly:
+    ID: 07066160.wav
+    Length: 240
+** Taxiing in, engines run down - exterior (prop-jet airliner).                                                                                :Aircraft:Bristol Britannia:
+    ID: 07066159.wav
+    Length: 149
+** Landing - exterior (prop-jet airliner).                                                                                :Aircraft:Bristol Britannia:
+    ID: 07066158.wav
+    Length: 29
+** Running up engines at start up - exterior (prop-jet airliner).                                                                                :Aircraft:Bristol Britannia:
+    ID: 07066157.wav
+    Length: 131
+** Passing overhead - exterior (prop-jet airliner).                                                                                :Aircraft:Bristol Britannia:
+    ID: 07066156.wav
+    Length: 13
+** Take off - exterior (prop-jet airliner).                                                                                :Aircraft:Bristol Britannia:
+    ID: 07066155.wav
+    Length: 38
+** Taxiing to take off - exterior (prop-jet airliner).                                                                                :Aircraft:Bristol Britannia:
+    ID: 07066154.wav
+    Length: 119
+** Taxi away - exterior (prop-jet airliner).                                                                                :Aircraft:Bristol Britannia:
+    ID: 07066153.wav
+    Length: 80
+** Engines running, foreground - exterior (prop-jet airliner).                                                                                :Aircraft:Bristol Britannia:
+    ID: 07066152.wav
+    Length: 140
+** Taxi to stop and switch off - interior (prop-jet airliner).                                                                                :Aircraft:Bristol Britannia:
+    ID: 07066151.wav
+    Length: 69
+** Touchdown & taxi - interior (prop-jet airliner).                                                                                :Aircraft:Bristol Britannia:
+    ID: 07066150.wav
+    Length: 103
+** Descent - interior (prop-jet airliner).                                                                                :Aircraft:Bristol Britannia:
+    ID: 07066149.wav
+    Length: 137
+** Constant flight - interior (prop-jet airliner).                                                                                :Aircraft:Bristol Britannia:
+    ID: 07066148.wav
+    Length: 298
+** Take off into constant flight - interior (prop-jet airliner).                                                                                :Aircraft:Bristol Britannia:
+    ID: 07066147.wav
+    Length: 71
+** Start, run up engines, taxi - interior (prop-jet airliner).                                                                                :Aircraft:Bristol Britannia:
+    ID: 07066146.wav
+    Length: 211
+** Taxiing - exterior (single engine jet fighter).                                                                                :Aircraft:Starfighter:
+    ID: 07066145.wav
+    Length: 119
+** Airfield atmosphere - exterior (single engine jet fighter).                                                                                :Aircraft:Starfighter:
+    ID: 07066144.wav
+    Length: 62
+** Two passing overhead - exterior (single engine jet fighter).                                                                                :Aircraft:Starfighter:
+    ID: 07066143.wav
+    Length: 18
+** Passing overhead - exterior (single engine jet fighter).                                                                                :Aircraft:Starfighter:
+    ID: 07066142.wav
+    Length: 21
+** Landing - exterior (single engine jet fighter).                                                                                :Aircraft:Starfighter:
+    ID: 07066141.wav
+    Length: 30
+** Take off - exterior (single engine jet fighter).                                                                                :Aircraft:Starfighter:
+    ID: 07066140.wav
+    Length: 40
+** Aerobatics two aircraft (WWII aircraft, one piston Griffon engines).                                                                                :Aircraft:British Naval Seafire:
+    ID: 07066139.wav
+    Length: 67
+** Aerobatics single aircraft (WWII aircraft, one piston Griffon engine).                                                                                :Aircraft:British Naval Seafire:
+    ID: 07066138.wav
+    Length: 136
+** Taxi up & switch off (WWII aircraft, one piston Griffon engine).                                                                                :Aircraft:British Naval Seafire:
+    ID: 07066137.wav
+    Length: 54
+** Landing (WWII aircraft, one piston Griffon engine).                                                                                :Aircraft:British Naval Seafire:
+    ID: 07066136.wav
+    Length: 26
+** Passing overhead, cuts engine (WWII aircraft, one piston Griffon engine).                                                                                :Aircraft:British Naval Seafire:
+    ID: 07066135.wav
+    Length: 49
+** Gathering speed to take off (WWII aircraft, one piston Griffon engine).                                                                                :Aircraft:British Naval Seafire:
+    ID: 07066134.wav
+    Length: 42
+** Start, tickover, taxi away (WWII aircraft, one piston Griffon engine).                                                                                :Aircraft:British Naval Seafire:
+    ID: 07066133.wav
+    Length: 120
+** False start (WWII aircraft, one piston Griffon engine).                                                                                :Aircraft:British Naval Seafire:
+    ID: 07066132.wav
+    Length: 4
+** Passing low overhead - exterior (single piston, open cockpit aircraft)                                                                                :Aircraft:Tiger Moth:
+    ID: 07066131.wav
+    Length: 20
+** Passing overhaed - exterior (single piston, open cockpit aircraft)                                                                                :Aircraft:Tiger Moth:
+    ID: 07066130.wav
+    Length: 21
+** Taxi up, switch off - exterior (single piston open cockpit aircraft).                                                                                :Aircraft:Tiger Moth:
+    ID: 07066129.wav
+    Length: 37
+** Taxi up, revving, switch off - exterior (single piston open cockpit aircraft).                                                                                :Aircraft:Tiger Moth:
+    ID: 07066128.wav
+    Length: 30
+** Land, switch off - exterior (single piston, open cockpit aircraft).                                                                                :Aircraft:Tiger Moth:
+    ID: 07066127.wav
+    Length: 34
+** Take off - exterior (single piston, open cockpit aircraft).                                                                                :Aircraft:Tiger Moth:
+    ID: 07066126.wav
+    Length: 25
+** Constant flight - interior (single piston, open cockpit aircraft).                                                                                :Aircraft:Tiger Moth:
+    ID: 07066125.wav
+    Length: 220
+** Revving, tickover, switch off - interior (single piston open cockpit aircraft).                                                                                :Aircraft:Tiger Moth:
+    ID: 07066124.wav
+    Length: 101
+** Land, taxi in, switch off - interior (single piston, open cockpit aircraft).                                                                                :Aircraft:Tiger Moth:
+    ID: 07066123.wav
+    Length: 55
+** Start up, take off - interior (single piston, open cockpit aircraft).                                                                                :Aircraft:Tiger Moth:
+    ID: 07066122.wav
+    Length: 65
+** Start up, tickover, switch off - interior (single piston, open cockpit aircraft).                                                                                :Aircraft:Tiger Moth:
+    ID: 07066121.wav
+    Length: 65
+** Passing over - exterior.                                                                                :Aircraft:Piper:
+    ID: 07066120.wav
+    Length: 15
+** Landing - exterior.                                                                                :Aircraft:Piper:
+    ID: 07066119.wav
+    Length: 35
+** Start up, taxi and take off - exterior.                                                                                :Aircraft:Piper:
+    ID: 07066118.wav
+    Length: 66
+** Take off - exterior.                                                                                :Aircraft:Piper:
+    ID: 07066117.wav
+    Length: 46
+** Start up, taxi past and away - exterior.                                                                                :Aircraft:Piper:
+    ID: 07066116.wav
+    Length: 40
+** Descent, land, taxi, switch off - interior.                                                                                :Aircraft:Piper:
+    ID: 07066115.wav
+    Length: 174
+** Constant flight - interior.                                                                                :Aircraft:Piper:
+    ID: 07066114.wav
+    Length: 142
+** Take off, climb to level flight - interior.                                                                                :Aircraft:Piper:
+    ID: 07066113.wav
+    Length: 222
+** Start-up, taxi, run up for checking purposes, switch off - interior.                                                                                :Aircraft:Piper:
+    ID: 07066112.wav
+    Length: 166
+** Tenon saw.                                                                                :Saws:Tenon:
+    ID: 07066111.wav
+    Length: 55
+** Sawing by hand, carpenters' workshop.                                                                                :Saws:Hand:
+    ID: 07066110.wav
+    Length: 150
+** Band saw - switch on and off.                                                                                :Saws:Band:
+    ID: 07066109.wav
+    Length: 182
+** General workshop atmosphere.                                                                                :Workshops:Carpenters:
+    ID: 07066108.wav
+    Length: 242
+** Router - switch on and off.                                                                                :Routers:
+    ID: 07066107.wav
+    Length: 78
+** Spindle mould cutter.                                                                                :Workshops:Carpenters:
+    ID: 07066106.wav
+    Length: 82
+** Belt sander.                                                                                :Sanding Machines:
+    ID: 07066105.wav
+    Length: 99
+** Rip saw, carpenters' workshop.                                                                                :Saws:Rip:
+    ID: 07066104.wav
+    Length: 133
+** Crosscut saw.                                                                                :Workshops:Carpenters:
+    ID: 07066103.wav
+    Length: 89
+** Thicknesser plane, carpenters' workshop.                                                                                :Planes:
+    ID: 07066102.wav
+    Length: 120
+** Over end plane.                                                                                :Planes:
+    ID: 07066101.wav
+    Length: 91
+** Band saw.                                                                                :Saws:Band:
+    ID: 07066100.wav
+    Length: 188
+** Planing machine.                                                                                :Planes:
+    ID: 07066099.wav
+    Length: 168
+** Overhead shafting for belt driven machinery - start, run, stop.                                                                                :Factories:Woodworking:
+    ID: 07066098.wav
+    Length: 190
+** Routing machine.                                                                                :Routers:
+    ID: 07066097.wav
+    Length: 203
+** Saw.                                                                                :Saws:Circular:
+    ID: 07066096.wav
+    Length: 241
+** 14 inch saw in timber yard.                                                                                :Saws:Circular:
+    ID: 07066095.wav
+    Length: 214
+** Portable 5 inch cutting against grain.                                                                                :Saws:Circular:
+    ID: 07066094.wav
+    Length: 91
+** Portable 5 inch cutting with the grain.                                                                                :Saws:Circular:
+    ID: 07066093.wav
+    Length: 132
+** Morning work begins with lorries in background - band saw starts, general activity.                                                                                :Saws:Band:
+    ID: 07066092.wav
+    Length: 288
+** Large circular saw cutting 12ft planks.                                                                                :Saws:Circular:
+    ID: 07066091.wav
+    Length: 163
+** Hooter - yard shuts down and ends with sliding doors.                                                                                :Timber Yards:
+    ID: 07066090.wav
+    Length: 102
+** Sawdust extractor - starts up, open-air timber yard.                                                                                :Timber Yards:
+    ID: 07066089.wav
+    Length: 71
+** Planing machine - starts, works, slows down, switches off. Open-air timber yard.                                                                                :Planes:
+    ID: 07066088.wav
+    Length: 191
+** Moulding machine - starts, works, slows down, switches off. Open-air timber yard.                                                                                :Timber Yards:
+    ID: 07066087.wav
+    Length: 192
+** Large band saw - starts, cuts, slows down at 4'10", switches off. Open-air timber yard.                                                                                :Saws:Band:
+    ID: 07066086.wav
+    Length: 398
+** High speed drilling - heard from living quarters (Sea Quest offshore oil rig, Fortes oilfield May 1976).                                                                                :Oil:Rigs:
+    ID: 07066085.wav
+    Length: 78
+** Rotary table during drilling (Sea Quest offshore oil rig, Fortes oilfield May 1976).                                                                                :Oil:Rigs:
+    ID: 07066084.wav
+    Length: 69
+** Atmos. in mud pump room (Sea Quest offshore oil rig, Fortes oilfield May 1976).                                                                                :Oil:Rigs:
+    ID: 07066083.wav
+    Length: 42
+** The mud shaker (Sea Quest offshore oil rig, Fortes oilfield May 1976).                                                                                :Oil:Rigs:
+    ID: 07066082.wav
+    Length: 33
+** Casing pushed into hole - with squeak of brake pads (Sea Quest offshore oil rig, Fortes oilfield May 1976).                                                                                :Oil:Rigs:
+    ID: 07066081.wav
+    Length: 137
+** Crane - start, run, stop (Sea Quest offshore oil rig, Fortes oilfield May 1976).                                                                                :Cranes:
+    ID: 07066080.wav
+    Length: 101
+** Disconnecting & coupling new pipes - with occaisonal voices (Sea quest offshore oil rig, Fortes oilfield May 1976).                                                                                :Oil:Rigs:
+    ID: 07066079.wav
+    Length: 209
+** Dragging up lining pipes (Sea Quest oil rig, Fortes oilfield May 1976).                                                                                :Oil:Rigs:
+    ID: 07066078.wav
+    Length: 33
+** Pulling out the pipe - heard from control hut (Sea Quest oil rig, Fortes oilfield May 1976).                                                                                :Oil:Rigs:
+    ID: 07066077.wav
+    Length: 252
+** Atmosphere in main deck (Sea Quest offshore oil rig, Fortes oil field May 1976).                                                                                :Oil:Rigs:
+    ID: 07066076.wav
+    Length: 133
+** Pipes unload from lorry (Patagonia, Delta region 1970).                                                                                :Oil:Exploration:
+    ID: 07066075.wav
+    Length: 54
+** Large lorry backing slowly to rig (Patagonia, Delta region 1970).                                                                                :Oil:Exploration:
+    ID: 07066074.wav
+    Length: 135
+** Atmosphere on oil rig - drill operating (Patagonia, Delta region 1970).                                                                                :Oil:Exploration:
+    ID: 07066073.wav
+    Length: 115
+** Rumble of deisel engines - 25 yd from oil rig (Patagonia, Delta region 1970).                                                                                :Oil:Exploration:
+    ID: 07066072.wav
+    Length: 48
+** Lorry constant run on a bumpy road (Patagonia, Delta region 1970).                                                                                :Lorries:
+    ID: 07066071.wav
+    Length: 97
+** Lorry approach & pass (Patagonia, Delta region 1970).                                                                                :Lorries:
+    ID: 07066070.wav
+    Length: 13
+** Drilling lorry departs (Patagonia, Delta region 1970).                                                                                :Oil:Exploration:
+    ID: 07066069.wav
+    Length: 24
+** Shot blast (Patagonia, Delta region 1970).                                                                                :Explosions:
+    ID: 07066068.wav
+    Length: 7
+** Packing charges into drill holes (Patagonia, Delta region 1970).                                                                                :Oil:Exploration:
+    ID: 07066067.wav
+    Length: 22
+** Drilling lorries - changing bits, drilling starts at 1'02" (Patagonia, Delta region 1970).                                                                                :Oil:Exploration:
+    ID: 07066066.wav
+    Length: 88
+** Drilling lorries (Patagonia, Delta region 1970).                                                                                :Oil:Exploration:
+    ID: 07066065.wav
+    Length: 34
+** 4-wheel drive truck - constant run over rough icy ground (Alaska 1970).                                                                                :Oil:Drilling:
+    ID: 07066064.wav
+    Length: 110
+** Seismic camp - truck motors running (Alaska 1970).                                                                                :Oil:Drilling:
+    ID: 07066063.wav
+    Length: 97
+** 2 Skidoos passing (Alaska 1970).                                                                                :Oil:Drilling:
+    ID: 07066062.wav
+    Length: 16
+** General atmos. - "sky cranes", helicopters, gulls, etc. (Alaska 1970).                                                                                :Oil:Drilling:
+    ID: 07066061.wav
+    Length: 113
+** Oil drilling rig - exterior (Alaska 1970).                                                                                :Oil:Drilling:
+    ID: 07066060.wav
+    Length: 90
+** Oil drilling rig - interior (Alaska 1970).                                                                                :Oil:Drilling:
+    ID: 07066059.wav
+    Length: 97
+** Outdoor alarm signal (Fawley 1961).                                                                                :Oil:Refineries:
+    ID: 07066058.wav
+    Length: 25
+** Alarm signal (Fawley 1961).                                                                                :Oil:Refineries:
+    ID: 07066057.wav
+    Length: 22
+** Air fin coolers (Fawley 1961).                                                                                :Oil:Refineries:
+    ID: 07066056.wav
+    Length: 265
+** Burning of waste gases (Fawley 1961).                                                                                :Oil:Refineries:
+    ID: 07066055.wav
+    Length: 174
+** High-pressure water pumps (Fawley 1961).                                                                                :Oil:Refineries:
+    ID: 07066054.wav
+    Length: 178
+** Heavy duty compressors (Fawley 1961).                                                                                :Oil:Refineries:
+    ID: 07066053.wav
+    Length: 163
+** Polymerisation plant (Fawley 1961).                                                                                :Oil:Refineries:
+    ID: 07066052.wav
+    Length: 181
+** Catalytic cracking plant (Fawley 1961).                                                                                :Oil:Refineries:
+    ID: 07066051.wav
+    Length: 179
+** Principal distillation furnace (Fawley 1961).                                                                                :Oil:Refineries:
+    ID: 07066050.wav
+    Length: 180
+** Car ramp.                                                                                :Cars:Maintenance:
+    ID: 07066049.wav
+    Length: 35
+** Grinding wheel.                                                                                :Cars:Maintenance:
+    ID: 07066048.wav
+    Length: 36
+** High-pressure grease gun.                                                                                :Cars:Maintenance:
+    ID: 07066047.wav
+    Length: 46
+** Electric impulse wrench on wheel nuts.                                                                                :Cars:Maintenance:
+    ID: 07066046.wav
+    Length: 43
+** Air drill.                                                                                :Cars:Maintenance:
+    ID: 07066045.wav
+    Length: 36
+** Compressed air line.                                                                                :Cars:Maintenance:
+    ID: 07066044.wav
+    Length: 42
+** Oil spray.                                                                                :Cars:Maintenance:
+    ID: 07066043.wav
+    Length: 20
+** Tyre inflated.                                                                                :Cars:Maintenance:
+    ID: 07066042.wav
+    Length: 13
+** Tyre let down.                                                                                :Cars:Maintenance:
+    ID: 07066041.wav
+    Length: 24
+** Petrol pump turned off.                                                                                :Petrol Stations:
+    ID: 07066040.wav
+    Length: 71
+** Petrol pump runs.                                                                                :Petrol Stations:
+    ID: 07066039.wav
+    Length: 45
+** Petrol pump turned on.                                                                                :Petrol Stations:
+    ID: 07066038.wav
+    Length: 58
+** Winnowing machine - starts, corn fed in, corn separated from chaff, machine switched off (recorded at sieve end of machine).                                                                                :Farms:Winnowing Machines:
+    ID: 07066037.wav
+    Length: 192
+** Winnowing machine - starts, corn fed in, corn separated from chaff, machine switched off.                                                                                :Farms:Winnowing Machines:
+    ID: 07066036.wav
+    Length: 182
+** Winnowing machine - starts, runs with no corn, stops.                                                                                :Farms:Winnowing Machines:
+    ID: 07066035.wav
+    Length: 202
+** Corn sucker feeding corn from silo to lorry.                                                                                :Farms:Corn Suckers:
+    ID: 07066034.wav
+    Length: 182
+** Grain stacker blowing corn through funnel from trailer to silo -heard from inside silo.                                                                                :Farms:Grain Stackers:
+    ID: 07066033.wav
+    Length: 141
+** Grain stacker blowing corn through funnel from trailer to silo -heard from outside silo.                                                                                :Farms:Grain Stackers:
+    ID: 07066032.wav
+    Length: 141
+** Drum threshing machine starts, runs, stops - recorded at pitching side.                                                                                :Farms:Threshing Machines:
+    ID: 07066031.wav
+    Length: 274
+** Drum threshing machine starts, runs, stops - recorded in general position.                                                                                :Farms:Threshing Machines:
+    ID: 07066030.wav
+    Length: 264
+** Wheel lowered into water, gathers speed, lifted form water, stops (closer perspective).                                                                                :Water Mills:
+    ID: 07066029.wav
+    Length: 157
+** Wheel lowered into water, gathers speed, lifted from water, stops.                                                                                :Water Mills:
+    ID: 07066028.wav
+    Length: 190
+** Mill starts to grind, runs & stops.                                                                                :Water Mills:
+    ID: 07066027.wav
+    Length: 269
+** Corn loaded into box above mill stones prior to grinding.                                                                                :Water Mills:
+    ID: 07066026.wav
+    Length: 39
+** Interior, mill starts up - grinds grain with breast & tail stones, warning bell at 2'36 (grain running out), mill stops.                                                                                :Bells:Alarm:
+    ID: 07066025.wav
+    Length: 213
+** Interior, on 1st floor - mill grinds grain with tail stones, mill stops.                                                                                :Grinders:Stone Wheels:
+    ID: 07066024.wav
+    Length: 199
+** Interior, on 1st floor - mill starts up, grinds grain with breast stones, mill stops.                                                                                :Grinders:Stone Wheels:
+    ID: 07066023.wav
+    Length: 226
+** Interior, chain hoists bringing bags of grain up to top floor.                                                                                :Chains:
+    ID: 07066022.wav
+    Length: 77
+** Interior, general atmosphere with mill stopping.                                                                                :Windmills:
+    ID: 07066021.wav
+    Length: 177
+** Interior, general atmosphere on top floor with ginding.                                                                                :Grinders:
+    ID: 07066020.wav
+    Length: 177
+** Interior, general atmosphere on top floor with mill operating.                                                                                :Windmills:
+    ID: 07066019.wav
+    Length: 177
+** Interior, general atmosphere on 2nd floor with mill operating.                                                                                :Windmills:
+    ID: 07066018.wav
+    Length: 177
+** Interior, general atmosphere on 1st floor with mill operating.                                                                                :Windmills:
+    ID: 07066017.wav
+    Length: 175
+** Interior. Chain off, release breaks, close shutters, sail out, mill operates, runs, brakes applied, mill stops.                                                                                :Chains:
+    ID: 07066016.wav
+    Length: 312
+** Windmill - exterior, sails rotating in wind.                                                                                :Windmills:
+    ID: 07066015.wav
+    Length: 218
+** Mixed crowd in a busy tea tent - June '1980 (1R7,reprocessed)                                                                                :Tents:
+    ID: 07066014.wav
+    Length: 301
+** Atmosphere in a crowded tea marquee - 1981 (1C23,reprocessed)                                                                                :Tents:
+    ID: 07066013.wav
+    Length: 284
+** Busy atmosphere in a tea room, children & adults (constant background with coins and clatter) - 1978 (1R8,reprocessed)                                                                                :Children:Playing:
+    ID: 07066012.wav
+    Length: 330
+** Snack bar - busy atmosphere, mainly women and children - 1982 (1R10,reprocessed)                                                                                :Children:Playing:
+    ID: 07066011.wav
+    Length: 299
+** Atmosphere in a fairly busy large canteen - 1972 (1R2,reprocessed)                                                                                :Canteens:
+    ID: 07066010.wav
+    Length: 300
+** Atmosphere in large cafeteria in London Zoo, with children's voices - 1974 (1C17,reprocessed)                                                                                :Cafes:
+    ID: 07066009.wav
+    Length: 299
+** Expresso coffee machine, person preparing coffee, close perspective (some background traffic) - Nov '1966 (15E,reprocessed)                                                                                :Cafes:
+    ID: 07066008.wav
+    Length: 134
+** Large busy cafe atmosphere with chatter and clatter of plates, occasional cattle mooing in background 1982 (1R10,reprocessed)                                                                                :Cafes:
+    ID: 07066007.wav
+    Length: 300
+** Quiet transport cafe with occasional speech and chatter - 1981 (1C12,reprocessed)                                                                                :Cafes:
+    ID: 07066006.wav
+    Length: 323
+** Crowd in hamburger fast food store - 1982 (1C27,reprocessed)                                                                                :Restaurants:
+    ID: 07066005.wav
+    Length: 299
+** Buffet at London Airport, quiet with distinct PA announcements from 1'13" - 1973 (1R3,reprocessed)                                                                                :Airports:London City Airport:
+    ID: 07066004.wav
+    Length: 300
+** Buffet at London Airport, fairly busy - 1973 (1R3,reprocessed)                                                                                :Airports:London City Airport:
+    ID: 07066003.wav
+    Length: 300
+** Quiet atmosphere in a small restaurant (indistinct speech) - 1978 (1R8,reprocessed)                                                                                :Restaurants:
+    ID: 07066002.wav
+    Length: 330
+** Restaurant - mixed busy chatter with distant crockery sounds - 1974 (1R6,reprocessed)                                                                                :Crockery:
+    ID: 07066001.wav
+    Length: 330
+** Large glass crashes - 1-2 crashes (84A) 8", 3".                                                                                :Glass:Crashes:
+    ID: 07065177.wav
+    Length: 13
+** Large glass crash. (5C1)                                                                                :Glass:Crashes:
+    ID: 07065176.wav
+    Length: 4
+** Medium to large glass crashes - 1-2 crashes (5C1) 2", 4".                                                                                :Glass:Crashes:
+    ID: 07065175.wav
+    Length: 31
+** Medium glass crashes - 1-6 crashes (84G)&(84H) 4", 3", 4", 3", 3", 3".                                                                                :Glass:Crashes:
+    ID: 07065174.wav
+    Length: 31
+** Medium glass crashes - 1-6 crashes (84A) 3", 2", 2", 3", 2", 3".                                                                                :Glass:Crashes:
+    ID: 07065173.wav
+    Length: 24
+** Medium glass crashes - 1: two crashes (5C1) 2" 2-5: Four glass crashes (5C1) 3", 2", 3", 2".                                                                                :Glass:Crashes:
+    ID: 07065172.wav
+    Length: 22
+** Small glass crashes - Three small pieces fall (84G)                                                                                :Glass:Crashes:
+    ID: 07065171.wav
+    Length: 5
+** Small glass crashes - 1-5 piece falls (84H) 3", 2", 2", 2", 3".                                                                                :Glass:Crashes:
+    ID: 07065170.wav
+    Length: 22
+** Small glass crashes - 1-2 piece falls (5C1) 1", 2".                                                                                :Glass:Crashes:
+    ID: 07065169.wav
+    Length: 6
+** Two hits with crash (84G)                                                                                :Glass:Crashes:
+    ID: 07065168.wav
+    Length: 6
+** Hit with medium crash (84G)                                                                                :Glass:Crashes:
+    ID: 07065167.wav
+    Length: 3
+** 1-2 Glass hit & crash (84G) 2", 2". 0'16" 3 Three taps & crash (84H)                                                                                :Glass:Crashes:
+    ID: 07065166.wav
+    Length: 6
+** Exterior cascade of glass (84H)                                                                                :Glass:Crashes:
+    ID: 07065165.wav
+    Length: 16
+** 1-2 Cascading glass (5C1) 2", 3".                                                                                :Glass:Crashes:
+    ID: 07065164.wav
+    Length: 9
+** Exterior, sweeping glass (84H)                                                                                :Glass:Crashes:
+    ID: 07065163.wav
+    Length: 17
+** Exterior, sweeping glass (84H)                                                                                :Glass:Crashes:
+    ID: 07065162.wav
+    Length: 59
+** Clearing up broken glass (5C2)                                                                                :Glass:Crashes:
+    ID: 07065161.wav
+    Length: 35
+** Window breaking (5C2)                                                                                :Glass:Crashes:
+    ID: 07065160.wav
+    Length: 4
+** Glass explosion (5C2) 4", 4".                                                                                :Glass:Crashes:
+    ID: 07065159.wav
+    Length: 6
+** 1-2 Neon tube bursts (5C2) 4", 4".                                                                                :Glass:Crashes:
+    ID: 07065158.wav
+    Length: 11
+** 1-2 Wine glass dropped (5C2) 3", 2".                                                                                :Glass:Crashes:
+    ID: 07065157.wav
+    Length: 10
+** Wine glass dropped (5C2)                                                                                :Glass:Crashes:
+    ID: 07065156.wav
+    Length: 4
+** Small bulldozer working (5C3)                                                                                :Bulldozers:
+    ID: 07065155.wav
+    Length: 58
+** Mechanical digger (5C3)                                                                                :Demolition:
+    ID: 07065154.wav
+    Length: 90
+** Ball & chain demolition (16L)                                                                                :Demolition:
+    ID: 07065153.wav
+    Length: 182
+** Manual demolition work (83G)                                                                                :Demolition:
+    ID: 07065152.wav
+    Length: 184
+** Manual demolition work (83G)                                                                                :Demolition:
+    ID: 07065151.wav
+    Length: 184
+** Manual demolition work (16F)                                                                                :Demolition:
+    ID: 07065150.wav
+    Length: 189
+** Manual demolition work (16G)                                                                                :Demolition:
+    ID: 07065149.wav
+    Length: 181
+** Manual demolition work (16G)                                                                                :Demolition:
+    ID: 07065148.wav
+    Length: 188
+** Manual demolition work (16G)                                                                                :Demolition:
+    ID: 07065147.wav
+    Length: 157
+** Manual demolition work (16F)                                                                                :Demolition:
+    ID: 07065146.wav
+    Length: 173
+** Manual demolition work (16F)                                                                                :Demolition:
+    ID: 07065145.wav
+    Length: 180
+** Manual demolition work (5C3)                                                                                :Demolition:
+    ID: 07065144.wav
+    Length: 145
+** Manual demolition work (5C3)                                                                                :Demolition:
+    ID: 07065143.wav
+    Length: 101
+** Falling stones (16G)                                                                                :Demolition:
+    ID: 07065142.wav
+    Length: 15
+** Falling stones (16G)                                                                                :Demolition:
+    ID: 07065141.wav
+    Length: 14
+** Rear of sliding debris (16F)                                                                                :Demolition:
+    ID: 07065140.wav
+    Length: 63
+** Rear of falling debris (16G)                                                                                :Demolition:
+    ID: 07065139.wav
+    Length: 48
+** Wall collapsing (16G)                                                                                :Demolition:
+    ID: 07065138.wav
+    Length: 12
+** Wall collapsing (5C3)                                                                                :Demolition:
+    ID: 07065137.wav
+    Length: 5
+** Wall collapsing (5C3)                                                                                :Demolition:
+    ID: 07065136.wav
+    Length: 5
+** Building crash (84F)                                                                                :Demolition:
+    ID: 07065135.wav
+    Length: 12
+** Warning hooter (5C3)                                                                                :Demolition:
+    ID: 07065134.wav
+    Length: 16
+** Piece of crockery broken (5C2)                                                                                :Crockery:Crashes:
+    ID: 07065133.wav
+    Length: 20
+** Six car skids - 1971 (84E)                                                                                :Cars:Skids:
+    ID: 07065132.wav
+    Length: 13
+** Car skid - 1971 (84E)                                                                                :Cars:Skids:
+    ID: 07065131.wav
+    Length: 4
+** Mini Special turning 360 degrees - 1971 (84E)                                                                                :Cars:Mini Special:
+    ID: 07065130.wav
+    Length: 35
+** Mini Special skidding - 1971 (84E)                                                                                :Cars:Mini Special:
+    ID: 07065129.wav
+    Length: 5
+** Mini Special skidding - 1971 (84E)                                                                                :Cars:Mini Special:
+    ID: 07065128.wav
+    Length: 10
+** Car approach & skid - 1971 (84E)                                                                                :Cars:Skids:
+    ID: 07065127.wav
+    Length: 6
+** 1-3 Car 1971 (84E) 7", 3", 4".                                                                                :Cars:Skids:
+    ID: 07065126.wav
+    Length: 20
+** 1-3 Car 1971 (84E) 5", 6", 6".                                                                                :Cars:Skids:
+    ID: 07065125.wav
+    Length: 20
+** Car crash -1967 (84D)                                                                                :Cars:Crashes:
+    ID: 07065124.wav
+    Length: 5
+** Car crash, skid, crash -1967 (84D)                                                                                :Cars:Crashes:
+    ID: 07065123.wav
+    Length: 9
+** Car skid, crash -1967 (84D)                                                                                :Cars:Crashes:
+    ID: 07065122.wav
+    Length: 5
+** Car crash (no car noise) -1967 (84D)                                                                                :Cars:Crashes:
+    ID: 07065121.wav
+    Length: 4
+** Car skid, crash - 1967 (84D)                                                                                :Cars:Crashes:
+    ID: 07065120.wav
+    Length: 9
+** Car skid, crash - 1967 (84D)                                                                                :Cars:Crashes:
+    ID: 07065119.wav
+    Length: 5
+** Car skid, crash - 1967 (84D)                                                                                :Cars:Crashes:
+    ID: 07065118.wav
+    Length: 7
+** Car skid, crash - 1967. (84D)                                                                                :Cars:Crashes:
+    ID: 07065117.wav
+    Length: 8
+** Car approach, skid, crash - 1967.                                                                                :Cars:Crashes:
+    ID: 07065116.wav
+    Length: 17
+** Car approach & crash - 1967. (84D)                                                                                :Cars:Crashes:
+    ID: 07065115.wav
+    Length: 18
+** Car skid, crash (twice) - 1967 (84D)                                                                                :Cars:Crashes:
+    ID: 07065114.wav
+    Length: 10
+** Car approach with horn - 1967 (84D)                                                                                :Cars:Crashes:
+    ID: 07065113.wav
+    Length: 24
+** Exterior, piston aircraft - 1967 (141A)                                                                                :Aircraft:Crashes:
+    ID: 07065112.wav
+    Length: 20
+** Exterior, jet aircraft - 1967 (141A)                                                                                :Aircraft:Crashes:
+    ID: 07065111.wav
+    Length: 40
+** Traffic -Hammersmith- with "Star, News, Standard" shouted in background.                                                                                :Newspapers:
+    ID: 07065110.wav
+    Length: 92
+** Atmosphere in despatch department at a national daily newspaper.                                                                                :Newspapers:
+    ID: 07065109.wav
+    Length: 204
+** Atmosphere in compositors' area at a national daily newspaper.                                                                                :Newspapers:
+    ID: 07065108.wav
+    Length: 203
+** Atmosphere in copytype section at a national daily newspaper.                                                                                :Newspapers:
+    ID: 07065107.wav
+    Length: 204
+** Atmosphere in linotype department at a national daily newspaper.                                                                                :Newspapers:
+    ID: 07065106.wav
+    Length: 202
+** National newspaper printing press, chatter etc - hooter at 40" - presses start up and gather speed.                                                                                :Hooters:
+    ID: 07065105.wav
+    Length: 438
+** Atmosphere in reference library at a daily national newspaper - staff extracting and sorting newspaper cuttings.                                                                                :Newspapers:
+    ID: 07065104.wav
+    Length: 231
+** General atmosphere in type-setting area at a daily national newspaper.                                                                                :Newspapers:
+    ID: 07065103.wav
+    Length: 156
+** Proving press operating in block department at a national daily newspaper.                                                                                :Newspapers:
+    ID: 07065102.wav
+    Length: 170
+** Grouting machine operating in block department at a national daily newspaper.                                                                                :Newspapers:
+    ID: 07065101.wav
+    Length: 88
+** Beveller operating in block department at a national daily newspaper.                                                                                :Newspapers:
+    ID: 07065100.wav
+    Length: 92
+** Plate cutting saw operating in block department at a national daily newspaper.                                                                                :Newspapers:
+    ID: 07065099.wav
+    Length: 87
+** Powder etching machine operating in block department at a national daily newspaper (use at low level).                                                                                :Newspapers:
+    ID: 07065098.wav
+    Length: 172
+** An acid machine operating in block department at a national daily newspaper.                                                                                :Newspapers:
+    ID: 07065097.wav
+    Length: 130
+** A coating machine operating in block department at a national daily newspaper.                                                                                :Newspapers:
+    ID: 07065096.wav
+    Length: 101
+** Printing with a Devon frame in block department at a national daily newspaper.                                                                                :Newspapers:
+    ID: 07065095.wav
+    Length: 57
+** Retouching piture with air brush in artistic department at a national daily newspaper.                                                                                :Newspapers:
+    ID: 07065094.wav
+    Length: 57
+** General atmosphere with instructions in the picture transmitting and receiving room of a daily national newspaper.                                                                                :Newspapers:
+    ID: 07065093.wav
+    Length: 247
+** Transmission and reception, rec. in picture transmitting and receiving room of a daily national newspaper.                                                                                :Newspapers:
+    ID: 07065092.wav
+    Length: 135
+** Full transmission, recorded in picture transmitting and receiving room of a daily national newspaper.                                                                                :Newspapers:
+    ID: 07065091.wav
+    Length: 135
+** Picture transmission, rec. in picture transmitting and receiving room of a daily national newspaper.                                                                                :Newspapers:
+    ID: 07065090.wav
+    Length: 104
+** Tape room atmosphere at national daily newspaper.                                                                                :Newspapers:
+    ID: 07065089.wav
+    Length: 204
+** Creed teleprinter room at national daily newspaper.                                                                                :Newspapers:
+    ID: 07065088.wav
+    Length: 202
+** General newsroom atmosphere in national daily newspaper.                                                                                :Newspapers:
+    ID: 07065087.wav
+    Length: 410
+** Pintable jackpot - 1968 (173A,reprocessed)                                                                                :Electronic Games:
+    ID: 07065086.wav
+    Length: 9
+** Pin-table, coin in slot, ball round 3 times, with bells, 'flippers' and buzzes - 1968 (173A,reprocessed)                                                                                :Electronic Games:
+    ID: 07065085.wav
+    Length: 64
+** Pin-table, coin in slot, ball round 3 times, with bell - 1968 (173A,reprocessed)                                                                                :Electronic Games:
+    ID: 07065084.wav
+    Length: 69
+** Pin-table, coin in slot, ball round 3 times, no bell - 1968 (173A,reprocessed)                                                                                :Electronic Games:
+    ID: 07065083.wav
+    Length: 75
+** Fruit machines, close perspective - 1960 (173A,reprocessed)                                                                                :Electronic Games:
+    ID: 07065082.wav
+    Length: 123
+** Space invaders - electronic game (5E8,reprocessed)                                                                                :Electronic Games:
+    ID: 07065081.wav
+    Length: 170
+** Barman activity, putting bottles onto shelves, setting out bar, collecting glasses                                                                                :Bottles:
+    ID: 07065080.wav
+    Length: 188
+** Barman collecting glasses from tables                                                                                :Glasses:
+    ID: 07065079.wav
+    Length: 18
+** Barman wiping bar, close perspective                                                                                :Barmen:
+    ID: 07065078.wav
+    Length: 26
+** Barman washing glasses, close perpsective                                                                                :Glasses:
+    ID: 07065077.wav
+    Length: 30
+** Barman setting out bar, background traffic                                                                                :Bottles:
+    ID: 07065076.wav
+    Length: 93
+** Barman putting bottles onto shelves, close perspective                                                                                :Bottles:
+    ID: 07065075.wav
+    Length: 44
+** Barman up from cellar carrying box of bottles (ends abruptly)                                                                                :Bottles:
+    ID: 07065074.wav
+    Length: 8
+** Club atmosphere, busy mixed chatter at mealtime (mid-distance) - 1981 (1C25,reprocessed)                                                                                :Crowds:Interior:Chatter:
+    ID: 07065073.wav
+    Length: 362
+** Club atmosphere, busy mixed chatter, close perspective - 1981 (1C25,reprocessed)                                                                                :Crowds:Interior:Chatter:
+    ID: 07065072.wav
+    Length: 366
+** Atmosphere in working men's club with children, fruit machines and dominoes being played in background - 1981 (1C24,reprocessed)                                                                                :Children:Playing:
+    ID: 07065071.wav
+    Length: 359
+** Game of darts in quiet Fenland pub - June '1980 (1R7,reprocessed)                                                                                :Sports:Darts:
+    ID: 07065070.wav
+    Length: 240
+** Sports club bar, atmosphere and mixed chatter - Nov '1979 (1C19,reprocessed)                                                                                :Crowds:Interior:Chatter:
+    ID: 07065069.wav
+    Length: 359
+** Atmosphere in a large club bar (recorded at Twickenham Rugby Union football club bar) - 1975 (1R5,reprocessed)                                                                                :Public Houses:Crowds:
+    ID: 07065068.wav
+    Length: 360
+** Atmosphere in a busy Cotswold pub - 1974 (1R6,reprocessed)                                                                                :Public Houses:Crowds:
+    ID: 07065067.wav
+    Length: 365
+** Mixed chatter in a busy public house - 1975 (1R5,reprocessed)                                                                                :Public Houses:Crowds:
+    ID: 07065066.wav
+    Length: 360
+** Atmosphere in a public house in the City of London, with ventilation hum - 1972 (1R1,reprocessed)                                                                                :Public Houses:Crowds:
+    ID: 07065065.wav
+    Length: 360
+** Busy lunchtime in a public house in the West End of London - 1972 (1R1,reprocessed)                                                                                :Public Houses:Crowds:
+    ID: 07065064.wav
+    Length: 356
+** Exterior, hand bell rung, children leave playground (5 and a half year-olds, reprocessed)  - December 1968 (76D, reprocessed)                                                                                :Children:Playing:
+    ID: 07065063.wav
+    Length: 71
+** 5-7 year-olds in class - 1982 (3C10, reprocessed)                                                                                :Children:Playing:
+    ID: 07065062.wav
+    Length: 360
+** Six 5-year old children playing in classroom (Pre-decimal coinage mentioned occasionally from 2'38" while playing stops)  - April 1966 (76A, reprocessed)                                                                                :Children:Playing:
+    ID: 07065061.wav
+    Length: 360
+** 3-6 year-olds playing indoors - 1975 (3C4, reprocessed)                                                                                :Children:Playing:
+    ID: 07065060.wav
+    Length: 362
+** Group of infants in school playground - 1982 (3C11, reprocessed)                                                                                :Children:Playing:
+    ID: 07065059.wav
+    Length: 212
+** Noisy infants in classroom - 1982 (3C11, reprocessed)                                                                                :Children:Playing:
+    ID: 07065058.wav
+    Length: 360
+** 2-3 year olds riding around on tricycles in mixed nursery school - November 1968 (76C, reprocessed)                                                                                :Children:Playing:
+    ID: 07065057.wav
+    Length: 105
+** 2-3 year olds playing with squeakers in mixed nursery school - November 1968 (76C, reprocessed)                                                                                :Children:Playing:
+    ID: 07065056.wav
+    Length: 64
+** Baby girl at mealtime, 9 months old - 1984 (8B3, reprocessed)                                                                                :Babies:Girls:
+    ID: 07065055.wav
+    Length: 198
+** Baby girl crying, 9 months old - 1984 (8B3, reprocessed)                                                                                :Babies:Girls:
+    ID: 07065054.wav
+    Length: 158
+** Baby girl, laughing and playing (mouth noises at end, reprocessed) , 9 months old - 1984 (8B3, reprocessed)                                                                                :Babies:Girls:
+    ID: 07065053.wav
+    Length: 196
+** Baby girl, restless in cot, early morning, 9 months old - 1984 (8B3, reprocessed)                                                                                :Babies:Girls:
+    ID: 07065052.wav
+    Length: 190
+** Baby boy, waking up sounds, 10 weeks old, with distant birdsong - 1984 (8B2, reprocessed)                                                                                :Babies:Boys:
+    ID: 07065051.wav
+    Length: 106
+** Baby boy, waking up sounds, 10 weeks old, with distant birdsong - 1984 (8B2, reprocessed)                                                                                :Babies:Boys:
+    ID: 07065050.wav
+    Length: 132
+** Baby boy, waking up sounds, 10 weeks old, with distant birdsong - 1984 (8B2, reprocessed)                                                                                :Babies:Boys:
+    ID: 07065049.wav
+    Length: 28
+** Baby boy, waking up sounds, 10 weeks old - 1984 (8B2, reprocessed)                                                                                :Babies:Boys:
+    ID: 07065048.wav
+    Length: 79
+** Baby boy, waking up sounds, 10 weeks old - 1984 (8B2, reprocessed)                                                                                :Babies:Boys:
+    ID: 07065047.wav
+    Length: 166
+** Baby boy, waking up sounds, 10 weeks old - 1984 (8B2, reprocessed)                                                                                :Babies:Boys:
+    ID: 07065046.wav
+    Length: 127
+** Baby boy crying, six weeks old - 1984 (8B1, reprocessed)                                                                                :Babies:Boys:
+    ID: 07065045.wav
+    Length: 90
+** Baby boy crying, five weeks old, tired and hungry - 1984 (8B1, reprocessed)                                                                                :Babies:Boys:
+    ID: 07065044.wav
+    Length: 294
+** Baby boy crying, two weeks old, some hiccoughs and snuffles - 1984 (8B1, reprocessed)                                                                                :Babies:Boys:
+    ID: 07065043.wav
+    Length: 118
+** Baby boy crying, two hours old, first signs of hunger - 1984 (8B1, reprocessed)                                                                                :Babies:Boys:
+    ID: 07065042.wav
+    Length: 57
+** Newly born baby boy crying, delivery room atmosphere - 1984 (8B1, reprocessed)                                                                                :Babies:Boys:
+    ID: 07065041.wav
+    Length: 103
+** St. Paul's Cathedral bells, on occasion of HRH Prince of Wales' wedding - 1981 (2B6,reprocessed)                                                                                :Bells:Cathedrals:
+    ID: 07065040.wav
+    Length: 297
+** St. Paul's Cathedral bells, 5 minutes bell - 1972 (2B1,reprocessed)                                                                                :Bells:Cathedrals:
+    ID: 07065039.wav
+    Length: 294
+** St. Paul's Cathedral bells, pealing ends - 1972 (2B1,reprocessed)                                                                                :Bells:Cathedrals:
+    ID: 07065038.wav
+    Length: 43
+** St. Paul's Cathedral bells, pealing, with distant traffic - 1972 (2B1,reprocessed)                                                                                :Bells:Cathedrals:
+    ID: 07065037.wav
+    Length: 300
+** Prinknash Abbey bells, round on 8 bells with start and stop, close perspective - 1984 (7M2,reprocessed)                                                                                :Bells:Abbeys:
+    ID: 07065036.wav
+    Length: 309
+** Westminster Abbey bells, from Dean's Yard, some birds, movement and traffic - 1972 (2B2,reprocessed)                                                                                :Bells:Abbeys:Westminster Abbey:
+    ID: 07065035.wav
+    Length: 188
+** Westminster Abbey bells, from Dean's Yard, some birds, movement and traffic - 1972 (2B2,reprocessed)                                                                                :Bells:Abbeys:Westminster Abbey:
+    ID: 07065034.wav
+    Length: 120
+** Westminster Abbey bells, from roof, peals with distant traffic, pealing ends - 1972 (2B2,reprocessed)                                                                                :Bells:Abbeys:Westminster Abbey:
+    ID: 07065033.wav
+    Length: 305
+** People leaving church after service, no conversation - 1984 (7M2,reprocessed)                                                                                :Monasteries:
+    ID: 07065032.wav
+    Length: 128
+** Congregation standing in crypt church - 1984 (7M2,reprocessed)                                                                                :Monasteries:
+    ID: 07065031.wav
+    Length: 11
+** Prinknash Abbey Monastery,Glos.,congregation kneeling to pray in crypt church - 1984 (7M2,reprocessed)                                                                                :Abbeys:
+    ID: 07065030.wav
+    Length: 10
+** Monks leaving house chapel - 1984 (7M1,reprocessed)                                                                                :Monasteries:
+    ID: 07065029.wav
+    Length: 35
+** Monks entering house chapel, quiet interior, some movement and occasional coughs - 1984 (7M1,reprocessed)                                                                                :Monasteries:
+    ID: 07065028.wav
+    Length: 125
+** Large hallway, with footsteps and occasional doors - 1984 (7M1,reprocessed)                                                                                :Monasteries:
+    ID: 07065027.wav
+    Length: 299
+** Monks rising from tables and leaving refectory - 1984 (7M1,reprocessed)                                                                                :Monasteries:
+    ID: 07065026.wav
+    Length: 49
+** Monks sit down, silence bell rung, meal commences - 1984 (7M1,reprocessed)                                                                                :Bells:Monasteries:
+    ID: 07065025.wav
+    Length: 219
+** Prinknash Abbey Monastery,Glos.,monks file into refectory in a monastery, chairs scraped - 1984 (7M1,reprocessed)                                                                                :Monasteries:
+    ID: 07065024.wav
+    Length: 95
+** Church atmosphere at Stratford-on-Avon with crowd - 1972 (1C4,reprocessed)                                                                                :Churches:
+    ID: 07065023.wav
+    Length: 306
+** St. Paul's Cathedral, London, general atmosphere in cathedral - 1973 (1C2,reprocessed)                                                                                :St Paul's Cathedral:
+    ID: 07065022.wav
+    Length: 106
+** St. Paul's Cathedral, London, atmosphere in Whispering Gallery - 1973 (1C2,reprocessed)                                                                                :St Paul's Cathedral:
+    ID: 07065021.wav
+    Length: 276
+** Buckfast Abbey, Devon, subdued crowd in abbey - 1982 (1C27,reprocessed)                                                                                :Abbeys:
+    ID: 07065020.wav
+    Length: 302
+** Westminster Abbey, London, crowd atmosphere with voices and footsteps - 1972 (1C4,reprocessed)                                                                                :Abbeys:
+    ID: 07065019.wav
+    Length: 307
+** Westminster Abbey, London, general atmosphere, large echoey interior with occasional footsteps (sections suitable for large empty building) - 1973 (1C2,reprocessed)                                                                                :Abbeys:
+    ID: 07065018.wav
+    Length: 307
+** Hlavni main-line station, Prague, ticket hall, with footsteps, speech, escalator noise, indistinct PA and general bustle                                                                                :Escalators:
+    ID: 07065017.wav
+    Length: 280
+** Tram passes right to left                                                                                :Trams:Czechoslovakia:
+    ID: 07065016.wav
+    Length: 28
+** Tram, Prague, internal, starts and stops, with PA announcements, chat etc.                                                                                :Trams:Czechoslovakia:
+    ID: 07065015.wav
+    Length: 255
+** Funicular railway, internal ride, chat (Czech), doors shut, starts, constant run with rumble and more chat, doors open, people get out                                                                                :Trains:Funicular Railways:
+    ID: 07065014.wav
+    Length: 128
+** Funicular railway, external, Prague, approaches, stops, doors open and close, departs                                                                                :Trains:Funicular Railways:
+    ID: 07065013.wav
+    Length: 103
+** Courtyard, Prague Castle, echoey footsteps, some distinct speech (Czech), occasional bell, distant traffic                                                                                :Traffic:Czechoslovakia:
+    ID: 07065012.wav
+    Length: 265
+** Kotna" department store, Prague, busy, with footsteps, speech (Czech), trolleys and till noise                                                                                :Shops:Czechoslovakia:
+    ID: 07065011.wav
+    Length: 297
+** Market, Bratislava, speech (Slovak), distant traffic, some bangs, not very busy                                                                                :Markets:Czechoslovakia:
+    ID: 07065010.wav
+    Length: 324
+** Pedestrian street, Bratislava, footsteps on cobbles, speech (Slovak), no traffic                                                                                :Pedestrians:
+    ID: 07065009.wav
+    Length: 221
+** Street, Bratislava, traffic (including heavy trams), footsteps, some distinct speech (Slovak)                                                                                :Streets:Czechoslovakia:
+    ID: 07065008.wav
+    Length: 288
+** Pedestrian precinct, Prague, footsteps, some distinct speech (Czech), distant music from busker                                                                                :Pedestrians:
+    ID: 07065007.wav
+    Length: 294
+** Open-air restaurant, Bratislava                                                                                :Restaurants:Czechoslovakia:
+    ID: 07065006.wav
+    Length: 195
+** Stara Sladovna" restaurant, very large restaurant in Bratislava, lunchtime, with noisy speech, clinks and general hubbub                                                                                :Restaurants:Czechoslovakia:
+    ID: 07065005.wav
+    Length: 209
+** Cafe, Presov, (eastern Slovakia), animated chat (Slovak), also noise from coffee machine etc.                                                                                :Cafes:Coffee Machines:
+    ID: 07065004.wav
+    Length: 297
+** Self-service cafe, Bratislava, some distinct speech (Slovak), footsteps, general noise                                                                                :Cafes:Czechoslovakia:
+    ID: 07065003.wav
+    Length: 247
+** Restaurant, Prague, fairly busy, with distinct speech (Czech) and clinks                                                                                :Restaurants:Czechoslovakia:
+    ID: 07065002.wav
+    Length: 227
+** Beer hall, Prague, noisy, rough and animated                                                                                :Bars:
+    ID: 07065001.wav
+    Length: 258
+** 1 woman departs (reprocessed)                                                                                :Footsteps:Female:Metal Stairs:Descending:
+    ID: 07064273.wav
+    Length: 21
+** 1 woman approaches and stops (reprocessed)                                                                                :Footsteps:Female:Metal Stairs:Descending:
+    ID: 07064272.wav
+    Length: 18
+** 1 woman starts and stops (reprocessed)                                                                                :Footsteps:Female:Metal Stairs:Descending:
+    ID: 07064271.wav
+    Length: 22
+** 2 men depart (reprocessed)                                                                                :Footsteps:Male:Metal Stairs:Descending:
+    ID: 07064270.wav
+    Length: 20
+** 2 men approach and stop (reprocessed)                                                                                :Footsteps:Male:Metal Stairs:Descending:
+    ID: 07064269.wav
+    Length: 26
+** 2 men start and stop (reprocessed)                                                                                :Footsteps:Male:Metal Stairs:Descending:
+    ID: 07064268.wav
+    Length: 41
+** 1 man departs (reprocessed)                                                                                :Footsteps:Male:Metal Stairs:Descending:
+    ID: 07064267.wav
+    Length: 18
+** 1 man approaches and stops (reprocessed)                                                                                :Footsteps:Male:Metal Stairs:Descending:
+    ID: 07064266.wav
+    Length: 18
+** 1 man starts and stops (reprocessed)                                                                                :Footsteps:Male:Metal Stairs:Descending:
+    ID: 07064265.wav
+    Length: 34
+** 1 woman departs (reprocessed)                                                                                :Footsteps:Female:Metal Stairs:Ascending:
+    ID: 07064264.wav
+    Length: 17
+** 1 woman approaches and stops (reprocessed)                                                                                :Footsteps:Female:Metal Stairs:Ascending:
+    ID: 07064263.wav
+    Length: 25
+** 1 woman starts and stops (reprocessed)                                                                                :Footsteps:Female:Metal Stairs:Ascending:
+    ID: 07064262.wav
+    Length: 36
+** 2 men depart (reprocessed)                                                                                :Footsteps:Male:Metal Stairs:Ascending:
+    ID: 07064261.wav
+    Length: 21
+** 2 men approach and stop (reprocessed)                                                                                :Footsteps:Male:Metal Stairs:Ascending:
+    ID: 07064260.wav
+    Length: 24
+** 2 men start and stop (reprocessed)                                                                                :Footsteps:Male:Metal Stairs:Ascending:
+    ID: 07064259.wav
+    Length: 36
+** 1 man departs (reprocessed)                                                                                :Footsteps:Male:Metal Stairs:Ascending:
+    ID: 07064258.wav
+    Length: 20
+** 1 man approaches and stops (reprocessed)                                                                                :Footsteps:Male:Metal Stairs:Ascending:
+    ID: 07064257.wav
+    Length: 21
+** 1 man starts and stops (reprocessed)                                                                                :Footsteps:Male:Metal Stairs:Ascending:
+    ID: 07064256.wav
+    Length: 35
+** 2 women depart (reprocessed)                                                                                :Footsteps:Female:Stone Stairs:Descending:
+    ID: 07064255.wav
+    Length: 9
+** 2 women approach and stop (reprocessed)                                                                                :Footsteps:Female:Stone Stairs:Descending:
+    ID: 07064254.wav
+    Length: 9
+** 2 women start and stop (reprocessed)                                                                                :Footsteps:Female:Stone Stairs:Descending:
+    ID: 07064253.wav
+    Length: 43
+** 1 woman departs (reprocessed)                                                                                :Footsteps:Female:Stone Stairs:Descending:
+    ID: 07064252.wav
+    Length: 11
+** 1 woman approaches and stops (reprocessed)                                                                                :Footsteps:Female:Stone Stairs:Descending:
+    ID: 07064251.wav
+    Length: 9
+** 1 woman starts and stops (reprocessed)                                                                                :Footsteps:Female:Stone Stairs:Descending:
+    ID: 07064250.wav
+    Length: 49
+** 2 men depart (reprocessed)                                                                                :Footsteps:Male:Stone Stairs:Descending:
+    ID: 07064249.wav
+    Length: 12
+** 2 men approach and stop (reprocessed)                                                                                :Footsteps:Male:Stone Stairs:Descending:
+    ID: 07064248.wav
+    Length: 11
+** 2 men start and stop (reprocessed)                                                                                :Footsteps:Male:Stone Stairs:Descending:
+    ID: 07064247.wav
+    Length: 36
+** 1 man departs (reprocessed)                                                                                :Footsteps:Male:Stone Stairs:Descending:
+    ID: 07064246.wav
+    Length: 13
+** 1 man approaches and stops (reprocessed)                                                                                :Footsteps:Male:Stone Stairs:Descending:
+    ID: 07064245.wav
+    Length: 10
+** 1 man starts and stops (reprocessed)                                                                                :Footsteps:Male:Stone Stairs:Descending:
+    ID: 07064244.wav
+    Length: 36
+** 2 women depart (reprocessed)                                                                                :Footsteps:Female:Stone Stairs:Ascending:
+    ID: 07064243.wav
+    Length: 16
+** 2 women approach and stop (reprocessed)                                                                                :Footsteps:Female:Stone Stairs:Ascending:
+    ID: 07064242.wav
+    Length: 17
+** 2 women start and stop (reprocessed)                                                                                :Footsteps:Female:Stone Stairs:Ascending:
+    ID: 07064241.wav
+    Length: 30
+** 1 woman departs (reprocessed)                                                                                :Footsteps:Female:Stone Stairs:Ascending:
+    ID: 07064240.wav
+    Length: 13
+** 1 woman approaches and stops (reprocessed)                                                                                :Footsteps:Female:Stone Stairs:Ascending:
+    ID: 07064239.wav
+    Length: 15
+** 1 woman starts and stops (reprocessed)                                                                                :Footsteps:Female:Stone Stairs:Ascending:
+    ID: 07064238.wav
+    Length: 37
+** 2 men depart (reprocessed)                                                                                :Footsteps:Male:Stone Stairs:Ascending:
+    ID: 07064237.wav
+    Length: 14
+** 2 men approach and stop (reprocessed)                                                                                :Footsteps:Male:Stone Stairs:Ascending:
+    ID: 07064236.wav
+    Length: 11
+** 2 men start and stop (reprocessed)                                                                                :Footsteps:Male:Stone Stairs:Ascending:
+    ID: 07064235.wav
+    Length: 28
+** 1 man departs (reprocessed)                                                                                :Footsteps:Male:Stone Stairs:Ascending:
+    ID: 07064234.wav
+    Length: 12
+** 1 man approaches and stops (reprocessed)                                                                                :Footsteps:Male:Stone Stairs:Ascending:
+    ID: 07064233.wav
+    Length: 11
+** 1 man starts and stops (reprocessed)                                                                                :Footsteps:Male:Stone Stairs:Ascending:
+    ID: 07064232.wav
+    Length: 26
+** 1 man 1 woman depart (reprocessed)                                                                                :Footsteps:Male:Wooden Stairs:Descending:
+    ID: 07064231.wav
+    Length: 15
+** 1 man 1 woman approach and stop (reprocessed)                                                                                :Footsteps:Male:Wooden Stairs:Descending:
+    ID: 07064230.wav
+    Length: 14
+** 1 man 1 woman start and stop (reprocessed)                                                                                :Footsteps:Male:Wooden Stairs:Descending:
+    ID: 07064229.wav
+    Length: 15
+** 2 women depart (reprocessed)                                                                                :Footsteps:Female:Wooden Stairs:Descending:
+    ID: 07064228.wav
+    Length: 14
+** 2 women approach and stop (reprocessed)                                                                                :Footsteps:Female:Wooden Stairs:Descending:
+    ID: 07064227.wav
+    Length: 14
+** 2 women start and stop (reprocessed)                                                                                :Footsteps:Female:Wooden Stairs:Descending:
+    ID: 07064226.wav
+    Length: 16
+** 1 woman departs (reprocessed)                                                                                :Footsteps:Female:Wooden Stairs:Descending:
+    ID: 07064225.wav
+    Length: 15
+** 1 woman approaches and stops (reprocessed)                                                                                :Footsteps:Female:Wooden Stairs:Descending:
+    ID: 07064224.wav
+    Length: 16
+** 1 woman starts and stops (reprocessed)                                                                                :Footsteps:Female:Wooden Stairs:Descending:
+    ID: 07064223.wav
+    Length: 14
+** 2 men depart (reprocessed)                                                                                :Footsteps:Male:Wooden Stairs:Descending:
+    ID: 07064222.wav
+    Length: 16
+** 2 men approach and stop (reprocessed)                                                                                :Footsteps:Male:Wooden Stairs:Descending:
+    ID: 07064221.wav
+    Length: 17
+** 2 men start and stop (reprocessed)                                                                                :Footsteps:Male:Wooden Stairs:Descending:
+    ID: 07064220.wav
+    Length: 16
+** 1 man departs (reprocessed)                                                                                :Footsteps:Male:Wooden Stairs:Descending:
+    ID: 07064219.wav
+    Length: 17
+** 1 man approaches and stops (reprocessed)                                                                                :Footsteps:Male:Wooden Stairs:Descending:
+    ID: 07064218.wav
+    Length: 16
+** 1 man starts and stops (reprocessed)                                                                                :Footsteps:Male:Wooden Stairs:Descending:
+    ID: 07064217.wav
+    Length: 15
+** 1 man 1 woman depart (reprocessed)                                                                                :Footsteps:Male:Wooden Stairs:Ascending:
+    ID: 07064216.wav
+    Length: 16
+** 1 man 1 woman approach and stop (reprocessed)                                                                                :Footsteps:Male:Wooden Stairs:Ascending:
+    ID: 07064215.wav
+    Length: 20
+** 1 man 1 woman start and stop (reprocessed)                                                                                :Footsteps:Male:Wooden Stairs:Ascending:
+    ID: 07064214.wav
+    Length: 22
+** 2 women depart (reprocessed)                                                                                :Footsteps:Female:Wooden Stairs:Ascending:
+    ID: 07064213.wav
+    Length: 20
+** 2 women approach and stop (reprocessed)                                                                                :Footsteps:Female:Wooden Stairs:Ascending:
+    ID: 07064212.wav
+    Length: 24
+** 2 women start and stop (reprocessed)                                                                                :Footsteps:Female:Wooden Stairs:Ascending:
+    ID: 07064211.wav
+    Length: 25
+** 1 woman departs (reprocessed)                                                                                :Footsteps:Female:Wooden Stairs:Ascending:
+    ID: 07064210.wav
+    Length: 19
+** 1 woman approaches and stops (reprocessed)                                                                                :Footsteps:Female:Wooden Stairs:Ascending:
+    ID: 07064209.wav
+    Length: 22
+** 1 woman starts and stops (reprocessed)                                                                                :Footsteps:Female:Wooden Stairs:Ascending:
+    ID: 07064208.wav
+    Length: 17
+** 2 men depart (reprocessed)                                                                                :Footsteps:Male:Wooden Stairs:Ascending:
+    ID: 07064207.wav
+    Length: 20
+** 2 men approach and stop (reprocessed)                                                                                :Footsteps:Male:Wooden Stairs:Ascending:
+    ID: 07064206.wav
+    Length: 23
+** 2 men start and stop (reprocessed)                                                                                :Footsteps:Male:Wooden Stairs:Ascending:
+    ID: 07064205.wav
+    Length: 20
+** 1 man departs (reprocessed)                                                                                :Footsteps:Male:Wooden Stairs:Ascending:
+    ID: 07064204.wav
+    Length: 19
+** 1 man approaches and stops (reprocessed)                                                                                :Footsteps:Male:Wooden Stairs:Ascending:
+    ID: 07064203.wav
+    Length: 21
+** 1 man starts and stops (reprocessed)                                                                                :Footsteps:Male:Wooden Stairs:Ascending:
+    ID: 07064202.wav
+    Length: 24
+** 1 woman departs (reprocessed)                                                                                :Footsteps:Female:Stone:Running:
+    ID: 07064201.wav
+    Length: 13
+** 1 woman approaches and stops (reprocessed)                                                                                :Footsteps:Female:Stone:Running:
+    ID: 07064200.wav
+    Length: 11
+** 1 woman starts and stops (reprocessed)                                                                                :Footsteps:Female:Stone:Running:
+    ID: 07064199.wav
+    Length: 62
+** 3 men depart (reprocessed)                                                                                :Footsteps:Male:Stone:Running:
+    ID: 07064198.wav
+    Length: 13
+** 3 men approach and stop (reprocessed)                                                                                :Footsteps:Male:Stone:Running:
+    ID: 07064197.wav
+    Length: 14
+** 3 men start and stop (reprocessed)                                                                                :Footsteps:Male:Stone:Running:
+    ID: 07064196.wav
+    Length: 64
+** 2 men depart (reprocessed)                                                                                :Footsteps:Male:Stone:Running:
+    ID: 07064195.wav
+    Length: 14
+** 2 men approach and stop (reprocessed)                                                                                :Footsteps:Male:Stone:Running:
+    ID: 07064194.wav
+    Length: 12
+** 2 men start and stop (reprocessed)                                                                                :Footsteps:Male:Stone:Running:
+    ID: 07064193.wav
+    Length: 62
+** 1 man departs (reprocessed)                                                                                :Footsteps:Male:Stone:Running:
+    ID: 07064192.wav
+    Length: 14
+** 1 man approaches and stops (reprocessed)                                                                                :Footsteps:Male:Stone:Running:
+    ID: 07064191.wav
+    Length: 12
+** 1 man starts and stops (reprocessed)                                                                                :Footsteps:Male:Stone:Running:
+    ID: 07064190.wav
+    Length: 62
+** 1 man 1 woman depart  (reprocessed)                                                                                :Footsteps:Male:Stone:Walking:
+    ID: 07064189.wav
+    Length: 15
+** 1 man 1 woman approach and stop (reprocessed)                                                                                :Footsteps:Male:Stone:Walking:
+    ID: 07064188.wav
+    Length: 14
+** 1 man 1 woman start and stop (reprocessed)                                                                                :Footsteps:Male:Stone:Walking:
+    ID: 07064187.wav
+    Length: 62
+** 2 women depart (reprocessed)                                                                                :Footsteps:Female:Stone:Walking:
+    ID: 07064186.wav
+    Length: 14
+** 2 women approach and stop                                                                                :Footsteps:Female:Stone:Walking:
+    ID: 07064185.wav
+    Length: 14
+** 2 women start and stop (reprocessed)                                                                                :Footsteps:Female:Stone:Walking:
+    ID: 07064184.wav
+    Length: 65
+** 1 woman departs (reprocessed)                                                                                :Footsteps:Female:Stone:Walking:
+    ID: 07064183.wav
+    Length: 13
+** 1 woman approaches and stops (reprocessed)                                                                                :Footsteps:Female:Stone:Walking:
+    ID: 07064182.wav
+    Length: 14
+** 1 woman starts and stops (reprocessed)                                                                                :Footsteps:Female:Stone:Walking:
+    ID: 07064181.wav
+    Length: 64
+** 2 men depart (reprocessed)                                                                                :Footsteps:Male:Stone:Walking:
+    ID: 07064180.wav
+    Length: 14
+** 2 men approach and stop (reprocessed)                                                                                :Footsteps:Male:Stone:Walking:
+    ID: 07064179.wav
+    Length: 14
+** 2 men start and stop (reprocessed)                                                                                :Footsteps:Male:Stone:Walking:
+    ID: 07064178.wav
+    Length: 63
+** 1 man departs (reprocessed)                                                                                :Footsteps:Male:Stone:Walking:
+    ID: 07064177.wav
+    Length: 14
+** 1 man approaches and stops (reprocessed)                                                                                :Footsteps:Male:Stone:Walking:
+    ID: 07064176.wav
+    Length: 13
+** 1 man starts and stops (reprocessed)                                                                                :Footsteps:Male:Stone:Walking:
+    ID: 07064175.wav
+    Length: 63
+** 1 man 1 woman depart (reprocessed)                                                                                :Footsteps:Male:Wood:Running:
+    ID: 07064174.wav
+    Length: 14
+** 1 man 1 woman approach and stop (reprocessed)                                                                                :Footsteps:Male:Wood:Running:
+    ID: 07064173.wav
+    Length: 17
+** 1 man 1 woman start and stop (reprocessed)                                                                                :Footsteps:Male:Wood:Running:
+    ID: 07064172.wav
+    Length: 61
+** 2 women depart (reprocessed)                                                                                :Footsteps:Female:Wood:Running:
+    ID: 07064171.wav
+    Length: 12
+** 2 women approach and stop (reprocessed)                                                                                :Footsteps:Female:Wood:Running:
+    ID: 07064170.wav
+    Length: 13
+** 2 women start and stop (reprocessed)                                                                                :Footsteps:Female:Wood:Running:
+    ID: 07064169.wav
+    Length: 60
+** 1 woman departs (reprocessed)                                                                                :Footsteps:Female:Wood:Running:
+    ID: 07064168.wav
+    Length: 13
+** 1 woman approaches and stops (reprocessed)                                                                                :Footsteps:Female:Wood:Running:
+    ID: 07064167.wav
+    Length: 12
+** 1 woman starts and stops (reprocessed)                                                                                :Footsteps:Female:Wood:Running:
+    ID: 07064166.wav
+    Length: 67
+** 2 men depart (reprocessed)                                                                                :Footsteps:Male:Wood:Running:
+    ID: 07064165.wav
+    Length: 16
+** 2 men approach and stop (reprocessed)                                                                                :Footsteps:Male:Wood:Running:
+    ID: 07064164.wav
+    Length: 14
+** 2 men start and stop (reprocessed)                                                                                :Footsteps:Male:Wood:Running:
+    ID: 07064163.wav
+    Length: 64
+** 1 man departs (reprocessed)                                                                                :Footsteps:Male:Wood:Running:
+    ID: 07064162.wav
+    Length: 12
+** 1 man approaches and stops (reprocessed)                                                                                :Footsteps:Male:Wood:Running:
+    ID: 07064161.wav
+    Length: 14
+** 1 man starts and stops (reprocessed)                                                                                :Footsteps:Male:Wood:Running:
+    ID: 07064160.wav
+    Length: 65
+** 1 man 1 woman depart (reprocessed)                                                                                :Footsteps:Male:Wood:Walking:
+    ID: 07064159.wav
+    Length: 12
+** 1 man 1 woman approach and stop (reprocessed)                                                                                :Footsteps:Male:Wood:Walking:
+    ID: 07064158.wav
+    Length: 12
+** 1 man 1 woman start and stop (reprocessed)                                                                                :Footsteps:Male:Wood:Walking:
+    ID: 07064157.wav
+    Length: 59
+** 2 women depart (reprocessed)                                                                                :Footsteps:Female:Wood:Walking:
+    ID: 07064156.wav
+    Length: 10
+** 2 women approach and stop (reprocessed)                                                                                :Footsteps:Female:Wood:Walking:
+    ID: 07064155.wav
+    Length: 10
+** 2 women start and stop (reprocessed)                                                                                :Footsteps:Female:Wood:Walking:
+    ID: 07064154.wav
+    Length: 64
+** 1 woman departs (reprocessed)                                                                                :Footsteps:Female:Wood:Walking:
+    ID: 07064153.wav
+    Length: 10
+** 1 woman approaches and stops (reprocessed)                                                                                :Footsteps:Female:Wood:Walking:
+    ID: 07064152.wav
+    Length: 12
+** 1 woman starts and stops (reprocessed)                                                                                :Footsteps:Female:Wood:Walking:
+    ID: 07064151.wav
+    Length: 62
+** 2 men depart (reprocessed)                                                                                :Footsteps:Male:Wood:Walking:
+    ID: 07064150.wav
+    Length: 10
+** 2 men approach and stop (reprocessed)                                                                                :Footsteps:Male:Wood:Walking:
+    ID: 07064149.wav
+    Length: 13
+** 2 men start and stop (reprocessed)                                                                                :Footsteps:Male:Wood:Walking:
+    ID: 07064148.wav
+    Length: 64
+** 1 man departs (reprocessed)                                                                                :Footsteps:Male:Wood:Walking:
+    ID: 07064147.wav
+    Length: 12
+** 1 man approaches and stops (reprocessed)                                                                                :Footsteps:Male:Wood:Walking:
+    ID: 07064146.wav
+    Length: 13
+** 1 man starts and stops (reprocessed)                                                                                :Footsteps:Male:Wood:Walking:
+    ID: 07064145.wav
+    Length: 63
+** 1 man 1 woman depart (reprocessed)                                                                                :Footsteps:Male:Road:Running:
+    ID: 07064144.wav
+    Length: 14
+** 1 man 1 woman approach and stop (reprocessed)                                                                                :Footsteps:Male:Road:Running:
+    ID: 07064143.wav
+    Length: 17
+** 1 man 1 woman start and stop (reprocessed)                                                                                :Footsteps:Male:Road:Running:
+    ID: 07064142.wav
+    Length: 61
+** 2 women depart (reprocessed)                                                                                :Footsteps:Female:Road:Running:
+    ID: 07064141.wav
+    Length: 16
+** 2 women approach and stop (reprocessed)                                                                                :Footsteps:Female:Road:Running:
+    ID: 07064140.wav
+    Length: 15
+** 2 women start and stop (reprocessed)                                                                                :Footsteps:Female:Road:Running:
+    ID: 07064139.wav
+    Length: 65
+** 1 woman departs (reprocessed)                                                                                :Footsteps:Female:Road:Running:
+    ID: 07064138.wav
+    Length: 15
+** 1 woman approaches and stops (reprocessed)                                                                                :Footsteps:Female:Road:Running:
+    ID: 07064137.wav
+    Length: 16
+** 1 woman starts and stops (reprocessed)                                                                                :Footsteps:Female:Road:Running:
+    ID: 07064136.wav
+    Length: 64
+** 2 men depart (reprocessed)                                                                                :Footsteps:Male:Road:Running:
+    ID: 07064135.wav
+    Length: 15
+** 2 men approach and stop (reprocessed)                                                                                :Footsteps:Male:Road:Running:
+    ID: 07064134.wav
+    Length: 14
+** 2 men start and stop (reprocessed)                                                                                :Footsteps:Male:Road:Running:
+    ID: 07064133.wav
+    Length: 65
+** 1 man departs (reprocessed)                                                                                :Footsteps:Male:Road:Running:
+    ID: 07064132.wav
+    Length: 14
+** 1 man approaches and stops (reprocessed)                                                                                :Footsteps:Male:Road:Running:
+    ID: 07064131.wav
+    Length: 14
+** 1 man starts and stops (reprocessed)                                                                                :Footsteps:Male:Road:Running:
+    ID: 07064130.wav
+    Length: 154
+** 2 men 2 women depart (reprocessed)                                                                                :Footsteps:Male:Road:Walking:
+    ID: 07064129.wav
+    Length: 14
+** 2 men 2 women approach and stop (reprocessed)                                                                                :Footsteps:Male:Road:Walking:
+    ID: 07064128.wav
+    Length: 14
+** 2 men 2 women start and stop (reprocessed)                                                                                :Footsteps:Male:Road:Walking:
+    ID: 07064127.wav
+    Length: 67
+** 1 man 1 woman depart (reprocessed)                                                                                :Footsteps:Male:Road:Walking:
+    ID: 07064126.wav
+    Length: 13
+** 1 man 1 woman approach and stop (reprocessed)                                                                                :Footsteps:Male:Road:Walking:
+    ID: 07064125.wav
+    Length: 14
+** 1 man 1 woman start and stop (reprocessed)                                                                                :Footsteps:Male:Road:Walking:
+    ID: 07064124.wav
+    Length: 68
+** 2 women depart (reprocessed)                                                                                :Footsteps:Female:Road:Walking:
+    ID: 07064123.wav
+    Length: 14
+** 2 women approach and stop (reprocessed)                                                                                :Footsteps:Female:Road:Walking:
+    ID: 07064122.wav
+    Length: 14
+** 2 women start and stop (reprocessed)                                                                                :Footsteps:Female:Road:Walking:
+    ID: 07064121.wav
+    Length: 72
+** 1 woman departs (reprocessed)                                                                                :Footsteps:Female:Road:Walking:
+    ID: 07064120.wav
+    Length: 13
+** 1 woman approaches and stops (reprocessed)                                                                                :Footsteps:Female:Road:Walking:
+    ID: 07064119.wav
+    Length: 13
+** 1 woman starts and stops (reprocessed)                                                                                :Footsteps:Female:Road:Walking:
+    ID: 07064118.wav
+    Length: 64
+** 2 men depart (reprocessed)                                                                                :Footsteps:Male:Road:Walking:
+    ID: 07064117.wav
+    Length: 15
+** 2 men approach and stop (reprocessed)                                                                                :Footsteps:Male:Road:Walking:
+    ID: 07064116.wav
+    Length: 14
+** 2 men start and stop (reprocessed)                                                                                :Footsteps:Male:Road:Walking:
+    ID: 07064115.wav
+    Length: 64
+** 1 man departs (reprocessed)                                                                                :Footsteps:Male:Road:Walking:
+    ID: 07064114.wav
+    Length: 13
+** 1 man approaches and stops (reprocessed)                                                                                :Footsteps:Male:Road:Walking:
+    ID: 07064113.wav
+    Length: 12
+** 1 man starts and stops (reprocessed)                                                                                :Footsteps:Male:Road:Walking:
+    ID: 07064112.wav
+    Length: 64
+** 2 men 2 women depart (reprocessed)                                                                                :Footsteps:Male:Pavement:Running:
+    ID: 07064111.wav
+    Length: 15
+** 2 men 2 women approach and stop (reprocessed)                                                                                :Footsteps:Male:Pavement:Running:
+    ID: 07064110.wav
+    Length: 16
+** 2 men 2 women start and stop (reprocessed)                                                                                :Footsteps:Male:Pavement:Running:
+    ID: 07064109.wav
+    Length: 68
+** 1 man 1 woman depart (reprocessed)                                                                                :Footsteps:Male:Pavement:Running:
+    ID: 07064108.wav
+    Length: 10
+** 1 man 1 woman approach and stop (reprocessed)                                                                                :Footsteps:Male:Pavement:Running:
+    ID: 07064107.wav
+    Length: 18
+** 1 man 1 woman start and stop (reprocessed)                                                                                :Footsteps:Male:Pavement:Running:
+    ID: 07064106.wav
+    Length: 63
+** 2 women depart (reprocessed)                                                                                :Footsteps:Female:Pavement:Running:
+    ID: 07064105.wav
+    Length: 10
+** 2 women approach and stop (reprocessed)                                                                                :Footsteps:Female:Pavement:Running:
+    ID: 07064104.wav
+    Length: 12
+** 2 women start and stop (reprocessed)                                                                                :Footsteps:Female:Pavement:Running:
+    ID: 07064103.wav
+    Length: 58
+** 1 woman departs (reprocessed)                                                                                :Footsteps:Female:Pavement:Running:
+    ID: 07064102.wav
+    Length: 18
+** 1 woman approaches and stops (reprocessed)                                                                                :Footsteps:Female:Pavement:Running:
+    ID: 07064101.wav
+    Length: 14
+** 1 woman starts and stops (reprocessed)                                                                                :Footsteps:Female:Pavement:Running:
+    ID: 07064100.wav
+    Length: 64
+** 2 men depart (reprocessed)                                                                                :Footsteps:Male:Pavement:Running:
+    ID: 07064099.wav
+    Length: 13
+** 2 men approach and stop (reprocessed)                                                                                :Footsteps:Male:Pavement:Running:
+    ID: 07064098.wav
+    Length: 12
+** 2 men start and stop (reprocessed)                                                                                :Footsteps:Male:Pavement:Running:
+    ID: 07064097.wav
+    Length: 62
+** 1 man departs (reprocessed)                                                                                :Footsteps:Male:Pavement:Running:
+    ID: 07064096.wav
+    Length: 15
+** 1 man approaches and stops (reprocessed)                                                                                :Footsteps:Male:Pavement:Running:
+    ID: 07064095.wav
+    Length: 14
+** 1 man starts and stops (reprocessed)                                                                                :Footsteps:Male:Pavement:Running:
+    ID: 07064094.wav
+    Length: 62
+** 2 men 2 women depart (reprocessed)                                                                                :Footsteps:Male:Pavement:Walking:
+    ID: 07064093.wav
+    Length: 13
+** 2 men 2 women approach and stop (reprocessed)                                                                                :Footsteps:Male:Pavement:Walking:
+    ID: 07064092.wav
+    Length: 13
+** 2 men 2 women start and stop (reprocessed)                                                                                :Footsteps:Male:Pavement:Walking:
+    ID: 07064091.wav
+    Length: 64
+** 1 man 1 woman depart (reprocessed)                                                                                :Footsteps:Male:Pavement:Walking:
+    ID: 07064090.wav
+    Length: 15
+** 1 man 1 woman approach and stop (reprocessed)                                                                                :Footsteps:Male:Pavement:Walking:
+    ID: 07064089.wav
+    Length: 13
+** 1 man 1 woman start and stop (reprocessed)                                                                                :Footsteps:Male:Pavement:Walking:
+    ID: 07064088.wav
+    Length: 64
+** 2 women depart (reprocessed)                                                                                :Footsteps:Female:Pavement:Walking:
+    ID: 07064087.wav
+    Length: 14
+** 2 women approach and stop (reprocessed)                                                                                :Footsteps:Female:Pavement:Walking:
+    ID: 07064086.wav
+    Length: 12
+** 2 women start and stop (reprocessed)                                                                                :Footsteps:Female:Pavement:Walking:
+    ID: 07064085.wav
+    Length: 61
+** 1 woman departs (reprocessed)                                                                                :Footsteps:Female:Pavement:Walking:
+    ID: 07064084.wav
+    Length: 13
+** 1 woman approaches and stops (reprocessed)                                                                                :Footsteps:Female:Pavement:Walking:
+    ID: 07064083.wav
+    Length: 12
+** 1 woman starts and stops (reprocessed)                                                                                :Footsteps:Female:Pavement:Walking:
+    ID: 07064082.wav
+    Length: 59
+** 2 men depart (reprocessed)                                                                                :Footsteps:Male:Pavement:Walking:
+    ID: 07064081.wav
+    Length: 14
+** 2 men approach and stop (reprocessed)                                                                                :Footsteps:Male:Pavement:Walking:
+    ID: 07064080.wav
+    Length: 12
+** 2 men start and stop (reprocessed)                                                                                :Footsteps:Male:Pavement:Walking:
+    ID: 07064079.wav
+    Length: 59
+** 1 man departs (reprocessed)                                                                                :Footsteps:Male:Pavement:Walking:
+    ID: 07064078.wav
+    Length: 13
+** 1 man approaches and stops (reprocessed)                                                                                :Footsteps:Male:Pavement:Walking:
+    ID: 07064077.wav
+    Length: 12
+** 1 man starts and stops (reprocessed)                                                                                :Footsteps:Male:Pavement:Walking:
+    ID: 07064076.wav
+    Length: 60
+** 50 men rise and disperse after meeting - 1967 (73F,reprocessed)                                                                                :Halls:
+    ID: 07064075.wav
+    Length: 241
+** Crowd arrives for meeting in hall - 1981 (1C24,reprocessed)                                                                                :Halls:
+    ID: 07064074.wav
+    Length: 315
+** Large exhibition hall with occasional indistinct music and PA - 1983 (1C30,reprocessed)                                                                                :Exhibition Halls:
+    ID: 07064073.wav
+    Length: 300
+** Crowd atmosphere in an exhibition hall - 1974                                                                                :Exhibition Halls:
+    ID: 07064072.wav
+    Length: 297
+** Crowds in a large entrance hall, with turnstiles at close perspective - 1983 (1C29,reprocessed)                                                                                :Halls:
+    ID: 07064071.wav
+    Length: 270
+** Crowds in large entrance hall with turnstiles - 1983 (1C29,reprocessed)                                                                                :Halls:
+    ID: 07064070.wav
+    Length: 280
+** Large reception hall, with footsteps and speech - 1972 (1C1,reprocessed)                                                                                :Halls:
+    ID: 07064069.wav
+    Length: 301
+** Atmosphere in a reception hall with footsteps, occasional indistinct voices, and very distant traffic - 1981 (1C23,reprocessed)                                                                                :Halls:
+    ID: 07064068.wav
+    Length: 282
+** Small reception hall with footsteps, speech and traffic - 1972 (1C1,reprocessed)                                                                                :Halls:
+    ID: 07064067.wav
+    Length: 301
+** Applause from 250 people - 1966 (63A,reprocessed)                                                                                :Crowds:Interior:Applause:
+    ID: 07064066.wav
+    Length: 18
+** Applause from 250 people - 1966 (63A,reprocessed)                                                                                :Crowds:Interior:Applause:
+    ID: 07064065.wav
+    Length: 11
+** Applause from 50 people - 1966 (63A,reprocessed)                                                                                :Crowds:Interior:Applause:
+    ID: 07064064.wav
+    Length: 12
+** Applause from 50 people - 1966 (63A,reprocessed)                                                                                :Crowds:Interior:Applause:
+    ID: 07064063.wav
+    Length: 10
+** Applause from 50 people - 1966 (63A,reprocessed)                                                                                :Crowds:Interior:Applause:
+    ID: 07064062.wav
+    Length: 10
+** Applause from 50 people - 1966 (63A,reprocessed)                                                                                :Crowds:Interior:Applause:
+    ID: 07064061.wav
+    Length: 12
+** Applause from 30 people - 1966 (63A,reprocessed)                                                                                :Crowds:Interior:Applause:
+    ID: 07064060.wav
+    Length: 13
+** Applause from 30 people - 1966 (63A,reprocessed)                                                                                :Crowds:Interior:Applause:
+    ID: 07064059.wav
+    Length: 8
+** Applause from a small group of people - 1966 (63A,reprocessed)                                                                                :Crowds:Interior:Applause:
+    ID: 07064058.wav
+    Length: 19
+** Applause from a small group of people (twice) - 1966 (63A,reprocessed)                                                                                :Crowds:Interior:Applause:
+    ID: 07064057.wav
+    Length: 18
+** Applause from a small group of people (twice) - 1966 (63A,reprocessed)                                                                                :Crowds:Interior:Applause:
+    ID: 07064056.wav
+    Length: 30
+** Applause from a small group of people - 1966 (63A,reprocessed)                                                                                :Crowds:Interior:Applause:
+    ID: 07064055.wav
+    Length: 10
+** Applause at a Political Party Conference - 1982 (1C28,reprocessed)                                                                                :Crowds:Interior:Applause:
+    ID: 07064054.wav
+    Length: 17
+** Applause at a Political Party Conference - 1982 (1C28,reprocessed)                                                                                :Crowds:Interior:Applause:
+    ID: 07064053.wav
+    Length: 16
+** Applause at a Political Party Conference - 1982 (1C28,reprocessed)                                                                                :Crowds:Interior:Applause:
+    ID: 07064052.wav
+    Length: 10
+** Applause at a Political Party Conference - 1982 (1C28,reprocessed)                                                                                :Crowds:Interior:Applause:
+    ID: 07064051.wav
+    Length: 10
+** Applause at a Political Party Conference - 1982 (1C28,reprocessed)                                                                                :Crowds:Interior:Applause:
+    ID: 07064050.wav
+    Length: 8
+** Applause at a Political Party Conference - 1982 (1C28,reprocessed)                                                                                :Crowds:Interior:Applause:
+    ID: 07064049.wav
+    Length: 14
+** Teenagers stamping, booing and whistling crowd in a stadium - May '1966 (63C,reprocessed)                                                                                :Crowds:Interior:Boos:
+    ID: 07064048.wav
+    Length: 113
+** Screams and applause by girls in a theatre - May 1966 (63C,reprocessed)                                                                                :Screams:
+    ID: 07064047.wav
+    Length: 61
+** Teenage girls screaming in a theatre - May '1966 (63C,reprocessed)                                                                                :Screams:
+    ID: 07064046.wav
+    Length: 132
+** Final applause, audience leaves theatre - 1980 (1C13,reprocessed)                                                                                :Crowds:Interior:Applause:
+    ID: 07064045.wav
+    Length: 263
+** Laughter - 1980 (1C13,reprocessed)                                                                                :Crowds:Interior:Laughter:
+    ID: 07064044.wav
+    Length: 5
+** Laughter - 1980 (1C13,reprocessed)                                                                                :Crowds:Interior:Laughter:
+    ID: 07064043.wav
+    Length: 3
+** Laughter - 1980 (1C13,reprocessed)                                                                                :Crowds:Interior:Laughter:
+    ID: 07064042.wav
+    Length: 4
+** Old Vic Theatre - large audience,laughter - 1980 (1C13,reprocessed)                                                                                :Crowds:Interior:Laughter:
+    ID: 07064041.wav
+    Length: 4
+** Old Vic Theatre - large audience,applause at end of act, interval chatter - 1980 (1C13,reprocessed)                                                                                :Crowds:Interior:Applause:
+    ID: 07064040.wav
+    Length: 60
+** Busy speech whilst audience take their seats, full house - 1980 (1C13,reprocessed)                                                                                :Theatres:
+    ID: 07064039.wav
+    Length: 232
+** Old Vic Theatre - large audience,quiet , people entering auditorium with some noise from bars - 1980 (1C13,reprocessed)                                                                                :Theatres:
+    ID: 07064038.wav
+    Length: 208
+** Applause - 1980 (1C60,reprocessed)                                                                                :Crowds:Interior:Applause:
+    ID: 07064037.wav
+    Length: 8
+** Applause - 1980 (1C60,reprocessed)                                                                                :Crowds:Interior:Applause:
+    ID: 07064036.wav
+    Length: 8
+** Laughter and applause - 1980 (1C60,reprocessed)                                                                                :Crowds:Interior:Applause:
+    ID: 07064035.wav
+    Length: 11
+** Laughter - 1980 (1C60,reprocessed)                                                                                :Crowds:Interior:Laughter:
+    ID: 07064034.wav
+    Length: 7
+** Laughter and applause - 1980 (1C60,reprocessed)                                                                                :Crowds:Interior:Applause:
+    ID: 07064033.wav
+    Length: 8
+** Playhouse Theatre - large audience,applause - 1980 (1C60,reprocessed)                                                                                :Crowds:Interior:Applause:
+    ID: 07064032.wav
+    Length: 9
+** Playhouse Theatre - large audience,English and French,chatter, close perspective, busy chatter - 1980 (1C60,reprocessed)                                                                                :Crowds:Interior:Chatter:
+    ID: 07064031.wav
+    Length: 300
+** River cascading over rocks, close perspective (1W7,reprocessed)                                                                                :Rivers:
+    ID: 07064030.wav
+    Length: 376
+** Weir in full flood (1W8,reprocessed)                                                                                :Waterfalls:
+    ID: 07064029.wav
+    Length: 373
+** 'Pystyll Rhadn' falls, North Wales, with birdsong (1W6,reprocessed)                                                                                :Birds:
+    ID: 07064028.wav
+    Length: 158
+** Waterfall, two metre drop (1W7,reprocessed)                                                                                :Waterfalls:
+    ID: 07064027.wav
+    Length: 374
+** 'Cwm Or' falls, North Wales (1W6,reprocessed)                                                                                :Waterfalls:
+    ID: 07064026.wav
+    Length: 179
+** Waterfall, close perspective (1W5,reprocessed)                                                                                :Waterfalls:
+    ID: 07064025.wav
+    Length: 331
+** Stream, close perspective (1W5,reprocessed)                                                                                :Streams:
+    ID: 07064024.wav
+    Length: 384
+** Mountain stream bubbling over stones, close perspective, occasional birdsong (1W6,reprocessed)                                                                                :Birds:
+    ID: 07064023.wav
+    Length: 194
+** Gently running stream, medium distance, with birdsong (1W9,reprocessed)                                                                                :Birds:
+    ID: 07064022.wav
+    Length: 210
+** Stream bubbling over rocks, close perspective (1W9,reprocessed)                                                                                :Streams:
+    ID: 07064021.wav
+    Length: 212
+** Gentle stream flowing, close perspective (1W10,reprocessed)                                                                                :Streams:
+    ID: 07064020.wav
+    Length: 366
+** Medium stream, close perspective (1W12,reprocessed)                                                                                :Streams:
+    ID: 07064019.wav
+    Length: 39
+** Heavy stream trickling fast in confined space (1W12,reprocessed)                                                                                :Streams:
+    ID: 07064018.wav
+    Length: 94
+** Small fast flowing stream, close perspective (1W12,reprocessed)                                                                                :Streams:
+    ID: 07064017.wav
+    Length: 138
+** Small fast flowing stream in gully (1W12,reprocessed)                                                                                :Streams:
+    ID: 07064016.wav
+    Length: 92
+** Small light flowing stream, medium perspective (1W12,reprocessed)                                                                                :Streams:
+    ID: 07064015.wav
+    Length: 134
+** Small light flowing stream, close perspective (1W12,reprocessed)                                                                                :Streams:
+    ID: 07064014.wav
+    Length: 149
+** Small trickle with rain and rain drops, recorded at distance of 1ft (1W2, reprocessed)                                                                                :Streams:
+    ID: 07064013.wav
+    Length: 91
+** Person thrashing in water (64C,reprocessed)                                                                                :Water:Splashes:
+    ID: 07064012.wav
+    Length: 182
+** Multiple splash (64C,reprocessed)                                                                                :Water:Splashes:
+    ID: 07064011.wav
+    Length: 11
+** Double splash (person) (64C,reprocessed)                                                                                :Water:Splashes:
+    ID: 07064010.wav
+    Length: 9
+** One large splash (person)  (64C,reprocessed)                                                                                :Water:Splashes:
+    ID: 07064009.wav
+    Length: 10
+** One large splash (person) (64C,reprocessed)                                                                                :Water:Splashes:
+    ID: 07064008.wav
+    Length: 11
+** One large splash (person)  (64C,reprocessed)                                                                                :Water:Splashes:
+    ID: 07064007.wav
+    Length: 11
+** One large splash (person) (64C,reprocessed)                                                                                :Water:Splashes:
+    ID: 07064006.wav
+    Length: 10
+** One small splash (studio recording) (22H,reprocessed)                                                                                :Water:Splashes:
+    ID: 07064005.wav
+    Length: 4
+** Three small splashes (studio recording) (22H,reprocessed)                                                                                :Water:Splashes:
+    ID: 07064004.wav
+    Length: 11
+** Three small splashes (studio recording) (22H,reprocessed)                                                                                :Water:Splashes:
+    ID: 07064003.wav
+    Length: 11
+** Three small splashes (studio recording) (22H,reprocessed)                                                                                :Water:Splashes:
+    ID: 07064002.wav
+    Length: 11
+** Stones ricocheting across pond (fade for length of throw) (studio recording) (22H,reprocessed)                                                                                :Splashes:
+    ID: 07064001.wav
+    Length: 17
+** Car alarm - set off alarm & reset.                                                                                :Cars:Alarms:
+    ID: 07063161.wav
+    Length: 8
+** Car alarm-setting alarm.                                                                                :Cars:Alarms:
+    ID: 07063160.wav
+    Length: 4
+** Renault 5 - car horn.                                                                                :Cars:Horns:
+    ID: 07063159.wav
+    Length: 2
+** Citroen BX - high engine revving.                                                                                :Cars:Citroen:
+    ID: 07063158.wav
+    Length: 10
+** Garage - tyre repairs                                                                                :Cars:Maintenance:
+    ID: 07063157.wav
+    Length: 240
+** Petrol station.                                                                                :Cars:Petrol Pumps:
+    ID: 07063156.wav
+    Length: 240
+** High Street atmosphere.                                                                                :Streets:
+    ID: 07063155.wav
+    Length: 240
+** Motorway traffic - close.                                                                                :Traffic:Motor:Motorways:
+    ID: 07063154.wav
+    Length: 240
+** Bus station - interior.                                                                                :Buses:Bus Stations:
+    ID: 07063153.wav
+    Length: 240
+** Double decker bus - interior.                                                                                :Buses:
+    ID: 07063152.wav
+    Length: 180
+** Volkswagon Golf GL - motorway.                                                                                :Motorways:
+    ID: 07063151.wav
+    Length: 180
+** Volkswagon Golf GL - keys, start up, belt up, city drive.                                                                                :Cars:Seatbelts:
+    ID: 07063150.wav
+    Length: 180
+** Citroen 2CV - approach.                                                                                :Cars:Citroen 2CV:
+    ID: 07063149.wav
+    Length: 22
+** Citroen 2CV - pass right to left.                                                                                :Cars:Citroen 2CV:
+    ID: 07063148.wav
+    Length: 19
+** Citroen 2CV - pass left to right.                                                                                :Cars:Citroen 2CV:
+    ID: 07063147.wav
+    Length: 16
+** Citroen 2CV - close door, start up, drive off.                                                                                :Cars:Citroen 2CV:
+    ID: 07063146.wav
+    Length: 31
+** Citroen 2CV - lower top, start up, drive off.                                                                                :Cars:Citroen 2CV:
+    ID: 07063145.wav
+    Length: 137
+** Citroen 2CV - drive with top down.                                                                                :Cars:Citroen 2CV:
+    ID: 07063144.wav
+    Length: 180
+** Citroen 2CV - countryside                                                                                :Cars:Citroen 2CV:
+    ID: 07063143.wav
+    Length: 180
+** Citroen 2CV - motorway.                                                                                :Cars:Citroen 2CV:
+    ID: 07063142.wav
+    Length: 180
+** Citroen 2CV - start, inner city drive.                                                                                :Cars:Citroen 2CV:
+    ID: 07063141.wav
+    Length: 180
+** BMW 320i convertible - raising soft top.                                                                                :Cars:BMW 320i Convertible:
+    ID: 07063140.wav
+    Length: 47
+** BMW 320i convertible - car horn, once, twice, long                                                                                :Cars:Horns:
+    ID: 07063139.wav
+    Length: 11
+** BMW 320i convertible - close door and lock.                                                                                :Cars:Doors:
+    ID: 07063138.wav
+    Length: 9
+** BMW 320i convertible - start up, drive off.                                                                                :Cars:BMW 320i Convertible:
+    ID: 07063137.wav
+    Length: 28
+** BMW 320i convertible - drive with top down.                                                                                :Cars:BMW 320i Convertible:
+    ID: 07063136.wav
+    Length: 180
+** BMW 320i convertible - countryside.                                                                                :Cars:BMW 320i Convertible:
+    ID: 07063135.wav
+    Length: 120
+** BMW 320i convertible - motorway.                                                                                :Motorways:
+    ID: 07063134.wav
+    Length: 120
+** BMW 320i convertible - city drive.                                                                                :Cars:BMW 320i Convertible:
+    ID: 07063133.wav
+    Length: 180
+** Isuzu 2.8 turbo diesel - approach & pass.                                                                                :Cars:Passing:
+    ID: 07063132.wav
+    Length: 20
+** Isuzu 2.8 turbo diesel - pass, right to left                                                                                :Cars:Passing:
+    ID: 07063131.wav
+    Length: 18
+** Isuzu 2.8 turbo diesel - pass, left to right                                                                                :Cars:Passing:
+    ID: 07063130.wav
+    Length: 19
+** Isuzu 2.8 turbo diesel - rough terrain.                                                                                :Cars:Rough Road:
+    ID: 07063129.wav
+    Length: 180
+** Isuzu 2.8 turbo diesel - countryside                                                                                :Cars:Isuzu 2.8 Turbo Diesel:
+    ID: 07063128.wav
+    Length: 180
+** Isuzu 2.8 turbo diesel - motorway.                                                                                :Motorways:
+    ID: 07063127.wav
+    Length: 180
+** Isuzu 2.8 turbo diesel - city drive.                                                                                :Cars:Isuzu 2.8 Turbo Diesel:
+    ID: 07063126.wav
+    Length: 180
+** Int. start up, constant run on rough ground, stops - 1968 (163A)                                                                                :Tanks:
+    ID: 07063125.wav
+    Length: 250
+** Int. false start, start, misfire, tickover - 1968 (163A)                                                                                :Tanks:
+    ID: 07063124.wav
+    Length: 60
+** Ext. stop, switch off - 1968 (163A)                                                                                :Tanks:
+    ID: 07063123.wav
+    Length: 17
+** Ext. approach (climbing steep bank) with gear changes - 1968 (163A)                                                                                :Tanks:
+    ID: 07063122.wav
+    Length: 169
+** Ext. start up, passing and manoeuvring on rough ground - 1968 (163A)                                                                                :Tanks:
+    ID: 07063121.wav
+    Length: 181
+** Horsedrawn gun carriage starts, runs, stops, turns, stops (recorded on board) - 1970 (83E)                                                                                :Animals:Horses:Carriages:
+    ID: 07063120.wav
+    Length: 210
+** Horsedrawn gun carriage approaches and stops, panting of horse, moves off - 1970 (83E)                                                                                :Animals:Horses:Carriages:
+    ID: 07063119.wav
+    Length: 46
+** Horsedrawn gun carriage passing slowly - 1970 (83E)                                                                                :Animals:Horses:Carriages:
+    ID: 07063118.wav
+    Length: 32
+** Horsedrawn gun carriage passing - 1970 (83E)                                                                                :Animals:Horses:Carriages:
+    ID: 07063117.wav
+    Length: 34
+** One man walking in flooded trench- 1970 (83D)                                                                                :Army:Drill:
+    ID: 07063116.wav
+    Length: 92
+** Troops moving through mud (WW1 drill, no orders or speech) - 1967 (83D)                                                                                :Army:Drill:
+    ID: 07063115.wav
+    Length: 168
+** Slow marching, halt (WW1 drill, no orders) - 1967 (83D)                                                                                :Army:Drill:
+    ID: 07063114.wav
+    Length: 115
+** Firing squad preparing to fire and firing (with orders shouted) - 1967 (83D)                                                                                :Army:Drill:
+    ID: 07063113.wav
+    Length: 37
+** D" company approach and halt, stand easy (WW1 drill with orders shouted) - 1967 (83D)                                                                                :Army:Drill:
+    ID: 07063112.wav
+    Length: 75
+** B" company dismiss and ragged march off (WW1 drill with orders shouted) - 1967 (83D)                                                                                :World War I:Aircraft:
+    ID: 07063111.wav
+    Length: 23
+** A" company dismiss and march off (WW1 drill with orders shouted) - 1967 (83D)                                                                                :Army:Drill:
+    ID: 07063110.wav
+    Length: 24
+** March off in four companies (WW1 drill with orders shouted) - 1967 (83D)                                                                                :Army:Drill:
+    ID: 07063109.wav
+    Length: 115
+** Four companies approach and halt (WW1 drill with orders shouted) - 1967 (83D)                                                                                :Army:Drill:
+    ID: 07063108.wav
+    Length: 97
+** Ext. land, switch off - 1967 (104B)                                                                                :Aircraft:S.E. Five A:
+    ID: 07063107.wav
+    Length: 33
+** Ext. pass over, land, switch off - 1967 (104B)                                                                                :Aircraft:S.E. Five A:
+    ID: 07063106.wav
+    Length: 303
+** Ext. aerobatics as in dog fight - 1967 (104B)                                                                                :Aircraft:S.E. Five A:
+    ID: 07063105.wav
+    Length: 361
+** Ext. aerobatics - 1967 (104A)                                                                                :Aircraft:S.E. Five A:
+    ID: 07063104.wav
+    Length: 145
+** Ext. taxi away, take off, aerobatics - 1967 (104A)                                                                                :Aircraft:S.E. Five A:
+    ID: 07063103.wav
+    Length: 74
+** Ext. take off - 1967 (104A)                                                                                :Aircraft:S.E. Five A:
+    ID: 07063102.wav
+    Length: 17
+** Ext. start up, tickover, taxi - 1967 (104A)                                                                                :Aircraft:S.E. Five A:
+    ID: 07063101.wav
+    Length: 130
+** Int. landing, taxi to stop, tickover, engine off - 1968                                                                                :Aircraft:Bristol Fighter:
+    ID: 07063100.wav
+    Length: 105
+** Int. take off, climb into constant flight - 1968 (104C)                                                                                :Aircraft:Bristol Fighter:
+    ID: 07063099.wav
+    Length: 256
+** Ext. tick over, engine stops - 1968 (104C)                                                                                :Aircraft:Bristol Fighter:
+    ID: 07063098.wav
+    Length: 106
+** Ext. start up, engine running and revving, stops - 1968 (104C)                                                                                :Aircraft:Bristol Fighter:
+    ID: 07063097.wav
+    Length: 257
+** Ext. approach, taxi to stop, tickover - 1968 (104D)                                                                                :Aircraft:Bristol Fighter:
+    ID: 07063096.wav
+    Length: 64
+** Ext. approach and land, taxi up, tickover, switch off - 1968 (104D)                                                                                :Aircraft:Bristol Fighter:
+    ID: 07063095.wav
+    Length: 152
+** Ext. take off - 1968 (104D)                                                                                :Aircraft:Bristol Fighter:
+    ID: 07063094.wav
+    Length: 54
+** Ext. start up, taxi away - 1968 (104D)                                                                                :Aircraft:Bristol Fighter:
+    ID: 07063093.wav
+    Length: 52
+** Ext. passing overhead and manoeuvring - 1968 (104D)                                                                                :Aircraft:Bristol Fighter:
+    ID: 07063092.wav
+    Length: 130
+** Ext. passing overhead with steep turns - 1968 (104D)                                                                                :Aircraft:Bristol Fighter:
+    ID: 07063091.wav
+    Length: 60
+** Ext. passing overhead - 1968 (104D)                                                                                :Aircraft:Bristol Fighter:
+    ID: 07063090.wav
+    Length: 32
+** Ext. passing overhead - 1968 (104D)                                                                                :Aircraft:Bristol Fighter:
+    ID: 07063089.wav
+    Length: 29
+** Aircraft warming up and taking off, aerodrome activity - 1967 (104A)                                                                                :Airports:Aerodromes:
+    ID: 07063088.wav
+    Length: 334
+** French farmhouse - looking out of a farmhouse window on a windy day.                                                                                :France:
+    ID: 07063087.wav
+    Length: 120
+** Rural France - night atmosphere.                                                                                :Atmospheres:Countryside:
+    ID: 07063086.wav
+    Length: 120
+** Tourist site near Perigord - tourists waiting to visit caves, recorded under trees in the rain.                                                                                :Crowds:Exterior:
+    ID: 07063085.wav
+    Length: 120
+** Dorlat, medieval church - interior - some pigeons and people can be heard.                                                                                :Churches:France:
+    ID: 07063084.wav
+    Length: 240
+** Restaurant - exterior atmosphere - dinner in quiet surroundings, some English spoken occasionally.                                                                                :France:
+    ID: 07063083.wav
+    Length: 238
+** Restaurant - exterior atmosphere - lunchtime, some passing traffic.                                                                                :France:
+    ID: 07063082.wav
+    Length: 240
+** Restaurant - interior atmosphere.                                                                                :France:
+    ID: 07063081.wav
+    Length: 238
+** Bar/cafe - people drinking and playing dice, coffee occasionally ground.                                                                                :Cafes:France:
+    ID: 07063080.wav
+    Length: 240
+** Bergerac - traffic in city centre.                                                                                :France:
+    ID: 07063079.wav
+    Length: 120
+** Bergerac - people shopping in city centre.                                                                                :France:
+    ID: 07063078.wav
+    Length: 120
+** Honfleur, town centre - mainly pedestrian area.                                                                                :France:
+    ID: 07063077.wav
+    Length: 210
+** A small village square - recorded near Perigord.                                                                                :France:
+    ID: 07063076.wav
+    Length: 150
+** The Park de Ville, Cognac - distant hum of traffic, pigeons, peacocks, running water and occasional bells chiming.                                                                                :Birds:
+    ID: 07063075.wav
+    Length: 242
+** Market stall, France.                                                                                :France:
+    ID: 07063074.wav
+    Length: 118
+** Sarlet - open air market, setting up stalls and some shopping.                                                                                :France:
+    ID: 07063073.wav
+    Length: 240
+** A small corner shop.                                                                                :France:
+    ID: 07063072.wav
+    Length: 240
+** Large French supermarket filled with customers.                                                                                :Shops:France:
+    ID: 07063071.wav
+    Length: 240
+** Charcuterie/boucherie - customers, shapening knives & refrigerators                                                                                :France:
+    ID: 07063070.wav
+    Length: 210
+** Boulangerie - people constantly entering, buying bread and then leaving.                                                                                :France:
+    ID: 07063069.wav
+    Length: 210
+** Breakfast - a family at breakfast, light chatter and eating.                                                                                :France:
+    ID: 07063068.wav
+    Length: 210
+** Cross channel ferry, duty free shop - light chatter and tills.                                                                                :Boats:Ferries:
+    ID: 07063067.wav
+    Length: 180
+** Cross channel ferry, passenger lounge - hum of engines, light chatter and the noise of rustling newspapers and teacups.                                                                                :Crowds:Interior:Chatter:
+    ID: 07063066.wav
+    Length: 180
+** Edge of Lake Grey (Chile), Forest, birds, loose ice from glacier.                                                                                :Atmospheres:Forests:
+    ID: 07063065.wav
+    Length: 290
+** Dickson Forest (Chile) at foot of glacier. Birds, insects.                                                                                :Atmospheres:Forests:
+    ID: 07063064.wav
+    Length: 298
+** Stream atmosphere in ravine - a light breeze through trees, distant glacier rumble (Chile)                                                                                :Rivers:
+    ID: 07063063.wav
+    Length: 298
+** Waterfall (10 metres) near Pucon, Chile.                                                                                :Waterfalls:
+    ID: 07063062.wav
+    Length: 302
+** Bamboo and reed forest wind through undergrowth with birds. San Martin de los Andes, Argentina.                                                                                :Atmospheres:Forests:
+    ID: 07063061.wav
+    Length: 289
+** Dickson Forest, Chile - rich atmosphere, many birds & insects.                                                                                :Atmospheres:Forests:
+    ID: 07063060.wav
+    Length: 289
+** Sunset at Lake Venados, Argentina - good bird calls.                                                                                :Atmospheres:Dusk:
+    ID: 07063059.wav
+    Length: 301
+** Dawn at Lake Venados, Argentina.                                                                                :Atmospheres:Dawn:
+    ID: 07063058.wav
+    Length: 290
+** Lake Venados, Argentina. Water lapping, frogs (background)                                                                                :Atmospheres:Lakes:
+    ID: 07063057.wav
+    Length: 289
+** Elephant seal colony, Valdes Peninsula, Argentina.                                                                                :Animals:Seals:Elephant:
+    ID: 07063056.wav
+    Length: 289
+** Puntas Arenas - main square in southern most Chilean town, light chatter some traffic                                                                                :Chatter:Exterior:
+    ID: 07063055.wav
+    Length: 290
+** Bow wave recorded from deck of ship travelling at full speed.                                                                                :Ships:Ferries:
+    ID: 07063054.wav
+    Length: 290
+** Ship's bridge - navigating Chilean Archipelago.                                                                                :Boats:Ferries:
+    ID: 07063053.wav
+    Length: 246
+** Ships cabin during fairly rough crossing, Gulf of Sorrow, Chilean Archipelago.                                                                                :Boats:Ferries:
+    ID: 07063052.wav
+    Length: 350
+** Wimbledon 1997 - Spectators leaving, crowd atmosphere.                                                                                :Crowds:Exterior:
+    ID: 07063051.wav
+    Length: 267
+** Wimbledon 1997 - Tea room, indoors with waiters.                                                                                :Crowds:Interior:Chatter:
+    ID: 07063050.wav
+    Length: 253
+** Wimbledon 1997 - Wingfield restaurant, chatter, air conditioning.                                                                                :Air Conditioning:
+    ID: 07063049.wav
+    Length: 260
+** Wimbledon 1997 - Outdoor Bar - crowds, distant commentary (recorded on the tea lawn)                                                                                :Bars:
+    ID: 07063048.wav
+    Length: 260
+** Wimbledon 1997 - Food Court atmosphere. (covered area with concrete floor)                                                                                :Restaurants:
+    ID: 07063047.wav
+    Length: 230
+** Wimbledon 1997 - Pimms tent, general atmosphere.                                                                                :Bars:
+    ID: 07063046.wav
+    Length: 250
+** Wimbledon 1997 - Wimbledon shop, general atmosphere.                                                                                :Sports:Tennis:
+    ID: 07063045.wav
+    Length: 258
+** Wimbledon 1997 - walkway between outside courts, tennis heard.                                                                                :Crowds:Exterior:
+    ID: 07063044.wav
+    Length: 238
+** Wimbledon 1997 - atmosphere outside Court Eighteen, men's singles.                                                                                :Sports:Tennis:
+    ID: 07063043.wav
+    Length: 240
+** Wimbledon 1997 - atmosphere Centre Court, men's singles.                                                                                :Sports:Tennis:
+    ID: 07063042.wav
+    Length: 240
+** Wimbledon 1997 - atmosphere Court One, men's singles.                                                                                :Sports:Tennis:
+    ID: 07063041.wav
+    Length: 240
+** Wimbledon 1997 - Gangway around Court one, some tennis heard.                                                                                :Crowds:Exterior:
+    ID: 07063040.wav
+    Length: 240
+** Wimbledon 1997 - The Large Screen - crowds watching Court One, some chatter                                                                                :Crowds:Exterior:Chatter:
+    ID: 07063039.wav
+    Length: 60
+** Wimbledon 1997 - Group of fans excited at seeing player.                                                                                :Crowds:Exterior:Chatter:
+    ID: 07063038.wav
+    Length: 60
+** Wimbledon 1997 - General atmos. - wide perspective (recorded high from Broadcast Centre)                                                                                :Crowds:Exterior:
+    ID: 07063037.wav
+    Length: 240
+** Wimbledon - Ticket office - spectators buying tickets                                                                                :Sports:Tennis:
+    ID: 07063036.wav
+    Length: 240
+** Wimbledon 1997 - Gate 3 - crowd let in & searched - taxis arriving                                                                                :Crowds:Exterior:Chatter:
+    ID: 07063035.wav
+    Length: 240
+** Wimbledon 1997 - Queue outside All England club, chatter, passing traffic                                                                                :Crowds:Exterior:Chatter:
+    ID: 07063034.wav
+    Length: 240
+** Suckling Herd being feed in field (very close perspective recording).                                                                                :Cattle:
+    ID: 07063033.wav
+    Length: 80
+** Milking Parlour, interior, washing down parlour, bulk tank humming in background & sparrows chirruping.                                                                                :Cattle:
+    ID: 07063032.wav
+    Length: 138
+** Cow, interior, milked by machine, machine switched on & off, churn put down & suction of teat clusters heard.                                                                                :Cattle:
+    ID: 07063031.wav
+    Length: 116
+** Milking Parlour, interior, cattle being milked & moving in & out of parlour.                                                                                :Cattle:
+    ID: 07063030.wav
+    Length: 201
+** Cattle cake distributed into feed bins.                                                                                :Cattle:
+    ID: 07063029.wav
+    Length: 40
+** Milking Parlour, interior, milking machine running, no animal noises, machine switched off (effect ends abruptly). (Close perspective recording.)                                                                                :Cattle:
+    ID: 07063028.wav
+    Length: 107
+** Calves, interior, suckling cow in barn (live acoustic, close perspective recording), lots of movement by calves.                                                                                :Cattle:
+    ID: 07063027.wav
+    Length: 142
+** One Cow, interior, milked by hand, with some loud moos, bucket down on floor at end.                                                                                :Cattle:
+    ID: 07063026.wav
+    Length: 118
+** Milking Parlour, interior, cow enters & moos (live acoustic).                                                                                :Cattle:
+    ID: 07063025.wav
+    Length: 16
+** One Cow, exterior, passes on hard ground, with wind in trees & occasional distant vehicles.                                                                                :Cattle:
+    ID: 07063024.wav
+    Length: 19
+** Milking Parlour, interior, door opens & cow enters parlour (live acoustic), calf scampers in behind, cow chained up, plastic bucket put on floor.                                                                                :Animals:Farm:Cattle:
+    ID: 07063023.wav
+    Length: 33
+** Cattle, exterior, 10 cows walk past over rough track, with vehicle in distance.                                                                                :Animals:Farm:Cattle:
+    ID: 07063022.wav
+    Length: 21
+** Cattle, exterior, approx 30-50 passing on tarmac, with some wind noise (effect ends abruptly).                                                                                :Animals:Farm:Cattle:
+    ID: 07063021.wav
+    Length: 81
+** Three Tamworth Pigs, exterior, grunting in yard, some wind noise. (Close perspective recording.)                                                                                :Pigs:
+    ID: 07063020.wav
+    Length: 125
+** Three Pigs, exterior, grunting occasionally in yard, with some ducks, dogs & cows in the background.                                                                                :Animals:Farm:Cattle:
+    ID: 07063019.wav
+    Length: 238
+** Middle White Pigs, interior, approx 100 pigs feeding very noisily.                                                                                :Pigs:
+    ID: 07063018.wav
+    Length: 320
+** Pigs, interior, pigs feeding with occasional noise from ducks, cows & dogs.                                                                                :Animals:Farm:Cattle:
+    ID: 07063017.wav
+    Length: 190
+** Pigs, interior, general atmosphere of approx 20 pigs feeding, very active with some loud squeals.                                                                                :Animals:Farm:Pigs:
+    ID: 07063016.wav
+    Length: 231
+** Piglets, interior, approx 20-30 2-5 month old pigs, scurrying around in bungalows (special fattening pens)  in number, some older pigs in background.                                                                                :Animals:Farm:Pigs:
+    ID: 07063015.wav
+    Length: 100
+** Farrowing Pens, interior, general atmosphere with lots of snorting, squealing & grunting.                                                                                :Animals:Farm:Pigs:
+    ID: 07063014.wav
+    Length: 80
+** Piglets, interior, suckling. (Close perspective recording, some flies heard on microphone.)                                                                                :Animals:Farm:Pigs:
+    ID: 07063013.wav
+    Length: 61
+** Farrowing Pens, interior, general atmosphere of piglets a few days old, squealing & grunts from sows. (Close perspective recording.)                                                                                :Animals:Farm:Pigs:
+    ID: 07063012.wav
+    Length: 36
+** British Saanen Goat, exterior, annoyed bleating, moving around a field (some close perspective calls), jackdaws & crickets heard. (Recorded in early evening.)                                                                                 :Atmospheres:Evening:
+    ID: 07063011.wav
+    Length: 95
+** British Saanen Goat, exterior, bleating, with some birdsong.                                                                                :Birds:
+    ID: 07063010.wav
+    Length: 32
+** Goats, interior, being fed with lots of bleating & movement (general atmosphere).                                                                                :Animals:Goats:
+    ID: 07063009.wav
+    Length: 115
+** Goat House, interior, general atmosphere with milking machine in background, suction of machine onto teats at 0m17s.                                                                                :Farms:Dairy:
+    ID: 07063008.wav
+    Length: 143
+** Goat, interior, milked by hand, with milking machine humming in background.                                                                                :Farms:Dairy:
+    ID: 07063007.wav
+    Length: 90
+** Goat, interior, milked by machine, with other goats bleating occasionally.                                                                                :Farms:Dairy:
+    ID: 07063006.wav
+    Length: 96
+** Goat House, interior, general atmosphere with about 20 goats moving around pens & cudding, dogs bark occasionally in the distance.                                                                                :Animals:Dogs:Barking:
+    ID: 07063005.wav
+    Length: 118
+** British Saanen Goat (interior) & Kid (exterior), goat bleats, kid returns call, with some birdsong.                                                                                :Animals:Goats:
+    ID: 07063004.wav
+    Length: 92
+** Anglo Nubian Goat, exterior, bleating (some very loud calls).                                                                                :Animals:Goats:
+    ID: 07063003.wav
+    Length: 87
+** Old-English Goat, interior, bleating, occasional wind noise.                                                                                :Animals:Goats:
+    ID: 07063002.wav
+    Length: 79
+** Goat, interior, milked by hand, milk poured into churn at end of band, low level occasional distant traffic.                                                                                :Animals:Goats:
+    ID: 07063001.wav
+    Length: 117
+** Open field atmosphere, May, afternoon - with distant traffic and birdsong, 1980 (2S13, reprocessed) (technical note: to be used at low level)                                                                                :Atmospheres:Afternoon:
+    ID: 07062126.wav
+    Length: 244
+** Countryside, March, dusk, 1977 (1B13 ,reprocessed)                                                                                :Atmospheres:Dusk:
+    ID: 07062125.wav
+    Length: 271
+** Country garden, March - with birdsong and some distant traffic, 1978 (1B11 F)                                                                                :Birds:
+    ID: 07062124.wav
+    Length: 301
+** Hedgerow, January, early morning, 1977 (1B13, reprocessed) (technical note: to be used at low level)                                                                                :Atmospheres:Hedgerows:
+    ID: 07062123.wav
+    Length: 269
+** Devon hedgerow, early morning - birdsong, occasional sheep, quiet stream, 1973 (1B5, reprocessed)                                                                                :Atmospheres:Hedgerows:
+    ID: 07062122.wav
+    Length: 365

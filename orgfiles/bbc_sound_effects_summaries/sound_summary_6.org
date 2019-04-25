@@ -1,0 +1,3003 @@
+** Euston Station, Diesel train ticking over, doors slam.                                                                                :Trains:Stations:Euston:
+    ID: 07041099.wav
+    Length: 183
+** Euston Station, hooter, Diesel train departs, electric train passes.                                                                                :Trains:Stations:Euston:
+    ID: 07041098.wav
+    Length: 177
+** Euston Station, Diesel train ticking over.                                                                                :Trains:Stations:Euston:
+    ID: 07041097.wav
+    Length: 309
+** Euston Station, doors, train departs, station atmosphere & P.A. system, train arrives.                                                                                :Trains:Stations:Euston:
+    ID: 07041096.wav
+    Length: 223
+** Euston Station, whistle sounds, train departs.                                                                                :Trains:Stations:Euston:
+    ID: 07041095.wav
+    Length: 63
+** Euston Station, train arrives.                                                                                :Trains:Stations:Euston:
+    ID: 07041094.wav
+    Length: 57
+** Euston Station, train arrives.                                                                                :Trains:Stations:Euston:
+    ID: 07041093.wav
+    Length: 54
+** Euston Station, atmosphere on concourse with voices, footsteps, unintelligible musak & P.A. system.                                                                                :Trains:Stations:Euston:
+    ID: 07041092.wav
+    Length: 484
+** Victoria Station, atmosphere on concourse with occasional voices.                                                                                :Trains:Stations:Victoria:
+    ID: 07041091.wav
+    Length: 307
+** Southern Region Suburban Train, interior, start into constant run.                                                                                :Trains:Electric:
+    ID: 07041090.wav
+    Length: 85
+** Southern Region Suburban Train, interior, constant run, slow & stop, station atmosphere, doors & P.A. system.                                                                                :Trains:Electric:
+    ID: 07041089.wav
+    Length: 220
+** Southern Region Suburban Train, interior, constant run, slow & stop.                                                                                :Trains:Electric:
+    ID: 07041088.wav
+    Length: 52
+** Victoria Station, train arrives at station.                                                                                :Trains:Stations:Victoria:
+    ID: 07041087.wav
+    Length: 75
+** Victoria Station, train leaving station.                                                                                :Trains:Stations:Victoria:
+    ID: 07041086.wav
+    Length: 85
+** Victoria Station Buffet atmosphere.                                                                                :Trains:Stations:Victoria:
+    ID: 07041085.wav
+    Length: 301
+** Victoria Station, atmosphere on concourse.                                                                                :Trains:Stations:Victoria:
+    ID: 07041084.wav
+    Length: 482
+** Mediaeval Cloth Fulling Mill stopping.                                                                                :Cloth Fulling Mills:
+    ID: 07041083.wav
+    Length: 34
+** Mediaeval Cloth Fulling Mill operating.                                                                                :Cloth Fulling Mills:
+    ID: 07041082.wav
+    Length: 201
+** Single-Cylinder Engine, slow down to stop. (1932, 50 h.p.)                                                                                :Engines:Diesel:
+    ID: 07041081.wav
+    Length: 122
+** Single-Cylinder Engine operating. (1932, 50 h.p.)                                                                                :Engines:Diesel:
+    ID: 07041080.wav
+    Length: 185
+** Diaphragm Pump operating.                                                                                :Pumps:
+    ID: 07041079.wav
+    Length: 29
+** Electric Printing Press operating.                                                                                :Industry:Printing:Presses:
+    ID: 07041078.wav
+    Length: 51
+** Rotary Printing Press operating.                                                                                :Industry:Printing:Presses:
+    ID: 07041077.wav
+    Length: 36
+** Single-Cylinder Water Pumping Engine operating.                                                                                :Pumps:Diesel:
+    ID: 07041076.wav
+    Length: 154
+** Brush Water Pumping Engine operating. (1937 8-cylinder horizontally-opposed pump, 625 BHP, 400 rpm.)                                                                                :Pumps:Diesel:
+    ID: 07041075.wav
+    Length: 265
+** Ruston Water Pumping Engine operating with start & run. (1933 6-cylinder solid injection pump, 715 BHP, 215 rpm.)                                                                                :Pumps:Diesel:
+    ID: 07041074.wav
+    Length: 214
+** Hick Water Pumping Engine operating with start.                                                                                :Pumps:Diesel:
+    ID: 07041073.wav
+    Length: 216
+** Railway Goods Yard, raking coal in hopper.                                                                                :Trains:Goods Yards:
+    ID: 07041068.wav
+    Length: 116
+** Railway Goods Yard, coal tipped from hopper.                                                                                :Trains:Goods Yards:
+    ID: 07041067.wav
+    Length: 49
+** Railway Goods Yard, coal tipped from hopper.                                                                                :Trains:Goods Yards:
+    ID: 07041066.wav
+    Length: 30
+** Italian Steam Train, departs with whistle, enters & leaves tunnel..                                                                                :Trains:Italy:
+    ID: 07041065.wav
+    Length: 109
+** Italian Steam Train passes at speed.                                                                                :Trains:Italy:
+    ID: 07041064.wav
+    Length: 32
+** Italian Steam Train, interior, constant run.                                                                                :Trains:Italy:
+    ID: 07041063.wav
+    Length: 104
+** Italian Steam Train departs station with whistle.                                                                                :Trains:Italy:
+    ID: 07041062.wav
+    Length: 56
+** Italian Steam Train arrives at station.                                                                                :Trains:Italy:
+    ID: 07041061.wav
+    Length: 55
+** Train shunting.                                                                                :Trains:Goods Yards:
+    ID: 07041060.wav
+    Length: 108
+** Railway Goods Yard, trucks running down incline & through truck controller.                                                                                :Trains:Goods Yards:
+    ID: 07041059.wav
+    Length: 56
+** Steam Cranes operating in railway yard. (Recorded in Germany.)                                                                                :Cranes:
+    ID: 07041058.wav
+    Length: 125
+** Signal Box, obstruction detonators & train stopping.                                                                                :Trains:Signal Boxes:
+    ID: 07041057.wav
+    Length: 27
+** Signal Box, obstruction warning.                                                                                :Trains:Signal Boxes:
+    ID: 07041056.wav
+    Length: 18
+** Signal Box, various bells signals.                                                                                :Trains:Signal Boxes:
+    ID: 07041055.wav
+    Length: 49
+** Signal Box, signal & point levers.                                                                                :Trains:Signal Boxes:
+    ID: 07041054.wav
+    Length: 41
+** Manual Signal Box atmosphere.                                                                                :Trains:Signal Boxes:
+    ID: 07041053.wav
+    Length: 49
+** Steam Train, screech of brakes.                                                                                :Trains:Brakes:
+    ID: 07041052.wav
+    Length: 21
+** Doors of steam train closing.                                                                                :Trains:Doors And Windows:
+    ID: 07041051.wav
+    Length: 60
+** Corridor Doors of steam train closing.                                                                                :Trains:Doors And Windows:
+    ID: 07041050.wav
+    Length: 28
+** Heavy Goods Train, approach & pass. (Steam train.)                                                                                :Trains:Steam:
+    ID: 07041049.wav
+    Length: 79
+** Steam Goods & Express Trains overtaking.                                                                                :Trains:Steam:
+    ID: 07041048.wav
+    Length: 92
+** Acetylene torch burns.                                                                                :Acetylene Torches:
+    ID: 07041027.wav
+    Length: 141
+** Acetylene torch lights & ends.                                                                                :Acetylene Torches:
+    ID: 07041026.wav
+    Length: 7
+** Ignition & petrol fire.                                                                                :Chemical And Electrical Reactions:
+    ID: 07041025.wav
+    Length: 38
+** Fire extinguished with a dry powder extinguisher (four bursts).                                                                                :Chemical And Electrical Reactions:
+    ID: 07041024.wav
+    Length: 27
+** Fire extinguished by a carbon dioxide extinguisher.                                                                                :Chemical And Electrical Reactions:
+    ID: 07041023.wav
+    Length: 35
+** Sound of acid blobs.                                                                                :Acid Blobs:
+    ID: 07041022.wav
+    Length: 33
+** General purpose crackle.                                                                                :Chemical And Electrical Reactions:
+    ID: 07041021.wav
+    Length: 192
+** Water hose & fire.                                                                                :Fire Services:
+    ID: 07041020.wav
+    Length: 113
+** Fire extinguished by fire extinguisher.                                                                                :Chemical And Electrical Reactions:
+    ID: 07041019.wav
+    Length: 24
+** Fire extinguished by fire extinguisher.                                                                                :Chemical And Electrical Reactions:
+    ID: 07041018.wav
+    Length: 9
+** Volcanic type rumble. (Spot Effect.)                                                                                :Rumbles:
+    ID: 07041017.wav
+    Length: 385
+** Volcanic type rumble. (Concentrated Spot Effect.)                                                                                :Rumbles:
+    ID: 07041016.wav
+    Length: 393
+** Volcanic eruption, lava roar.                                                                                :Volcanoes:
+    ID: 07041015.wav
+    Length: 421
+** Volcanic eruption, eruption with falling debris.                                                                                :Volcanoes:
+    ID: 07041014.wav
+    Length: 397
+** Volcanic eruption, continuous deep rumble.                                                                                :Volcanoes:
+    ID: 07041013.wav
+    Length: 388
+** Volcanic eruption, continuous eruption.                                                                                :Volcanoes:
+    ID: 07041012.wav
+    Length: 390
+** Liquid fuel rocket motor operating.                                                                                :Rockets:Motors:
+    ID: 07041011.wav
+    Length: 53
+** Wind blower operating in forge.                                                                                :Industry:Drop Forges:
+    ID: 07041010.wav
+    Length: 128
+** Industrial pressure stove operating.                                                                                :Industry:Pressure Stoves:
+    ID: 07041009.wav
+    Length: 183
+** Hair dryer starts, runs & stops.                                                                                :Hair Dryers:
+    ID: 07041008.wav
+    Length: 256
+** Spin dryer starts, runs & stops.                                                                                :Household:Washing:
+    ID: 07041007.wav
+    Length: 120
+** Electric fan starts, runs and stops.                                                                                :Fans:
+    ID: 07041006.wav
+    Length: 256
+** Fan starts, runs & stops.                                                                                :Industry:Vacuum Cleaners:
+    ID: 07041005.wav
+    Length: 209
+** Hot air fan starts & runs.                                                                                :Fans:
+    ID: 07041004.wav
+    Length: 220
+** Constant hiss of steam. (Close perspective.)                                                                                :Steam:Blowers And Extractors:
+    ID: 07041003.wav
+    Length: 216
+** Unmodulated groove on blank record. (Duration 4m24s if played at 45rpm.)                                                                                :Blank Records:
+    ID: 07041002.wav
+    Length: 426
+** Unmodulated Shellac Record surface noise. (Use LP stylus and play at 33 1/3rpm.)                                                                                :Seventy-Eight R.P.M. Records:
+    ID: 07041001.wav
+    Length: 427
+** Self-Adding Cash Register keyboard operated, ticket produced, drawer opened, change given, drawer closed. (Repeated twice.) (Monroe-Sweda Cash Register.)                                                                                ::
+    ID: 07040196.wav
+    Length: 55
+** Batteing Office Cash Register keyboard operated, drawer opened, bell, change given, drawer closed. (Class 51 Cash Register.)                                                                                ::
+    ID: 07040195.wav
+    Length: 14
+** Cash Register being reset. (Class 3 Cash Register.)                                                                                ::
+    ID: 07040194.wav
+    Length: 8
+** Cash Register keyboard operated, ticket produced, drawer opened, bell, change given, drawer closed. (Repeated three times.) (Class 3 Cash Register.)                                                                                ::
+    ID: 07040193.wav
+    Length: 58
+** Cash Register being reset. (Type 21 Itemizing Machine.)                                                                                ::
+    ID: 07040192.wav
+    Length: 10
+** Cash Register keyboard operated, drawer opened, bell, change given, drawer closed. (Repeated three times.) (Type 21 Electric Itemizing Machine.)                                                                                ::
+    ID: 07040191.wav
+    Length: 52
+** Cash Register keyboard operated, ticket produced, drawer opened, bell, change given, coins put in drawer & closed. (Type 96-5 Cash Register.)                                                                                ::
+    ID: 07040190.wav
+    Length: 25
+** Cash Register keyboard operated, ticket produced, drawer closed. (Totting up.) (Type 96-1 Cash Register.)                                                                                ::
+    ID: 07040189.wav
+    Length: 16
+** Cash Register keyboard operated, ticket produced, drawer opened, bell, change given, coins put in drawer & closed. (Type 96-1 Cash Register.)                                                                                ::
+    ID: 07040188.wav
+    Length: 24
+** Cash Register opened, keyboard operated, closed. (Class 100 Cash Register.)                                                                                ::
+    ID: 07040187.wav
+    Length: 15
+** Cash Register keyboard operated, bell, change given, coins put in drawer, closed. (Repeated twice.) (Class 100 Cash Register.)                                                                                ::
+    ID: 07040186.wav
+    Length: 37
+** Cash Register opened, bell, change given, coins put in drawer, closed. (Repeated twice.) (Class 100 Cash Register.)                                                                                ::
+    ID: 07040185.wav
+    Length: 55
+** Launderette high-dry cabinet door opened.                                                                                ::
+    ID: 07040184.wav
+    Length: 8
+** Launderette high-dry cabinet door closed.                                                                                ::
+    ID: 07040183.wav
+    Length: 7
+** Launderette Washing Machine door unwound & opened.                                                                                ::
+    ID: 07040182.wav
+    Length: 14
+** Launderette Washing Machine door closed & wound up.                                                                                ::
+    ID: 07040181.wav
+    Length: 12
+** Launderette Washing Machine, selector indicators on machine set for wash.                                                                                ::
+    ID: 07040180.wav
+    Length: 14
+** Launderette Washing Machine, selector indicators on machine set for wash.                                                                                ::
+    ID: 07040179.wav
+    Length: 32
+** Launderette, general atmosphere in laundrette, machines operating & some speech.                                                                                ::
+    ID: 07040178.wav
+    Length: 406
+** Launderette, dryer door closed, sixpence in slot, 'high-dry' cycle, door opened.                                                                                ::
+    ID: 07040177.wav
+    Length: 285
+** Launderette, dryer lid closed, penny in slot, spin dry, lid opened.                                                                                ::
+    ID: 07040176.wav
+    Length: 124
+** Launderette, washing machine door closed & wound up, full machine cycle, half Crown in slot, spin (3m27s), wash resumes (4m05s), switch off (6m10s), door unwound & opened.                                                                                ::
+    ID: 07040175.wav
+    Length: 409
+** Newsagent/Confectioner's Shop, fairly quiet atmosphere with voices & till.                                                                                ::
+    ID: 07040174.wav
+    Length: 396
+** Confectioner's Shop, busy atmosphere with children. (Some distinct speech.)                                                                                ::
+    ID: 07040173.wav
+    Length: 415
+** Butcher's Shop atmosphere with some distinct speech.                                                                                ::
+    ID: 07040172.wav
+    Length: 393
+** Draper's Shop atmosphere with cash conveyor & some distinct speech.                                                                                ::
+    ID: 07040171.wav
+    Length: 406
+** Crowd in shopping precinct with footsteps & chatter. (Wide perspective recording.)                                                                                ::
+    ID: 07040170.wav
+    Length: 399
+** Crowd in shopping precinct with footsteps & chatter. (Close perspective recording.)                                                                                ::
+    ID: 07040169.wav
+    Length: 372
+** Supermarket, general atmosphere at checkout positions with voices & tills (quiet).                                                                                ::
+    ID: 07040168.wav
+    Length: 151
+** Supermarket, general atmosphere at checkout positions with voices & tills.                                                                                ::
+    ID: 07040167.wav
+    Length: 152
+** Supermarket, general atmosphere with voices & staff labelling goods.                                                                                ::
+    ID: 07040166.wav
+    Length: 358
+** Bentalls, general atmosphere with voices & tills.                                                                                ::
+    ID: 07040165.wav
+    Length: 364
+** Harrods, general atmosphere with voices & tills.                                                                                ::
+    ID: 07040164.wav
+    Length: 364
+** Post Office Telegraphy office, general atmosphere with typewriters. teleprinters & voices.                                                                                ::
+    ID: 07040163.wav
+    Length: 280
+** Teleprinter no. 15 operating (automatic transmitter & re-perforator). (Post Office Telegraph Equipment.)                                                                                ::
+    ID: 07040162.wav
+    Length: 115
+** Post Office radio link operating.                                                                                ::
+    ID: 07040161.wav
+    Length: 183
+** Post Office Computer playing noughts & crosses.                                                                                ::
+    ID: 07040160.wav
+    Length: 197
+** Mail Sorting Office, parcel sorting floor.                                                                                ::
+    ID: 07040159.wav
+    Length: 153
+** Mail Sorting Office, letter sorting floor.                                                                                ::
+    ID: 07040158.wav
+    Length: 170
+** Mail Sorting Office, sorting packets into boxes.                                                                                ::
+    ID: 07040157.wav
+    Length: 55
+** Mail Sorting Office, general atmosphere with underground railway.                                                                                ::
+    ID: 07040156.wav
+    Length: 138
+** Mail Sorting Office, underground train passing.                                                                                ::
+    ID: 07040155.wav
+    Length: 31
+** Mail Sorting Office, underground train arrives, unloaded & departs.                                                                                ::
+    ID: 07040154.wav
+    Length: 100
+** Mail Sorting Office, letter stamping machine operating.                                                                                ::
+    ID: 07040153.wav
+    Length: 58
+** Manual Telephone Switchboard, general atmosphere.                                                                                ::
+    ID: 07040152.wav
+    Length: 402
+** Automatic Telephone Exchange, general atmosphere (wide perspective).                                                                                ::
+    ID: 07040151.wav
+    Length: 197
+** Automatic Telephone Exchange, general atmosphere (close perspective).                                                                                ::
+    ID: 07040150.wav
+    Length: 196
+** Field Telephone bell ringing (incoming call).                                                                                ::
+    ID: 07040149.wav
+    Length: 53
+** Field Telephone receiver replaced.                                                                                ::
+    ID: 07040148.wav
+    Length: 6
+** Field Telephone manual ringing (Magneto).                                                                                ::
+    ID: 07040147.wav
+    Length: 31
+** Field Telephone receiver lifted.                                                                                ::
+    ID: 07040146.wav
+    Length: 6
+** Post Office Telephone, recalling operator.                                                                                ::
+    ID: 07040145.wav
+    Length: 15
+** Post Office Telephone, impatient ringing.                                                                                ::
+    ID: 07040144.wav
+    Length: 22
+** Post Office Telephone, continuous ringing, bell B.                                                                                ::
+    ID: 07040143.wav
+    Length: 14
+** Post Office Telephone, continuous ringing, bell A.                                                                                ::
+    ID: 07040142.wav
+    Length: 24
+** Post Office Telephone, automatic ringing, bell B. (Distant)                                                                                ::
+    ID: 07040141.wav
+    Length: 52
+** Post Office Telephone, automatic ringing, bell A. (Distant)                                                                                ::
+    ID: 07040140.wav
+    Length: 53
+** Post Office Telephone, automatic ringing, bell B. (Near)                                                                                ::
+    ID: 07040139.wav
+    Length: 54
+** Post Office Telephone, automatic ringing, bell A. (Near)                                                                                ::
+    ID: 07040138.wav
+    Length: 54
+** Telephone dial tone, 7 figures dialled, ringing, receiver lifted, replaced receiver local end replaced.                                                                                ::
+    ID: 07040137.wav
+    Length: 36
+** Telephone dial tone, 4 figures dialled, internal ring, received lifted & replaced.                                                                                ::
+    ID: 07040136.wav
+    Length: 30
+** Telephone dial tone, 4 figures dialled, internal ring, receiver replaced; dial tone, 4 figures dialled, internal ring, receiver lifted.                                                                                ::
+    ID: 07040135.wav
+    Length: 58
+** Telephone dial tone, 9 figures dialled, number unobtainable; dial tone. 7 figures dialled, ringing, receiver replaced.                                                                                ::
+    ID: 07040134.wav
+    Length: 58
+** Telephone dial tone, 4 figures dialled, busy signal.                                                                                ::
+    ID: 07040133.wav
+    Length: 10
+** Telephone confidence tones: 1 or 4 or 7 or 0; 2 or 5 or 8; 3 or 6 or 9.                                                                                :Telephones:Confidence Tones:
+    ID: 07040132.wav
+    Length: 21
+** Geiger Counter operating with blips, constant rate.                                                                                ::
+    ID: 07040131.wav
+    Length: 56
+** Geiger Counter operating with buzzer.                                                                                ::
+    ID: 07040130.wav
+    Length: 49
+** Geiger Counter operating with buzzer.                                                                                ::
+    ID: 07040129.wav
+    Length: 74
+** Geiger Counter operating.                                                                                ::
+    ID: 07040128.wav
+    Length: 50
+** Geiger Counter operating.                                                                                ::
+    ID: 07040127.wav
+    Length: 49
+** Geiger Counter operating.                                                                                ::
+    ID: 07040126.wav
+    Length: 66
+** Telephone receiver replaced. (STD telephone.)                                                                                ::
+    ID: 07040125.wav
+    Length: 6
+** Telephone, engaged tone. (STD telephone.)                                                                                ::
+    ID: 07040124.wav
+    Length: 108
+** Telephone, 20 digits dialled (pulses only). (STD telephone.)                                                                                ::
+    ID: 07040123.wav
+    Length: 36
+** Telephone, 20 digits dialled (acoustic & pulses). (STD telephone.)                                                                                ::
+    ID: 07040122.wav
+    Length: 38
+** Telephone, 20 digits dialled (acoustic). (STD telephone.)                                                                                ::
+    ID: 07040121.wav
+    Length: 39
+** Telephone receiver lifted, dialling tone. (STD telephone.)                                                                                ::
+    ID: 07040120.wav
+    Length: 36
+** Telephone receiver replaced. (STD telephone)                                                                                ::
+    ID: 07040119.wav
+    Length: 6
+** Telephone ringing tone. (STD telephone.)                                                                                ::
+    ID: 07040118.wav
+    Length: 109
+** Telphone, 20 digits dialled, pulses only. (STD telephone.)                                                                                ::
+    ID: 07040117.wav
+    Length: 39
+** Telephone, 20 digits dialled, acounstic & pulses. (STD telephone.)                                                                                ::
+    ID: 07040116.wav
+    Length: 39
+** Telephone, 20 digits dialled (accoustic). (STD telephone.)                                                                                ::
+    ID: 07040115.wav
+    Length: 35
+** Telephone receiver lifted, dialling tone. (STD telephone.)                                                                                ::
+    ID: 07040114.wav
+    Length: 34
+** Trimphone warble note, receiver lifted. (Recorded at receiver's end.)                                                                                ::
+    ID: 07040113.wav
+    Length: 68
+** Trimphone warble note, receiver lifted. (Recorded at receiver's end.)                                                                                ::
+    ID: 07040112.wav
+    Length: 53
+** Trimphone warble note, receiver lifted. (Recorded at receiver's end.)                                                                                ::
+    ID: 07040111.wav
+    Length: 35
+** STD payphone, 6d. inserted in STD coin box. (Recorded at caller's end.)                                                                                ::
+    ID: 07040110.wav
+    Length: 17
+** Post Office Telephone, 1/- inserted in old type coinbox. (Recorded at caller's end.)                                                                                ::
+    ID: 07040109.wav
+    Length: 7
+** Post Office Telephone, 6d. inserted in old type coinbox. (Recorded at caller's end.)                                                                                ::
+    ID: 07040108.wav
+    Length: 7
+** Post Office Telephone, Receiver replaced. (Recorded at caller's end.)                                                                                ::
+    ID: 07040107.wav
+    Length: 7
+** Post Office Telephone, Button 'B' pressed. (Recorded at caller's end.)                                                                                ::
+    ID: 07040106.wav
+    Length: 11
+** Post Office Telephone, Button 'A' pressed. (Recorded at caller's end.)                                                                                ::
+    ID: 07040105.wav
+    Length: 6
+** Post Office Telephone, receiver lifted, 4d. inserted, ringing tone, distant receiver lifted (Recorded at caller's end.)                                                                                ::
+    ID: 07040104.wav
+    Length: 65
+** Post Office Telephone, receiver lifted, 3d. inserted, ringing tone, distant receiver lifted. (Recorded at caller's end.)                                                                                ::
+    ID: 07040103.wav
+    Length: 64
+** Post Office Telephone, receiver lifted, 2d. inserted, ringing tone, distant receiver lifted. (Recorded at caller's end)                                                                                ::
+    ID: 07040102.wav
+    Length: 63
+** Swiss telephone engaged tone. (As heard from London.)                                                                                ::
+    ID: 07040101.wav
+    Length: 42
+** Swiss telephone engaged tone. (As heard from London.)                                                                                ::
+    ID: 07040100.wav
+    Length: 37
+** Dutch telephone engaged tone. (As heard from London.)                                                                                ::
+    ID: 07040099.wav
+    Length: 37
+** German telephone engaged tone. (As heard from London.)                                                                                ::
+    ID: 07040098.wav
+    Length: 36
+** French telephone engaged tone. (As heard from London.)                                                                                ::
+    ID: 07040097.wav
+    Length: 38
+** Belgian telephone engaged tone. (As heard from London.)                                                                                ::
+    ID: 07040096.wav
+    Length: 40
+** Swiss telephone ringing tone. (As heard from London.)                                                                                ::
+    ID: 07040095.wav
+    Length: 63
+** Dutch telephone ringing tone. (As heard from London.)                                                                                ::
+    ID: 07040094.wav
+    Length: 63
+** German telephone ringing tone. (As heard from London.)                                                                                ::
+    ID: 07040093.wav
+    Length: 62
+** French general telephone ringing tone. (As heard from London.)                                                                                ::
+    ID: 07040092.wav
+    Length: 63
+** Parisian telephone ringing tone. (As heard from London.)                                                                                ::
+    ID: 07040091.wav
+    Length: 63
+** Belgian telephone ringing tone. (As heard from London.)                                                                                ::
+    ID: 07040090.wav
+    Length: 64
+** Busy Post Office Atmosphere, with footsteps and indistinct speech.                                                                                ::
+    ID: 07040089.wav
+    Length: 375
+** Quiet Post Office Atmosphere, with footsteps and indistinct speech.                                                                                ::
+    ID: 07040088.wav
+    Length: 372
+** STD paytone.                                                                                ::
+    ID: 07040087.wav
+    Length: 33
+** Telephone number unobtainable tone.                                                                                ::
+    ID: 07040086.wav
+    Length: 33
+** STD engaged tone.                                                                                ::
+    ID: 07040085.wav
+    Length: 33
+** Telephone engaged tone.                                                                                ::
+    ID: 07040084.wav
+    Length: 33
+** Telephone ringing tone.                                                                                ::
+    ID: 07040083.wav
+    Length: 32
+** Telephone dialling tone.                                                                                ::
+    ID: 07040082.wav
+    Length: 34
+** Telephone receiver lifted, dialling tone, dialling 7 digits, STD engaged tone. receiver replaced                                                                                ::
+    ID: 07040081.wav
+    Length: 51
+** Telephone receiver lifted, dialling tone, dialling 7 digits, number unobtainable tone, receiver repalced.                                                                                ::
+    ID: 07040080.wav
+    Length: 47
+** Telephone receiver lifted, dialling tone, dialling 7 digits, engaged tone, receiver replaced                                                                                ::
+    ID: 07040079.wav
+    Length: 49
+** Telephone, 1s. drops into coin box at distant end.                                                                                ::
+    ID: 07040078.wav
+    Length: 6
+** Telephone receiver lifted, dialling tone, dialling 7 digits, ringing tone,distant receiver lifted.                                                                                ::
+    ID: 07040077.wav
+    Length: 51
+** Telephone, 6d. drops into coin box at distant end.                                                                                ::
+    ID: 07040076.wav
+    Length: 6
+** Distant telephone receiver replaced.                                                                                ::
+    ID: 07040075.wav
+    Length: 6
+** Telephone receiver lifted, dailling tone, dailling 7 digits, ringing tone, receiver replaced.                                                                                ::
+    ID: 07040074.wav
+    Length: 53
+** Telephone, 4d, drops into coin box. (As heard from distant end.)                                                                                ::
+    ID: 07040073.wav
+    Length: 6
+** Telephone receiver lifted, dialling 7 digits, STD engaged tone, receiver replaced.                                                                                ::
+    ID: 07040072.wav
+    Length: 49
+** Telphone paytone, second 3d. inserted.                                                                                ::
+    ID: 07040071.wav
+    Length: 9
+** Telephone receiver lifted, dialling 7 digits, number unobtainable tone, receiver replaced.                                                                                ::
+    ID: 07040070.wav
+    Length: 50
+** Telephone receiver lifted, dialling 7 digits, engaged tone, receiver replaced.                                                                                ::
+    ID: 07040069.wav
+    Length: 47
+** Telephone paytone.                                                                                ::
+    ID: 07040068.wav
+    Length: 14
+** Telephone receiver lifted, dialling 7 digits, ringing tone, receiver lifted.                                                                                ::
+    ID: 07040067.wav
+    Length: 61
+** Telephone receiver replaced. (No sound of bell.)                                                                                ::
+    ID: 07040066.wav
+    Length: 6
+** Telephone receiver lifted, dialling 7 digits, ringing tone, receiver replaced.                                                                                ::
+    ID: 07040065.wav
+    Length: 60
+** Three pips. (Type used by Speaking Clock)                                                                                ::
+    ID: 07040064.wav
+    Length: 7
+** Church Bells, ringing, stop.  (Holy Rude Church, Stiring, Stirlingshire.)                                                                                ::
+    ID: 07040063.wav
+    Length: 186
+** Church Bells, start into ringing. (Holy Rude Church, Stiring, Stirlingshire.)                                                                                ::
+    ID: 07040062.wav
+    Length: 185
+** Church Bells, ringing, ringing ends. (St. Saviour's Church, Oxton, Birkenhead, Merseyside.)                                                                                ::
+    ID: 07040061.wav
+    Length: 182
+** Church Bells ringing. (St. Congall's Church, Bangor, County Down.)                                                                                ::
+    ID: 07040060.wav
+    Length: 184
+** Church Bells, ringing, stop. (St. John the Baptist Church, Croydon.)                                                                                ::
+    ID: 07040059.wav
+    Length: 183
+** Church Bells, start into ringing. (St. John the Baptist's Church, Croydon.)                                                                                ::
+    ID: 07040058.wav
+    Length: 183
+** Church Bells, ringing, ringing stops. (St. Mary the Virgin's Church, Brixham, Devon.)                                                                                ::
+    ID: 07040057.wav
+    Length: 237
+** Church Bells, Old Steeple bells ringing. (Tower of St. Mary's Church, Dundee, known as Old Steeple and is the only surviving part of the Pre-Reformation Church of St. Mary.)                                                                                ::
+    ID: 07040056.wav
+    Length: 104
+** Church Bells, ringing into stop. (St. Andrew's Church, South Lopham, Norfolk.)                                                                                ::
+    ID: 07040055.wav
+    Length: 180
+** Church Bells, start into ringing. (St. Andrew's Church, South Lopham, Norfolk.)                                                                                ::
+    ID: 07040054.wav
+    Length: 184
+** Wakefield Cathedral Bells ringing.                                                                                ::
+    ID: 07040053.wav
+    Length: 182
+** Sherborne Abbey Bells ringing.                                                                                ::
+    ID: 07040052.wav
+    Length: 184
+** Church Bells ringing. (Kilbroney Parish Church, County Down.)                                                                                ::
+    ID: 07040051.wav
+    Length: 184
+** Church Bells ringing. (St. Nicholas' Church, Kings Norton.)                                                                                ::
+    ID: 07040050.wav
+    Length: 184
+** Church Bells ringing. (St. Mary the Virgin's Church, Willesborough, Kent.)                                                                                ::
+    ID: 07040049.wav
+    Length: 181
+** Church Bells ringing. (St. Mary the Virgin's Church, Pembroke, Pembrokeshire.)                                                                                ::
+    ID: 07040048.wav
+    Length: 185
+** Church Bells, muffled bells pealing & stopping. (St. Mary the Virgin's Church, Godmanchester, Cambridgeshire.)                                                                                ::
+    ID: 07040047.wav
+    Length: 186
+** Church Bells, muffled bells starting & pealing. (St. Mary the Virgin's Church, Godmanchester, Cambridgeshire.)                                                                                ::
+    ID: 07040046.wav
+    Length: 181
+** Church Bells, half-muffled bells pealing & stopping. (St. Mary the Virgin's Church, Godmanchester, Cambridgeshire.)                                                                                ::
+    ID: 07040045.wav
+    Length: 183
+** Church Bells, half-muffled bells starting & pealing. (St. Mary the Virgin's Church, Godmanchester, Cambridgeshire.)                                                                                ::
+    ID: 07040044.wav
+    Length: 183
+** St. Albans Abbey Bells, Erin Cinques ringing, bells stop.                                                                                ::
+    ID: 07040043.wav
+    Length: 200
+** St. Albans Abbey Bells, Erin Cinques, start into ringing.                                                                                ::
+    ID: 07040042.wav
+    Length: 206
+** St. Albans Abbey Bells, ringing down, bells stop.                                                                                ::
+    ID: 07040041.wav
+    Length: 188
+** St. Albans Abbey Bells, rounds on twelve bells with start and stop.                                                                                ::
+    ID: 07040040.wav
+    Length: 214
+** Magdalen College Chapel Bells, change ringing, Stedman Caters. (Recorded on the ground.)                                                                                ::
+    ID: 07040039.wav
+    Length: 397
+** Magdalen College Chapel Bells, change ringing, Stedman Caters, ringing starts. (Recorded in tower.)                                                                                ::
+    ID: 07040038.wav
+    Length: 396
+** Lichfield Cathedral Bells, twelve bells ringing.                                                                                ::
+    ID: 07040037.wav
+    Length: 182
+** Lichfield Cathedral Bells, ten bells ringing.                                                                                 ::
+    ID: 07040036.wav
+    Length: 185
+** Church Bells, ten bells ringing. (St. George's Church, Greenock, Inverclyde.)                                                                                ::
+    ID: 07040035.wav
+    Length: 175
+** Churc h Bells, eight bells ringing. (St. Peter's Church, Woolton, Liverpool.)                                                                                ::
+    ID: 07040034.wav
+    Length: 184
+** Iona Abbey Bells, tenor bell ringing.                                                                                ::
+    ID: 07040033.wav
+    Length: 182
+** Church Bells ringing. (St. Cuthbert's Church, Edinburgh.)                                                                                ::
+    ID: 07040032.wav
+    Length: 184
+** St. Philip's Cathedral Bells, Cambridge Maximum rung. (St. Philip's Cathedral, Birmingham.)                                                                                ::
+    ID: 07040031.wav
+    Length: 183
+** St. Philip's Cathedral Bells ringing. (St. Philip's Cathedral, Birmingham.)                                                                                ::
+    ID: 07040030.wav
+    Length: 182
+** Church Bells, six bells ringing. (St. Mary's, Hampton, Middlesex.)                                                                                ::
+    ID: 07040029.wav
+    Length: 186
+** Church Bells, ringing down with rapid, joyous & random ringing for last minute of recording. (St. Clement Dane's Church, The Strand, London.)                                                                                ::
+    ID: 07040028.wav
+    Length: 182
+** Church Bells, firing the bells. (St. Clement Dane's Church, The Strand, London.)                                                                                ::
+    ID: 07040027.wav
+    Length: 182
+** Church Bells, Stedman Triples rung. (St. Clement Dane's Church, The Strand, London.)                                                                                ::
+    ID: 07040026.wav
+    Length: 180
+** Church Bells, ringing down in peals, ringing ends. (Evercreech Church, Somerset.)                                                                                ::
+    ID: 07040025.wav
+    Length: 153
+** Church Bells, Stedman Triples rung with start & stop. (Evercreech Church, Somerset.)                                                                                ::
+    ID: 07040024.wav
+    Length: 212
+** Church Bells, Grandsire Caters rung, ringing ends. (Evercreech Church, Somerset.)                                                                                ::
+    ID: 07040023.wav
+    Length: 180
+** Church Bells, Grandsire Triples rung, ringing ends. (Evercreech Church, Somerset.)                                                                                ::
+    ID: 07040022.wav
+    Length: 175
+** Church Bells, six bells ringing. (St. Bartholomew's Church, Lostwithiel, Cornwall.)                                                                                ::
+    ID: 07040021.wav
+    Length: 333
+** Church Bells, eight bells ringing. (St. Nicholas' Church, Sevenoaks, Kent.)                                                                                ::
+    ID: 07040020.wav
+    Length: 174
+** Winchester Cathedral Bells ringing.                                                                                ::
+    ID: 07040019.wav
+    Length: 184
+** St. Paul's Cathedral Bells ringing.                                                                                 ::
+    ID: 07040018.wav
+    Length: 426
+** Westminster Abbey Bells ringing.                                                                                ::
+    ID: 07040017.wav
+    Length: 427
+** Village Church Bells, six bells ringing to rest. (Christ Church, Kilndown, Kent.)                                                                                ::
+    ID: 07040016.wav
+    Length: 250
+** Village Church Bells, single bell tolling with sound of mechanism. (St. Margaret's Church, Horsmonden, Kent.)                                                                                ::
+    ID: 07040015.wav
+    Length: 144
+** Catholic Church Bells, Angelus bell with outdoor atmosphere.                                                                                ::
+    ID: 07040014.wav
+    Length: 64
+** Catholic Church, Sanctus gong.                                                                                ::
+    ID: 07040013.wav
+    Length: 70
+** Catholic Church Bells, Sanctus bell.                                                                                ::
+    ID: 07040012.wav
+    Length: 54
+** Catholic Church Bells, Sanctus bell.                                                                                ::
+    ID: 07040011.wav
+    Length: 55
+** Catholic Church Bells, Sanctus bell.                                                                                ::
+    ID: 07040010.wav
+    Length: 41
+** Catholic Church Bells, Sanctus bell.                                                                                ::
+    ID: 07040009.wav
+    Length: 44
+** Village Church Bells, single bell tolling with sound of mechanism. (St. Margaret's Church, Horsmonden, Kent.)                                                                                ::
+    ID: 07040008.wav
+    Length: 214
+** Village Church Bells, single bell tolling. (St. Margaret's Church, Horsmonden, Kent.)                                                                                ::
+    ID: 07040007.wav
+    Length: 180
+** Village Church Bells, single bell ringing. (St. Margaret's Church, Horsmonden, Kent.)                                                                                ::
+    ID: 07040006.wav
+    Length: 405
+** Village Church Bells, single bell ringing up then tolling. (Christ Church, Kilndown, Kent.)                                                                                ::
+    ID: 07040005.wav
+    Length: 373
+** Village Church Bells, peal of six bells. (Christ Church, Kilndown, Kent.)                                                                                ::
+    ID: 07040004.wav
+    Length: 408
+** Village Church Bells, ringing up into rounds. (Location unknown.)                                                                                ::
+    ID: 07040003.wav
+    Length: 197
+** Village Church Bells, rounds, firing, ends with rounds. (Location unknown.)                                                                                ::
+    ID: 07040002.wav
+    Length: 166
+** Village Church Bells, poorly rung. (Location unknown.)                                                                                ::
+    ID: 07040001.wav
+    Length: 367
+** Edinburgh Tram, exterior, approach & passing with bell.                                                                                ::
+    ID: 07039414.wav
+    Length: 39
+** Edinburgh Tram, exterior, passing with fender down..                                                                                ::
+    ID: 07039413.wav
+    Length: 18
+** Edinburgh Tram, exterior, pass with bell, crosses points & stops.                                                                                ::
+    ID: 07039412.wav
+    Length: 28
+** Edinburgh Tram, exterior, approach & pass.                                                                                ::
+    ID: 07039411.wav
+    Length: 47
+** Edinburgh Tram, exterior, approach & pass.                                                                                ::
+    ID: 07039410.wav
+    Length: 30
+** Edinburgh Tram, exterior, approach & pass.                                                                                ::
+    ID: 07039409.wav
+    Length: 29
+** Aberdeen Tram, exterior, run at speed with hooter.                                                                                ::
+    ID: 07039408.wav
+    Length: 19
+** Aberdeen Trams, exterior, new tram crossing points followed by older model tram.                                                                                ::
+    ID: 07039407.wav
+    Length: 45
+** Glasgow Tram, interior, start, slow run over points, stop.                                                                                ::
+    ID: 07039406.wav
+    Length: 69
+** Glasgow Tram, interior, bell rings, start, run & stop.                                                                                ::
+    ID: 07039405.wav
+    Length: 77
+** Tram, approach, pass & stop.                                                                                ::
+    ID: 07039404.wav
+    Length: 19
+** Two trams pass.                                                                                ::
+    ID: 07039403.wav
+    Length: 34
+** Tram, approach & pass.                                                                                ::
+    ID: 07039402.wav
+    Length: 22
+** Tram, approach & pass.                                                                                ::
+    ID: 07039401.wav
+    Length: 20
+** Tram, approach, pass & stop.                                                                                ::
+    ID: 07039400.wav
+    Length: 19
+** Tram, interior, start, run & stop. (Recorded on top deck.)                                                                                ::
+    ID: 07039399.wav
+    Length: 85
+** Tram, run with increasing & decreasing speed, stop.                                                                                ::
+    ID: 07039398.wav
+    Length: 82
+** Tram, stop, start & run.                                                                                ::
+    ID: 07039397.wav
+    Length: 74
+** Tram, start, run, stop with Conductor, whistle & faint bell.                                                                                ::
+    ID: 07039396.wav
+    Length: 79
+** London Tram, approach with Driver's bell, stop, second tram passes.                                                                                ::
+    ID: 07039395.wav
+    Length: 36
+** London Tram, approach, stop, passengers alight, depart.                                                                                ::
+    ID: 07039394.wav
+    Length: 57
+** London Tram, approach, pass & stop.                                                                                ::
+    ID: 07039393.wav
+    Length: 77
+** Hyde Tram, stop with electric brakes.                                                                                ::
+    ID: 07039392.wav
+    Length: 17
+** Hyde Tram, departs.                                                                                ::
+    ID: 07039391.wav
+    Length: 15
+** Hyde Tram, constant run on gradients & stop.                                                                                ::
+    ID: 07039390.wav
+    Length: 149
+** Tram, constant run in long stages.                                                                                ::
+    ID: 07039389.wav
+    Length: 252
+** Tram, constant run in short stages.                                                                                ::
+    ID: 07039388.wav
+    Length: 237
+** Tram, Conductor's bell rung one, rung twice, rung four times.                                                                                ::
+    ID: 07039387.wav
+    Length: 13
+** Tram, approach, crosses points & away.                                                                                ::
+    ID: 07039386.wav
+    Length: 16
+** Tram, approach, crosses points & away.                                                                                ::
+    ID: 07039385.wav
+    Length: 27
+** Tram, start & accelerate away.                                                                                ::
+    ID: 07039384.wav
+    Length: 16
+** Tram, approach at speed & stop with electric brakes.                                                                                ::
+    ID: 07039383.wav
+    Length: 20
+** Tram, approach at speed & stop.                                                                                ::
+    ID: 07039382.wav
+    Length: 21
+** Tram, driver's bell sounds with brake.                                                                                ::
+    ID: 07039381.wav
+    Length: 24
+** Tram, start, crosses points, continuous run, stop. (Recorded on lower deck.)                                                                                ::
+    ID: 07039380.wav
+    Length: 75
+** Tram, start, crosses points, continuous run, stop. (Recorded on open-top deck.)                                                                                ::
+    ID: 07039379.wav
+    Length: 72
+** Traffic actuality, with trams & cars. (Recorded in Glasgow.)                                                                                ::
+    ID: 07039378.wav
+    Length: 272
+** Traffic actuality, with trams & cars. (Recorded in Glasgow.)                                                                                ::
+    ID: 07039377.wav
+    Length: 239
+** Traffic actuality. (Recorded in Bristol.)                                                                                ::
+    ID: 07039376.wav
+    Length: 81
+** Bus horns. (Recorded in St. Moritz.)                                                                                ::
+    ID: 07039375.wav
+    Length: 70
+** Sleigh Bells. (Recorded in St. Moritz.)                                                                                ::
+    ID: 07039374.wav
+    Length: 71
+** Street actuality, with shovelling.                                                                                ::
+    ID: 07039373.wav
+    Length: 72
+** Winter Traffic. (Recorded in Zakopane, Poland.)                                                                                ::
+    ID: 07039372.wav
+    Length: 163
+** Traffic with trams & horse-drawn drays. (Recorded in Belfast.)                                                                                ::
+    ID: 07039371.wav
+    Length: 191
+** Austin Taxi, reverses. (1950 model, 16hp engine.)                                                                                ::
+    ID: 07039370.wav
+    Length: 49
+** Austin Taxi, start, approach, stop, door opens, meter, depart. (1950 model, 16hp engine.)                                                                                ::
+    ID: 07039369.wav
+    Length: 54
+** Austin Taxi, start, approach, stop with squeak of brakes, door opens, meter, tickover, depart. (1950 model, 16hp engine.)                                                                                ::
+    ID: 07039368.wav
+    Length: 54
+** Austin Taxi, start, tickover, depart, stopping in traffic, door opens, depart. (1950 model, 16hp engine.)                                                                                ::
+    ID: 07039367.wav
+    Length: 107
+** Austin Taxi, approach, stop on gravel with squeak of brakes, door opens, meter, tickover, departs. (1950 model, 16hp engine.)                                                                                ::
+    ID: 07039366.wav
+    Length: 33
+** Austin Taxi, start, tickover, quick departure into run, stop, tickover, stop. (1950 model, 16hp engine.)                                                                                ::
+    ID: 07039365.wav
+    Length: 86
+** Austin Taxi, slow stop, handbrake, tickover, switch off. (1950 model, 16hp engine.)                                                                                ::
+    ID: 07039364.wav
+    Length: 64
+** Austin Taxi, start, tickover, depart. (1950 model, 16hp engine.)                                                                                ::
+    ID: 07039363.wav
+    Length: 42
+** Five Veteran cars running in traffic & stopping.                                                                                ::
+    ID: 07039362.wav
+    Length: 117
+** Vintage Benz car, start, constant run. (1896 model.)                                                                                ::
+    ID: 07039361.wav
+    Length: 81
+** Vintage Benz car, ticking over. (1896 model.)                                                                                ::
+    ID: 07039360.wav
+    Length: 58
+** Vintage Mercedes car, start, constant run, stop. (1903 model.)                                                                                ::
+    ID: 07039359.wav
+    Length: 75
+** Vintage Wolseley car, start, constant run, stop. (1903 model.)                                                                                ::
+    ID: 07039358.wav
+    Length: 73
+** Vintage Alldays car, start, constant run, stop. (1903 model.)                                                                                ::
+    ID: 07039357.wav
+    Length: 89
+** Two horses gallop & stop.                                                                                ::
+    ID: 07039356.wav
+    Length: 73
+** Two horses canter & stop.                                                                                ::
+    ID: 07039355.wav
+    Length: 73
+** Horse-drawn Milk Float approaches & stops, with bottles clinking.                                                                                 ::
+    ID: 07039354.wav
+    Length: 26
+** Horse turning & trotting.                                                                                ::
+    ID: 07039353.wav
+    Length: 84
+** Two horses walk & stops on hard road.                                                                                ::
+    ID: 07039352.wav
+    Length: 62
+** Horse trots & stops on hard road.                                                                                ::
+    ID: 07039351.wav
+    Length: 61
+** Horse walks & stops on hard road.                                                                                ::
+    ID: 07039350.wav
+    Length: 92
+** Horse canters & stops on hard road.                                                                                ::
+    ID: 07039349.wav
+    Length: 59
+** Two horses canter, walk & stop on hard road.                                                                                ::
+    ID: 07039348.wav
+    Length: 90
+** Horse gallops & stops.                                                                                ::
+    ID: 07039347.wav
+    Length: 34
+** Horse gallops & stops on soft surface.                                                                                ::
+    ID: 07039346.wav
+    Length: 28
+** Horse gallops & stops on soft surface.                                                                                ::
+    ID: 07039345.wav
+    Length: 57
+** Horse trots, gallops & stops on hard road.                                                                                ::
+    ID: 07039344.wav
+    Length: 41
+** Coaching Inn, changing horses with voices, jingling harnesses & horses' hooves.                                                                                ::
+    ID: 07039343.wav
+    Length: 77
+** Horse-drawn Coach pulled by four trotting horses, with coach horn playing 'Pop goes the weasel'.                                                                                ::
+    ID: 07039342.wav
+    Length: 30
+** Horse-drawn Coach pulled by four trotting horses, with coach horn.                                                                                ::
+    ID: 07039341.wav
+    Length: 52
+** Horse-drawn coach pulled by four trotting horses, stop.                                                                                ::
+    ID: 07039340.wav
+    Length: 18
+** Horse-drawn coach pulled by four horses, start into trot.                                                                                ::
+    ID: 07039339.wav
+    Length: 32
+** Horse-drawn Coach pulled by four horses, start into continuous run.                                                                                ::
+    ID: 07039338.wav
+    Length: 215
+** Two horses walking on hard road.                                                                                ::
+    ID: 07039337.wav
+    Length: 47
+** Two horses galloping on turf.                                                                                ::
+    ID: 07039336.wav
+    Length: 19
+** Two horses galloping on turf.                                                                                ::
+    ID: 07039335.wav
+    Length: 15
+** Two horses trotting on turf.                                                                                ::
+    ID: 07039334.wav
+    Length: 16
+** Horse galloping on turf.                                                                                ::
+    ID: 07039333.wav
+    Length: 21
+** Horse trots past on wet muddy road.                                                                                ::
+    ID: 07039332.wav
+    Length: 30
+** Horse gallops past on soft cinder road.                                                                                ::
+    ID: 07039331.wav
+    Length: 20
+** Horse gallops up, stamps, rider dismounts, rider remounts, horse canters off on soft cinder road.                                                                                ::
+    ID: 07039330.wav
+    Length: 30
+** Horse gallops up, stamps, rider dismounts, rider remounts, horse canters off on soft cinder road.                                                                                ::
+    ID: 07039329.wav
+    Length: 35
+** Horse trots past on soft cinder road.                                                                                ::
+    ID: 07039328.wav
+    Length: 19
+** Horse walks past on soft cinder road.                                                                                ::
+    ID: 07039327.wav
+    Length: 30
+** Horse gallops up & stops on hard road.                                                                                ::
+    ID: 07039326.wav
+    Length: 18
+** Horse gallops away on hard road.                                                                                ::
+    ID: 07039325.wav
+    Length: 20
+** Horse canters away & returns to stop on gravel road.                                                                                ::
+    ID: 07039324.wav
+    Length: 37
+** Two horses trotting fast, with sleigh bells.                                                                                ::
+    ID: 07039323.wav
+    Length: 81
+** Horse trotting fast, with sleigh bells.                                                                                ::
+    ID: 07039322.wav
+    Length: 103
+** Horse trotting, with sleigh bells.                                                                                ::
+    ID: 07039321.wav
+    Length: 52
+** Horse walks & stops.                                                                                ::
+    ID: 07039320.wav
+    Length: 75
+** Horse walks & stops.                                                                                ::
+    ID: 07039319.wav
+    Length: 75
+** Horse gallops & stops.                                                                                ::
+    ID: 07039318.wav
+    Length: 80
+** Horse canters & stops.                                                                                ::
+    ID: 07039317.wav
+    Length: 78
+** Restless horse on turf.                                                                                ::
+    ID: 07039316.wav
+    Length: 56
+** Horse walks on turf, canters, jumps, canters & stops.                                                                                ::
+    ID: 07039315.wav
+    Length: 75
+** Horses cantering on turf & stopping.                                                                                ::
+    ID: 07039314.wav
+    Length: 72
+** Group of prairie horses on the move (cantering).                                                                                ::
+    ID: 07039313.wav
+    Length: 130
+** Horses stampeding on hard ground.                                                                                ::
+    ID: 07039312.wav
+    Length: 122
+** Horse trotting on cobblestones.                                                                                ::
+    ID: 07039311.wav
+    Length: 29
+** Horse walking on cobblestones.                                                                                ::
+    ID: 07039310.wav
+    Length: 62
+** Oxen pulling cart, with bells & voices.                                                                                ::
+    ID: 07039309.wav
+    Length: 75
+** Horse & light cart trotting on hard road.                                                                                ::
+    ID: 07039308.wav
+    Length: 60
+** Horse & light cart walking on hard road.                                                                                ::
+    ID: 07039307.wav
+    Length: 94
+** Horse galloping away on hard road.                                                                                ::
+    ID: 07039306.wav
+    Length: 24
+** Two horses trotting on hard road.                                                                                ::
+    ID: 07039305.wav
+    Length: 55
+** Troop of horses galloping on turf.                                                                                ::
+    ID: 07039304.wav
+    Length: 151
+** Troop of horses trotting on gravel.                                                                                ::
+    ID: 07039303.wav
+    Length: 144
+** Troop of horses walking.                                                                                ::
+    ID: 07039302.wav
+    Length: 147
+** Horse trotting on gravel.                                                                                ::
+    ID: 07039301.wav
+    Length: 22
+** Horse trotting on gravel.                                                                                ::
+    ID: 07039300.wav
+    Length: 48
+** Horse walking on gravel.                                                                                ::
+    ID: 07039299.wav
+    Length: 65
+** Horse walking on road.                                                                                ::
+    ID: 07039298.wav
+    Length: 64
+** Two horses cantering on road.                                                                                ::
+    ID: 07039297.wav
+    Length: 78
+** Two horses cantering on road.                                                                                ::
+    ID: 07039296.wav
+    Length: 66
+** Two horses trotting on road.                                                                                ::
+    ID: 07039295.wav
+    Length: 68
+** Two horses trotting on road.                                                                                ::
+    ID: 07039294.wav
+    Length: 41
+** Two horses walking on road.                                                                                ::
+    ID: 07039293.wav
+    Length: 72
+** Horses walking on road.                                                                                ::
+    ID: 07039292.wav
+    Length: 95
+** Horses walking on road.                                                                                ::
+    ID: 07039291.wav
+    Length: 92
+** Horses walking on turf.                                                                                ::
+    ID: 07039290.wav
+    Length: 63
+** Horses trotting on turf.                                                                                ::
+    ID: 07039289.wav
+    Length: 65
+** Two horses trotting on turf.                                                                                ::
+    ID: 07039288.wav
+    Length: 81
+** Horse-drawn Hansom Cab, approaching & passing (twice), approaching & stopping.                                                                                ::
+    ID: 07039287.wav
+    Length: 110
+** Horse-drawn Hansom Cab approaching & stopping on cobblestones.                                                                                 ::
+    ID: 07039286.wav
+    Length: 26
+** Horse-drawn Hansom Cab approaching at walk & passing on cobblestones.                                                                                 ::
+    ID: 07039285.wav
+    Length: 48
+** Horse-drawn Hansom Cab turning.                                                                                 ::
+    ID: 07039284.wav
+    Length: 22
+** Horse-drawn Hansom Cab, approaching & passes.                                                                                 ::
+    ID: 07039283.wav
+    Length: 21
+** Horse-drawn Hansom Cab, approaching, stops.                                                                                 ::
+    ID: 07039282.wav
+    Length: 18
+** Horse-drawn Hansom Cab, approaching, stops, passenger descends.                                                                                 ::
+    ID: 07039281.wav
+    Length: 18
+** Horse-drawn Hansom Cab, starting, trotting off.                                                                                ::
+    ID: 07039280.wav
+    Length: 16
+** Horse-drawn Hansom Cab, passenger into cab, cab moves off with horse trotting.                                                                                ::
+    ID: 07039279.wav
+    Length: 28
+** Horse-drawn Hansom Cab, interior, starting into continuous walk.                                                                                ::
+    ID: 07039278.wav
+    Length: 35
+** Horse-drawn Hansom Cab, interior, starting, trotting, stopping.                                                                                ::
+    ID: 07039277.wav
+    Length: 24
+** Horse-drawn Hansom Cab, interior, starting, trotting, stopping.                                                                                ::
+    ID: 07039276.wav
+    Length: 32
+** Horse galloping.                                                                                ::
+    ID: 07039275.wav
+    Length: 34
+** Horse stamping.                                                                                ::
+    ID: 07039274.wav
+    Length: 61
+** Horse gallops into distance.                                                                                ::
+    ID: 07039273.wav
+    Length: 50
+** Horse galloping, comes to halt.                                                                                ::
+    ID: 07039272.wav
+    Length: 50
+** Horses walking on soft surface.                                                                                ::
+    ID: 07039271.wav
+    Length: 88
+** Horse stamping on hard surface.                                                                                ::
+    ID: 07039270.wav
+    Length: 36
+** Horse galloping on hard surface.                                                                                ::
+    ID: 07039269.wav
+    Length: 55
+** Horse galloping on hard surface.                                                                                ::
+    ID: 07039268.wav
+    Length: 67
+** Horses trotting, approaching & stopping on hard surface.                                                                                ::
+    ID: 07039267.wav
+    Length: 55
+** Horses walking then departing at a trot on hard surface.                                                                                ::
+    ID: 07039266.wav
+    Length: 49
+** Horses stamping on hard ground.                                                                                ::
+    ID: 07039265.wav
+    Length: 13
+** Horses trotting, approach & stop on hard surface.                                                                                ::
+    ID: 07039264.wav
+    Length: 38
+** Horse galloping on hard surface, approach & stop.                                                                                ::
+    ID: 07039263.wav
+    Length: 31
+** Horse-drawn Tram. (Recorded in Douglas, I.O.M.)                                                                                ::
+    ID: 07039262.wav
+    Length: 181
+** Horse-drawn Hansom Cab approaching, stopping, setting off.                                                                                ::
+    ID: 07039261.wav
+    Length: 39
+** Horse-drawn Hansom Cab trotting past.                                                                                ::
+    ID: 07039260.wav
+    Length: 30
+** Horse-drawn Hansom Cab approaching, stopping, setting off.                                                                                ::
+    ID: 07039259.wav
+    Length: 42
+** Horse-drawn Hansom Cab trotting past, with traffic background.                                                                                ::
+    ID: 07039258.wav
+    Length: 34
+** Horse jiggling harness.                                                                                ::
+    ID: 07039257.wav
+    Length: 121
+** Squelching footsteps.                                                                                ::
+    ID: 07039256.wav
+    Length: 249
+** Squelching footsteps.                                                                                ::
+    ID: 07039255.wav
+    Length: 250
+** Woman walking on gravel.                                                                                ::
+    ID: 07039254.wav
+    Length: 43
+** Woman walking on country road.                                                                                ::
+    ID: 07039253.wav
+    Length: 55
+** Man walking on country road in heavy boots.                                                                                ::
+    ID: 07039252.wav
+    Length: 51
+** Man walking on gravel with heavy boots.                                                                                ::
+    ID: 07039251.wav
+    Length: 54
+** Woman walking on country road.                                                                                ::
+    ID: 07039250.wav
+    Length: 53
+** Three men walking on gravel.                                                                                ::
+    ID: 07039249.wav
+    Length: 44
+** Two men walking on gravel.                                                                                ::
+    ID: 07039248.wav
+    Length: 57
+** Man walking on gravel.                                                                                ::
+    ID: 07039247.wav
+    Length: 36
+** Man walking on gravel.                                                                                ::
+    ID: 07039246.wav
+    Length: 58
+** Person wading through water.                                                                                ::
+    ID: 07039245.wav
+    Length: 56
+** Walking in shallow water or mud.                                                                                ::
+    ID: 07039244.wav
+    Length: 45
+** Several men running on wooden floor, out of room on to gravel.                                                                                ::
+    ID: 07039243.wav
+    Length: 20
+** Several men running on wooden floor & stopping suddenly.                                                                                ::
+    ID: 07039242.wav
+    Length: 9
+** Several men running on wooden floor & stopping after command.                                                                                ::
+    ID: 07039241.wav
+    Length: 12
+** Several men leaving room with wooden floor.                                                                                ::
+    ID: 07039240.wav
+    Length: 53
+** Men entering room with wooden floor.                                                                                ::
+    ID: 07039239.wav
+    Length: 16
+** Several men running into room with wooden floor.                                                                                ::
+    ID: 07039238.wav
+    Length: 24
+** Several men entering room with wooden floor.                                                                                ::
+    ID: 07039237.wav
+    Length: 21
+** Feet in Clogs, walking, approaching & passing.                                                                                ::
+    ID: 07039236.wav
+    Length: 16
+** Feet in Clogs, steady running.                                                                                ::
+    ID: 07039235.wav
+    Length: 16
+** Feet in Clogs, running, approaching & passing.                                                                                ::
+    ID: 07039234.wav
+    Length: 15
+** Feet in Clogs, walking downstairs, out of building, on concrete then gravel.                                                                                ::
+    ID: 07039233.wav
+    Length: 37
+** Feet in Clogs, walking on gravel, concrete, into building & upstairs.                                                                                ::
+    ID: 07039232.wav
+    Length: 42
+** Lift, gates close, lift in motion, gates open.                                                                                ::
+    ID: 07039231.wav
+    Length: 35
+** Lift, doors close, lift in motion, doors open.                                                                                ::
+    ID: 07039230.wav
+    Length: 27
+** Lift, doors close, lift in motion, doors open.                                                                                ::
+    ID: 07039229.wav
+    Length: 35
+** Lift, gates close, lift in motion, gates open.                                                                                ::
+    ID: 07039228.wav
+    Length: 37
+** Lift, doors close, lift in motion, doors open.                                                                                ::
+    ID: 07039227.wav
+    Length: 41
+** Lift in Block of Flats, doors close. (Automatic lift.)                                                                                ::
+    ID: 07039226.wav
+    Length: 7
+** Lift in Block of Flats, doors open. (Automatic lift.)                                                                                ::
+    ID: 07039225.wav
+    Length: 6
+** Lift in Block of Flats, doors close, stops at every floor, doors open. (Automatic lift.)                                                                                ::
+    ID: 07039224.wav
+    Length: 83
+** Lift in Block of Flats, doors close, descends, doors open. (Automatic lift.)                                                                                ::
+    ID: 07039223.wav
+    Length: 36
+** Lift in Block of Flats, doors close, ascends, doors open. (Automatic lift.)                                                                                ::
+    ID: 07039222.wav
+    Length: 34
+** Dynamo, starting up, running & stopping.                                                                                ::
+    ID: 07039221.wav
+    Length: 134
+** Dynamo, starting up, running & stopping.                                                                                ::
+    ID: 07039220.wav
+    Length: 119
+** Hot metal in water.                                                                                ::
+    ID: 07039219.wav
+    Length: 10
+** Hot metal in water.                                                                                ::
+    ID: 07039218.wav
+    Length: 8
+** Wooden structure crushed.                                                                                ::
+    ID: 07039217.wav
+    Length: 32
+** Wooden structure crushed.                                                                                ::
+    ID: 07039216.wav
+    Length: 46
+** Wooden structure crushed.                                                                                ::
+    ID: 07039215.wav
+    Length: 133
+** Wall being pulled down.                                                                                ::
+    ID: 07039214.wav
+    Length: 18
+** Wall being pulled down.                                                                                ::
+    ID: 07039213.wav
+    Length: 10
+** Wooden structure crushed.                                                                                ::
+    ID: 07039212.wav
+    Length: 75
+** Wooden structure crushed.                                                                                ::
+    ID: 07039211.wav
+    Length: 44
+** Wooden structure crushed.                                                                                ::
+    ID: 07039210.wav
+    Length: 97
+** Wood slowly creaking & crushed.                                                                                ::
+    ID: 07039209.wav
+    Length: 136
+** Wood slowly creaking & crushed.                                                                                ::
+    ID: 07039208.wav
+    Length: 67
+** Wood crushed.                                                                                ::
+    ID: 07039207.wav
+    Length: 36
+** Wood creaking & collapsing.                                                                                ::
+    ID: 07039206.wav
+    Length: 73
+** Wood creaking & collapsing.                                                                                ::
+    ID: 07039205.wav
+    Length: 41
+** Wood crushed.                                                                                ::
+    ID: 07039204.wav
+    Length: 9
+** Wood crushed.                                                                                ::
+    ID: 07039203.wav
+    Length: 17
+** Wood splintering.                                                                                ::
+    ID: 07039202.wav
+    Length: 12
+** Wood splintering.                                                                                ::
+    ID: 07039201.wav
+    Length: 9
+** Wood crushed then collapses.                                                                                ::
+    ID: 07039200.wav
+    Length: 23
+** Timber crushed then collapses.                                                                                ::
+    ID: 07039199.wav
+    Length: 51
+** Timber crushed then collapses.                                                                                ::
+    ID: 07039198.wav
+    Length: 31
+** Timber crushed then collapses.                                                                                ::
+    ID: 07039197.wav
+    Length: 22
+** Timber crushed then collapses.                                                                                ::
+    ID: 07039196.wav
+    Length: 24
+** Timber crushed then collapses.                                                                                ::
+    ID: 07039195.wav
+    Length: 51
+** Large wooden structure crushed.                                                                                ::
+    ID: 07039194.wav
+    Length: 44
+** Large wooden structure crushed.                                                                                ::
+    ID: 07039193.wav
+    Length: 25
+** Avalanche actuality.                                                                                ::
+    ID: 07039192.wav
+    Length: 28
+** Avalanche actuality.                                                                                ::
+    ID: 07039191.wav
+    Length: 25
+** Heavy crash into water.                                                                                ::
+    ID: 07039190.wav
+    Length: 10
+** Heavy crash into water.                                                                                ::
+    ID: 07039189.wav
+    Length: 24
+** Barrels rolling over cobbles.                                                                                ::
+    ID: 07039188.wav
+    Length: 69
+** Dunedin Town Hall clock striking & chiming twelve o'clock.                                                                                ::
+    ID: 07039187.wav
+    Length: 63
+** St Magnus' Cathedral, Kirkwall clock striking twelve o'clock.                                                                                 ::
+    ID: 07039186.wav
+    Length: 42
+** St Magnus' Cathedral, Kirkwall clock chiming quarter to the hour.                                                                                 ::
+    ID: 07039185.wav
+    Length: 21
+** St Magnus' Cathedral, Kirkwall clock chiming half past the hour.                                                                                 ::
+    ID: 07039184.wav
+    Length: 18
+** St Magnus' Cathedral, Kirkwall clock chiming quarter past the hour.                                                                                 ::
+    ID: 07039183.wav
+    Length: 14
+** Lerwick Town Hall clock striking & chiming twelve o'clock.                                                                                ::
+    ID: 07039182.wav
+    Length: 64
+** Bracket clock ticking.                                                                                ::
+    ID: 07039181.wav
+    Length: 87
+** Bracket clock striking twelve o'clock.                                                                                ::
+    ID: 07039180.wav
+    Length: 21
+** Bracket clock striking eleven o'clock.                                                                                ::
+    ID: 07039179.wav
+    Length: 21
+** Bracket clock striking ten o'clock.                                                                                ::
+    ID: 07039178.wav
+    Length: 22
+** Bracket clock striking nine o'clock.                                                                                ::
+    ID: 07039177.wav
+    Length: 20
+** Bracket clock striking eight o'clock.                                                                                ::
+    ID: 07039176.wav
+    Length: 18
+** Bracket clock striking seven o'clock.                                                                                ::
+    ID: 07039175.wav
+    Length: 17
+** Bracket clock striking six o'clock.                                                                                ::
+    ID: 07039174.wav
+    Length: 18
+** Bracket clock striking five o'clock.                                                                                ::
+    ID: 07039173.wav
+    Length: 13
+** Bracket clock striking four o'clock.                                                                                ::
+    ID: 07039172.wav
+    Length: 14
+** Bracket clock striking three o'clock.                                                                                ::
+    ID: 07039171.wav
+    Length: 13
+** Bracket clock striking two o'clock.                                                                                ::
+    ID: 07039170.wav
+    Length: 14
+** Bracket clock striking one o'clock.                                                                                ::
+    ID: 07039169.wav
+    Length: 11
+** Tompion & Banger household clock striking twelve o'clock.                                                                                ::
+    ID: 07039168.wav
+    Length: 38
+** Tompion & Banger household clock striking eleven o'clock.                                                                                ::
+    ID: 07039167.wav
+    Length: 37
+** Tompion & Banger household clock striking ten o'clock.                                                                                ::
+    ID: 07039166.wav
+    Length: 37
+** Tompion & Banger household clock striking nine o'clock.                                                                                ::
+    ID: 07039165.wav
+    Length: 34
+** Tompion & Banger household clock striking eight o'clock.                                                                                ::
+    ID: 07039164.wav
+    Length: 33
+** Tompion & Banger household clock striking seven o'clock.                                                                                ::
+    ID: 07039163.wav
+    Length: 32
+** Tompion & Banger household clock striking six o'clock.                                                                                ::
+    ID: 07039162.wav
+    Length: 31
+** Tompion & Banger household clock striking five o'clock.                                                                                ::
+    ID: 07039161.wav
+    Length: 29
+** Tompion & Banger household clock striking four o'clock.                                                                                ::
+    ID: 07039160.wav
+    Length: 27
+** Tompion & Banger household clock striking three o'clock.                                                                                ::
+    ID: 07039159.wav
+    Length: 26
+** Tompion & Banger household clock striking two o'clock.                                                                                ::
+    ID: 07039158.wav
+    Length: 25
+** Tompion & Banger household clock striking one o'clock.                                                                                ::
+    ID: 07039157.wav
+    Length: 23
+** Lincoln's Inn clock striking twelve o'clock.                                                                                ::
+    ID: 07039156.wav
+    Length: 38
+** Lincoln's Inn clock striking eleven o'clock.                                                                                ::
+    ID: 07039155.wav
+    Length: 36
+** Lincoln's Inn clock striking ten o'clock.                                                                                ::
+    ID: 07039154.wav
+    Length: 33
+** Lincoln's Inn clock striking nine o'clock.                                                                                ::
+    ID: 07039153.wav
+    Length: 30
+** Lincoln's Inn clock striking eight o'clock.                                                                                ::
+    ID: 07039152.wav
+    Length: 28
+** Lincoln's Inn clock striking seven o'clock.                                                                                ::
+    ID: 07039151.wav
+    Length: 23
+** Lincoln's Inn clock striking six o'clock.                                                                                ::
+    ID: 07039150.wav
+    Length: 22
+** Lincoln's Inn clock striking five o'clock.                                                                                ::
+    ID: 07039149.wav
+    Length: 20
+** Lincoln's Inn clock striking four o'clock.                                                                                ::
+    ID: 07039148.wav
+    Length: 17
+** Lincoln's Inn clock striking three o'clock.                                                                                ::
+    ID: 07039147.wav
+    Length: 19
+** Lincoln's Inn clock striking two o'clock.                                                                                ::
+    ID: 07039146.wav
+    Length: 14
+** Lincoln's Inn clock striking one o'clock.                                                                                ::
+    ID: 07039145.wav
+    Length: 14
+** Hand-Operated Sewing Machine, several fairly long runs.                                                                                ::
+    ID: 07039144.wav
+    Length: 366
+** Hand-Operated Sewing Machine, several short runs.                                                                                ::
+    ID: 07039143.wav
+    Length: 165
+** Hand-Operated Sewing Machine, foot lifted & lowered three times.                                                                                ::
+    ID: 07039142.wav
+    Length: 26
+** Hand-Operated Sewing Machine, winding cotton on to shuttle.                                                                                ::
+    ID: 07039141.wav
+    Length: 30
+** Hand-Operated Sewing Machine, taking out machine & setting up.                                                                                ::
+    ID: 07039140.wav
+    Length: 27
+** Hand-Operated Sewing Machine, putting machine away.                                                                                ::
+    ID: 07039139.wav
+    Length: 30
+** Electric Sewing Machine, button holing. (Machine c.1968.)                                                                                ::
+    ID: 07039138.wav
+    Length: 33
+** Electric Sewing Machine, stitching three fourteen inch seams, with cotton cut & scissors put down between each seam. (Machine c.1968.)                                                                                ::
+    ID: 07039137.wav
+    Length: 55
+** Electric Sewing Machine, winding bobbin. (Machine c.1968.)                                                                                ::
+    ID: 07039136.wav
+    Length: 23
+** Treadle Sewing Machine, fast stitching. (Machine c. 1890.)                                                                                ::
+    ID: 07039135.wav
+    Length: 37
+** Treadle Sewing Machine, stitching recorded close to needle position. (Machine c. 1890.)                                                                                ::
+    ID: 07039134.wav
+    Length: 29
+** Treadle Sewing Machine, lid removed, stitching commences. (Machine c. 1890.)                                                                                ::
+    ID: 07039133.wav
+    Length: 151
+** Treadle Sewing Machine, stitching two six inch seams, ends with cutting of cotton & scissors being put down. (Machine c. 1920.)                                                                                ::
+    ID: 07039132.wav
+    Length: 38
+** Treadle Sewing Machine, stitching two ten inch seams with turns. (Machine c. 1920.)                                                                                ::
+    ID: 07039131.wav
+    Length: 121
+** Treadle Sewing Machine, stitching a sixteen inch seam with pauses to remove pins. (Machine c. 1920.)                                                                                ::
+    ID: 07039130.wav
+    Length: 41
+** Treadle Sewing Machine, stitching three short seams, ends with cutting of cotton & scissors being put down. (Machine c. 1920.)                                                                                ::
+    ID: 07039129.wav
+    Length: 45
+** Treadle Sewing Machine, fitting & winding bobbin. (Machine c. 1920.)                                                                                ::
+    ID: 07039128.wav
+    Length: 22
+** Hand pressing dresses. (Dressmaking factory)                                                                                ::
+    ID: 07039127.wav
+    Length: 184
+** Machine Room Atmosphere, with some background conversation. (Dressmaking factory.)                                                                                ::
+    ID: 07039126.wav
+    Length: 184
+** Clothing Stitching Machine operating, overlocking.                                                                                ::
+    ID: 07039125.wav
+    Length: 179
+** Leather Stitching Machine operating.                                                                                ::
+    ID: 07039124.wav
+    Length: 183
+** Factory Atmosphere, hooter, machines slow down & stop, lunch break chatter in a clothing factory.                                                                                ::
+    ID: 07039123.wav
+    Length: 404
+** Industrial Sewing Machines, intermittent bursts of sewing with conversation.                                                                                ::
+    ID: 07039122.wav
+    Length: 186
+** Industrial Sewing Machines, constant background of twenty sewing machines operating.                                                                                ::
+    ID: 07039121.wav
+    Length: 183
+** Home Textile Industry, lace making in progress using the bobbin method.                                                                                ::
+    ID: 07039120.wav
+    Length: 155
+** Home Textile Industry, weaving in progress.                                                                                ::
+    ID: 07039119.wav
+    Length: 166
+** Home Textile Industry, spinning in progress.                                                                                ::
+    ID: 07039118.wav
+    Length: 218
+** Home Textile Industry, carding in progress.                                                                                ::
+    ID: 07039117.wav
+    Length: 103
+** Children Playing, small noisy group.                                                                                ::
+    ID: 07039116.wav
+    Length: 75
+** Pub Atmosphere, quiet chatter with beer pumps.                                                                                ::
+    ID: 07039115.wav
+    Length: 42
+** Pub Atmosphere, noisy chatter.                                                                                ::
+    ID: 07039114.wav
+    Length: 126
+** Large Dutch Crowd, sitting down.                                                                                ::
+    ID: 07039113.wav
+    Length: 16
+** Large Dutch Crowd, standing up.                                                                                ::
+    ID: 07039112.wav
+    Length: 20
+** Crowd: Dutch, chatter. (From 78 disc)                                                                                :Crowds:Dutch, chatter:
+    ID: 07039111.wav
+    Length: 52
+** Czech Chatter, small mixed crowd.                                                                                ::
+    ID: 07039110.wav
+    Length: 198
+** Czech Chatter, small mixed crowd.                                                                                ::
+    ID: 07039109.wav
+    Length: 123
+** Czech Chatter, small mixed crowd.                                                                                ::
+    ID: 07039108.wav
+    Length: 73
+** Office Atmosphere, very noisy with voices, footsteps, typewriters & telephones. (Traffic in background.)                                                                                ::
+    ID: 07039107.wav
+    Length: 360
+** Tap Dancer, unaccompanied.                                                                                ::
+    ID: 07039106.wav
+    Length: 47
+** Tap Dancer, with piano.                                                                                ::
+    ID: 07039105.wav
+    Length: 78
+** Tap Dancing Class, with piano.                                                                                ::
+    ID: 07039104.wav
+    Length: 80
+** Crowd, interior, 40 men & women, booing & jeering.                                                                                ::
+    ID: 07039103.wav
+    Length: 50
+** Crowd, interior, 40 men & women, cheering 3 "Hip, Hip, Hoorays".                                                                                ::
+    ID: 07039102.wav
+    Length: 15
+** Crowd, interior, 40 men & women, stamping feet & applause.                                                                                ::
+    ID: 07039101.wav
+    Length: 25
+** Crowd, interior, 40 men & women, "hear hears" & applause.                                                                                ::
+    ID: 07039100.wav
+    Length: 14
+** Crowd, interior, 40 men & women, cheering & applause.                                                                                ::
+    ID: 07039099.wav
+    Length: 58
+** Crowd, interior, 8 men & women, tense & hushed whispering.                                                                                ::
+    ID: 07039098.wav
+    Length: 88
+** Crowd, interior, 8 men & women, loud excited chatter.                                                                                ::
+    ID: 07039097.wav
+    Length: 93
+** Crowd, interior, 8 men & women, party laughter & chatter.                                                                                ::
+    ID: 07039096.wav
+    Length: 91
+** Crowd, interior, twenty women, jolly party laughter & chatter.                                                                                ::
+    ID: 07039095.wav
+    Length: 88
+** Crowd, interior, twenty women, apprehensive chatter.                                                                                ::
+    ID: 07039094.wav
+    Length: 90
+** Crowd, interior, twenty women, angry loud chatter.                                                                                ::
+    ID: 07039093.wav
+    Length: 90
+** Crowd, interior, twenty women, animated chatter.                                                                                ::
+    ID: 07039092.wav
+    Length: 84
+** Crowd, interior, twenty women, quiet chatter.                                                                                ::
+    ID: 07039091.wav
+    Length: 88
+** Crowd, interior, twenty men, "no nos".                                                                                ::
+    ID: 07039090.wav
+    Length: 8
+** Crowd, interior, twenty men, "no nos".                                                                                ::
+    ID: 07039089.wav
+    Length: 18
+** Crowd, interior, twenty men, "aye ayes".                                                                                ::
+    ID: 07039088.wav
+    Length: 17
+** Crowd, interior, twenty men, "hear hear" & applause.                                                                                ::
+    ID: 07039087.wav
+    Length: 15
+** Crowd, interior, twenty men, "hear hear" & applause.                                                                                ::
+    ID: 07039086.wav
+    Length: 20
+** Crowd, interior, twenty men, cheerful laughter & party chatter.                                                                                ::
+    ID: 07039085.wav
+    Length: 76
+** Crowd, interior, twenty men, expectant chatter.                                                                                ::
+    ID: 07039084.wav
+    Length: 77
+** Crowd, interior, twenty men, club chatter.                                                                                ::
+    ID: 07039083.wav
+    Length: 85
+** Crowd, interior, twenty men, club atmosphere.                                                                                ::
+    ID: 07039082.wav
+    Length: 73
+** Crowd, interior, twenty people, quiet light chatter.                                                                                ::
+    ID: 07039081.wav
+    Length: 84
+** Crowd, interior, twenty people, serious chatter.                                                                                ::
+    ID: 07039080.wav
+    Length: 87
+** Crowd, interior, twenty people, jovial party chatter & laughter.                                                                                ::
+    ID: 07039079.wav
+    Length: 84
+** Crowd, interior, twenty people, quiet chatter.                                                                                ::
+    ID: 07039078.wav
+    Length: 82
+** Crowd, interior, quiet pub chatter.                                                                                ::
+    ID: 07039077.wav
+    Length: 93
+** Crowd, interior, noisy pub chatter with laughs.                                                                                ::
+    ID: 07039076.wav
+    Length: 69
+** Crowd, interior, quiet speech.                                                                                ::
+    ID: 07039075.wav
+    Length: 90
+** Crowd, interior, quiet speech.                                                                                ::
+    ID: 07039074.wav
+    Length: 81
+** Crowd, interior, cheerful party chatter.                                                                                ::
+    ID: 07039073.wav
+    Length: 67
+** Crowd, interior, banquet atmosphere with dishes.                                                                                ::
+    ID: 07039072.wav
+    Length: 120
+** Crowd, interior, expectant murmur, gasp of horror & agitated chatter.                                                                                ::
+    ID: 07039071.wav
+    Length: 60
+** Crowd, interior, gasp of horror & agitated chatter.                                                                                ::
+    ID: 07039070.wav
+    Length: 38
+** Crowd, interior, nervous with tense murmuring.                                                                                ::
+    ID: 07039069.wav
+    Length: 83
+** Crowd, interior, angry.                                                                                ::
+    ID: 07039068.wav
+    Length: 94
+** Crowd, interior, animated with excited chatter.                                                                                ::
+    ID: 07039067.wav
+    Length: 85
+** Crowd, interior, quiet with coughs.                                                                                ::
+    ID: 07039066.wav
+    Length: 92
+** Crowd, interior, quiet with coughs.                                                                                ::
+    ID: 07039065.wav
+    Length: 110
+** Greece, street cries & atmosphere.                                                                                ::
+    ID: 07039064.wav
+    Length: 131
+** Greece, street cries & atmosphere.                                                                                ::
+    ID: 07039063.wav
+    Length: 131
+** Spain, bullfight with music.                                                                                ::
+    ID: 07039062.wav
+    Length: 51
+** Spain, street traders with singing                                                                                ::
+    ID: 07039061.wav
+    Length: 88
+** Spain, market atmosphere.                                                                                ::
+    ID: 07039060.wav
+    Length: 51
+** Ballroom Atmosphere, applause.                                                                                ::
+    ID: 07039059.wav
+    Length: 23
+** Ballroom Atmosphere, applause.                                                                                ::
+    ID: 07039058.wav
+    Length: 17
+** Ballroom Atmosphere, applause.                                                                                 ::
+    ID: 07039057.wav
+    Length: 40
+** Ballroom Atmosphere, very light applause.                                                                                ::
+    ID: 07039056.wav
+    Length: 9
+** Ballroom Atmosphere, very light applause.                                                                                ::
+    ID: 07039055.wav
+    Length: 12
+** Ballroom Atmosphere, applause & chatter.                                                                                ::
+    ID: 07039054.wav
+    Length: 24
+** Ballroom Atmosphere, applause & chatter.                                                                                ::
+    ID: 07039053.wav
+    Length: 17
+** Ballroom Atmosphere, footstep shuffle, chatter & applause at end.                                                                                ::
+    ID: 07039052.wav
+    Length: 123
+** Ballroom Atmosphere, footstep shuffle, chatter & applause at end.                                                                                ::
+    ID: 07039051.wav
+    Length: 173
+** China, two black-cloth merchants selling cloth.                                                                                ::
+    ID: 07039050.wav
+    Length: 50
+** China, Cloth Street general atmosphere.                                                                                ::
+    ID: 07039049.wav
+    Length: 62
+** China, Egg Street general atmoshere.                                                                                ::
+    ID: 07039048.wav
+    Length: 52
+** China, newspaper sellers.                                                                                ::
+    ID: 07039047.wav
+    Length: 58
+** Native Americans, excited chatter of crowd. (Specially created effect.)                                                                                ::
+    ID: 07039046.wav
+    Length: 34
+** Native Americans, frightened cries of crowd. (Specially created effect.)                                                                                ::
+    ID: 07039045.wav
+    Length: 15
+** Native Americans, crowd chatteringing. (Specially created effect.)                                                                                ::
+    ID: 07039044.wav
+    Length: 22
+** Native Americans, crowd screaming. (Specially created effect.)                                                                                ::
+    ID: 07039043.wav
+    Length: 10
+** China, fireworks at wedding feast.                                                                                ::
+    ID: 07039042.wav
+    Length: 45
+** China, chatter in tea house.                                                                                ::
+    ID: 07039041.wav
+    Length: 81
+** China, group playing mahjong in restaurant.                                                                                ::
+    ID: 07039040.wav
+    Length: 110
+** Pakistan, street demonstration with crowd chanting 'Pakistani Zinderbad'.                                                                                ::
+    ID: 07039039.wav
+    Length: 27
+** Pakistan, Sprinagar Bazaar general atmosphere (includes audible English).                                                                                ::
+    ID: 07039038.wav
+    Length: 90
+** India, Bombay bullion market general atmosphere.                                                                                ::
+    ID: 07039037.wav
+    Length: 46
+** India, tonga passing. (A tonga is a horse-drawn two-wheeled cart for carrying passengers.)                                                                                ::
+    ID: 07039036.wav
+    Length: 19
+** Pakistan, Lahore street cries.                                                                                ::
+    ID: 07039035.wav
+    Length: 123
+** India, Delhi street hawker.                                                                                ::
+    ID: 07039034.wav
+    Length: 72
+** Covent Garden Market, horses & carts.                                                                                ::
+    ID: 07039033.wav
+    Length: 78
+** Covent Garden Market, general atmosphere.                                                                                ::
+    ID: 07039032.wav
+    Length: 103
+** Covent Garden Market, trolley passing.                                                                                ::
+    ID: 07039031.wav
+    Length: 35
+** Small Dutch Crowd, mixed, animated.                                                                                ::
+    ID: 07039030.wav
+    Length: 86
+** Crowded French Restaurant, general atmosphere.                                                                                ::
+    ID: 07039029.wav
+    Length: 81
+** Small French Crowd, mixed.                                                                                ::
+    ID: 07039028.wav
+    Length: 45
+** French Crowd, mixed, cheerful.                                                                                ::
+    ID: 07039027.wav
+    Length: 107
+** Russian Crowd, mixed, excited.                                                                                ::
+    ID: 07039026.wav
+    Length: 92
+** Small Russian Crowd, mixed, very animated.                                                                                ::
+    ID: 07039025.wav
+    Length: 67
+** Small Russian Crowd, mixed, very animated.                                                                                ::
+    ID: 07039024.wav
+    Length: 80
+** Russian Crowd, mixed, happy.                                                                                ::
+    ID: 07039023.wav
+    Length: 120
+** Russian Crowd, mixed, angry.                                                                                ::
+    ID: 07039022.wav
+    Length: 129
+** Arabic Chatter in Cairo market place.                                                                                ::
+    ID: 07039021.wav
+    Length: 114
+** Hysterical Laughter, one woman.                                                                                ::
+    ID: 07039020.wav
+    Length: 11
+** Hysterical Laughter, several women.                                                                                ::
+    ID: 07039019.wav
+    Length: 20
+** Hysterical Laughter, one man and one woman.                                                                                ::
+    ID: 07039018.wav
+    Length: 13
+** Hysterical Laughter, medium size group.                                                                                ::
+    ID: 07039017.wav
+    Length: 30
+** Hysterical Laughter, medium size group.                                                                                ::
+    ID: 07039016.wav
+    Length: 19
+** Applause, one person.                                                                                ::
+    ID: 07039015.wav
+    Length: 11
+** Applause, two or three people.                                                                                ::
+    ID: 07039014.wav
+    Length: 7
+** Applause, large group.                                                                                ::
+    ID: 07039013.wav
+    Length: 19
+** Applause, medium-sized group.                                                                                ::
+    ID: 07039012.wav
+    Length: 14
+** Applause, small group.                                                                                ::
+    ID: 07039011.wav
+    Length: 12
+** Enthusiastic cheers, applause & shouting, medium-sized group.                                                                                ::
+    ID: 07039010.wav
+    Length: 19
+** Yugoslav Chatter, large mixed group, interior.                                                                                ::
+    ID: 07039009.wav
+    Length: 187
+** Yugoslav Chatter, small mixed group, interior.                                                                                ::
+    ID: 07039008.wav
+    Length: 116
+** Yugoslav Chatter, small mixed group, interior.                                                                                ::
+    ID: 07039007.wav
+    Length: 69
+** English children in street, arguing.                                                                                ::
+    ID: 07039006.wav
+    Length: 79
+** English children in street, arguing.                                                                                ::
+    ID: 07039005.wav
+    Length: 15
+** English children in street, shouting & running.                                                                                ::
+    ID: 07039004.wav
+    Length: 21
+** Italian Chatter, excited crowd with shouts, interior.                                                                                ::
+    ID: 07039003.wav
+    Length: 81
+** Italian Chatter, large mixed crowd, interior.                                                                                ::
+    ID: 07039002.wav
+    Length: 107
+** Italian Chatter, small mixed crowd, interior.                                                                                ::
+    ID: 07039001.wav
+    Length: 99
+** Wind howling round building. (Recorded inside building.)                                                                                ::
+    ID: 07038342.wav
+    Length: 263
+** Wind howling round building. (Recorded inside building.)                                                                                ::
+    ID: 07038341.wav
+    Length: 258
+** Moaning wind down cottage chimney.                                                                                ::
+    ID: 07038340.wav
+    Length: 245
+** Thunder & rain.                                                                                ::
+    ID: 07038339.wav
+    Length: 110
+** Thunder actuality.                                                                                ::
+    ID: 07038338.wav
+    Length: 126
+** Heavy rain.                                                                                ::
+    ID: 07038337.wav
+    Length: 218
+** Rattling shutters & rain rushing down gutters.                                                                                ::
+    ID: 07038336.wav
+    Length: 66
+** Strong wind.                                                                                ::
+    ID: 07038335.wav
+    Length: 232
+** Heavy tropical rain.                                                                                ::
+    ID: 07038334.wav
+    Length: 242
+** Thunderstorm with heavy rain, rumbling thunder & three claps.                                                                                ::
+    ID: 07038333.wav
+    Length: 237
+** Sandstorm with deep wind & rumbling thunder.                                                                                ::
+    ID: 07038332.wav
+    Length: 217
+** Deep wind.                                                                                ::
+    ID: 07038331.wav
+    Length: 257
+** Howling wind.                                                                                ::
+    ID: 07038330.wav
+    Length: 107
+** Fitting oars in boat, rowing with feathering.                                                                                :Boats:Rowing:
+    ID: 07038329.wav
+    Length: 79
+** Fitting oars in boat, rowing starts, stopping to drift & shipping oars.                                                                                :Boats:Rowing:
+    ID: 07038328.wav
+    Length: 96
+** Fitting oars in boat & rowing starts.                                                                                :Boats:Rowing:
+    ID: 07038327.wav
+    Length: 63
+** Continuous rowing, boat stops & drifts.                                                                                :Boats:Rowing:
+    ID: 07038326.wav
+    Length: 226
+** Plank thrown into water.                                                                                :Water:Splashes:
+    ID: 07038325.wav
+    Length: 11
+** Plank thrown into water.                                                                                :Water:Splashes:
+    ID: 07038324.wav
+    Length: 9
+** Lifebelt thrown into water.                                                                                :Water:Splashes:
+    ID: 07038323.wav
+    Length: 7
+** Splash in water.                                                                                :Water:Splashes:
+    ID: 07038322.wav
+    Length: 11
+** Splash in water.                                                                                :Water:Splashes:
+    ID: 07038321.wav
+    Length: 9
+** Splash in water.                                                                                :Water:Splashes:
+    ID: 07038320.wav
+    Length: 8
+** Splash in water.                                                                                :Water:Splashes:
+    ID: 07038319.wav
+    Length: 7
+** Person swimming, breast stroke.                                                                                :Sports:Swimming:Strokes:
+    ID: 07038318.wav
+    Length: 84
+** Paddling a canoe.                                                                                :Boats:Canoes:
+    ID: 07038317.wav
+    Length: 67
+** Paddling a canoe.                                                                                ::
+    ID: 07038316.wav
+    Length: 46
+** Person swimming, dive in, overarm crawl, pulling out of water.                                                                                ::
+    ID: 07038315.wav
+    Length: 35
+** Person swimming, breast stroke.                                                                                ::
+    ID: 07038314.wav
+    Length: 34
+** Person swimming, rhythmic kicking.                                                                                ::
+    ID: 07038313.wav
+    Length: 23
+** Person diving into water, splashing, gasping & swimming.                                                                                ::
+    ID: 07038312.wav
+    Length: 87
+** Person floundering in water, gaspsing for breath.                                                                                ::
+    ID: 07038311.wav
+    Length: 27
+** Splash in water.                                                                                ::
+    ID: 07038310.wav
+    Length: 9
+** Person diving into water, thrashing & splashing.                                                                                ::
+    ID: 07038309.wav
+    Length: 30
+** Person diving into water, splashing, gasping, pulling out of water.                                                                                ::
+    ID: 07038308.wav
+    Length: 53
+** Person diving into water & light splashing.                                                                                ::
+    ID: 07038307.wav
+    Length: 41
+** Person diving into water & light splashing.                                                                                ::
+    ID: 07038306.wav
+    Length: 29
+** Log thrown into water.                                                                                ::
+    ID: 07038305.wav
+    Length: 21
+** Log thrown into water.                                                                                ::
+    ID: 07038304.wav
+    Length: 14
+** Log thrown into water.                                                                                ::
+    ID: 07038303.wav
+    Length: 20
+** Log thrown into water.                                                                                ::
+    ID: 07038302.wav
+    Length: 24
+** Log thrown into water.                                                                                ::
+    ID: 07038301.wav
+    Length: 27
+** Log thrown into water.                                                                                ::
+    ID: 07038300.wav
+    Length: 9
+** Log thrown into water.                                                                                ::
+    ID: 07038299.wav
+    Length: 12
+** Log thrown into water.                                                                                ::
+    ID: 07038298.wav
+    Length: 14
+** Log thrown into water.                                                                                ::
+    ID: 07038297.wav
+    Length: 11
+** Waterfall actuality.                                                                                ::
+    ID: 07038296.wav
+    Length: 122
+** Man rowing.                                                                                ::
+    ID: 07038295.wav
+    Length: 136
+** Tap dripping irregularly.                                                                                ::
+    ID: 07038294.wav
+    Length: 67
+** Tap dribbling.                                                                                 ::
+    ID: 07038293.wav
+    Length: 67
+** Water running into basin, basin emptying.                                                                                ::
+    ID: 07038292.wav
+    Length: 55
+** Kettle being filled.                                                                                ::
+    ID: 07038291.wav
+    Length: 17
+** Rushing weir.                                                                                ::
+    ID: 07038290.wav
+    Length: 63
+** Rowing crew rowing with instructions from Cox.                                                                                ::
+    ID: 07038289.wav
+    Length: 241
+** Man punting.                                                                                ::
+    ID: 07038288.wav
+    Length: 156
+** Mountain stream actuality.                                                                                ::
+    ID: 07038287.wav
+    Length: 70
+** Victoria Falls actuality.                                                                                ::
+    ID: 07038286.wav
+    Length: 126
+** Polar Bear splashing in water.                                                                                ::
+    ID: 07038285.wav
+    Length: 38
+** Man rowing.                                                                                ::
+    ID: 07038284.wav
+    Length: 184
+** Drawbridge lowered.                                                                                ::
+    ID: 07038283.wav
+    Length: 23
+** Escaping steam.                                                                                ::
+    ID: 07038282.wav
+    Length: 60
+** Water gurgling.                                                                                ::
+    ID: 07038281.wav
+    Length: 57
+** Laughter, medium sized crowd.                                                                                ::
+    ID: 07038280.wav
+    Length: 34
+** Laughter, fifty men.                                                                                ::
+    ID: 07038279.wav
+    Length: 44
+** Sniggers into Hearty Laughter, 20 people.                                                                                ::
+    ID: 07038278.wav
+    Length: 40
+** Hearty Laughter, 30 people.                                                                                ::
+    ID: 07038277.wav
+    Length: 38
+** Light Laughter, 30 people.                                                                                ::
+    ID: 07038276.wav
+    Length: 31
+** Light Laughter, 20 people.                                                                                ::
+    ID: 07038275.wav
+    Length: 19
+** Laughter, fifty people at a cabaret.                                                                                ::
+    ID: 07038274.wav
+    Length: 36
+** Laughter, fifty people at a cabaret.                                                                                ::
+    ID: 07038273.wav
+    Length: 28
+** Laughter, fifty people at a cabaret.                                                                                ::
+    ID: 07038272.wav
+    Length: 15
+** Laughter, fifty people at a cabaret.                                                                                ::
+    ID: 07038271.wav
+    Length: 11
+** Laughter, fifty people at a cabaret.                                                                                ::
+    ID: 07038270.wav
+    Length: 10
+** Laughter, fifty people at a cabaret.                                                                                ::
+    ID: 07038269.wav
+    Length: 9
+** Water Pumping Station, Tangye 2100 H.P. engines working a ram pump, slow down & stop.                                                                                ::
+    ID: 07038268.wav
+    Length: 47
+** Water Pumping Station, Tangye 2100 H.P. engines working a ram pump, start & run.                                                                                ::
+    ID: 07038267.wav
+    Length: 325
+** Water Pumping Station, pump no. 2 operating as heard from below.                                                                                ::
+    ID: 07038266.wav
+    Length: 133
+** Water Pumping Station, pumps 1 & 3 operating.                                                                                ::
+    ID: 07038265.wav
+    Length: 131
+** Water Pumping Station, pump no. 3 starts, runs & stops.                                                                                ::
+    ID: 07038264.wav
+    Length: 101
+** Power Station, atmosphere in basement of power station. (Conventional power station.)                                                                                ::
+    ID: 07038263.wav
+    Length: 229
+** Power Station, atmosphere on ground floor of power station. (Conventional power station.)                                                                                ::
+    ID: 07038262.wav
+    Length: 176
+** Power Station, exterior, atmosphere outside a power station. (Conventional power station.)                                                                                ::
+    ID: 07038261.wav
+    Length: 229
+** Power Station, hydrogen alarm. (Conventional power station.)                                                                                ::
+    ID: 07038260.wav
+    Length: 23
+** Power Station, tap change alarm. (Conventional power station.)                                                                                ::
+    ID: 07038259.wav
+    Length: 8
+** Power Station, loading signal alarm. (Conventional power station.)                                                                                ::
+    ID: 07038258.wav
+    Length: 12
+** Power Station, smoke density alarm. (Conventional power station.)                                                                                ::
+    ID: 07038257.wav
+    Length: 11
+** Power station, audible alarm from a recorder. (Conventional power station.)                                                                                ::
+    ID: 07038256.wav
+    Length: 17
+** Power Station, atmosphere in oil pump house. (Conventional power station.)                                                                                ::
+    ID: 07038255.wav
+    Length: 184
+** Power Station, atmosphere in water cooling pump house. (Conventional power station.)                                                                                ::
+    ID: 07038254.wav
+    Length: 186
+** Power Station, atmosphere near furnace. (Conventional power station.)                                                                                ::
+    ID: 07038253.wav
+    Length: 195
+** Power Station, general atmosphere in main operations room. (Conventional power station.)                                                                                ::
+    ID: 07038252.wav
+    Length: 204
+** Power Station, bleeps for personal contact with voices in background. (Conventional power station.)                                                                                ::
+    ID: 07038251.wav
+    Length: 226
+** Power Station, atmosphere in operations room with internal telephone bells & voices in background. (Conventional power station.)                                                                                ::
+    ID: 07038250.wav
+    Length: 139
+** Power Station, atmosphere near main generator. (Conventional power station.)                                                                                ::
+    ID: 07038249.wav
+    Length: 176
+** Power Station, atmosphere at well of main building. (Conventional power station.)                                                                                ::
+    ID: 07038248.wav
+    Length: 184
+** Atomic Power Station, atmosphere on ground floor of turbine hall.                                                                                ::
+    ID: 07038247.wav
+    Length: 121
+** Atomic Power Station, atmosphere in sea water pumping station.                                                                                ::
+    ID: 07038246.wav
+    Length: 121
+** Atomic Power Station, atmosphere in basement of turbine hall.                                                                                ::
+    ID: 07038245.wav
+    Length: 121
+** Atomic Power Station, atmosphere on control platform in turbine hall.                                                                                ::
+    ID: 07038244.wav
+    Length: 123
+** Atomic Power Station, exterior, general atmosphere between turbine hall & reactor building.                                                                                ::
+    ID: 07038243.wav
+    Length: 243
+** Atomic Power Station, PBX exchange atmosphere.                                                                                ::
+    ID: 07038242.wav
+    Length: 226
+** Atomic Power Station, in meter room atmosphere.                                                                                ::
+    ID: 07038241.wav
+    Length: 90
+** Atomic Power Station, atmosphere in the main control room with sound of tickertape machines.                                                                                ::
+    ID: 07038240.wav
+    Length: 56
+** Atomic Power Station, central control room, general atmosphere.                                                                                ::
+    ID: 07038239.wav
+    Length: 121
+** Atomic Power Station, personnel radiation check room atmosphere.                                                                                ::
+    ID: 07038238.wav
+    Length: 121
+** Atomic Power Station, blower hall, general atmosphere with gas circulating.                                                                                ::
+    ID: 07038237.wav
+    Length: 122
+** Atomic Power Station, general atmosphere above reactor.                                                                                ::
+    ID: 07038236.wav
+    Length: 134
+** Atomic Power Station, motor hum. (Recorded from viewing area..)                                                                                ::
+    ID: 07038235.wav
+    Length: 146
+** Atomic Power Station, atmosphere in Central Control with chatter & bells.                                                                                ::
+    ID: 07038234.wav
+    Length: 80
+** Atomic Power Station, exterior, transformer hum.                                                                                ::
+    ID: 07038233.wav
+    Length: 98
+** Atomic Power Station, water gravity-feed to sea with transformer hum.                                                                                ::
+    ID: 07038232.wav
+    Length: 107
+** Atomic Power Station, cold water circulating pump operating.                                                                                ::
+    ID: 07038231.wav
+    Length: 181
+** Narrow-Gauge Light Railway, mid-distant whistles from train. (Recorded in closed coach.)                                                                                ::
+    ID: 07038230.wav
+    Length: 7
+** Narrow-Gauge Light Railway, whistles from moving train. (Recorded in closed coach.)                                                                                ::
+    ID: 07038229.wav
+    Length: 8
+** Narrow-Gauge Light Railway, whistles from moving train. (Recorded in closed coach.)                                                                                ::
+    ID: 07038228.wav
+    Length: 11
+** Narrow-Gauge Light Railway, whistles from stationary train. (Recorded in closed coach.)                                                                                ::
+    ID: 07038227.wav
+    Length: 6
+** Narrow-Gauge Light Railway, whistles from stationary train. (Recorded in closed coach.)                                                                                ::
+    ID: 07038226.wav
+    Length: 5
+** Narrow-Gauge Light Railway, train departs & negotiates loop with wheel screech. (Recorded in closed coach.)                                                                                ::
+    ID: 07038225.wav
+    Length: 180
+** Narrow-Gauge Light Railway, locomotive whistles & moves off coaling into constant run, whistles (at 005m20s), slows down & stops in station. (Recorded on footplate.)                                                                                ::
+    ID: 07038224.wav
+    Length: 371
+** Narrow-Gauge Light Railway, train slows down & stops. (Recorded in closed coach.)                                                                                ::
+    ID: 07038223.wav
+    Length: 48
+** Narrow-Gauge Light Railway, whistle, train leaves station, into constant run, whistles, slows down. (Recorded in closed coach.)                                                                                ::
+    ID: 07038222.wav
+    Length: 322
+** Narrow-Gauge Light Railway, whistles, train slows down & stops. (Recorded in closed coach.)                                                                                ::
+    ID: 07038221.wav
+    Length: 68
+** Narrow-Gauge Light Railway, steam, train leaves station, into constant run. (Recorded in closed coach.)                                                                                ::
+    ID: 07038220.wav
+    Length: 300
+** Narrow-Gauge Light Railway, exterior, train passing.                                                                                ::
+    ID: 07038219.wav
+    Length: 46
+** Narrow-Gauge Light Railway, exterior, train passing.                                                                                ::
+    ID: 07038218.wav
+    Length: 31
+** Narrow-Gauge Light Railway, exterior, train passing.                                                                                ::
+    ID: 07038217.wav
+    Length: 38
+** Narrow-Gauge Light Railway, exterior, train whistles & passes.                                                                                ::
+    ID: 07038216.wav
+    Length: 54
+** Narrow-Gauge Light Railway, exterior, train arrives at station, whistles, locomotive reverses & lets off steam.                                                                                ::
+    ID: 07038215.wav
+    Length: 137
+** Narrow-Gauge Light Railway, exterior, train arrives at station, with atmosphere.                                                                                ::
+    ID: 07038214.wav
+    Length: 85
+** Narrow-Gauge Light Railway, exterior, train arrives at station.                                                                                ::
+    ID: 07038213.wav
+    Length: 48
+** Narrow-Gauge Light Railway, exterior, steam, train leaves station.                                                                                ::
+    ID: 07038212.wav
+    Length: 74
+** Narrow-Gauge Light Railway, exterior, train whistles & leaves station, whistles again.                                                                                ::
+    ID: 07038211.wav
+    Length: 73
+** Narrow-Gauge Light Railway, exterior, Guard's whistle, train whistles & leaves station.                                                                                ::
+    ID: 07038210.wav
+    Length: 67
+** Rural England, village pond with frogs, very distant traffic.                                                                                ::
+    ID: 07038209.wav
+    Length: 394
+** Rural England, village pond with frogs, birds, passing traffic.                                                                                ::
+    ID: 07038208.wav
+    Length: 370
+** London Green Line Coach, interior, slow down, stop, switch off.                                                                                ::
+    ID: 07038207.wav
+    Length: 28
+** London Green Line Coach, interior, false start, starts up, bell sounds, doors close, medium-fast run.                                                                                ::
+    ID: 07038206.wav
+    Length: 352
+** London Green Line Coach, interior, start up, run with stops & starts, stop, tickover, switch off.                                                                                ::
+    ID: 07038205.wav
+    Length: 364
+** London Green Line Coach, exterior, start, tickover, switch off.                                                                                ::
+    ID: 07038204.wav
+    Length: 191
+** London Green Line Coach, interior, start, tickover, switch off.                                                                                ::
+    ID: 07038203.wav
+    Length: 191
+** London Green Line Coach, interior, fan heater being switched on, runs, switched off.                                                                                ::
+    ID: 07038202.wav
+    Length: 125
+** London Green Line Coach, exterior, coach passing at speed.                                                                                ::
+    ID: 07038201.wav
+    Length: 22
+** London Green Line Coach, exterior, coach passing at medium speed.                                                                                ::
+    ID: 07038200.wav
+    Length: 35
+** London Green Line Coach, exterior, coach passing at medium speed.                                                                                ::
+    ID: 07038199.wav
+    Length: 40
+** London Green Line Coach, exterior, coach passing slowly.                                                                                ::
+    ID: 07038198.wav
+    Length: 57
+** London Green Line Coach, exterior, approach, stop, tickover, bell sounds, doors close, coach departs.                                                                                ::
+    ID: 07038197.wav
+    Length: 62
+** London Green Line Coach, exterior, approach, stop, tickover.                                                                                ::
+    ID: 07038196.wav
+    Length: 28
+** London Green Line Coach, exterior, approach, stop, switch off.                                                                                ::
+    ID: 07038195.wav
+    Length: 45
+** London Green Line Coach, exterior, doors, coach departs.                                                                                ::
+    ID: 07038194.wav
+    Length: 40
+** London Green Line Coach, exterior, bell rings, doors close, departs.                                                                                ::
+    ID: 07038193.wav
+    Length: 38
+** London Green Line Coach, exterior, starts, bell sounds, doors close, coach departs.                                                                                ::
+    ID: 07038192.wav
+    Length: 42
+** London Green Line Coach, interior, pneumatic doors closing.                                                                                ::
+    ID: 07038191.wav
+    Length: 8
+** London Green Line Coach, interior, pneumatic doors opening.                                                                                ::
+    ID: 07038190.wav
+    Length: 6
+** London Green Line Coach, interior, horn sounded several times.                                                                                ::
+    ID: 07038189.wav
+    Length: 20
+** London Green Line Coach, interior, bell sounded three times on a full coach.                                                                                ::
+    ID: 07038188.wav
+    Length: 9
+** London Green Line Coach, interior, bell sounded twice to start coach.                                                                                ::
+    ID: 07038187.wav
+    Length: 6
+** London Green Line Coach, interior, bell sounded once to stop coach.                                                                                ::
+    ID: 07038186.wav
+    Length: 8
+** Ford Cortina 1600, exterior, approach & stop. (1600cc engine.)                                                                                ::
+    ID: 07038185.wav
+    Length: 39
+** Ford Cortina 1600, exterior, approach, tickover, stop. (1600cc engine.)                                                                                ::
+    ID: 07038184.wav
+    Length: 31
+** Ford Cortina 1600, exterior, self starter, reversing, depart. (1600cc engine.)                                                                                ::
+    ID: 07038183.wav
+    Length: 44
+** Ford Cortina 1600, exterior, self starter, tickover, depart. (1600cc engine.)                                                                                ::
+    ID: 07038182.wav
+    Length: 35
+** Ford Cortina 1600, exterior, self starter, revving, stop. (Recorded at exhaust end, 1600cc engine.)                                                                                ::
+    ID: 07038181.wav
+    Length: 85
+** Ford Cortina 1600, exterior, self starter, revving, stop. (Recorded at exhaust end, 1600cc engine.)                                                                                ::
+    ID: 07038180.wav
+    Length: 113
+** Ford Cortina 1600, exterior, self starter, tickover, stop. (Recorded at exhaust end, 1600cc engine.)                                                                                ::
+    ID: 07038179.wav
+    Length: 132
+** Ford Cortina 1600, exterior, self starter, tickover, stop. (Recorded at engine end, 1600cc engine.)                                                                                ::
+    ID: 07038178.wav
+    Length: 140
+** Ford Cortina 1600, exterior, boot opened & closed. (1600cc engine.)                                                                                ::
+    ID: 07038177.wav
+    Length: 11
+** Ford Cortina 1600, exterior, bonnet opened & closed. (1600cc engine.)                                                                                ::
+    ID: 07038176.wav
+    Length: 13
+** Ford Cortina 1600, exterior, 2 doors opened & closed. (1600cc engine.)                                                                                ::
+    ID: 07038175.wav
+    Length: 8
+** Ford Cortina 1600, exterior, door opened & closed. (1600cc engine.)                                                                                ::
+    ID: 07038174.wav
+    Length: 10
+** Ford Cortina 1600, interior, stop, switch off. (1600cc engine.)                                                                                ::
+    ID: 07038173.wav
+    Length: 19
+** Ford Cortina 1600, interior, self starter, run with gear changes, slow down. (1600cc engine.)                                                                                ::
+    ID: 07038172.wav
+    Length: 366
+** Ford Cortina 1600, exterior, passing accelerated. (1600cc engine.)                                                                                ::
+    ID: 07038171.wav
+    Length: 37
+** Ford Cortina 1600, exterior, passing fast. (1600cc engine.)                                                                                ::
+    ID: 07038170.wav
+    Length: 29
+** Ford Cortina 1600, exterior, passing medium fast. (1600cc engine.)                                                                                ::
+    ID: 07038169.wav
+    Length: 23
+** Ford Cortina 1600, exterior, passing medium speed. (1600cc engine.)                                                                                ::
+    ID: 07038168.wav
+    Length: 32
+** Ford Cortina 1600, exterior, passing slowly. (1600cc engine.)                                                                                ::
+    ID: 07038167.wav
+    Length: 35
+** Ford Cortina 1600, exterior, passing very slowly. (1600cc engine.)                                                                                ::
+    ID: 07038166.wav
+    Length: 46
+** Ford Cortina 1600, interior, self starter, slow run, stop. (1600cc engine.)                                                                                ::
+    ID: 07038165.wav
+    Length: 265
+** Ford Cortina 1600, interior, self starter, fast run, stop. (1600cc engine.)                                                                                ::
+    ID: 07038164.wav
+    Length: 116
+** Ford Cortina 1600, interior, self starter, reversing, stop. (1600cc engine.)                                                                                ::
+    ID: 07038163.wav
+    Length: 83
+** Ford Cortina 1600, interior, self starter, tickover, stop. (1600cc engine.)                                                                                ::
+    ID: 07038162.wav
+    Length: 90
+** Ford Cortina 1600, interior, false starts. (1600cc engine.)                                                                                ::
+    ID: 07038161.wav
+    Length: 36
+** Ford Cortina 1600, interior, windscreen wipers. (1600cc engine.)                                                                                ::
+    ID: 07038160.wav
+    Length: 89
+** Ford Cortina 1600, interior, 2 doors opened & closed. (1600cc engine.)                                                                                ::
+    ID: 07038159.wav
+    Length: 12
+** Ford Cortina 1600, interior, door opened & closed. (1600cc engine.)                                                                                ::
+    ID: 07038158.wav
+    Length: 8
+** Ford Escort 1300, exterior, passing with horn. (1300cc engine, automatic transmission.)                                                                                ::
+    ID: 07038157.wav
+    Length: 36
+** Ford Escort 1300, interior, horn. (1300cc engine, automatic transmission.)                                                                                ::
+    ID: 07038156.wav
+    Length: 32
+** Ford Escort 1300, interior, direction indicators. (1300cc engine, automatic transmission.)                                                                                ::
+    ID: 07038155.wav
+    Length: 52
+** Ford Escort 1300, interior, self starter, slow-speed run, stop. (1300cc engine, automatic transmission.)                                                                                ::
+    ID: 07038154.wav
+    Length: 194
+** Ford Escort 1300, interior, self starter, medium-speed run, stop. (1300cc engine, automatic transmission.)                                                                                ::
+    ID: 07038153.wav
+    Length: 205
+** Ford Escort 1300, interior, self starter, 3-point turn, stop. (1300cc engine, automatic transmission.)                                                                                ::
+    ID: 07038152.wav
+    Length: 96
+** Ford Escort 1300, interior, self starter, reversing, stop. (1300cc engine, automatic transmission.)                                                                                ::
+    ID: 07038151.wav
+    Length: 43
+** Ford Escort 1300, exterior, approach, stop, tickover, reverse away. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038150.wav
+    Length: 44
+** Ford Escort 1300, exterior, self starter, 3-point turn, depart. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038149.wav
+    Length: 51
+** Ford Escort 1300, exterior, approach, stop, tickover, depart. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038148.wav
+    Length: 67
+** Ford Escort 1300, exterior, approach, tickover, switch off. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038147.wav
+    Length: 35
+** Ford Escort 1300, exterior, approach & stop. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038146.wav
+    Length: 24
+** Ford Escort 1300, exterior, passing fast with horn. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038145.wav
+    Length: 25
+** Ford Escort 1300, exterior, fast pass with horn. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038144.wav
+    Length: 26
+** Ford Escort 1300, exterior, passing at 60 mph. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038143.wav
+    Length: 30
+** Ford Escort 1300, exterior, passing at 45 mph. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038142.wav
+    Length: 28
+** Ford Escort 1300, exterior, passing at 25 mph. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038141.wav
+    Length: 26
+** Ford Escort 1300, exterior, passing at 10 mph. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038140.wav
+    Length: 43
+** Ford Escort 1300, exterior, passing at 5 mph. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038139.wav
+    Length: 57
+** Ford Escort 1300, exterior, self starter, depart. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038138.wav
+    Length: 23
+** Ford Escort 1300, exterior, self starter, quick departure. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038137.wav
+    Length: 28
+** Ford Escort 1300, exterior, self starter, tickover, depart. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038136.wav
+    Length: 32
+** Ford Escort 1300, exterior, self starter, tickover, stop. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038135.wav
+    Length: 116
+** Ford Escort 1300, exterior, self starter, revving, stop. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038134.wav
+    Length: 50
+** Ford Escort 1300, exterior, false starts. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038133.wav
+    Length: 36
+** Ford Escort 1300, exterior, luggage boot lid. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038132.wav
+    Length: 11
+** Ford Escort 1300, exterior, bonnet opened & closed. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038131.wav
+    Length: 13
+** Ford Escort 1300, exterior, 2 doors opened & closed. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038130.wav
+    Length: 8
+** Ford Escort 1300, exterior, door opened & closed. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038129.wav
+    Length: 9
+** Ford Escort 1300, exterior, door closed. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038128.wav
+    Length: 6
+** Ford Escort 1300, exterior, door opened. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038127.wav
+    Length: 6
+** Ford Escort 1300, interior, stopping. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038126.wav
+    Length: 27
+** Ford Escort 1300, interior, self starter into constant run, stop. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038125.wav
+    Length: 300
+** Ford Escort 1300, interior, self starter into slow-speed run, stop. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038124.wav
+    Length: 304
+** Ford Escort 1300, interior, self starter, reversing, stop. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038123.wav
+    Length: 44
+** Ford Escort 1300, interior, heater blower. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038122.wav
+    Length: 142
+** Ford Escort 1300, interior, windscreen wipers. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038121.wav
+    Length: 137
+** Ford Escort 1300, interior, horn. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038120.wav
+    Length: 76
+** Ford Escort 1300, interior, self starter, tickover, switch off. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038119.wav
+    Length: 180
+** Ford Escort 1300, interior, false starts. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038118.wav
+    Length: 54
+** Ford Escort 1300, interior, 2 doors opened & closed. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038117.wav
+    Length: 9
+** Ford Escort 1300, interior, door opened & closed. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038116.wav
+    Length: 9
+** Ford Escort 1300, interior, door closed. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038115.wav
+    Length: 6
+** Ford Escort 1300, interior, door opened. (1300cc engine, manual transmission.)                                                                                ::
+    ID: 07038114.wav
+    Length: 7
+** White City Stadium athletics meeting, cheers, roars, whistles & end of race.                                                                                ::
+    ID: 07038113.wav
+    Length: 365
+** White City Stadium athletics meeting, cheers, shouts, whistles into atmosphere.                                                                                ::
+    ID: 07038112.wav
+    Length: 36
+** White City Stadium athletics meeting, shouts into roar.                                                                                ::
+    ID: 07038111.wav
+    Length: 103
+** White City Stadium athletics meeting, starting gun, race, shouts & applause.                                                                                ::
+    ID: 07038110.wav
+    Length: 62
+** White City Stadium athletics meeting, gasp with atmosphere.                                                                                ::
+    ID: 07038109.wav
+    Length: 32
+** White City Stadium athletics meeting, applause with atmosphere.                                                                                ::
+    ID: 07038108.wav
+    Length: 20
+** White City Stadium athletics meeting, applause, crowd murmur & gasp.                                                                                ::
+    ID: 07038107.wav
+    Length: 37
+** Junior School Sports Day, "On your marks, get set", starting pistol & cheers for race.                                                                                ::
+    ID: 07038106.wav
+    Length: 23
+** Junior School Sports Day, starting pistol & cheers for race.                                                                                ::
+    ID: 07038105.wav
+    Length: 20
+** Junior School Sports Day, starting pistol & cheers for race.                                                                                ::
+    ID: 07038104.wav
+    Length: 24
+** Junior School Sports Day, starting pistol & cheers for race.                                                                                ::
+    ID: 07038103.wav
+    Length: 30
+** Junior School Sports Day, starting pistol & cheers for race.                                                                                ::
+    ID: 07038102.wav
+    Length: 28
+** Junior School Sports Day, starting pistol & cheers for race.                                                                                ::
+    ID: 07038101.wav
+    Length: 24
+** Junior School Sports Day, general atmosphere of sports day with 200 children.                                                                                ::
+    ID: 07038100.wav
+    Length: 388
+** Apollo 16. (Recorded at NASA Space Centre.)                                                                                ::
+    ID: 07038099.wav
+    Length: 66
+** Apollo 4 lift off. (Recorded at NASA Space Centre.)                                                                                ::
+    ID: 07038098.wav
+    Length: 68
+** Titan 3 lift off. (Recorded at NASA Space Centre.)                                                                                ::
+    ID: 07038097.wav
+    Length: 33
+** Radio line noise after launch of Columbia Space Shuttle. (Recorded at NASA Space Centre.)                                                                                ::
+    ID: 07038096.wav
+    Length: 91
+** NASA Space Shuttle lift off. (Recorded at NASA Space Centre.)                                                                                ::
+    ID: 07038095.wav
+    Length: 61
+** NASA Space Shuttle lift off, heard over radio line at space centre. (Recorded at NASA Space Centre.)                                                                                ::
+    ID: 07038094.wav
+    Length: 48
+** NASA Space Shuttle lift off with crowd at launch pad. (Recorded at NASA Space Centre.)                                                                                ::
+    ID: 07038093.wav
+    Length: 85
+** NASA Space Shuttle lift off. (Recorded at NASA Space Centre.)                                                                                ::
+    ID: 07038092.wav
+    Length: 43
+** Sine Wave Tone, 60 Hz ascending to 1000 Hz.                                                                                ::
+    ID: 07038091.wav
+    Length: 67
+** Sine Wave Tone, 1000 Hz.                                                                                ::
+    ID: 07038090.wav
+    Length: 63
+** Sine Wave Tone, 600 Hz.                                                                                ::
+    ID: 07038089.wav
+    Length: 61
+** Sine Wave Tone, 500 Hz.                                                                                ::
+    ID: 07038088.wav
+    Length: 63
+** Sine Wave Tone, 300 Hz.                                                                                ::
+    ID: 07038087.wav
+    Length: 63
+** Sine Wave Tone, 250 Hz.                                                                                ::
+    ID: 07038086.wav
+    Length: 56
+** Sine Wave Tone, 200 Hz.                                                                                ::
+    ID: 07038085.wav
+    Length: 55
+** Sine Wave Tone, 150 Hz.                                                                                ::
+    ID: 07038084.wav
+    Length: 58
+** Sine Wave Tone, 100 Hz.                                                                                ::
+    ID: 07038083.wav
+    Length: 58
+** Sine Wave Tone, 60 Hz.                                                                                ::
+    ID: 07038082.wav
+    Length: 59
+** Warble Frequency Notes, 1000 Hz. (Approximate frequency.)                                                                                ::
+    ID: 07038081.wav
+    Length: 59
+** Warble Frequency Notes, 1000 Hz. (Approximate frequency.)                                                                                ::
+    ID: 07038080.wav
+    Length: 40
+** Warble Frequency Notes, 600 Hz. (Approximate frequency.)                                                                                ::
+    ID: 07038079.wav
+    Length: 62
+** Warble Frequency Notes, 500 Hz. (Approximate frequency.)                                                                                ::
+    ID: 07038078.wav
+    Length: 44
+** Warble Frequency Notes, 500 Hz. (Approximate frequency.)                                                                                ::
+    ID: 07038077.wav
+    Length: 71
+** Warble Frequency Notes, 500 Hz. (Approximate frequency.)                                                                                ::
+    ID: 07038076.wav
+    Length: 54
+** Warble Frequency Notes, 300 Hz. (Approximate frequency.)                                                                                ::
+    ID: 07038075.wav
+    Length: 59
+** Warble Frequency Notes, 250 Hz. (Approximate frequency.)                                                                                ::
+    ID: 07038074.wav
+    Length: 49
+** Warble Frequency Notes, 200 Hz. (Approximate frequency.)                                                                                ::
+    ID: 07038073.wav
+    Length: 62
+** Warble Frequency Notes, 150 Hz. (Approximate frequency.)                                                                                ::
+    ID: 07038072.wav
+    Length: 42
+** Warble Frequency Notes, 100 Hz. (Approximate frequency.)                                                                                ::
+    ID: 07038071.wav
+    Length: 42
+** Warble Frequency Notes, 60 Hz. (Approximate frequency.)                                                                                ::
+    ID: 07038070.wav
+    Length: 59
+** Warble Frequency Notes, 60 Hz. (Approximate frequency.)                                                                                ::
+    ID: 07038069.wav
+    Length: 43
+** Warble Frequency Notes, 60 Hz. (Approximate frequency.)                                                                                ::
+    ID: 07038068.wav
+    Length: 29
+** Warble Frequency Notes, 480 Hz. (Approximate frequency.)                                                                                ::
+    ID: 07038067.wav
+    Length: 53
+** Warble Frequency Notes, 480 Hz. (Approximate frequency.)                                                                                ::
+    ID: 07038066.wav
+    Length: 51
+** Warble Frequency Notes, 440 Hz. (Approximate frequency.)                                                                                ::
+    ID: 07038065.wav
+    Length: 47
+** Warble Frequency Notes, 440 Hz. (Approximate frequency.)                                                                                ::
+    ID: 07038064.wav
+    Length: 48
+** Warble Frequency Notes, 384 Hz. (Approximate frequency.)                                                                                ::
+    ID: 07038063.wav
+    Length: 41
+** Warble Frequency Notes, 384 Hz. (Approximate frequency.)                                                                                ::
+    ID: 07038062.wav
+    Length: 52
+** Warble Frequency Notes, 320 Hz. (Approximate frequency.)                                                                                ::
+    ID: 07038061.wav
+    Length: 49
+** Warble Frequency Notes, 320 Hz. (Approximate frequency.)                                                                                ::
+    ID: 07038060.wav
+    Length: 52
+** Warble Frequency Notes, 256 Hz. (Approximate frequency.)                                                                                ::
+    ID: 07038059.wav
+    Length: 49
+** Warble Frequency Notes, 256 Hz. (Approximate frequency.)                                                                                ::
+    ID: 07038058.wav
+    Length: 44
+** Electronic Signals. (Computer atmosphere.)                                                                                ::
+    ID: 07038057.wav
+    Length: 63
+** Electronic Signals. (Computer atmosphere.)                                                                                ::
+    ID: 07038056.wav
+    Length: 63
+** Electronic Signals. (Computer atmosphere.)                                                                                ::
+    ID: 07038055.wav
+    Length: 56
+** Electronic Signals. (Computer atmosphere.)                                                                                ::
+    ID: 07038054.wav
+    Length: 63
+** Electronic Signals. (Computer atmosphere.)                                                                                ::
+    ID: 07038053.wav
+    Length: 61
+** Electronic Signals. (Computer atmosphere.)                                                                                ::
+    ID: 07038052.wav
+    Length: 56
+** Electronic Signals. (Computer atmosphere.)                                                                                ::
+    ID: 07038051.wav
+    Length: 57
+** Electronic Signals. (Computer atmosphere.)                                                                                ::
+    ID: 07038050.wav
+    Length: 63
+** Electronic Signals. (Computer atmosphere.)                                                                                ::
+    ID: 07038049.wav
+    Length: 63
+** Electronic Signals. (Computer atmosphere.)                                                                                ::
+    ID: 07038048.wav
+    Length: 64
+** Electronic Signals. (Computer atmosphere.)                                                                                ::
+    ID: 07038047.wav
+    Length: 64
+** Electronic Signals. (Computer atmosphere.)                                                                                ::
+    ID: 07038046.wav
+    Length: 63
+** Electronic Signals. (Computer atmosphere.)                                                                                ::
+    ID: 07038045.wav
+    Length: 52
+** Electronic Signals. (Computer atmosphere.)                                                                                ::
+    ID: 07038044.wav
+    Length: 60
+** Printer/reader operating. (Computer atmosphere.)                                                                                ::
+    ID: 07038043.wav
+    Length: 44
+** Printer operating (fast). (Computer atmosphere.)                                                                                ::
+    ID: 07038042.wav
+    Length: 57
+** Printer operating (slow). (Computer atmosphere.)                                                                                ::
+    ID: 07038041.wav
+    Length: 59
+** Programme Reader operating. (Computer atmosphere.)                                                                                ::
+    ID: 07038040.wav
+    Length: 50
+** Tape Scanner operating (slow). (Computer atmosphere.)                                                                                ::
+    ID: 07038039.wav
+    Length: 42
+** Tape Scanner operating (fast). (Computer atmosphere.)                                                                                ::
+    ID: 07038038.wav
+    Length: 63
+** Tape Head operating. (Close perspective recording.) (Computer atmosphere.)                                                                                ::
+    ID: 07038037.wav
+    Length: 14
+** Calculator operating. (Computer atmosphere.)                                                                                ::
+    ID: 07038036.wav
+    Length: 93
+** Computer operating. (Computer atmosphere.)                                                                                ::
+    ID: 07038035.wav
+    Length: 53
+** Computer operating. (Computer atmosphere.)                                                                                ::
+    ID: 07038034.wav
+    Length: 78
+** Taurus Satellite, telemetry effects from satellite.                                                                                ::
+    ID: 07038033.wav
+    Length: 27
+** Taurus Redoubt Satellite, telemetry effects from satellite.                                                                                ::
+    ID: 07038032.wav
+    Length: 33
+** Explorer 4 Satellite, telemetry effects from satellite.                                                                                ::
+    ID: 07038031.wav
+    Length: 28
+** Explorer 1 Satellite, telemetry effects from satellite.                                                                                ::
+    ID: 07038030.wav
+    Length: 29
+** NASA Saturn V Launch Pad, Saturn V engine. (Recorded at top level, 320 feet on tower.)                                                                                ::
+    ID: 07038029.wav
+    Length: 54
+** NASA Apollo Launch Pad, rocket base, saturn engine. (Recorded at 50 feet stage on tower.)                                                                                ::
+    ID: 07038028.wav
+    Length: 64
+** NASA Saturn V project, countdown & checking sequence, firing Saturn V engine.                                                                                ::
+    ID: 07038027.wav
+    Length: 193
