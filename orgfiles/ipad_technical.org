@@ -1,130 +1,130 @@
 * Ipad Documents: Technical Reference
 ** DIR: Technical reference
 *** General
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/probability_cheatsheet.pdf][probability_cheatsheet.pdf]]                                            :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/verse-paper-emil.pdf][verse-paper-emil.pdf]]                                                  :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Javicarus.pdf][Javicarus.pdf]]                                                         :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/learnxinyminutes.pdf][learnxinyminutes.pdf]]                                                  :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/learnyouahaskellforgreatgood.pdf][learnyouahaskellforgreatgood.pdf]]                                      :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/ifhemmingwaywrotejavascript.pdf][ifhemmingwaywrotejavascript.pdf]]                                       :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/writegreatcode_vol1.pdf][writegreatcode_vol1.pdf]]                                               :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/thinklikeaprogrammer.pdf][thinklikeaprogrammer.pdf]]                                              :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Busy Coders Android.pdf][Busy Coders Android.pdf]]                                               :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/ChucK_manual.pdf][ChucK_manual.pdf]]                                                      :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Learning haskell.pdf][Learning haskell.pdf]]                                                  :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Oberon 2.pdf][Oberon 2.pdf]]                                                          :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/landoflisp_learntoprgraminlisp.pdf][landoflisp_learntoprgraminlisp.pdf]]                                    :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/learnyousomeerlangforgreatgood.pdf][learnyousomeerlangforgreatgood.pdf]]                                    :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/titov - TCPIP illustrated.pdf][titov - TCPIP illustrated.pdf]]                                         :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/progit.pdf][progit.pdf]]                                                            :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Drepper - What every programmer should know about memory.pdf][Drepper - What every programmer should know about memory.pdf]]          :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/theprinciplesofobjectorientedjavascript.pdf][theprinciplesofobjectorientedjavascript.pdf]]                           :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/artofrprogramming.pdf][artofrprogramming.pdf]]                                                 :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/erlang-book-part1.pdf][erlang-book-part1.pdf]]                                                 :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/joyofcoding_sampler.pdf][joyofcoding_sampler.pdf]]                                               :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/realmofracket_learntoprogram.pdf][realmofracket_learntoprogram.pdf]]                                      :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Cottle - Computer music with Supercollider 3.pdf][Cottle - Computer music with Supercollider 3.pdf]]                      :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/theSuperColliderHelpBook.pdf][theSuperColliderHelpBook.pdf]]                                          :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/svn-book.pdf][svn-book.pdf]]                                                          :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/edwards - antlrtut.pdf][edwards - antlrtut.pdf]]                                                :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/writegreatcode_vol2.pdf][writegreatcode_vol2.pdf]]                                               :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/latex.pdf][latex.pdf]]                                                             :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Building Expert Systems in Prolog - Dennis Merritt.pdf][Building Expert Systems in Prolog - Dennis Merritt.pdf]]                :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/clipsProgramming.pdf][clipsProgramming.pdf]]                                                  :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/jbd2e.pdf][jbd2e.pdf]]                                                             :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Latex guide.pdf][Latex guide.pdf]]                                                       :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/eloquentjavascript_2ndedition.pdf][eloquentjavascript_2ndedition.pdf]]                                     :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/X3TC For Dummies.pdf][X3TC For Dummies.pdf]]                                                  :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Computational Geometry algorithms and applications 2d ed - De berg.pdf][Computational Geometry algorithms and applications 2d ed - De berg.pdf]] :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/pythonplayground_geekyprojectsforthecuriousprogrammer.pdf][pythonplayground_geekyprojectsforthecuriousprogrammer.pdf]]             :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Project euler problems.pdf][Project euler problems.pdf]]                                            :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Javicarus Manual.pdf][Javicarus Manual.pdf]]                                                  :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/thebookoffsharp.pdf][thebookoffsharp.pdf]]                                                   :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/clojureforthebraveandtrue.pdf][clojureforthebraveandtrue.pdf]]                                         :technical:
+**** [[Technical reference/probability_cheatsheet.pdf][probability_cheatsheet.pdf]]                                            :technical:
+**** [[Technical reference/verse-paper-emil.pdf][verse-paper-emil.pdf]]                                                  :technical:
+**** [[Technical reference/Javicarus.pdf][Javicarus.pdf]]                                                         :technical:
+**** [[Technical reference/learnxinyminutes.pdf][learnxinyminutes.pdf]]                                                  :technical:
+**** [[Technical reference/learnyouahaskellforgreatgood.pdf][learnyouahaskellforgreatgood.pdf]]                                      :technical:
+**** [[Technical reference/ifhemmingwaywrotejavascript.pdf][ifhemmingwaywrotejavascript.pdf]]                                       :technical:
+**** [[Technical reference/writegreatcode_vol1.pdf][writegreatcode_vol1.pdf]]                                               :technical:
+**** [[Technical reference/thinklikeaprogrammer.pdf][thinklikeaprogrammer.pdf]]                                              :technical:
+**** [[Technical reference/Busy Coders Android.pdf][Busy Coders Android.pdf]]                                               :technical:
+**** [[Technical reference/ChucK_manual.pdf][ChucK_manual.pdf]]                                                      :technical:
+**** [[Technical reference/Learning haskell.pdf][Learning haskell.pdf]]                                                  :technical:
+**** [[Technical reference/Oberon 2.pdf][Oberon 2.pdf]]                                                          :technical:
+**** [[Technical reference/landoflisp_learntoprgraminlisp.pdf][landoflisp_learntoprgraminlisp.pdf]]                                    :technical:
+**** [[Technical reference/learnyousomeerlangforgreatgood.pdf][learnyousomeerlangforgreatgood.pdf]]                                    :technical:
+**** [[Technical reference/titov - TCPIP illustrated.pdf][titov - TCPIP illustrated.pdf]]                                         :technical:
+**** [[Technical reference/progit.pdf][progit.pdf]]                                                            :technical:
+**** [[Technical reference/Drepper - What every programmer should know about memory.pdf][Drepper - What every programmer should know about memory.pdf]]          :technical:
+**** [[Technical reference/theprinciplesofobjectorientedjavascript.pdf][theprinciplesofobjectorientedjavascript.pdf]]                           :technical:
+**** [[Technical reference/artofrprogramming.pdf][artofrprogramming.pdf]]                                                 :technical:
+**** [[Technical reference/erlang-book-part1.pdf][erlang-book-part1.pdf]]                                                 :technical:
+**** [[Technical reference/joyofcoding_sampler.pdf][joyofcoding_sampler.pdf]]                                               :technical:
+**** [[Technical reference/realmofracket_learntoprogram.pdf][realmofracket_learntoprogram.pdf]]                                      :technical:
+**** [[Technical reference/Cottle - Computer music with Supercollider 3.pdf][Cottle - Computer music with Supercollider 3.pdf]]                      :technical:
+**** [[Technical reference/theSuperColliderHelpBook.pdf][theSuperColliderHelpBook.pdf]]                                          :technical:
+**** [[Technical reference/svn-book.pdf][svn-book.pdf]]                                                          :technical:
+**** [[Technical reference/edwards - antlrtut.pdf][edwards - antlrtut.pdf]]                                                :technical:
+**** [[Technical reference/writegreatcode_vol2.pdf][writegreatcode_vol2.pdf]]                                               :technical:
+**** [[Technical reference/latex.pdf][latex.pdf]]                                                             :technical:
+**** [[Technical reference/Building Expert Systems in Prolog - Dennis Merritt.pdf][Building Expert Systems in Prolog - Dennis Merritt.pdf]]                :technical:
+**** [[Technical reference/clipsProgramming.pdf][clipsProgramming.pdf]]                                                  :technical:
+**** [[Technical reference/jbd2e.pdf][jbd2e.pdf]]                                                             :technical:
+**** [[Technical reference/Latex guide.pdf][Latex guide.pdf]]                                                       :technical:
+**** [[Technical reference/eloquentjavascript_2ndedition.pdf][eloquentjavascript_2ndedition.pdf]]                                     :technical:
+**** [[Technical reference/X3TC For Dummies.pdf][X3TC For Dummies.pdf]]                                                  :technical:
+**** [[Technical reference/Computational Geometry algorithms and applications 2d ed - De berg.pdf][Computational Geometry algorithms and applications 2d ed - De berg.pdf]] :technical:
+**** [[Technical reference/pythonplayground_geekyprojectsforthecuriousprogrammer.pdf][pythonplayground_geekyprojectsforthecuriousprogrammer.pdf]]             :technical:
+**** [[Technical reference/Project euler problems.pdf][Project euler problems.pdf]]                                            :technical:
+**** [[Technical reference/Javicarus Manual.pdf][Javicarus Manual.pdf]]                                                  :technical:
+**** [[Technical reference/thebookoffsharp.pdf][thebookoffsharp.pdf]]                                                   :technical:
+**** [[Technical reference/clojureforthebraveandtrue.pdf][clojureforthebraveandtrue.pdf]]                                         :technical:
 *** DIR: Supercollider
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Supercollider/A_Practical_Guide_to_Patterns.pdf][A_Practical_Guide_to_Patterns.pdf]]                                     :technical:
+**** [[Technical reference/Supercollider/A_Practical_Guide_to_Patterns.pdf][A_Practical_Guide_to_Patterns.pdf]]                                     :technical:
 *** DIR: C++
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/C++/STL Quick Reference 1.29.pdf][STL Quick Reference 1.29.pdf]]                                          :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/C++/OptimizingCpp.pdf][OptimizingCpp.pdf]]                                                     :technical:
+**** [[Technical reference/C++/STL Quick Reference 1.29.pdf][STL Quick Reference 1.29.pdf]]                                          :technical:
+**** [[Technical reference/C++/OptimizingCpp.pdf][OptimizingCpp.pdf]]                                                     :technical:
 *** DIR: Processing
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Processing/Learning Processing.pdf][Learning Processing.pdf]]                                               :technical:
+**** [[Technical reference/Processing/Learning Processing.pdf][Learning Processing.pdf]]                                               :technical:
 *** DIR: Netlogo
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Netlogo/NetLogo-tutorial-notes.pdf][NetLogo-tutorial-notes.pdf]]                                            :technical:
+**** [[Technical reference/Netlogo/NetLogo-tutorial-notes.pdf][NetLogo-tutorial-notes.pdf]]                                            :technical:
 *** DIR: Javascript
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Javascript/JavaScript Patterns - Stefanov - O'Reilly (2010).pdf][JavaScript Patterns - Stefanov - O'Reilly (2010).pdf]]                  :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Javascript/JavaScript_ The Good Parts.pdf][JavaScript_ The Good Parts.pdf]]                                        :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Javascript/D3-Tips-and-Tricks-book-extras.zip][D3-Tips-and-Tricks-book-extras.zip]]                                    :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Javascript/D3-Tips-and-Tricks.pdf][D3-Tips-and-Tricks.pdf]]                                                :technical:
+**** [[Technical reference/Javascript/JavaScript Patterns - Stefanov - O'Reilly (2010).pdf][JavaScript Patterns - Stefanov - O'Reilly (2010).pdf]]                  :technical:
+**** [[Technical reference/Javascript/JavaScript_ The Good Parts.pdf][JavaScript_ The Good Parts.pdf]]                                        :technical:
+**** [[Technical reference/Javascript/D3-Tips-and-Tricks-book-extras.zip][D3-Tips-and-Tricks-book-extras.zip]]                                    :technical:
+**** [[Technical reference/Javascript/D3-Tips-and-Tricks.pdf][D3-Tips-and-Tricks.pdf]]                                                :technical:
 *** DIR: Game programming
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Game programming/Shaders for Game Programming and Artists_1592000924.pdf][Shaders for Game Programming and Artists_1592000924.pdf]]               :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Game programming/OGRE3D.pdf][OGRE3D.pdf]]                                                            :technical:
+**** [[Technical reference/Game programming/Shaders for Game Programming and Artists_1592000924.pdf][Shaders for Game Programming and Artists_1592000924.pdf]]               :technical:
+**** [[Technical reference/Game programming/OGRE3D.pdf][OGRE3D.pdf]]                                                            :technical:
 *** DIR: Perl
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Perl/LearningPerl.pdf][LearningPerl.pdf]]                                                      :technical:
+**** [[Technical reference/Perl/LearningPerl.pdf][LearningPerl.pdf]]                                                      :technical:
 *** DIR: Lua
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Lua/Programming in Lua.pdf][Programming in Lua.pdf]]                                                :technical:
+**** [[Technical reference/Lua/Programming in Lua.pdf][Programming in Lua.pdf]]                                                :technical:
 *** DIR: Lisp
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Lisp/fluxus-documentation-en.pdf][fluxus-documentation-en.pdf]]                                           :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Lisp/Flatt - Creating languages in racket.pdf][Flatt - Creating languages in racket.pdf]]                              :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Lisp/How To Design Programs.pdf][How To Design Programs.pdf]]                                            :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Lisp/common lisp.pdf][common lisp.pdf]]                                                       :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Lisp/Writing_GNU_Emacs_Extensions.pdf][Writing_GNU_Emacs_Extensions.pdf]]                                      :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Lisp/aquamacs.pdf][aquamacs.pdf]]                                                          :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Lisp/lisptutorial.pdf][lisptutorial.pdf]]                                                      :technical:
+**** [[Technical reference/Lisp/fluxus-documentation-en.pdf][fluxus-documentation-en.pdf]]                                           :technical:
+**** [[Technical reference/Lisp/Flatt - Creating languages in racket.pdf][Flatt - Creating languages in racket.pdf]]                              :technical:
+**** [[Technical reference/Lisp/How To Design Programs.pdf][How To Design Programs.pdf]]                                            :technical:
+**** [[Technical reference/Lisp/common lisp.pdf][common lisp.pdf]]                                                       :technical:
+**** [[Technical reference/Lisp/Writing_GNU_Emacs_Extensions.pdf][Writing_GNU_Emacs_Extensions.pdf]]                                      :technical:
+**** [[Technical reference/Lisp/aquamacs.pdf][aquamacs.pdf]]                                                          :technical:
+**** [[Technical reference/Lisp/lisptutorial.pdf][lisptutorial.pdf]]                                                      :technical:
 *** DIR: Python
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Python/LearningPython.pdf][LearningPython.pdf]]                                                    :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Python/functional-programming-python.pdf][functional-programming-python.pdf]]                                     :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Python/numpybook.pdf][numpybook.pdf]]                                                         :technical:
+**** [[Technical reference/Python/LearningPython.pdf][LearningPython.pdf]]                                                    :technical:
+**** [[Technical reference/Python/functional-programming-python.pdf][functional-programming-python.pdf]]                                     :technical:
+**** [[Technical reference/Python/numpybook.pdf][numpybook.pdf]]                                                         :technical:
 *** DIR: Voronoi
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Voronoi/Voronoi_Diagram_Notes_1.pdf][Voronoi_Diagram_Notes_1.pdf]]                                           :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Voronoi/Muller - Fortunes Algorithm.pdf][Muller - Fortunes Algorithm.pdf]]                                       :technical:
+**** [[Technical reference/Voronoi/Voronoi_Diagram_Notes_1.pdf][Voronoi_Diagram_Notes_1.pdf]]                                           :technical:
+**** [[Technical reference/Voronoi/Muller - Fortunes Algorithm.pdf][Muller - Fortunes Algorithm.pdf]]                                       :technical:
 *** DIR: Hardware
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Hardware/A close look at GPUs.pdf][A close look at GPUs.pdf]]                                              :technical:
+**** [[Technical reference/Hardware/A close look at GPUs.pdf][A close look at GPUs.pdf]]                                              :technical:
 *** DIR: Abl and Immerse
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/greetbehaviors.txt][greetbehaviors.txt]]                                                    :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/HolodeckABLAgents.zip][HolodeckABLAgents.zip]]                                                 :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/ABLManual-draftApril142015.pdf][ABLManual-draftApril142015.pdf]]                                        :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/Archive.zip][Archive.zip]]                                                           :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/AblParser.jjt][AblParser.jjt]]                                                         :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/TR25 College trns.docx][TR25 College trns.docx]]                                                :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/Component Demo Script v6.docx][Component Demo Script v6.docx]]                                         :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/Facade abl code examples.zip][Facade abl code examples.zip]]                                          :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/ABL_Documentation.pdf][ABL_Documentation.pdf]]                                                 :technical:
+**** [[Technical reference/Abl and Immerse/greetbehaviors.txt][greetbehaviors.txt]]                                                    :technical:
+**** [[Technical reference/Abl and Immerse/HolodeckABLAgents.zip][HolodeckABLAgents.zip]]                                                 :technical:
+**** [[Technical reference/Abl and Immerse/ABLManual-draftApril142015.pdf][ABLManual-draftApril142015.pdf]]                                        :technical:
+**** [[Technical reference/Abl and Immerse/Archive.zip][Archive.zip]]                                                           :technical:
+**** [[Technical reference/Abl and Immerse/AblParser.jjt][AblParser.jjt]]                                                         :technical:
+**** [[Technical reference/Abl and Immerse/TR25 College trns.docx][TR25 College trns.docx]]                                                :technical:
+**** [[Technical reference/Abl and Immerse/Component Demo Script v6.docx][Component Demo Script v6.docx]]                                         :technical:
+**** [[Technical reference/Abl and Immerse/Facade abl code examples.zip][Facade abl code examples.zip]]                                          :technical:
+**** [[Technical reference/Abl and Immerse/ABL_Documentation.pdf][ABL_Documentation.pdf]]                                                 :technical:
 **** DIR: Facade abl code examples
 ***** DIR: Facade abl code examples
-****** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/Facade abl code examples/Facade abl code examples/GraceScript.java][GraceScript.java]]                                                    :technical:
-****** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/Facade abl code examples/Facade abl code examples/util.abl][util.abl]]                                                            :technical:
-****** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/Facade abl code examples/Facade abl code examples/beatRMt1GPA follower (grace).abl][beatRMt1GPA follower (grace).abl]]                                    :technical:
-****** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/Facade abl code examples/Facade abl code examples/beatRMt1GPA leader (trip).abl][beatRMt1GPA leader (trip).abl]]                                       :technical:
-****** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/Facade abl code examples/Facade abl code examples/littleactions.txt][littleactions.txt]]                                                   :technical:
-****** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/Facade abl code examples/Facade abl code examples/trip gmixinsT1L1.abl][trip gmixinsT1L1.abl]]                                                :technical:
-****** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/Facade abl code examples/Facade abl code examples/grace gmixinsT1L1.abl][grace gmixinsT1L1.abl]]                                               :technical:
-****** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/Facade abl code examples/Facade abl code examples/mood.abl][mood.abl]]                                                            :technical:
-****** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/Facade abl code examples/Facade abl code examples/initialtree.abl][initialtree.abl]]                                                     :technical:
-****** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/Facade abl code examples/Facade abl code examples/ambFixdrink.abl][ambFixdrink.abl]]                                                     :technical:
-****** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/Facade abl code examples/Facade abl code examples/beat.abl][beat.abl]]                                                            :technical:
+****** [[Technical reference/Abl and Immerse/Facade abl code examples/Facade abl code examples/GraceScript.java][GraceScript.java]]                                                    :technical:
+****** [[Technical reference/Abl and Immerse/Facade abl code examples/Facade abl code examples/util.abl][util.abl]]                                                            :technical:
+****** [[Technical reference/Abl and Immerse/Facade abl code examples/Facade abl code examples/beatRMt1GPA follower (grace).abl][beatRMt1GPA follower (grace).abl]]                                    :technical:
+****** [[Technical reference/Abl and Immerse/Facade abl code examples/Facade abl code examples/beatRMt1GPA leader (trip).abl][beatRMt1GPA leader (trip).abl]]                                       :technical:
+****** [[Technical reference/Abl and Immerse/Facade abl code examples/Facade abl code examples/littleactions.txt][littleactions.txt]]                                                   :technical:
+****** [[Technical reference/Abl and Immerse/Facade abl code examples/Facade abl code examples/trip gmixinsT1L1.abl][trip gmixinsT1L1.abl]]                                                :technical:
+****** [[Technical reference/Abl and Immerse/Facade abl code examples/Facade abl code examples/grace gmixinsT1L1.abl][grace gmixinsT1L1.abl]]                                               :technical:
+****** [[Technical reference/Abl and Immerse/Facade abl code examples/Facade abl code examples/mood.abl][mood.abl]]                                                            :technical:
+****** [[Technical reference/Abl and Immerse/Facade abl code examples/Facade abl code examples/initialtree.abl][initialtree.abl]]                                                     :technical:
+****** [[Technical reference/Abl and Immerse/Facade abl code examples/Facade abl code examples/ambFixdrink.abl][ambFixdrink.abl]]                                                     :technical:
+****** [[Technical reference/Abl and Immerse/Facade abl code examples/Facade abl code examples/beat.abl][beat.abl]]                                                            :technical:
 **** DIR: HolodeckABLAgents
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/HolodeckABLAgents/Waiter.abl][Waiter.abl]]                                                           :technical:
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/HolodeckABLAgents/Notepadpp ABL highlighting.xml][Notepadpp ABL highlighting.xml]]                                       :technical:
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/HolodeckABLAgents/SpringBreakerDeclarations.abl][SpringBreakerDeclarations.abl]]                                        :technical:
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/HolodeckABLAgents/SpringBreakerBehaviors.abl][SpringBreakerBehaviors.abl]]                                           :technical:
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/HolodeckABLAgents/GeneralDeclarations.abl][GeneralDeclarations.abl]]                                              :technical:
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/HolodeckABLAgents/GeneralBehaviors.abl][GeneralBehaviors.abl]]                                                 :technical:
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/HolodeckABLAgents/SpringBreaker.abl][SpringBreaker.abl]]                                                    :technical:
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/HolodeckABLAgents/WaiterBehaviors.ablold][WaiterBehaviors.ablold]]                                               :technical:
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/HolodeckABLAgents/WaiterHeader.abl][WaiterHeader.abl]]                                                     :technical:
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/HolodeckABLAgents/RegularBehaviors.abl][RegularBehaviors.abl]]                                                 :technical:
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/HolodeckABLAgents/WaiterBehaviors.abl][WaiterBehaviors.abl]]                                                  :technical:
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/HolodeckABLAgents/SpringBreakerHeader.abl][SpringBreakerHeader.abl]]                                              :technical:
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/HolodeckABLAgents/Regular.abl][Regular.abl]]                                                          :technical:
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/HolodeckABLAgents/RegularHeader.abl][RegularHeader.abl]]                                                    :technical:
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/HolodeckABLAgents/WaiterDeclarations.abl][WaiterDeclarations.abl]]                                               :technical:
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/HolodeckABLAgents/RegularDeclarations.abl][RegularDeclarations.abl]]                                              :technical:
-***** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Abl and Immerse/HolodeckABLAgents/HolodeckAvatarLauncher.java][HolodeckAvatarLauncher.java]]                                          :technical:
+***** [[Technical reference/Abl and Immerse/HolodeckABLAgents/Waiter.abl][Waiter.abl]]                                                           :technical:
+***** [[Technical reference/Abl and Immerse/HolodeckABLAgents/Notepadpp ABL highlighting.xml][Notepadpp ABL highlighting.xml]]                                       :technical:
+***** [[Technical reference/Abl and Immerse/HolodeckABLAgents/SpringBreakerDeclarations.abl][SpringBreakerDeclarations.abl]]                                        :technical:
+***** [[Technical reference/Abl and Immerse/HolodeckABLAgents/SpringBreakerBehaviors.abl][SpringBreakerBehaviors.abl]]                                           :technical:
+***** [[Technical reference/Abl and Immerse/HolodeckABLAgents/GeneralDeclarations.abl][GeneralDeclarations.abl]]                                              :technical:
+***** [[Technical reference/Abl and Immerse/HolodeckABLAgents/GeneralBehaviors.abl][GeneralBehaviors.abl]]                                                 :technical:
+***** [[Technical reference/Abl and Immerse/HolodeckABLAgents/SpringBreaker.abl][SpringBreaker.abl]]                                                    :technical:
+***** [[Technical reference/Abl and Immerse/HolodeckABLAgents/WaiterBehaviors.ablold][WaiterBehaviors.ablold]]                                               :technical:
+***** [[Technical reference/Abl and Immerse/HolodeckABLAgents/WaiterHeader.abl][WaiterHeader.abl]]                                                     :technical:
+***** [[Technical reference/Abl and Immerse/HolodeckABLAgents/RegularBehaviors.abl][RegularBehaviors.abl]]                                                 :technical:
+***** [[Technical reference/Abl and Immerse/HolodeckABLAgents/WaiterBehaviors.abl][WaiterBehaviors.abl]]                                                  :technical:
+***** [[Technical reference/Abl and Immerse/HolodeckABLAgents/SpringBreakerHeader.abl][SpringBreakerHeader.abl]]                                              :technical:
+***** [[Technical reference/Abl and Immerse/HolodeckABLAgents/Regular.abl][Regular.abl]]                                                          :technical:
+***** [[Technical reference/Abl and Immerse/HolodeckABLAgents/RegularHeader.abl][RegularHeader.abl]]                                                    :technical:
+***** [[Technical reference/Abl and Immerse/HolodeckABLAgents/WaiterDeclarations.abl][WaiterDeclarations.abl]]                                               :technical:
+***** [[Technical reference/Abl and Immerse/HolodeckABLAgents/RegularDeclarations.abl][RegularDeclarations.abl]]                                              :technical:
+***** [[Technical reference/Abl and Immerse/HolodeckABLAgents/HolodeckAvatarLauncher.java][HolodeckAvatarLauncher.java]]                                          :technical:
 *** DIR: Visualisation
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Visualisation/VisualisingData.pdf][VisualisingData.pdf]]                                                   :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Visualisation/shiffman - the nature of code.pdf][shiffman - the nature of code.pdf]]                                     :technical:
+**** [[Technical reference/Visualisation/VisualisingData.pdf][VisualisingData.pdf]]                                                   :technical:
+**** [[Technical reference/Visualisation/shiffman - the nature of code.pdf][shiffman - the nature of code.pdf]]                                     :technical:
 *** DIR: Haskell
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Haskell/SchoolOfExpressionHaskell.pdf][SchoolOfExpressionHaskell.pdf]]                                         :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Haskell/Daume haskell.pdf][Daume haskell.pdf]]                                                     :technical:
-**** TODO [[file:///Users/jgrey/Desktop/IPAD_MAIN/Technical reference/Haskell/learnyouahaskell.pdf][learnyouahaskell.pdf]]                                                  :technical:
+**** [[Technical reference/Haskell/SchoolOfExpressionHaskell.pdf][SchoolOfExpressionHaskell.pdf]]                                         :technical:
+**** [[Technical reference/Haskell/Daume haskell.pdf][Daume haskell.pdf]]                                                     :technical:
+**** [[Technical reference/Haskell/learnyouahaskell.pdf][learnyouahaskell.pdf]]                                                  :technical:
 
