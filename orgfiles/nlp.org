@@ -1,6 +1,4 @@
 * Natural Language Processing:
-
-
 ** Links:
    http://www.kellogg.northwestern.edu/research/fordcenter/events/text%20as%20data%20oct%202014.htm
    #classification: http://www.nltk.org/howto/classify.html
@@ -19,7 +17,6 @@
    I{corpus}.parsed_paras(): list of (list of (Tree with str leaves))
    I{corpus}.xml(): A single xml ElementTree
    I{corpus}.raw(): str (unprocessed corpus contents)
-
 
 *** links:
 
@@ -42,8 +39,6 @@
     logic: http://www.nltk.org/howto/logic.html
     resolution? http://www.nltk.org/howto/resolution.html
 
-
-
 *** Parts of speech:
 
     http://www.chompchomp.com/terms.htm
@@ -55,7 +50,6 @@
     preposition: links noun with something
     conjunction: joins clauses
     interjection: 'well, I don`t know.'
-
 
 *** Lexical Categories
     adjective (A)
@@ -78,8 +72,6 @@
     adposition phrase (PP)
     noun phrase (NP)
     verb phrase (VP)
-
-
 
 *** Penn Treebank:
     CC Coordinating conjunction
@@ -183,28 +175,13 @@
     FACILITY      Washington Monument, Stonehenge
     GPE         South East Asia, Midlothian
 
-
-
-
-** Corpora:
-
-   Gormenghast
-   Discworld
-   Horus Heresy
-   Quests
-   Sci-Fi novels
-
 ** DataSets:
-
    Conceptnet
    verbnet
    wordnet
    CDC Datasets
-
 ** Analysis:
-
 *** General template
-
 **** For a single Text:
      Read a file in
      Process
@@ -216,7 +193,6 @@
      output to <groupName>.data
 
 *** Vocabs
-
 **** For each text:
      List of words
 
@@ -229,32 +205,22 @@
 
     Stats on unique vs shared words.
 
-
 *** Collocations
 
     Bigrams, Trigrams for each text.
     Into Generative grammars?
 
 *** Parsing
-
 *** Word/Verb/Concept net exploration:
-
     plug in a word, get linked words
-
 *** Speech Extraction
-
     with parsed, extract sentences indicating speech
     (using net exploration)
-
 *** Entity Extraction
-
     NER, and also noun phrase extraction
     possible comparison to wikipedia
-
 *** Entity - Verb combinations
-
 *** Classification
-
 **** General Test Classification stuff
      classification: http://www.nltk.org/howto/classify.html
 
@@ -446,7 +412,5 @@
 
      >>> classifier.classify_many(test)
      ['y', 'x']
-
-
 
 *** Scene Extraction

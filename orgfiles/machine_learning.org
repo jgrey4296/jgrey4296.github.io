@@ -362,7 +362,6 @@
 *** TensorFlow
 *** nltk
 *** Gensim
-
 ** Practices
 *** Preprocessing
     Typically to reshape data into a n*m shape

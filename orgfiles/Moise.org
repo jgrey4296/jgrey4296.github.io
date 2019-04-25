@@ -2,13 +2,13 @@
 ** MAP-EASSS10.pdf notes
 *** *Moise*
     Tag based language
-    OMI has dedicated organisational artifacts and agents. 
+    OMI has dedicated organisational artifacts and agents.
 
     Environment
     Structural Specification (Groups, links, roles, compatibilities, inheritance)
     Behaviours (Env/Org_spec/Func_spec/global constraints) + Normative Spec
     Functional Specification (Goals, plans, missions, schemas, preferences)
-    
+
 
     Specifies structure along three levels:
     1) Individual with Role
@@ -22,7 +22,7 @@
      Id, Roles + cardinality, links, subgroups + cardinality, formation constraints
 
 **** Link Specification
-     From/To Roles, 
+     From/To Roles,
      Type (authority, communication, acquaintance)
      Scope (inter, intra)     *IMPORTANT*
      validity (extends-sub-group)
@@ -54,9 +54,6 @@
      Activation condition, consequence (regimentation/obligation)
      Norm life cycle: start -> Active -> [fulfilled, unfulfilled,inactive] -> end
      Has Count-as Rules (input)  and Enact Rules (output).
-     
-
-
 **** Soccer Team Example
      As EL:?
      .soc.coach
@@ -66,7 +63,7 @@
      x <- .soc.player..*
      #rest operator
      .soc.team.[..x]
-     #then spread. bidirectal op. 
+     #then spread. bidirectal op.
      x.links.coach <-> .soc.coach.links.x..
 
      .soc.player.[leader, middle, attacker].group.attack
@@ -80,7 +77,7 @@
 
 *** AOSE: Agent-Oriented Software Development Methodology
     Requirement -> Analysis -> Design -> Implementation -> Test
-    Abstractions: 
+    Abstractions:
     1) Individual Agent Level
        a) Cognitive concepts: BDI
        b) Deliberation and decision: Sense/Reason/Act etc
@@ -95,7 +92,7 @@
     *Not a Mature Paradigm*
 *** The State of Multi-Agent Programming
     Right way is to use an AOSE Methodology (Prometheus, Gaia)
-    *Shortfalls*: ides and debugging are not mature, 
+    *Shortfalls*: ides and debugging are not mature,
     debugging more than 'mind tracing' is needed.
     Combination with organisational models is only recent.
     Declarative goals are not standard.
@@ -108,7 +105,7 @@
 *** Json / AgentSpeak
     *Rao 1996*
     BDI language
-    
+
     Main Constructs: Beliefs, Goals, Plans, Events, Intentions
     Architectural Components: Belief Base, Event Set, Plan Library, Intention Set
 
@@ -120,10 +117,10 @@
      Percepts are updated automatically.
 
      + and - can add and remove beliefs.
-     eg: +lier(alice)
+     eg: +liar(alice)
 
      can Tell other agents information:
-     eg: .send(tom,tell,lier(alice)
+     eg: .send(tom,tell,liar(alice)
 
      Goals:
      Achievement Goals. things to do.
@@ -141,15 +138,15 @@
 
      Plans look like:
      triggering_event : context <- body
-     
+
      Plans can be initially defined, dynamically added by plans,
      or told and untold by other agents.
 
      Dynamically asking for plans:
      -!G[error(no_relevant)] : teacher(T)
      <- .send(T, askHow, { +!G }, Plans);
-     	.add_plan(Plans);
-        !G.
+     .add_plan(Plans);
+     !G.
 
      Agents can perform internal actions, that do not change the environment.
 **** Related Projects
@@ -198,16 +195,16 @@
     Have a pattern of predefined cooperation
     Have a pattern of emergent cooperation.
 
-    Bernoux: Org characterised by: 
-    1) Division of tasks, 
+    Bernoux: Org characterised by:
+    1) Division of tasks,
     2) Distribution of roles,
     3) Authority systems
     4) Communication systems
     5) contribution-retribution systems
 
-    Distinction between organisation entity and organisation specification. 
+    Distinction between organisation entity and organisation specification.
     *Entity*: institution, social relations, commitments. Emergent and potential cooperation.
-    Local representations of agent mental states. 
+    Local representations of agent mental states.
 
     *Specification*: Predefined cooperation, structure, norms.
     Partially/totally accessable.
@@ -228,16 +225,16 @@
      Regulation Mechanisms: Ameli, S-Mois+, ORA4MAS
      Agent Integration Mechanisms: enter/exit/mod org, obedience/violation of norms, sanctions/rewards
      Environment Integration Mechanisms: transformation/ org acting on environment. Env as org (count-as rules).
-     
-     An Organisation helps agents cooperate by defining common cooperation schemes. 
+
+     An Organisation helps agents cooperate by defining common cooperation schemes.
      Tasks, protocols, groups, responsibilities.
 
-     Embedding norms within org constrains agents behaviour towards global purposes of the org. 
-     
+     Embedding norms within org constrains agents behaviour towards global purposes of the org.
+
      AGR: Ferber and Gutknecht. Agent, Group, Role.
      Structural Specification + Behaviour
-     Subsets of Behaviour: 
-     1) Behaviours that lead to global purpose, 
+     Subsets of Behaviour:
+     1) Behaviours that lead to global purpose,
      2) Behaviours constrained by environment
      3) Behaviours structurally constrained by org
 
@@ -245,15 +242,15 @@
      adds Functional specification and:
      4a) Behaviours functionally constrained by org
 
-    ISLANDER:
-    Replaces functional spec with dialogical spec
-    4b) Behaviours possible/permitted/obliged interactionally 
-     
+     ISLANDER:
+     Replaces functional spec with dialogical spec
+     4b) Behaviours possible/permitted/obliged interactionally
+
 **** 2OPL
      Agents - Org.
      Agents perform external actions,
      Org Monitors norm transgressions, enforces sanctions, and regiments to prevent critical failure states.
-     
+
      Brute facts.
      Effects of actions.
      Norm / counts-as rules.
@@ -263,7 +260,7 @@
     Agents + Orgs + Environments + Interactions.
     AOP, EP, OOP as orthogonal dimensions.
     Beyond Orthogonality: *Synergetic Integration*
-    
+
     Ricci (2009): Externalization - (Seems similar to smart objects in the Sims)
 
 
@@ -278,11 +275,11 @@
      role models and interaction models, eventually into agent and service models.
 
 **** PRS (Georgeff, Lansky)
-     
+
 ** Thoughts
    Repeated mentions of debugging being hard, and mind-traces not being enough.
    What *is* needed to debug complex agent organisations?
-   Knowledge of: 
+   Knowledge of:
    1) External Environment state,
    2) External Agent State
    3) Internal Agent State (*Mind Traces Here*)
@@ -294,27 +291,17 @@
    9) Relevant Norms, and their support (Norms assessed in a way similar to SVMs?)
    10) Agent's location in organization
    11) Agent's that specified the rule / goal
-
-
-
-
-
-
-   
-
 ** Moise notes from shell
 *** Organisational Spec
-Description of components 
+    Description of components
 
-Structural Spec - Roles, components etc
-Deontic/Normative Spec - link roles to permissions/obligations, 
-Functional Spec - Action/Activity descriptions
-Environment Spec - Physical interface
+    Structural Spec - Roles, components etc
+    Deontic/Normative Spec - link roles to permissions/obligations,
+    Functional Spec - Action/Activity descriptions
+    Environment Spec - Physical interface
 
-Translation of roles -> actions as intersection of sets based on permission, environment etc
+    Translation of roles -> actions as intersection of sets based on permission, environment etc
 *** Organisation Entity
-Instantiation of Spec.
-Map Agents -> Roles
-Track Agents -> Roles -> Activities
-
-
+    Instantiation of Spec.
+    Map Agents -> Roles
+    Track Agents -> Roles -> Activities
