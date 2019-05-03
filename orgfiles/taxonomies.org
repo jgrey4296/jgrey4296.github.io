@@ -200,7 +200,7 @@
     Symbolic Power p163
 
     Symbolic Instruments
-    | Structuring                   | Structured                          | Instrumnts of                  |
+    | Structuring                   | Structured                          | Instruments of                 |
     | Structures                    | Structures                          | Domination                     |
     |-------------------------------+-------------------------------------+--------------------------------|
     | Instruments for knowing       | Means of Communication              | Power                          |
@@ -261,6 +261,7 @@
    |----------------------+-----------------------------------------------------------------------------------------------|
    | Non-Social Action    | Does not treat others as goal-oriented agents                                                 |
    | Weak Social Action   | Action based on social beliefs (about other's minds or actions)                               |
+   | Delegation           |                                                                                               |
    | Strong Social Action | Action based on social goals. Cognitive delegation. Influencing, power, incentive engineering |
    | Social Goal Adoption | Changing an agent's goals. Goal Adhesion                                                      |
 
@@ -782,6 +783,32 @@
    | Officeworker | Husband |
    |              |         |
 
+** Jin and Dabbish's Typology of Task Interleaving
+
+   | Type of Self-Interruption | Description                   | Positive                   | Negative                             |
+   |                           |                               | Consequences               | Consequences                         |
+   |---------------------------+-------------------------------+----------------------------+--------------------------------------|
+   | Adjustment                | adjusting environment to      | Can improve productivity   | Delays primary task,                 |
+   |                           | improve productivity          | direct or indirect         | failure can lead to stress           |
+   |---------------------------+-------------------------------+----------------------------+--------------------------------------|
+   | Break                     | Temporarily switch to a       | Alleviates stress          | Delays primary task, requires        |
+   |                           | different task                |                            | context switching                    |
+   |---------------------------+-------------------------------+----------------------------+--------------------------------------|
+   | Inquiry                   | Seeking information on        | Facilitates task with      | Delays primary task,                 |
+   |                           | the primary task              | useful information         | requires context switching           |
+   |---------------------------+-------------------------------+----------------------------+--------------------------------------|
+   | Recollection              | Remembering need to perform   | Prevents future neglect    | Likely to cause other interruptions, |
+   |                           | an unrelated task             | of recalled task           | context switching                    |
+   |---------------------------+-------------------------------+----------------------------+--------------------------------------|
+   | Routine                   | Performing a different task   | Streamlines workflow based | Decreases efficiency, especially if  |
+   |                           | as habit of time and sequence | on prior experience        | the routine is time consuming        |
+   |---------------------------+-------------------------------+----------------------------+--------------------------------------|
+   | Trigger                   | Performing a new task as a    | Can generate novel ideas   | Likely to cause other interruptions  |
+   |                           | result of stimulus            |                            |                                      |
+   |---------------------------+-------------------------------+----------------------------+--------------------------------------|
+   | Wait                      | Performing a different task   | Maximizes productivity     | Delays resumption of primary task    |
+   |                           | due to a roadblock            | by multi-tasking           | if user overestimates wait time.   |
+   
 ** Judgment Aggregation Rules                                                   :norms:voting:judgement:
    In Lang, Pigozzi Slavkovik et al: "A Partial Taxonomy of Judgment aggregation
    rules and their properties"
@@ -808,6 +835,66 @@
    |                               | Minimal Entailment     |             |
    |                               | Irreducible Entailment |             |
    |-------------------------------+------------------------+-------------|
+
+** [[https://web.stanford.edu/~jurafsky/ws97/manual.august1.html][Jurafsky's SWBD-DAMSL]]
+   [[https://www.cs.rochester.edu/research/speech/damsl/RevisedManual/][DAMSL Manual]]
+*** Basic Components
+    | Components of Speech Acts |   |
+    |---------------------------+---|
+    | Communicative Status      |   |
+    | Information Level         |   |
+    | Forward Looking Function  |   |
+    | Backward Looking Function |   |
+
+*** SWBD-DAMSL Concise Tags
+
+    | SWBD-DAMSL                   | SWBD          | Example                                        |
+    |------------------------------+---------------+------------------------------------------------|
+    | Statement-non-opinion        | sd            | Me, I'm in the legal department                |
+    | Acknowledge (Backchannel)    | b             | uh-huh                                         |
+    | Statement-opinion            | sv            | I think it's great                             |
+    | Agree/Accept                 | aa            | That's exactly it.                             |
+    | Abandoned or Turn-Exit       | % -           | So, -                                          |
+    | Appreciation                 | ba            | I can imagine                                  |
+    | Yes-No-Question              | qy            | Do you have to have any special training?      |
+    | Non-verbal                   | x             | [Laughter], [Throat-clearing]                  |
+    | Yes answers                  | ny            | yes                                            |
+    | Conventional-closing         | fc            | well, it's been nice talking to you.           |
+    | Uninterpretable              | %             | But, uh, yeah                                  |
+    | Wh-Question                  | qw            | Well, how old are you?                         |
+    | No Answers                   | nn            | No                                             |
+    | Response Acknowledgement     | bk            | Oh, Okay                                       |
+    | Hedge                        | h             | I don't know if I'm making any sense or not    |
+    | Declarative Yes-No-Question  | qy^d          | So you can afford to get a house?              |
+    | Other                        | o,fo,bc,by,fw | Well give me a break, you know                 |
+    | Backchannel in question form | bh            | Is that right?                                 |
+    | Quotation                    | ^q            | You can't be pregnant and have cats            |
+    | Summarize/reformulate        | bf            | Oh, you mean you switched schools for the kids |
+    | Affirmative non-yes answers  | na,ny^e       | It is.                                         |
+    | Action-directive             | ad            | Why don't you go first                         |
+    | Collaborative Completion     | ^2            | Who aren't contributing                        |
+    | Repeat-phrase                | b^m           | oh, fajitas                                    |
+    | Open-Question                | qo            | How about you?                                 |
+    | Rhetorical Questions         | qh            | Who would steal a newspaper?                   |
+    | Hold before answer/agreement | ^h            | I'm drawing a blank.                           |
+    | Reject                       | ar            | Well, No                                       |
+    | Negative Non-no answers      | ng,nn^e       | Uh, not a whole lot.                           |
+    | signal-non-understanding     | br            | Excuse me?                                     |
+    | Other answers                | no            | I don't know                                   |
+    | Conventional-opening         | fp            | How are you?                                   |
+    | Or-Clause                    | qrr           | or is it more of a company?                    |
+    | Dispreferred answers         | arp,nd        | Well, not so much that.                        |
+    | 3rd-party-talk               | t3            | My goodness, Diane, get down from there.       |
+    | Offers, Options Commits      | oo,cc,co      | I'll have to check that out                    |
+    | Self-talk                    | t1            | Whats the word I'm looking for                 |
+    | Downplayer                   | bd            | That's all right                               |
+    | Maybe/Accept-part            | aap/am        | something like that                            |
+    | Tag-question                 | ^g            | right?                                         |
+    | Declarative Wh-Question      | qw^d          | You are what kind of buff?                     |
+    | Apology                      | fa            | I'm sorry                                      |
+    | Thanking                     | ft            | Hey thanks a lot                               |
+
+*** SWBD-DAMSL Full Tags
 
 ** Lehnerts Plot Units                                                          :narrative:plot:
 
@@ -838,6 +925,85 @@
    | regrettable mistake                      |             |
    | sabotage                                 |             |
    
+** Levinson and Brown's Politeness
+
+   | Direction  | Strategy basis              | Strategy                                | Details                                  |
+   |------------+-----------------------------+-----------------------------------------+------------------------------------------|
+   | Positive   | Common Ground               | Notice, attend to other                 |                                          |
+   |            |                             | Exaggerate                              | (interest/approval/sympathy)             |
+   |            |                             | Intensify interest in other             |                                          |
+   |            |                             | Use in-group identity markers           | Address forms                            |
+   |            |                             |                                         | in-group language                        |
+   |            |                             |                                         | Jargon                                   |
+   |            |                             |                                         | Contraction                              |
+   |            |                             | Seek Alignment                          | Safe Topics                              |
+   |            |                             |                                         | Repetition                               |
+   |            |                             | Avoid Disagreement                      | Token agreement                          |
+   |            |                             |                                         | Pseudo-agreement                         |
+   |            |                             |                                         | White-lies                               |
+   |            |                             |                                         | Hedging Opinions                         |
+   |            |                             | Presuppose /raise /assert common ground | Gossip, Small talk                       |
+   |            |                             |                                         | Point-of-view operations                 |
+   |            |                             |                                         | Personal centre switch                   |
+   |            |                             |                                         | Time switch                              |
+   |            |                             |                                         | Place Switch                             |
+   |            |                             |                                         | Avoidance of adjustment reports          |
+   |            |                             | Presupposition manipulations            | Knowledge of other's wants and attitudes |
+   |            |                             |                                         | Others values as same as own             |
+   |            |                             |                                         | Familiarity                              |
+   |            |                             |                                         | Others knowledge                         |
+   |            |                             | Joke                                    |                                          |
+   |            | Cooperation                 | Assert / Presuppose                     | knowledge / concern of H                 |
+   |            |                             | Offer , Promise                         |                                          |
+   |            |                             | Optimism                                |                                          |
+   |            |                             | Inclusion of self and other in activity |                                          |
+   |            |                             | GOGAR                                   |                                          |
+   |            |                             | Assume / assert reciprocity             |                                          |
+   |            | Instrumental                | Fulfill a want of other                 | Give gifts                               |
+   |            |                             |                                         |                                          |
+   |------------+-----------------------------+-----------------------------------------+------------------------------------------|
+   | Negative   | Directness                  |                                         |                                          |
+   |            |                             |                                         |                                          |
+   |            | Presumption / Assumption    |                                         |                                          |
+   |            |                             |                                         |                                          |
+   |            | Coercion                    |                                         |                                          |
+   |            |                             |                                         |                                          |
+   |            | Impinging on other          |                                         |                                          |
+   |            |                             |                                         |                                          |
+   |            | not redressing others wants |                                         |                                          |
+   |------------+-----------------------------+-----------------------------------------+------------------------------------------|
+   |            |                             |                                         |                                          |
+   | Off-Record | Conversational Implicatures | Give hints                              |                                          |
+   |            |                             | Give Association clues                  |                                          |
+   |            |                             | Presuppose                              |                                          |
+   |            |                             | Understate                              |                                          |
+   |            |                             | Overstate                               |                                          |
+   |            |                             | Use tautologies                         |                                          |
+   |            |                             | Use contradictions                      |                                          |
+   |            |                             | be ironic                               |                                          |
+   |            |                             | Use metaphos                            |                                          |
+   |            |                             | Use rhetorical questions                |                                          |
+   |            |                             |                                         |                                          |
+   |            | Vagueness or ambiguity      | Ambiguous                               |                                          |
+   |            |                             | Vague                                   |                                          |
+   |            |                             | Over-generalize                         |                                          |
+   |            |                             | Displace H                              |                                          |
+   |            |                             | Be incomplete                           |                                          |
+   
+*** Implications
+
+
+**** Phonology and Prosody
+
+**** Indirect speech acts
+
+**** Hedges
+
+**** Impersonalization mechanisms
+
+**** Honorifics
+
+
 ** Malaby's Categories of Indeterminacy                                         :chance:indeterminacy:
    in Montfort et al: 10 Print
 
@@ -912,6 +1078,22 @@
 
    Time as *Linear Change with Forward Order* or *Repeating Cycles* (Buzsaki  2006)
 
+** Meta-Heuristics
+
+   |                        |   |
+   |------------------------+---|
+   | Depth First Search     |   |
+   | Breadth First Search   |   |
+   | Hill Climbing          |   |
+   | Simulated Annealing    |   |
+   | Monte Carlo            |   |
+   | Wave Function Collapse |   |
+   | Selection Procedures   |   |
+   | Utility                |   |
+   | Distance               |   |
+   | Time                   |   |
+   |                        |   |
+   
 ** Modularity
 
    |                          |              |
@@ -1161,7 +1343,7 @@
 ***** Traditional Normative reasoning
       |                       |                                          |
       |-----------------------+------------------------------------------|
-      | Von Wrights System KD | Distinguishes Good/Badd, Right/Wrong     |
+      | Von Wrights System KD | Distinguishes Good/Bad, Right/Wrong     |
       | Anderson              | Represents norms by violation conditions |
       | Hanson                | Preference based semantics               |
       | Makinson              | Iterative approach                       |
@@ -1229,7 +1411,6 @@
      | (Gorin, Mera, Schapachnik) | Doesn't have first class deontics.            |
      |                            |                                               |
 
-     
 **** Computational Architectures
 
      |                    | Middleware                   | Description                                                           |
@@ -1255,7 +1436,6 @@
      |                    | [[http://e-institutions.iiia.csic.es/software.html][ISLANDER]]                     | Based on Noriega. Doesn't allow for norm violations. Simulated using  |
      |                    | (Esteva, De La Cruz, Sierra) | SIMDEI.                                                               |
      |                    |                              |                                                                       |
-
 
 **** Programming Languages
 
@@ -1320,11 +1500,8 @@
      |                                             |                                   |
 
 *** TODO Regulated MAS: Social Perspective
-
 *** TODO Social Norm Dynamics
-
 *** TODO Simulation and NorMAS
-
 *** TODO The Uses of Norms
 ** Ostrom ADICO                                                                 :institutions:sanctions:ostrom:rules:
    [[file:traceryADICO.org::*Tracery%20norm%20grammars][Tracery norm grammars]]
@@ -1349,7 +1526,7 @@
    | payoff          | specify rewards and sanctions linked to actions and outcomes       |
    | Scope           | delimit outcomes                                                  |
 
-** Papers Please
+** Papers Please                                                                :artifacts:bureaucracy:examples:games:
 
    |                                        |   |
    |----------------------------------------+---|
@@ -1563,7 +1740,7 @@
    |             | Ensemble          |
    
 ** [[file:threeIdeas.org::*Real%20time,%20Functional%20AI%20authoring%20pipeline.][Real time, Functional AI authoring pipeline.]]                                 :links:pipeline:modality:
-** Reigns
+** Reigns                                                                       :reigns:games:
 
    | Beats                        |   |
    |------------------------------+---|
