@@ -74,7 +74,6 @@
      .people.juan.role.(.soc.player.back)
      .people.cafu.role.(.soc.player.leader)
 
-
 *** AOSE: Agent-Oriented Software Development Methodology
     Requirement -> Analysis -> Design -> Implementation -> Test
     Abstractions:
@@ -120,7 +119,7 @@
      eg: +liar(alice)
 
      can Tell other agents information:
-     eg: .send(tom,tell,liar(alice)
+     eg: .send(tom,tell,liar(alice))
 
      Goals:
      Achievement Goals. things to do.
@@ -262,7 +261,6 @@
     Beyond Orthogonality: *Synergetic Integration*
 
     Ricci (2009): Externalization - (Seems similar to smart objects in the Sims)
-
 
 *** Examples
 
