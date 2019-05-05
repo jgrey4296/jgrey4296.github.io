@@ -1,4 +1,4 @@
-*  Taxonomies
+*  Taxonomies                                                                   :taxonomies:
   #+BIBLIOGRAPHY: ~/github/writing/other_files/main_bibliography plain
 ** [[file:48laws.org::*48%20Laws%20of%20Power][48 Laws of Power]]                                                             :links:power:rules:
 ** [[file:pirateShip.org::*A%20Pirate%20Ship%20as%20an%20Institutional%20example][A Pirate Ship as an Institutional example]]                                    :links:routine:sanctions:
@@ -136,7 +136,7 @@
    |                          |                        |             |
    |                          | Establish a baseline   |             |
 
-** Authoring an FSM
+** Authoring an FSM                                                             :fsm:
 
    |                                             |   |
    |---------------------------------------------+---|
@@ -1821,7 +1821,104 @@
    |          |                  | Death of Old        |             |
    |          |                  | Death of Selected   |             |
 
-** Scotts Institutions
+** Schechners performance theory                                                :clock:ritual:time:
+
+   :Qualtities_of_Ritual:
+   P8: "Play, Games, Sports, Theater, and Ritual.
+   Several basic qualities are shared by these activities:
+   1) A Special ordering of Time;
+   2) A Special value attached to objects
+   3) Non-productivity in terms of goods
+   4) Rules
+   Often special places - non-ordinary places - are set aside or constructed
+   to perform these activities in."
+   :END:
+
+   | Time          |                                                                |
+   |---------------+----------------------------------------------------------------|
+   | Clock Time    | Mono-directional, linear yet cyclical uniform measurement      |
+   |               | of the day                                                     |
+   |---------------+----------------------------------------------------------------|
+   | Event Time    | Activity has a set sequence and all sets must be completed     |
+   |               | regardless of the clock time.                                  |
+   |               | Eg: Baseball, rain dances, scripted theatrical performances.   |
+   |---------------+----------------------------------------------------------------|
+   | Set Time      | Arbitrary time pattern is imposed on events. They begin        |
+   |               | and end at certain moments regardless of completion.           |
+   |               | Eg: Football, games based on "how many".                       |
+   |---------------+----------------------------------------------------------------|
+   | Symbolic Time | Where the span of the activity represents a difference span of |
+   |               | clock time.                                                    |
+   |               | Eg: Theater, ritual, play.                                     |
+
+   p8-9 uses Boxing as an example of layer forms of time.
+
+   p11: Object characteristics:
+
+   | Objects Value   |   |
+   |-----------------+---|
+   | Practical Use   |   |
+   |                 |   |
+   | Scarcity        |   |
+   |                 |   |
+   | Beauty          |   |
+   |                 |   |
+   | Bartering power |   |
+   |                 |   |
+   | Age             |   |
+
+   p12: Rules
+
+   | p16, Fig1.2: Performance Chart | Play            | Games           | Sports      | Theater     | Ritual  |
+   |--------------------------------+-----------------+-----------------+-------------+-------------+---------|
+   | Special Ordering of Time       | Usually         | Yes             | Yes         | Yes         | Yes     |
+   | Special value for objects      | Yes             | Yes             | Yes         | Yes         | Yes     |
+   | Non-productive                 | Yes             | Yes             | Yes         | Yes         | Yes     |
+   | Rules                          | Inner           | Frame           | Frame       | Frame       | Outer   |
+   | Special Place                  | No              | Often           | Yes         | Yes         | Usually |
+   | Appeal to Other                | No              | Often           | Yes         | Yes         | Yes     |
+   | Audience                       | Not Necessarily | Not Necessarily | Usually     | Yes         | Usually |
+   | Self-assertive                 | Yes             | Not Totally     | Not Totally | Not Totally | No      |
+   | Self-transcendent              | No              | Not Totally     | Not Totally | Not Totally | Yes     |
+   | Completed                      | Not Necessarily | Yes             | Yes         | Yes         | Yes     |
+   | Performed by group             | Not Necessarily | Usually         | Usually     | Yes         | Usually |
+   | Symbolic reality               | Often           | No              | No          | Yes         | Often   |
+   | Scripted                       | Sometimes/No    | No              | No          | Yes         | Usually |
+
+   p17: Fig 1.4:
+
+   [ Space [ Conventions [ Drama [ Director [ FREE ] ] ] ] ]
+
+
+   p46: Basic qualities of Actuals
+
+   | Actual      |               |                                   |
+   |-------------+---------------+-----------------------------------|
+   | Process     |               | Something happens here and now    |
+   | Effects     | Consequential |                                   |
+   |             | Irremediable  |                                   |
+   |             | Irrevocable   |                                   |
+   | Contest     |               | Something is at stake             |
+   | Initiation  |               | Change of status for participants |
+   | Space Usage | Concretely    |                                   |
+   |             | Organically   |                                   |
+
+   p51: "When violence, cruelty, sacrifice, even ritual murder and combat
+   are incorporated into authentic ceremonies, they are always part of a 
+   *known system*. Violence without the system is meaningless."
+
+   P106: Loizos (1969) manipulation of patterns:
+
+   |                    |                                     |
+   |--------------------+-------------------------------------|
+   | Re-ordering        |                                     |
+   | Exaggeration       |                                     |
+   | Repetition         |                                     |
+   | Fragmentation      |                                     |
+   | lack of completion | both beginnings (intention element) |
+   |                    | and ending (completion element)     |
+   
+** Scotts Institutions                                                          :carriers:artifacts:norms:regulation:institutions:
 
    | 3 Pillars          |   |
    |--------------------+---|
