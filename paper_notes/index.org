@@ -20,9 +20,9 @@
 *** [[file:hawes_survey_motivation_frameworks.org::*A%20survey%20of%20motivation%20frameworks%20for%20intelligent%20systems][A survey of motivation frameworks for intelligent systems]]
 *** [[file:schillo_taxonomy_of_autonomy.org::*A%20Taxonomy%20of%20Autonomy%20in%20Muliagent%20Organisation][A Taxonomy of Autonomy in Muliagent Organisation]]
 *** [[file:mens_taxonomy_of_model_transformation.org::*A%20Taxonomy%20of%20Model%20Transformation][A Taxonomy of Model Transformation]]
-*** [[file:suarezz_sancho_virtual_lab_cultural_dynamics.org::*A%20Virtual%20Laboratory%20for%20the%20Study%20of%20History%20and%20Cultural%20Dynamics][A Virtual Laboratory for the Study of History and Cultural Dynamics]]         :primary:jasss:
+*** [[file:suarezz_sancho_virtual_lab_cultural_dynamics.org::*A%20Virtual%20Laboratory%20for%20the%20Study%20of%20History%20and%20Cultural%20Dynamics][A Virtual Laboratory for the Study of History and Cultural Dynamics]]                             :primary:jasss:
 *** [[file:amrutha_agent_routine_activity.org::*Agent%20Based%20Simulation%20of%20Routine%20Activity%20Theory][Agent Based Simulation of Routine Activity Theory]]
-*** [[file:hamill_abm_future.org::*Agent-Based%20Modelling:%20The%20Next%2015%20Years][Agent-Based Modelling: The Next 15 Years]]                                    :primary:jasss:
+*** [[file:hamill_abm_future.org::*Agent-Based%20Modelling:%20The%20Next%2015%20Years][Agent-Based Modelling: The Next 15 Years]]                                    :jasss:primary:
 *** [[file:treanor_ai_game_design_patterns.org::*Title:%20AI-Based%20Game%20Design%20Patterns][AI-Based Game Design Patterns]]                                     
 *** [[file:fioretti_lomi_garbage_can.org::*An%20Agent-Based%20Representation%20of%20the%20Garbage%20Can%20Model%20of%20Organizational%20Choice][An Agent-Based Representation of the Garbage Can Model of Organizational Choice]] :primary:jasss:
 *** [[file:an_invitation_to_grounded_theory.org::*Title:%20An%20Invitation%20to%20Grounded%20Theory][An Invitation to Grounded Theory]]                                  
