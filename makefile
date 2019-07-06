@@ -4,7 +4,6 @@ post:
 
 tags:
 	mkdir tags
-	touch tags/index.html
 	python _python_utils/tag_gen.py
 
 clean:

@@ -60,7 +60,27 @@ def write_yaml_tag_file(dir,tag):
         f.write('---\n')
 
 
+def write_index_file(dir_name):
+    index_str = """---
+layout: default
+title: Tag Index
+---
+<h1> {{ page.title }} </h1>
+<ul>
+  {% assign sortedTags = site.tags | sort %}
+  {% for tag in sortedTags %}
+  <li>
+    <a class="mono" href="{{site.github.url}}/tags/{{tag[0]}}">#{{tag[0]}}</a>
+  </li>
+  {% endfor %}
+</ul>"""
+
+    with open(join(dir_name, "index.html"), 'w') as f:
+        f.write(index_str)
+
+
 if __name__ == '__main__':
     logging.info('Creating Tag Files')
     tagSet = load_all_posts(load_dir)
     make_tag_pages(tagSet)
+    write_index_file(save_dir)
