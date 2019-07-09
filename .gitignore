@@ -3,3 +3,4 @@ from_desktop
 .DS_Store
 *.pdf
 *.log
+other_files/auto/
