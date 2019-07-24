@@ -1592,72 +1592,73 @@
 ** [[file:workedExamples.org::*Racist%20Police%20Violence][Racist Police Violence]]                                                       :links:organisation:field:structure:systems:police:
 ** Raph Kosters Social Mechanics                                                :competition:systems:games:multiplayer:
 
-   | Multiplayer Type                 | Mechanics                      | Description                                             |
-   |----------------------------------+--------------------------------+---------------------------------------------------------|
-   | (True Single Player)             |                                |                                                         |
-   | 1 v self/system                  | Helping                        | Outgrowth of spectating. Advice and assistance          |
-   |                                  |                                |                                                         |
-   |----------------------------------+--------------------------------+---------------------------------------------------------|
-   | (Parallel Symmetric)             |                                |                                                         |
-   | 1 v system vs 1 v system         | Status                         |                                                         |
-   |                                  | Races                          |                                                         |
-   |                                  | Leaderboards                   |                                                         |
-   |                                  |                                |                                                         |
-   |----------------------------------+--------------------------------+---------------------------------------------------------|
-   | (Parallel asymmetric)            |                                |                                                         |
-   | 1 vs system, 1 vs another system | Tournaments                    |                                                         |
-   |                                  |                                |                                                         |
-   |----------------------------------+--------------------------------+---------------------------------------------------------|
-   | (Opposition)                     |                                |                                                         |
-   | 1 vs 1                           | Flower picking                 | Non-zero-sum resource consumption                       |
-   |                                  | Dot eating                     | Zero-sum resource consumption                           |
-   |                                  | Tug of War                     |                                                         |
-   |                                  | Handicapping                   |                                                         |
-   |                                  | Secrets                        |                                                         |
-   |                                  |                                |                                                         |
-   |----------------------------------+--------------------------------+---------------------------------------------------------|
-   | (Multifront opposition)          |                                |                                                         |
-   | 1 vs 1 vs 1... n                 | Last Man Standing              |                                                         |
-   |                                  | Bidding                        | Mediate status via rivalrous good                       |
-   |                                  | Booing                         | multiplayer "helping"                                   |
-   |                                  | Deception and Bluffing         |                                                         |
-   |                                  | 3rd Party Betting              |                                                         |
-   |                                  | Prisoners Dilemma              |                                                         |
-   |                                  | Gamesmaster Pattern            |                                                         |
-   |                                  |                                |                                                         |
-   |----------------------------------+--------------------------------+---------------------------------------------------------|
-   | (Small groups)                   |                                |                                                         |
-   | n vs n                           | Roles                          |                                                         |
-   |                                  | Hot potato / Ganging Up        |                                                         |
-   |                                  | Rituals                        | Transitions of State, Holidays, Religious               |
-   |                                  |                                | Marked with changes of uniform, gatherings, gifts       |
-   |                                  | Gifts                          | Transferring rivalrous good to another actor            |
-   |                                  | Reciprocity                    | Social expectation of a gift                            |
-   |                                  | Mentoring & Twinking           | Onboarding group members via gifting                    |
-   |                                  | Identity                       | Means of displaying status and role via rivalrous goods |
-   |                                  | Ostracism                      | Group removal via denial of common resources            |
-   |                                  |                                |                                                         |
-   |----------------------------------+--------------------------------+---------------------------------------------------------|
-   | Social Networks                  | Trust                          | Trust - Reputation - Faith                              |
-   |                                  | Guilds/Tribes                  |                                                         |
-   |                                  | Exclusivity                    | Manipulation of goods' values                           |
-   |                                  |                                |                                                         |
-   |                                  | Guild v Guild                  |                                                         |
-   |                                  | Trade and Contract             |                                                         |
-   |                                  |                                |                                                         |
-   |                                  | Elections                      |                                                         |
-   |                                  | Reputation, Influence and Fame |                                                         |
-   |                                  | Public Goods                   |                                                         |
-   |                                  | Tragedy of the Commons         |                                                         |
-   |                                  | Community                      |                                                         |
-   |                                  | Strategy Guides                | Transform of Rule-based secrets into public goods       |
-   |                                  | Teamwork                       |                                                         |
-   |                                  | Services                       |                                                         |
-   |                                  | Cheating                       |                                                         |
-   |                                  | Arbitrage                      |                                                         |
-   |                                  | Supply Chains                  |                                                         |
-   |                                  | User Generated Content         |                                                         |
-   |                                  | Griefing                       |                                                         |
+   | Multiplayer Type                 | Mechanics                      | Description                                             | Computational Notes      |
+   |----------------------------------+--------------------------------+---------------------------------------------------------+--------------------------|
+   | (True Single Player)             |                                |                                                         |                          |
+   | 1 v self/system                  | Helping                        | Outgrowth of spectating. Advice and assistance          | delegation / interaction |
+   |                                  |                                |                                                         | of activities.           |
+   |                                  |                                |                                                         | information sharing      |
+   |----------------------------------+--------------------------------+---------------------------------------------------------+--------------------------|
+   | (Parallel Symmetric)             |                                |                                                         |                          |
+   | 1 v system vs 1 v system         | Status                         |                                                         | Nominal, Ordinal         |
+   |                                  | Races                          |                                                         | First                    |
+   |                                  | Leaderboards                   |                                                         | Sorting,                 |
+   |                                  |                                |                                                         | Non-interfering          |
+   |----------------------------------+--------------------------------+---------------------------------------------------------+--------------------------|
+   | (Parallel asymmetric)            |                                |                                                         |                          |
+   | 1 vs system, 1 vs another system | Tournaments                    |                                                         | Ordered sequence of      |
+   |                                  |                                |                                                         | competitions             |
+   |----------------------------------+--------------------------------+---------------------------------------------------------+--------------------------|
+   | (Opposition)                     |                                |                                                         |                          |
+   | 1 vs 1                           | Flower picking                 | Non-zero-sum resource consumption                       | ordinals,                |
+   |                                  | Dot eating                     | Zero-sum resource consumption                           | resource generators      |
+   |                                  | Tug of War                     |                                                         | matched changes          |
+   |                                  | Handicapping                   |                                                         | modifiers                |
+   |                                  | Secrets                        |                                                         |                          |
+   |                                  |                                |                                                         |                          |
+   |----------------------------------+--------------------------------+---------------------------------------------------------+--------------------------|
+   | (Multifront opposition)          |                                |                                                         |                          |
+   | 1 vs 1 vs 1... n                 | Last Man Standing              |                                                         | contest rules            |
+   |                                  | Bidding                        | Mediate status via rivalrous good                       | ordering, rules, goods   |
+   |                                  | Booing                         | multiplayer "helping"                                   | information              |
+   |                                  | Deception and Bluffing         |                                                         | information              |
+   |                                  | 3rd Party Betting              |                                                         |                          |
+   |                                  | Prisoners Dilemma              |                                                         |                          |
+   |                                  | Gamesmaster Pattern            |                                                         |                          |
+   |                                  |                                |                                                         |                          |
+   |----------------------------------+--------------------------------+---------------------------------------------------------+--------------------------|
+   | (Small groups)                   |                                |                                                         |                          |
+   | n vs n                           | Roles                          |                                                         | action schemas           |
+   |                                  | Hot potato / Ganging Up        |                                                         | ownership                |
+   |                                  | Rituals                        | Transitions of State, Holidays, Religious               | transitions              |
+   |                                  |                                | Marked with changes of uniform, gatherings, gifts       |                          |
+   |                                  | Gifts                          | Transferring rivalrous good to another actor            |                          |
+   |                                  | Reciprocity                    | Social expectation of a gift                            |                          |
+   |                                  | Mentoring & Twinking           | Onboarding group members via gifting                    |                          |
+   |                                  | Identity                       | Means of displaying status and role via rivalrous goods |                          |
+   |                                  | Ostracism                      | Group removal via denial of common resources            |                          |
+   |                                  |                                |                                                         |                          |
+   |----------------------------------+--------------------------------+---------------------------------------------------------+--------------------------|
+   | Social Networks                  | Trust                          | Trust - Reputation - Faith                              |                          |
+   |                                  | Guilds/Tribes                  |                                                         |                          |
+   |                                  | Exclusivity                    | Manipulation of goods' values                           |                          |
+   |                                  |                                |                                                         |                          |
+   |                                  | Guild v Guild                  |                                                         |                          |
+   |                                  | Trade and Contract             |                                                         |                          |
+   |                                  |                                |                                                         |                          |
+   |                                  | Elections                      |                                                         | ordering, rules, roles   |
+   |                                  | Reputation, Influence and Fame |                                                         |                          |
+   |                                  | Public Goods                   |                                                         |                          |
+   |                                  | Tragedy of the Commons         |                                                         |                          |
+   |                                  | Community                      |                                                         |                          |
+   |                                  | Strategy Guides                | Transform of Rule-based secrets into public goods       |                          |
+   |                                  | Teamwork                       |                                                         |                          |
+   |                                  | Services                       |                                                         |                          |
+   |                                  | Cheating                       |                                                         | norms, sanctions        |
+   |                                  | Arbitrage                      |                                                         |                          |
+   |                                  | Supply Chains                  |                                                         | sequences                |
+   |                                  | User Generated Content         |                                                         |                          |
+   |                                  | Griefing                       |                                                         |                          |
    
 
    | Tiers of Economy        |   |
@@ -2620,4 +2621,23 @@
     | Numbers     |         |
     | Saviour     |         |
     | History     |         |
+
+
+** Stevens Scales of Measurement
+
+   | Scale    | Measure Property           | Mathematical Operators | Advanced Operations | Central Tendency                         |
+   |----------+----------------------------+------------------------+---------------------+------------------------------------------|
+   | Nominal  | Classification, Membership | =, !=                  | Grouping            | Mode                                     |
+   |          |                            |                        |                     |                                          |
+   | Ordinal  | Comparison, Level          | <, >                   | Sorting             | Median                                   |
+   |          |                            |                        |                     |                                          |
+   | Interval | Difference, Affinity       | +, -                   | Yardstick           | Mean, Deviation                          |
+   |          |                            |                        |                     |                                          |
+   | Ratio    | Magnitude, Amount          | *, /                   | Ratio               | Geometric Mean, Coefficient of Variation |
+   |          |                            |                        |                     |                                          |
+   
+
+*** Mosteller and Tukey
+
+    Names, Grades, Ranks, Counted fractions, Counts, Amounts, Balances
 
