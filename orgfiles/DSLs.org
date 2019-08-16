@@ -1,0 +1,67 @@
+* DSLs
+** ABL                                                                          :behaviours:
+
+** AgentSpeak                                                                   :behaviours:
+
+** Archipoff2016
+
+** AspectJ                                                                      :aop:
+
+** BDL (Gemrot2017)                                                             :FSM:behaviours:
+
+** [[http://bloom-lang.net/features/][bloom]]                                                                        :concurrent:
+*** CALM: Consistency as Logical Monotonicity
+*** "Gray's Twelfth Challenge"
+    DWIM : Do What I Mean
+    Spec Language that:
+    1) Is Easy to express designs
+    2) Is Compilable
+    3) Can describe all applications
+
+    System should 'reason' about application:
+    Ask about exception cases
+    Ask about incomplete specification
+    Not be onerous
+
+*** Borges "A New Refutation of Time"
+    "The Denial of time involves two negations: The negation of the succession
+    of the terms of a series, negation of the synchronism of the terms in two
+    different series"
+
+*** Disorderly programming and datastructures
+
+** Bootstrapping (Konat2016)                                                    :meta:
+
+** C+                                                                           :logic:
+
+** Converge (tratt2007evolving)                                                 :embedding:
+
+** Erlang                                                                       :FSM:concurrent:
+
+** Exclusion Logic                                                              :exclusion:FSM:
+
+** Grammar Zoo (Zaytsev2015)                                                    :review:
+
+** Guidelines (Karsai2014)                                                      :guidelines:
+
+** Input/Ouput Logic                                                            :layers:
+
+** InstAL                                                                       :logic:
+
+** Language Workbench comparison (Erdweg2013)                                   :meta:
+
+** LARA                                                                         :aop:
+
+** Petricek2017a                                                                :dot:context:
+
+** POAPS (lin2016)                                                              :MDP:
+
+** PROB (gordon2014probabilistic)                                               :probability:
+
+** Rascal                                                                       :lisp:meta:
+
+** Siren                                                                        :pattern:time:music:
+
+** Tidal                                                                        :pattern:time:music:
+** SOAR                                                                         :chunking:
+** Tracery                                                                      :context:

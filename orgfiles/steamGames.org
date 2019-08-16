@@ -1,38 +1,34 @@
-* Steam Games list and notes
-  
+* Games list and notes
 ** 7 Grand Steps
+   
+** a valley without wind
    
 ** abyss odyssey
    
 ** AI War
    
-** Alien Isolation
-   
+** Alien: Isolation                :exploration:survival:institution:network:
 ** Amnesia
    
-** Analogue A Hate Story
-
+** Analogue: A Hate Story                             :institution:narrative:
 ** Anno 2070
 
 ** AntiChamber
    
 ** Artemis?
 
-   
 ** Assassins Creed 4
 
-** Baldur's Gate
-   
+** Baldur's Gate                       :institution:society:choice:narrative:
+** Banished                                                 :routine:society:
+   such simple and assumed uses of churches.
+
 ** Banner Sage
-   
 ** basement collection
    
 ** bastion
-
-** binding of isaac
-
+** Binding of Isaac                               :rules:survival:procedural:
 ** Bioshock(s)
-
 ** Blackwell
 
 ** blood bowl
@@ -45,27 +41,34 @@
    
 ** broken age
    
-** the cave
+** civ 5
    
+** Clockwork Empires                                        :society:routine:
 ** commander keen
    
 ** continue?987654321
 
+** Cosmonautica                         :rules:individuals:economics:network:
+** covert action
+   
 ** crazy plant shop
 would appear to be a genetic breeding program
 has punnett squares for genetic probabilties
 has a 'catcus'   
 
-
 ** cthulu saves the world
    
 ** cube & star
    
-** dark souls
-   
+** Dark Souls                                  :routine:exploration:survival:
+** [[https://www.filfre.net/2019/03/darklands/][Darklands]]
 ** darksiders
    
 ** darwinia
+   
+** dawn of war
+   
+** dawn of war 2
    
 ** daylight
    
@@ -79,78 +82,69 @@ has a 'catcus'
    
 ** demigod
    
-** democracy
-   
+** Democracy 2 - 3                         :network:rules:society:procedural:
 ** deus ex
    
 ** deus ex human revolution
    
-** the dig
+** Din's Curse       :narrative:society:institution:rules:procedural:routine:
+** dinner date
    
 ** dins curse
    
-** dinner date
-   
-** dishonoured
-
+** Dishonoured                                 :individuals:choice:narrative:
 ** distant worlds
    
+** Divinity                            :institution:society:choice:narrative:
 ** divinity original sin
    
 ** dlc quest
    
-** don't starve
-   
+** Don't Starve                     :survival:procedural:routine:exploration:
 ** dota
    
-** dragon age origins
-   
+** Dota 2                                        :institution:survival:rules:
+** Dragon Age                           :procedural:society:narrative:choice:
 ** dream
    
 ** dream machine
-   
-** dungeon of the endless
-   
+** Dungeon of the Endless     :procedural:survival:rules:exploration:routine:
 ** dungeons
 
 ** dungeons of dredmore
 
 ** dust an elysian tail
       
+** Dwarf Fortress                                :procedural:society:routine:
 ** dysfunctional system
    
-** dwarfs
-   
-** morrowind
-   
-** skyrim
+** Elder Scrolls            :choice:narrative:society:procedural:institution:
+** Endless Legend
+   Very interesting level of complexity on multiple levels.  Focuses
+   on resources as productive and time based things. (science,
+   industry, food) that can't be stored.
+   lots of change to the world map, lots of things to research. 
+   Diplomacy of absorbing minor factions into your own.
+   heroes to modify things
+   not enough evidence of the institutional changes, but still good.
    
 ** endless space
    
-** the escapists
-   
 ** eufloria hd
    
-** europa universalis
-   
+** Europa Universalis              :procedural:network:narrative:individuals:
 ** evoland
 
-** fable
-   
-** the fall
-   
-** fallout
-   
-** fallout3
-   
+** Fable                                :procedural:society:narrative:choice:
+** Fallout                                :choice:narrative:society:survival:
 ** fallout new vegas
-   
-** farcry2
+** fallout3
    
 ** farcry 3
    
 ** farcry blood dragon
    
+** farcry2
 ** fez
    
 ** finding teddy
@@ -163,8 +157,7 @@ has a 'catcus'
    
 ** frozen synapse
    
-** ftl
-   
+** FTL                         :procedural:choice:narrative:survival:network:
 ** fuel
    
 ** galactic civilisations 2
@@ -173,7 +166,7 @@ has a 'catcus'
    
 ** garrys mod
    
-**  gemini rue
+** gemini rue
  
 ** geneforge
    
@@ -189,11 +182,11 @@ has a 'catcus'
    
 ** gratuitous tank battles
    
-** the guild
-   
 ** gunpoint
    
 ** hack n slash
+   
+** heroes of might and magic
    
 ** hitman
    
@@ -205,8 +198,6 @@ has a 'catcus'
    
 ** i have no mouth and i must scream
    
-** van helsing
-   
 ** indiana jones and the fate of atlantis
    
 ** indigo prophecy
@@ -215,24 +206,26 @@ has a 'catcus'
    
 ** inquisitor
 
-** invisible inc
-
-** kentucky route zero
-   
+** Interstellaria
+** Invisible Inc           :institution:routine:network:economics:procedural:
+** Kentucky Route Zero                                            :narrative:
 ** kerbal space program
    
 ** kill the bad guy
    
-** the last federation
+** King of Dragon Pass                   :choice:society:network:institution:
+** knights of the old republic
    
-** l.a.noire
-   
+** LA Noire                            :narrative:choice:society:individuals:
+** Ladykiller in a bind                       :consent:institution:narrative:
 ** legend of grimrock
    
+** Lego Harry Potter                                    :institution:network:
 ** lifeless planet
    
 ** limbo
    
+** LISA                                    :narrative:society:rules:survival:
 ** little inferno
    
 ** little pink best buds
@@ -249,38 +242,39 @@ has a 'catcus'
    
 ** machinarium
    
-** magicka
-   
 ** mafia 2
 
+** magicka
+   
 ** maia
    
-** majesty2
-   
+** Maia                             :procedural:society:individuals:survival:
+** Majesty 2                         :society:institution:procedural:routine:
 ** mass effect 2
    
-** metro 2033
-   
-** shadow of mordor
-   
-** heroes of might and magic
+** Metal Gear Solid 5                                           :institution:
+** Metro 2033                                           :institution:network:
+** minecraft
    
 ** mini metro
    
-** mirrors edge
-   
 ** mirrormoon ep
+   
+** mirrors edge
    
 ** mnemonic
    
 ** monaco
    
+** morrowind
+   
 ** mountain
    
 ** nidhogg
    
-** noir syndrome
-   
+** Noir Syndrome                                          :procedural:murder:
+** [[file:~/github/otherLibs/Nomyx][Nomyx]]                                                                        :directory:meta:hofstadter:rules:haskell:
+*** [[http://nomyx.net/][Nomyx Game Site]]
 ** nuclear throne
    
 ** oddworld strangers wrath
@@ -297,22 +291,22 @@ has a 'catcus'
   
 ** papo and yo
    
-** the path
-   
 ** patrician 4
    
+** Pillars of Eternity                 :narrative:choice:institution:society:
+** Planescape Torment                  :narrative:choice:society:institution:
 ** planetary annihilation
    
-** poker night at the inventory
-   
 ** plants vs zombies
+   
+** poker night at the inventory
    
 ** portal
    
 ** post mortem
    
-** prison architect
-   
+** PostMortem: One Must Die                        :murder:society:narrative:
+** Prison Architect                          :procedural:routine:institution:
 ** project zomboid
    
 ** proteus
@@ -323,10 +317,10 @@ has a 'catcus'
    
 ** recettear
    
-** redshirt
-   
+** Redshirt                         :society:choice:network:procedural:rules:
 ** reignmaker
    
+** Reigns
 ** reus
    
 ** risen2
@@ -341,33 +335,32 @@ has a 'catcus'
    
 ** rock of ages
    
+** Rogue State                                     :narrative:society:choice:
+** [[http://www.roguebasin.com/index.php?title%3DMain_Page][Roguelike wiki]]
 ** rpg tycoon
-   
-** stalker
    
 ** saints row
    
 ** sam and max
    
-** scribblenauts
-   
 ** samarost
    
+** Satellite Reign                           :society:procedural:institution:
+** scribblenauts
+   
+** Shadow of Mordor            :narrative:institution:individuals:procedural:
 ** shadowrun
    
 ** shattered haven
    
-** the ship
-   
-** civ 5
-   
-** covert action
+** shogun2
    
 ** simcity 4
 
 ** sins of a solar empire
    
-** sir you are being hunted
+** Sir, You are being hunted                 :procedural:institution:society:
+** skyrim
    
 ** sokobond
    
@@ -377,11 +370,11 @@ has a 'catcus'
    
 ** space hulk
    
-** SPAZ
-   
 ** spacebase df-9
    
 ** spacecom
+   
+** SPAZ
    
 ** spec ops the line
    
@@ -389,11 +382,8 @@ has a 'catcus'
 
 ** splice
    
-** stacking
-   
-** the stanley parable
-   
-** knights of the old republic
+** Stacking                          :network:institution:procedural:society:
+** stalker
    
 ** starseed pilgrim
 
@@ -401,38 +391,63 @@ has a 'catcus'
    
 ** steam marines
    
-
 ** stranded
    
-** sunless sea
+** Suits: A Business RPG                              :narrative:institution:
+** Sunless Sea                                        :narrative:exploration:
    The Echo bazaar / Fallen London universe with steamships and simple
    exploration and combat works perfectly.  Having a physical
    presence, a reason for your limited social interactions, and the
    wide variety of places there are, reminds me of wind waker. The boat exploration in that is brilliant.
 
-
 ** super meat boy
-   
-** sword and sworcery
    
 ** surgeon simulator
    
 ** survivor squad
    
-** the swapper
+** sword and sworcery
    
 ** sword of the stars
    
-** the pit
-   
 ** system shock 2
    
+** Tales from the Borderlands                         :narrative:institution:
 ** teamfortress 2
    
 ** teleglitch
    
+** The Banner Saga                                                  :society:
+** the cave
+   
+** The Curious Expedition         :procedural:individuals:economics:survival:
+** the dig
+   
+** The Escapists                                        :routine:institution:
+** the fall
+   
+** the guild
+   
+** The Last Federation                 :network:economics:society:procedural:
+** the path
+   
+** the pit
+   
+** The Ship                                          :institution:procedural:
+** the sims
+   
+** the stanley parable
+   
+** the swapper
+   
+** the walking dead
+   
+** The Witcher                                 :narrative:choice:exploration:
+** the wolf among us
+   
 ** thief
    
+** This War of Mine                  :procedural:network:society:individuals:
 ** thomas was alone
    
 ** ticket to ride
@@ -443,78 +458,53 @@ has a 'catcus'
    
 ** torchlight
    
-** shogun2
-   
 ** transistor
    
 ** trine
    
-** tropico
-   
-** dwarf fortress
-   
+** Tropico                                               :procedural:society:
 ** type:rider
 
+** Tyranny                             :narrative:choice:society:institution:
+** Undertale                          :choice:narrative:survival:exploration:
 ** universe sandbox
    
-** unrest
-   
+** Unrest     :narrative:choice:society:institution:rules:routine:procedural:
 ** uplink
 
-** a valley without wind
-   
-** vampire the masquerade
+** URR                                           :routine:society:procedural:
+** Vampire TM:B                        :institution:society:narrative:choice:
+** van helsing
    
 ** victoria 2
    
 ** viscera cleanup detail
    
+** Viscera Cleanup Detail                               :institution:routine:
 ** vvvvv
    
 ** waking mars
-   
-** the walking dead
-   
-** dawn of war
-   
-** dawn of war 2
    
 ** wasteland
    
 ** wayward manor
    
+** [[https://www.rockpapershotgun.com/2019/03/21/french-revolutionary-judge-sim-we-the-revolution-is-out-now/][We. The Revolution]]                                                           :judge:court:look_into:game:rps:
+** [[https://www.rockpapershotgun.com/2019/03/23/make-friends-and-steal-their-mail-in-willowbrooke-post/][Willbrooke post]]                                                              :look_into:papers_please:rps:game:
+** Wind Waker
+   Boat exploration.
 ** windforge
    
-** the witcher
-   
-** the wolf among us
-   
+** Wolf Among Us                                                  :narrative:
 ** world of goo
    
 ** X rebirth
    
-** X-com classics
-   
 ** X-COM
    
-** zeno clash
+** X-com classics
    
-** the sims
-   
-** minecraft
-   
+** XCOM                              :individuals:network:procedural:routine:
+** XenoBloom                                  :institution:choice:procedural:
 ** Zeldas
-** Endless Legend
-   Very interesting level of complexity on multiple levels.  Focuses
-   on resources as productive and time based things. (science,
-   industry, food) that can't be stored.
-   lots of change to the world map, lots of things to research. 
-   Diplomacy of absorbing minor factions into your own.
-   heroes to modify things
-   not enough evidence of the institutional changes, but still good.
-   
-** Banished
-   such simple and assumed uses of churches.
-   
-** Wind Waker
-   Boat exploration.
+** zeno clash

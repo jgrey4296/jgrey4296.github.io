@@ -1,6 +1,4 @@
 * TODO [[file:SocialSituationNotes.org::*Social%20Situations][Social Situations]]
-** TODO
-   Datasets
 ** [[file:programNotes.org::*Program%20notes][Program notes]]
 ** TODO Unit Testing of writing?
    If i annotate sections with meta-data, I could write a unit testing framework for documents
@@ -67,8 +65,6 @@
    authority you have a say in
 
 ** [[file:softwarePossibilities.org::*Software%20Possibilities][Software Possibilities]]
-** TODO [[file:webLinks.org::*Web%20Links%20of%20interest%20from%20bookmarks][Web Links of interest from bookmarks]]
-** [[file:ipad_summary.org::*IPad%20Documents][IPad Documents]]
 ** [[file:naturalLanguageGrammar.org::*Natural%20Language%20Grammar][Natural Language Grammar]]
 ** [[file:behaviourErrors.org::*Typology%20of%20Behaviour%20Errors][Typology of Behaviour Errors]]
 ** [[file:shellAndModalSystems.org::*The%20Authoring%20Shell%20and%20Modal%20Systems][The Authoring Shell and Modal Systems]]
