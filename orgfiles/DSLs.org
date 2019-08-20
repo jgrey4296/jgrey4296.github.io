@@ -1,67 +1,293 @@
-* DSLs
-** ABL                                                                          :behaviours:
+* DSLs and Logics
+** DSLs
+*** ABL                                                                         :behaviours:
+*** ADICO                                                                       :rules:norms:
+*** AgentSpeak                                                                  :behaviours:
+*** Archipoff2016                                                               :frp:
+*** AspectJ                                                                     :aop:
+*** BDL (Gemrot2017)                                                            :FSM:behaviours:
+*** [[http://bloom-lang.net/features/][bloom]]                                                                       :concurrent:
+**** CALM: Consistency as Logical Monotonicity
+**** "Gray's Twelfth Challenge"
+     DWIM : Do What I Mean
+     Spec Language that:
+     1) Is Easy to express designs
+     2) Is Compilable
+     3) Can describe all applications
 
-** AgentSpeak                                                                   :behaviours:
+     System should 'reason' about application:
+     Ask about exception cases
+     Ask about incomplete specification
+     Not be onerous
 
-** Archipoff2016
+**** Borges "A New Refutation of Time"
+     "The Denial of time involves two negations: The negation of the succession
+     of the terms of a series, negation of the synchronism of the terms in two
+     different series"
 
-** AspectJ                                                                      :aop:
-
-** BDL (Gemrot2017)                                                             :FSM:behaviours:
-
-** [[http://bloom-lang.net/features/][bloom]]                                                                        :concurrent:
-*** CALM: Consistency as Logical Monotonicity
-*** "Gray's Twelfth Challenge"
-    DWIM : Do What I Mean
-    Spec Language that:
-    1) Is Easy to express designs
-    2) Is Compilable
-    3) Can describe all applications
-
-    System should 'reason' about application:
-    Ask about exception cases
-    Ask about incomplete specification
-    Not be onerous
-
-*** Borges "A New Refutation of Time"
-    "The Denial of time involves two negations: The negation of the succession
-    of the terms of a series, negation of the synchronism of the terms in two
-    different series"
-
-*** Disorderly programming and datastructures
-
-** Bootstrapping (Konat2016)                                                    :meta:
-
-** C+                                                                           :logic:
-
-** Converge (tratt2007evolving)                                                 :embedding:
-
-** Erlang                                                                       :FSM:concurrent:
-
-** Exclusion Logic                                                              :exclusion:FSM:
-
-** Grammar Zoo (Zaytsev2015)                                                    :review:
-
-** Guidelines (Karsai2014)                                                      :guidelines:
-
-** Input/Ouput Logic                                                            :layers:
-
-** InstAL                                                                       :logic:
-
-** Language Workbench comparison (Erdweg2013)                                   :meta:
-
-** LARA                                                                         :aop:
-
-** Petricek2017a                                                                :dot:context:
-
-** POAPS (lin2016)                                                              :MDP:
-
-** PROB (gordon2014probabilistic)                                               :probability:
-
-** Rascal                                                                       :lisp:meta:
-
-** Siren                                                                        :pattern:time:music:
-
-** Tidal                                                                        :pattern:time:music:
-** SOAR                                                                         :chunking:
-** Tracery                                                                      :context:
+**** Disorderly programming and datastructures
+*** Bootstrapping (Konat2016)                                                   :meta:
+*** Buzz                                                                        :swarm:robotics:
+*** C+                                                                          :logic:
+*** Ceptre                                                                      :linear_logic:
+*** ChucK                                                                       :time:music:
+*** CLIPS                                                                       :rules:
+*** Converge (tratt2007evolving)                                                :embedding:
+*** COOL                                                                        :MAS:coordination:
+*** ELMS                                                                        :environment:MAS:
+*** Erlang                                                                      :FSM:concurrent:
+*** Exclusion Logic                                                             :exclusion:FSM:
+*** Grammar Zoo (Zaytsev2015)                                                   :review:
+*** Guidelines (Karsai2014)                                                     :guidelines:
+*** HLBL                                                                        :behaviours:
+*** Hyper                                                                       :types:
+*** Input/Ouput Logic                                                           :layers:
+*** InstAL                                                                      :logic:
+*** Language Workbench comparison (Erdweg2013)                                  :meta:
+*** LARA                                                                        :aop:
+*** Petricek2017a                                                               :dot:context:
+*** POAPS (lin2016)                                                             :MDP:
+*** PROB (gordon2014probabilistic)                                              :probability:
+*** Rascal                                                                      :lisp:meta:
+*** Reo                                                                         :time:concurrent:
+*** Siren                                                                       :pattern:time:music:
+*** SOAR                                                                        :chunking:
+*** Stan                                                                        :probability:
+*** Tidal                                                                       :pattern:time:music:
+*** Tracery                                                                     :text:
+** Logics 
+*** Abductive Logic
+*** Acceptance Logic
+*** Action Logic
+*** Adaptive Deontic Logic
+*** Adaptive Logic
+*** Agent Organization Logic
+*** Alternating Temporal Logic
+*** BDI STIT Logic
+*** CHBDO Logic
+*** Coalition Logic
+*** Combinatory Logic
+*** Computational Logic
+*** Connective Action Logic
+*** Context Logic
+*** Cultural Logic
+*** Defeasible Logic
+*** Delegation Logic
+*** Deontic Logic
+*** Dependence Logic
+*** Description Logic
+*** Dialogue Logic
+*** Economic Logic
+*** Emerging Logic
+*** Epistemic Logic
+*** Exclusion Logic
+*** Failure Logic
+*** Fuzzy Logic
+*** General Awareness Logic
+*** Herbrand Logic
+*** Hybrid Logic
+*** Ignorance Logic
+*** Imperative Logic
+*** Inductive Logic
+*** Institutional Logic
+*** Interaction Logic
+*** Intuitionistic Logic
+*** IO Logic
+*** Linear Logic
+*** Linear Temporal Logic
+*** Mathematical Logic
+*** Modal Logic
+*** Neighbourhood Logic
+*** Normative Logic
+*** Operational Logic
+*** Order Sorted Logic
+*** Ordered Choice Logic
+*** Procedural Logic
+*** Propositional Dynamic Logic
+*** Rational Agency Logic
+*** Social Logic
+*** Spatial Logic
+*** STIT Logic
+*** Temporal Logic
+*** Tool Logic
+** Calculi
+*** Coeffect Calculus
+*** Concurrent Layer Calculus
+*** Event Calculus
+*** Object Calculus
+*** Record Calculus
+*** Sequent Calculus
+*** Situation Calculus
+*** λ Calculus
+*** π Calculus
+*** ρ Calculus
+** Frameworks
+*** 2APL
+*** 2OPL
+*** 3APL
+*** ACT-IF
+*** ADICO
+*** ADICO
+*** AGRE
+*** ANTLR
+*** BDI
+*** BOD
+*** BOID
+*** BORG
+*** C Plus
+*** CADIA Populus
+*** CArtAgO
+*** CBR
+*** DESIRE
+*** DETT
+*** DReAM
+*** FAtiMA
+*** FFIPS
+*** FIPA
+*** FSM
+*** garbage can model
+*** HTN
+*** IAD
+*** KQML
+*** L.I.A.R
+*** MAPL
+*** Markov Models
+*** MHP
+*** MOISE
+*** MONAD
+*** Netlogo
+*** OperA
+*** ORA4MAS
+*** PDDL
+*** Petri Nets
+*** PIM
+*** Prometheus
+*** QUEST
+*** ROADMAP
+*** SCIFF
+*** Scythe
+*** SIMPLE
+*** STRIPS
+*** TOGA
+*** Tracery
+*** UML
+*** VIATRA
+** Systems
+*** AARON
+*** ACME
+*** ACT-R
+*** AESOP
+*** AKIRA
+*** ALEC
+*** ALLIANCE
+*** AMELI
+*** ATOMate
+*** AUDIOGRAPH
+*** BACON
+*** Bad News
+*** BEHAVEngine
+*** BRIDGE
+*** BUILD IT
+*** CCalc
+*** Ceptre
+*** CHARMS
+*** CHARON
+*** Chimeria
+*** CiF
+*** CLARION
+*** Click2Tag
+*** CLIPS
+*** CopyCat
+*** CRYSTAL ISLAND
+*** DEMAIS
+*** ELIZE
+*** EMIL
+*** EMPath
+*** Expressionist
+*** Fabulist
+*** Facade
+*** Fast Forward
+*** FearNot
+*** GAIA
+*** GAMUT
+*** Gemini
+*** GESTER
+*** GrACE
+*** GrailGM
+*** GRIOT
+*** HARMONIA
+*** Hennepin
+*** Ikon Flux
+*** IMMERSE
+*** INGENIAS
+*** InstAL
+*** ISLANDER
+*** Islanders
+*** JASON
+*** JESS
+*** LIDA
+*** LINUS
+*** MACSYMA
+*** MAIA
+*** MaNEA
+*** MAPSIM
+*** MASELTOV
+*** MetaPRL
+*** MINSTREL
+*** MULTIS
+*** MYCIN
+*** NAMS
+*** NARS
+*** NATYASASTRA
+*** NERO
+*** OBELIX
+*** ORIENT
+*** OSCAR
+*** PARAGon
+*** PaSSAGE
+*** PDT
+*** PECS
+*** PLASMA
+*** Prolog
+*** PRS
+*** RASCAL
+*** RECALL
+*** SAGE
+*** SCHEHERAZADE
+*** Sheldon County
+*** SHRDLU
+*** SOAR
+*** SODA
+*** SQUEGE
+*** SugarScape
+*** TABASCO
+*** TACT
+*** Tale-Spin
+*** Talk of the Town
+*** Tanagra
+*** Tidal
+*** TLTS
+*** TOAST
+*** TRIPS
+*** TropICAL
+*** TROPOS
+*** Twig
+*** Versu
+*** Villanelle
+** Methods
+*** ABM
+*** Activity theory
+*** AOP
+*** Ethnography
+*** GOMS
+*** GORMAS
+*** Grounded Theory
+*** Literate Programming
+*** MaSE
+*** MCDM
+*** MCRDR
+*** MDE
+*** MODM
+*** ODD
+*** Questions Options Criteria
+** Tools
