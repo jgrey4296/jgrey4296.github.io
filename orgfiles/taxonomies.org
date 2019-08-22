@@ -2622,7 +2622,6 @@
     | Saviour     |         |
     | History     |         |
 
-
 ** Stevens Scales of Measurement
 
    | Scale    | Measure Property           | Mathematical Operators | Advanced Operations | Central Tendency                         |
@@ -2641,3 +2640,4 @@
 
     Names, Grades, Ranks, Counted fractions, Counts, Amounts, Balances
 
+** [[https://en.wikipedia.org/wiki/List_of_human_positions][Wiki Body Positions]]
