@@ -1,18 +1,246 @@
 * Probability
+  :Citations:
+  Lehman2017
+  Bird2005
+  Downey2013
+  DeGroot2002
+  Stroud2013Engineering
+  :END:
 
-bayesian classifiers
-http://slatestarcodex.com/2014/04/28/the-control-group-is-out-of-control/
+  #+begin_src python :results value
+  from fractions import Fraction as f
+  p = f(1,12)
+  return (600 * p)
+  #+end_src
+
+** Expectation || Likelihood                                                    :expectation:
+   E = N * P(A)
+   So comparing two different hypotheses:
+   E1 = N * P(A)
+   E2 = N * P(B)
+   N Cancels out in the ratio:
+   E1 / E2 = P(A) / P(B)
+
+** Empirical Probability vs Expectation
+   Empirical Probability of an event occurring is number of successes / num of trials
+   Expectation is probability of an event * number of trials
+
+** Complements Sum to 1
+   P(A) + P(not A) = 1
+
+** Cumulative Proportion
+   With a deck of cards:
+   1) Shuffle
+   2) Deal 12
+   3) Count Spades
+   4) Return
+   5) Repeat
+
+      | Trial | Spades | Cumulative | Running |           |
+      |       |        |     Spades | Average |           |
+      |-------+--------+------------+---------+-----------|
+      |     1 |      2 |          2 |     2.0 |         2 |
+      |     2 |      5 |          7 |     3.5 |       3.5 |
+      |     3 |      0 |          7 |    2.33 | 2.3333333 |
+      |   ... |    ... |        ... |     ... |           |
+      |       |        |            |         |           |
+      #+TBLFM: $5=$3 / $1
+
+      Running Average = Cumulative Spades  / Num Trials
+
+      With 13 spades in a deck, that makes the probability 13/52 = 1/4
+      So expectation in any 12 card sample is 12 * 1/4 = 3
+
+** Classical Probability
+   P(A) = number of ways A can occur
+   -------------------------
+   Total number of all possible outcomes
+
+** Addition Law of Probability                                                  :or:law:
+   Two mutually exclusive events have the probability of occurring:
+   P(A) = x/n
+   P(B) = y/n
+   P(A or B) = (x+y)/n = (x/n) + (y/n) = P(A) + P(B)
+
+   Two non-exclusive events have the probability of occurring:
+   P(A or B) = P(A) + P(B) - P(A and B)
+   -P(A and B) so as to not count duplicates
+
+** Multiplication Law of Probability                                            :and:law:
+   Independent Events:
+   P(A and B) = P(A) * P(B)
+
+   Dependent Events:
+   P(A and B) = P(A) * P(B|A)
+
+** Permutations and factorial
+   Permutation of ^nP⌄r where *Order is Important*:
+   n! / (n-r)!
+
+   ^10P⌄4:
+   #+begin_src python :results value
+   from math import factorial as f
+   return (f(10) / f(10-4))
+   #+end_src
+
+   Combination of ^nC⌄r where *Order is Irrelevant^
+   Also as (N choose r)
+   n! / ((n-r)! * r!)
+
+   (10 choose 6)
+   #+begin_src python :results value
+     from math import factorial as f
+     return f(10) / (f(10-6) * f(6))
+   #+end_src
+
+   #+RESULTS:
+   : 210.0
+
+** Binomial Distribution                                                        :discrete:distribution:
+   Dealing with successes vs failures of an event happening.
+   eg: Rolling a 6 = Success
+
+   If  p = P(A)
+   and q = P(not A)
+   In N trials, P(n q's) = q^n
+   P(r successes in n trials) = (n!/(n-r)!r!) q^(n-r) p^r
+   or:
+   P(r in n) = (n choose r) q^(n-r) p^r
+
+
+   So if P(A)  = 1/8 = p
+   and   P(¬A) = 7/8 = q
+   n = 6
+   Num Trials = 5000
+
+   | Num Sucesses: (x)  |      0 |           1 |              2 |              3 |              4 |         5 |      6 |
+   |--------------------+--------+-------------+----------------+----------------+----------------+-----------+--------|
+   | P                  |    q^6 |      6q^5 p |      15q^4 p^2 |      20q^3 p^3 |      15q^2 p^4 |  6q^1 p^5 |    p^6 |
+   |                    | 7^6/8^ | (6*7^5)/8^6 | (15 * 7^4)/8^6 | (20 * 7^3)/8^6 | (15 * 7^2)/8^6 | (6*7)/8^6 |  1/8^6 |
+   |                    |        |             |                |                |                |           |        |
+   |                    | 0.4488 |      0.3847 |         0.1374 |         0.0262 |         0.0028 |    0.0002 | 0.0000 |
+   | f (num trials * p) |   2244 |        1924 |            687 |            131 |             14 |         1 | 0     |
 
 
 
-** Set Pattern Recognition and Machine Learning
 
-** Basic definitions:
+   #+begin_src python :results value
+     from math import factorial as f
+     from math import pow as p
+     def binomial(a, b):
+         return f(a)/(f(a-b)*f(b))
+   #+end_src
+
+   #+begin_src python :results value
+     from math import factorial as f
+     from math import pow
+
+     def prob(a, b, c, p1, p2):
+         return a * pow(p1, b) * pow(p2, c)
+
+     return prob(6, 5, 1, 7/8, 1/8)
+   #+end_src
 
 
+   Theoretical Frequency from a distribution:
+   f = num_trials * p
 
-*** Sum Rule:
-*** Product Rule:
-*** Bayes Rule:
+   Therefore P = f / num_trials
 
-*** Implications of Bayes:
+** Mean and Standard Deviation of a Probability Distribution                    :statistics:
+   Empirical: m and s
+   Theoretical: μ and σ
+
+   μ = Σ(fx) / num_trials
+   ..= Σ((f / num trials) * x)
+   ..= Σ(Px)
+
+   #+begin_src python :results value
+     def mu(ps, xs):
+         return sum([p*x for p,x in zip(ps, xs)])
+
+     return mu([0.4488, 0.3847, 0.137, 0.0262, 0.0028, 0.0002, 0],
+               [0, 1, 2, 3, 4, 5, 6])
+   #+end_src
+
+   So the table above has μ = 0.750
+
+   μ = n * p
+   σ = sqr(npq)
+
+   For n = number possible outcomes in a single trial
+   ....p = probability of success in a single trial
+   ....q = probability of failure in any single trial
+
+   #+begin_src python :results output
+     from math import sqrt
+     def mu_alt(n, p):
+         return n * p
+
+     def sigma(n, p, q):
+         return sqrt(n*p*q)
+
+     print("Table μ = {}".format(mu_alt(6, 1/8)))
+     print("Table σ = {}".format(sigma(6, 1/8, 7/8)))
+   #+end_src
+
+** Poisson Distribution                                                         :discrete:distribution:
+   
+   P(x=r) = (e^-μ * μ^r) / r!
+   
+   μ = mean
+   r = number of successes
+   Total Poisson P = 1
+
+   Useful for P(Success) is small and num_trials is large
+   For 50 <= n and p < 1/10: poisson approximates binomial
+
+   So for:
+   n = 60
+   p = 2/100 = 0.02
+   μ = np = 60 * 0.02 = 1.2
+   P(x=3) = 0.0867
+
+   #+begin_src python :results output
+     from math import e
+     from math import factorial as f
+     def poisson(mean, successes):
+         numerator = pow(e, -mean,) * pow(mean, successes)
+         denominator = f(successes)
+         return numerator / denominator
+
+     print(poisson(1.2, 3))
+   #+end_src
+
+   #+RESULTS:
+   : 0.0867439330307142
+
+** Normal Distribution                                                          :continuous:distribution:
+   a = 1/(σ sqrt(2π))
+   b = -1/2 (x-μ)^2  / σ^2
+   y = a * e^b
+
+   Use *Standard Normal Variable*:
+   z = x-μ / σ
+
+   #+begin_src python :results value
+     def z(x, mu, sigma):
+         return (x-mu) / sigma
+   #+end_src
+
+
+   
+   Convert to standard normal curve using
+   the probability density function Φ(z):
+   y = Φ(z) = 1/sqr(2π) * e^(-z^2 / 2)
+
+   (plotting standard normal curve is z horizontal, y vertical)
+   Properties:
+   1) μ = 0
+   2) z values are in standard deviation units
+   3) Total area under curve = 1 for infinite bounded z
+   4) Area between z=a and z=b is P(a<=z<=b)
+   5) P(-1<=z<=1) = 0.6827
+      P(-2<=z<=2) = 0.9545
+      P(-3<=z<=3) = 0.9973
+   
