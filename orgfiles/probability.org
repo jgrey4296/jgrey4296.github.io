@@ -4,7 +4,7 @@
   Bird2005
   Downey2013
   DeGroot2002
-  Stroud2013Engineering
+  Stroud2001
   :END:
 
   #+begin_src python :results value
@@ -13,6 +13,14 @@
   return (600 * p)
   #+end_src
 
+** Interpretations of Probability
+*** Frequentist
+    Relative Frequency of an outcome in repeated trials
+*** Classical
+    Equally Likely Outcomes 
+    P(A) = number of ways A can occur / total number of possible outcomes
+*** Subjective
+    A personal assignment of likelihood, rather than a 'true' probability
 ** Expectation || Likelihood                                                    :expectation:
    E = N * P(A)
    So comparing two different hypotheses:
@@ -21,9 +29,8 @@
    N Cancels out in the ratio:
    E1 / E2 = P(A) / P(B)
 
-** Empirical Probability vs Expectation
-   Empirical Probability of an event occurring is number of successes / num of trials
-   Expectation is probability of an event * number of trials
+   Empirical P(A) = num_A / num_trials
+   Expectation(A) = P(A) * num_trials
 
 ** Complements Sum to 1
    P(A) + P(not A) = 1
@@ -51,19 +58,16 @@
       With 13 spades in a deck, that makes the probability 13/52 = 1/4
       So expectation in any 12 card sample is 12 * 1/4 = 3
 
-** Classical Probability
-   P(A) = number of ways A can occur
-   -------------------------
-   Total number of all possible outcomes
-
 ** Addition Law of Probability                                                  :or:law:
-   Two mutually exclusive events have the probability of occurring:
+   Two *mutually exclusive* events have the probability of occurring:
    P(A) = x/n
    P(B) = y/n
    P(A or B) = (x+y)/n = (x/n) + (y/n) = P(A) + P(B)
 
-   Two non-exclusive events have the probability of occurring:
+
+   Two *non-exclusive* events have the probability of occurring:
    P(A or B) = P(A) + P(B) - P(A and B)
+   P(A ∪ B)  = P(A) + P(B) - P(A ∩ B)
    -P(A and B) so as to not count duplicates
 
 ** Multiplication Law of Probability                                            :and:law:
@@ -73,14 +77,14 @@
    Dependent Events:
    P(A and B) = P(A) * P(B|A)
 
-** Permutations and factorial
+** Permutations and factorial                                                   :factorial:permutation:foundation:
    Permutation of ^nP⌄r where *Order is Important*:
    n! / (n-r)!
 
    ^10P⌄4:
    #+begin_src python :results value
-   from math import factorial as f
-   return (f(10) / f(10-4))
+     from math import factorial as f
+     return (f(10) / f(10-4))
    #+end_src
 
    Combination of ^nC⌄r where *Order is Irrelevant^
@@ -122,8 +126,6 @@
    | f (num trials * p) |   2244 |        1924 |            687 |            131 |             14 |         1 | 0     |
 
 
-
-
    #+begin_src python :results value
      from math import factorial as f
      from math import pow as p
@@ -141,10 +143,8 @@
      return prob(6, 5, 1, 7/8, 1/8)
    #+end_src
 
-
    Theoretical Frequency from a distribution:
    f = num_trials * p
-
    Therefore P = f / num_trials
 
 ** Mean and Standard Deviation of a Probability Distribution                    :statistics:
@@ -229,7 +229,6 @@
    #+end_src
 
 
-   
    Convert to standard normal curve using
    the probability density function Φ(z):
    y = Φ(z) = 1/sqr(2π) * e^(-z^2 / 2)
@@ -243,4 +242,16 @@
    5) P(-1<=z<=1) = 0.6827
       P(-2<=z<=2) = 0.9545
       P(-3<=z<=3) = 0.9973
+   
+** Set Theory                                                                   :foundation:set:
+   Containment: A ⊂ B, B ⊃ A. ∅ ⊂ A
+   Union: A ∪ B. All elements of A or B or (A and B).
+   Intersection: A ∩ B. Only elements belonging to A and B.
+
+   De Morgan's Laws:
+   ¬(A ∪ B) = ¬A ∩ ¬B.
+   ¬(A ∩ B) = ¬A ∪ ¬B
+
+   
+   
    
