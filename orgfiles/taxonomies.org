@@ -1,5 +1,4 @@
 *  Taxonomies                                                                   :taxonomies:
-  #+BIBLIOGRAPHY: ~/github/writing/other_files/main_bibliography plain
 ** [[file:48laws.org::*48%20Laws%20of%20Power][48 Laws of Power]]                                                             :links:power:rules:
 ** [[file:pirateShip.org::*A%20Pirate%20Ship%20as%20an%20Institutional%20example][A Pirate Ship as an Institutional example]]                                    :links:routine:sanctions:
 ** A Taxonomy of Inference in Simulation Models                                 :simulation:model:inference:
