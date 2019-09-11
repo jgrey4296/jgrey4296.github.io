@@ -1,0 +1,75 @@
+* Methods notes
+** BOD
+   :citations:
+   cite:Bryson2001
+   :END:
+** Case study theory development
+   :citations:
+   cite:George2002
+   :END:
+
+** Computational Social Science
+   :citations:
+   cite:Epstein1999,Conte2012,Bharathy2010,epstein1996growing,meyer2009,Axelrod2005,hamill2010agent,Helbing2011
+   :END:
+** Economics
+   :citations:
+   cite:Varian2009
+   :END:
+** [[file:empiricalMethods.org::*Empirical%20Methods%20For%20AI%20notes][Empirical Methods For AI notes]]
+   :citations:
+   cite:cohen1995empirical
+   :END:
+
+** Formal Methods
+   :citations:
+   cite:Sun,agotnes_et_al:DR:2014:4797
+   :END:
+** Game Analysis
+   :citations:
+   cite:Aarseth2003,boellstorff2012ethnography
+   :END:
+** Generative Methods
+   :citations:
+   cite:Compton
+   :END:
+
+** Grounded Theory
+   :citations:
+   cite:Corbin1990,Strauss1998,Charmaz2006,bryant2007sage,Charmaz2009,furniss2011confessions,Jr2013,Mordatch2017,Flick2009,Whittle2010
+   :END:
+
+** Hypothesis testing for complex agents
+   :citations:
+   cite:JoannaJ.
+   :END:
+** Live Coding
+   :citations:
+   cite:Sorenson2007,McLean2014
+   :END:
+** TODO MAS
+*** MOISE
+*** PRESAGE
+*** ODD
+*** Prometheus
+
+** MCDM
+   :citations:
+   cite:Zavadskas2014,Mabin2006,Hwang1979,Triantaphyllou1998,Figueria2005,Scirea2017
+   :END:
+** Ostrom
+   :citations:
+   cite:Ostrom
+   :END:
+
+** Phenomenology
+   :citations:
+   cite:rubin1998phenomenology,Worthington2009,Mallon2005,Duffy2011,Breakwell2008,Agre1997a
+   :END:
+** Sociologically Inspired Computing
+   :citations:
+   From cite:Macbeth2014
+   Using cite:Jones2013
+   and cite:Steels1995
+   cite:Dautenhahn2005a
+   :END:
