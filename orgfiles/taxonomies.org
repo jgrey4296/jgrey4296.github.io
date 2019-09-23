@@ -612,7 +612,7 @@
    |------------------------+------------------------+----------------------------|
    | norm-facts             | Biased Norm Perception | ?                          |
 
-** [[file:General_Games.org::*General%20Games%20and%20IF][General Games and IF]]                                                         :library:examples:games:links:
+** [[file:steamGames.org::*Games%20list%20and%20notes][Games list and notes]]                                                         :library:examples:games:links:
 ** Genre Taxonomy of Organizational Communication                               :questions:ontology:
    in Yoshioka and Herman: "Genre Taxonomy: A Knowledge Repository of Communicative Actions"
 *** 5W1H Questions
@@ -657,7 +657,7 @@
    |               | Deprecated       |             |
    |               | Exotic           |             |
    | Parsing       | Factoring        |             |
-   |               | 1SidedRecusion   |             |
+   |               | 1SidedRecursion  |             |
    |               | Superset         |             |
    |               | Shotgun          |             |
    |               | NoDefault        |             |
@@ -2004,8 +2004,8 @@
    | Expressive  |             |
    | Declarative |             |
 
-** [[file:SocialSituationNotes.org::*Social%20Situations][Social Situations]]                                                            :structure:
-** [[file:structuredSocialSituations2.org::*Social%20Situations%20structured%20by%20institutional%20focus][Social Situations structured by institutional focus]]                          :time:fligstein:norms:
+** TODO [[file:SocialSituationNotes.org::*Social%20Situations][Social Situations]]                                                       :structure:
+** TODO [[file:structuredSocialSituations2.org::*Social%20Situations%20structured%20by%20institutional%20focus][Social Situations structured by institutional focus]]                     :time:fligstein:norms:
 ** [[file:notebook_notes.org::*speech%20acts][speech acts]]                                                                  :links:speech_acts:
 ** Stand on Zanzibar                                                            :society:
 
@@ -2082,7 +2082,7 @@
    |                                                |                                     |                                         |
    
 ** TODO [[https://sites.ualberta.ca/~urban/Projects/English/Content/Structural_Analysis_2.htm][Structural Analysis Methods]]                                             :links:method:
-** [[file:structured_social_situtations.org::*Structured%20Social%20Situations][Structured Social Situations]]                                                 :sanctions:society:power:bureaucracy:norm_change:norms:
+** TODO [[file:structured_social_situtations.org::*Structured%20Social%20Situations][Structured Social Situations]]                                            :sanctions:society:power:bureaucracy:norm_change:norms:
 ** Suppression across different rule scenarios                                  :sanctions:rules:law:politics:
    In "The Empiricists Insurgency", Bermand and Matanock
 
