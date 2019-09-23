@@ -1,0 +1,66 @@
+* Institution Pipeline Concept
+** Imports                                                                      :python:
+** Params                                                                       :python:
+** -----------------------------------------------------------------------------
+** Components                                                                   :dsl:
+*** Languages
+*** Rule Layers
+*** Crosscuts
+*** Layer Agendas
+*** Carriers
+**** Activities
+**** Action Notations
+***** Instrumental
+***** Ritual / Symbolic
+***** Delegational / Division of Labour
+***** Erroneous Actions
+***** Observability
+***** Irrevocability
+***** Probability
+**** Artifacts
+**** Sanctions
+**** Values
+**** Organization Prototypes
+** -----------------------------------------------------------------------------
+** Timings                                                                      :dsl:
+*** Layer
+*** Activity
+**** Ritual
+*** Source Sink
+** Channels                                                                     :dsl:
+** Mappings                                                                     :dsl:
+** -----------------------------------------------------------------------------
+** Terminal Language                                                            :dsl:
+*** Sources and Sinks
+** Institution Interface                                                        :dsl:
+** -----------------------------------------------------------------------------
+** Testing
+*** Unit
+*** Situational
+*** Sandbox
+** -----------------------------------------------------------------------------
+** Non-Authored/Generated Elements                                              :generated:
+*** Group Organization
+    Hierarchy, Flat, Network etc
+    Decision Processes
+*** Non-instrumental action patterns
+    Task Interleaving
+    Time type
+*** Value and Sanction Hierarchy
+    Automatic/Manual
+    Transparent/Secret
+    Ex Ante / Ex Post
+    Centralized / Decentralized
+    Escalation of Violence
+*** Governance Specifics
+**** Admin
+**** Regulation
+**** Certification
+**** Information Dispersal
+**** Gatekeeping
+**** Enforcement
+*** Non-instrumental artifact usage
+    eg: Money
+*** Kosters Games
+** -----------------------------------------------------------------------------
+** Performative Outputs
