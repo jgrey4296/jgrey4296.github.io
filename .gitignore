@@ -3,5 +3,6 @@ from_desktop
 .DS_Store
 *.pdf
 *.log
-other_files/auto/
-other_files/years/auto/
+auto/
+old/
+to_clean/
