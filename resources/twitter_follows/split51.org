@@ -1,0 +1,103 @@
+|            User ID | Username        | Tags                           | Verified | Description                                                                      |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+| 761167885720956929 | commondefense   | politics                       | True     | A national grassroots movement of diverse veterans & military families           |
+|                    |                 |                                |          | mobilizing against Trump and his dangerous agenda #VetsVsHate #VetsAgainstTrump  |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|         2973484149 | FedeItaliano76  | art                            | False    | Poet, researcher. Recent books: Grand Tour (Hanser 2019) Translation & Geography |
+|                    |                 |                                |          | (Routledge 2016) Un esilio perfetto (Feltrinelli 2015) L'impronta (Aragno 2014)  |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+| 878739731219189761 | TrumpsAlert     | bot                            | False    | A bot tracking Trump family follow and unfollows, so we can try and figure out   |
+|                    |                 |                                |          | what is going on inside the White House.                                         |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+| 881566497495240704 | daily__hedgehog | animal                         | False    | hedgehogs, handpicked every morning 🌻                                           |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|             629133 | Psythor         | journalism, software           | True     | Freelance journalist for hire. Politics/Tech/Data Mashing/Bad Takes.             |
+|                    |                 |                                |          | Previously Editor of @GizmodoUK.  I made @TrumpsAlert.  Trustee @ConwayHall.     |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|           21330899 | eggboycolor     | games                          | False    | My name is Andy! I make games, cute art & pixels, and NES/GB homebrew stuff.     |
+|                    |                 |                                |          | Let's be friends! Past: Programmer on Flinthook, some other things.              |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|         3013691046 | PerlRegex       | bot                            | False    | Regular expression tweets specifically for Perl's regex implementation. From     |
+|                    |                 |                                |          | @JohnDCook.                                                                      |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|           16799897 | leighalexander  | games                          | False    | Award-winning writer & narrative designer (Reigns: Her Majesty/Game of Thrones,  |
+|                    |                 |                                |          | Love Island 2, others). Co-founder of upcoming Red Queens, with @betterthemask   |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|         2249452319 | cavegift        | games                          | False    | (they/she im bee) the 4 Gs: gay gamer girl gommunist. wordsmaker/gamesbreaker.   |
+|                    |                 |                                |          | let me put a poem in your game (avi by @lawful_awful !!!)                        |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|           60258809 | mjoelvoss       |                                | False    | Asst Prof @UToledo. Human Rights. International Institutions. Triathlete.        |
+|                    |                 | games                          |          | Runner. Gamer. Tweets are my own.                                                |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|         2314464974 | Oniropolis      | author                         | True     | Imaginary Cities @influxpress & @UChicagoPress Inventory Feb 2020 @ChattoBooks & |
+|                    |                 |                                |          | @fsgbooks Rep @EveWhiteAgency Writing 'The Future' & 'Architecture of Tyranny'   |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|          288575273 | JoshuaGrubbsPhD | cognitive_science, phd         | False    | Psychology prof and researcher; I study addiction, personality, and sex.  Most   |
+|                    |                 |                                |          | of my twitter is just really bad jokes.                                          |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|         1970799990 | DeathMedieval   | bot                            | False    | real deaths from medieval coroners' rolls                                        |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|          442237496 | KeeganMKey      | person                         | True     | I am a producer, actor and writer. Proud alum of The Second City, MADtv, Penn    |
+|                    |                 |                                |          | State and The University of Detroit-Mercy. Watch Friends from College on         |
+|                    |                 |                                |          | Netflix!                                                                         |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|         1723345232 | achakrava       | historian, professor           | False    | Associate professor @GUHistory. Brazil, Konkan, emotions history. Views mine.    |
+|                    |                 |                                |          | Fascists/supremacists blocked. RT=just RT. Poetry addict.                        |
+|                    |                 |                                |          | https://t.co/2doAu8eEdw                                                          |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+| 705800166867996672 | GlitchLogos     | bot                            | False    | A bot by @tinysubversions                                                        |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|          190685193 | AfricaACSS      | journalism                     | False    | Advancing African security by expanding understanding, providing a trusted       |
+|                    |                 |                                |          | platform for dialogue, building partnerships, and catalyzing solutions           |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+| 789232424194572288 | AdamHDomby      | professor, historian, politics | False    | Asst. Prof. of History at @CofC. I tweet about history, politics, & how the past |
+|                    |                 |                                |          | informs politics. Also dog pics. Views are my own. #twitterstorian               |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|          143375736 | ArturiaOfficial | music                          | True     | Arturia creates hardware and software instruments to help amateur and            |
+|                    |                 |                                |          | professional musicians release their creativity. #YourExperience #YourSound      |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|         2686785978 | colorpulp       | art                            | False    | idiot, writer/storyboarder, friend of small animals. i’d like to leave now. 🛸💫 |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|         3331619703 | econroykrutz    | historian                      | False    | Historian of religion, diplomacy & reform in the 19th c.  Author of Christian    |
+|                    |                 |                                |          | Imperialism: Converting the World in the Early American Republic (Cornell, 2015) |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|           35990109 | PattyJenks      | person                         | True     | Filmmaker                                                                        |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|         2162955902 | DaveASiegel     | politics, professor            | False    | Political scientist; recovering physicist; analyzer of group behavior; professor |
+|                    |                 |                                |          | of political science and public policy at @DukeU                                 |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|         2190619628 | FiraxisGames    | games                          | True     | The studio behind Civilization, XCOM, and Sid Meier's games!                     |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|         2393292558 | factbot1        | bot                            | False    | Interesting facts which might surprise and amaze you. One new fact every 4       |
+|                    |                 |                                |          | hours. archived at http://t.co/NC0HVa3fRn                                        |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|            8935052 | Aelkus          | ai, phd                        | False    | PhD student, @CSS_GMU. Work on strategy, simulation, agents. All tweets my own.  |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|         1951889575 | audiosampling   | music                          | False    | Dr. Ir. Stéphane Pigeon • https://t.co/5sgeVb5ogo • https://t.co/VnbPVyOtI2 •    |
+|                    |                 |                                |          | https://t.co/mFxsaeNYeW •  https://t.co/NaYTCUetzE •  https://t.co/Bk2BVJ6qcd    |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|            9475182 | pycon           | python                         | False    | PyCon is coming to Pittsburgh, PA on April 15-23, 2020.                          |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|         1334647314 | DSP_fact        | bot, sound, math               | False    | Digital signal processing, acoustics, Fourier analysis, etc.                     |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|         2889454495 | handmade_hero   | games                          | False    | A professional-quality game live-coded from scratch with full explanations of    |
+|                    |                 |                                |          | each step.  Programming by @cmuratori, art by @aerettberg and @yangtianli.       |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|          876624356 | ProcessingOrg   | software, art                  | False    | Official handle for the Processing Foundation. Chat with the community @         |
+|                    |                 |                                |          | https://t.co/Q0SCnph5dA                                                          |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|           23474239 | _dickie         | software                       | False    | aesthetic programmer, dyslexic. shaders, tools, and art stuff on #JohnWickHex    |
+|                    |                 | games                          |          | with Bithell Games. currently on my farewell EU tour                             |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|         1242188436 | HSPObservations | misc                           | False    | Notes from the life of an HSP, sensitive stuff & quotable quotes. Come, read,    |
+|                    |                 |                                |          | and share your experiences! http://t.co/2V7wbuodmm                               |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|            1717291 | pkedrosky       | person                         | True     | Ancient amateur. Partner at SK Ventures (https://t.co/4OpzXAzaoU).   You can     |
+|                    |                 |                                |          | subscribe to my frequently infrequent mailing list here https://t.co/eFFrgIuJX1  |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+|           14700316 | hrw             | politics                       | True     | Exposing #HumanRights abuses around the world. Join us to help end them!  Staff: |
+|                    |                 |                                |          | https://t.co/5K1Yz7Fa9P Instagram: https://t.co/fEBILoNRSv                       |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
+| 761645665948762112 | bunker_game     | games                          | False    | Deeply social massive multiplayer alternate history RPG in the post-apocalyptic  |
+|                    |                 |                                |          | Soviet Union world with permadeath and open market. Contact us: mail@bunker.game |
+|--------------------+-----------------+--------------------------------+----------+----------------------------------------------------------------------------------|
