@@ -1,9 +1,0 @@
-* Natural Language Grammar
-
-With a language corpus, learn n-grams, and map those n-grams
-to a trie. Let the use navigate the trie, pruning, tagging variables,
-annotating phrases, as they progress and search down the trie.
-Possibly focus on sentence level construction.
-
-Use the NYTimes and Guardian APIs for data. 
-
