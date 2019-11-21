@@ -34,12 +34,13 @@
      Collective: Scheme
      Individual: Mission
 
-     Goals (id, type: Achievement/maintenance, min_agents, plan). States: waiting, eeady, satisfied, impossible.
-     Scheme (id, goal, missions)
+     Goals (id, type: Achievement/maintenance, min_agents, plan). States:
+     waiting, ready, satisfied, impossible. Scheme (id, goal, missions)
      Missions (id, cardinality, goals)
 
 **** Norm Specification
-     Norm (id, type: obligation/permission, conditions, role, mission, time_constraint)
+     Norm (id, type: obligation/permission, conditions, role, mission,
+     time_constraint)
 
 **** Org Dynamics
      Creation,

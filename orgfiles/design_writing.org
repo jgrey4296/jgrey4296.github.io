@@ -926,7 +926,6 @@
       Condition-Rule-Action Edges Instantiation-Exclusion-Alternative edges
       FSM-Event-State edges Local-Rule edges Instantiation-Rule edges
 
-
 **** On Learning Haskell, Monads and Parsers in the right way
      While haskell is great, it is the wrong language to use to learn how to write
      haskell. Javascript is the *right* way to learn haskell, then you add types.
@@ -958,7 +957,6 @@
      need too many pairings to determine a rank
 
 *** Vault Sim Design Doc                                                        :design:
-
     A Fallout Shelter Simulation to bootstrap simulations and norms into
 **** Components
 ***** Vault

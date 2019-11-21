@@ -13,7 +13,6 @@
   return (600 * p)
   #+end_src
 
-  
 ** Axioms of Probability                                                        :law:axioms:
 
    1) ∀ A, P(A) ≥ 0
@@ -327,7 +326,7 @@
     By Law of Total Probability:
     P(A) = ΣP(Bⱼ)*P(A|Bⱼ)
 
-    As the k events are disjoint: 
+    As the k events are disjoint:
     P(A) = ΣP(Bⱼ ∩ A)
 
     So:
@@ -395,7 +394,7 @@
    They are *Pairwise Independent* if all but the last equation hold.
 
 ** Bayes' Theorem
-   
+
    For a set of events B₁..Bₖ that form a disjoint partition,
    and an event A then:
    P(Bᵢ|A) = P(Bᵢ)P(A|Bᵢ) / ΣP(Bⱼ)P(a|Bⱼ)
@@ -408,7 +407,7 @@
 
 *** Prior and Posterior Probability
     Prior Probability is P(Bᵢ): probability of an event before knowledge.
-    Posterior Probability is P(Bᵢ | A): probability of an event after knowledge gained. 
+    Posterior Probability is P(Bᵢ | A): probability of an event after knowledge gained.
 
 *** Multi Stage Bayes
     "If an Experiment is carried out in more than one stage,
@@ -417,7 +416,7 @@
 
     Uses Conditional Bayes, and updates priors to be the posteriors from the
     previous state
-    
+
     Given event H₁, P(B₁ | H₁) = x
     C ⇒ H₁
     P(B₁|H₁) ⇒ x
@@ -425,4 +424,42 @@
 
     Thus:
     P(B₁|H₁ ∩ H₂) = P(B₁|H₁)P(H₂|B₁ ∩ H₁) / P(B₁|H₁)P(H₂|B₁ ∩ H₁) + P(B₂|H₁)P(H₂|B₂ ∩ H₁)
-    
+
+
+* Statistics
+
+  The Spearman correlation coefficient gives a number from -1.0 to 1.0 comparing two rankings.
+  A coefficient of 1.0 indicates identical rankings; -1.0 indicates exact opposite rankings.
+
+
+  True Positive   (TP)
+  True Negative   (TN)
+  False Positive  (FP)
+  False Negative  (FN)
+
+  sensitivity / True Positive Rate:
+  TPR = TP/P = TP/(TP + FN)
+
+  Specificity / True Negative Rate:
+  SPC = TN/N = TN/(FP+TN)
+
+  Precision/ Positive Predictive Value
+  PPV = TP/(TP+FP)
+
+  Negative Predictive Value:
+  NPV = TN/(TN+FN)
+
+  Fall-out / False Positive Rate:
+  FPR = FP/N = FP/(FP+TN)
+
+  False Discovery rate:
+  FDR = FP(FP+TP) = 1 - PPV
+
+  Miss Rate / False Negative Rate:
+  FNR = FN/(FN+TP)
+
+  Accuracy:
+  ACC = (TP + TN) / (P + N)
+
+  F1 score:
+  F1 = 2TP/(2TP + FP + FN)
