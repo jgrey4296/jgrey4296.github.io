@@ -6,3 +6,5 @@ from_desktop
 auto/
 old/
 to_clean/
+*.tags
+/resources/tags/
