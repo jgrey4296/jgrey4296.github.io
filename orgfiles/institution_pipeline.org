@@ -19,7 +19,7 @@
     #+end_src
 
 ** -----------------------------------------------------------------------------
-** Languages                                                                    :base_definitions:macros:
+** Dialects                                                                     :macros:base_definitions:
    Define any DSL Syntax of the Institution on top of EL
    EL consists of: atoms."strings"!$variables
    Patterns are registered to double brackets.
