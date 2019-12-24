@@ -1597,6 +1597,8 @@
    | 1 v self/system                  | Helping                        | Outgrowth of spectating. Advice and assistance          | delegation / interaction |
    |                                  |                                |                                                         | of activities.           |
    |                                  |                                |                                                         | information sharing      |
+   |                                  |                                |                                                         | procedural knowledge     |
+   |                                  |                                |                                                         | perspectives             |
    |----------------------------------+--------------------------------+---------------------------------------------------------+--------------------------|
    | (Parallel Symmetric)             |                                |                                                         |                          |
    | 1 v system vs 1 v system         | Status                         |                                                         | Nominal, Ordinal         |
@@ -1653,7 +1655,7 @@
    |                                  | Strategy Guides                | Transform of Rule-based secrets into public goods       |                          |
    |                                  | Teamwork                       |                                                         |                          |
    |                                  | Services                       |                                                         |                          |
-   |                                  | Cheating                       |                                                         | norms, sanctions        |
+   |                                  | Cheating                       |                                                         | norms, sanctions         |
    |                                  | Arbitrage                      |                                                         |                          |
    |                                  | Supply Chains                  |                                                         | sequences                |
    |                                  | User Generated Content         |                                                         |                          |
