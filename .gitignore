@@ -9,3 +9,4 @@ to_clean/
 *.tags
 /resources/tags/
 /resources/tag_splits/
+years/auto/
