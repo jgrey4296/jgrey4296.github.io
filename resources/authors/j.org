@@ -1,6 +1,7 @@
 ** J
 
    Jaakkola                , Tommi S T.S.
+
    Jachimowicz             , Jon M
    Jackson                 , C Kirabo
    Jackson                 , Jonathan
@@ -11,16 +12,21 @@
    Jacoby                  , Christopher
    Jacq                    , Bernard
    Jacquemin               , Christian
+
    Jadhav                  , Sangeeta
    Jadhav                  , Sushrut
+
    Jafery                  , Khurram A
    Jaffe                   , Alexander Benjamin
+
    Jagadish                , H. V.
+
    Jain                    , L. C.
    Jain                    , Lakhmi
    Jain                    , Lakhmi C
    Jain                    , Lakhmi C.
    Jain                    , Tarun
+
    Jamatia                 , Anupam
    Jambon                  , Francis
    James                   , Bradley
@@ -29,6 +35,7 @@
    James                   , William
    Jamieson                , Kathleen Hall
    Jamison                 , Julian C
+
    Jan                     , Dušan
    Janin                   , David
    Jannach                 , Dietmar
@@ -38,29 +45,36 @@
    Janssens                , Cecile
    Janssens                , Wets
    Janus                   , Matthew
+
    Jardim                  , David
    Jarnfelt                , Patrick
    Jarvelainen             , H.
    Jarvis                  , Lee C.
    Jarvis                  , P
    Jarzabkowski            , Paula
+
    Jastrzembski            , Tiffany S
    Jastrzembski            , Tiffany S.
+
    Javan                   , M
    Javier                  , Vicente
+
    Jay                     , John
    Jayachandran            , Seema
    Jayakumar               , Uma
    Jayapalan               , Luke
+
    Jazairy                 , El Hadi
 
    Jebb                    , Susan
+
    Jeffers                 , Jessica
    Jeffers                 , Renia
    Jefferson               , Gail
    Jefferson               , Lara V.
    Jefferson               , Stanley
    Jeffrey                 , C
+
    Jenkins                 , Barry
    Jenkins                 , Henry
    Jenkins                 , Tricia
@@ -74,33 +88,45 @@
    Jensen                  , Keith
    Jensen                  , Martin Møller
    Jenson                  , Jennifer
+
    Jeong                   , Sarah
+
    Jerng                   , Mark C
+
    Jess                    , Tyehimba
    Jess                    , Tyhimba
+
    Jewell                  , Nicholas P
+
    Jezic                   , Gordan
 
    Jha                     , Saumitra
    Jhala                   , Arnav
 
    Jiang                   , Jie
+
    Jimenez-Ruiz            , Ernesto
    Jimènez                 , A C
    Jiménez-Leal            , William
+
    Jin                     , Jing
    Jin                     , Liang
    Jinkins                 , David
+
    Jirotka                 , Marina
    Jirsa                   , Viktor K.
 
    Jmaiel                  , M.
 
    Jo                      , Young
+
    Joachims                , Thorsten
+
    Joel                    , Xue
    Joerges                 , Bernward
+
    Joglekar                , Manas
+
    Johannesson             , M.
    Johannesson             , Mikael
    Johansen                , Emil
@@ -128,12 +154,17 @@
    Johnson                 , W Lewis
    Johnston                , Alastair , Ian
    Johnston                , Hannah Elizabeth Scott
+
    Joinson                 , Adam
    Joinson                 , Adam N
+
    Jokela                  , Mikko Zúñiga
+
    Joler                   , Vladan
    Joly                    , Arnaud
+
    Jomi                    , F H
+
    Jones                   , Andrew J. I.
    Jones                   , Calvert W.
    Jones                   , Graham M
@@ -152,9 +183,11 @@
    Jonker                  , Catholijn M
    Jonker                  , Catholijn M.
    Jonsdottir              , Gudny Ragna
+
    Jordan                  , Daniel S
    Jordan                  , Neil
    Jordan                  , Thomas J
+
    Jose                    , San
    Joseph                  , Bellal
    Josephson               , Paul R
@@ -164,26 +197,34 @@
    Joslin                  , Simon
    Joslyn                  , Cliff
    Josyula                 , Darsana
+
    Jouault                 , Frédéric
    Jouffe                  , Lionel
    Jouvin                  , Denis
+
    Joy-Gaba                , Jennifer A
    Joy-Gaba                , Jennifer A.
 
    Jr                      , Guy Lewis Steele
    Jr                      , Joseph J Laviola
    Jr                      , RA Altizer
+
    Jr.                     , Guy L. Steele
    Jr.                     , James W Ely
    Jr.                     , William Darity
 
    Juang                   , Biing Hwang
+
    Julien                  , Charles-Antoine
    Juli{\'a}n              , V
+
    Jung                    , In-sung
    Junker                  , Gregory
+
    Jurafsky                , Dan
+
    Juul                    , Jesper
+
    Juzeler                 , Hannah
 
    Jäntti                  , Markus
@@ -191,3 +232,4 @@
    Jégou                   , Hervé
 
    Jönsson                 , Christer
+   
