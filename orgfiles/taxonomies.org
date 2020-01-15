@@ -1586,6 +1586,9 @@
    
 ** [[https://github.com/App-vNext/Polly][Polly Fault Handling]]                                                         :failure:faults:retry:
 
+   (pause and resume? interleave?, fix issue, request maintenance...)
+   (how does this compare to ABL?)
+
    | Policy                         | Aka                                       | How does the policy mitigate?                                             | Premise                                                          |
    |--------------------------------+-------------------------------------------+---------------------------------------------------------------------------+------------------------------------------------------------------|
    | Retry (policy family)          | "Maybe it's just a blip"                  | Allows configuring automatic retries.                                     | Many faults are transient and                                    |
