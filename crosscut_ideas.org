@@ -84,5 +84,6 @@
     public goods, commons
     services
 ** Cycle
+** Lattice
 ** Database
 ** Delegation?
