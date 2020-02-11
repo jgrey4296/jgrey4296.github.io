@@ -388,7 +388,7 @@
    algorithm_watch                             : 1
    algorithmic_amplification                   : 1
    algorithmic_bias                            : 7
-   Algorithmic_composition                     : 1
+   Algorithmic_composition                     : 1 : algorithmic_composition
    algorithmic_curation                        : 1
    algorithmic_decision_making                 : 1
    algorithmic_manipulation                    : 1
