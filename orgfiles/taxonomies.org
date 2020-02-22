@@ -2198,7 +2198,52 @@
    | Income             | Profit Distribution                                          |
    | Exit               | Rules for termination of Holon, and initiator of termination |
    | Processing         | All of the above                                             |
-   
+
+   Design Parameters:
+   | Parameter                          | Possible Values                |
+   |------------------------------------+--------------------------------|
+   | Mechanism for Task Delegation      | Economic Exchange              |
+   |                                    | Gift exchange                  |
+   |                                    | Authority                      |
+   |                                    | Voting                         |
+   |------------------------------------+--------------------------------|
+   | Mechanism for Social Delegation    | Economic Exchange              |
+   |                                    | Gift Exchange                  |
+   |                                    | Authority                      |
+   |                                    | Voting                         |
+   |------------------------------------+--------------------------------|
+   | Membership Restrictions            | Exclusive membership           |
+   |                                    | Restriction on product         |
+   |                                    | None                           |
+   |------------------------------------+--------------------------------|
+   | Goal of Holon                      | One task                       |
+   |                                    | One product                    |
+   |                                    | All products                   |
+   |------------------------------------+--------------------------------|
+   | Set of Holon Heads                 | All subholons are head holons  |
+   |                                    | Some subholons are head holons |
+   |                                    | One subholon is head holon     |
+   |------------------------------------+--------------------------------|
+   | Profit Distribution                | Case by case negotiation       |
+   |                                    | Fixed share                    |
+   |                                    | Salary                         |
+   |------------------------------------+--------------------------------|
+   | Rules for Inclusion/Exclusion      | Consensus                      |
+   |                                    | Single vote                    |
+   |------------------------------------+--------------------------------|
+   | Decision maker for inclusion       | All or some subholons          |
+   | and exclusion                      | All head members               |
+   |------------------------------------+--------------------------------|
+   | Rules for termination of the holon | Automatic after task           |
+   |                                    | Veto                           |
+   |                                    | After payment or notice period |
+   |                                    | No termination                 |
+   |------------------------------------+--------------------------------|
+   | initiator for termination          | Consensus                      |
+   |                                    | Consensus among head members   |
+   |                                    | Any member or any head member  |
+
+
 ** Taxonomy of Database Sorting Algorithms                                      :layers:pipeline:sorting:query:questions:database:
    in Graefe "Query Evaluation Techniques for Large Databases"
 
