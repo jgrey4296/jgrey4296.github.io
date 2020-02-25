@@ -579,6 +579,8 @@
    certain kind, we can make the argument look good. We must publish both kinds
    of results."
 ** [[file:ds_9_episodes.org::*DS9%20Episodes][DS9 Episodes]]                                                                 :links:rules:tv_shows:
+** TODO [[http://erlang.org/doc/design_principles/des_princ.html#supervision-trees][Erlang Design Principles]]                                                :trees:division_of_labour:
+   Supervision Trees / Workers with behaviours
 ** [[file:examples_typology_notes.org::*Examples%20Typology][Examples Typology]]                                                            :links:examples:
 ** Fligstein                                                                    :crisis:governance:field:
 
@@ -921,6 +923,22 @@
    | regrettable mistake                      |             |
    | sabotage                                 |             |
    
+** [[http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/][Leverage Points]]                                                              :change:systems:systems_thinking:
+   Donna Meadows
+   (in increasing order of effectiveness)
+
+   (12) *Constants*, parameters, numbers (such as subsidies, taxes, standards).
+   (11) The *sizes* of buffers and other stabilizing *stocks*, relative to their flows.
+   (10) The *structure* of material stocks and *flows* (such as transport networks, population age structures).
+   (9)  The lengths of *delays*, relative to the rate of system change.
+   (8)  The *strength of negative feedback loops*, relative to the impacts they are trying to correct against.
+   (7)  The gain around driving *positive feedback loops*.
+   (6)  The structure of *information* flows (who does and does not have access to information).
+   (5)  The *rules* of the system (such as incentives, punishments, constraints).
+   (4)  The *power* to add, change, evolve, or self-organize system structure.
+   (3)  The *goals* of the system.
+   (2)  The mindset or *paradigm* out of which the system — its goals, structure, rules, delays, parameters — arises.
+   (1)  The power to *transcend paradigms*.
 ** Levinson and Brown's Politeness
 
    | Direction  | Strategy basis              | Strategy                                | Details                                  |
@@ -1566,6 +1584,37 @@
    | Neighbours reporting your wealth       |   |
    | Confiscation                           |   |
    
+** [[https://github.com/App-vNext/Polly][Polly Fault Handling]]                                                         :failure:faults:retry:
+
+   (pause and resume? interleave?, fix issue, request maintenance...)
+   (how does this compare to ABL?)
+
+   | Policy                         | Aka                                       | How does the policy mitigate?                                             | Premise                                                          |
+   |--------------------------------+-------------------------------------------+---------------------------------------------------------------------------+------------------------------------------------------------------|
+   | Retry (policy family)          | "Maybe it's just a blip"                  | Allows configuring automatic retries.                                     | Many faults are transient and                                    |
+   |                                |                                           |                                                                           | may self-correct after a short delay.                            |
+   |--------------------------------+-------------------------------------------+---------------------------------------------------------------------------+------------------------------------------------------------------|
+   | Circuit-breaker(policy family) | "Stop doing it if it hurts"               | Breaks the circuit (blocks executions) for a period,                      | When a system is seriously struggling,                           |
+   |                                | "Give that system a break"                | when faults exceed some pre-configured threshold.                         | failing fast is better than making users/callers wait.           |
+   |                                |                                           |                                                                           | Protecting a faulting system from overload can help it recover.  |
+   |--------------------------------+-------------------------------------------+---------------------------------------------------------------------------+------------------------------------------------------------------|
+   | Timeout                        | "Don't wait forever"                      | Guarantees the caller won't have to wait beyond the timeout.              | Beyond a certain wait, a success result is unlikely.             |
+   |--------------------------------+-------------------------------------------+---------------------------------------------------------------------------+------------------------------------------------------------------|
+   | Bulkhead Isolation             | "One fault shouldn't sink the whole ship" | Constrains the governed actions to a fixed-size resource pool,            | When a process faults, multiple failing calls                    |
+   |                                |                                           | isolating their potential  to affect others.                              | backing up can easily swamp resource (eg threads/CPU) in a host. |
+   |                                |                                           |                                                                           | A faulting downstream system can also cause                      |
+   |                                |                                           |                                                                           | 'backed-up' failing calls upstream.                              |
+   |                                |                                           |                                                                           | Both risk a faulting process bringing down a wider system.       |
+   |--------------------------------+-------------------------------------------+---------------------------------------------------------------------------+------------------------------------------------------------------|
+   | Cache                          | "You've asked that one before"            | Provides a response from cache if known.                                  | Some proportion of requests may be similar.                      |
+   |                                |                                           | Stores responses automatically in cache, when first retrieved.            |                                                                  |
+   |--------------------------------+-------------------------------------------+---------------------------------------------------------------------------+------------------------------------------------------------------|
+   | Fallback                       | "Degrade gracefully"                      | Defines an alternative value to be returned (or action to be executed) on | Things will still fail - plan what you will                      |
+   |                                |                                           | failure.                                                                  | do when that happens.                                            |
+   |--------------------------------+-------------------------------------------+---------------------------------------------------------------------------+------------------------------------------------------------------|
+   | PolicyWrap                     | "Defence in depth"                        | Allows any of the above policies to be combined flexibly.                 | Different faults require different strategies;                   |
+   |                                |                                           |                                                                           | resilience means using a combination.                            |
+   |--------------------------------+-------------------------------------------+---------------------------------------------------------------------------+------------------------------------------------------------------|
 ** Procedural Content Generation in Games                                       :procedural_content:games:
    Shaker, Togelius, Nelson
 
@@ -2083,6 +2132,24 @@
    |                                                |                                     |                                         |
    |                                                |                                     |                                         |
    
+** Stevens Scales of Measurement
+
+   | Scale    | Measure Property           | Mathematical Operators | Advanced Operations | Central Tendency                         |
+   |----------+----------------------------+------------------------+---------------------+------------------------------------------|
+   | Nominal  | Classification, Membership | =, !=                  | Grouping            | Mode                                     |
+   |          |                            |                        |                     |                                          |
+   | Ordinal  | Comparison, Level          | <, >                   | Sorting             | Median                                   |
+   |          |                            |                        |                     |                                          |
+   | Interval | Difference, Affinity       | +, -                   | Yardstick           | Mean, Deviation                          |
+   |          |                            |                        |                     |                                          |
+   | Ratio    | Magnitude, Amount          | *, /                   | Ratio               | Geometric Mean, Coefficient of Variation |
+   |          |                            |                        |                     |                                          |
+   
+
+*** Mosteller and Tukey
+
+    Names, Grades, Ranks, Counted fractions, Counts, Amounts, Balances
+
 ** TODO [[https://sites.ualberta.ca/~urban/Projects/English/Content/Structural_Analysis_2.htm][Structural Analysis Methods]]                                             :links:method:
 ** TODO [[file:structured_social_situtations.org::*Structured%20Social%20Situations][Structured Social Situations]]                                            :sanctions:society:power:bureaucracy:norm_change:norms:
 ** Suppression across different rule scenarios                                  :sanctions:rules:law:politics:
@@ -2544,6 +2611,8 @@
    |                |             |
    | Traditional    |             |
    
+** [[https://en.wikipedia.org/wiki/List_of_human_positions][Wiki Body Positions]]
+
 ** Wodak The Politics of Fear                                                   :society:social:law:argumentation:politics:
 
 *** The Political Field:
@@ -2623,22 +2692,3 @@
     | Saviour     |         |
     | History     |         |
 
-** Stevens Scales of Measurement
-
-   | Scale    | Measure Property           | Mathematical Operators | Advanced Operations | Central Tendency                         |
-   |----------+----------------------------+------------------------+---------------------+------------------------------------------|
-   | Nominal  | Classification, Membership | =, !=                  | Grouping            | Mode                                     |
-   |          |                            |                        |                     |                                          |
-   | Ordinal  | Comparison, Level          | <, >                   | Sorting             | Median                                   |
-   |          |                            |                        |                     |                                          |
-   | Interval | Difference, Affinity       | +, -                   | Yardstick           | Mean, Deviation                          |
-   |          |                            |                        |                     |                                          |
-   | Ratio    | Magnitude, Amount          | *, /                   | Ratio               | Geometric Mean, Coefficient of Variation |
-   |          |                            |                        |                     |                                          |
-   
-
-*** Mosteller and Tukey
-
-    Names, Grades, Ranks, Counted fractions, Counts, Amounts, Balances
-
-** [[https://en.wikipedia.org/wiki/List_of_human_positions][Wiki Body Positions]]

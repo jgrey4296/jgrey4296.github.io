@@ -1,0 +1,868 @@
+** d                                                                            :cleaned:
+   d3                                          : 28
+   d_and_d                                     : 11  : dungeons_and_dragons
+   d_lang                                      : 2
+   d_n_d                                       : 1   : dungeons_and_dragons
+   dACA                                        : 1   : DACA
+   daca                                        : 1   : DACA
+   DACA                                        : 4
+   dachau                                      : 1
+   daedelus                                    : 1
+   DAG                                         : 1
+   dagger                                      : 1
+   DAGS                                        : 1   : DAGs
+   DAGs                                        : 2
+   dagstuhl                                    : 7
+   DAI                                         : 1
+   daily_beast                                 : 5
+   daily_briefing                              : 1
+   daily_express                               : 1
+   daily_habits                                : 1
+   daily_kos                                   : 2
+   daily_life                                  : 3
+   daily_mail                                  : 7
+   daily_maverick                              : 1
+   daily_mirror                                : 1
+   daily_news                                  : 1
+   daily_patterns                              : 1
+   daily_wire                                  : 1
+   dailybeast                                  : 4
+   dailydot                                    : 1
+   dailykos                                    : 1
+   dailyprogress                               : 1
+   dailytelegraph                              : 1
+   dakota                                      : 5
+   dakota_access_pipeline                      : 3
+   dakota_county                               : 2
+   dalek                                       : 3
+   dallas                                      : 1
+   dallas_morning_news                         : 1
+   damage                                      : 1
+   dambulla                                    : 1
+   dame_dev                                    : 1   : game_dev
+   DAML                                        : 1
+   dams                                        : 2
+   damsl                                       : 10  : DAMSL
+   DAMSL                                       : 3
+   dance                                       : 12
+   dance_dance_revolution                      : 1
+   dancing                                     : 1
+   dancing_over_someones_grave                 : 1
+   dandong                                     : 1
+   dangerous_jobs                              : 1
+   danish                                      : 1
+   DAPL                                        : 1
+   DAR                                         : 1
+   dark                                        : 1
+   dark_ads                                    : 1
+   dark_age_of_camelot                         : 1
+   dark_ages                                   : 2
+   dark_constellations                         : 1
+   dark_money                                  : 1
+   dark_pattern                                : 1
+   dark_patterns                               : 5   : dark_pattern
+   dark_souls                                  : 12
+   dark_thoughts                               : 1
+   darklands                                   : 1
+   darksiders                                  : 1
+   darkwood                                    : 1
+   darpa                                       : 2 : DARPA
+   DARPA                                       : 4
+   dart                                        : 1
+   DARVO                                       : 2
+   DASSIE                                      : 1
+   data                                        : 82
+   data_analysis                               : 158
+   data_and_society                            : 1
+   data_breach                                 : 1
+   data_caps                                   : 1
+   data_collection                             : 1
+   data_creators                               : 1
+   data_cubes                                  : 1
+   data_dependence                             : 1
+   data_down_actions_up                        : 1
+   data_driven                                 : 3
+   data_driven_history                         : 1
+   data_exploration                            : 1
+   data_flow                                   : 4
+   data_for_progress                           : 3
+   data_format                                 : 2
+   data_game                                   : 1
+   data_games                                  : 1   : data_game
+   data_gardens                                : 1
+   data_hoarders                               : 1
+   data_integrity                              : 1
+   data_journalism                             : 6
+   data_laws                                   : 1
+   data_leaks                                  : 1
+   data_management                             : 1
+   data_minding                                : 1
+   data_mining                                 : 12
+   data_orientation                            : 1
+   data_our_selves                             : 1
+   data_presentation                           : 1
+   data_processing                             : 1
+   data_protection                             : 3
+   data_representations                        : 1
+   data_science                                : 26
+   data_sciene                                 : 1   : data_science
+   data_sets                                   : 95
+   data_sharing                                : 3
+   data_society                                : 5
+   data_storage                                : 2
+   data_structure                              : 2
+   data_structures                             : 34  : data_structure
+   data_text                                   : 1
+   data_visualisation                          : 43
+   database                                    : 43
+   databases                                   : 4   : database
+   databse                                     : 1   : database
+   datalexic                                   : 2
+   dataset                                     : 7
+   datasets                                    : 1   : dataset
+   datasociety                                 : 2 : data_society
+   dataviz                                     : 2 : data_visualisation
+   date_system                                 : 2
+   dates                                       : 1
+   datesets                                    : 1   : dataset
+   datetime                                    : 1
+   dating                                      : 11
+   dating_game                                 : 1
+   dating_sim                                  : 1 : dating_simulation
+   dating_sims                                 : 1   : dating_simulation
+   davidad                                     : 1
+   davitmasia                                  : 1
+   DAW                                         : 1
+   dawn_of_man                                 : 1
+   dawn_of_war                                 : 3
+   dayton                                      : 1
+   dayton_shooting                             : 1
+   DayZ                                        : 1
+   DBMS                                        : 1
+   DBR                                         : 1
+   dc                                          : 1   : DC
+   DC                                          : 3
+   DCGAN                                       : 1
+   DDA                                         : 3
+   DDE                                         : 1
+   DDLA                                        : 1
+   DDOS                                        : 1
+   DDoS                                        : 2   : DDOS
+   dea                                         : 4 : DEA
+   DEA                                         : 9
+   dead_space                                  : 2
+   deadlines                                   : 1
+   deadspin                                    : 1
+   deaf                                        : 5
+   deanonymization                             : 1
+   dear_abby                                   : 1
+   dear_esther                                 : 1
+   death                                       : 64
+   death_of_history                            : 1
+   death_panels                                : 1
+   death_penalty                               : 14
+   death_row                                   : 1
+   death_sentence                              : 1
+   death_stranding                             : 3
+   death_threats                               : 5
+   deathnote                                   : 1
+   deaths                                      : 3 : death
+   debate                                      : 20
+   debates                                     : 1   : debate
+   debridement                                 : 1
+   debt                                        : 45
+   debt_cancellation                           : 1
+   debt_collection                             : 2
+   debt_crisis                                 : 2
+   debt_forgiveness                            : 1
+   debt_limit                                  : 1
+   debt_to_society                             : 1
+   debtfair                                    : 1 : debt_fair
+   debtors_prison                              : 1
+   debugger                                    : 1 : debugging
+   debugging                                   : 13
+   debuggnig                                   : 1   : debugging
+   debunking                                   : 5
+   decade                                      : 1
+   decanonizing                                : 1
+   decatur                                     : 1
+   decay                                       : 2
+   deceit                                      : 1
+   decentralisation                            : 1
+   decentralization                            : 2   : decentralisation
+   decentralized_systems                       : 4   : decentralised_systems
+   deception                                   : 7
+   DECERNS                                     : 1
+   decision                                    : 10 : decisions
+   decision_based_design                       : 1
+   decision_interaction                        : 1
+   decision_makers                             : 1
+   decision_making                             : 43
+   decision_modeling                           : 1
+   decision_rules                              : 1
+   decision_support                            : 4
+   decision_support_systems                    : 2
+   decision_theory                             : 2
+   decision_trees                              : 5
+   decision_workflow                           : 1
+   decisions                                   : 11
+   declaration                                 : 2
+   declarations                                : 1   : declaration
+   declarative                                 : 4
+   declarative_languages                       : 1
+   declarative_semantics                       : 1
+   decline                                     : 1
+   decline_effect                              : 1
+   decoding                                    : 1
+   decolonial                                  : 1
+   decolonialization                           : 1
+   decolonization                              : 6   : decolonisation
+   decolonize                                  : 1   : decolonisation
+   decomposition                               : 4
+   deconstruction                              : 2
+   decor                                       : 1
+   decorators                                  : 3
+   decriminalisation                           : 7
+   deduction                                   : 3
+   deep_dive                                   : 1
+   deep_fakes                                  : 1
+   deep_learning                               : 137
+   deep_neural_net                             : 5
+   deep_reinforcement_learning                 : 1
+   deep_state                                  : 2
+   deep_work                                   : 1
+   deepmind                                    : 4
+   deepTools                                   : 1
+   DEF                                         : 1
+   defamation                                  : 3
+   default                                     : 1
+   defaults                                    : 1   : default
+   DEFCON                                      : 2
+   defeasibility                               : 2
+   defeasible_logic                            : 10
+   defeasible_reasoning                        : 3
+   defense                                     : 2
+   defense_attorney                            : 2
+   defense_lawyer                              : 1
+   defense_lawyers                             : 1   : defense_lawyer
+   defense_mechanisms                          : 1
+   defense_one                                 : 3
+   defenseone                                  : 1   : defense_one
+   defenses                                    : 1   : defense
+   deference                                   : 1
+   defiant.js                                  : 1   : defiant_js
+   deficit                                     : 1
+   deficits                                    : 1   : deficit
+   DefineMe                                    : 2
+   definition                                  : 12
+   definitions                                 : 1   : definition
+   defunding                                   : 1
+   degenerate_art                              : 3
+   degradation                                 : 3
+   degrees                                     : 1
+   dehumanisation                              : 2
+   dehumanization                              : 5   : dehumanisation
+   deictic                                     : 1
+   deictic_representation                      : 1
+   deinstitutionalization                      : 1
+   DEIOS                                       : 1
+   deitic_representation                       : 1 : deictic_representation
+   DEL                                         : 1
+   delaratives                                 : 1
+   delaunay                                    : 1
+   delaware                                    : 1
+   delay                                       : 2
+   delegates                                   : 1 : delegation
+   delegation                                  : 25
+   delegation_logic                            : 1
+   deletion                                    : 3
+   delhi                                       : 1
+   deliberation                                : 2
+   deliberative_normative_agents               : 1
+   delicacy                                    : 1
+   delivery                                    : 1
+   deltarune                                   : 1
+   delver                                      : 2
+   DEMAIS                                      : 1
+   demand                                      : 1
+   demand_driven                               : 1
+   dementia                                    : 1
+   democracy                                   : 49
+   democracy_now                               : 3
+   democrats                                   : 30
+   demographics                                : 32
+   demoman                                     : 1
+   demon_city                                  : 1
+   demonology                                  : 1
+   demonstration                               : 3
+   demonstrations                              : 2   : demonstration
+   dendrogram                                  : 2
+   dendrogramix                                : 1
+   denialism                                   : 2
+   denmark                                     : 2
+   denotation                                  : 1
+   denotational_semantics                      : 4
+   density                                     : 2
+   density_sort                                : 1
+   dental                                      : 1
+   dentistry                                   : 3
+   denver                                      : 1
+   denver_post                                 : 2
+   deontic                                     : 10
+   deontic_logic                               : 44
+   deontics                                    : 2 : deontic
+   deontological_reasoning                     : 1 : deontic_logic
+   deontology                                  : 1 : deontic
+   department_of_corrections                   : 2
+   department_of_human_services                : 1
+   department_stores                           : 1
+   dependence                                  : 4
+   dependence_logic                            : 1
+   dependencies                                : 2   : dependency
+   dependency                                  : 4
+   dependency_parsing                          : 3
+   dependent_types                             : 4
+   deployment                                  : 3
+   deportation                                 : 15
+   deposits                                    : 1
+   depression                                  : 19
+   deprivation                                 : 2
+   dept_of_education                           : 4
+   dept_of_work                                : 1
+   depth_hub                                   : 2
+   DER                                         : 1
+   deradicalisation                            : 1
+   deregulation                                : 6
+   dermatitis                                  : 1
+   DERRIC                                      : 1
+   des_moines                                  : 1
+   des_moines_register                         : 1
+   descartes                                   : 1
+   description                                 : 8
+   description_language                        : 1
+   description_length                          : 1
+   description_logic                           : 7
+   descriptive_logic                           : 1 : description_logic
+   descriptivism                               : 1
+   desegregation                               : 2
+   desert                                      : 3
+   desert_island_discworld                     : 1
+   desert_sun                                  : 2
+   design                                      : 761
+   design_artifacts                            : 1
+   design_as_critique                          : 1
+   design_doc                                  : 3
+   design_document                             : 4
+   design_documents                            : 1   : design_document
+   design_methodology                          : 1
+   design_pattern                              : 1
+   design_patterns                             : 20  : design_pattern
+   design_space                                : 3
+   designed_ethical_systems                    : 1
+   designed_experience                         : 1
+   designer_notes                              : 1
+   DESIRE                                      : 1
+   desire                                      : 3
+   desires                                     : 1   : desire
+   desks                                       : 1
+   DESMON                                      : 1
+   despair                                     : 1
+   destiny                                     : 2
+   destroyallsoftware                          : 1 : destroy_all_software
+   destruction                                 : 1
+   detainment                                  : 3 : detention
+   detection                                   : 1
+   detention                                   : 12
+   DetentionCenters                            : 1   : detention_centers
+   deterministic_systems                       : 1
+   Deterministic_Systems                       : 1   : deterministic_systems
+   deterrence                                  : 3
+   deterrent                                   : 1 : deterrence
+   detransition                                : 1
+   detroit                                     : 12
+   DETT                                        : 1
+   deus_ex                                     : 6
+   deus_vult                                   : 2
+   deutsche_bank                               : 1
+   dev                                         : 1
+   dev.to                                      : 2   : dev_to
+   dev_blog                                    : 1
+   dev_diary                                   : 1
+   devarea                                     : 1
+   developers                                  : 1
+   developing_countries                        : 3
+   developing_states                           : 1
+   development                                 : 16
+   development_log                             : 1
+   developmentalism                            : 1
+   develper_experience                         : 1 : developer_experience
+   deviance                                    : 1
+   deviantart                                  : 3 : deviant_art
+   devops                                      : 2
+   deza_ratio                                  : 1
+   dezeen                                      : 1
+   df-9                                        : 1   : DF_9
+   dhs                                         : 3   : DHS
+   DHS                                         : 4
+   diabetes                                    : 6
+   diabetic                                    : 1
+   diablo                                      : 4
+   diabulimia                                  : 2
+   diaglogue                                   : 1   : dialogue
+   diagnosis                                   : 4
+   diagnostic_classification                   : 1
+   diagnostic_tool                             : 1
+   diagram                                     : 59
+   diagrams                                    : 10  : diagram
+   dialect                                     : 5
+   dialectical_behavior_therapy                : 1
+   dialectics                                  : 2
+   dialetics                                   : 1   : dialectics
+   dialgue                                     : 1   : dialogue
+   dialog                                      : 5   : dialogue
+   dialog_act                                  : 1   : dialogue_act
+   dialogic_analysis                           : 1
+   dialogue                                    : 76
+   dialogue_logic                              : 1
+   dialogue_systems                            : 3
+   dialogue_tree                               : 2
+   dialogue_trees                              : 1   : dialogue_tree
+   diamond_and_silk                            : 1
+   diaries                                     : 1   : diary
+   diary                                       : 3
+   diaspora                                    : 1
+   DICE                                        : 1
+   dice                                        : 2
+   dice_mechanics                              : 1
+   dicey_dungeons                              : 1
+   dicey_wastelands                            : 1
+   dictation                                   : 2
+   dictator                                    : 1
+   dictators                                   : 2   : dictator
+   dictatorship                                : 4 : dictator
+   dictionary                                  : 2
+   didactics                                   : 1
+   didgeridoo                                  : 1
+   diebold                                     : 1
+   diegetic                                    : 1
+   diet                                        : 4
+   dietary_epidemiology                        : 1
+   diets                                       : 2 : diet
+   diff                                        : 3
+   diff_structures                             : 1
+   difference                                  : 1
+   differential_equations                      : 2
+   differential_programming                    : 1
+   differentials                               : 1
+   differentiation                             : 1
+   difficulty                                  : 6
+   difficulty_adjustment                       : 1
+   diffie_hellman                              : 1
+   diffusion                                   : 13
+   digest_of_justinian                         : 1
+   digiday                                     : 3
+   digital                                     : 45
+   digital_antiquarian                         : 1
+   digital_art                                 : 5
+   digital_collection                          : 5
+   digital_economy_act                         : 1
+   digital_ethics                              : 1
+   digital_evidence                            : 1
+   digital_humanities                          : 1
+   Digital_Humanities                          : 1   : digital_humanities
+   digital_identity                            : 3
+   digital_inclusion                           : 1
+   digital_inquality                           : 1 : digital_inequality
+   digital_libraries                           : 2
+   digital_life                                : 1
+   digital_literacy                            : 1
+   digital_maginot_line                        : 1
+   digital_media                               : 2
+   digital_preservation                        : 1
+   digital_records                             : 1
+   digital_retreat                             : 1
+   digital_rights                              : 9
+   digital_signal_processing                   : 13
+   digital_sts                                 : 1
+   DIGITEL                                     : 1
+   digitisation                                : 2
+   digitization                                : 2   : digitisation
+   digitized_manuscripts                       : 1 : digitisation
+   DIGMA                                       : 1
+   dignity                                     : 1
+   digra                                       : 1 : DIGRA
+   dildo                                       : 2
+   dilemma                                     : 3
+   dilemmas                                    : 3   : dilemma
+   dimension_reduction                         : 1
+   dimensions                                  : 2
+   dimensions_of_dialogue                      : 1
+   dimorphism                                  : 1
+   DINA                                        : 1
+   diner                                       : 1
+   dining                                      : 3
+   dining_philosophers                         : 1
+   DINO                                        : 1
+   dinosaur                                    : 1
+   dionysos                                    : 1
+   dior                                        : 1
+   diphthong                                   : 1
+   diplomacy                                   : 5
+   DiPRA                                       : 1
+   direchlet                                   : 1
+   direction                                   : 2
+   dired                                       : 2
+   dirty_water                                 : 1
+   DIS                                         : 1
+   disabilities                                : 1   : disability
+   disability                                  : 100
+   disability_studies                          : 1
+   DisabilityWishlists                         : 1   : disability_wish_list
+   disablity                                   : 1   : disability
+   disagreement                                : 1
+   disapora                                    : 1
+   disappearance                               : 1
+   disassociation                              : 1
+   disaster                                    : 10
+   disaster_management                         : 1
+   disaster_menu                               : 1
+   disasters                                   : 2
+   discipline                                  : 6
+   disclosure                                  : 1
+   disco                                       : 1
+   disco_elysium                               : 1
+   discontinuity                               : 1
+   discord                                     : 1
+   discordance                                 : 1
+   discounts                                   : 1
+   discouragement                              : 1
+   discourse                                   : 58
+   discourse_analysis                          : 1
+   discourse_markers                           : 1
+   discover                                    : 3
+   discoveries                                 : 1   : discovery
+   discovery                                   : 1
+   discrete_trial                              : 1
+   discretion                                  : 3
+   discretization                              : 2
+   discriminability                            : 1
+   Discrimination                              : 1   : discrimination
+   discrimination                              : 39
+   discriminative_models                       : 1
+   discrmination                               : 1   : discrimination
+   discursive_psychology                       : 1
+   discussion                                  : 4
+   discworld                                   : 31
+   disease                                     : 15
+   disfluencies                                : 1
+   disgust                                     : 1
+   dishonesty                                  : 1
+   dishonoured                                 : 5
+   disinformation                              : 6
+   disinvestment                               : 1
+   dislikes                                    : 1
+   disney                                      : 9
+   disneyland                                  : 1   : disney
+   disorder_of_things                          : 1
+   disourse                                    : 1   : discourse
+   display                                     : 2
+   display_rules                               : 1
+   disposability                               : 1 : disposable
+   disposable                                  : 1
+   disposal_of_the_dead                        : 1
+   disposition                                 : 1
+   dispossession                               : 1
+   disputes                                    : 1
+   disruption                                  : 4
+   disruptive_technology                       : 1
+   dissent                                     : 1
+   dissertation                                : 168
+   dissidents                                  : 1
+   dissociation                                : 4
+   dissonance                                  : 1
+   distance                                    : 3
+   distraction                                 : 2
+   distractionware                             : 1
+   distress                                    : 1
+   distributed                                 : 4
+   distributed control                         : 1   : distributed_control
+   distributed_cognition                       : 1
+   distributed_communication                   : 1
+   distributed_programming                     : 1
+   distributed_system                          : 1 : distributed_systems
+   distributed_systems                         : 23
+   distributed_teams                           : 1
+   distribution                                : 17
+   distribution_of_labour                      : 1
+   distributions                               : 1 : distribution
+   distributive_justice                        : 1
+   districts                                   : 1
+   distritbuted                                : 1   : distributed
+   ditchthelabel                               : 1   : ditch_the_label
+   divergence                                  : 1
+   diversification                             : 2
+   diversity                                   : 75
+   divination                                  : 2
+   divine_comedy                               : 1
+   divinity                                    : 1
+   divio                                       : 1
+   division_2                                  : 1
+   division_of_labour                          : 9
+   divorce                                     : 2
+   diy                                         : 4 : DIY
+   django                                      : 1
+   DJIA                                        : 1
+   djibouti                                    : 1
+   djinn                                       : 1
+   DLA                                         : 1
+   dlaf                                        : 2
+   DLC                                         : 2
+   DMCA                                        : 16
+   DMV                                         : 4
+   dna                                         : 1 : DNA
+   DNA                                         : 14
+   DNA_computing                               : 1
+   DNA_testing                                 : 2
+   DND                                         : 3
+   DOC                                         : 1
+   doc_gen                                     : 1
+   docile_bodies                               : 1
+   docker                                      : 3
+   docs                                        : 2
+   doctor_shopping                             : 1
+   doctor_who                                  : 6
+   doctors                                     : 12
+   document                                    : 7
+   documentaries                               : 4   : documentary
+   documentary                                 : 5
+   documentation                               : 33
+   documents                                   : 5   : document
+   DoD                                         : 1
+   DODM                                        : 1
+   dog                                         : 10
+   dog_hunts                                   : 1
+   dog_mom                                     : 1
+   dog_walking                                 : 1
+   dogma                                       : 1
+   dogs                                        : 2   : dog
+   dogwhistles                                 : 1   : dog_whistle
+   doi.org/10.1101/818138                      : 1
+   DOJ                                         : 13
+   doj                                         : 2   : DOJ
+   dollhouse                                   : 2
+   dolls                                       : 1   : doll
+   dolmetsch                                   : 1
+   DOMA                                        : 2
+   domain                                      : 1
+   domain_driven_design                        : 1
+   domain_elaboration_framework                : 1
+   domain_models                               : 1
+   domain_specific                             : 1
+   domain_specific_modeling                    : 1
+   Domain_specific_modeling                    : 1   : domain_specific_modeling
+   domain_warning                              : 1
+   domains                                     : 6   : domain
+   DOME                                        : 1
+   domestic_abuse                              : 11
+   domestic_terrorism                          : 9
+   domestic_violence                           : 33
+   domesticated_animals                        : 1
+   dominance                                   : 2
+   domination                                  : 5
+   dominican_republic                          : 1
+   dominion                                    : 1
+   donation                                    : 1
+   donations                                   : 3   : donation
+   donner_party                                : 1
+   dont_starve                                 : 2
+   doom                                        : 14
+   doomguy                                     : 1
+   doomsday                                    : 2
+   doomsday_prep                               : 1
+   doorway                                     : 1
+   dopamine                                    : 5
+   doral                                       : 2
+   dos                                         : 2
+   dosbox                                      : 2
+   DOSS                                        : 1
+   dot_eating                                  : 1
+   dot_product                                 : 4
+   DOTA                                        : 1
+   dota                                        : 5   : DOTA
+   dotgraph                                    : 1
+   double_entry_accounting                     : 1
+   double_meaning                              : 1
+   double_standards                            : 1
+   doublefine                                  : 4
+   doubt                                       : 1
+   douglas_county                              : 1
+   dove                                        : 1
+   dow                                         : 1   : DOW
+   download                                    : 1
+   downs_syndrome                              : 3
+   downsizing                                  : 1
+   downward_counterfactuals                    : 1
+   doxastic                                    : 2
+   doxastic_closure                            : 1
+   doxing                                      : 2
+   doxygen                                     : 6
+   DPL2019                                     : 1
+   DPRK                                        : 1
+   dr_dolittle                                 : 1   : doctor_dolittle
+   dr_who                                      : 6   : doctor_who
+   draft                                       : 1
+   drag                                        : 1
+   dragon                                      : 1
+   dragon_age                                  : 5
+   dragon_age_2                                : 1
+   dragon_quest                                : 1
+   dragon_speech                               : 1
+   dragons                                     : 1   : dragon
+   dragons_doga                                : 1   : dragons_dogma
+   dragons_dogma                               : 1
+   drake_equation                              : 1
+   drama                                       : 7
+   drama_management                            : 6
+   drama_manager                               : 2
+   dramaturgical_analysis                      : 2
+   dramaturgy                                  : 1
+   drawing                                     : 35
+   drawings                                    : 1   : drawing
+   DRC                                         : 2
+   DReAM                                       : 1
+   DREAM_act                                   : 1
+   dream_apart                                 : 1
+   dream_askew                                 : 3
+   DreamHack                                   : 1   : dream_hack
+   dreaming                                    : 1
+   dreams                                      : 1
+   dreamworks                                  : 2
+   dreamworks_interactive                      : 1
+   dress                                       : 2
+   dress_barn                                  : 1
+   dress_code                                  : 4
+   dresses                                     : 2   : dress
+   drilling                                    : 1
+   drills                                      : 1 : drilling
+   drinking                                    : 1
+   drinking_age                                : 1
+   drinking_stories                            : 1
+   drinks                                      : 1
+   driver                                      : 1
+   drivers_licenses                            : 1
+   driving                                     : 9
+   DRM                                         : 43
+   drone                                       : 1
+   drone_strike                                : 2
+   drone_warfare                               : 1
+   drones                                      : 6   : drone
+   Drools                                      : 2   : drools
+   drools                                      : 5
+   drought                                     : 1
+   drowning                                    : 2
+   drowsiness                                  : 2
+   DRT                                         : 1
+   drug                                        : 43 : drugs
+   drug_addiction                              : 1
+   drug_courts                                 : 1
+   drug_overdose                               : 2
+   drug_policy                                 : 1
+   drug_prevention                             : 1
+   drug_pricing                                : 1
+   drug_use                                    : 1
+   drug_war                                    : 38
+   drugs                                       : 28
+   drum_programming                            : 2
+   drumming                                    : 2
+   drums                                       : 2
+   drunk_driving                               : 1
+   dry                                         : 2
+   ds9                                         : 2   : DS9
+   DS9                                         : 3
+   dsitrbuted                                  : 1   : distributed
+   dsl                                         : 2   : DSL
+   DSL                                         : 48
+   DSLR                                        : 1
+   DSLs                                        : 3   : DSL
+   DSM                                         : 2
+   DSML                                        : 1
+   DSMLs                                       : 1
+   DSMV                                        : 2
+   DSP                                         : 1
+   dsp                                         : 5   : DSP
+   DTMC                                        : 1
+   du_pont                                     : 1
+   dual_process                                : 1
+   dualism                                     : 1
+   duality_of_structure                        : 1
+   dublin                                      : 2
+   ducation                                    : 2 : education
+   ducks                                       : 1
+   due_diligence                               : 1
+   due_process                                 : 2
+   duel                                        : 3
+   duke_nukem                                  : 1
+   duke_university                             : 1
+   dundee                                      : 1
+   dune                                        : 5
+   dungeon                                     : 4
+   dungeon_crawl                               : 1
+   dungeon_experience                          : 1
+   dungeon_generation                          : 6
+   dungeon_generator                           : 1   : dungeon_generation
+   dungeon_master                              : 2
+   dungeons                                    : 2   : dungeon
+   dungeons_and_dragons                        : 8
+   dungon                                      : 1   : dungeon
+   dungons_and_dragons                         : 1   : dungeons_and_dragons
+   dunning_kruger                              : 2
+   DUP                                         : 2
+   duration                                    : 1
+   durham                                      : 1
+   durham_weed_man                             : 1
+   dutch                                       : 6
+   dutch_east_indies_company                   : 1
+   dutee_chand                                 : 1
+   duties                                      : 2   : duty
+   duty                                        : 1
+   DVD                                         : 1
+   dw                                          : 1
+   Dwarf                                       : 1   : dwarf
+   dwarf_fortress                              : 22
+   dwarfcorp                                   : 1   : dwarf_corp
+   dwarfism                                    : 1
+   dwp                                         : 1   : DWP
+   DWP                                         : 12
+   dyadic                                      : 1
+   dyck_extended_language                      : 1
+   dyck_reachability                           : 1
+   dynamic                                     : 5
+   dynamic norms                               : 1   : dynamic_norms
+   dynamic_algebra                             : 1
+   dynamic_analysis                            : 1
+   dynamic_checkers                            : 1
+   dynamic_deontics                            : 1
+   dynamic_difficulty                          : 2
+   dynamic_difficulty_adjustment               : 1
+   dynamic_documents                           : 1
+   dynamic_epistemic_logic                     : 1
+   dynamic_graphs                              : 1
+   dynamic_intention_structures                : 1
+   dynamic_narrative                           : 1
+   dynamic_planning                            : 2
+   dynamic_programming                         : 8
+   dynamic_properties                          : 1
+   dynamic_range                               : 1
+   dynamic_scope                               : 1
+   dynamic_stories                             : 1
+   dynamic_systems                             : 9
+   dynamic_task_activation                     : 1
+   dynamic_tonality                            : 1
+   Dynamical_systems                           : 1   : dynamic_systems
+   dynamical_systems                           : 2   : dynamic_systems
+   dynamics                                    : 13
+   dynasties                                   : 1
+   dysfunction                                 : 2
+   dyslexia                                    : 1
+   dyson_sphere                                : 1
+   dystopia                                    : 54

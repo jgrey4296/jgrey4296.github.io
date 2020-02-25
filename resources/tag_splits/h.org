@@ -1,0 +1,479 @@
+** h                                                                            :cleaned:
+   h_r_4174                                    : 2
+   haaretz                                     : 3
+   habit                                       : 4
+   habitat                                     : 1
+   habits                                      : 9   : habit
+   habituation                                 : 1
+   habsburgs                                   : 2
+   hachette                                    : 1
+   hachijojima                                 : 1
+   hack                                        : 1
+   hackathon                                   : 1
+   hacker                                      : 2
+   hacker_news                                 : 2
+   hackernoon                                  : 1
+   hackett                                     : 1
+   hacking                                     : 32
+   hacks                                       : 1   : hack
+   hacktivism                                  : 1
+   haddock                                     : 1
+   hadoop                                      : 2
+   haemophiliac                                : 1
+   Hafez                                       : 1
+   hagerstrang                                 : 1
+   hair                                        : 7
+   hair_styles                                 : 2   : hair
+   hair_styling                                : 2   : hair
+   hair_stylists                               : 1   : hair
+   haircut                                     : 1   : hair
+   hairstyle                                   : 1   : hair
+   hairstyles                                  : 2   : hair
+   haiti                                       : 6
+   hakai_magazine                              : 1
+   halakha                                     : 1
+   half-life                                   : 2   : half_life
+   half_life                                   : 4
+   haliburton                                  : 1
+   haliehana                                   : 1   : haliehana_stepetin
+   hall                                        : 1
+   halloween                                   : 3
+   hallucination                               : 2
+   hallucinogens                               : 1
+   halo                                        : 3
+   halo_2                                      : 2
+   hama                                        : 1
+   hamas                                       : 1
+   hamilton_project                            : 1
+   hamlet                                      : 2
+   hamlet_on_the_holodeck                      : 1
+   hamming_distance                            : 2
+   hammurabi                                   : 1
+   hampshire                                   : 1
+   handheld                                    : 1
+   handheld_games                              : 1
+   handicap                                    : 1
+   handicaps                                   : 1   : handicap
+   handle                                      : 1
+   handles                                     : 1   : handle
+   handmade_pixels                             : 1
+   handmaids_tale                              : 3
+   hands                                       : 3
+   handwriting                                 : 1
+   HannitySources                              : 1   : hannity_sources
+   hansard                                     : 1
+   Hap                                         : 1
+   happiness                                   : 4
+   happy_accidents                             : 1
+   Happy_Network                               : 1
+   haptics                                     : 8
+   harassment                                  : 19
+   hard_scifi                                  : 1
+   hardball                                    : 1
+   hardcore                                    : 1
+   hardware                                    : 36
+   harlem                                      : 2
+   harlow                                      : 2
+   harm                                        : 4
+   harm_reduction                              : 2
+   harmful_speech                              : 1
+   HARMONIA                                    : 1
+   harmony                                     : 1
+   HARP                                        : 1
+   harpers_bazaar                              : 3
+   harvard                                     : 24
+   harvard_gazette                             : 1
+   harvest_moon                                : 1
+   has_media                                   : 1
+   hasbro                                      : 1
+   hash                                        : 1
+   hash_tables                                 : 1
+   hashing                                     : 4
+   hashtable                                   : 1   : hash_tables
+   hashtags                                    : 1
+   haskell                                     : 162
+   hastac                                      : 1
+   hatch                                       : 1
+   hatch_act                                   : 1
+   hate                                        : 2
+   hate_crime                                  : 4
+   hate_crimes                                 : 3   : hate_crime
+   hate_group                                  : 1
+   hate_groups                                 : 2   : hate_group
+   hate_mail                                   : 2
+   hate_mob                                    : 1
+   hate_plus                                   : 1
+   hate_speech                                 : 2
+   hats                                        : 3
+   haute_cuisine                               : 1
+   hawaii                                      : 6
+   hayward_fault                               : 1
+   hazard                                      : 1
+   hazelnut_bastille                           : 1
+   hazing                                      : 1
+   hbo                                         : 2
+   hci                                         : 26  : HCI
+   HCI                                         : 362
+   hdrlicka                                    : 1
+   headdress                                   : 1
+   headlines                                   : 5
+   headscarves                                 : 3 : head_scarf
+   healing                                     : 3
+   healing_justice                             : 1
+   healtcare                                   : 1   : health_care
+   health                                      : 91
+   health_affairs                              : 1
+   health_and_safety                           : 1
+   health_care                                 : 1
+   health_equity                               : 1
+   health_insurance                            : 6
+   health_insurers                             : 1
+   health_policy                               : 1
+   health_records                              : 1
+   health_tech                                 : 2
+   healthcare                                  : 270 : health_care
+   hearing                                     : 1
+   hearing_aid                                 : 1
+   hearings                                    : 2
+   hearthstone                                 : 3
+   heat                                        : 4
+   heat_wave                                   : 3
+   heated                                      : 1
+   heathrow                                    : 1
+   heatmap                                     : 2
+   heatstroke                                  : 1
+   heatwaves                                   : 1 : heat_wave
+   heavens_vault                               : 2
+   heavy_systems                               : 1
+   hebbian                                     : 1
+   hedge                                       : 3
+   hedgehog                                    : 1
+   hedges                                      : 1 : hedge
+   hedonic_games                               : 1
+   hedonism                                    : 2
+   hegemony                                    : 6
+   heirloom_seeds                              : 1
+   heirs_property                              : 1
+   heist                                       : 1
+   hello_kitty                                 : 1
+   helm                                        : 3
+   help                                        : 3
+   hemmingway                                  : 1
+   hemophilia                                  : 1
+   hennepin                                    : 1
+   Henshin                                     : 1
+   hepaestus                                   : 1   : hephaestus
+   hepatitis                                   : 1
+   HERA                                        : 2
+   heraldry                                    : 2
+   herbrand_logic                              : 1
+   herbs                                       : 2
+   herds                                       : 1
+   heresy                                      : 1
+   heritability                                : 1
+   heritage                                    : 3
+   heritage_foundation                         : 2
+   heritage_plan                               : 1
+   hermeneutics                                : 4
+   hermenutics                                 : 1   : hermeneutics
+   hermetic_tradition                          : 1
+   hermetically_open_archive                   : 1
+   hermetism                                   : 1
+   heroes_of_newerth                           : 1
+   heroin                                      : 5
+   herterogeneity                              : 1   : heterogeneity
+   hertz                                       : 1
+   hetergenoustasks                            : 1   : heterogenous_tasks
+   hetero_cephalus_gabler                      : 1
+   heterogeneous_environments                  : 1
+   heterogenous_tasks                          : 1
+   heteronormative                             : 1  : heteronormativity
+   heteronormativity                           : 1  : heteronormativity
+   heterosexuality                             : 1
+   heterotopias                                : 5
+   heuristic                                   : 3   : heuristics
+   heuristics                                  : 21
+   hex                                         : 3
+   hex_game                                    : 1
+   hexagon                                     : 2
+   hexagonal                                   : 1 : hexagon
+   hezbollah                                   : 1
+   HFSM                                        : 1
+   HHS                                         : 4
+   hicks_law                                   : 1
+   hidden_mechanics                            : 1
+   hiding                                      : 2
+   hierarchical_event_streams                  : 1
+   hierarchical_portfolio_search               : 1
+   hierarchies                                 : 1   : hierarchy
+   hierarchy                                   : 15
+   hierarhcy                                   : 1   : hierarchy
+   hieronymus_bos                              : 1   : hieronymus_bosch
+   high_culture                                : 1
+   high_dimensional_space                      : 1
+   high_dimensional_state_space                : 1
+   high_fi                                     : 1
+   high_frequency                              : 1
+   high_performance                            : 1
+   high_school                                 : 1
+   higher_dimensions                           : 1
+   higher_education                            : 1
+   higher_order_logic                          : 1
+   higher_ordered_logics                       : 1   : higher_ordered_logic
+   highlighting                                : 1
+   highrise                                    : 1 : high_rise
+   highstreet                                  : 1 : high_street
+   highway_of_death                            : 1
+   hijab                                       : 2
+   hijabi                                      : 1 : hijab
+   hillbilly                                   : 1
+   hinderancces                                : 1   : hinderance
+   hindley-milner                              : 1   : hindley_milner
+   hindley_milner                              : 19
+   hindsight                                   : 1
+   hindu                                       : 2 : hinduism
+   hindu_business_line                         : 1
+   hinduism                                    : 3
+   hindustan_times                             : 1
+   hip_hop                                     : 2
+   HIPAA                                       : 5 : HIPPA
+   HIPPA                                       : 1
+   hippocratic_oath                            : 1
+   hiring                                      : 8
+   hispanic                                    : 3
+   hispanic_caucus                             : 1
+   histbook                                    : 1 : history
+   historian                                   : 3
+   historians                                  : 3   : historian
+   historical                                  : 32 : history
+   historical_analysis                         : 2
+   historical_institutionalism                 : 1
+   historical_materialism                      : 1
+   historical_trauma                           : 1
+   historical_war_crimes                       : 1
+   history                                     : 1271
+   history_degree                              : 1
+   history_of_ai                               : 1
+   history_of_racism                           : 1
+   history_of_science                          : 2
+   hit_and_run                                 : 1
+   hitchhikers_guide                           : 4
+   hitchikers_guide                            : 8   : hitchhikers_guide
+   hitchikers_guide_to_python                  : 1
+   hitman                                      : 6
+   HIV                                         : 17
+   hiv                                         : 4   : HIV
+   hives                                       : 1
+   HKB                                         : 1
+   HLAI                                        : 1
+   HLBL                                        : 1
+   HLSL                                        : 1
+   hma_law                                     : 1
+   hmm_daily                                   : 1
+   HMV                                         : 1
+   hoarding                                    : 1
+   hoare                                       : 2
+   hoax                                        : 3
+   hobbes                                      : 2
+   hobbits                                     : 1
+   hobo_signs                                  : 1
+   hockey                                      : 1
+   hofeller_files                              : 1
+   HOL                                         : 2
+   holiday                                     : 2
+   holistic                                    : 1
+   hollywood                                   : 3
+   hollywood_reporter                          : 3
+   holmby_hills                                : 1
+   holocaust                                   : 8
+   holodeck                                    : 1
+   holograms                                   : 1
+   holon                                       : 1
+   holons                                      : 2   : holon
+   holy_blood                                  : 1
+   holywood                                    : 3 : hollywood
+   home                                        : 2
+   home_alone                                  : 1
+   home_care                                   : 1
+   home_made                                   : 1
+   home_office                                 : 5
+   home_schooling                              : 1
+   homebrew                                    : 1 : home_brew
+   homeland_security                           : 3
+   homeless                                    : 4 : homelessness
+   homelessness                                : 40
+   homeopathy                                  : 1
+   homeowners_association                      : 1
+   homeownership                               : 1
+   homer                                       : 1
+   Homer                                       : 1   : homer
+   homeschooling                               : 1 : home_schooling
+   homework                                    : 1
+   homicide                                    : 1
+   homo_sapiens                                : 1
+   homo_sociologicus                           : 1
+   homoeroticism                               : 1
+   homogeneity                                 : 2
+   homogenous                                  : 1
+   homomorphic_encryption                      : 1
+   homophily                                   : 2
+   homophobia                                  : 18
+   homosexuality                               : 5
+   Honduras                                    : 3
+   honesty                                     : 3
+   honeybee                                    : 1
+   honeycreepers                               : 1
+   honeypot                                    : 1
+   hong_kong                                   : 23
+   HongKongProtests                            : 2 : hong_kong_protests
+   honour_killings                             : 1
+   honourifics                                 : 1
+   HOOD                                        : 1
+   hood_biologist                              : 1
+   hooking_up                                  : 1
+   hooks                                       : 1
+   hope                                        : 1
+   hopes_and_fears                             : 1
+   horizon_magazine                            : 1
+   hormone                                     : 1
+   hormones                                    : 4   : hormone
+   horn_clause                                 : 1
+   horny_mike                                  : 2
+   horrendagram                                : 1
+   horror                                      : 55
+   horrornewsnetwork                           : 1   : horror_news_network
+   horses                                      : 3
+   horticulture                                : 2
+   horus_heresy                                : 1
+   hospital                                    : 3
+   hospitality                                 : 1
+   hospitals                                   : 1   : hospital
+   hostage                                     : 1
+   hostages                                    : 1   : hostage
+   hostile_architecture                        : 5
+   hostile_design                              : 2
+   hostile_environment                         : 8
+   hot_allostatic_load                         : 1
+   hotel                                       : 2
+   hotline                                     : 1
+   houdini                                     : 1
+   house                                       : 5
+   house_intelligence_committee                : 2
+   house_of_cards                              : 1
+   house_of_representatives                    : 2
+   house_oversight                             : 1
+   household                                   : 1
+   housing                                     : 56
+   housing_authority                           : 1
+   housing_crisis                              : 5
+   housing_policy                              : 1
+   houston                                     : 7
+   houston_chronicle                           : 4
+   how_music_works                             : 2
+   how_not_to_say_the_wrong_thing              : 1
+   how_to                                      : 1
+   how_to_read_papers                          : 1
+   how_we_get_to_next                          : 2
+   howls_moving_castle                         : 1
+   howmuch                                     : 1   : how_much
+   howwegettonext                              : 1   : how_we_get_to_next
+   hp                                          : 1
+   hpe                                         : 1
+   hpoem                                       : 1
+   HPV                                         : 1
+   HR                                          : 4
+   HRA_office                                  : 1
+   hrw                                         : 1 : HRW
+   hsb                                         : 1
+   hsfm                                        : 1 : HSFM
+   hsinchu                                     : 1
+   hsl                                         : 2 : HSL
+   HSP                                         : 1
+   HSPS                                        : 1
+   hsv                                         : 1 : HSV
+   html                                        : 7
+   html5                                       : 2
+   HTN                                         : 4
+   HTN_planning                                : 1
+   HTNs                                        : 1 : HTN
+   http                                        : 1
+   HUAC                                        : 1
+   hubble                                      : 2
+   hud                                         : 1
+   huffington_post                             : 38
+   huffpo                                      : 12  : huffington_post
+   hugo                                        : 3
+   human_animal_relationships                  : 1
+   human_body_parts                            : 1
+   human_capital                               : 3
+   human_centered                              : 1
+   human_computer_interaction                  : 1
+   human_density                               : 1
+   human_evolution_games                       : 1
+   human_factors                               : 2
+   human_focus                                 : 1
+   human_impacts                               : 1
+   human_intelligence                          : 2
+   human_interest                              : 1
+   human_labour                                : 1
+   human_readability                           : 1
+   human_rights                                : 31
+   human_rights_watch                          : 3
+   human_scale_social_systems                  : 1
+   human_sociobiology                          : 1
+   human_trafficking                           : 9
+   humanism                                    : 1
+   humanitarianism                             : 1
+   humanities                                  : 5
+   humanity                                    : 2
+   humanizing_mechanics                        : 1
+   humans                                      : 2
+   Humans                                      : 3   : humans
+   humble                                      : 1
+   humble_bundle                               : 2
+   humiliation                                 : 1
+   humiliation_game                            : 1
+   humility                                    : 1
+   HUMINT                                      : 1
+   humint                                      : 1 : human_intelligence
+   hummus                                      : 1
+   humour                                      : 497
+   humours                                     : 1   : humour
+   hungary                                     : 6
+   hunger                                      : 3
+   hunger_games                                : 1
+   hurricanes                                  : 9
+   hybrid                                      : 1
+   hybrid_logics                               : 1
+   hybrid_model_transformation                 : 1
+   hybrid_systems                              : 1
+   HyDICE                                      : 2
+   hydra                                       : 2
+   hydro_dam                                   : 1
+   hydro_politics                              : 2
+   hydrology                                   : 1
+   hygiene                                     : 3
+   hygienic_transforms                         : 1
+   HyPED                                       : 1
+   hyper                                       : 1
+   Hyper                                       : 1   : hyper
+   hyper_nudge                                 : 1
+   hyperandrogenism                            : 1
+   hyperbole_and_a_half                        : 3
+   hyperbolic_geometry                         : 1
+   hyperbolic_plane                            : 1
+   hypercard                                   : 5
+   hyperfiction                                : 1
+   hypergram                                   : 1
+   hypergraph                                  : 2
+   hypermedia                                  : 1
+   hyperrogue                                  : 1
+   hyperstition                                : 2
+   hypertext                                   : 18
+   hypocrisy                                   : 17
+   hypothesis_generation                       : 1
+   hypothesis_testing                          : 7
+   hypr_bdience                                : 1   : hyper_obedience
+   hysterectomy                                : 2
+   hysteria                                    : 1
+   hysterical_literature                       : 2
