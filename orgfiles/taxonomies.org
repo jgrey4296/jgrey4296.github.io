@@ -1019,7 +1019,7 @@
 
 ** Malaby's Categories of Indeterminacy                                         :chance:indeterminacy:
    in Montfort et al: 10 Print
-
+   TODO: game dev toolkit's input and output indeterminacy
    |                            |                                           |
    |----------------------------+-------------------------------------------|
    | Formal Indeterminacy       | Chance                                    |

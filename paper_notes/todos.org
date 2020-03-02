@@ -124,7 +124,7 @@
 
 **** YEAR :
 **** ABSTRACT
-*** TODO A Logic of Delegation
+*** TODO A Logic of Delegation                                                  :delegation:
 **** Tags                                                                       :agent_communication:responsibility:imperatives:groups:delegation:logic:
 **** Citation: Norman2010
 **** YEAR : 2010
@@ -145,7 +145,7 @@
      axiological and semantic exploration of the related concepts of forbearance,
      imperatives and group communication.
 
-*** TODO A Logical Architecture of a Normative System
+*** TODO A Logical Architecture of a Normative System                           :io_logic:norms:
 **** Tags                                                                       :counts_as:IO_logic:permissions:obligations:
 **** Citation: Boella2006a
 **** YEAR : 2006
@@ -482,7 +482,7 @@
      Bou, Lopez-Sanchez, Rodriguez-Aguilar, Simao-Sichman
 **** YEAR : 2008
 **** ABSTRACT
-*** TODO Assessing the maintainability of XCON-in_RIME
+*** TODO Assessing the maintainability of XCON-in_RIME                          :production_system:
 **** Tags                                                                       :large_scale:maintainability:software_engineering:rules:production_system:
 
 **** Citation
@@ -566,7 +566,7 @@
 
 **** YEAR :
 **** ABSTRACT
-*** TODO Bureaucracy as Praxis: Toward a Political Phnomenology of Formal Organizations
+*** TODO Bureaucracy as Praxis: Toward a Political Phenomenology of Formal Organizations :bureaucracy:
 **** Tags                                                                       :sociology:politics:organization:phenomenology:praxis:bureaucracy:
 **** Citation
 **** AUTHORS
@@ -760,7 +760,7 @@
 **** AUTHORS Toni Robertson
 **** YEAR : 1997
 **** ABSTRACT
-*** TODO Crafting Analytical Tools to Study Institutional Change
+*** TODO Crafting Analytical Tools to Study Institutional Change                :elinor_ostrom:IAD:rules:
 **** Tags                                                                       :dynamic_institutions:institutional_change:ostrom:tools:institutions:
 **** Citation
 **** AUTHORS
@@ -875,7 +875,7 @@
 
 **** YEAR : 2000
 **** ABSTRACT
-*** TODO Dynamic Protocols for Open Agent Systems
+*** TODO Dynamic Protocols for Open Agent Systems                               :protocol:
 **** Tags                                                                       :protocol:dynamic_rules:institutions:MAS:action_language:norm:
 **** Citation
 **** AUTHORS
@@ -901,7 +901,7 @@
 
 **** YEAR :
 **** ABSTRACT
-*** TODO Dynamics in Delegation and Revocation Schemes: A Logical Approach
+*** TODO Dynamics in Delegation and Revocation Schemes: A Logical Approach      :delegation:
 **** Tags                                                                       :van_der_torre:logic:dynamics:trust:revocation:delegation:
 **** Citation
 **** AUTHORS
@@ -1149,7 +1149,7 @@
 
 **** YEAR :
 **** ABSTRACT
-*** TODO From Inter-Agent to Intra-Agent Representations: Mapping Social Scenarios to Agent-Role Descriptions
+*** TODO From Inter-Agent to Intra-Agent Representations: Mapping Social Scenarios to Agent-Role Descriptions :roles:
 **** Tags                                                                       :narrative:institutions:social_systems:scenario_based_modelling:agent:roles:agents:
 **** Citation
 **** AUTHORS
@@ -1187,7 +1187,7 @@
      What is norm-based control?
      Why and how do agents exercise control on one another?
      What role does it play in the spread of norms?
-*** TODO From ideas to studies: how to get ideas and sharpen them into research questions
+*** TODO From ideas to studies: how to get ideas and sharpen them into research questions :methods:
 **** Tags                                                                       :FINER:framework:PICO:research:methods:research_questions:
 
 **** Citation
@@ -1411,7 +1411,7 @@
 
 **** YEAR :
 **** ABSTRACT
-*** TODO Hypothesis Testing for Complex Agents
+*** TODO Hypothesis Testing for Complex Agents                                  :methods:
 **** Tags                                                                       :simulations:experimental_design:complex_systems:performance:method:theory:agents:hypothesis_testing:lowe:stein:bryson:
 **** Citation
 **** AUTHORS
@@ -1443,7 +1443,7 @@
 
 **** YEAR :
 **** ABSTRACT
-*** TODO Information and Institutional Change
+*** TODO Information and Institutional Change                                   :institutions:
 **** Tags                                                                       :agre:lived_experience:theory:change:libraries:institutions:
 **** Citation
 **** AUTHORS
@@ -1451,7 +1451,7 @@
 
 **** YEAR :
 **** ABSTRACT
-*** TODO Inhabited Institutions: Social Interactions and Organizational Forms in Gouldner's Patterns of Industrial Bureaucracy
+*** TODO Inhabited Institutions: Social Interactions and Organizational Forms in Gouldner's Patterns of Industrial Bureaucracy :institutions:
 **** Tags                                                                       :bureauracy:industrial:sociology:phenomenology:lived_experience:gouldner:ventresca:hallet:
 **** Citation
 **** AUTHORS
@@ -1515,7 +1515,7 @@
      an agent-based approach and a statistically significant number of Monte Carlo
      simulations conducted to measure the success of the peacekeeping operations and
      the benefits of civilian assistance.
-*** TODO The Gods of the Countryside
+*** TODO The Gods of the Countryside                                            :institutions:
 **** Tags                                                                       :technology:bali:
 
 **** Citation
@@ -1535,7 +1535,7 @@
 **** ABSTRACT
 
 ** L
-*** TODO Language Constructs for Context-oriented Programming
+*** TODO Language Constructs for Context-oriented Programming                   :layers:
 **** Tags                                                                       :lisp:UI:dynamic_scope:layers:programming:context:
 **** Citation
 **** AUTHORS
@@ -1851,7 +1851,7 @@
      difference in the ethnographic work, where the discovery of what the significant
      differences in fact were was a major result of the research. Support by NIH/NIDA
      grant DA 10736 is gratefully acknowledged.
-*** TODO Mixin Composition Synthesis based on intersection types
+*** TODO Mixin Composition Synthesis based on intersection types                :type_system:
 **** Tags                                                                       :intersection_types:record_calculus:types:composition:
 
 **** Citation
@@ -2018,7 +2018,7 @@
 
 **** YEAR : 2007
 **** ABSTRACT
-*** TODO On the Synthesis of Useful Social Laws for Artificial Agent Societies
+*** TODO On the Synthesis of Useful Social Laws for Artificial Agent Societies  :rules:
 **** Tags                                                                       :polynomial:complexity:action_representation:norms:social_laws:
 **** Citation
 **** AUTHORS
@@ -2027,7 +2027,7 @@
 
 **** YEAR : 1992
 **** ABSTRACT
-*** TODO Ontologies for Reasoning about Failures in AI Systems
+*** TODO Ontologies for Reasoning about Failures in AI Systems                  :failure:
 **** Tags                                                                       :metacognition:brittleness:complex_systems:failure:ontology:ai:
 **** Citation
 **** AUTHORS
@@ -2131,7 +2131,7 @@
 
 **** YEAR : 2009
 **** ABSTRACT
-*** TODO Probabilistic Programming
+*** TODO Probabilistic Programming                                              :probability:
 **** Tags                                                                       :programming:probability:
 
 **** Citation
@@ -2141,7 +2141,7 @@
      Aditya V. Nori
 **** YEAR :
 **** ABSTRACT
-*** TODO Programming social middlewares through social interaction types
+*** TODO Programming social middlewares through social interaction types        :type_system:
 **** Tags                                                                       :social_middleware:types:programming:
 
 **** Citation
@@ -2192,7 +2192,7 @@
 
 **** YEAR :
 **** ABSTRACT
-*** TODO Reflection for the Masses
+*** TODO Reflection for the Masses                                              :language:reflection:
 **** Tags                                                                       :meta_programming:macros:reflection:procedural_reflection:3:lisp:
 **** Citation
 **** AUTHORS
@@ -2210,7 +2210,7 @@
 
 **** YEAR :
 **** ABSTRACT
-*** TODO Revision of Production System Rule-Bases
+*** TODO Revision of Production System Rule-Bases                               :rules:production_systems:
 **** Tags                                                                       :constraints:rules:revision:production_systems:CLIPS:
 **** Citation: Murphy2014
 **** YEAR : 2014
@@ -2263,7 +2263,7 @@
      order to review the range of these experiments and the methodological
      difficulties encountered.
 
-*** TODO Rules don't apply: Kafka's insights on Bureaucracy
+*** TODO Rules don't apply: Kafka's insights on Bureaucracy                     :bureaucracy:
 **** Tags                                                                       :weber:rule_breaking:kafka:chaos:bureaucracy:
 **** Citation: Hodson2013
 **** YEAR : 2012
@@ -2490,7 +2490,7 @@
      proposing an initial methodology that describes the use of ethnography in
      modelling.
 
-*** TODO Sudden Anthropology: Brief Encounters with Cultures
+*** TODO Sudden Anthropology: Brief Encounters with Cultures                    :institution:
 **** Tags                                                                       :sudden_anthropology:anthropology:kafka:
 **** Citation
 **** AUTHORS
@@ -2517,7 +2517,7 @@
      Mert Toka
 **** YEAR :
 **** ABSTRACT
-*** TODO Studies of the Routine Grounds of Everyday Activities
+*** TODO Studies of the Routine Grounds of Everyday Activities                  :method:
 **** Tags                                                                       :ethnomethodology:everyday_life:
 
 **** Citation
@@ -2536,7 +2536,7 @@
 
 **** YEAR : 2008
 **** ABSTRACT
-*** TODO The Cognitive and behavioral mediation of institutions: Towards an account of institutional actions
+*** TODO The Cognitive and behavioral mediation of institutions: Towards an account of institutional actions :tools:institution:
 **** Tags                                                                       :power:coordination:constitutive_rules:MAS:castelfranchi:institutions:
 **** Citation
      Tummolini2006
@@ -3125,7 +3125,7 @@
      Robert K. Merton
 
 **** YEAR : 1936
-*** TODO Thinking the New: Of Futures Yet Unthought
+*** TODO Thinking the New: Of Futures Yet Unthought                             :methods:
 **** Tags                                                                       :grosz:anthropology:phenomenology:
 **** Citation
 **** AUTHORS
@@ -3193,7 +3193,7 @@
 
 **** YEAR :
 **** ABSTRACT
-*** TODO Towards a theory of flexible holons: Modelling Institutions for Making Multi-Agent Systems Robust
+*** TODO Towards a theory of flexible holons: Modelling Institutions for Making Multi-Agent Systems Robust :institution:
 **** Tags                                                                       :delegation:social_order:dynamic_institutions:holons:institutions:MAS:
 **** Citation
 **** AUTHORS
@@ -3230,7 +3230,7 @@
      Finally, we discuss how our suggestions for avoiding them relate to current
      methodological discussions found in the social simulation community.
 
-*** TODO Typology of sociotechnical transition pathways
+*** TODO Typology of sociotechnical transition pathways                         :technology:
 **** Tags                                                                       :multi_level_perspective:regime:typology:transitions:socio_technical:
 **** Citation
 **** AUTHORS
@@ -3239,7 +3239,7 @@
 
 **** YEAR : 2007
 **** ABSTRACT
-*** TODO The institutional approach for modeling the evolution of human societies
+*** TODO The institutional approach for modeling the evolution of human societies :institution:
 **** Tags                                                                       :institution:economics:
 
 **** Citation
@@ -3320,7 +3320,7 @@
 
 **** YEAR :
 **** ABSTRACT
-*** TODO Villanelle: Towards Authorable Autonomous Characters in Interactive Narrative
+*** TODO Villanelle: Towards Authorable Autonomous Characters in Interactive Narrative :language:
 **** Tags                                                                       :NPC:narrative:authoring:
 
 **** Citation
