@@ -8,7 +8,7 @@
    #Language Constructs:
    import py_rule.modules.time as time
    #Crosscuts:
-   import py_rule.module.fsm as fsm
+   import py_rule.modules.fsm as fsm
    #+end_src
 
 *** Params                                                                      :python:
@@ -264,7 +264,6 @@
     #+begin_src  :results value
 
     #+end_src
-
 
 *** Situational
     Tests of specific circumstances to let agents act in
