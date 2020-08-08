@@ -1,0 +1,757 @@
+ICIDS 2014
+Storytelling with Adjustable Narrator Styles and Sentiments Boyang Li, Mohini Thakkar, Yijie Wang, and Mark Riedl
+Combinatorial Dialogue Authoring James Owen Ryan, Casey Barackman, Nicholas Kontje, Taylor Owen-Milner, Marilyn Walker, Michael Mateas, and Noah Wardrip-Fruin
+Diegetization: an approach for narrative scaffolding in open-world simulations for training Kevin Carpenter and Domitile Lourdeaux
+Authoring Personalized Interactive Museum Stories Maria Vayanou, Akrivi Katifori, Manos Karvounis, Vassilis Kourtis, Marialena Kyriakidi, Maria Roussou, Manolis Tsangaris, Yannis Ioannidis, Olivier Balet, Thibaut Prados, Jens Keil, Timo Engelke, Laia Pujol
+An Authoring Tool for Movies in the Style of Heider and Simmel  Andrew Gordon and Melissa Roemmele
+Exploring Performative Authoring as a Story Creation Approach for Children Sharon Lynn Chu, Francis Quek and Kumar Sridharamurthy
+Interweaving Story Coherence and Player Creativity through Story-making Games Mirjam Eladhari, Phil Lopes, and Georgios Yannakakis
+Remain Anonymous, Create Characters & Backup Stories: Online Tools Used In Internet Crime Narratives Andreas Zingerle
+Objective Metrics for Interactive Narrative Nicolas Szilas and Ioana Ilea
+The PC3 Framework: A Formal Lens for Analyzing Interactive Narratives Across Media Forms Brian Magerko
+Storytelling Artifacts Toke Krainert
+Towards a Hermeneutic Narratology of Interactive Digital Storytelling Fanfan Chen
+Five Theses for Interactive Digital Narrative Hartmut Koenitz
+Interactive cinema: Engagement and interaction Mirjam Vosmeer and Ben Schouten
+Fleeing the Operator: The User Experience and Participation in Marble Hornets (2009-2014) Devin Hartley
+Mapping Trends in Interactive Non-fiction through the Lenses of Interactive Documentary Arnau Gifreu
+Narrative Cognition in Interactive Systems: Suspense -Surprise and the P300 ERP Component Luis Emilio Brun, Sarune Baceviciute, and Mohammed Arief
+Ontology-based visualization of characters' intentions Vincenzo Lombardi and Antonio Pizzo
+Interactive storytelling in a Mixed Reality Environment: How does sound design and users' preknowledge of the background story influence the user experience Marija Nakevska, Mathias Funk, Jun Hu, Berry Eggen, Matthias Rauterberg
+Structuring Location-Aware Interactive Narratives for Mobile Augmented Reality Ulrike Spierling and Antonia Kampa
+FDG 2014
+Inge Becht and Sander Bakkes meIRL-BC: Predicting player positions in video games
+Bridget Blodgett and Anastasia Salter #1ReasonWhy: Game communities and the invisible woman
+Andrew Borg Cardona, Aske Walther Hansen, Julian Togelius, and Marie Gustafsson Friberger Open Trumps, a data game
+Alessandro Canossa, Staffan Björk, and Mark J. Nelson X-COM: UFO Defense vs. XCOM: Enemy Unknown - Using gameplay design patterns to understand game remakes
+Gail Carmichael and David Mould A framework for coherent emergent stories
+Emiko Charbonneau, Sarah Buchanan, Jared Bott, Florian 'Floyd' Mueller, and Joseph J. Laviola Jr. Dance Enhanced: Investigating how earning content through exertion impacts dance game enjoyment
+Bob De Schutter and Vero Vanden Abeele Gradequest - Evaluating the impact of using game design techniques in an undergraduate course
+Thomas Debeauvais, Cristina V. Lopes, Nick Yee, and Nicolas Ducheneau Retention and progression: Seven months in World of Warcraft
+Thomas Debeauvais, Thomas Zimmermann, Nachiappan Nagappan, Kevin Carter, Ryan Cooper, Dan Greenawalt, and Tyson Solberg Off with their assists: An empirical study of driving skill in Forza Motorsport 4
+April Grow, Swen Gaudl, Paulo Gomes, Michael Mateas, and Noah Wardrip-Fruin A methodology for requirements analysis of AI architecture authoring tools
+D. Fox Harrell, Dominic Kao, Chong-U Lim, Jason Lipshin, Ainsley Sutherland, Julia Makivic, and Danielle Olson Authoring conversational narratives in games with the Chimeria platform
+Andrew Hicks, Veronica Cateté, and Tiffany Barnes Part of the game: Changing level creation to identify and filter low quality user-generated levels
+Britton Horn, Steve Dahlskog, Noor Shaker, Gillian Smith, and Julian Togelius A comparative evaluation of procedural level generators in the Mario AI framework
+Jesper Juul High-tech low-tech authenticity: The creation of independent style at the Independent Games Festival
+Yubo Kou and Bonnie Nard Governance in League of Legends: A hybrid system
+Heather Logas, Jim Whitehead, Michael Mateas, Richard Vallejos, Lauren Scott, Dan Shapiro, John Murray, Kate Compton, Joseph Osborn, Orlando Salvatore, Zhongpeng Lin, Huascar Sanchez, Michael Shavlovsky, Daniel Cetina, Shayne Clementi, and Chris Lewis Software verification games: Designing Xylem, The Code of Plants
+David Maung, Roger Crawfis, Lynne V. Gauthier, Lise Worthen-Chaudhari, Linda P. Lowes, Alex Borstad, Ryan J. McPherson, Jacob Grealy, and Josh Adams Development of Recovery Rapids - A game for cost effective stroke therapy
+Peter Mawhorter, Michael Mateas, Noah Wardrip-Fruin, and Arnav Jhala Towards a theory of choice poetics
+Tony Morelli Slot Machine Development: A course for CS majors
+Andrea Nickel, Jamie Payton, Tiffany Barnes, Erik Wikstrom, Maybellin Burgos, Zachary Wartell, Mykel Pendergrass, Nate Blanchard, and Brian Thomas Balancing physical and cognitive challenge: A study of players' psychological responses to exergame play
+Yolanda A. Rankin, Jakita O. Thomas, India Irish, and Stevie-Mari Hawkins From consumers to producers: African American middle school students as game designers
+Aaron A. Reed, Jacob Garbe, Noah Wardrip-Fruin, and Michael Mateas Ice-Bound: Combining richly-realized story with expressive gameplay
+Holly Robbins and Katherine Isbister Pixel Motion: A surveillance camera-enabled public digital game
+Jonathan P. Rowe, Eleni V. Lobene, Bradford W. Mott, and James C. Lester Play in the museum: Designing game-based learning environments for informal education settings
+Dana Ruggiero The effect of a persuasive game on attitude towards the homeless
+Anastasia Salter and John Murray Marking new ground: Flash, HTML5 and the future of the web arcade
+Kristin Siu, Alexander Zook, and Mark O. Riedl Collaboration versus competition: Design and evaluation of mechanics for games with a purpose
+Sam Snodgrass and Santiago Ontañón Experiments in map generation using Markov chains
+Debbie M. Taylor and Yusuf Pisan Aussie women game developers
+Mike Treanor and Michael Mateas Understanding representation in playable simulations
+Jonathan Tremblay, Christopher Dragert, and Clark Verbrugge Target selection for AI companions in FPS games
+Jonathan Tremblay, Pedro Andrade Torres, and Clark Verbrugge Measuring risk in stealth games
+Riemer van Rozen and Joris Dormans Adapting game mechanics with Micro-Machinations
+Glenn Winters and Jichen Zhu Guiding players through structural composition patterns in 3D adventure games
+Pu Yang, Brent Harrison, and David L. Roberts Identifying patterns in combat that are predictive of success in MOBA games
+Georgios N. Yannakakis, Antonios Liapis, and Constantine Alexopoulos Mixed-initiative co-creativity
+José P. Zagal and Roger Altizer Examining 'RPG elements': Systems of character progression
+Alexander Zook, Eric Fruchter, and Mark O. Riedl Automatic playtesting for game parameter tuning via active learning
+DIGRA 2014
+The Conceptual Relationship Model: Understanding Patterns and Mechanics in Game Design Olsson Carl Magnus Björk Staffan Dahlskog Steve
+Designing Inside the Box or Pitching Practices in Industry and Education Altizer Roger Zagal José P.
+Pressure at Play: Measuring Player Approach and Avoidance Behaviour through the Keyboard van den Hoogen Wouter Braad Eelco Ijsselsteijn Wijnand
+Analysing the history of game controversies Karlsen Faltin
+Out of Context - Understanding the Practicalities of Learning Games Marklund Björn
+Testing the Power of Game Lessons: The Effects of Art and Narrative on Reducing Cognitive Biases Martey Rosa Shaw Adrienne Stromer-Galley Jennifer Kenski Kate Clegg Benjamin Folkestad James Saulnier Emilie Strzalkowski Tomek
+Dots, Fruit, Speed and Pills: The Happy Consciousness of Pac-Man Wade Alex
+Presence and Heuristic Cues: Cognitive Approaches to Persuasion in Games Christiansen Peter
+PThanatogaming: Death, Videogames, and the Biopolitical State Christiansen Peter
+Isomorphic Game Interaction Technique Patterns for Single Button: Definition and Evaluation Breyer Felipe Macêdo Samuel Kelner Judith
+Disrupting the Player's Schematised Knowledge of Game Components Howell Peter Stevens Brett Eyles Mark
+Contextualizing Flow in Games Salisbury John Tomlinson Penda
+Modeling the Semiotic Structure of Game Characters Vella Daniel
+Game Design Patterns for Collaborative Player Interactions Reuter Christian Wendel Viktor Göbel Stefan Steinmetz Ralf
+Exploring the Cause of Game (Derived) Arousal: What biometric accounts of player experience revealed Schott Gareth Marczak Raphaël Neshausen Leanne
+ICIDS 2015
+Touchscreen Poetry: Analyzing Gestural Digital Poems Gabriele Ferri 
+Open Design Challenges for Interactive Emergent Narrative James Owen Ryan, Michael Mateas, Noah Wardrip-Fruin 
+Reflective Rereading and the SimCity Effect in Interactive Stories Alex Mitchell 
+Tensions of Plot in Interactive Digital Storytelling Colette Daiute 
+Design Approaches for Interactive Digital Narrative Hartmut Koenitz 
+Adaptive Storyworlds Henrik Schoenau-Fog
+The Moody Mask Model Bjarke Alexander Larsen, Kasper Ingdahl Andkjær, Henrik Schoenau-Fog 
+Creative Help: A Story Writing Assistant Melissa Roemmele, Andrew S. Gordon
+Remember That Time? Telling Interesting Stories from Past Interactions Morteza Behrooz, Reid Swanson, Arnav Jhala 
+Hybrid Books for Interactive Digital Storytelling: Connecting Story Entities and Emotions to Smart Environments Hajar Ghaem Sigarchian, Ben De Meester, Frank Salliau, Wesley De Neve, Sara Logghe, Ruben Verborgh et al 
+Automatic Annotation of Characters' Emotions in Stories Vincenzo Lombardo, Rossana Damiano, Cristina Battaglino, Antonio Pizzo
+Authoring Background Character Responses to Foreground Characters Fernando Geraci, Mubbasir Kapadia 
+Using a Controlled Natural Language for Specifying the Narratives of Serious Games Frederik Van Broeckhoven, Joachim Vlieghe, Olga De Troyer 
+Tracery: An Author-Focused Generative Text Tool Kate Compton, Ben Kybartas, Michael Mateas 
+A Semantic Foundation for Mixed-Initiative Computational Storytelling Ben Kybartas, Rafael Bidarra 
+Revisiting Computational Models of Creative Storytelling Based on Imaginative Recall Sarah Harmon, Arnav Jhala 
+Narrative Review Process: Getting Useful Feedback on Your Story Jonathan Dankoff, Elizaveta Shkirando
+Connecting the Dots: Quantifying the Narrative Experience in Interactive Media Hákon Jarl Hannesson, Thorbjørn Reimann-Andersen, Paolo Burelli, Luis Emilio Bruni 
+Interaction in Surround Video: The Effect of Auditory Feedback on Enjoyment Mirjam Vosmeer, Christian Roth, Ben Schouten 
+Mise-en-scène: Playful Interactive Mechanics to Enhance Children's Digital Books Fatma Al Aamri, Stefan Greuter 
+Story Immersion in a Gesture-Based Audio-Only Game Wenjie Wu, Stefan Rank 
+Generating Side Quests from Building Blocks Tomáš Hromada, Martin Černý, Michal Bída, Cyril Brom 
+Towards Measuring Consistency Across Transmedial Narratives Jonathan Barbara 
+Evaluation of Yasmine's Adventures: Exploring the Socio-Cultural Potential of Location Aware Multimedia Stories Mara Dionisio, Mary Barreto, Valentina Nisi, Nuno Nunes, Julian Hanna, Bianca Herlo et al. 
+What Makes a Successful Emergent Narrative: The Case of Crusader Kings II Bertrand Lucat, Mads Haahr
+New Dimensions in Testimony: Digitally Preserving a Holocaust Survivor's Interactive Storytelling David Traum, Andrew Jones, Kia Hays, Heather Maio, Oleg Alexander, Ron Artstein et al.
+Urban Games and Storification Paul Schmidt, Frank Nack 
+Novel Dramatic and Ludic Tensions Arising from Mixed Reality Performance as Exemplified in Better Than Life Nicky Donald, Marco Gillies
+Social Media Fiction Francesca Piredda, Mariana Ciancia, Simona Venditti
+Film Education for Primary-School Students Regina Friess, Anke Blessing, Johannes Winter, Meike Zöckler, Felix Eckerle, Felix Prosch et al. 
+Enabling Instrumental Interaction Through Electronics Making: Effects on Children's Storytelling Sharon Lynn Chu, Francis Quek, Michael Saenz, Sourabh Bhangaonkar, Osazuwa Okundaye 
+FDG2015
+Jonathan Campbell, Jonathan Tremblay and Clark Verbrugge Clustering Player Paths
+Aaron Isaksen, Daniel Gopstein and Andy Nealen Exploring Game Space Using Survival Analysis
+Hartmut Koenitz and Sandy Louchart Practicalities and Ideologies, (Re)-Considering the Interactive Digital Narrative Authoring Paradigm
+Adam Summerville, Morteza Behrooz, Michael Mateas and Arnav Jhala The Learning of Zelda: Data-Driven Level Generation for Action Role Playing Games
+Ian Horswill Craft: a constraint-based random-number generator
+Matthew Guzdial, Brent Harrison, Boyang Li and Mark Riedl Crowdsourcing Open Interactive Narrative
+Benjamin Samuel, Aaron Reed, Paul Maddaloni, Michael Mateas and Noah Wardrip-Fruin The Scored Rule Engine: Next-Generation Social Physics
+Alexander Zook, Brent Harrison and Mark Riedl Monte-Carlo Tree Search for Simulation-based Play Strategy Analysis
+Dana Vrajitoru A Pattern-Based Bayesian Network for the Game of Nine Men's Morris
+Mircea Traichioiu, Sander Bakkes and Diederik Roijers Grammar-based Procedural Content Generation from Designer-provided Difficulty Curves
+Brandon Packard and Santiago Ontañón Learning Behavior form Demonstration in Minecraft via Symbolic Similarity Measures
+Jacob Fischer, Nikolaj Falsted, Mathias Vielwerth, Julian Togelius and Sebastian Risi Monte-Carlo Tree Search for Simulated Car Racing
+Gabriele Trovato, Soren Johnson and Pieter Spronck Procedurally Generated History: building a game ecosystem through autoplay
+Adrian Gradinar, Jonny Huck, Paul Coulton, Mark Lochrie and Emmanuel Tsekleves Designing for the Dichotomy of Immersion in Location Based Games
+Choong-Soo Lee and Ivan Ramler Investigating the Impact of Game Features on Champion Usage in League of Legends
+Alessandro Canossa and Gillian Smith Towards a Procedural Evaluation Technique: Metrics for Level Design
+Jakita Thomas Supporting Computational Algorithmic Thinking (SCAT): Understanding the Development of Computational Algorithmic Thinking Capabilities in African-American Middle-School Girls Through Game Design
+Tommy Thompson "With Fate Guiding My Every Move": The Challenge of Spelunky
+Gillian Smith An Analog History of Procedural Content Generation
+Michael Cook and Gillian Smith Formalizing Non-Formalism: Breaking the Rules of Automated Game Design
+Annakaisa Kultima Defining Game Jam
+Miguel Sicart Loops and Metagames: Understanding Game Design Structures
+Mike Treanor, Alex Zook, Mirjam P Eladhari, Julian Togelius, Gillian Smith, Michael Cook, Tommy Thompson, Brian Magerko, John Levine and Adam Smith AI-based Game Design Patterns
+Amy Lu What kind of stories do children like in an active video game (AVG)? An exploratory study
+Daniel Karavolos, Anders Bouwer and Rafael Bidarra Mixed-Initiative Design of Game Levels: Integrating Mission and Space into Level Generation
+Kristien Hjaltason, Steffen Christophersen, Julian Togelius and Mark J. Nelson Game mechanics telling stories? An experiment
+Björn Strååt and Harko Verhagen Top Versus Bottom: Game Evaluation from an Expert or Player Perspective
+Martijn Kors, Erik van der Spek and Ben Schouten A Foundation for the Persuasive Gameplay Experience
+Aida Azadegan, Casper Harteveld and Steven Sutherland Design Approach for Collaborative Cognitive Games
+Steve Dahlskog, Julian Togelius and Staffan Björk Patterns, Dungeons and Generators
+Bob De Schutter and Salvatore Papa Return of the Gradequest - Evaluating the Third Iteration of a Gameful Course
+Bob De Schutter, Danielle Eynon Black and Henk-Herman Nap Teaching Older Adults to Play Minecraft
+Stephen Foster, Sorin Lerner and William Griswold Seamless Integration of Coding and Gameplay: Writing Code Without Knowing it
+Kendra Cooper and Shaun Longstreet Panel: Game Programs in Higher Education - Connecting Colleges with Corporations
+Walt Scacchi and Kendra Cooper Emerging Research Challenges in Computer Games and Software Engineering
+Christopher Totten, Josh McCoy, Lindsay Grace and Sarah Aristil Bug-fixing Game-like Syllabi: Evaluating Common Issues and Iterating New Pedagogical Mechanics
+Magnus Johansson, Harko Verhagen and Yubo Kou I am being watched by the Tribunal: Trust and control in Multiplayer Online Battle Arena games
+John Murray, Edmond Chow and Chrisopher Connolly Something In The Way We Move: Quantifying patterns of exploration in virtual spaces
+Stephan Muller, Mubbasir Kapadia, Seth Frey, Severin Klingler, Richard Mann, Barbara Solenthaler, Robert W. Sumner and Markus Gross Statistical Analysis of Player Behavior in Minecraft
+Lina Eklund Considering Game Companions: Implications for research and design
+Edward Melcer, Truong-Huy Nguyen, Zhengxing Chen, Alessandro Canossa, Magy Seif El-Nasr and Katherine Isbister Games Research Today: Analyzing the Academic Landscape 2000-2014
+Sebastian Deterding The Joys of Absence: Emotion, Emotion Display and Interaction Tension in Video Game Play
+Joachim Prook, Dirk Janssen and Stefano Gualen The Negative Effects of Praise and Flattery
+Sara Mosberg Iversen "Not without my kitties": The old woman in casual games
+Eric Kaltman, Noah Wardrip-Fruin, Henry Lowood and Christy Caldwell Methods and Recommendations for Archival Records of Game Development: The Case of Academic Games
+Dylan Lederle-Ensign, William Robinson, Johnathan Pagnutti and Michael Mateas A Software Studies Approach to Interpreting Passage
+James Owen Ryan, Eric Kaltman, Michael Mateas and Noah Wardrip-Fruin Bottom-up Game Studies
+Peter Christiansen Can't See the Science for the Trees: Representations of Science in Videogames
+Joshua Tanenbaum and Karen Tanenbaum Empathy and Identity in Digital Games: Towards a New Theory of Transformative Play
+Miguel Sicart Participatory Republics: Play and the Political
+Espen Aarseth and Gordon Calleja The Word Game: The ontology of an undefinable object
+James Owen Ryan, Eric Kaltman, Timothy Hong, Michael Mateas and Noah Wardrip-Fruin People Tend to Like Related Games
+Joseph Osborn, Dylan Lederle-Ensign, Noah Wardrip-Fruin and Michael Mateas Combat in Games
+Timothy Mcmahan, Ian Parberry and Thomas Parsons Evaluating Electroencephalography Engagement Indices During Video Game Play
+Joshua Tanenbaum and Karen Tanenbaum Envisioning the Future of Wearable Play: Conceptual Models for Props and Costumes as Game Controllers
+Alessandro Canossa, Jeremy Badler, Magy Seif El-Nasr, Stefanie Tignor and Randy Colvin In Your Face(t) Impact of Personality and Context on Gameplay Behavior
+Thomas Debeauvais and Cristina Lopes Gate Me If You Can: The Impact of Gating Mechanics on Retention and Revenues in Jelly Splash
+Magy Seif El-Nasr, Shree Durga, Mariya Shiyko and Carmen Sceppa Unpacking Adherence and Engagement in Persuasive Health Games
+Tony Morelli, Ethan Coggins and Molly Rossman Usability of Back of Device Virtual Buttons
+Melvin Roest and Sander Bakkes Engaging Casual Games That Frustrate You: An Exploration on Understanding Engaging Frustrating Casual Games
+Noor Shaker, Mohamed Abou-Zleikha and Mohammad Shaker Active Learning for Player Modeling
+Lindsay Grace, Dirk Janssen and James Coyle Persuasive Content: Understanding In-Game Advertising Retention in Players and Onlookers
+Chong-U Lim and D. Fox Harrell Developing Computational Models of Players' Identities and Values from Videogame Avatars
+Truong-Huy Nguyen, Magy Seif El-Nasr and Alessandro Canossa Glyph: Visualization Tool for Understanding Problem Solving Strategies in Puzzle Games
+Erin Martel, Feng Su, Jesse Gerroir, Ahmed Hassan, Audrey Girouard and Kasia Muldner Diving Head-First into Virtual Reality: Evaluating HMD Control Schemes for VR Games
+Joshua Taylor, Ian Parberry and Thomas Parsons Comparing Player Attention on Procedurally Generated vs. Hand Crafted Sokoban Levels with an Auditory Stroop Test
+Lindsay Grace Objects of Affection: Kissing Games on Mobile Devicese
+Antonios Liapis, Amy K. Hoover, Georgios N. Yannakakis, Constantine Alexopoulos and Evangelia V. Dimaraki Iconoscope: Designing a Game for Fostering Creativity
+Tobias Sturn, Steffen Fritz and Michael Wimmer Cropland Capture - A Game for Improving Global Cropland Maps
+Veronika Vanden Abeele, Pieter Tierens, Bob De Schutter, Lee De-Wit and Luc Geurts Game-based Experiments on Human Visual Attention
+Shree Subramanian, Sean Hallinan, Magy Seif El-Nasr, Mariya Shiyko and Carmen Sceppa Investigating behavior change indicators and cognitive measures in persuasive health games
+Kathleen Tuite, Rahul Banerjee, Noah Snavely, Jovan Popovic and Zoran Popovic PointCraft: Harnessing Players' FPS Skills to Interactively Trace Point Clouds in 3D
+Kathleen Tuite and Ira Kemelmacher The Meme Quiz: A Facial Expression Game Combining Human Agency and Machine Involvement
+Jonathan Barone, Colin Bayer, Rowan Copley, Nova Barlow, Matthew Burns, Sundipta Rao, Georg Seelig, Zoran Popovic and Seth Cooper Nanocrafter: Design and Evaluation of a DNA Nanotechnology Game
+Laura Levy, Robert Solomon, Joann Moore, Jason Way, Ruitao Liu and Maribeth Gandy Actions Speak Louder Than Words: An exploration of game play behavior and results from traditional assessments of individual differences
+Brian Chau, Rob Nash, Kelvin Sung and Jason Pace Building Casual Games and APIs for Teaching Introductory Programming Concepts
+Mubbasir Kapadia, Fabio Zund, Jessica Falk, Marcel Marti and Robert W. Sumner Evaluating the Authoring Complexity of Interactive Narratives for Augmented Reality Applications
+Christian Reuter, Stefan Göbel and Ralf Steinmetz Detecting structural deadlocks in Multiplayer Games using automatically generated Petri Nets
+Riemer van Rozen A Pattern-Based Game Mechanics Design Assistant
+Benjamin Mark, Tudor Berechet, Tobias Mahlmann and Julian Togelius Procedural Generation of 3D Caves for Games on the GPU
+ICIDS 2016
+IVRUX: A Tool for Analyzing Immersive Narratives in Virtual Reality Paulo Bala, Mara Dionisio, Valentina Nisi, Nuno Nunes 
+M2D: Monolog to Dialog Generation for Conversational Story Telling Kevin K. Bowden, Grace I. Lin, Lena I. Reed, Jean E. Fox Tree, Marilyn A. Walker 
+Exit 53: Physiological Data for Improving Non-player Character Interaction Joseph Jalbert, Stefan Rank
+Narrative Game Mechanics Teun Dubbelman 
+An Integrated and Iterative Research Direction for Interactive Digital Narrative Hartmut Koenitz, Teun Dubbelman, Noam Knoller, Christian Roth 
+The Narrative Quality of Game Mechanics Bjarke Alexander Larsen, Henrik Schoenau-Fog 
+Improvisational Computational Storytelling in Open Worlds Lara J. Martin, Brent Harrison, Mark O. Riedl 
+GeoPoetry: Designing Location-Based Combinatorial Electronic Literature Soundtracks for Roadtrips Jordan Rickman, Joshua Tanenbau 
+Media of Attraction: A Media Archeology Approach to Panoramas, Kinematography, Mixed Reality and Beyond Rebecca Rouse 
+Bad News: An Experiment in Computationally Assisted Performance Ben Samuel, James Ryan, Adam J. Summerville, Michael Mateas, Noah Wardrip-Fruin
+A Formative Study Evaluating the Perception of Personality Traits for Planning-Based Narrative Generation Julio César Bahamón, R. Michael Young 
+Asking Hypothetical Questions About Stories Using QUEST  Rachelyn Farrell, Scott Robertson, Stephen G. Ware 
+Predicting User Choices in Interactive Narratives Using Indexter's Pairwise Event Salience Hypothesis  Rachelyn Farrell, Stephen G. Ware 
+An Active Analysis and Crowd Sourced Approach to Social Training Dan Feng, Elin Carstensdottir, Sharon Marie Carnicke, Magy Seif El-Nasr, Stacy Marsella 
+Generating Abstract Comics Chris Martens, Rogelio E. Cardona-Rivera 
+A Rules-Based System for Adapting and Transforming Existing Narratives Jo Mazeika
+Evaluating Accessible Graphical Interfaces for Building Story Worlds Steven Poulakos, Mubbasir Kapadia, Guido M. Maiga, Fabio Zünd, Markus Gross, Robert W. Sumner 
+Reading Between the Lines: Using Plot Graphs to Draw Inferences from Stories
+Christopher Purdy, Mark O. Riedl
+Using BDI to Model Players Behaviour in an Interactive Fiction Game Jessica Rivera-Villicana, Fabio Zambetta, James Harland, Marsha Berry 
+Expressionist: An Authoring Tool for In-Game Text Generation James Ryan, Ethan Seither, Michael Mateas, Noah Wardrip-Fruin 
+Recognizing Coherent Narrative Blog Content James Ryan, Reid Swanson 
+Intertwined Storylines with Anchor Points Mei Si, Zev Battad, Craig Carlson 
+Delayed Roles with Authorable Continuity in Plan-Based Interactive Storytelling David Thue, Stephan Schiffel, Ragnar Adolf Árnason, Ingibergur Sindri Stefnisson, Birgir Steinarsso 
+Decomposing Drama Management in Educational Interactive Narrative: A Modular Reinforcement Learning Approach Pengcheng Wang, Jonathan Rowe, Bradford Mott, James Lester
+Bringing Authoritative Models to Computational Drama (Encoding Knebel's Action Analysis) Giacomo Albert, Antonio Pizzo, Vincenzo Lombardo, Rossana Damiano, Carmi Terzulli 
+Strong Concepts for Designing Non-verbal Interactions in Mixed Reality Narratives Joshua A. Fisher 
+Can You Read Me that Story Again? The Role of the Transcript as Transitional Object in Interactive Storytelling for Children María Goicoechea, Mark C. Marino 
+The Character as Subjective Interface Jonathan Lessard, Dominic Arsenault 
+Right, Left, High, Low Narrative Strategies for Non-linear Storytelling Sylke Rene Meyer 
+Qualifying and Quantifying Interestingness in Dramatic Situations Nicolas Szilas, Sergio Estupiñán, Urs Richle
+ICIDS 2017
+RheijnLand.Xperiences - A Storytelling Framework for Cross-Museum Experiences Timo Kahl, Ido Iurgel, Frank Zimmer, René Bakker, Koen van Turnhout 
+Effective Scenario Designs for Free-Text Interactive Fiction Margaret Cychosz, Andrew S. Gordon, Obiageli Odimegwu, Olivia Connolly, Jenna Bellassai, Melissa Roemmel 
+Dynamic Syuzhets: Writing and Design Methods for Playable Stories Hannah Wood 
+Plans Versus Situated Actions in Immersive Storytelling Practices Sarah Lugthart, Michel van Dartel, Annemarie Quispel
+Experiencing the Presence of Historical Stories with Location-Based Augmented Reality Ulrike Spierling, Peter Winzer, Erik Massarczyk 
+Developing a Writer's Toolkit for Interactive Locative Storytelling Heather S. Packer, Charlie Hargood, Yvonne Howard, Petros Papadopoulos, David E. Millard 
+Level of Detail Event Generation Luis Flores, David Thue
+Grimes' Fairy Tales: A 1960s Story Generator James Ryan 
+The Narrative Logic of Rube Goldberg Machines David Olsen, Mark J. Nelson 
+Cinelabyrinth: The Pavilion of Forking Paths Chris Hales 
+Verb+s Is Looking for Love: Towards a Meaningful Narrativization of Abstract Content Serena Zampolli
+Wordless Games: Gameplay as Narrative Technique Yuin Theng Sim, Alex Mitchell 
+A Framework for Multi-participant Narratives Based on Multiplayer Game Interactions Callum Spawforth, David E. Millard 
+Gaming Versus Storytelling: Understanding Children's Interactive Experiences in a Museum Setting Marko Radeta, Vanessa Cesario, Sónia Matos, Valentina Nisi
+Using Interactive Storytelling to Identify Personality Traits Raul Paradeda, Maria José Ferreira, Carlos Martinho, Ana Paiva 
+How Knowledge of the Player Character's Alignment Affect Decision Making in an Interactive Narrative Mette Jakobsen, Daniel Svejstrup Christensen, Luis Emilio Bruni 
+Thinning the Fourth Wall with Intelligent Prompt Rossana Damiano, Vincenzo Lombardo, Antonio Pizzo
+Who Are You? Voice-Over Perspective in Surround Video Mirjam Vosmeer, Christian Roth, Hartmut Koenit 
+Empathic Actualities: Toward a Taxonomy of Empathy in Virtual Reality Joshua A. Fisher 
+Design for Emerging Media: How MR Designers Think About Storytelling, Process, and Defining the Field Rebecca Rouse, Evan Barba
+Enhancing Museums' Experiences Through Games and Stories for Young Audiences
+Vanessa Cesário, António Coelho, Valentina Nisi 
+That's not How It Should End: The Effect of Reader/Player Response on the Development of Narrative Lynda Clark 
+Leveraging on Transmedia Entertainment-Education to Offer Tourists a Meaningful Experience Mara Dionisio, Valentina Nisi, Nuno Correia 
+Embodied and Disembodied Voice: Characterizing Nonfiction Discourse in Cinematic-VR Phillip Doyle 
+Learning and Teaching Biodiversity Through a Storyteller Robot Maria José Ferreira, Valentina Nisi, Francisco Melo, Ana Paiva 
+Authoring Concepts and Tools for Interactive Digital Storytelling in the Field of Mobile Augmented Reality Antonia Kampa  
+NOOA: Maintaining Cultural Identity Through Intergenerational Storytelling and Digital Affinity Spaces Juliana Monteiro, Carla Morais, Miguel Carvalhai 
+An Epistemological Approach to the Creation of Interactive VR Fiction Films María Cecilia Reyes 
+User and Player Engagement in Local News and/as Interactive Narratives Torbjörn Svensso 
+Grammar Stories: A Proposal for the Narrativization of Abstract Contents Serena Zampolli
+ICIDS2018
+Research into Interactive Digital Narrative: A Kaleidoscopic View Janet H. Murray
+Science Considered Helpful R. Michael Young 
+Thoughts on a Discipline for the Study of Interactive Digital Narratives Hartmut Koenitz 
+A Villain's Guide to Social Media and Interactive Digital Storytelling Mark Bernstein, Clare Hooper
+Re-Tellings: The Fourth Layer of Narrative as an Instrument for Critique Mirjam Palosaari Eladhar 
+Comparing Player Responses to Choice-Based Interactive Narratives Using Facial Expression Analysis John T. Murray, Raquel Robinson, Michael Mateas, Noah Wardrip-Fruin 
+Ludonarrative Hermeneutics: A Way Out and the Narrative Paradox Christian Roth, Tom van Nuenen, Hartmut Koenitz 
+The Myth of 'Universal' Narrative Models Hartmut Koenitz, Andrea Di Pastena, Dennis Jansen, Brian de Lint, Amanda Moss 
+Predictability and Plausibility in Interactive Narrative Constructs: A Case for an ERP Study Bjørn Anker Gjøl, Niels Valentin Jørgensen, Mathias Ramsø Thomsen, Luis Emilio Bruni 
+Meta-communication Between Designers and Players of Interactive Digital Narratives Colette Daiute, Robert O. Duncan, Fedor Marchenk 
+A Framework for Creative Teams of Non-fiction Interactive Digital Narratives Nicole Basaraba 
+A Multidimensional Classification of Choice Presentation in Interactive Narrative Sergio Estupiñán, Brice Maret, Kasper Andkjaer, Nicolas Szila 
+Narrative Consistency across Replays of Pro-social Interactive Digital Narratives Jonathan Barbara
+Sketching a Map of the Storylets Design Space Max Kreminski, Noah Wardrip-Fruin 
+Creating and Sharing Interactive Narrative Design Knowledge - A Multipronged Approach Hartmut Koenitz, Christian Roth, Teun Dubbelman 
+Exploring Bloom's Taxonomy as a Basis for Interactive Storytelling Sarah Harmon, Seth Chatterton 
+A Tool for Interactive Visualization of Narrative Acts Nicolas Szilas, Monika Marano, Sergio Estupiñá 
+A Research on Storytelling of Interactive Documentary: Towards a New Storytelling Theory Model Chanjun Mu 
+Agency and Authorship in Ludic Narrative Environments Samantha Schäfer
+Playing with Vision: Sight and Seeing as Narrative and Game Mechanics in Survival Horror Mads Haahr 
+"The Link Out" Andrea Di Pastena, Dennis Jansen, Brian de Lint, Amanda Moss 
+Narrative-Led Interaction Techniques Felipe Breyer, Judith Kelner, Daniel Ferreira, José Paulo Teixeira, Paulo de Lima Filho, Pedro Henrique Mendonça et al. 
+Perceived Agency as Meaningful Expression of Playable Character Personality Traits in Storygames Liting Kway, Alex Mitchell 
+Filling in the Gaps: "Shell" Playable Characters Trena Lee, Alex Mitchell 
+A Model for Describing Alternate Reality Games Ryan Javanshir, Beth Carroll, David E. Millard 
+Frammenti: The ARG About Erasing Memories, That Was Forgotten Serena Zampolli 
+Structuring Digital Game Stories Elizabeth Goins 
+Player Identity and Avatars in Meta-narrative Video Games: A Reading of Hotline Miami  Luca Papale, Lorenzo Fazio 
+Throwing Bottles at God: Predictive Text as a Game Mechanic in an AI-Based Narrative Game Max Kreminski, Noah Wardrip-Fruin 
+The Story Pile - Representing Story in the Board Game Mind Shadows Mirjam Palosaari Eladhar 
+Margaret's Esther Doorly, Kelly McErlea 
+Narrative Game Mechanics and Interactive Fiction Kirsty Michelle McGill
+Measuring User Experience on Interactive Fiction in Cinematic Virtual Reality Maria Cecilia Reyes 
+Director's Cut - Analysis of Aspects of Interactive Storytelling for VR Films Colm O. Fearghail, Cagri Ozcinar, Sebastian Knorr, Aljosa Smoli 
+Spatial Storytelling: Finding Interdisciplinary Immersion Asim Hameed, Andrew Perki 
+Cue Control: Interactive Sound Spatialization for 360 Videos Paulo Bala, Raul Masu, Valentina Nisi, Nuno Nunes 
+Social Viewing in Cinematic Virtual Reality: Challenges and Opportunities Sylvia Rothe, Mario Montagud, Christian Mai, Daniel Buschek, Heinrich Hußmann 
+Making New Narrative Structures with Actor's Eye-Contact in Cinematic Virtual Reality (CVR) Dong-uk Ko, Hokyoung Ryu, Jieun Ki 
+Jonathan Swift: Augmented Reality Application for Trinity Library's Long Room Néill O'Dwyer, Jan Ondřej, Rafael Pagés, Konstantinos Amplianitis, Aljoša Smolić 
+Leaving the Small Screen: Telling News Stories in a VR Simulation of an AR News Service Torbjörn Svensson, Lissa Holloway-Attaway, Etienne Beroldy
+Sleep Tight Johnny Idaho A Multicultural Exploration into Virtual Reality Nick Verouden, Mirjam Vosmeer, Alyea Sandova 
+Faoladh: A Case Study in Cinematic VR Storytelling and Production Declan Dowling, Colm O. Fearghail, Aljosa Smolic, Sebastian Knorr 
+Cinematic VR as a Reflexive Tool for Critical Empathy Sojung Bahng 
+Partners: Human and Nonhuman Performers and Interactive Narrative in Postdigital Theater Rebecca Rouse  
+'What Country, Friends, Is This?' Using Immersive Theatre Practice to Inform the Design of Audience Experience in Estate 360° Scott Palmer 
+From Literary Novel to Radio Drama to VR Project Mirjam Vosmeer, Alyea Sandovar, Ben Schouten 
+fanSHEN's Looking for Love: A Case Study in How Theatrical and Performative Practices Inform Interactive Digital Narratives Daniel Barnard 
+Vox Populi Sytze Schalk
+Automatic Detection of Conflicts in Complex Narrative Structures Nicolas Szilas, Sergio Estupiñán, Urs Richle 
+Narrative Improvisation: Simulating Game Master Choices Jonathan Strugnell, Marsha Berry, Fabio Zambetta, Stefan Greuter  
+Communicating Assertiveness in Robotic Storytellers Raul Paradeda, Maria José Ferreira, Carlos Martinho, Ana Paiva 
+Automatic Plot Generation Framework for Scenario Creation Yoji Kawano, Eichi Takaya, Kazuki Yamanobe, Satoshi Kurihara  
+Towards Generating Stylistic Dialogues for Narratives Using Data-Driven Approaches Weilai Xu, Charlie Hargood, Wen Tang, Fred Charles 
+Expressive Range Analysis of a Possible Worlds Driven Emergent Narrative System
+Ben Kybartas, Clark Verbrugge, Jonathan Lessard 
+Playing Story Creation Games with Logical Abduction Andrew S. Gordon, Ulrike Spierling 
+Apply Storytelling Techniques for Describing Time-Series Data Zev Battad, Mei Si 
+Would You Follow the Suggestions of a Storyteller Robot? Raul Paradeda, Maria José Ferreira, Carlos Martinho, Ana Paiv 
+A Character Focused Iterative Simulation Approach to Computational Storytelling Leonid Berov
+Contemporary Issues in Interactive Storytelling Authoring Systems Daniel Green, Charlie Hargood, Fred Charles
+How Do Writing Tools Shape Interactive Stories? Sofia Kitromili, James Jordan, David E. Millard 
+A Framework for Classifying and Describing Authoring Tools for Interactive Digital Narrative Yotam Shibolet, Noam Knoller, Hartmut Koenitz 
+StoryMINE: A System for Multiplayer Interactive Narrative Experiences Callum Spawforth, Nicholas Gibbins, David E. Millard 
+Authoring for Interactive Storytelling Alex Mitchell, Ulrike Spierling, Charlie Hargood, David E. Millard 
+Creating Interactive Adaptive Real Time Story Worlds Henrik Schoenau-Fog, Bjarke Alexander Larsen 
+Card-Based Methods in Interactive Narrative Prototyping Hartmut Koenitz, Teun Dubbelman, Noam Knoller, Christian Roth, Mads Haahr, Digdem Sezen et al. 
+Novella: An Authoring Tool for Interactive Storytelling in Games Daniel Green
+Spatial Participation Gap: Towards a Conceptual Perspective on Locative Storytelling Creation Cláudia Silva 
+Toward an Ethics of Interactive Storytelling at Dark Tourism Sites in Virtual Reality Joshua A. Fisher, Sarah Schoemann 
+Interactive Digital Narratives (IDN) for Change Teun Dubbelman, Christian Roth, Hartmut Koenitz 
+Applying Interactive Storytelling in Cultural Heritage: Opportunities, Challenges and Lessons Learned Akrivi Katifori, Manos Karvounis, Vassilis Kourtis, Sara Perry, Maria Roussou, Yannis Ioanidis 
+From Co-Curation to Co-Creation: Users as Collective Authors of Archive-Based Cultural Heritage Narratives Fabian Mohr, Soenke Zehle, Michael Schmitz 
+Interactive Digital Storytelling and Self-expression in the Context of Young Male Migrants Carolina Beniamina Rutta, Gianluca Schiavo, Massimo Zancanar 
+A Top-Down Narrative Design Approach for Networked Cultural Institutions Tonguc Ibrahim Sezen, Ido Iurgel, Nicolas Fischöder, René Bakker, Koen van Turnhout, Digdem Sezen
+Digital Storytelling and Phrasal Verbs in L2 Acquisition: Teaching Phraseology Through Technology Annalisa Raffone 
+Designing Learning Experiences for Interactive Digital Narrative Literacy: A New Paradigm Emily Bell, Emily Coolidge Toker, Paul Hanna 
+Co-constructing Cultural Heritage Through a Web-Based Interactive Digital Narrative Nicole Basaraba 
+Leveraging on Transmedia Entertainment Education to Augment Tourists' Awareness Towards Social Issues Mara Dionisio, Valentina Nisi, Nuno Correia 
+Folklore and Digital Media: Unpacking the Meaning of Place Through Digital Storytelling Tanis Grandison 
+Interactive Comic-Based Digital Storytelling for Self-expression Carolina Beniamina Rutta, Gianluca Schiavo, Massimo Zancanaro 
+Creating a Virtual Support Group in an Interactive Narrative: A Companionship Game for Cancer Patients Alice Bowman
+DiGRA2015
+Co-Creative Game Design in MMORPGs Prax Patrick
+Exploring Playful Experiences in Social Network Games Paavilainen Janne Koskinen Elina Korhonen Hannu Alha Kati
+Inviting Grief into Games: The Game Design Process as Personal Dialogue Harrer Sabine Schoenau-Fog Henrik
+Independent gamework and identity: Problems and subjective nuances Guevara-Villalobos Orlando
+Time to Reminisce and Die: Representing Old Age in Art Games Cosima Rughiniș Elisabeta Toma Răzvan Rughiniș
+How gaming achieves popularity: The case of The Smash Brothers Elmezeny Ahmed Wimmer Jeffrey
+Ethical Recognition of Marginalized Groups in Digital Games Culture Hammar Emil Lundedal
+Applying the Two-Factor-Theory to the PLAY Heuristics Strååt Björn Warpefelt Henrik
+Cues and insinuations: Indicating affordances of non-player character using visual indicators Warpefelt Henrik
+Gaming Experience as a Prerequisite for the Adoption of Digital Games in the Classroom Hoblitz Anna
+The Use of Theory in Designing a Serious Game for the Reduction of Cognitive Biases
+Barton Meg Symborski Carl Quinn Mary Magee Morewedge Carey K. Kassam Karim S. Korris James H.
+Animal Crossing: New Leaf and the Diversity of Horror in Video Games Brown Ashley Marklund Björn
+Systematic Analysis of In-Game Purchases and Social Features of Mobile Social Games in Japan Shibuya Akiko Teramoto Mizuha Shoun Akiyo
+Affective and Bodily Involvement in Children's Tablet Play Waern Annika Bohne Gunnar
+Playing Across Media: Exploring Transtextuality in Competitive Games and eSports Egliston Ben
+Creating Stealth Game Interventions for Attitude and Behavior Change: An "Embedded Design" Model Kaufman Geoff Flanagan Mary Seidman Max
+Analysing Cultural Heritage and its Representation in Video Games Balela Majed S. Mundy Darren
+Taking a Look at the Player's Gaze: The Effects of Gaze Visualizations on the Perceived Presence in Games Lankes Michael Wagner Stefan
+Game Elements-Attributes Model: a First Step towards a Structured Comparison of Educational Games Heintz Stephanie Lai-Chong Law Effie
+Roleplaying and Rituals For Cultural Heritage-Orientated Games Champion Erik
+Digitising Boardgames: Issues and Tensions Rogerson Melissa J. Gibbs Martin Smith Wally
+The Tragedy of Betrayal: How the Design of Ico and Shadow of the Colossus Elicits Emotion Cole Tom
+Ideological Narratives of Play in Tropico 4 and Crusader Kings II Lucat Bertrand Haahr Mads
+The Concept and Research of Gendered Game Culture Friman Usva
+The Well-Played MOBA: How DotA 2 and League of Legends use Dramatic Dynamics Winn Chris
+Costume Agency in German Larp Bienia Rafael
+Whose mind is the signal? Focalization in video game narratives Allison Fraser
+A Model for Exploring the Usefulness of Games for Classrooms Stieler-Hunt Colleen Jones Christian M.
+Postdigital Play and the Aesthetics of Recruitment Jayemanne Darshana Nansen Bjorn Apperley Thomas H.
+EVE is Real Carter Marcus Bergstrom Kelly Webber Nick Milik Oskar
+Failed Games: Lessons Learned from Promising but Problematic Game Prototypes in Designing for Diversity Seidman Max Flanagan Mary Kaufman Geoff
+The role of gaming platforms in young males' trajectories of technical expertise Baxter-Webb Joe
+Understanding Player Experience Through the Use of Similarity Matrix Marczak Raphaël Schott Gareth Hanna Pierre
+Editors of Play: The Scripts and Practices of Co-creativity in Minecraft and LittleBigPlanet Abend Pablo Beil Benjamin
+Defining the Global Ludo Polychotomy James Bradley Fletcher B. D.
+Hackers and Cyborgs: Binary Domain and Two Formative Videogame Technicities Keogh Brendan
+Early Computer Game Genre Preferences (1980-1984)Lessard Jonathan
+The Limits of the Evolution of Female Characters in the Bioshock Franchise Toh Weimin
+ICIDS2019
+Experimental Analysis of Spatial Sound for Storytelling in Virtual Reality  Saylee Bhide, Elizabeth Goins, Joe Geigel  
+A Model for Analyzing Diegesis in Digital Narrative Games Erica Kleinman, Elin Carstensdottir, Magy Seif El-Nasr 
+An Educational Program in Interactive Narrative Design Hartmut Koenitz, Teun Dubbelman, Christian Roth 
+Challenges of IDN Research and Teaching Hartmut Koenitz, Mirjam Palosaari Eladhari 
+Is "Citizen Kane" Moment Coming? - A Research on Chinese VR Documentary Practice and Storytelling Chanjun Mu
+Someone Else's Story: An Ethical Approach to Interactive Narrative Design for Cultural Heritage Rebecca Rouse
+Practical Insights for XR Devised Performances Joshua A. Fisher, Melissa Foulger, Jennifer Edwards 
+Using Ink and Interactive Fiction to Teach Interactive Design Kenton Taylor Howard, Rachel Donle 
+How Relevant Is Your Choice? Lobke Kolhoff, Frank Nack 
+Designing and Developing Interactive Narratives for Collaborative Problem-Based Learning Bradford W. Mott, Robert G. Taylor, Seung Y. Lee, Jonathan P. Rowe, Asmalina Saleh, Krista D. Glazewski et al. 
+The 'Angstfabriek' Experience: Factoring Fear into Transformative Interactive Narrative Design Christian Roth 
+Spaceline: A Concept for Interaction in Cinematic Virtual Reality Sylvia Rothe, Heinrich Hussmann 
+Facilitating Information Exploration of Archival Library Materials Through Multi-modal Storytelling Zev Battad, Andrew White, Mei Si 
+The Impact of Multi-character Story Distribution and Gesture on Children's Engagement Harrison Jesse Smith, Brian K. Riley, Lena Reed, Vrindavan Harrison, Marilyn Walker, Michael Neff  
+Dungeon on the Move: A Case Study of a Procedurally Driven Narrative Project in Progress Maurice Suckling 
+Choose Your Permanent Adventure: Towards a Framework for Irreversible Storygames Kenneth Tan, Alex Mitchel 
+The Potential of Interactive Digital Narratives. Agency and Multiple Perspectives in Last Hijack Interactive Renske van Enschot, Iris Boogaard, Hartmut Koenitz, Christian Roth
+Leveraging Machinima to Characterize Comprehension of Character Motivation Kara Cassell, R. Michael Young 
+Narrative Urgency: Motivating Action in Interactive Digital Media Bjørn Anker Gjøl, Niels Valentin Jørgensen, Luis Emilio Bruni 
+"What'chu Lookin' At?": Narrative, Spectatorship, and Ludic Constructivism in Variable State's Virginia Ryan House 
+The Story We Cannot See: On How a Retelling Relates to Its Afterstory Bjarke Alexander Larsen, Luis Emilio Bruni, Henrik Schoenau-Fog 
+"Well, That was Quick" - Towards Storyworld Adaptivity that Reacts to Players as People Bjarke Alexander Larsen, Henrik Schoenau-Fog 
+A Spectrum of Audience Interactivity for Entertainment Domains Alina Striner, Sasha Azad, Chris Martens 
+Towards Intelligent Interactive Theatre: Drama Management as a Way of Handling Performance Nic Velissaris, Jessica Rivera-Villicana
+Towards Procedural Generation of Narrative Puzzles for Adventure Games Barbara De Kegel, Mads Haahr 
+JUNGLE: An Interactive Visual Platform for Collaborative Creation and Consumption of Nonlinear Transmedia Stories Mubasir Kapadia, Carlos Manuel Muniz, Samuel S. Sohn, Ye Pan, Sasha Schriber, Kenny Mitchell et al. 
+Toolkit for the Creation of a Drama Dataset Vincenzo Lombardo, Rossana Damiano, Antonio Pizzo 
+Villanelle: An Authoring Tool for Autonomous Characters in Interactive Fiction Chris Martens, Owais Iqbal 
+A Hierarchical Approach for Visual Storytelling Using Image Description Md. Sultan Al Nahian, Tasmia Tasrin, Sagar Gandhi, Ryan Gaines, Brent Harrison 
+A Knowledge Representation for Planning-Based Story Generation Applied to the Manual and Automatic Encoding of Plot Rushit Sanghrajka, R. Michael Young 
+ShowRunner: A Tool for Storyline Execution/Visualization in 3D Game Environments Rushit Sanghrajka, R. Michael Young, Brian Salisbury, Eric W. Lang 
+Using VR to Simulate Interactable AR Storytelling Torbjörn Svensson 
+Firebolt: A System for Automated Low-Level Cinematic Narrative Realization Brandon R. Thorne, David R. Winer, Camille Barot, R. Michael Young 
+Interactive Narrative Generation Using Location and Genre Specific Context Jon Womack, William Freeman 
+Emotion-Based Story Event Clustering Hye-Yeon Yu, Seohui Park, Yun-Gyung Cheong, Moon-Hyun Kim, Byung-Chull Bae
+Embodying Cognitive Processes in Storytelling Interfaces for Children Sarah Anne Brown, Sharon Lynn Chu, Trystan Loustau 
+Towards a Gesture-Based Story Authoring System: Design Implications from Feature Analysis of Iconic Gestures During Storytelling Sarah Anne Brown, Sharon Lynn Chu, Francis Quek, Pomaikai Canaday, Qing Li, Trystan Loustau et al. 
+When Did I Lose Them? Using Process Mining to Study User Engagement in Interactive Digital Narratives Sergio Estupiñán, Nicolas Szilas 
+Effects of Higher Interactivity on the Interactive Narrative Experience: An Experimental Study Liudmyla Gapiuk, Sergio Estupiñán, Nicolas Szilas 
+Towards a Quality Framework for Immersive Media Experiences: A Holistic Approach Asim Hameed, Shafaq Irshad, Andrew Perkis 
+The Effects of Interactive Emotional Priming on Storytelling: An Exploratory Study Nanjie Rao, Sharon Lynn Chu, Randi Weitzen Faris, Daniel Ospina 
+Cognitive Training for Older Adults with a Dialogue-Based, Robot-Facilitated Storytelling System Seiki Tokunaga, Katie Seaborn, Kazuhiro Tamura, Mihoko Otake-Matsuura
+Companionship Games: A Framework for Emotionally Engaging and Empathetic Interactive Characters Alice Bowman 
+Towards Design Principles for Fashion in Interactive Emergent Narrative Kenneth Chen 
+A Design Framework for Learning About Representation in Video Games Through Modification of Narrative and Gameplay Kenton Taylor Howard
+DiGRA/FDG 2016
+Toward Ludic Gerontechnology: a Review of Games for Dementia Care Dormann Claire
+Good Violence, Bad Violence: The Ethics of Competition in Multiplayer Games Nguyen C. Thi Zagal José P.
+Creative Communities: Shaping Process through Performance and Play Parker Lynn Galloway Dayna
+An Impression of Home: Player Nostalgia and the Impulse to Explore Game Worlds Sloan Robin J. S.
+4x Gamer as Myth: Understanding through Player Mythologies Harrington Johnathan
+Prank, Troll, Gross and Gore: Performance Issues in Esport Live-Streaming Karhulahti Veli-Matti
+"We Don't Sell Blocks" Exploring Minecraft's Commissioning Market Koutsouras Panagiotis Martindale Sarah Crabtree Andy
+The Impact of Co-Located Play on Social Presence and Game Experience in a VR Game Gómez Maureira Marcello A. Verbeek Fons
+Super Mario as a String: Platformer Level Generation Via LSTMs Summerville Adam J. Mateas Michael
+BioGraphr: Science Games on a Biotic Computer Gerber Lukas C. Doshi Michael C. Kim Honesty Riedel-Kruse Ingmar H.
+Critical Alternative Journalism from the Perspective of Game Journalists Prax Patrick Soler Alejandro
+Four Lenses for Designing Morally Engaging Games Ryan Malcolm Staines Dan Formosa Paul
+Interactive Biotechnology: Design Rules for Integrating Biological Matter into Digital Games Gerber Lukas C. Kim Honesty Riedel-Kruse Ingmar H.
+Behaviour Change Wheel Driven Normative Feedback in a Serious Game for Energy Conservation Wells Lindsay de Salas Kristy Lewis Ian
+Combining Speech Intervention and Cooperative Game Design for Children with ASD Lyon Natalie Leitman David I. Zhu Jichen
+Discovering Social and Aesthetic Categories of Avatars: A Bottom-Up Artificial Intelligence Approach Using Image Clustering Lim Chong-U Liapis Antonios Harrell Fox D.
+GameNet and GameSage: Videogame Discovery as Design Insight Ryan James Kaltman Eric Hong Timothy Isbister Katherine Mateas Michael Wardrip-Fruin Noah
+Designing a Serious Game for General Practice Management Strien Jan Batenburg Ronald Dalpiaz Fabiano
+The Emancipated Player Farca Gerald
+Critical Acclaim and Commercial Success in Mobile Free-to-Play Games Alha Kati Koskinen Elina Paavilainen Janne Hamari Juho
+Source Code and Formal Analysis: A Hermeneutic Reading of Passage Willumsen Ea Christina
+Selling out the magic circle: free-to-play games and developer ethics Jordan Philipp Buente Wayne Silva Paula Alexandra Rosenbaum Howard
+"Who Am 'I' in the Game?": A Typology of the Modes of Ludic Subjectivity Vella Daniel
+Game Essays as Critical Media and Research Praxis de Smale Stephanie
+"Playing RPG Maker"? Amateur Game Design and Video Gaming Hurel Pierre-Yves
+Designing Unconventional Use of Conventional Displays in Games: Some Assembly Required Goddard William Muscat Alexander
+The Journey to Nature: The Last of Us as Critical Dystopia Farca Gerald Ladevèze Charlotte
+You Say Jump, I Say How High? Operationalising the Game Feel of Jumping Fasterholdt Martin Pichlmair Martin Holmgård Christoffer
+Conventions within eSports: Exploring Similarities in Design Al Dafai Samer
+Paratextual Play: Unlocking the Nature of Making-of Material of Games Glas René
+Making the Familiar Unfamiliar: Techniques for Creating Poetic Gameplay Mitchell Alex
+Enacting aporia: Roger Caillois' game typology as formalist methodology Ottens Michel
+The Diversity of Attitudes towards Play at the Workplace - A Case of an Academic Community Nummenmaa Timo Kankainen Ville Savolainen Sampo Kultima Annakaisa Karvinen Juho Alha Kati Syvänen Antti Tyni Heikki
+First-Person Walkers: Understanding the Walker Experience through Four Design Themes Muscat Alexander Goddard William Duckworth Jonathan Holopainen Jussi
+Three Shadowed Dimensions of Feminine Presence in Video Games Cosima Rughiniș Răzvan Rughiniș Toma Elisabeta
+Grouches, Extraverts, and Jellyfish: Assessment Validity and Game Mechanics in a Gamified Assessment Levy Laura Solomon Rob Johnson Jeremy Wilson Jeff Lambeth Amy Gandy Maribeth Joann Moore Way Jason Liu Ruitao
+A Statistical Analysis of Player Improvement and Single-Player High Scores Isaksen Aaron Nealen Andy
+Design Lessons From Binary Fission: A Crowd Sourced Game for Precondition Discovery
+Compton Kate Logas Heather Osborn Joseph C. Chakrabortti Chandranil Coffman Kelsey Fava Daniel Lederle-Ensign Dylan Lin Zhongpeng Mazeika Jo Mobramaein Afshin Pagnutti Johnathan Sanchez Husacar Whitehead Jim Laurel Brenda
+Rapidly-Exploring Random Tree approach for Geometry Friends Soares Rui Leal Francisco Prada Rui Melo Francisco
+Using Interactive Social Story Games to Teach Social Skills to Children with Autism Zhu Jichen Kerns Connor M. Connell James Lyon Natalie
+Review of Social Features in Social Network Games Paavilainen Janne Alha Kati Korhonen Hannu
+Player Rating Systems for Balancing Human Computation Games: Testing the Effect of Bipartiteness Cooper Seth Deterding Sebastian Tsapakos Theo
+Critically Approaching the Playful and Participatory Genealogy of MOBAs Jarrett Josh
+Two Worlds, One Gameplay: A Classification of Visual AR Games Knauer Marina Mütterlein Joschka
+Spectrum: Exploring the Effects of Player Experience on Game Design Portelli Jean-Luc Khaled Rilla
+Developing Ideation Cards for Mixed Reality Game Design Wetzel RIchard Rodden Tom Benford Steve
+Playful Fandom: Gaming, Media and the Ludic Dimensions of Textual Poaching Mavridou Orion
+Digital Detritus: What Can We Learn From Abandoned Massively Multiplayer Online Game Avatars? Bergstrom Kelly de Castell Suzanne Jenson Jennifer
+G-Player: Exploratory Visual Analytics for Accessible Knowledge Discovery Canossa Alessandro Nguyen Truong-Huy D. Seif El-Nasr Magy
+Integrating Curiosity and Uncertainty in Game Design To Alexandra Ali Safinah Kaufman Geoff Hammer Jessica
+Finding Meaning in Abstract Games: A Deep Reading of Sage Solitaire Treanor Mike
+Playing the System: Comparing the Efficacy and Impact of Digital and Non-Digital Versions of a Collaborative Strategy Game Kaufman Geoff Flanagan Mary
+Collegiate E-sports as Work or Play Kauweloa Sky Winter Jennifer Sunrise
+The Tapper Videogame Patent as a Series of Close Readings Nelson Mark J.
+A Lightweight Videogame Dialogue Manager Ryan James Mateas Michael Wardrip-Fruin Noah
+Environmental Storytelling, Ideologies and Quantum Physics: Narrative Space And The BioShock Games Zakowski Samuel
+Game Jams as an Opportunity for Industry Development de Salas Kristy Lewis Ian Bindoff Ivan
+Playing with Data: Procedural Generation of Adventures from Open Data Barros Gabriella A.B. Liapis Antonios Togelius Julian
+Selling the Imperium: Changing Organisational Culture and History in EVE Online Webber Nick Milik Oskar
+What Does it Mean to be Orlanthi? Hermeneutic Challenge in King of Dragon Pass Arjoranta Jonne
+Sustainable Life Cycle Game Design: Mixing Games and Reality to Transform Education Harteveld Casper Folajimi Yetunde Sutherland Steven C
+Bridging the Physical Learning Divides: A Design Framework for Embodied Learning Games and Simulations Melcer Edward Isbister Katherine
+"Ruinensehnsucht" - Longing for Decay in Computer Games Fuchs Mathias
+Walking Simulators: The Digitisation of an Aesthetic Practice Carbo-Mascarell Rosa
+Grounded Theory in Games Research: Making the Case and Exploring the Options Salisbury John Cole Tom
+FDG17
+Identifying and Evaluating Successful Non-meta Strategies in League of Legends Choong-Soo Lee, Ivan Ramler
+Difficulty Influence on Motivation over Time in Video Games using Survival Analysis Thibault Allart, Guillaume Levieux, Michel Pierfitte, Agathe Guilloux, Stephane Natkin
+Vixen: Interactive Visualization of Gameplay Experiences Brandon Drenikow, Pejman Mirza-Babaei
+SeekWhence - A Retrospective Analysis Tool for General Game Design Tiago Machado, Andy Nealen, Julian Togelius
+Predicting Future States in DotA 2 using Value-split Models of Time Series Attribute Data Zach Cleghern, Soumendra Lahiri, Osman Ozaltin, David Roberts
+Program Synthesis as a Generative Method Eric Butler, Kristin Siu, Alexander Zook
+Graph Grammar-based Controllable Generation of Puzzles for a Learning Game
+about Parallel Programming Josep Valls-Vargas, Jichen Zhu, Santiago Ontañón
+Understanding Mario: An Evaluation of Design Metrics For Platformers Adam Summerville, Julian Mariño, Sam Snodgrass, Santiago Ontañón, Levi Lelis
+AI-Assisted Analysis of Player Strategy across Level Progressions in a Puzzle Game Britton Horn, Amy K. Hoover, Yetunde Folajimi, Casper Harteveld, Gillian Smith, Jackie Barnes
+Synthesizing Explainable Strategies for Solving Puzzle Games Eric Butler, Emina Torlak, Zoran Popovic
+Procedural Zelda: A PCG Environment for Player Experience Research Norbert Heijne, Sander Bakkes
+Deriving Quests from Open World Mechanics Ryan Alexander, Chris Martens
+AI-based Playtesting of Contemporary Board Games Fernando De Mesentier Silva Scott Lee, Julian Togelius, Andy Nealen
+Video Games as a Distributed Computing Resource Corey Clark, Myque Ouellette
+Plagues and People: Engineering Player Participation and Prevention in a Virtual
+Epidemic Deborah Fields, Yasmin Kafai, Michael Giang, Nina Fefferman, Jacqueline Wong
+Effects of Controller-based Locomotion on Player Experience in a Virtual Reality
+Exploration Game Julian Frommel, Sven Sonntag, Michael Weber
+Greedy Heuristics for Client Assignment Problem by Zones Shawn Farlow, Jerry Trahan
+Languages of Play: Toward Semantic Foundations for Game Interfaces Chris Martens, Matthew Hammer
+Behavior Change Types with Pokémon GO Tuomas Kari, Jonne Arjoranta, Markus Salo
+Evaluating Singleplayer and Multiplayer in Human Computation Games Kristin Siu, Matthew Guzdial, Mark Riedl
+The Influence of Social Entities in Virtual Reality Games on Player Experience and Immersion Stefan Liszio, Katharina Emmerich, Maic Masuch
+All the Feels: Designing a Tool that Reveals Streamers' Biometrics to Spectators Raquel Robinson, Zachary Rubin, Elena Márquez Segura, Katherine Isbister
+Meaning without Consequence: Virtue Ethics and Inconsequential Choices in
+Games Jeff Nay, Jose Zagal
+Prosocial Behavior in an Online Game Community: An Ethnographic Study of
+Antisocial Behavior Handling in League of Legends Yubo Kou, Magnus Johansson, Harko Verhagen
+Getting the GISST: A Toolkit for the Creation, Analysis and Reference of Game Studies Resources Eric Kaltman, Joseph Osborn, Noah Wardrip-Fruin, Michael Mateas
+The Gender and Race of Pixels: An Exploration of Intersectional Identity Representation and Construction within Minecraft and its Community Emma Anderson, Justice Walker, Yasmin Kafai, Debora Lui
+Metagames: On the Ontology of Games Outside of Games Michael S. Debus
+This is Fine: #ResistJam and the 2016 Election in Gaming Anastasia Salter, Bridget Blodgett
+Designing for Immediate Play Martin Pichlmair, Lena Mech, Miguel Sicart
+Designing Ethical Systems for Videogames Peter Christiansen
+Engagement Effects of Player Rating System-Based Matchmaking for Level
+Ordering in Human Computation Games Anurag Sarkar, Michael Williams, Sebastian Deterding, Seth Cooper
+Towards a Narrative Taxonomy of Physical Games Anne Sullivan, Anastasia Salter
+Designing eBee: A Reflection on Quilt-Based Game Design Isabella Carlsson, Jeanie Choi, Celia Pearce, Gillian Smith
+Mechanics Automatically Recognized via Interactive Observation: Jumping Adam Summerville, Joseph Osborn, Christoffer Holmgard, Daniel Zhang, Michael Mateas
+Dragon Architect: Open Design Problems for Guided Learning in a Creative Computational Thinking Sandbox Game Aaron Bauer, Eric Butler, Zoran Popović
+Refining Operational Logics Joseph Osborn, Noah Wardrip-Fruin, Michael Mateas
+FDG18
+Multi-dimensional Player Skill Progression Modelling for Procedural Content Generation Francisco Bicho, Carlos Martinho
+Hybrid Network Clusters using Common Gameplay for Massively Multiplayer Online Games Jared Plumb, Sneha Kasera, Ryan Stutsman
+Socialeyes: Social Gaze in Collaborative 3D Games Michael Lankes, Matej Rajtár, Oleg Denisov, Bernhard Maurer
+An Analysis and Comparative User Study on Interactions in Mobile Virtual Reality Games Jose Font, Simon Bothén, Patrik Nilsson
+UPEQ: Ubisoft Perceived Experience Questionnaire Ahamd Azadvar, Alessandro Canossa
+What Tabletop Players Think about Augmented Tabletop Games: A Content Analysis Mehmet Kosa, Pieter Spronck
+Mapping the Field of Organism-Involved Computer Games Wim van Eck, Maarten H. Lamers
+Exploring the Similarity between Game Events for Game Level Analysis and Generation Tian Zhu, Bingtang Wang, Michael Zyda
+Method in the Madness: The design of games as valid and reliable scientific tools Laura Levy, Amy Lambeth, Rob Solomon, Maribeth Gandy
+A New Mould Rush: Designing for a Slow Bio-Digital Game Driven by Living Micro-organisms Raphael Kim, Siobhan Thomas, Roland van Dierendonck, Stefan Poslad
+Unraveling the Mortal Coil: Death and Stories of Play Eric Murnane
+Fear as a Biofeedback Game Mechanic in Virtual Reality: Effects on Engagement and Perceived Usability Samory Houzangbe, Olivier Christmann, Geoffrey Gorisse, Simon Richir
+Deceptive Angry Birds: Towards Smarter Game-Playing Agents Matthew Stephenson, Jochen Renz
+Understanding Everything NPCs Can Do: Metrics for Action Similarity in Non-Player Characters J. Timothy Balint, Rafael Bidarra, Jan Allbeck
+Deep Unsupervised multi-view detection of video game stream highlights Charlie Ringer, Mihalis Nicolaou
+Crawling, Indexing, and Retrieving Moments in Videogames Xiaoxuan Zhang, Zeping Zhan, Misha Holtz, Adam M. Smith
+AtDELFI: Automatically Designing Legible, Full Instructions For Games Michael Green, Ahmed Khalifa, Gabriella A. B. Barros, Tiago Machado, Andy Nealen, Julian Togelius
+Exploring the Hearthstone Deck Space Aditya Bhatt, Scott Lee, Fernando De Mesentier Silva, Julian Togelius, Amy K. Hoover
+DATA Agent Michael Green, Gabriella A. B. Barros, Antonios Liapis, Julian Togelius
+Studying Believability Assessment in Racing Games Cristiana Pacheco, Diego Perez-Liebana, Laurissa Tokarchuk
+Emotional agency in storygames Liting Kway, Alex Mitchell
+"Just Because It's Gay": Transgressive Design in Queer Coming of Age Visual Novels Anastasia Salter, Bridget Blodgett, Anne Sullivan
+Moral Engagement in Interactive Narrative Games Anna Dechering, Sander Bakkes
+Media and Games: An intermedial framework Ida Kathrine H. Jorgensen
+Metareferentiality through in-game images in immersive simulation games Hans-Joachim Backe
+Games Crafters Play Anne Sullivan, Anastasia Salter, Gillian Smith
+Documenting Trajectories in Design Space: a Methodology for Applied Game Design Research Khaled Rilla, Jonathan Lessard, Pippin Barr
+Transhistorical perspective of the puzzle video game genre Marçal Mora-Cantallops
+Periodic Load Balancing Heuristics in Massively Multiplayer Online Games Shawn Farlow, Jerry Trahan
+Why Game Designers Should Study Magic Shringi Kumari, Sebastian Deterding, Gustav Kuhn
+Rethinking Real-time Strategy Games for Virtual Reality Samuel Truman, Nicolas Rapp, Daniel Roth, Sebastian von Mammen
+Going Forward by Going Back: Re-defining Rewind Mechanics in Narrative Games Erica Kleinman, Elin Carstensdottir, Magy Seif El-Nasr
+Personalized Crisis Management Training on a Tablet Paris Mavromoustakos-Blom, Sander Bakkes, Pieter Spronck
+Educational Game Design: An Empirical Study of the Effects of Narrative Chaima Jemmali, Sara Bunian, Andrea Mambretti, Magy Seif El-Nasr
+Design Considerations towards Long-term Engagement in Games for Health Fares Kayali, Naemi Luckner, Peter Purgathofer, Katta Spiel, Geraldine Fitzpatrick
+Meet your Match Rating: Providing Skill Information and Choice in Player-versus-Level Matchmaking Anurag Sarkar, Seth Cooper
+Comparing Paid and Volunteer Recruitment in Human Computation Games Anurag Sarkar, Seth Cooper
+Intrinsic Elicitation: A Model and Design Approach for Games Collecting Human Subject Data David Gundry, Sebastian Deterding
+Re-purposing Citizen Science Games for Use by Traditional Scientists Seth Cooper, Amy Sterling, Robert Kleffner, William Silversmith, Justin Siegel
+Evolving Maps and Decks for Ticket to Ride Fernando de Mesentier Silva, Scott Lee, Julian Togelius, Andy Nealen
+Generative Design in Minecraft (GDMC), Settlement Generation Competition Christoph Salge, Michael Cerny Green, Rodgrigo Canaan, Julian Togelius
+Fostering Creativity in the Mixed-Initiative Evolutionary Dungeon Designer Alberto Alvarez, Steve Dahlskog, Jose Font, Johan Holmberg, Chelsi Nolasco, Axel Österman
+Pairing Character Classes in a Deathmatch Shooter Game via a Deep-Learning Surrogate Model Daniel Karavolos, Antonios Liapis, Georgios N. Yannakakis
+Graph-based Generation of Action-Adventure Dungeon Levels using Answer Set Programming Thomas Smith, Julian Padget, Andrew Vidler
+`Play Your Own Way': Adapting a Procedural Framework for Accessibility Tommy Thompson, Matthew Syrett
+Tarot-Based Narrative Generation Anne Sullivan, Mirjam Palosaari Eladhari, Michael Cook
+Generating Levels That Teach Mechanics Michael Cerny Green, Ahmed Khalifa, Gabriella A. B. Barros, Andy Nealen, Julian Togelius
+Measuring Quality of Grammars for Procedural Level Generation Riemer van Rozen, Quinten Heijn
+FDG19
+Radical Tunes: Exploring the Impact of Music on Memorization of Stroke Order in Logographic Writing Systems Oleksandra Keehl and Edward Melcer
+Gamifying Psychological Assessment: Insights from Gamifying the Thematic Apperception Test Borna Fatehi, Christoffer Holmgård, Sam Snodgrass and Casper Harteveld
+Programming in Game Space: How to Represent Parallel Programming Concepts in an
+Educational Game Jichen Zhu, Katelyn Bright, Anushay Furqan, Jessica Nebolsky,
+Bruce Char, Brian Smith, Jennifer Villareale and Santiago Ontanon
+What if We Were Twice as Close to the Sun? Interview Findings from a Science Summer
+Camp Serving Underrepresented Youth Sherry Yi, H. Lane and Ömer Delialioğlu
+Expertise and Engagement: Re-Designing Citizen Science Games With Players' Minds in Mind Josh Aaron Miller, Uttkarsh Narayan, Matthew Hantsbarger, Seth Cooper and Magy Seif El-Nasr
+A Model for Socially Intelligent Merchants Miguel Oliveira and Pedro A. Santos
+Analyzing Action Games: A Hybrid Systems Approach Yegeta Zeleke, Joseph Osborn and Ricardo G. Sanfelice
+Enhancing Story and Dialogue Generation with the Semantic Web Eric LaBouve, Erik Miller and Foaad Khosmood
+Automatic generation of tower defense levels using PCG Simon Liu, Chaoran Li, Yue Li, Heng Ma, Xiao Hou, Yiming Shen, Licong Wang, Ze Chen, Xianghao Guo, Hengtong Lu, Yu Du and Qinting Tang
+From Caveman to Gentleman: A CiF-based Social Interaction Model applied to Conan Exiles Luís Morais, Pedro A. Santos and João Dias
+Using Rating Arrays to Estimate Score Distributions for Player-versus-Level Matchmaking Anurag Sarkar and Seth Cooper
+Efficient Choice Enumeration for Narrative World Design Justus Robertson, Arnav Jhala and R. Michael Young
+Wait a Second: Playing Hanabi without Giving Hints Markus Eger and Daniel Gruss
+Lume: A System for Procedural Story Generation Stacey Mason, Ceri Stagg, Michael Mateas and Noah Wardrip-Fruin
+Making CNNs for Video Parsing Accessible: Event Extraction from DOTA2 Gameplay Video using Transfer Learning, Zero-Shot, and Network Pruning Zijin Luo, Matthew Guzdial and Mark Riedl
+Enhancing Wave Function Collapse with Design-level Constraints Arunpreet Sandhu, Zeyuan Chen and Joshua McCoy
+Teamwork and Adaptation in Games (TAG): A Survey to gauge Teamwork Casper Harteveld, Erica Kleinman, Paola Rizzo, Dylan Schouten, Truong Huy Nguyen, Samuel Liberty, Wade Kimbrough, Paul Fombelle and Magy Seif El-Nasr
+A Design Framework for Playful Wearables Oğuz Turan Buruk, Katherine Isbister and Tess Tanenbaum
+Understanding User Needs in Videogame Moment Retrieval Barrett Anderson and Adam M. Smith
+Towards Expressive Input for Character Dialogue in Digital Games Nick Junius, Michael Mateas and Noah Wardrip-Fruin
+Game Postmortems vs. Developer Reddit AMAs: Computational Analysis of Developer Communication Chien Lu, Jaakko Peltonen and Timo Nummenmaa
+Player Interaction in Narrative Games: Structure and Narrative Progression Mechanics
+Elin Carstensdottir, Erica Kleinman and Magy Seif El-Nasr
+StoryAssembler: An Engine for Generating Dynamic Choice-Driven Narratives Jacob Garbe, Max Kreminski, Ben Samuel, Noah Wardrip-Fruin and Michael Mateas
+Game Design Frameworks - Where Do We Start? Zoë O'Shea and Jonathan Freeman
+Like PEAS in PoDS: The Player-Environment-Agents-System Framework for the
+Personalization of Digital Systems Sam Snodgrass, Omid Mohaddesi, Jack Hart, Guillermo Romera Rodriguez, Christoffer Holmgard and Casper Harteveld
+SuBViS: The Use of Subjunctive Visual Programming Environments for Exploring Alternatives in Game Development Daniel Maccormick and Loutfouz Zaman
+Red or Blue Pill: Fostering Identification and Transportation through Dialogue Choices in
+RPGs Jason Bowey, Maximilian Friehs and Regan Mandryk
+The Computational Puzzle Design Framework: A Design Guide for Games Teaching
+Computational Thinking Xina Jiang, Casper Harteveld, Xinyuan Huang and Anthony Fung
+The Building Blocks of an Educational Esports League: Lessons from Year One in Orange County High Schools Alexander Cho, A. M. Tsaasan and Constance Steinkuehler
+Using Applied Cognitive Load Theory and Difficulty Analysis for Educational Game Design For Understanding and Transference of Literacy Skills in Adults Myque Ouellette, Lauren Breeding and Corey Clark
+Goal-based Progression Synthesis in a Korean Learning Game Shuhan Wang, Brandon Cohen, Sixian Yi, Jung Yun Park, Nicholas Teo and Erik Andersen
+Trans-Pacific Project-Based Learning Adam Ruch
+Building Persistence Through Failure - the Role of Challenge in Video Games Craig G. Anderson, Constance Steinkuehler and Kathryn Campbell
+Building and Sustaining Large, Long-Term Online Communities: Family Business and Gamifying the Game Nathaniel Poor
+Necklines and 'Naughty Bits': Constructing and Regulating Bodies in Live Streaming Community Guidelines Amanda Cullen and Bonnie Ruberg
+Leveling the Playing Field - Examining Fairness in Human versus AI Game Benchmarks Rodrigo de Moura Canaan, Christoph Salge, Julian Togelius and Andy Nealen
+"Do you work for aperture science?": Researching and Finding the Gamer Identity in a
+Minecraft Community for Autistic Children Kathryn Ringlan
+But Does Pikachu Love You? Reproductive Labor in Casual and Hardcore Game Anastasia Salter, Mel Stanfill and Anne Sullivan
+"I Never Gave Up". Engagement with Playable Characters and Esports Players of OverwatchTanja Välisalo and Maria Ruotsalainen
+The Trails of Just Cause: Spatio-Temporal Player Profiling in Open-World Games Myat Aung, Simon Demediuk, Rafet Sifa, Yuan Sun, Siva Nekkanti, Shantanu Raghav, Ye Tu, Diego Klabjan and Anders Drachen
+Exploring Roguelike Ancestry through Idea Network Xavier Ho and Marcus Carter
+Order-Fulfillment Games: An Analysis of Games About Serving Customers Mike Treanor and Mark J. Nelson
+The Psychological Reality of Procedural Rhetoric Barrett Anderson, Christopher Karzmar and Noah Wardrip-Fruin
+Building Worlds Together: Understanding Collaborative Co-Creation of Game Worlds Devi Acharya and Noah Wardrip-Fruin
+Enhancing Subject Matter Assessments Utilizing Augmented Reality and Serious Game Techniques Brian Holtkamp, Mohammed Alshair, Daniel Biediger, Michael Wilson, Chang Yun and Kyungki Kim
+Mind Tricks for Presence Daniel Sjölie and Sebastian Badyla
+DIGRA2017
+Virtual Reality is 'Finally Here': A Qualitative Exploration of Formal Determinants of Player Experience in VR Murphy Dooley J.
+Digitising Diplomacy: Grand Strategy Video Games as an Introductory Tool for Learning Diplomacy and International Relations Loban Rhett
+War Ethics: A Framework for Analyzing Videogames Zagal José P.
+Fictionalism and videogame aggression Tavinor Grant
+That Dragon, Cancer: Contemplating life and death in a medium that has frequently trivialized both Schott Gareth
+Exhibition Strategies for Videogames in Art Institutions: Blank Arcade 2017 Reed Emilie
+Adapting Epic Theatre Principles for the Design of Games for Learning Tyack April Wyeth Peta
+Considering play: From method to analysis van Vught Jasper Glas René
+From Video Games to Virtual Reality (and Back). Introducing HACS (Historical-Analytical Comparative System) for the Documentation of Experiential Configurations in Gaming History Therrien Carl
+Modeling and Designing for Key Elements of Curiosity: Risking Failure, Valuing Questions
+To Alexandra Holmes Jarrek Fath Elaine Zhang Eda Kaufmann Geoff Hammer Jessica
+Towards Genre as a Game Design Research Approach Goddard William Muscat Alexander
+A Typology of Players in the Game Physics Playground Slater Stefan Bowers Alex Kai Shimin Shute Valerie
+The Space Between Debord and Pikachu Davies Hugh Innocent Troy
+Making it Unfamiliar in the "Right" Way: An Empirical Study of Poetic Gameplay Mitchell Alex Sim Yuin Theng Kway Liting
+I Predict a Riot: Making and Breaking Rules and Norms in League of Legends Donaldson Scott
+Heritage Destruction and Videogames: A Perverse Relation González José Antonio Chapman Adam Jayemanne Darshana
+Playing with(out) Power: Negotiated conventions of high performance networked play practices Witkowski Emma Manning James
+Love, Lust, Courtship and Affection as Evolution in Digital Play Grace Lindsay D
+'If you are feeling bold, ask for $3': Value Crafting and Indie Game Developers Consalvo Mia Paul Christopher A.
+Playing with Patriarchy: Fatherhood in BioShock: Infinite, The Last of Us, and The Witcher 3: Wild Hunt Lucat Bertrand
+Glitch Horror: BEN Drowned and the Fallibility of Technology in Game Fan Fiction
+DIGRA2018
+Video Games, Learning, and the Shifting Educational Landscape Wu Hong-An
+Stasis and Stillness: Moments of Inaction in Videogames Scully-Blaker Rainforest
+On Striated Wilderness and Prospect Pacing: Rural Open World Games as Liminal Spaces of the Man-Nature Dichotomy Bonner Marc
+Is My Avatar MY Avatar? Character Autonomy and Automated Avatar Actions in Digital Games Willumsen Ea Christina
+Fragmentation: between expansion packs and episodic video games Genovesi Matteo
+Localization from an Indie Game Production Perspective - Why, When and How? Toftedahl Marcus Backlund Per Engström Henrik
+Presence at History: Toward an Expression of Authentic Historical Content as Game Rules and Play Schott Gareth Redder Ben
+Avatars, Gender and Sexuality for Brazilian Players on Rust Caetano Mayara
+Markers of Subjective Perception in Larp Mochocki Michał
+Overwatch as a Shared Universe: Game Worlds in a Transmedial Franchise Blom Joleen
+Infra-Ordinary Rewritings: Animal Crossing: Pocket Camp as an Introductory Study Harrington Johnathan
+"A pure meritocracy blind to identity": Exploring the Online Responses to All-Female Teams in Reddit Siutila Miia Havaste Ellinoora
+The City in Singleplayer Fantasy Role Playing Games Vella Daniel Bonello Rutter Giappone Krista
+Preliminary Poetics of Procedural Generation in Games Karth Isaac
+Play to Win, Profit & Entertain: a Study of Double Performance as Athlete and Streamer Seula Roger Amaro Mariana Fragoso Suely
+Exploring Cultural Differences in Game Reception: JRPGs in Germany and Japan Brückner Stefan Sato Yukiko Kurabayashi Shuichi Waragai Ikumi
+Contextualizing Pathological Gaming - A Proof-of-Concept Study Boonen Casper S. Christiansen Mikkel V. Ilsøe Agnete W. Staunstrup Marie M. Lundedal Nielsen Rune Kristian
+A Character in Your Hand: Puppetry to Inform Game Controls Nitsche Michael McBride Pierce
+Antimimetic Rereading and Defamiliarization in Save the Date Mitchell Alex
+Design Concepts for Empowerment through Urban Play Ferri Gabriele Hansen Nicolai B. van Heerden Adam Schouten Ben
+ndie Game: The Movie: The Paper - Documentary Films and the Subfield of Independent Games Jacevic Milan
+Bleed-in, Bleed-out A Design Case in Board Game Therapy Eladhari Mirjam Palosaari
+Free-to-Play or Pay-to-Win?: Casual, Hardcore, and Hearthstone Howard Kenton Taylor
+Wrecking the Game: The Artist as Griefer Fantacci Gemma
+Ethics at Play in Undertale: Rhetoric, Identity and Deconstruction Seraphine Frederic
+Aesthetics and Cosmetic Microtransactions in Path of Exile Felczak Mateusz
+Towards Design Principles for Humor in Interactive Emergent Narrative Chen Kenneth Rank Stefan
+A Three Person Poncho and a Set of Maracas: Designing Ola De La Vida, A Co-Located Social Play Computer Game Love Lynn H.C. Bozdog Mona
+Understanding the experience of Australian eSports spectatorship Cumming David
+Harvester of Desires: Gaming Amazon Echo through John Cayley's The Listeners Okkema Laura
+An Inclusive Perspective on Gameplay: Towards a wide understanding of gameplay in theory and praxis Jahn Björn Möring Sebastian
+"Clementine will remember that" - Methods to Establish Design Conventions for Video Game Narrative Koenitz Hartmut Roth Christian Knoller Noam Dubbelman Teun
+Does Platform Matter? A Game Design Analysis of Female Engagement in MOBA Games Gao Gege Shih Patrick C.
+Playing Whiteness in Crisis in The Last of Us and Tomb Raider Murray Soraya
+Are Loot Boxes Gambling? Random reward mechanisms in video games Lundedal Nielsen Rune Kristian Grabarczyk Paweł
+The Human Machine Art Interface: Arcade Port Aesthetics and Production Practices Nolan Kieran
+Collegiate eSports as Learning Ecologies: Investigating Collaborative Learning and Cognition During Competitions Richard Gabriela T. McKinley Zachary A. Ashley Robert William
+An Ontological Meta-Model for Game Research Aarseth Espen Grabarczyk Paweł
+Quilting the meaning: gameplay as catalyst of signification and why to co-op in game studies Giuliana Gianmarco Thierry
+DIGRA2019
+Is this still participation? A case study of the disempowerment of player labourers Prax Patrick
+Me, myself and others: Connecting player identification to gaming social capital Regnath Franziska Elmezeny Ahmed
+On the de-familiarizing and re-ontologizing effects of glitches and glitch-alikes Gualeni Stefano
+Strategies for Endogenous Design of Educational Games Athavale Sandeep Dalvi Girish
+Towards an analysis of virtual realism Tavinor Grant
+Epistemological Issues in Understanding Games Design, Play-Experience, and Reportage Howell Peter Stevens Brett
+Video Game Détournement: Playing Across Media Barnabé Fanny
+How to Reference a Digital Game Gualeni Stefano Fassone Riccardo Linderoth Jonas
+The Relationship between Prior Gaming Experience and Consciousness of Computer Programming or Social Views on Information: An Empirical Study of High School Students in Japan Fukui Masanori Ishikawa Takeshi Hagikura Jo Sasaki Yuji
+Beyond God's Eye: on the Reliability of Gameworld Images Fragoso Suely Freitas Fabiana Amaro Mariana
+Exploring the Effects of VR Gameplay Videos on Performance and Experience Ho Jeffrey C F
+A Typology of Rumble Willumsen Ea Christina Jacevic Milan
+Polygonal Modeling: The Aestheticization of Identity Kerich Chris
+Discourse at play: construction and professionalism of video-based game reviews Jacobs Ruud S Duyvestijn Zino
+Romance Never Changes...Or Does It?: Fallout, Queerness, and Mods Howard Kenton Taylor
+Beyond the Wall: The Boundaries of the Neomedieval Town in Singleplayer Roleplaying Games Ford Dom
+Co-Constructing Virtual Identities: Insights from Linguistic Analysis Burkholder Ross
+The "not so" Beautiful Game: a study on Brazilian players of the fantasy soccer game Cartola FC Birnfeld Kurtz Gabriela Corrêa de Araujo João Pedro
+Boundaries, Trust and Reputation in Virtual and Illicit Markets Fleet Robert
+A Taxonomy of Game Engines and the Tools that Drive the Industry Toftedahl Marcus Engström Henrik
+Character-driven Narrative Engine. Storytelling System for building interactive narrative experiences Mariani Ilaria Ciancia Mariana
+Taiko no Tatsujin: Musical literacy in the Media Mix Oliva Costantino
+The Comparative Self: Understanding the Motivation to Play and the Subsequent Video Game Use Kordyaka Bastian Jahn Katharina Müller Marius Niehaves Björn
+GDC vs. DiGRA: Gaps in Game Production Research Engström Henrik
+A Recipe for Disaster? The Emerging Ludo Mix and the Outsourcing of Narrative Bjarnason Nökkvi Jarl
+Exploring How Changes in Game Systems Generate Meaning Aytemiz Batu Junius Nick Altice Nathan
+"Is This Really Happening?": Game Mechanics as Unreliable Narrator Roe Curie Mitchell Alex
+Dancing with the Hands: Frictions with Videogames, Dance and Gender Snowdon Timothy
+Game jockey as an intermediary between DJ practice and video games Sohier Rémy
+Male and Female Game Players' Preferences for Game Characters and Real-world Personalities in Japan Shibuya Akiko Okura Hibiki Shoun Akiyo Asou Naoko
+Different Frames of Players and the Motivation of Prosocial Behaviors in Digital Games Lim Ji Soo
+Beyond Procedurality: Situating The Witness in the Proceduralism Debate Wright Ryan C.
+The Mobile Suit Gundam Franchise: a Case Study of Transmedia Storytelling Practices and the Role of Digital Games in Japan Nakamura Akinori Tosca Susana
+Building a Gamer: Player Preferences and Motivations Across Gender and Genre Tomlinson Christine
+Methods Beyond the Screen: Conducting remote player studies for game design research Muscat Alexander Duckworth Jonathan Wilson Douglas
+Differences in Player Experiences of Need Satisfaction Across Four Games Adinolf Sonam Türkay Selen
+"Can you send me a photo?" - A Game-Based Approach for Increasing Young Children's Risk Awareness to Prevent Online Sexual Grooming Susi Tarja Torstensson Niklas Wilhelmsson Ulf
+"More Interaction, More Story, More Lore": Motivations Related to Game-centric Transmedia Wiik Elisa
+The politics of game canonization: Tales from the frontlines of creating a national history of games Glas René van Vught Jasper
+The imbalanced state of free-to-play game research: A literature review Alha Kati
+Hybrid Board Game Design Guidelines Kankainen Ville Paavilainen Janne
+Sami Game Jam - Learning, Exploring, Reflecting and Sharing Indigenous Culture through Game Jamming Kultima Annakaisa Laiti Outi
+Game Streaming Revisited: Some Observations on Marginal Practices and Contexts Lin Holin Sun Chuen-Tsai Liao Ming-Chung
+Exploring the Role of Narrative Puzzles in Game Storytelling Wei Huaxin Durango Betty
+A Challenge of Developing Serious Games to Raise the Awareness of Cybersecurity Issues Furuichi Masakazu Aibara Megumi
+Dawn of Machinic Cyclicality: Life as We Don't Know Paquet Alexandre
+A TRU Proposal to the Ladies, through #selfcare, Mary Astell, and Xenofeminism Marlowe Tania
+Joy Family: Japanese Board Games in the Post-War Shōwa Period Altice Nathan
+Middle-aged Players' Memorable Experiences with Pokémon GO Koskinen Elina Alha Kati Leorke Dale Paavilainen Janne
+Effects of Game Design Features on Player-Avatar Relationships and Motivation for Buying Decorative Virtual Items Wang Hao Ruan Yu-Chun Hsu Sheng-Yi Sun Chun-Tsai
+Port or conversion? An ontological framework for classifying game versions Grabarczyk Paweł Aarseth Espen
+The Path That Lies Ahead: Intimacy Through Overwhelmedness in The Legend of Zelda: Breath of the Wild Doyle-Myerscough Kaelan
+Categorizing Morality Systems Through the Lens of Fallout Casas-Roma Joan Arnedo-Moreno Joan
+Sites of Play: Locating Gameplace in Red Dead Redemption 2 Westerside Andrew Holopainen Jussi
+Describing the Game Studies Canon: A Game Citation Analysis Frome Jonathan Martin Paul
+In Situ: Researching corporate diversity initiatives with game developers Westecott Emma Stein Suzanne Hsu Cheryl Rahman Kashfia
+Adapting the Empty Orchestra: the Performance of Play in Karaoke Bryan Jeffrey S Tanenbaum Theresa
+Designing Global Empowerment? Activist Self-Narratives in Culturally Mixed Settings Harrer Sabine
