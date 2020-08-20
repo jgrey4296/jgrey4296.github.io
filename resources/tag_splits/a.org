@@ -18,7 +18,7 @@
    AAP                                         : 1
    AARON                                       : 1
    AATS                                        : 1
-   ab_testing                                  : 1
+   ab_testing                                  : 1 : a_b_testing
    abandoned                                   : 5
    abandoned_houses                            : 1
    abandonment                                 : 1
