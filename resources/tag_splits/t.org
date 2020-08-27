@@ -1,852 +1,986 @@
 ** t                                                                            :cleaned:
-   t_test                                      : 1
-   t_tests                                     : 1 : t_test
-   tab                                         : 1
-   TABA                                        : 1
-   TABDUAL                                     : 1
-   table_top                                   : 2
-   table_top_rpgs                              : 1
-   tabletop_game                               : 1
-   tabletop_rpg                                : 5 : table_top_rpg
-   taboo                                       : 1
-   taboos                                      : 2 : taboo
-   Tabqa                                       : 1
-   tacit_communication                         : 1
-   taco_bell                                   : 1
-   tacoma                                      : 1
-   TACT                                        : 1
-   tactical_pathfinding                        : 1 : tactical_path_finding
-   tactical_tech                               : 1
-   tactics                                     : 9
-   tactile                                     : 2
-   TAG                                         : 1 : tree_adjoining_grammar
-   tag                                         : 5
-   tag_system                                  : 1
-   tagging                                     : 13
-   tagging_behaviour                           : 1
-   TAGinator                                   : 1
-   taglines                                    : 1
-   TAGs                                        : 1
-   tags                                        : 9 : tag
-   tahrir_square                               : 1
-   taiwan                                      : 3
-   take_back_illinois                          : 1
-   takedown                                    : 3
-   tale_of_tales                               : 1
-   tale_spin                                   : 2
-   talent                                      : 1
-   tales                                       : 1
-   talk                                        : 5
-   talk_of_the_town                            : 1
-   talk_radio                                  : 1
-   talking_bodies                              : 1
-   talking_points_memo                         : 3
-   talkingaboutbpd                             : 1   : talking_about_bpd
-   talkingpointsmemo                           : 2   : talking_points_memo
-   talks                                       : 1
-   talmud                                      : 1
-   tambourine                                  : 1
-   tamil                                       : 1
-   tampa                                       : 1
-   tampa_bay                                   : 1
-   tampa_bay_times                             : 2
-   TANAGRA                                     : 1
-   Tanagra                                     : 1   : TANAGRA
-   tanagra                                     : 1   : TANAGRA
-   TANF                                        : 1
-   tangential_learning                         : 1
-   tangibl                                     : 1   : tangible
-   tangible                                    : 2
-   tap_water                                   : 1
-   TARDIS                                      : 1
-   target_trial_framework                      : 1
-   targeted_advertising                        : 1
-   targets                                     : 1
-   tariff                                      : 2   : tariffs
-   tariffs                                     : 4
-   tarot                                       : 2
-   tarot_cards                                 : 1   : tarot
-   taser                                       : 2
-   task                                        : 7
-   task_analysis                               : 1
-   task_artifact_cycle                         : 1
-   task_assembly                               : 1
-   task_delegation                             : 1
-   task_demand                                 : 1
-   task_log                                    : 1
-   task_orientation                            : 1
-   taskmaker                                   : 2
-   tasks                                       : 16
-   tasmania                                    : 2
-   taste                                       : 2
-   tate                                        : 1
-   tate_britain                                : 1
-   tattoo                                      : 11
-   tattooed_prof                               : 1
-   tattoos                                     : 11 : tattoo
-   taubes                                      : 1
-   tax                                         : 31
-   tax_avoidance                               : 2
-   tax_cut                                     : 1
-   tax_cuts                                    : 1
-   tax_evasion                                 : 1
-   tax_fraud                                   : 2
-   tax_haven                                   : 2
-   tax_policy                                  : 1
-   tax_reform                                  : 4
-   taxation                                    : 12
-   taxes                                       : 6
-   taxi                                        : 1
-   taxis                                       : 1
-   taxonomy                                    : 256
-   taylor_and_francis                          : 1
-   TB                                          : 1
-   TBHW                                        : 1
-   TBox                                        : 1
-   TBoxes                                      : 1   : TBox
-   tcf                                         : 1
-   tchad                                       : 1
-   TCL                                         : 1
-   TCP                                         : 1
-   tcp_ip                                      : 1
-   td_org                                      : 1
-   tdd                                         : 2
-   tea                                         : 8
-   tea_party                                   : 1
-   teacher                                     : 2
-   teachers                                    : 4
-   teaching                                    : 15
-   TEAM                                        : 1
-   team                                        : 1
-   team_oriented_programming                   : 1
-   teams                                       : 7
-   teamwork                                    : 2
-   teapots                                     : 1
-   tear_gas                                    : 4
-   teaspoons                                   : 1
-   tech                                        : 11
-   tech_adoption                               : 2
-   tech_bros                                   : 4
-   tech_companies                              : 3
-   tech_culture                                : 1
-   tech_dangers                                : 1
-   tech_debt                                   : 2
-   tech_ethics                                 : 3
-   tech_failures                               : 1
-   tech_report                                 : 1
-   tech_republic                               : 1
-   tech_review                                 : 1
-   tech_specs                                  : 1
-   tech_times                                  : 1
-   tech_tree                                   : 1
-   tech_workers                                : 1
-   tech_writing                                : 1
-   techcrunch                                  : 3 : tech_crunch
-   techdirt                                    : 381 : tech_dirt
-   technical                                   : 206
-   technical_artifacts                         : 1
-   technical_debt                              : 2
-   technical_requirements                      : 1
-   technical_writing                           : 1
-   techno_chauvinism                           : 1
-   techno_economic                             : 1
-   techno_futurism                             : 1
-   techno_imperialism                          : 1
-   techno_spiritual                            : 1
-   techno_thriller                             : 1
-   technoculture                               : 1 : techno_culture
-   technofeminism                              : 1 : techno_feminism
-   Technological_Change                        : 1 : technological_change
-   technological_dystopias                     : 1
-   technologies                                : 1 : technology
-   technology                                  : 362
-   technology_failure                          : 1
-   technology_garden                           : 3
-   technology_review                           : 1
-   technopoetics                               : 1 : techno_poetics
-   technopolis                                 : 1 : techno_polis
-   technosocial                                : 1 : techno_social
-   techreports                                 : 1 : tech_report
-   ted                                         : 1
-   tedium                                      : 1
-   teen_vogue                                  : 15
-   teenagers                                   : 3
-   teens                                       : 2 : teenagers
-   teenvogue                                   : 4 : teen_vogue
-   teeth                                       : 1
-   teflon                                      : 1
-   telco                                       : 10
-   telegraph                                   : 9
-   telemarketing                               : 1
-   telemetry                                   : 1
-   teleo_reactive                              : 1
-   teleology                                   : 3
-   teleoperation                               : 1
-   telephone                                   : 2
-   telephone_box                               : 1
-   telephones                                  : 1 : telephone
-   telepresence                                : 1
-   Telescript                                  : 1 : telescript
-   televiion                                   : 1   : television
-   television                                  : 1
-   television_narrative                        : 1
-   telework                                    : 1
-   telic                                       : 1
-   telling_about_society                       : 1
-   telltale                                    : 5
-   temperament                                 : 1
-   temperature                                 : 4
-   temperature_variation                       : 1
-   template                                    : 7
-   template_haskell                            : 1
-   templates                                   : 3 : template
-   templeOS                                    : 1
-   temples                                     : 1
-   TEMPO                                       : 1
-   tempo                                       : 2
-   temporal                                    : 29
-   temporal_context                            : 1
-   temporal_degradation                        : 1
-   temporal_dependency                         : 1
-   temporal_earth                              : 1
-   temporal_experience                         : 1
-   temporal_grounding                          : 1
-   temporal_logic                              : 16
-   temporal_modal_defeasible_logic             : 1
-   temporal_order                              : 1
-   temporality                                 : 3
-   temporary_email                             : 1
-   ten_daily                                   : 1
-   tenacles                                    : 1   : tentacles
-   tenants                                     : 2
-   tendency                                    : 1
-   tennessee                                   : 7
-   tennis                                      : 1
-   tennyson                                    : 1
-   tenochtitlan                                : 1
-   tension                                     : 1
-   tensor_fields                               : 1
-   tensorboard                                 : 1
-   tensorflow                                  : 14
-   tensors                                     : 1
-   tentacles                                   : 1
-   tenure                                      : 1
-   terf                                        : 1   : TERF
-   TERF                                        : 20
-   term_limits                                 : 2
-   term_rewriting                              : 1
-   terminal                                    : 5
-   terminator                                  : 2
-   terminology                                 : 3
-   terms                                       : 3
-   terms_of_service                            : 1
-   terracotta_army                             : 1
-   terraform                                   : 2
-   terraforming                                : 1 : terraform
-   terrain                                     : 7
-   terrain_generation                          : 8
-   terrible_realities                          : 1
-   territoriality                              : 1 : territorial
-   territory                                   : 1
-   terror                                      : 1
-   terrorism                                   : 151
-   terrorism_studies                           : 1
-   tesco                                       : 2
-   tesla                                       : 2
-   test                                        : 17
-   test_bed                                    : 1
-   test_driven_design                          : 3
-   test_driven_development                     : 1
-   test_driven_developmet                      : 1 : test_driven_development
-   test_driven_writing                         : 1
-   testability                                 : 1
-   testimonies                                 : 1 : testimony
-   testimony                                   : 2
-   testing                                     : 18
-   tests                                       : 1 : test
-   tetris                                      : 6
-   tex                                         : 3
-   texas                                       : 72
-   texas_monthly                               : 1
-   texas_observer                              : 1
-   texas_tribune                               : 1
-   text                                        : 12
-   text_adventure                              : 7
-   text_analysis                               : 1
-   text_books                                  : 17
-   text_editor                                 : 1
-   text_generation                             : 3
-   text_layout                                 : 1
-   text_processing                             : 1
-   text_segmentation                           : 1
-   textblob                                    : 1 : text_blob
-   textbook                                    : 585 : text_book
-   textbook_knowledge                          : 1
-   textile_workers                             : 1
-   textnet                                     : 1 : text_net
-   TextTiling                                  : 2 : text_tiling
-   texture                                     : 1
-   texture_synthesis                           : 2 
-   textures                                    : 3 : texture
-   tf2                                         : 6
-   tf_idf                                      : 1
-   TGGs                                        : 1
-   thai                                        : 1
-   thailand                                    : 3
-   thanksgiving                                : 1
-   that_which_sleeps                           : 2
-   thatcher                                    : 1
-   the_appeal                                  : 5
-   the_atlantic                                : 86
-   the_bachelorette                            : 1
-   the_baffler                                 : 8
-   the_beatles                                 : 2
-   the_bicker                                  : 2
-   the_body_keeps_score                        : 1
-   the_bulwark                                 : 1
-   the_canary                                  : 2
-   the_center                                  : 1
-   the_conversation                            : 9
-   the_correspondent                           : 2
-   the_crime_report                            : 1
-   the_cross_tab                               : 1
-   the_cruelty_is_the_point                    : 1
-   the_cut                                     : 4
-   the_dark_is_rising                          : 1
-   the_depression                              : 1
-   the_dispossessed                            : 1
-   the_division                                : 3
-   the_economist                               : 1
-   the_end_of_ice                              : 1
-   the_escapist                                : 11
-   the_establishment                           : 5
-   the_exploding_metropolis                    : 1
-   the_fed                                     : 1
-   the_good_place                              : 2
-   the_hill                                    : 13
-   the_intercept                               : 19
-   the_interept                                : 1 : the_intercept
-   the_invisible_technician                    : 1
-   the_kitchn                                  : 28
-   the_know_it_alls                            : 1
-   the_little_mermaid                          : 1
-   the_machinist                               : 1
-   the_mechanic                                : 1
-   the_mind_circle                             : 3
-   the_morning_paper                           : 2
-   the_nation                                  : 8
-   the_netherlands                             : 1
-   the_OA                                      : 1
-   the_oatmeal                                 : 1
-   the_one_joke                                : 2
-   the_outlin                                  : 1 : the_outline
-   the_outline                                 : 3
-   the_phantom_menace                          : 1
-   the_pill                                    : 1
-   the_pudding                                 : 1
-   the_queen                                   : 1
-   the_raven                                   : 1
-   the_register                                : 1
-   the_root                                    : 3
-   the_sims                                    : 11
-   the_slot                                    : 1
-   the_squad                                   : 2
-   the_standard                                : 1
-   the_star                                    : 1
-   the_state                                   : 16
-   the_stranger                                : 1
-   the_sunday_papers                           : 54
-   the_tea                                     : 1
-   the_times                                   : 5
-   the_trace                                   : 1
-   the_verge                                   : 3
-   the_week                                    : 1
-   the_whole_story                             : 1
-   the_wire                                    : 2
-   the_witcher                                 : 1
-   the_witness                                 : 1
-   theano                                      : 2
-   theatlantic                                 : 10  : the_atlantic
-   theatre                                     : 4
-   theatre_memory                              : 1
-   theft                                       : 11
-   theft_capitalism                            : 1
-   theism                                      : 1
-   them                                        : 3
-   thematic_analysis                           : 2
-   theme_hospital                              : 1
-   themes                                      : 1
-   themindcircle                               : 1   : the_mind_circle
-   theologians                                 : 1 : theology
-   theology                                    : 2
-   theorem                                     : 1
-   theorem_proving                             : 4
-   theoretical_coding                          : 1
-   theoretical_frameworks                      : 1
-   theory                                      : 70
-   theory_as_code                              : 1
-   theory_building                             : 2
-   theory_change                               : 1
-   theory_crafting                             : 1
-   theory_development                          : 1
-   theory_fiction                              : 2
-   theory_for_the_world                        : 1
-   theory_of_mind                              : 4
-   theory_of_planned_behaviour                 : 1
-   theory_of_surplus_value                     : 1
-   theory_revision                             : 4
-   therac                                      : 1
-   therapist                                   : 1
-   therapy                                     : 13
-   there_and_back_again                        : 1
-   theremin                                    : 1
-   thermal                                     : 1
-   thermodynamics                              : 1
-   thesis                                      : 7
-   thick                                       : 2
-   thick_description                           : 1
-   thicker_than_blood                          : 1
-   thief                                       : 6
-   thing_of_value                              : 1
-   think_progress                              : 7
-   think_tanks                                 : 1
-   thinking                                    : 8
-   thinking_styles                             : 3
-   thinkinghistory                             : 1   : thinking_history
-   thinkprogress                               : 1   : think_progress
-   thinktank                                   : 1 : think_tank
-   third_party                                 : 1
-   third_safe_schools                          : 1
-   third_shift                                 : 1
-   third_way                                   : 1
-   third_world                                 : 1
-   THOMAS                                      : 1
-   thomas_the_tank_engine                      : 2
-   thought                                     : 2
-   thought_crime                               : 1
-   thought_experiment                          : 5
-   thought_experiments                         : 1 : thought_experiment
-   thread                                      : 6
-   thread_compilers                            : 1
-   threadapalooza                              : 2
-   threat_assessment                           : 1
-   threat_model                                : 1
-   threats                                     : 2
-   three_body_problem                          : 1
-   three_fifths_compromise                     : 1
-   three_mile_island                           : 1
-   three_strikes                               : 6
-   threejs                                     : 1 : three_js
-   Threnoscope                                 : 1 : threnoscope
-   thresholds                                  : 1
-   thud                                        : 1
-   thug_life                                   : 1
-   thunderbirds                                : 2
-   thundercluck                                : 2
-   tiananmen_square                            : 1
-   tiberian_sun                                : 1
-   tibet                                       : 3
-   tic_tac_toe                                 : 1
-   ticks                                       : 1
-   tidal                                       : 8
-   tidymodels                                  : 1 : tidy_models
-   tiered                                      : 1
-   tiffin                                      : 1
-   tiger_woods                                 : 1
-   tihama                                      : 1
-   tiktok                                      : 3
-   tile_algebra                                : 1
-   tile_model                                  : 1
-   tiled                                       : 1
-   tilemancer                                  : 1
-   tiles                                       : 6
-   tileset                                     : 2
-   tiling                                      : 1
-   tim                                         : 1 : time
-   time                                        : 98
-   time_management                             : 1
-   time_poverty                                : 1
-   time_shift                                  : 1
-   time_space_cube                             : 1
-   time_stamps                                 : 1
-   time_travel                                 : 1
-   time_use                                    : 1
-   time_warner                                 : 2
-   timed_component_connectors                  : 1
-   timelapse                                   : 1 : time_lapse
-   timeline                                    : 23
-   timelines                                   : 1   : timeline
-   times                                       : 1   : time
-   timescale                                   : 1   : time_scale
-   timescale_of_emotions                       : 1   : time_scale_of_emotions
-   timestream                                  : 1   : time_stream
-   timing                                      : 6 : time
-   tinkering                                   : 1
-   tiny_islands                                : 2
-   tinybirdgames                               : 1 : tiny_bird_games
-   tipping                                     : 5
-   tipping_points                              : 1
-   tips                                        : 3 : tipping
-   tiredness                                   : 1
-   tisk                                        : 1
-   tissue_damage                               : 1
-   titanfall                                   : 1
-   titans                                      : 1
-   title_IX                                    : 1
-   titles                                      : 1
-   tkinter                                     : 1
-   TLA                                         : 1
-   tla                                         : 1 : TLA
-   tlaxcala                                    : 1
-   TLS                                         : 1
-   TLTS                                        : 2
-   TMS                                         : 3
-   TNO                                         : 1
-   to_fix                                      : 43
-   TOAST                                       : 1
-   toasties                                    : 1
-   tobacco                                     : 2
-   todo_list                                   : 1
-   TOGA                                        : 1
-   togo                                        : 1
-   toilet                                      : 2   : toilets
-   toilet_paper                                : 1
-   toilets                                     : 18
-   toiletscapes                                : 1 : toilet_scapes
-   tokens                                      : 2
-   tokyo                                       : 6
-   tolerance                                   : 6
-   tomasp                                      : 1
-   tomb                                        : 1
-   tomb_raider                                 : 3
-   tool                                        : 19
-   tool_development                            : 2
-   tool_logic                                  : 1
-   toolbox                                     : 2
-   toolbox_documents                           : 1
-   toolkit                                     : 3
-   toolkits                                    : 1 : toolkit
-   tools                                       : 86
-   toolz                                       : 1
-   top_surgery                                 : 1
-   topic_modeling                              : 1
-   topic_models                                : 1
-   topic_sentences                             : 3
-   TOPLAP                                      : 1
-   topography                                  : 2
-   topology                                    : 18
-   TOPSIS                                      : 1
-   tor                                         : 14
-   tor_books                                   : 1
-   torbay                                      : 1
-   torch                                       : 1
-   torchlight                                  : 1
-   TORCS                                       : 2
-   TORG                                        : 2
-   tories                                      : 2
-   tornillo                                    : 1
-   toronto                                     : 5
-   toronto_press                               : 1
-   torque                                      : 1
-   torrent                                     : 3
-   tort                                        : 1
-   torture                                     : 14
-   tory                                        : 12
-   torys                                       : 1   : tory
-   tosa_school                                 : 1
-   total_institution                           : 1
-   total_order                                 : 1
-   total_war                                   : 1
-   totalitarian                                : 1
-   totalitarianism                             : 3
-   toucan                                      : 1
-   tourism                                     : 3
-   tourmaline                                  : 1
-   tournament                                  : 1
-   tournaments                                 : 2
-   tow_center                                  : 1
-   towel                                       : 1
-   towers                                      : 1
-   town                                        : 1
-   townhall                                    : 2
-   towns                                       : 3
-   townville                                   : 1
-   toxic                                       : 2
-   toxic_culture                               : 2
-   toxic_dust                                  : 1
-   toxic_masculinity                           : 5
-   toxic_waste                                 : 1
-   toxicity                                    : 1
-   toxicology                                  : 1
-   toxins                                      : 1
-   toy                                         : 2
-   toy_worlds                                  : 1
-   toys                                        : 7
-   tpm                                         : 3   : TPM
-   TPP                                         : 5
-   TPS                                         : 1
-   tpy_checking                                : 1   : type_checking
-   trace_analysis                              : 1
-   tracery                                     : 3
-   tracing                                     : 1
-   tracker                                     : 2
-   tracking                                    : 4
-   trade                                       : 15
-   trade_politics                              : 1
-   trade_war                                   : 4
-   trademark                                   : 8
-   trademarks                                  : 1
-   tradeoff                                    : 1
-   traders                                     : 1
-   trading                                     : 2
-   trading_cards                               : 1
-   tradition                                   : 9
-   traditional_dress                           : 1
-   traditional_society                         : 2
-   traditionalists                             : 1
-   traffic                                     : 15
-   traffic_laundering                          : 1
-   traffic_stops                               : 1
-   traffic_tickets                             : 1
-   traffice                                    : 1
-   trafficking                                 : 9
-   tragedy                                     : 3
-   trailer                                     : 4
-   train                                       : 4
-   training                                    : 10
-   training_costs                              : 1
-   training_transfer                           : 1
-   trains                                      : 3
-   traits                                      : 3
-   TRAME                                       : 1
-   trams                                       : 1
-   tranparency                                 : 1
-   trans                                       : 16
-   trans_galatica                              : 1
-   trans_man                                   : 1
-   trans_rights                                : 1
-   trans_women                                 : 1
-   transaction                                 : 1
-   transactional_analysis                      : 1
-   transactions                                : 1
-   transation_structure                        : 1 : transaction_structure
-   transcript                                  : 15
-   transcripts                                 : 3 : transcript
-   transdiagnostic                             : 1 : trans_diagnostic
-   transdiciplinarity                          : 1 : trans_disciplinary
-   transdisciplinary                           : 1 : trans_disciplinary
-   transequality                               : 1 : trans_equality
-   transform                                   : 9
-   transformation                              : 11
-   transformations                             : 2 : transformation
-   transformative_justice                      : 2
-   transformer                                 : 2
-   transformers                                : 2 : transformer
-   transformharm                               : 2 : transform_harm
-   transforms                                  : 7 : transform
-   transgender                                 : 91
-   transgression                               : 1
-   transhumanism                               : 1 : transhumanism
-   transient_information                       : 1
-   transition                                  : 15
-   transition_graph                            : 1
-   transition_system                           : 2
-   transition_systems                          : 4 : transition_system
-   transitions                                 : 5 : transition
-   transjordan                                 : 1 : trans_jordan
-   translation                                 : 6
-   translit                                    : 1 : trans_literature
-   transmedia                                  : 3 : trans_media
-   transmen                                    : 1 : trans_men
-   transmisogyny                               : 1 : trans_misogyny
-   transmission                                : 3
-   transnational                               : 1 : trans_national
-   transparency                                : 20
-   transphobia                                 : 43 : trans_phobia
-   transpiler                                  : 2
-   transport                                   : 3 : transportation
-   transportation                              : 3
-   transportation_engineering                  : 1
-   transsiberian                               : 1 : trans_siberian
-   transvaginal_ultrasound                     : 1
-   transvestities                              : 1 : transvestites
-   trapdoor                                    : 2
-   traps                                       : 3
-   trash                                       : 5
-   trashed_bathrooms                           : 2
-   trauma                                      : 43
-   trauma_informed_care                        : 6
-   travel                                      : 10
-   Traveller                                   : 2 : traveller
-   traveller                                   : 2
-   travellers                                  : 1 : traveller
-   treason_act                                 : 1
-   treatment_effects                           : 1
-   treaty                                      : 9
-   tree                                        : 22
-   tree_adjoining_grammar                      : 1
-   tree_adjoining_grammars                     : 1 : tree_adjoining_grammar
-   tree_alphabet                               : 1
-   tree_of_life                                : 1
-   tree_rewriting                              : 1
-   tree_transducers                            : 1
-   treemap                                     : 2
-   treemaps                                    : 1 : treemap
-   trees                                       : 12
-   trello                                      : 2
-   treloars_college                            : 1
-   trends                                      : 4
-   trespasser                                  : 1
-   tresspass                                   : 1
-   triadic_relations                           : 1
-   triage                                      : 2
-   trial                                       : 1
-   trial_by_tech                               : 1
-   trial_error                                 : 1
-   trials                                      : 1 : trial
-   tribal                                      : 3
-   tribal_epistemology                         : 1
-   tribal_politics                             : 1
-   tribalism                                   : 2
-   tribe                                       : 1
-   tribes                                      : 7
-   tribunals                                   : 1
-   tricksters                                  : 1
-   trie                                        : 2
-   tries                                       : 1
-   trig                                        : 1
-   trigger                                     : 1
-   trigger_warning                             : 5
-   trigger_warnings                            : 2
-   triggered                                   : 1
-   trigonometry                                : 3
-   trincher                                    : 1
-   tripadvisor                                 : 1 : trip_advisor
-   TRIPS                                       : 1
-   trivial_dialogue_phrases                    : 1
-   troll                                       : 19 : trolling
-   trolling                                    : 2
-   trolls                                      : 1 : trolling
-   tron                                        : 1
-   tropes                                      : 4
-   TropICAL                                    : 1
-   tropical_diseases                           : 1
-   tropical_geometry                           : 1
-   tropico                                     : 2
-   TROPOS                                      : 1
-   Tropos                                      : 1
-   trousers                                    : 1
-   troy                                        : 1
-   truancy                                     : 6
-   trucking                                    : 2
-   trump                                       : 551
-   trump. policy                               : 1 : trump : policy
-   trump_bench                                 : 1
-   trump_foundation                            : 1
-   trumpcare                                   : 2 : trump_care
-   TrumpConcentrationCamps                     : 1 : trump : concentration_camps
-   TrumpIsAMoron                               : 1
-   TrumpIsATraitor                             : 1
-   trust                                       : 30
-   trust_spectrum                              : 1
-   truth                                       : 3
-   truth_maintenance                           : 2 : truth_maintenance_system
-   truth_maintenance_system                    : 1
-   truther                                     : 1
-   TSA                                         : 2
-   tsa                                         : 7 : TSA
-   tshirt                                      : 2
-   tshirt_cannon                               : 1
-   tshirts                                     : 2 : tshirt
-   tsunamis                                    : 1
-   ttrpg                                       : 10 : table_top_rpg
-   tube                                        : 1
-   tube_stations                               : 1
-   tuberculosis                                : 2
-   TuCSon                                      : 1
-   tudor                                       : 1
-   tufts                                       : 1
-   tug_of_war                                  : 1
-   tuition                                     : 2
-   tuk_tuk                                     : 1
-   tulsa                                       : 3
-   tulsa_race_massacre                         : 1
-   tumblr                                      : 74
-   tuning                                      : 1
-   tunisia                                     : 2
-   tuple                                       : 1
-   tuple_space                                 : 1
-   turbine                                     : 1
-   turing_award                                : 1
-   turing_complete                             : 2
-   turing_machine                              : 1
-   turing_machines                             : 2 : turing_machine
-   turing_test                                 : 1
-   turkey                                      : 14
-   turky                                       : 1 : turkey
-   turn                                        : 2
-   turn_based_combat                           : 2
-   turn_based_strategy                         : 1
-   turn_taking                                 : 5
-   Turnaway                                    : 1
-   turning_point                               : 1
-   turnover                                    : 2
-   turns                                       : 1
-   turnstile_jumper                            : 1
-   turtle                                      : 1
-   tusayan                                     : 2
-   tuskegee                                    : 2
-   tutorial                                    : 402
-   tutoring                                    : 1
-   tv                                          : 24
-   tv_episode                                  : 4
-   tv_news                                     : 1
-   tv_show                                     : 35
-   tv_shows                                    : 1 : tv_show
-   tv_tropes                                   : 3
-   tvguide                                     : 1   : tv_guide
-   twee                                        : 1
-   tweening                                    : 1
-   tweet                                       : 3
-   tweeting                                    : 1
-   twig                                        : 2
-   twilight                                    : 1
-   twin                                        : 2
-   twin_peaks                                  : 2
-   twine                                       : 17
-   twitch                                      : 7
-   twitch_plays_pokemon                        : 1
-   twitter                                     : 114
-   twitter_thread_activation                   : 1
-   two_point_hospital                          : 1
-   two_spirit                                  : 1
-   twocare                                     : 1
-   TWP                                         : 1
-   twurl                                       : 1
-   tyle                                        : 1
-   type                                        : 1 : types
-   type_2_fuzzy_sets                           : 2
-   type_3_error                                : 1
-   type_checking                               : 26
-   type_classes                                : 2
-   type_classopedia                            : 1
-   type_holds                                  : 1
-   type_inference                              : 13
-   type_providers                              : 1
-   type_safety                                 : 3
-   type_script                                 : 1
-   type_semantics                              : 1
-   type_structure                              : 1
-   type_system                                 : 23
-   Type_Systems                                : 1
-   type_systems                                : 1
-   type_theory                                 : 9
-   types                                       : 62
-   typewriter                                  : 2
-   typing                                      : 2
-   typography                                  : 13
-   typology                                    : 27
-   tyranny                                     : 9
-   tyranny_of_structurelessness                : 1
-   tyt                                         : 2
-   tyt_network                                 : 1
+   t_shirt                          : 2
+   t_test                           : 1
+   t_tests                          : 1   : t_test
+   tab                              : 1
+   TABA                             : 1
+   tabasco                          : 1
+   TABDUAL                          : 1
+   table_top                        : 2
+   table_top_rpg                    : 18
+   table_top_rpgs                   : 1   : table_top_rpg
+   tablet                           : 1
+   tabletop_game                    : 1
+   tabletop_rpg                     : 5   : table_top_rpg
+   tabletopia                       : 1
+   taboo                            : 1
+   taboos                           : 2   : taboo
+   Tabqa                            : 1
+   tabu_search                      : 1
+   tacit_communication              : 1
+   taco_bell                        : 1
+   tacoma                           : 1
+   TACT                             : 1
+   tactical_path_finding            : 1
+   tactical_pathfinding             : 1   : tactical_path_finding
+   tactical_tech                    : 1
+   tactics                          : 9
+   tactile                          : 2
+   TAG                              : 1   : tree_adjoining_grammar
+   tag                              : 5
+   tag_system                       : 1
+   tagging                          : 13
+   tagging_behaviour                : 1
+   TAGinator                        : 1
+   taglines                         : 1
+   TAGs                             : 1
+   tags                             : 9   : tag
+   tahrir_square                    : 1
+   taiwan                           : 3
+   tajikstan                        : 1
+   take_back_illinois               : 1
+   takedown                         : 3
+   tale_of_tales                    : 1
+   tale_spin                        : 2
+   talent                           : 1
+   tales                            : 1
+   taliban                          : 2
+   talismans                        : 1
+   talk                             : 5
+   talk_of_the_town                 : 1
+   talk_radio                       : 1
+   talking_about_bpd                : 1
+   talking_bodies                   : 1
+   talking_points_memo              : 3
+   talkingaboutbpd                  : 1   : talking_about_bpd
+   talkingpointsmemo                : 2   : talking_points_memo
+   talks                            : 1
+   talmud                           : 1
+   tamale                           : 1
+   tambourine                       : 1
+   tamil                            : 1
+   tampa                            : 1
+   tampa_bay                        : 1
+   tampa_bay_times                  : 2
+   TANAGRA                          : 1
+   Tanagra                          : 1   : TANAGRA
+   tanagra                          : 1   : TANAGRA
+   TANF                             : 1
+   tangential_learning              : 1
+   tangibl                          : 1   : tangible
+   tangible                         : 2
+   tap_water                        : 1
+   TARDIS                           : 1
+   target                           : 1
+   target_trial_framework           : 1
+   targeted_advertising             : 1
+   targets                          : 1 : target
+   tariff                           : 2   : tariffs
+   tariffs                          : 4
+   tarot                            : 2
+   tarot_cards                      : 1   : tarot
+   taser                            : 2
+   task                             : 7
+   task_analysis                    : 1
+   task_artifact_cycle              : 1
+   task_assembly                    : 1
+   task_delegation                  : 1
+   task_demand                      : 1
+   task_log                         : 1
+   task_orientation                 : 1
+   taskmaker                        : 2
+   tasks                            : 16
+   tasmania                         : 2
+   taste                            : 2
+   tate                             : 1
+   tate_britain                     : 1
+   tattoo                           : 11
+   tattooed_prof                    : 1
+   tattoos                          : 11  : tattoo
+   taubes                           : 1
+   tax                              : 31
+   tax_avoidance                    : 2
+   tax_cut                          : 1
+   tax_cuts                         : 1
+   tax_evasion                      : 1
+   tax_fraud                        : 2
+   tax_haven                        : 2
+   tax_policy                       : 1
+   tax_reform                       : 4
+   taxation                         : 12
+   taxes                            : 6
+   taxi                             : 1
+   taxis                            : 1
+   taxonomy                         : 256
+   taylor_and_francis               : 1
+   TB                               : 1
+   TBHW                             : 1
+   TBox                             : 1
+   TBoxes                           : 1   : TBox
+   tcf                              : 1
+   tchad                            : 1
+   TCL                              : 1
+   TCP                              : 1
+   tcp_ip                           : 1
+   td_org                           : 1
+   tdd                              : 2
+   tea                              : 8
+   tea_party                        : 1
+   teacher                          : 2
+   teacher_of_the_year              : 1
+   teachers                         : 4
+   teachers_guide                   : 1
+   teaching                         : 15
+   TEAM                             : 1
+   team                             : 1
+   team_oriented_programming        : 1
+   teams                            : 7
+   teamwork                         : 2
+   teapot                           : 1
+   teapots                          : 1 : teapot
+   tear_gas                         : 4
+   teaspoons                        : 1
+   tech                             : 11
+   tech_adoption                    : 2
+   tech_bros                        : 4
+   tech_companies                   : 3
+   tech_crunch                      : 3
+   tech_culture                     : 1
+   tech_dangers                     : 1
+   tech_debt                        : 2
+   tech_dirt                        : 381
+   tech_ethics                      : 3
+   tech_failures                    : 1
+   tech_report                      : 1
+   tech_republic                    : 1
+   tech_review                      : 1
+   tech_specs                       : 1
+   tech_times                       : 1
+   tech_tree                        : 1
+   tech_workers                     : 1
+   tech_writing                     : 1
+   techcrunch                       : 3   : tech_crunch
+   techdirt                         : 381 : tech_dirt
+   technical                        : 206
+   technical_artifacts              : 1
+   technical_debt                   : 2
+   technical_requirements           : 1
+   technical_standards              : 1
+   technical_writing                : 1
+   techno_chauvinism                : 1
+   techno_culture                   : 1
+   techno_economic                  : 1
+   techno_feminism                  : 1
+   techno_futurism                  : 1
+   techno_imperialism               : 1
+   techno_poetics                   : 1
+   techno_polis                     : 1
+   techno_social                    : 1
+   techno_spiritual                 : 1
+   techno_thriller                  : 1
+   technoculture                    : 1   : techno_culture
+   technofeminism                   : 1   : techno_feminism
+   Technological_Change             : 1   : technological_change
+   technological_change             : 1
+   technological_dystopias          : 1
+   technologies                     : 1   : technology
+   technology                       : 362
+   technology_failure               : 1
+   technology_garden                : 3
+   technology_review                : 1
+   technopoetics                    : 1   : techno_poetics
+   technopolis                      : 1   : techno_polis
+   technosocial                     : 1   : techno_social
+   techreports                      : 1   : tech_report
+   ted                              : 1
+   tedium                           : 1
+   teen                             : 1
+   teen_vogue                       : 15
+   teenagers                        : 3
+   teens                            : 2   : teenagers
+   teenvogue                        : 4   : teen_vogue
+   teespring                        : 2
+   teeth                            : 1
+   teflon                           : 1
+   tehran                           : 1
+   telco                            : 10
+   telegraph                        : 9
+   telemarketing                    : 1
+   telemetry                        : 1
+   teleo_reactive                   : 1
+   teleology                        : 3
+   teleoperation                    : 1
+   telepathy                        : 1
+   telephone                        : 2
+   telephone_box                    : 1
+   telephones                       : 1   : telephone
+   telepresence                     : 1
+   Telescript                       : 1   : telescript
+   telescript                       : 1
+   televiion                        : 1   : television
+   television                       : 1
+   television_narrative             : 1
+   telework                         : 1
+   telic                            : 1
+   telling_about_society            : 1
+   telltale                         : 5
+   temperament                      : 1
+   temperature                      : 4
+   temperature_variation            : 1
+   template                         : 7
+   template_haskell                 : 1
+   templates                        : 3   : template
+   templeOS                         : 1
+   temples                          : 1
+   TEMPO                            : 1
+   tempo                            : 2
+   temporal                         : 29
+   temporal_context                 : 1
+   temporal_degradation             : 1
+   temporal_dependency              : 1
+   temporal_earth                   : 1
+   temporal_experience              : 1
+   temporal_grounding               : 1
+   temporal_logic                   : 16
+   temporal_modal_defeasible_logic  : 1
+   temporal_order                   : 1
+   temporality                      : 3
+   temporary_email                  : 1
+   ten_daily                        : 1
+   tenacles                         : 1   : tentacles
+   tenants                          : 2
+   tendency                         : 1
+   tennessee                        : 7
+   tennis                           : 1
+   tennyson                         : 1
+   tenochtitlan                     : 1
+   tense                            : 1
+   tension                          : 1
+   tensor_fields                    : 1
+   tensorboard                      : 1
+   tensorflow                       : 14
+   tensors                          : 1
+   tentacles                        : 1
+   tenure                           : 1
+   terf                             : 1   : TERF
+   TERF                             : 20
+   term_limits                      : 2
+   term_rewriting                   : 1
+   terminal                         : 5
+   terminator                       : 2
+   terminology                      : 3
+   termites                         : 1
+   terms                            : 3
+   terms_of_service                 : 1
+   terracotta_army                  : 1
+   terraform                        : 2
+   terraforming                     : 1   : terraform
+   terrain                          : 7
+   terrain_generation               : 8
+   terrible_realities               : 1
+   territorial                      : 1
+   territoriality                   : 1   : territorial
+   territory                        : 1
+   terror                           : 1
+   terrorism                        : 151
+   terrorism_studies                : 1
+   terrorist_groups                 : 1
+   tesco                            : 2
+   tesla                            : 2
+   test                             : 17
+   test_bed                         : 1
+   test_driven_design               : 3
+   test_driven_development          : 1
+   test_driven_developmet           : 1   : test_driven_development
+   test_driven_writing              : 1
+   testability                      : 1
+   testimonies                      : 1   : testimony
+   testimony                        : 2
+   testing                          : 18
+   tests                            : 1   : test
+   tetris                           : 6
+   tex                              : 3
+   texas                            : 72
+   texas_monthly                    : 1
+   texas_observer                   : 1
+   texas_tribune                    : 1
+   text                             : 12
+   text_adventure                   : 7
+   text_analysis                    : 1
+   text_blob                        : 1
+   text_book                        : 584
+   text_books                       : 17 : text_book
+   text_editor                      : 1
+   text_generation                  : 3
+   text_layout                      : 1
+   text_net                         : 1
+   text_processing                  : 1
+   text_segmentation                : 1
+   text_simplification              : 1
+   text_tiling                      : 2
+   textblob                         : 1   : text_blob
+   textbook                         : 585 : text_book
+   textbook_knowledge               : 1
+   textbooks                        : 2   : text_book
+   textile                          : 2
+   textile_workers                  : 1
+   textnet                          : 1   : text_net
+   TextTiling                       : 2   : text_tiling
+   texture                          : 1
+   texture_synthesis                : 2
+   textures                         : 3   : texture
+   tf2                              : 6
+   tf_idf                           : 1
+   TGGs                             : 1
+   thai                             : 1
+   thailand                         : 3
+   thanksgiving                     : 1
+   that_which_sleeps                : 2
+   thatcher                         : 1
+   the_advocate                     : 1
+   the_appeal                       : 5
+   the_appear                       : 1
+   the_atlantic                     : 86
+   the_bachelorette                 : 1
+   the_baffler                      : 8
+   the_beatles                      : 2
+   the_bicker                       : 2
+   the_body_keeps_score             : 1
+   the_bulwark                      : 1
+   the_canary                       : 2
+   the_center                       : 1
+   the_color_of_wealth              : 1
+   the_conversation                 : 9
+   the_correspondent                : 2
+   the_crime_report                 : 1
+   the_cross_tab                    : 1
+   the_cruelty_is_the_point         : 1
+   the_cut                          : 4
+   the_dark_is_rising               : 1
+   the_depression                   : 1
+   the_dispossessed                 : 1
+   the_division                     : 3
+   the_economist                    : 1
+   the_end_of_ice                   : 1
+   the_escapist                     : 11
+   the_establishment                : 5
+   the_exploding_metropolis         : 1
+   the_false_cause                  : 1
+   the_fed                          : 1
+   the_federalist                   : 4
+   the_good_place                   : 2
+   the_hill                         : 13
+   the_intercept                    : 19
+   the_interept                     : 1   : the_intercept
+   the_invisible_technician         : 1
+   the_kitchn                       : 28
+   the_know_it_alls                 : 1
+   the_last_of_us                   : 1
+   the_little_mermaid               : 1
+   the_machinist                    : 1
+   the_mechanic                     : 1
+   the_mind_circle                  : 3
+   the_morning_paper                : 2
+   the_nation                       : 8
+   the_netherlands                  : 1
+   the_new_deal                     : 1
+   the_nib                          : 1
+   the_OA                           : 1
+   the_oatmeal                      : 1
+   the_office                       : 1
+   the_one_joke                     : 2
+   the_outlin                       : 1   : the_outline
+   the_outline                      : 3
+   the_phantom_menace               : 1
+   the_pill                         : 1
+   the_pudding                      : 1
+   the_queen                        : 1
+   the_raven                        : 1
+   the_register                     : 1
+   the_root                         : 3
+   the_sims                         : 11
+   the_slot                         : 1
+   the_south                        : 1
+   the_squad                        : 2
+   the_standard                     : 1
+   the_star                         : 1
+   the_state                        : 16
+   the_stranger                     : 1
+   the_sunday_papers                : 54
+   the_tea                          : 1
+   the_tiffany_problem              : 1
+   the_times                        : 5
+   the_trace                        : 1
+   the_verge                        : 3
+   the_week                         : 1
+   the_whole_story                  : 1
+   the_wire                         : 2
+   the_witcher                      : 1
+   the_witness                      : 1
+   theano                           : 2
+   theatlantic                      : 10  : the_atlantic
+   theatre                          : 4
+   theatre_memory                   : 1
+   theft                            : 11
+   theft_capitalism                 : 1
+   theism                           : 1
+   them                             : 3
+   them_us                          : 1
+   thematic_analysis                : 2
+   theme_hospital                   : 1
+   themes                           : 1
+   themindcircle                    : 1   : the_mind_circle
+   theologians                      : 1   : theology
+   theology                         : 2
+   theorem                          : 1
+   theorem_proving                  : 4
+   theoretical_coding               : 1
+   theoretical_frameworks           : 1
+   theory                           : 70
+   theory_as_code                   : 1
+   theory_building                  : 2
+   theory_change                    : 1
+   theory_crafting                  : 1
+   theory_development               : 1
+   theory_fiction                   : 2
+   theory_for_the_world             : 1
+   theory_of_action                 : 1
+   theory_of_mind                   : 4
+   theory_of_planned_behaviour      : 1
+   theory_of_surplus_value          : 1
+   theory_of_the_growth_of_the_firm : 1
+   theory_revision                  : 4
+   therac                           : 1
+   therapist                        : 1
+   therapy                          : 13
+   there_and_back_again             : 1
+   theremin                         : 1
+   thermal                          : 1
+   thermodynamics                   : 1
+   thesis                           : 7
+   thick                            : 2
+   thick_description                : 1
+   thicker_than_blood               : 1
+   thief                            : 6
+   thing_of_value                   : 1
+   think_progress                   : 7
+   think_tank                       : 1
+   think_tanks                      : 1 : think_tank
+   thinking                         : 8
+   thinking_history                 : 1
+   thinking_styles                  : 3
+   thinkinghistory                  : 1   : thinking_history
+   thinkprogress                    : 1   : think_progress
+   thinktank                        : 1   : think_tank
+   thinktsalagi                     : 1
+   third_party                      : 1
+   third_safe_schools               : 1
+   third_shift                      : 1
+   third_way                        : 1
+   third_world                      : 1
+   this_ugly_civilization           : 1
+   THOMAS                           : 1
+   thomas_the_tank_engine           : 2
+   thornton                         : 1
+   thought                          : 2
+   thought_crime                    : 1
+   thought_experiment               : 5
+   thought_experiments              : 1   : thought_experiment
+   thread                           : 6
+   thread_compilers                 : 1
+   threadapalooza                   : 2
+   threat_assessment                : 1
+   threat_model                     : 1
+   threats                          : 2
+   three_body_problem               : 1
+   three_californias                : 1
+   three_fifths_compromise          : 1
+   three_js                         : 1
+   three_mile_island                : 1
+   three_strikes                    : 6
+   threejs                          : 1   : three_js
+   Threnoscope                      : 1   : threnoscope
+   threnoscope                      : 1
+   thresholds                       : 1
+   thrift                           : 3
+   throne_room                      : 1
+   throttling                       : 1
+   thud                             : 1
+   thug_life                        : 1
+   thunderbirds                     : 2
+   thundercluck                     : 2
+   TI                               : 1
+   tiananmen_square                 : 1
+   tiberian_sun                     : 1
+   tibet                            : 3
+   tic_tac_toe                      : 1
+   ticks                            : 1
+   tidal                            : 8
+   TIDSE                            : 1
+   tidy_models                      : 1
+   tidymodels                       : 1   : tidy_models
+   tiered                           : 1
+   tiffin                           : 1
+   tiger_woods                      : 1
+   tihama                           : 1
+   tijuana                          : 1
+   tiktok                           : 3
+   tile_algebra                     : 1
+   tile_model                       : 1
+   tiled                            : 1
+   tilemancer                       : 1
+   tiles                            : 6
+   tileset                          : 2
+   tiling                           : 1
+   tim                              : 1   : time
+   timbre                           : 1
+   time                             : 98
+   time_blind                       : 1
+   time_lapse                       : 1
+   time_management                  : 1
+   time_poverty                     : 1
+   time_scale                       : 1
+   time_scale_of_emotions           : 1
+   time_shift                       : 1
+   time_space_cube                  : 1
+   time_stamps                      : 1
+   time_stream                      : 1
+   time_tax                         : 1
+   time_travel                      : 1
+   time_use                         : 1
+   time_warner                      : 2
+   timed_component_connectors       : 1
+   timekeeping                      : 1   : time_keeping
+   timelapse                        : 1   : time_lapse
+   timeline                         : 23
+   timelines                        : 1   : timeline
+   times                            : 1   : time
+   timescale                        : 1   : time_scale
+   timescale_of_emotions            : 1   : time_scale_of_emotions
+   timestream                       : 1   : time_stream
+   timing                           : 6   : time
+   tinkering                        : 1
+   tinkerpop                        : 1
+   tiny_bird_games                  : 1
+   tiny_islands                     : 2
+   tinybirdgames                    : 1   : tiny_bird_games
+   tipping                          : 5
+   tipping_points                   : 1
+   tips                             : 3   : tipping
+   tiredness                        : 1
+   TIS_100                          : 1
+   tisk                             : 1
+   tissue_damage                    : 1
+   titanfall                        : 1
+   titans                           : 1
+   title_IX                         : 1
+   titles                           : 1
+   tkinter                          : 1
+   TLA                              : 1
+   tla                              : 1   : TLA
+   tlaxcala                         : 1
+   tlingit                          : 1
+   TLOU2                            : 1
+   TLS                              : 1
+   TLTS                             : 2
+   TMS                              : 3
+   TNO                              : 1
+   to_fix                           : 43
+   TOAST                            : 1
+   toasties                         : 1
+   tobacco                          : 2
+   todo_list                        : 1
+   TOGA                             : 1
+   togo                             : 1
+   toilet                           : 2   : toilets
+   toilet_paper                     : 1
+   toilet_scapes                    : 1
+   toilets                          : 18
+   toiletscapes                     : 1   : toilet_scapes
+   tokens                           : 2
+   tokio                            : 2   : tokyo
+   tokyo                            : 6
+   tolerance                        : 6
+   tomasp                           : 1
+   tomb                             : 1
+   tomb_raider                      : 3
+   tool                             : 19
+   tool_development                 : 2
+   tool_logic                       : 1
+   toolbox                          : 2
+   toolbox_documents                : 1
+   toolkit                          : 3
+   toolkits                         : 1   : toolkit
+   tools                            : 86
+   toolz                            : 1
+   top_surgery                      : 1
+   topic_modeling                   : 1
+   topic_models                     : 1
+   topic_sentences                  : 3
+   TOPLAP                           : 1
+   topography                       : 2
+   TOPOI                            : 1
+   topology                         : 18
+   TOPSIS                           : 1
+   tor                              : 14
+   tor_books                        : 1
+   torah                            : 1
+   torbay                           : 1
+   torch                            : 1
+   torchlight                       : 1
+   TORCS                            : 2
+   TORG                             : 2
+   tories                           : 2
+   tornillo                         : 1
+   toronto                          : 5
+   toronto_press                    : 1
+   torque                           : 1
+   torrent                          : 3
+   tort                             : 1
+   torture                          : 14
+   tory                             : 12
+   torys                            : 1   : tory
+   tosa_school                      : 1
+   total_bureaucracy                : 1
+   total_institution                : 1
+   total_order                      : 1
+   total_war                        : 1
+   totalitarian                     : 1
+   totalitarianism                  : 3
+   tottenham                        : 1
+   toucan                           : 1
+   tourism                          : 3
+   tourmaline                       : 1
+   tournament                       : 1
+   tournaments                      : 2
+   tow_center                       : 1
+   towel                            : 1
+   towers                           : 1
+   town                             : 1
+   townhall                         : 2
+   towns                            : 3
+   townville                        : 1
+   toxic                            : 2
+   toxic_culture                    : 2
+   toxic_dust                       : 1
+   toxic_masculinity                : 5
+   toxic_waste                      : 1
+   toxicity                         : 1
+   toxicology                       : 1
+   toxins                           : 1
+   toy                              : 2
+   toy_worlds                       : 1
+   toys                             : 7
+   tpm                              : 3   : TPM
+   TPM                              : 3
+   TPP                              : 5
+   TPS                              : 1
+   tpy_checking                     : 1   : type_checking
+   TRAC                             : 2
+   trace_analysis                   : 1
+   tracery                          : 3
+   tracing                          : 1
+   tracker                          : 2
+   tracking                         : 4
+   trade                            : 15
+   trade_deficit                    : 1
+   trade_policy                     : 1
+   trade_politics                   : 1
+   trade_war                        : 4
+   trademark                        : 8
+   trademarks                       : 1
+   tradeoff                         : 1
+   traders                          : 1
+   trading                          : 2 : trade
+   trading_cards                    : 1
+   tradition                        : 9
+   traditional_dress                : 1
+   traditional_knowledge            : 1
+   traditional_society              : 2
+   traditionalists                  : 1
+   traffic                          : 15
+   traffic_laundering               : 1
+   traffic_stops                    : 1
+   traffic_tickets                  : 1
+   traffice                         : 1
+   trafficking                      : 9
+   tragedy                          : 3
+   tragedy_of_the_commons           : 1
+   trailer                          : 4
+   train                            : 4
+   training                         : 10
+   training_costs                   : 1
+   training_transfer                : 1
+   trains                           : 3
+   traits                           : 3
+   TRAME                            : 1
+   trams                            : 1
+   tranparency                      : 1
+   trans                            : 16
+   trans_diagnostic                 : 1
+   trans_disciplinary               : 2
+   trans_equality                   : 1
+   trans_galatica                   : 1
+   trans_jordan                     : 1
+   trans_literature                 : 1
+   trans_man                        : 1
+   trans_media                      : 3
+   trans_men                        : 1
+   trans_misogyny                   : 1
+   trans_national                   : 1
+   trans_phobia                     : 43
+   trans_rights                     : 1
+   trans_siberian                   : 1
+   trans_women                      : 1
+   transaction                      : 1
+   transaction_costs                : 1
+   transaction_logic                : 1
+   transaction_structure            : 1
+   transactional_analysis           : 1
+   transactions                     : 1
+   transation_structure             : 1   : transaction_structure
+   transcript                       : 15
+   transcripts                      : 3   : transcript
+   transdiagnostic                  : 1   : trans_diagnostic
+   transdiciplinarity               : 1   : trans_disciplinary
+   transdisciplinary                : 1   : trans_disciplinary
+   transequality                    : 1   : trans_equality
+   transform                        : 9
+   transform_harm                   : 2
+   transformation                   : 11
+   transformations                  : 2   : transformation
+   transformative_justice           : 2
+   transformer                      : 2
+   transformers                     : 2   : transformer
+   transformharm                    : 2   : transform_harm
+   transforms                       : 7   : transform
+   transgender                      : 91
+   transgnder                       : 1   : transgender
+   transgression                    : 1
+   transhumanism                    : 1   : transhumanism
+   transient_information            : 1
+   transients                       : 1
+   transition                       : 15
+   transition_graph                 : 1
+   transition_system                : 2
+   transition_systems               : 4   : transition_system
+   transitions                      : 5   : transition
+   transjordan                      : 1   : trans_jordan
+   translation                      : 6
+   translit                         : 1   : trans_literature
+   transmedia                       : 3   : trans_media
+   transmen                         : 1   : trans_men
+   transmisogyny                    : 1   : trans_misogyny
+   transmission                     : 3
+   transnational                    : 1   : trans_national
+   transparency                     : 20
+   transphobia                      : 43  : trans_phobia
+   transpiler                       : 2
+   transport                        : 3   : transportation
+   transportation                   : 3
+   transportation_engineering       : 1
+   transsiberian                    : 1   : trans_siberian
+   transvaal                        : 1
+   transvaginal_ultrasound          : 1
+   transvestites                    : 1
+   transvestities                   : 1   : transvestites
+   trapdoor                         : 2
+   traps                            : 3
+   trash                            : 5
+   trashed_bathrooms                : 2
+   trauma                           : 43
+   trauma_informed_care             : 6
+   travel                           : 10
+   traveller                        : 2
+   Traveller                        : 2   : traveller
+   travellers                       : 1   : traveller
+   treason_act                      : 1
+   TREAT                            : 1
+   treatment_effects                : 1
+   treaty                           : 9
+   tree                             : 22
+   tree_adjoining_grammar           : 1
+   tree_adjoining_grammars          : 1   : tree_adjoining_grammar
+   tree_alphabet                    : 1
+   tree_of_life                     : 1
+   tree_rewriting                   : 1
+   tree_transducers                 : 1
+   treemap                          : 2
+   treemaps                         : 1   : treemap
+   trees                            : 12
+   trello                           : 2
+   treloars_college                 : 1
+   trends                           : 4
+   trespasser                       : 1
+   tresspass                        : 1
+   triadic_relations                : 1
+   triage                           : 2
+   trial                            : 1
+   trial_by_tech                    : 1
+   trial_error                      : 1
+   trials                           : 1   : trial
+   triangle                         : 1
+   tribal                           : 3
+   tribal_epistemology              : 1
+   tribal_politics                  : 1
+   tribalism                        : 2
+   tribe                            : 1
+   tribes                           : 7
+   tribunals                        : 1
+   tricksters                       : 1
+   trie                             : 2
+   tries                            : 1
+   trig                             : 1
+   trigger                          : 1
+   trigger_warning                  : 5
+   trigger_warnings                 : 2
+   triggered                        : 1
+   trigonometry                     : 3
+   trilemma                         : 1
+   trincher                         : 1
+   trip_advisor                     : 1
+   tripadvisor                      : 1   : trip_advisor
+   TRIPS                            : 1
+   trivial_dialogue_phrases         : 1
+   troll                            : 19  : trolling
+   trolling                         : 2
+   trolls                           : 1   : trolling
+   tron                             : 1
+   tropes                           : 4
+   TropICAL                         : 1
+   tropical_diseases                : 1
+   tropical_geometry                : 1
+   tropicana                        : 1
+   tropico                          : 2
+   tropics                          : 1
+   TROPOS                           : 1
+   Tropos                           : 1
+   trousers                         : 1
+   troy                             : 1
+   truancy                          : 6
+   trucking                         : 2
+   truism                           : 1
+   trump                            : 551
+   trump. policy                    : 1   : trump : policy
+   trump_bench                      : 1
+   trump_care                       : 2
+   trump_foundation                 : 1
+   trump_university                 : 1
+   trumpcare                        : 2   : trump_care
+   TrumpConcentrationCamps          : 1   : trump : concentration_camps
+   TrumpIsAMoron                    : 1
+   TrumpIsATraitor                  : 1
+   trust                            : 30
+   trust_spectrum                   : 1
+   truth                            : 3
+   truth_maintenance                : 2   : truth_maintenance_system
+   truth_maintenance_system         : 1
+   truther                          : 1
+   try_catch                        : 1
+   TSA                              : 2
+   tsa                              : 7   : TSA
+   tshirt                           : 2
+   tshirt_cannon                    : 1
+   tshirts                          : 2   : tshirt
+   tsimshian                        : 1
+   tsunamis                         : 1
+   ttrpg                            : 10  : table_top_rpg
+   tube                             : 1
+   tube_stations                    : 1
+   tuberculosis                     : 2
+   TuCSon                           : 1
+   tudor                            : 1
+   tufts                            : 1
+   tug_of_war                       : 1
+   tuition                          : 2
+   tuk_tuk                          : 1
+   tulsa                            : 3
+   tulsa_race_massacre              : 1
+   tumble_town                      : 1
+   tumbleweeds                      : 1
+   tumblr                           : 74
+   tuning                           : 1
+   tunisia                          : 2
+   tuple                            : 1
+   tuple_space                      : 1
+   turbine                          : 1
+   turing_award                     : 1
+   turing_complete                  : 2
+   turing_machine                   : 1
+   turing_machines                  : 2   : turing_machine
+   turing_test                      : 1
+   turkey                           : 14
+   turkish                          : 1
+   turky                            : 1   : turkey
+   turn                             : 2
+   turn_based_combat                : 2
+   turn_based_strategy              : 1
+   turn_taking                      : 5
+   Turnaway                         : 1
+   turned_based_strategy            : 1
+   turning_point                    : 1
+   turnover                         : 2
+   turns                            : 1
+   turnstile_jumper                 : 1
+   turtle                           : 1
+   tusayan                          : 2
+   tuskegee                         : 2
+   tutorial                         : 402
+   tutoring                         : 1
+   tv                               : 24
+   TV                               : 1   : tv
+   tv_episode                       : 4
+   tv_guide                         : 1
+   tv_news                          : 1
+   tv_show                          : 35
+   tv_shows                         : 1   : tv_show
+   tv_tropes                        : 3
+   tvguide                          : 1   : tv_guide
+   twee                             : 1
+   tweening                         : 1
+   tweet                            : 3
+   tweeting                         : 1
+   twig                             : 2
+   twilight                         : 1
+   twin                             : 2
+   twin_peaks                       : 2
+   twine                            : 17
+   twitch                           : 7
+   twitch_plays_pokemon             : 1
+   twitter                          : 114
+   twitter_thread_activation        : 1
+   two_point_hospital               : 1
+   two_spirit                       : 1
+   twocare                          : 1
+   TWP                              : 1
+   twurl                            : 1
+   tyle                             : 1
+   type                             : 1   : types
+   type_2_fuzzy_sets                : 2
+   type_2_interval                  : 1
+   type_3_error                     : 1
+   type_caste                       : 1
+   type_checking                    : 26
+   type_classes                     : 2
+   type_classopedia                 : 1
+   type_holds                       : 1
+   type_inference                   : 13
+   type_providers                   : 1
+   type_safety                      : 3
+   type_script                      : 1
+   type_semantics                   : 1
+   type_structure                   : 1
+   type_system                      : 23
+   Type_Systems                     : 1
+   type_systems                     : 1
+   type_theory                      : 9
+   types                            : 62
+   typewriter                       : 2
+   typing                           : 2
+   typography                       : 13
+   typology                         : 27
+   tyranny                          : 9
+   tyranny_of_structurelessness     : 1
+   tyson_foods                      : 2
+   tyt                              : 2
+   tyt_network                      : 1
