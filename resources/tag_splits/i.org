@@ -320,7 +320,7 @@
    infomercial                        : 1
    infoq                              : 1
    inform                             : 1
-   inform7                            : 1   inform_7
+   inform7                            : 1   : inform_7
    inform_7                           : 1   
    informal                           : 1
    informal_tools                     : 1

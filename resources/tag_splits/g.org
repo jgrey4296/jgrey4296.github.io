@@ -340,7 +340,7 @@
    globalism                     : 1
    globalization                 : 6
    globe_and_mail                : 1
-   globeandmail                  : 1 globe_and_mail
+   globeandmail                  : 1 : globe_and_mail
    gloom                         : 1
    glossary                      : 4
    glove                         : 2
