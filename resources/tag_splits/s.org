@@ -139,7 +139,7 @@
    scanline_media                              : 1
    scans                                       : 2
    scarcity                                    : 5
-   scare_resources                             : 1      scarcity
+   scare_resources                             : 1      : scarcity
    scarf                                       : 1
    scars                                       : 2
    scatter_gather                              : 1
@@ -750,7 +750,7 @@
    slurs                                       : 6
    slut                                        : 1
    slut_shame                                  : 1
-   Small-World                                 : 1      small_world
+   Small-World                                 : 1      : small_world
    small_business                              : 1      
    small_gods                                  : 1
    small_group_cohesion                        : 1
@@ -817,7 +817,7 @@
    soccer                                      : 1      
    social                                      : 145
    social agent                                : 1      : social_agent
-   Social Exchange Theory                      : 1      social_exchange_theory
+   Social Exchange Theory                      : 1      : social_exchange_theory
    social_action                               : 9
    social_agent                                : 4      
    social_agents                               : 3      : social_agent

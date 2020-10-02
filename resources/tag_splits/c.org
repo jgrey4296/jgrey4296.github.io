@@ -228,7 +228,7 @@
    caves_of_qud                            : 4
    cavity                                  : 1
    cbail                                   : 1
-   cbc                                     : 1 CBC
+   cbc                                     : 1  : CBC
    cbinsights                              : 1
    CBMS                                    : 1
    CBO                                     : 1

@@ -1666,7 +1666,7 @@ joanne_yao                        :        2
 joaqun_oliver                     : 1
 jocelyn_benson                    :        1
 jodi_cohen                        :        1
-jodorowsky                        :        1 alejandro_jodorowsky
+jodorowsky                        :        1 : alejandro_jodorowsky
 joe_biden                         :        4
 joe_conason                       :        1
 joe_fassler                       :        1
@@ -3602,14 +3602,13 @@ zora_neale_hurston                :        1
 zubek                             :        1  : robert_zubek
 zuckerberg                        :        1  : mark_zuckerberg
 zynep_tufecki                     :        1
-tameen_antoniades                : 1
-gabriel_zucman
-zucman             : 1 : gabriel_zucman
-saez                                        : 1      : emmanuel_saez
-rick_santorum : 1
-santorum                                    : 1      : rick_santorum
-sellars                                     : 1      : wilfred_sellars
-wilfred_sellars : 1
-robin_snyder : 1
-pablo_noriega                        : 1
-mirna_alsharif                  : 1
+tameen_antoniades                 : 1
+zucman                            : 1 : gabriel_zucman
+saez                              : 1      : emmanuel_saez
+rick_santorum                     : 1
+santorum                          : 1      : rick_santorum
+sellars                           : 1      : wilfred_sellars
+wilfred_sellars                   : 1
+robin_snyder                      : 1
+pablo_noriega                     : 1
+mirna_alsharif                    : 1
