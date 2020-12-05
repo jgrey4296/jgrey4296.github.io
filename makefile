@@ -1,4 +1,7 @@
 
+serve:
+	jekyll serve
+
 post:
 	python _python_utils/make_post.py
 
