@@ -7,7 +7,7 @@ tags: grace
 
 First off:
 I realize this is an explosion of information. Consume at your pace, I'm just being excitable.
-
+Also no, I take no pleasure in webdesign, and there is nothing else of importance on this site currently.
 
 Now:
 [Up and Down the Ladder of Abstraction](http://worrydream.com/LadderOfAbstraction/) by Brett Victor. His work on using technology
@@ -108,7 +108,8 @@ Misc "Oh gods yes":
 [@zaranosaur](http://twitter.com/zaranosaur)
 
 ## References:
-```@book{meadows2008thinking,
+```
+@book{meadows2008thinking,
   title = {Thinking in systems: A primer},
   author = {Meadows, Donella H},
   year = {2008},
@@ -119,7 +120,8 @@ Misc "Oh gods yes":
 ```
 
 
-``` @article{Hicks2019,
+``` 
+@article{Hicks2019,
   author = {Hicks, Marie},
   doi = {10.1109/mahc.2019.2897667},
   file = {~/Mega/pdflibrary/2019/Hicks/Hicks_2019_Hacking the Cis-tem.pdf},
