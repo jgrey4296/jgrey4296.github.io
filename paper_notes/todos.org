@@ -924,6 +924,11 @@
 **** ABSTRACT
 
 ** E
+*** EAOP: An Aspect Oriented Programming Framework for Erlang
+ebib:Cassar2017
+**** Tags                                                                    :code_instrumentation:concurrency:AOP:aspect:erlang:actor:framework:AOP:pointcuts:concurrency:tools:erlang:eAOP
+**** YEAR : 2017
+
 *** Easy Meta-Programming with Rascal
 **** Tags                                                                       :rascal:DSL:meta_programming:source_code_analysis:
 **** Citation
@@ -1813,13 +1818,17 @@
 **** YEAR : 2015
 **** ABSTRACT
 *** Monad Transformers Step by Step
+Grabmuller2010
 **** Tags                                                                       :transformer:monad:types:haskell:
 **** Citation
 **** AUTHORS
      Martin Grabmuller
 
 **** YEAR : 2006
-**** ABSTRACT
+**** Notes
+Tutorial on *use* of Monad transformers.
+Compare with kiselyov2019effects, kiselyov2016parameterized, kiselyov2015freer, Kiselyov2013, schrijvers2011monads, Wadler1998
+Favour Extensible Effects
 *** Multiple-Criteria Decision-Analysis
 **** Tags                                                                       :reference:stats:mcda:wiki:
 **** Citation
