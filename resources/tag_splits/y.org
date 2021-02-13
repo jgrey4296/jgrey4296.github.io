@@ -1,54 +1,56 @@
 ** y                                                                            :cleaned:
-   YARN                   : 1
-   YMIR                   : 1
-   YOLO                   : 1
-   YamanaSim              : 1
-   y2k                    : 2
-   yahoo                  : 4
-   yahoo_group            : 1
-   yahrzeits              : 1
-   yak_shaving            : 1
-   yakama_nation          : 1
-   yale                   : 4
-   yall_qaeda             : 1
-   yaml                   : 2
-   yandere_sim            : 1
-   yangtze_river          : 1
-   yankton_college        : 1
-   yarn                   : 5 : YARN
-   yarn_bomb              : 1
-   yasnippet              : 4
-   year                   : 1
-   yeast                  : 3
-   yellow                 : 1
-   yellow_jackets         : 2
-   yellowhead_institute   : 1
-   yellowstone            : 1
-   yelp                   : 3
-   yemen                  : 2
-   yes_magazine           : 2
-   yes_your_grace         : 1
-   yeshiva_university     : 3
-   yesmagazine            : 1 : yes_magazine
-   yichang                : 1
-   yield_curve            : 2
-   yiling                 : 1
-   yip_yip                : 1
-   ymir                   : 1 : YMIR
-   yoga                   : 1
-   yogyakarta             : 1
-   yosemite               : 1
-   you_gov                : 2
-   yougov                 : 2 : you_gov
-   young_adult            : 1
-   younger_dryas          : 1
-   youngest_person        : 1
-   youper                 : 1
-   youtbe                 : 1 : youtube
-   youth                  : 6
-   youth_bulge            : 1
-   youth_climate_movement : 1
-   youth_for_christ       : 1
-   youth_subculture       : 1
-   youtube                : 121
-   yup_ik                 : 1
+YARN                   : 1
+YMIR                   : 1
+YOLO                   : 1
+YamanaSim              : 1
+y2k                    : 2
+yahoo                  : 4
+yahoo_group            : 1
+yahrzeits              : 1
+yak_shaving            : 1
+yakama_nation          : 1
+yale                   : 4
+yall_qaeda             : 1
+yaml                   : 2
+yandere_sim            : 1
+yangtze_river          : 1
+yankton_college        : 1
+yarn                   : 5 : YARN
+yarn_bomb              : 1
+yasnippet              : 4
+year                   : 1
+yeast                  : 3
+yellow                 : 1
+yellow_jackets         : 2
+yellowhead_institute   : 1
+yellowstone            : 1
+yelp                   : 3
+yemen                  : 2
+yes_magazine           : 2
+yes_your_grace         : 1
+yeshiva_university     : 3
+yesmagazine            : 1 : yes_magazine
+yichang                : 1
+yield_curve            : 2
+yiling                 : 1
+yip_yip                : 1
+ymir                   : 1 : YMIR
+yoga                   : 1
+yogyakarta             : 1
+yosemite               : 1
+you_gov                : 2
+yougov                 : 2 : you_gov
+young_adult            : 1
+younger_dryas          : 1
+youngest_person        : 1
+youper                 : 1
+youtbe                 : 1 : youtube
+youth                  : 6
+youth_bulge            : 1
+youth_climate_movement : 1
+youth_for_christ       : 1
+youth_subculture       : 1
+youtube                : 121
+yup_ik                 : 1
+youth_culture                   : 1 : %RETURN%
+yungneocon                      : 1 : %RETURN%

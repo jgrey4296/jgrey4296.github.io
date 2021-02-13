@@ -1,38 +1,40 @@
 ** x                                                                            :cleaned:
-   XCS              : 1
-   XFT              : 1
-   XKCD             : 8
-   XML              : 7
-   XML_schema       : 1
-   XNA              : 3
-   XNACSLib         : 1
-   XOD              : 1
-   XSPEM            : 1
-   XTAG             : 1
-   Xtext            : 1
-   x11              : 1
-   xTREE            : 1
-   x_com            : 14
-   x_files          : 1
-   x_men            : 1
-   xanadu           : 1
-   xargs            : 1
-   xbox             : 10
-   xbox_live        : 2
-   xcom             : 2 : x_com
-   xenoanthropology : 1
-   xenocrypt        : 2
-   xenofeminism     : 1
-   xenophobia       : 11
-   xerox_parc       : 1
-   xfiles           : 1 : x_files
-   xhamster         : 1
-   xi_editor        : 1
-   xinjiang         : 1
-   xkcd             : 8 : XKCD
-   xml              : 4 : XML
-   xmonad           : 1
-   xronomorph       : 1
-   xuanzang         : 1
-   xwindows         : 1
-   xy_line          : 1
+XCS              : 1
+XFT              : 1
+XKCD             : 8
+XML              : 7
+XML_schema       : 1
+XNA              : 3
+XNACSLib         : 1
+XOD              : 1
+XSPEM            : 1
+XTAG             : 1
+Xtext            : 1
+x11              : 1
+xTREE            : 1
+x_com            : 14
+x_files          : 1
+x_men            : 1
+xanadu           : 1
+xargs            : 1
+xbox             : 10
+xbox_live        : 2
+xcom             : 2 : x_com
+xenoanthropology : 1
+xenocrypt        : 2
+xenofeminism     : 1
+xenophobia       : 11
+xerox_parc       : 1
+xfiles           : 1 : x_files
+xhamster         : 1
+xi_editor        : 1
+xinjiang         : 1
+xkcd             : 8 : XKCD
+xml              : 4 : XML
+xmonad           : 1
+xronomorph       : 1
+xuanzang         : 1
+xwindows         : 1
+xy_line          : 1
+xsb                             : 1 : %RETURN%
+XSB                             : 1 : %RETURN%

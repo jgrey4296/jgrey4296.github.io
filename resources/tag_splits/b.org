@@ -832,3 +832,20 @@
    byzantine                          : 2
    byzantine_agreement                : 1   
    byzantium                          : 2
+   ballroom_culture                : 1 : %RETURN%
+   banality_of_evil                : 1 : %RETURN%
+   bayesianism                     : 1 : %RETURN%
+   bespoke                         : 1 : %RETURN%
+   Best Practice                   : 1 : %RETURN%
+   bibliographic_data              : 1 : %RETURN%
+   bio_power                       : 1 : %RETURN%
+   birth_defects                   : 1 : %RETURN%
+   birth_of_love                   : 1 : %RETURN%
+   BJS                             : 4 : %RETURN%
+   black_is_beautiful              : 1 : %RETURN%
+   blackboard_architecture         : 1 : %RETURN%
+   boat_club                       : 1 : %RETURN%
+   boston_tea_party                : 1 : %RETURN%
+   boundary_construction           : 1 : %RETURN%
+   bradley_county_jail             : 1 : %RETURN%
+   buildings                       : 1 : %RETURN%

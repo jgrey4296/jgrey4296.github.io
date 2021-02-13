@@ -809,3 +809,32 @@
    rview                                : 3      : review
    rwanda                               : 2
    rybaiyat_of_omar_khayyam             : 1
+race_making                     : 1 : %RETURN%
+ramification_problem            : 1 : %RETURN%
+recategorisation                : 1 : %RETURN%
+redpenblackpen                  : 1 : %RETURN%
+reference_photos                : 1 : %RETURN%
+regulatory_categorization       : 1 : %RETURN%
+relativism                      : 1 : %RETURN%
+replacing_guilt                 : 1 : %RETURN%
+republic                        : 2 : %RETURN%
+restraint                       : 1 : %RETURN%
+retirement                      : 1 : %RETURN%
+reuninfication                  : 2 : %RETURN%
+Review                          : 1 : %RETURN%
+revision                        : 1 : %RETURN%
+revolt                          : 1 : %RETURN%
+
+rincewind                       : 3 : %RETURN%
+roadmap                         : 2 : %RETURN%
+
+
+robots                          : 2 : %RETURN%
+rock_music                      : 1 : %RETURN%
+rps                             : 4 : %RETURN%
+ruinarch                        : 1 : %RETURN%
+rule_based_systems              : 1 : %RETURN%
+rule_ml                         : 7 : %RETURN%
+rulelog                         : 3 : %RETURN%
+RUM                             : 1 : %RETURN%
+rural_life                      : 1 : %RETURN%

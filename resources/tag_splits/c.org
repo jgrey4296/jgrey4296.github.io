@@ -1725,3 +1725,62 @@
    czech                                   : 1
    czech_republic                          : 1
    czechoslovakia                          : 1
+   cables                          : 1 : %RETURN%
+   Cake                            : 1 : %RETURN%
+   Calibration                     : 1 : %RETURN%
+   carole                          : 1 : %RETURN%
+   caste_control                   : 1 : %RETURN%
+   castells                        : 1 : %RETURN%
+   castle                          : 1 : %RETURN%
+   castles                         : 1 : %RETURN%
+   category                        : 1 : %RETURN%
+   catholicism                     : 1 : %RETURN%
+   CCO                             : 1 : %RETURN%
+   cellular_development            : 1 : %RETURN%
+   cemetary                        : 1 : %RETURN%
+   character_modelling             : 1 : %RETURN%
+   chemical_toxins                 : 1 : %RETURN%
+   childrens_stories               : 1 : %RETURN%
+   christmas                       : 1 : %RETURN%
+   cicero                          : 2 : %RETURN%
+   civil_forfeiture                : 1 : %RETURN%
+   civil_resistance                : 1 : %RETURN%
+   classification_systems          : 1 : %RETURN%
+   cloud                           : 1 : %RETURN%
+   cloud_computing                 : 1 : %RETURN%
+   coach                           : 1 : %RETURN%
+   cognitive_artefacts             : 1 : %RETURN%
+   cognitive_tempo                 : 1 : %RETURN%
+   coherent_knowledge              : 1 : %RETURN%
+   colleague                       : 1 : %RETURN%
+   Collective Action               : 1 : %RETURN%
+   command_posts                   : 1 : %RETURN%
+   commit_messages                 : 1 : %RETURN%
+   common_pool_resource            : 2 : %RETURN%
+   communicative_constitution      : 1 : %RETURN%
+   Compassion                      : 1 : %RETURN%
+   complete_institutions           : 1 : %RETURN%
+   complex                         : 1 : %RETURN%
+   Computational Economics         : 1 : %RETURN%
+   computational_models            : 1 : %RETURN%
+   computational_notebooks         : 1 : %RETURN%
+   conceptual_modelling            : 1 : %RETURN%
+   conclusion                      : 1 : %RETURN%
+   confidence_interval             : 1 : %RETURN%
+   confirmation                    : 1 : %RETURN%
+   Conformity                      : 1 : %RETURN%
+   consolidation                   : 1 : %RETURN%
+   conspiracies                    : 1 : %RETURN%
+   contested_practices             : 1 : %RETURN%
+   coporatism                      : 1 : %RETURN%
+   corporate_names                 : 1 : %RETURN%
+   corporate_political_action      : 1 : %RETURN%
+   corrosion                       : 1 : %RETURN%
+   COVID-19                        : 1 : %RETURN%
+   craftsmen                       : 1 : %RETURN%
+   cremation                       : 1 : %RETURN%
+   cricitism                       : 1 : %RETURN%
+   criminal_victimisation          : 1 : %RETURN%
+   crop_circles                    : 1 : %RETURN%
+   crossdressing                   : 1 : %RETURN%
+   cullture                        : 1 : %RETURN%

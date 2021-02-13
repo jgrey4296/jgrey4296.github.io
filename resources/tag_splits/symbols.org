@@ -232,3 +232,10 @@
    880CE                                    : 1
    999                                      : 1
    9th_circuit                              : 1
+   10th_dimension                  : 1 : %RETURN%
+   12th_century                    : 1 : %RETURN%
+   15th_century                    : 3 : %RETURN%
+   1940                            : 1 : %RETURN%
+   3rd_century                     : 1 : %RETURN%
+   6_underground                   : 1 : %RETURN%
+   __to_extend                     : 2 : %RETURN%

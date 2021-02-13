@@ -1112,3 +1112,32 @@
    aztec                                 : 1
    aztecs                                : 1   : aztec
    azure                                 : 1
+   A_level                         : 1 : %RETURN%
+   adaptive_turn                   : 1 : %RETURN%
+   ADHD                            : 1 : %RETURN%
+   aesthetic_judgement             : 1 : %RETURN%
+   afica                           : 1 : %RETURN%
+   african_diaspora                : 1 : %RETURN%
+   Agent Architecture              : 1 : %RETURN%
+   Agent Based Modelling           : 1 : %RETURN%
+   Agent-Based Model               : 6 : %RETURN%
+   Agent-Based Models              : 1 : %RETURN%
+   agent_modelling                 : 1 : %RETURN%
+   ai_and_games                    : 1 : %RETURN%
+   airline_captains                : 1 : %RETURN%
+   alliance                        : 1 : %RETURN%
+   altrusim                        : 1 : %RETURN%
+   american_anthropology           : 1 : %RETURN%
+   ancient_world                   : 1 : %RETURN%
+   androgyne                       : 1 : %RETURN%
+   anorexia                        : 1 : %RETURN%
+   anti_pattern                    : 2 : %RETURN%
+   anti_terrorism                  : 1 : %RETURN%
+   approximate_reasoning           : 1 : %RETURN%
+   archaism                        : 1 : %RETURN%
+   artificial_chemistry            : 1 : %RETURN%
+   asceticism                      : 1 : %RETURN%
+   atlantis                        : 2 : %RETURN%
+   audit_culture                   : 1 : %RETURN%
+   austrian_school                 : 1 : %RETURN%
+   authority_control               : 1 : %RETURN%

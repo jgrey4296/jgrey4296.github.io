@@ -687,3 +687,35 @@
    eye_tracking                        : 2
    eyes                                : 1
    eyewitness                          : 2
+earthsea                        : 1 : %RETURN%
+Economic Performance            : 1 : %RETURN%
+
+eichmann_trial                  : 1 : %RETURN%
+elaboration_tolerance           : 1 : %RETURN%
+electical_systems               : 1 : %RETURN%
+
+Emotional Contagion             : 1 : %RETURN%
+Emotions                        : 1 : %RETURN%
+Empirical Data                  : 1 : %RETURN%
+empiricism                      : 2 : %RETURN%
+Emulator                        : 1 : %RETURN%
+Energy Scenarios                : 1 : %RETURN%
+Energy Systems Analysis         : 1 : %RETURN%
+enuch                           : 1 : %RETURN%
+environmental_racism            : 1 : %RETURN%
+episteme                        : 1 : %RETURN%
+epistemic_action                : 1 : %RETURN%
+epistemic_authority             : 1 : %RETURN%
+epistemological_individualism   : 1 : %RETURN%
+erasmus                         : 1 : %RETURN%
+ErgoAI                          : 2 : %RETURN%
+
+etcher                          : 1 : %RETURN%
+euclid                          : 1 : %RETURN%
+
+examination                     : 1 : %RETURN%
+executive_function              : 1 : %RETURN%
+exoneration                     : 1 : %RETURN%
+expenditure                     : 1 : %RETURN%
+experience_sampling             : 1 : %RETURN%
+external_validity               : 1 : %RETURN%
