@@ -1,4 +1,4 @@
-** n                                                                            :cleaned:
+** n                               :cleaned:
 n95                                : 2
 n_BDI                              : 1
 n_gram                             : 3
@@ -20,7 +20,9 @@ names                              : 16
 namespace                          : 1
 naming                             : 4
 NAMS                               : 1
+nanny                              : 1
 nanogenmo                          : 1
+napalm                             : 1
 naral                              : 1
 narcissism                         : 2
 narration                          : 2
@@ -44,6 +46,7 @@ narrative_structuring              : 1
 narrative_timelines                : 1
 narratives                         : 1   : narrative
 narratology                        : 2
+narrowing                          : 1
 NARS                               : 1
 NASA                               : 13
 nasa                               : 19  : NASA
@@ -59,6 +62,7 @@ national_archives                  : 4
 national_catholic_prayer_breakfast : 1
 national_christian_foundation      : 2
 national_christian_org             : 1
+national_consciousness             : 1
 national_emergency                 : 1
 national_farmers_union             : 1
 national_front                     : 3
@@ -87,9 +91,12 @@ NATO                               : 1
 natsec                             : 1   : national_security
 natural_disaster                   : 1
 natural_gas                        : 1
+natural_history                    : 1
+natural_history_museum             : 1
 natural_intelligence               : 1
 natural_language                   : 6
 natural_language_interface         : 1
+natural_law                        : 1
 natural_resources                  : 1
 natural_stories_corpus             : 1
 natural_systems                    : 2
@@ -113,8 +120,8 @@ NAWSA                              : 1
 nazi                               : 1   : nazis
 nazi_flag                          : 2
 nazis                              : 42
-nbc                                : 15  : NBC
 NBC                                : 15
+nbc                                : 15  : NBC
 NBER                               : 1
 nc9                                : 1
 ncaa                               : 1
@@ -133,6 +140,7 @@ necro_politics                     : 3
 necromancy                         : 1
 necrophilia                        : 2
 necropolis                         : 1
+necropolitics                      : 1
 need_to_know                       : 1
 needs_based_ai                     : 1
 needs_verification                 : 1
@@ -179,6 +187,7 @@ netherland                         : 1   : netherlands
 netherlands                        : 4
 netlogo                            : 17
 Netlogo                            : 3   : netlogo
+NetLogo                            : 1 : netlogo
 netography                         : 1
 netrunner                          : 1
 network                            : 19
@@ -244,6 +253,7 @@ new_jersey                         : 5
 new_jim_code                       : 1
 new_media                          : 20
 new_mexico                         : 2
+new_mythology                      : 1
 new_orleans                        : 7
 new_phytologist                    : 1
 new_religious_movements            : 1
@@ -327,8 +337,8 @@ nikon                              : 1
 nile                               : 1
 nimby                              : 2
 NIMBY                              : 6
-NIN                                : 3
 nin                                : 2   : NIN
+NIN                                : 3
 nine_inch_nails                    : 1   : NIN
 ninja_theory                       : 1
 nintendo                           : 8
@@ -363,6 +373,7 @@ NoDealBrexit                       : 1   : no_deal_brexit
 nodes                              : 1
 nodes_io                           : 1
 nodnol                             : 1
+noema                              : 1
 nogales                            : 1
 noir_syndrome                      : 1
 noise                              : 23
@@ -381,6 +392,7 @@ non_consenual_intimate_imagery     : 1
 non_delegation_doctrine            : 1
 non_determinism                    : 1
 non_dialogical_acts                : 1
+non_discrimination_law             : 1
 non_essentials                     : 1
 non_invasive                       : 1
 non_linear                         : 6
@@ -407,6 +419,7 @@ nonlinearity                       : 1
 nonmonotonic_reasoning             : 1
 nonsense                           : 1
 noob_tuts                          : 1
+noodle                             : 1
 noodling                           : 1
 nook                               : 1
 nools                              : 1
@@ -433,13 +446,15 @@ normalisation                      : 1
 normalization_of_deviance          : 1
 norman_conquest                    : 1
 NorMAS                             : 1
-norMAS                             : 7
 normas                             : 1   : norMAS
+norMAS                             : 7
 normative                          : 1
 normative_logic                    : 1
-normative_systems                  : 1
+normative_system                   : 1
+normative_systems                  : 1 : normative_system
 normativity                        : 2
 norms                              : 270
+Norms                              : 1 : norms
 north_atlantic                     : 1
 north_bergen_high_school           : 1
 north_carolina                     : 20
@@ -462,7 +477,8 @@ notarizing                         : 1
 notation                           : 10
 notch                              : 2
 note_taking                        : 6
-notebooks                          : 6
+notebook                           : 1
+notebooks                          : 6 : notebook
 NoteCards                          : 1
 notes                              : 7
 notification                       : 1
@@ -481,8 +497,8 @@ np_hard                            : 2
 NPA                                : 1
 npc                                : 10  : NPC
 NPC                                : 7
-npc_design                         : 1   : NPC_design
 NPC_design                         : 1
+npc_design                         : 1   : NPC_design
 NPCs                               : 49  : NPC
 npcs                               : 5   : NPC
 nplusone                           : 1
@@ -494,8 +510,8 @@ NRM                                : 1
 NROL_39                            : 2
 NSA                                : 6
 NSC                                : 1
-nsf                                : 1   : NSF
 NSF                                : 1
+nsf                                : 1   : NSF
 NSM                                : 1
 ntext                              : 1   : context
 ntyimes                            : 1   : new_york_times
@@ -552,22 +568,3 @@ nytime                             : 1   : new_york_times
 nytimes                            : 48  : new_york_times
 NYU                                : 2
 nzherald                           : 1
-
-nanny                           : 1 : %RETURN%
-
-napalm                          : 1 : %RETURN%
-narrowing                       : 1 : %RETURN%
-national_consciousness          : 1 : %RETURN%
-natural_history                 : 1 : %RETURN%
-natural_history_museum          : 1 : %RETURN%
-natural_law                     : 1 : %RETURN%
-necropolitics                   : 1 : %RETURN%
-
-NetLogo                         : 1 : %RETURN%
-new_mythology                   : 1 : %RETURN%
-noema                           : 1 : %RETURN%
-non_discrimination_law          : 1 : %RETURN%
-noodle                          : 1 : %RETURN%
-normative_system                : 1 : %RETURN%
-Norms                           : 1 : %RETURN%
-notebook                        : 1 : %RETURN%

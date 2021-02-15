@@ -1,4 +1,4 @@
-** s                                           :cleaned :
+** s                                        :cleaned :
 s ai                                        : 1      : ai
 SAAS                                        : 1      : SaaS
 SaaS                                        : 2
@@ -40,6 +40,7 @@ saintliness                                 : 1      : saint_lines
 saints                                      : 4
 saints_row                                  : 1
 saiva                                       : 1
+sakoku                                      : 1
 Saksatoon                                   : 1
 salamanca                                   : 1
 salary                                      : 2
@@ -50,8 +51,8 @@ sales_tax                                   : 1
 salience                                    : 1
 saliency                                    : 1      : salience
 salon                                       : 13
-salt                                        : 2
 SALT                                        : 1
+salt                                        : 2
 salt_lake_city                              : 1
 salute                                      : 1
 salvage                                     : 1
@@ -171,6 +172,7 @@ school_choice                               : 2
 school_debt                                 : 1
 school_funding                              : 1
 school_lunch                                : 1
+school_of_life                              : 1
 school_play                                 : 1
 school_police                               : 1      : school_resource_officers
 school_resource_officers                    : 1
@@ -184,6 +186,7 @@ schooling                                   : 7      : education
 schooner_creek_farms                        : 1
 sci_fi                                      : 115
 science                                     : 224
+science_as_process                          : 1
 science_fiction                             : 140
 science_mag                                 : 1
 science_museum                              : 1
@@ -218,8 +221,8 @@ scoring                                     : 2      : score
 scotland                                    : 2
 scotus                                      : 31     : SCOTUS
 SCOTUS                                      : 56
-scpr                                        : 1      : SCPR
 SCPR                                        : 1
+scpr                                        : 1      : SCPR
 scraping                                    : 3
 screen_play                                 : 1
 screen_reader                               : 1
@@ -247,8 +250,8 @@ sculpting                                   : 1
 sculpture                                   : 8      : sculpting
 SCXML                                       : 1
 Scythe                                      : 1
-sdk                                         : 1      : SDK
 SDK                                         : 1
+sdk                                         : 1      : SDK
 SDL                                         : 1
 sdl                                         : 3      : SDL
 SDO                                         : 1
@@ -260,6 +263,7 @@ sea_life                                    : 1
 sea_otter                                   : 1
 sea_otters                                  : 1      : sea_otter
 seaborn                                     : 2
+sealand                                     : 1
 sealife                                     : 3      : sea_life
 seaport                                     : 1
 search                                      : 97
@@ -301,8 +305,8 @@ security_vulnerability                      : 1
 sed                                         : 2
 seduction                                   : 2
 see_to_it_that                              : 2
-seeds                                       : 4
 SEEDS                                       : 1
+seeds                                       : 4
 seedship                                    : 2
 seeing_like_a_state                         : 1
 sega                                        : 1
@@ -317,6 +321,7 @@ selection_pressure                          : 1
 selenium                                    : 1
 self                                        : 2
 Self-confidence                             : 1      : self_confidence
+self_adaptive_systems                       : 1
 self_care                                   : 2
 self_care_app                               : 1
 self_censorship                             : 2
@@ -382,6 +387,7 @@ sense                                       : 1
 sense_making                                : 3
 senses                                      : 1      : sense
 sensitivity                                 : 1
+Sensitivity Analysis                        : 2 : sensitivity_analysis
 sensitivity_analysis                        : 3
 sensors                                     : 1
 sensory                                     : 1
@@ -415,6 +421,7 @@ sequent_calculus                            : 2
 sequential_social_dilemmas                  : 1
 serbia                                      : 1
 serbs                                       : 1
+serendipitous_encounters                    : 1 : serendipity
 serendipity                                 : 2
 serenity_house                              : 1
 serfdom                                     : 1
@@ -489,6 +496,8 @@ sexual_fantasies                            : 1
 sexual_harassment                           : 4
 sexual_health                               : 2
 sexual_play                                 : 1
+sexual_preference                           : 1
+sexual_victimisation                        : 2
 sexual_violence                             : 10
 sexualisation                               : 3
 sexuality                                   : 24
@@ -509,6 +518,8 @@ shadow_art                                  : 1
 shadow_banks                                : 1
 shadow_banning                              : 1
 shadow_of_mordor                            : 8
+shafts                                      : 1
+shah_dynasty                                : 1
 shamanism                                   : 1
 shamans                                     : 1      : shamanism
 shame                                       : 3
@@ -549,6 +560,7 @@ shift                                       : 1
 Shilluk                                     : 1
 shincheonji                                 : 1
 SHINE                                       : 1
+ship_of_theseus                             : 1
 shipbreaking                                : 2
 shizuoka                                    : 1
 shoe_throwing                               : 1
@@ -578,6 +590,7 @@ shutdown                                    : 1
 shutoff                                     : 1
 siberia                                     : 1
 siblings                                    : 1
+sichuan                                     : 1
 sick_leave                                  : 1
 sickchirpse                                 : 1
 sickle_cell                                 : 1
@@ -647,6 +660,7 @@ simulacra                                   : 1
 simulated_annealing                         : 5
 simulated_degradation                       : 1
 simulation                                  : 159
+Simulation Model                            : 1 : simulation
 simulations                                 : 2      : simulation
 simulator                                   : 2      : simulation
 sin                                         : 6
@@ -677,6 +691,7 @@ sitcom                                      : 1
 site_reliability_engineering                : 2
 sitting                                     : 1
 situated_action                             : 3
+situated_cognition                          : 1
 situated_comparison                         : 1
 situated_intelligence                       : 1
 situated_knowledge                          : 1
@@ -705,6 +720,7 @@ skeletorus                                  : 1
 skepticism                                  : 6
 Sketch                                      : 1      : sketch
 sketch                                      : 7
+sketch_n_sketch                             : 1
 sketchaworld                                : 1
 sketches                                    : 2      : sketch
 sketchfab                                   : 1
@@ -730,6 +746,7 @@ slave_museum                                : 1
 slave_states                                : 1
 slave_trade                                 : 1
 slavery                                     : 65
+slaves                                      : 1
 sleep                                       : 12
 sleep_patterns                              : 2
 sleep_sociology                             : 1
@@ -738,8 +755,8 @@ slicing                                     : 1
 slides                                      : 9
 slip_box_method                             : 1
 slip_slop_slap                              : 1
-slo_county                                  : 1 : SLO_county
 SLO_county                                  : 1
+slo_county                                  : 1 : SLO_county
 sloan                                       : 1
 slovakia                                    : 1
 slovenia                                    : 1
@@ -814,10 +831,16 @@ soaps                                       : 1      : soap
 SOAR                                        : 10
 soar                                        : 7      : SOAR
 SOARS                                       : 1      : SOAR
+socal_science                               : 1
 soccer                                      : 1
 social                                      : 145
 social agent                                : 1      : social_agent
 Social Exchange Theory                      : 1      : social_exchange_theory
+Social Network                              : 1 : social_network
+Social Network Dynamics                     : 1 : social_network_dynamics
+Social Network Structure                    : 1 : social_network_structure
+Social Norms                                : 1 : social_norms
+Social Simulation                           : 1 : social_simulation
 social_action                               : 9
 social_agent                                : 4
 social_agents                               : 3      : social_agent
@@ -857,6 +880,7 @@ social_credit                               : 3
 social_criticism                            : 1
 social_cues                                 : 1
 social_death                                : 1
+social_determinism                          : 1
 social_dilemmas                             : 3
 social_distancing                           : 62
 social_dominance_orientation                : 1
@@ -868,10 +892,12 @@ social_emergence                            : 1
 social_engineering                          : 1
 social_enterprise                           : 1
 social_entrepreneurs                        : 1
+social_entrepreneurship                     : 1
 social_environments                         : 1
 social_epidemic                             : 1
 social_epistemology                         : 1
 social_error_recovery                       : 1
+social_ethics                               : 1
 social_expectation                          : 1
 social_experiments                          : 1
 social_factors                              : 2
@@ -881,13 +907,16 @@ social_fictions                             : 1      : social_fiction
 social_game                                 : 14
 social_game_design                          : 1
 social_games                                : 6      : social_game
+social_geography                            : 1
 social_heroes                               : 1
 social_hierarchy                            : 1
+social_history                              : 1
 social_holic_network                        : 1
 social_hope                                 : 1
 social_housing                              : 1
 social_identity                             : 4
 social_identity_theory                      : 2
+social_imagination                          : 1
 social_impact                               : 1
 social_importance                           : 1
 social_inequality                           : 1
@@ -905,6 +934,7 @@ social_judgement                            : 1
 social_justice                              : 7
 social_laws                                 : 1
 social_learning                             : 1
+social_life                                 : 1
 social_logic                                : 1
 social_machines                             : 1
 social_mapping                              : 1
@@ -915,6 +945,7 @@ social_media                                : 78
 social_middleware                           : 1
 social_modeling                             : 1
 social_movement                             : 1
+social_movement_theory                      : 1 : social_movement
 social_movements                            : 7      : social_movement
 social_narrative                            : 1
 social_network                              : 2
@@ -1021,6 +1052,7 @@ socio_technical_systems                     : 2
 sociobiology                                : 1      : socio_biology
 sociocognitive                              : 1      : socio_cognitive
 sociocultural                               : 1      : socio_cultural
+sociocultural_theory                        : 1 : socio_cultural
 socioeconomic_status                        : 1      : socio_economic_status
 socioeconomics                              : 1      : socio_economic
 sociolinguistics                            : 3      : socio_linguistics
@@ -1028,6 +1060,7 @@ sociologica                                 : 1
 sociology                                   : 161
 sociology_of_culture                        : 1
 sociomaterial_agency                        : 1      : socio_material_agency
+sociomateriality                            : 1 : socio_material
 SOCIONICAL                                  : 1
 socionics                                   : 1
 sociopoiesis                                : 1
@@ -1049,6 +1082,7 @@ sofa                                        : 1
 soft_body                                   : 1
 soft_city                                   : 1
 soft_drink                                  : 1
+soft_power                                  : 1
 soft_systems                                : 1
 softbody                                    : 1      : soft_body
 software                                    : 51
@@ -1065,6 +1099,7 @@ software_ethics                             : 1
 software_foundations                        : 1
 software_library                            : 1
 software_patent                             : 1
+software_platforms                          : 1
 software_rendering                          : 8
 software_selection                          : 2
 software_smells                             : 1
@@ -1082,6 +1117,7 @@ solar_system                                : 1
 solarpunk                                   : 1      : solar_punk
 soldier_of_fortune                          : 1
 soldiers                                    : 1
+SOLID                                       : 1
 solid_waste                                 : 1
 solidarity                                  : 3
 solitare                                    : 1
@@ -1100,9 +1136,12 @@ sonic_weapons                               : 1
 sonification                                : 2
 Sonja                                       : 1
 sonoma_county                               : 1
+sons_of_liberty                             : 1
 sony                                        : 4
 SOPA                                        : 1
 sophism                                     : 1
+sophists                                    : 1
+sophocles                                   : 1
 sopranos                                    : 1
 sorrell_v_IMS                               : 1
 sorry                                       : 1
@@ -1140,6 +1179,7 @@ sources                                     : 6      : source
 sourdough                                   : 1
 sourthern_strategy                          : 1      : southern_strategy
 sous_vide                                   : 1
+sousseau                                    : 1
 south_africa                                : 4
 south_america                               : 5
 south_asia                                  : 2
@@ -1154,6 +1194,7 @@ souther_strategy                            : 1      : southern_strategy
 southern_baptist                            : 2
 southern_baptist_church                     : 2
 southern_border                             : 10
+southern_comfort                            : 1
 southern_conservatives                      : 1
 southern_democrats                          : 2
 southern_states                             : 2
@@ -1257,6 +1298,7 @@ speech                                      : 18
 speech_act                                  : 27
 speech_acts                                 : 33
 speech_synthesis                            : 1
+speeches                                    : 1
 speed                                       : 3
 speed_cameras                               : 1
 speed_of_life                               : 1
@@ -1280,10 +1322,11 @@ spinner                                     : 1
 spinnortality                               : 1
 spiritualism                                : 1      : spirituality
 spirituality                                : 2
+spitfires                                   : 1
 spl                                         : 1
 splattercat                                 : 1
-splc                                        : 2      : SPLC
 SPLC                                        : 2
+splc                                        : 2      : SPLC
 spline                                      : 2
 splines                                     : 1      : spline
 splinter                                    : 2
@@ -1312,8 +1355,8 @@ springer                                    : 4
 sprite_stack                                : 1
 sprites                                     : 4
 sprytile                                    : 1
-spss                                        : 1      : SPSS
 SPSS                                        : 1
+spss                                        : 1      : SPSS
 spy                                         : 1
 spy_party                                   : 1
 spying                                      : 2
@@ -1341,8 +1384,8 @@ SRO                                         : 1
 sroop_sunar                                 : 1
 ssh                                         : 6
 SSI                                         : 2
-ssl                                         : 1      : SSL
 SSL                                         : 1
+ssl                                         : 1      : SSL
 SSRI                                        : 1
 ssri                                        : 1      : SSRI
 ssrn                                        : 1
@@ -1358,6 +1401,7 @@ stained_glass                               : 1
 staircase_model                             : 2
 stakeholders                                : 2
 stalactites                                 : 1
+stalin                                      : 2
 stalker                                     : 1
 STALKER                                     : 1
 stalking                                    : 1
@@ -1371,6 +1415,7 @@ standard_errors                             : 1
 standard_library                            : 1
 standard_ML                                 : 1
 standardization                             : 1
+Standardization                             : 1 : standardization
 standardized_testing                        : 1
 standards                                   : 6
 standarization                              : 1      : standardization
@@ -1426,6 +1471,7 @@ state_machines                              : 3      : FSMs
 state_norms                                 : 1
 state_of_the_art                            : 1
 state_oig                                   : 1
+state_prison                                : 1
 state_projection                            : 1
 state_space                                 : 1
 state_sponsored_trafficking                 : 1
@@ -1434,10 +1480,12 @@ state_tracking                              : 1
 statechart                                  : 2      : state_chart
 statecharts                                 : 1      : state_chart
 statecraft                                  : 1      : state_craft
+statelessness                               : 1
 statement                                   : 1
 statement_generator                         : 2
 states                                      : 9
 statesman                                   : 1
+statesmanship                               : 1
 static                                      : 4
 static_analysis                             : 1
 static_checking                             : 1
@@ -1460,6 +1508,7 @@ status                                      : 5
 status_function                             : 1
 status_maintenance                          : 1
 status_marking                              : 1
+status_quo                                  : 1
 status_signals                              : 1
 status_symbols                              : 1
 status_threat                               : 1
@@ -1469,6 +1518,7 @@ stealth                                     : 8
 stealthing                                  : 1
 steam                                       : 25
 steampunk                                   : 13
+Steampunk                                   : 1 : steampunk
 stebbins                                    : 1
 steel                                       : 3
 steel_foundry                               : 1
@@ -1482,6 +1532,7 @@ stereotypes                                 : 2      : stereotype
 sterilisation                               : 4
 sterilization                               : 4      : sterilisation
 stigma                                      : 6
+Stigma                                      : 1 : stigma
 stigmergy                                   : 4
 still_birth                                 : 2
 still_life                                  : 1
@@ -1492,10 +1543,10 @@ stink                                       : 1
 stipends                                    : 1
 stit                                        : 2      : STIT
 STIT                                        : 6
-stit_logic                                  : 5      : STIT_logic
 STIT_logic                                  : 5
-stl                                         : 1      : STL
+stit_logic                                  : 5      : STIT_logic
 STL                                         : 1
+stl                                         : 1      : STL
 stochastic                                  : 8
 stochastic_processes                        : 1
 stochastic_retweets                         : 1
@@ -1563,6 +1614,7 @@ strategic_logic                             : 1
 strategies                                  : 3
 Stratego                                    : 1
 strategy                                    : 40
+strategy_implementation                     : 1
 strathclyde                                 : 1
 streamer                                    : 1
 streaming                                   : 8
@@ -1578,6 +1630,7 @@ street_food                                 : 2
 street_level                                : 2
 street_level_algorithms                     : 2
 street_level_bureaucracy                    : 1
+street_level_bureaucrat                     : 1 : street_level_bureaucracy
 street_life                                 : 1
 street_lights                               : 1
 street_performance                          : 1
@@ -1652,6 +1705,7 @@ stuxnet                                     : 1
 style                                       : 9
 style_conventions                           : 1
 style_sheet                                 : 1
+stylists                                    : 1
 stylized_facts                              : 1
 sub_sahara                                  : 1
 subculture                                  : 1
@@ -1674,6 +1728,7 @@ subsets                                     : 1
 subsidies                                   : 1
 subsidization                               : 1
 subsistence                                 : 1
+substack                                    : 1
 substance_designer                          : 1
 substancepainter                            : 1
 subsumption                                 : 9
@@ -1730,6 +1785,7 @@ super_threats                               : 1
 super_turing_machines                       : 1
 supercollider                               : 24
 superheroes                                 : 2
+superheros                                  : 1 : superheroes
 superintelligence                           : 2
 supermarket                                 : 1
 supermarket_rpg                             : 1
@@ -1756,6 +1812,7 @@ support_effect                              : 1
 support_networks                            : 1
 support_vector_machine                      : 2
 suppression                                 : 1
+suprematist_art                             : 1
 supreme_court                               : 1      : SCOTUS
 supsensorium                                : 1      : supersensorium
 surface_normal                              : 2
@@ -1769,6 +1826,7 @@ surprise                                    : 1
 surreal                                     : 3
 surreal_software                            : 1
 surrealism                                  : 5
+Surrogate Model                             : 1 : surrogate_model
 surveilance                                 : 2      : surveillance
 surveillance                                : 214
 surveillance_as_a_service                   : 1
@@ -1790,6 +1848,7 @@ sustainability                              : 8
 sustainable                                 : 1
 SVD                                         : 1
 svd                                         : 1      : SVD
+SVG                                         : 1
 SVM                                         : 8
 SVR                                         : 1
 swahili                                     : 1
@@ -1835,6 +1894,7 @@ symbolic_exchange                           : 1
 symbolic_goods                              : 1
 symbolic_interaction                        : 1
 symbolic_interactionist                     : 1      : symbolic_interaction
+symbolic_management                         : 1
 symbolic_mathematics                        : 1
 symbolic_modeling                           : 1
 symbolic_power                              : 2
@@ -1866,6 +1926,7 @@ synthesizers                                : 1      : synthesiser
 synthetic_characters                        : 1
 synthetic_culture                           : 4
 synthetic_cultures                          : 6
+synthetic_experience                        : 1
 synthetic_method                            : 1
 synthetic_populations                       : 1
 SYNVIEW                                     : 1
@@ -1901,68 +1962,3 @@ systems_philosophy                          : 1
 systems_science                             : 1
 systems_theory                              : 7
 systems_thinking                            : 16
-sakoku                          : 1 : %RETURN%
-
-school_of_life                  : 1 : %RETURN%
-science_as_process              : 1 : %RETURN%
-
-sealand                         : 1 : %RETURN%
-self_adaptive_systems           : 1 : %RETURN%
-Sensitivity Analysis            : 2 : %RETURN%
-serendipitous_encounters        : 1 : %RETURN%
-sexual_preference               : 1 : %RETURN%
-sexual_victimisation            : 2 : %RETURN%
-shafts                          : 1 : %RETURN%
-shah_dynasty                    : 1 : %RETURN%
-ship_of_theseus                 : 1 : %RETURN%
-sichuan                         : 1 : %RETURN%
-Simulation Model                : 1 : %RETURN%
-situated_cognition              : 1 : %RETURN%
-sketch_n_sketch                 : 1 : %RETURN%
-slaves                          : 1 : %RETURN%
-
-socal_science                   : 1 : %RETURN%
-Social Network                  : 1 : %RETURN%
-Social Network Dynamics         : 1 : %RETURN%
-Social Network Structure        : 1 : %RETURN%
-Social Norms                    : 1 : %RETURN%
-Social Simulation               : 1 : %RETURN%
-social_determinism              : 1 : %RETURN%
-social_entrepreneurship         : 1 : %RETURN%
-social_ethics                   : 1 : %RETURN%
-social_geography                : 1 : %RETURN%
-social_history                  : 1 : %RETURN%
-social_imagination              : 1 : %RETURN%
-social_life                     : 1 : %RETURN%
-social_movement_theory          : 1 : %RETURN%
-sociocultural_theory            : 1 : %RETURN%
-sociomateriality                : 1 : %RETURN%
-soft_power                      : 1 : %RETURN%
-software_platforms              : 1 : %RETURN%
-SOLID                           : 1 : %RETURN%
-sons_of_liberty                 : 1 : %RETURN%
-sophists                        : 1 : %RETURN%
-sophocles                       : 1 : %RETURN%
-sousseau                        : 1 : %RETURN%
-southern_comfort                : 1 : %RETURN%
-speeches                        : 1 : %RETURN%
-spitfires                       : 1 : %RETURN%
-
-stalin                          : 2 : %RETURN%
-Standardization                 : 1 : %RETURN%
-state_prison                    : 1 : %RETURN%
-statelessness                   : 1 : %RETURN%
-statesmanship                   : 1 : %RETURN%
-status_quo                      : 1 : %RETURN%
-Steampunk                       : 1 : %RETURN%
-Stigma                          : 1 : %RETURN%
-strategy_implementation         : 1 : %RETURN%
-street_level_bureaucrat         : 1 : %RETURN%
-stylists                        : 1 : %RETURN%
-substack                        : 1 : %RETURN%
-superheros                      : 1 : %RETURN%
-suprematist_art                 : 1 : %RETURN%
-Surrogate Model                 : 1 : %RETURN%
-SVG                             : 1 : %RETURN%
-symbolic_management             : 1 : %RETURN%
-synthetic_experience            : 1 : %RETURN%

@@ -1,4 +1,4 @@
-** g                                                                            :cleaned:
+** g                          :cleaned:
 G3PARM                        : 1
 g7                            : 2
 GaaS                          : 1
@@ -33,6 +33,7 @@ GAMBIT                        : 1
 gamblers_fallacy              : 1
 gambling                      : 3
 game                          : 674
+Game Theory                   : 1 : game_theory
 game_adaptation               : 1
 game_ai                       : 51
 game_analysis                 : 13
@@ -52,8 +53,8 @@ game_engine                   : 14
 game_ensembles                : 1
 game_environments             : 1
 game_feel                     : 1
-Game_forge                    : 1   : game_forge
 game_forge                    : 1
+Game_forge                    : 1   : game_forge
 game_history                  : 7
 game_industry                 : 2
 game_informer                 : 1
@@ -83,6 +84,7 @@ game_themed_instruction       : 1
 Game_theory                   : 1   : game_theory
 game_theory                   : 50
 game_tourism                  : 1
+game_ui                       : 1
 game_writing                  : 2
 gameboy                       : 6
 gamecube                      : 1
@@ -149,6 +151,7 @@ gatekeeping                   : 6   : gate_keeping
 gates                         : 1
 gateway                       : 1
 gateway_drug                  : 2
+gathering                     : 1
 gaudi                         : 1
 gaunts_ghosts                 : 3
 gauss                         : 3
@@ -202,8 +205,8 @@ general_game_playing          : 1
 general_motors                : 1
 general_purpose_computing     : 1
 general_social_survey         : 1
-General_Systems_Theory        : 1   : general_systems_theory
 general_systems_theory        : 1
+General_Systems_Theory        : 1   : general_systems_theory
 generalisation                : 2
 generalists                   : 1
 generalization                : 1   : generalisation
@@ -268,6 +271,7 @@ geothermal                    : 1
 geoworlds                     : 1
 german                        : 1
 german_bosque                 : 2
+german_idealism               : 1
 germanic                      : 1
 germany                       : 40
 gerrymandering                : 30
@@ -310,8 +314,8 @@ gitmo                         : 1
 give_well                     : 1
 gizmodo                       : 8
 gjson                         : 1
-glaad                         : 1   : GLAAD
 GLAAD                         : 1
+glaad                         : 1   : GLAAD
 glasgow                       : 1
 glasgow_university            : 2
 glass                         : 1
@@ -346,8 +350,8 @@ glossary                      : 4
 glove                         : 2
 gloves                        : 1
 GLR                           : 1
-glsl                          : 2   : GLSL
 GLSL                          : 2
+glsl                          : 2   : GLSL
 GLTF                          : 1
 glut                          : 2
 gluten                        : 1
@@ -385,6 +389,7 @@ god_games                     : 1   : god_game
 god_of_war                    : 2
 godnet                        : 1
 godot                         : 2
+gods                          : 1
 godus                         : 1
 godwins_law                   : 1
 gofundme                      : 1
@@ -392,6 +397,7 @@ GOGAR                         : 2
 gold                          : 1
 gold_farming                  : 2
 gold_sellers                  : 1
+gold_standard_fiat_currency   : 1
 golden_flute                  : 1
 golden_gate_bridge            : 1
 goldfish                      : 1
@@ -492,6 +498,7 @@ gradients                     : 1   : gradient
 grading                       : 1
 gradual_typing                : 3
 graduate_school               : 1
+graduates                     : 1
 graduation                    : 1
 graduation_rates              : 1
 graffiti                      : 4
@@ -505,11 +512,13 @@ grammar_ware                  : 1
 grammar_zoo                   : 2
 grammars                      : 24  : grammar
 grammarware                   : 1   : grammar_ware
+grammatology                  : 1
 grammys                       : 1
 grand_canyon                  : 2
 grand_dark                    : 1
 grand_lisboa_tower            : 1
 grand_poo_bear                : 1
+grand_rapids                  : 1
 grand_strategy                : 1
 grand_theft_auto              : 1
 grandma                       : 1
@@ -517,6 +526,7 @@ grandmother                   : 1
 grant_proposal                : 8
 grants                        : 1
 granular                      : 3
+granular_synthesis            : 1
 granville_county              : 1
 grapevine                     : 1
 graph                         : 29
@@ -706,15 +716,5 @@ gym                           : 1
 gym_culture                   : 1
 gymnastics                    : 1
 gynecology                    : 1
+gypsum                        : 1
 gypsum_mine                   : 1
-Game Theory                     : 1 : %RETURN%
-game_ui                         : 1 : %RETURN%
-gathering                       : 1 : %RETURN%
-german_idealism                 : 1 : %RETURN%
-gods                            : 1 : %RETURN%
-gold_standard_fiat_currency     : 1 : %RETURN%
-graduates                       : 1 : %RETURN%
-grammatology                    : 1 : %RETURN%
-grand_rapids                    : 1 : %RETURN%
-granular_synthesis              : 1 : %RETURN%
-gypsum                          : 1 : %RETURN%

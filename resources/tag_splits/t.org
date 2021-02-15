@@ -1,4 +1,4 @@
-** t                                                                            :cleaned:
+** t                             :cleaned:
 t_shirt                          : 2
 t_test                           : 1
 t_tests                          : 1   : t_test
@@ -21,6 +21,7 @@ tacit_communication              : 1
 taco_bell                        : 1
 tacoma                           : 1
 TACT                             : 1
+tactical_institutions            : 1
 tactical_path_finding            : 1
 tactical_pathfinding             : 1   : tactical_path_finding
 tactical_tech                    : 1
@@ -35,6 +36,7 @@ TAGinator                        : 1
 taglines                         : 1
 TAGs                             : 1
 tags                             : 9   : tag
+Tags                             : 1 : tag
 tahrir_square                    : 1
 taiwan                           : 3
 tajikstan                        : 1
@@ -178,10 +180,12 @@ techno_polis                     : 1
 techno_social                    : 1
 techno_spiritual                 : 1
 techno_thriller                  : 1
+technocracy                      : 1
 technoculture                    : 1   : techno_culture
 technofeminism                   : 1   : techno_feminism
-Technological_Change             : 1   : technological_change
 technological_change             : 1
+Technological_Change             : 1   : technological_change
+technological_determinism        : 1
 technological_dystopias          : 1
 technologies                     : 1   : technology
 technology                       : 362
@@ -215,8 +219,8 @@ telephone                        : 2
 telephone_box                    : 1
 telephones                       : 1   : telephone
 telepresence                     : 1
-Telescript                       : 1   : telescript
 telescript                       : 1
+Telescript                       : 1   : telescript
 televiion                        : 1   : television
 television                       : 1
 television_narrative             : 1
@@ -331,6 +335,7 @@ texture_synthesis                : 2
 textures                         : 3   : texture
 tf2                              : 6
 tf_idf                           : 1
+TFL                              : 1
 TGGs                             : 1
 thai                             : 1
 thailand                         : 3
@@ -348,6 +353,7 @@ the_bicker                       : 2
 the_body_keeps_score             : 1
 the_bulwark                      : 1
 the_canary                       : 2
+the_cave                         : 1
 the_center                       : 1
 the_color_of_wealth              : 1
 the_conversation                 : 9
@@ -355,6 +361,7 @@ the_correspondent                : 2
 the_crime_report                 : 1
 the_cross_tab                    : 1
 the_cruelty_is_the_point         : 1
+the_culture                      : 1
 the_cut                          : 4
 the_dark_is_rising               : 1
 the_depression                   : 1
@@ -362,17 +369,21 @@ the_dispossessed                 : 1
 the_division                     : 3
 the_economist                    : 1
 the_end_of_ice                   : 1
+the_enlightenment                : 1
 the_escapist                     : 11
 the_establishment                : 5
+the_expanse                      : 2
 the_exploding_metropolis         : 1
 the_false_cause                  : 1
 the_fed                          : 1
 the_federalist                   : 4
+the_gamer                        : 1
 the_good_place                   : 2
 the_hill                         : 13
 the_intercept                    : 19
 the_interept                     : 1   : the_intercept
 the_invisible_technician         : 1
+the_irish_times                  : 1
 the_kitchn                       : 28
 the_know_it_alls                 : 1
 the_last_of_us                   : 1
@@ -380,6 +391,7 @@ the_little_mermaid               : 1
 the_machinist                    : 1
 the_mechanic                     : 1
 the_mind_circle                  : 3
+the_mint                         : 1
 the_morning_paper                : 2
 the_nation                       : 8
 the_netherlands                  : 1
@@ -401,6 +413,7 @@ the_root                         : 3
 the_sims                         : 11
 the_slot                         : 1
 the_south                        : 1
+the_spectator                    : 1
 the_squad                        : 2
 the_standard                     : 1
 the_star                         : 1
@@ -411,7 +424,10 @@ the_tea                          : 1
 the_tiffany_problem              : 1
 the_times                        : 5
 the_trace                        : 1
+the_trove                        : 1
+the_two_cosmic_eras              : 1
 the_verge                        : 3
+the_watch                        : 4
 the_week                         : 1
 the_whole_story                  : 1
 the_wire                         : 2
@@ -489,6 +505,7 @@ thought_experiments              : 1   : thought_experiment
 thread                           : 6
 thread_compilers                 : 1
 threadapalooza                   : 2
+threads                          : 1
 threat_assessment                : 1
 threat_model                     : 1
 threats                          : 2
@@ -499,8 +516,8 @@ three_js                         : 1
 three_mile_island                : 1
 three_strikes                    : 6
 threejs                          : 1   : three_js
-Threnoscope                      : 1   : threnoscope
 threnoscope                      : 1
+Threnoscope                      : 1   : threnoscope
 thresholds                       : 1
 thrift                           : 3
 throne_room                      : 1
@@ -559,6 +576,7 @@ timescale                        : 1   : time_scale
 timescale_of_emotions            : 1   : time_scale_of_emotions
 timestream                       : 1   : time_stream
 timing                           : 6   : time
+tin                              : 1
 tinkering                        : 1
 tinkerpop                        : 1
 tiny_bird_games                  : 1
@@ -671,13 +689,14 @@ toxins                           : 1
 toy                              : 2
 toy_worlds                       : 1
 toys                             : 7
-tpm                              : 3   : TPM
 TPM                              : 3
+tpm                              : 3   : TPM
 TPP                              : 5
 TPS                              : 1
 tpy_checking                     : 1   : type_checking
 TRAC                             : 2
 trace_analysis                   : 1
+trace_divergence                 : 1
 tracery                          : 3
 tracing                          : 1
 tracker                          : 2
@@ -765,6 +784,7 @@ transition_graph                 : 1
 transition_system                : 2
 transition_systems               : 4   : transition_system
 transitions                      : 5   : transition
+Transitions                      : 1 : transition
 transjordan                      : 1   : trans_jordan
 translation                      : 6
 translit                         : 1   : trans_literature
@@ -774,6 +794,7 @@ transmisogyny                    : 1   : trans_misogyny
 transmission                     : 3
 transnational                    : 1   : trans_national
 transparency                     : 20
+transphobi                       : 1 : trans_phobia
 transphobia                      : 43  : trans_phobia
 transpiler                       : 2
 transport                        : 3   : transportation
@@ -794,8 +815,10 @@ travel                           : 10
 traveller                        : 2
 Traveller                        : 2   : traveller
 travellers                       : 1   : traveller
+travelogue                       : 1
 treason_act                      : 1
 TREAT                            : 1
+treatment                        : 1
 treatment_effects                : 1
 treaty                           : 9
 tree                             : 22
@@ -804,6 +827,7 @@ tree_adjoining_grammars          : 1   : tree_adjoining_grammar
 tree_alphabet                    : 1
 tree_of_life                     : 1
 tree_rewriting                   : 1
+tree_search                      : 1
 tree_transducers                 : 1
 treemap                          : 2
 treemaps                         : 1   : treemap
@@ -842,6 +866,7 @@ trip_advisor                     : 1
 tripadvisor                      : 1   : trip_advisor
 TRIPS                            : 1
 trivial_dialogue_phrases         : 1
+trojan_war                       : 1
 troll                            : 19  : trolling
 trolling                         : 2
 trolls                           : 1   : trolling
@@ -870,7 +895,9 @@ trumpcare                        : 2   : trump_care
 TrumpConcentrationCamps          : 1   : trump : concentration_camps
 TrumpIsAMoron                    : 1
 TrumpIsATraitor                  : 1
+TRURL                            : 1
 trust                            : 30
+Trust                            : 1 : trust
 trust_spectrum                   : 1
 truth                            : 3
 truth_maintenance                : 2   : truth_maintenance_system
@@ -927,14 +954,15 @@ tusayan                          : 2
 tuskegee                         : 2
 tutorial                         : 402
 tutoring                         : 1
-tv                               : 24
 TV                               : 1   : tv
+tv                               : 24
 tv_episode                       : 4
 tv_guide                         : 1
 tv_news                          : 1
 tv_show                          : 35
 tv_shows                         : 1   : tv_show
 tv_tropes                        : 3
+TVA                              : 2
 tvguide                          : 1   : tv_guide
 twee                             : 1
 tweening                         : 1
@@ -976,6 +1004,7 @@ type_systems                     : 1
 type_theory                      : 9
 types                            : 62
 typewriter                       : 2
+typification                     : 1
 typing                           : 2
 typography                       : 13
 typology                         : 27
@@ -984,32 +1013,3 @@ tyranny_of_structurelessness     : 1
 tyson_foods                      : 2
 tyt                              : 2
 tyt_network                      : 1
-tactical_institutions           : 1 : %RETURN%
-Tags                            : 1 : %RETURN%
-technocracy                     : 1 : %RETURN%
-technological_determinism       : 1 : %RETURN%
-TFL                             : 1 : %RETURN%
-the_cave                        : 1 : %RETURN%
-the_culture                     : 1 : %RETURN%
-the_enlightenment               : 1 : %RETURN%
-the_expanse                     : 2 : %RETURN%
-the_gamer                       : 1 : %RETURN%
-the_irish_times                 : 1 : %RETURN%
-the_mint                        : 1 : %RETURN%
-the_spectator                   : 1 : %RETURN%
-the_trove                       : 1 : %RETURN%
-the_two_cosmic_eras             : 1 : %RETURN%
-the_watch                       : 4 : %RETURN%
-threads                         : 1 : %RETURN%
-tin                             : 1 : %RETURN%
-trace_divergence                : 1 : %RETURN%
-Transitions                     : 1 : %RETURN%
-transphobi                      : 1 : %RETURN%
-travelogue                      : 1 : %RETURN%
-treatment                       : 1 : %RETURN%
-tree_search                     : 1 : %RETURN%
-trojan_war                      : 1 : %RETURN%
-TRURL                           : 1 : %RETURN%
-Trust                           : 1 : %RETURN%
-TVA                             : 2 : %RETURN%
-typification                    : 1 : %RETURN%

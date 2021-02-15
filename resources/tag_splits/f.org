@@ -1,13 +1,14 @@
-** f                                                                            :cleaned:
+** f                                     :cleaned:
 f#                                       : 1  : f_sharp
 f_sharp                                  : 9
 FAA                                      : 1
 fable                                    : 4
+fable_3                                  : 1
 fabled_lands                             : 1
 fabric                                   : 1
 fabric_swatch                            : 1
-Fabulist                                 : 1  : fabulist
 fabulist                                 : 1
+Fabulist                                 : 1  : fabulist
 facade                                   : 10
 face                                     : 1
 face_blind                               : 1
@@ -44,8 +45,10 @@ fair_housing_act                         : 1
 fair_use                                 : 15
 fairground                               : 1
 fairness                                 : 6
+fairy_lore                               : 1
 fairy_rings                              : 1
 fairy_tale                               : 2
+fairy_tales                              : 1 : fairy_tle
 fairy_wren                               : 1
 fairytales                               : 2  : fairy_tale
 faith                                    : 6
@@ -82,6 +85,7 @@ familism                                 : 1
 family                                   : 10
 family_crests                            : 1
 family_farms                             : 2
+family_guy                               : 1
 family_planning                          : 1
 family_separation                        : 8
 family_sparation                         : 1  : family_separation
@@ -152,8 +156,8 @@ FCM                                      : 1
 FCP                                      : 1
 FDA                                      : 1
 fda                                      : 1  : FDA
-fdg                                      : 6  : FDG
 FDG                                      : 6
+fdg                                      : 6  : FDG
 fear                                     : 9
 fear_mongering                           : 1
 FearNot                                  : 3
@@ -189,6 +193,7 @@ feel_good_stories                        : 1
 feelings                                 : 1
 fees                                     : 1
 feet                                     : 1
+felon_disenfranchisement                 : 1
 felon_voting                             : 2
 felonies                                 : 1  : felony
 felons                                   : 3
@@ -229,8 +234,8 @@ FF                                       : 1
 FFI                                      : 1
 FFIPS                                    : 1
 FFREADA                                  : 1
-fft                                      : 3
 FFT                                      : 1
+fft                                      : 3
 FGM                                      : 1
 fiat                                     : 1
 fibre                                    : 1
@@ -239,6 +244,7 @@ fiction                                  : 137
 fiduciary                                : 1
 field                                    : 6
 field_experiments                        : 1
+field_positions                          : 1
 field_recording                          : 1
 field_study                              : 1
 fields                                   : 16 : field
@@ -250,6 +256,7 @@ fifty_shades                             : 2
 fighter_jets                             : 1
 fighter_pilots                           : 1
 fighting_words                           : 1
+figures                                  : 1
 figurines                                : 2
 file_format                              : 4
 file_handling                            : 1
@@ -273,6 +280,7 @@ filter                                   : 3
 filters                                  : 1  : filter
 final_fantasy                            : 8
 finance                                  : 52
+finances                                 : 1 : finance
 financial_abuse                          : 1
 financial_crime                          : 1
 financial_crimes                         : 2  : financial_crime
@@ -284,8 +292,10 @@ financial_history                        : 1
 financial_services_committee             : 1
 financial_settlement                     : 1
 financial_terrorism                      : 1
+financialization                         : 1
 financy                                  : 1
 FinCEN                                   : 1
+find                                     : 1
 fine                                     : 1
 fines                                    : 8 : fine
 fingerprint                              : 1
@@ -312,6 +322,7 @@ firms                                    : 11
 firmware                                 : 1
 first_aid_kits                           : 1
 first_amendment                          : 2
+first_black_compsci_phd                  : 1
 first_nations                            : 7
 first_person_shooter                     : 1
 first_principles_thinking                : 2
@@ -324,6 +335,7 @@ fish                                     : 4
 fish_market                              : 1
 fish_monk                                : 1
 fish_tanks                               : 1
+fishery                                  : 1
 fishing                                  : 5
 fit_to_work                              : 1
 fitness                                  : 1
@@ -340,6 +352,7 @@ fizzbuzz                                 : 1
 fjords                                   : 1
 flag                                     : 7
 flake                                    : 1
+flame_gpu                                : 1
 flanders                                 : 1
 flapper                                  : 1
 flash                                    : 1
@@ -385,6 +398,7 @@ floriography                             : 1
 florissant                               : 1
 flour                                    : 1
 flow                                     : 11
+flow_analysis                            : 1
 flow_chart                               : 4
 flow_coloring                            : 1
 flow_control                             : 1
@@ -413,6 +427,7 @@ fMRI                                     : 1
 fmri                                     : 1  : fMRI
 FOAI                                     : 1
 focus                                    : 1
+focus_of_attention                       : 1
 FODMAP                                   : 1
 fog                                      : 1
 FOIA                                     : 13
@@ -446,6 +461,7 @@ food_history                             : 1
 food_insecurity                          : 6
 food_justice                             : 1
 food_port                                : 1
+food_preparation                         : 1
 food_security                            : 1
 food_sharing                             : 1
 food_stamps                              : 9
@@ -455,6 +471,7 @@ food_systems                             : 1
 food_waste                               : 2
 foodbanks                                : 1  : food_banks
 fools                                    : 2
+foone                                    : 1
 football                                 : 2
 footnotes                                : 1
 footnotes_blog                           : 3
@@ -490,6 +507,8 @@ forgiving                                : 1
 forking_paths                            : 1
 form                                     : 2
 formal                                   : 15
+formal_dining                            : 1
+formal_games                             : 1
 formal_langauge_theory                   : 1  : formal_language_theory
 formal_language_theory                   : 1
 formal_logic                             : 1
@@ -503,7 +522,9 @@ Formal_Systems                           : 1  : formal_system
 formal_systems                           : 4  : formal_system
 formal_verification                      : 1
 formalisation                            : 1
-formalisms                               : 1
+formalism                                : 1
+formalisms                               : 1 : formalism
+formalists                               : 1
 formality                                : 1
 formalized_music                         : 1
 format guides                            : 1  : format_guides
@@ -513,6 +534,7 @@ formats                                  : 1
 formatter                                : 1  : formatting
 formatting                               : 4
 formula                                  : 1
+fortification                            : 1
 fortnite                                 : 3
 fortune                                  : 1
 fortunes_algorithm                       : 1
@@ -655,12 +677,14 @@ functionality                            : 1
 functions                                : 2  : function
 functor                                  : 2  : functors
 functors                                 : 2
+funcX                                    : 1
 fund                                     : 1
 fundamental_attribution_error            : 2
 fundamentalism                           : 3
 funding                                  : 14
-Fungi                                    : 1  : fungi
+funeral                                  : 1
 fungi                                    : 1
+Fungi                                    : 1  : fungi
 funginarium                              : 1 : fungi
 fungus                                   : 1  : fungi
 funny                                    : 1
@@ -681,27 +705,3 @@ fuzzy_logic                              : 14
 fuzzy_reasoning                          : 1
 fuzzy_rules                              : 1
 fuzzy_systems                            : 4
-fable_3                         : 1 : %RETURN%
-fairy_lore                      : 1 : %RETURN%
-fairy_tales                     : 1 : %RETURN%
-family_guy                      : 1 : %RETURN%
-felon_disenfranchisement        : 1 : %RETURN%
-field_positions                 : 1 : %RETURN%
-figures                         : 1 : %RETURN%
-finances                        : 1 : %RETURN%
-financialization                : 1 : %RETURN%
-find                            : 1 : %RETURN%
-first_black_compsci_phd         : 1 : %RETURN%
-fishery                         : 1 : %RETURN%
-flame_gpu                       : 1 : %RETURN%
-flow_analysis                   : 1 : %RETURN%
-focus_of_attention              : 1 : %RETURN%
-food_preparation                : 1 : %RETURN%
-foone                           : 1 : %RETURN%
-formal_dining                   : 1 : %RETURN%
-formal_games                    : 1 : %RETURN%
-formalism                       : 1 : %RETURN%
-formalists                      : 1 : %RETURN%
-fortification                   : 1 : %RETURN%
-funcX                           : 1 : %RETURN%
-funeral                         : 1 : %RETURN%

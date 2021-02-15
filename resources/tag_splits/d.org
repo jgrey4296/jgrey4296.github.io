@@ -1,4 +1,4 @@
-** d                                                                            :cleaned:
+** d                           :cleaned:
 d3                             : 28
 d_and_d                        : 11 : dungeons_and_dragons
 d_lang                         : 2
@@ -76,8 +76,10 @@ DARPA                          : 4
 dart                           : 1
 dartmouth                      : 1
 DARVO                          : 2
+dasein                         : 1
 dasharezone                    : 1
 DASSIE                         : 1
+Data                           : 1 : data
 data                           : 82
 data_analysis                  : 158
 data_and_society               : 1
@@ -88,6 +90,7 @@ data_collection                : 1
 data_creators                  : 1
 data_cubes                     : 1
 data_dependence                : 1
+data_description               : 1
 data_down_actions_up           : 1
 data_driven                    : 3
 data_driven_history            : 1
@@ -255,6 +258,7 @@ decorator                      : 1
 decorators                     : 3 : decorator
 decriminalisation              : 7
 deduction                      : 3
+deductive_database             : 1
 deep_dive                      : 1
 deep_fakes                     : 1
 deep_learning                  : 137
@@ -334,10 +338,13 @@ democrat                       : 1
 democratic_establshment        : 1  : democratic_establishment
 democratic_socialism_simulator : 4
 democrats                      : 30
+demographic_parity             : 1
 demographics                   : 32
 demoman                        : 1
+demon                          : 1
 demon_city                     : 1
 demonology                     : 1
+demons                         : 1 : demon
 demonstration                  : 3
 demonstrations                 : 2  : demonstration
 dendrogram                     : 2
@@ -396,6 +403,7 @@ desegregation                  : 2
 desert                         : 3
 desert_island_discworld        : 1
 desert_sun                     : 2
+desigh                         : 1 : design
 design                         : 761
 design_artifacts               : 1
 design_as_critique             : 1
@@ -408,6 +416,7 @@ design_pattern                 : 1
 design_patterns                : 20 : design_pattern
 design_questions               : 1
 design_space                   : 3
+design_thinking                : 1
 designed_ethical_systems       : 1
 designed_experience            : 1
 designer_notes                 : 1
@@ -427,6 +436,7 @@ detection                      : 1
 detention                      : 12
 detention_centers              : 1
 DetentionCenters               : 1  : detention_centers
+determinism                    : 1
 deterministic_systems          : 1
 Deterministic_Systems          : 1  : deterministic_systems
 deterrence                     : 3
@@ -505,6 +515,7 @@ dictator                       : 1
 dictators                      : 2  : dictator
 dictatorship                   : 4  : dictator
 dictionary                     : 2
+dictionnaire_infernal          : 1
 didactics                      : 1
 didgeridoo                     : 1
 die_broke                      : 1
@@ -512,6 +523,7 @@ diebold                        : 1
 diegetic                       : 1
 diet                           : 4
 dietary_epidemiology           : 1
+dietary_supplements            : 1
 diets                          : 2  : diet
 diff                           : 3
 diff_structures                : 1
@@ -523,6 +535,7 @@ differentiation                : 1
 difficulty                     : 6
 difficulty_adjustment          : 1
 diffie_hellman                 : 1
+Diffusion                      : 1 : diffusion
 diffusion                      : 13
 digest_of_justinian            : 1
 digiday                        : 3
@@ -561,8 +574,8 @@ digitization                   : 2  : digitisation
 digitized_manuscripts          : 1  : digitisation
 DIGMA                          : 1
 dignity                        : 1
-digra                          : 1  : DIGRA
 DIGRA                          : 1
+digra                          : 1  : DIGRA
 dildo                          : 2
 dilemma                        : 3
 dilemmas                       : 3  : dilemma
@@ -576,6 +589,7 @@ dining                         : 3
 dining_philosophers            : 1
 DINO                           : 1
 dinosaur                       : 1
+diogenes                       : 1
 dionysos                       : 1
 dior                           : 1
 diphthong                      : 1
@@ -601,6 +615,7 @@ disaster_capitalism            : 1
 disaster_management            : 1
 disaster_menu                  : 1
 disaster_relief                : 1
+disaster_studies               : 1
 disasters                      : 2
 discipline                     : 6
 disclosure                     : 1
@@ -618,6 +633,7 @@ discourse_markers              : 1
 discover                       : 3
 discoveries                    : 1  : discovery
 discovery                      : 1
+discrete_event_simulation      : 2
 discrete_trial                 : 1
 discretion                     : 3
 discretization                 : 2
@@ -627,11 +643,13 @@ discrimination                 : 39
 discrimination_and_disparities : 1
 discriminative_models          : 1
 discrmination                  : 1  : discrimination
+discursive                     : 1
 discursive_analysis            : 1
 discursive_psychology          : 1
 discussion                     : 4
 discworld                      : 31
 disease                        : 15
+disenchantment                 : 1
 disfluencies                   : 1
 disfunction                    : 1
 disgust                        : 1
@@ -696,8 +714,8 @@ division_2                     : 1
 division_of_labour             : 9
 divorce                        : 2
 dixiecrats                     : 5
-diy                            : 4  : DIY
 DIY                            : 4
+diy                            : 4  : DIY
 django                         : 1
 djerba                         : 2
 DJIA                           : 1
@@ -726,8 +744,10 @@ doctor_shopping                : 1
 doctor_who                     : 6
 doctors                        : 12
 document                       : 7
+document_cloud                 : 1
 documentaries                  : 4  : documentary
 documentary                    : 5
+Documentation                  : 1 : documentation
 documentation                  : 33
 documents                      : 5  : document
 DoD                            : 1
@@ -756,6 +776,7 @@ domain_models                  : 1
 domain_specific                : 1
 domain_specific_modeling       : 1
 Domain_specific_modeling       : 1  : domain_specific_modeling
+domain_specific_software       : 1
 domain_warning                 : 1
 domains                        : 6  : domain
 DOME                           : 1
@@ -799,8 +820,8 @@ doublefine                     : 4
 doubt                          : 1
 douglas_county                 : 1
 dove                           : 1
-dow                            : 1  : DOW
 DOW                            : 1
+dow                            : 1  : DOW
 download                       : 1
 downs_syndrome                 : 3
 downsizing                     : 1
@@ -865,16 +886,17 @@ drone                          : 1
 drone_strike                   : 2
 drone_warfare                  : 1
 drones                         : 6  : drone
+DROOLS                         : 1
 Drools                         : 2  : drools
 drools                         : 5
-DROOLS                         : 1
 drought                        : 1
 drowning                       : 2
 drowsiness                     : 2
 DRT                            : 1
 drug                           : 43 : drugs
 drug_addiction                 : 1
-drug_courts                    : 1
+drug_court                     : 1
+drug_courts                    : 1 : drug_court
 drug_overdose                  : 2
 drug_policy                    : 1
 drug_prevention                : 1
@@ -932,6 +954,7 @@ DUP                            : 2
 duration                       : 1
 durham                         : 1
 durham_weed_man                : 1
+durrani_empire                 : 1
 dutch                          : 6
 dutch_east_indies_company      : 1
 dutee_chand                    : 1
@@ -939,8 +962,8 @@ duties                         : 2  : duty
 duty                           : 1
 DVD                            : 1
 dw                             : 1
-Dwarf                          : 1  : dwarf
 dwarf                          : 1
+Dwarf                          : 1  : dwarf
 dwarf_corp                     : 1
 dwarf_fortress                 : 22
 dwarfcorp                      : 1  : dwarf_corp
@@ -952,6 +975,7 @@ DWP                            : 12
 dyadic                         : 1
 dyck_extended_language         : 1
 dyck_reachability              : 1
+dying                          : 1 : death
 dynamic                        : 5
 dynamic norms                  : 1  : dynamic_norms
 dynamic_algebra                : 1
@@ -973,12 +997,14 @@ dynamic_programming            : 8
 dynamic_properties             : 1
 dynamic_range                  : 1
 dynamic_scope                  : 1
+dynamic_semantics              : 1
 dynamic_stories                : 1
 dynamic_systems                : 9
 dynamic_task_activation        : 1
 dynamic_tonality               : 1
 dynamic_typing                 : 1
 dynamical_meaning              : 1
+Dynamical_Regimes              : 1 : dynamical_regimes
 Dynamical_systems              : 1  : dynamic_systems
 dynamical_systems              : 2  : dynamic_systems
 dynamics                       : 13
@@ -988,29 +1014,3 @@ dyslexia                       : 1
 dyson_sphere                   : 1
 dystop                         : 1  : dystopia
 dystopia                       : 54
-dasein                          : 1 : %RETURN%
-Data                            : 1 : %RETURN%
-data_description                : 1 : %RETURN%
-deductive_database              : 1 : %RETURN%
-demographic_parity              : 1 : %RETURN%
-demon                           : 1 : %RETURN%
-demons                          : 1 : %RETURN%
-desigh                          : 1 : %RETURN%
-design_thinking                 : 1 : %RETURN%
-determinism                     : 1 : %RETURN%
-dictionnaire_infernal           : 1 : %RETURN%
-dietary_supplements             : 1 : %RETURN%
-Diffusion                       : 1 : %RETURN%
-diogenes                        : 1 : %RETURN%
-disaster_studies                : 1 : %RETURN%
-discrete_event_simulation       : 2 : %RETURN%
-discursive                      : 1 : %RETURN%
-disenchantment                  : 1 : %RETURN%
-document_cloud                  : 1 : %RETURN%
-Documentation                   : 1 : %RETURN%
-domain_specific_software        : 1 : %RETURN%
-drug_court                      : 1 : %RETURN%
-durrani_empire                  : 1 : %RETURN%
-dying                           : 1 : %RETURN%
-dynamic_semantics               : 1 : %RETURN%
-Dynamical_Regimes               : 1 : %RETURN%

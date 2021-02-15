@@ -1,4 +1,4 @@
-** q                                :cleaned :
+** q                             :cleaned :
 q_learning                       : 7
 QA                               : 4
 QAD                              : 1
@@ -10,11 +10,12 @@ qingming                         : 1
 QList                            : 1
 QOC                              : 2
 QRCodes                          : 1
-qt                               : 3      : QT
 QT                               : 3
+qt                               : 3      : QT
 quadtrees                        : 1
 quake                            : 7
 quakers                          : 2
+qualification_problem            : 1
 qualified_immunity               : 2
 qualified_types                  : 2
 qualitative                      : 38
@@ -24,6 +25,7 @@ qualitative_comparative_analysis : 1
 qualitative_modeling             : 1
 qualitative_research             : 4
 quality                          : 1
+quality_diversity                : 1
 quality_of_life                  : 1
 qualtiative                      : 1      : qualitative
 qualtitative                     : 1      : qualitative
@@ -59,6 +61,7 @@ queer                            : 13
 queer_coding                     : 1
 queer_games                      : 1
 queer_politics                   : 1
+queer_theory                     : 1
 queeries                         : 1
 queerSTS                         : 1
 queerty                          : 1
@@ -103,6 +106,3 @@ quotes                           : 15     : quote
 quotidian                        : 1
 quran                            : 1
 qz                               : 1
-qualification_problem           : 1 : %RETURN%
-quality_diversity               : 1 : %RETURN%
-queer_theory                    : 1 : %RETURN%

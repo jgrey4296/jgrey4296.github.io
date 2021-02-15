@@ -1,4 +1,4 @@
-** i                                                                            :cleaned:
+** i                               :cleaned:
 I_ABM                              : 2
 i_am_interface                     : 1
 i_ching                            : 3
@@ -14,8 +14,8 @@ IBS                                : 1
 ICANN                              : 2
 ICARUS                             : 1
 ICCJ                               : 1
-ICE                                : 95
 ice                                : 1
+ICE                                : 95
 ice_bound                          : 1
 ice_cream                          : 2
 iceberg                            : 1
@@ -45,6 +45,7 @@ idaho                              : 8
 ide                                : 1   : IDE
 IDE                                : 20
 ideal_semantics                    : 1
+idealism                           : 1
 ideas                              : 1
 ideation                           : 1
 identification                     : 2
@@ -128,8 +129,8 @@ imaging                            : 1
 imbalance                          : 1
 IMDB                               : 2
 IMF                                : 3
-imgui                              : 2
 ImGui                              : 1   : imgui
+imgui                              : 2
 imitation                          : 3
 IMMERSE                            : 3
 immersion                          : 11
@@ -137,6 +138,7 @@ immersive_sim                      : 1   : immersive_simulation
 immersive_simulation               : 1
 immersive_training                 : 1
 immgration                         : 1   : immigration
+immigrant                          : 1  : immigration
 immigrants                         : 8   : immigration
 immigration                        : 170
 immigration_court                  : 2
@@ -173,6 +175,7 @@ impolitenes                        : 1   : impoliteness
 impoliteness                       : 1
 import                             : 2
 import_maps                        : 1
+importance_sampling                : 1
 important                          : 5
 imports                            : 2   : import
 impossible_architecture            : 1
@@ -197,6 +200,7 @@ inanimate_objects                  : 1
 inaudible                          : 1
 inbreeding                         : 2
 inc                                : 1
+incaceration                       : 1 : incarceration
 incarceration                      : 66
 incel                              : 1
 incentive                          : 1
@@ -229,6 +233,7 @@ indefinite_detention               : 1
 indentation                        : 2
 indentity                          : 1   : identity
 indentured_servitude               : 3
+indepeendence                      : 1 : independence
 independence                       : 1
 independence_day                   : 1
 independent                        : 19
@@ -267,8 +272,10 @@ indigenous_rights                  : 1
 indigenous_territories             : 1
 indirect_reciprocity               : 2
 individual                         : 2
+Individual-Based Model             : 2 : individual_based_model
 individual_action                  : 1
 individual_differences             : 1
+individualism                      : 1
 individuals                        : 1   : individual
 individuals_as_resources           : 1
 individuation                      : 1
@@ -289,6 +296,7 @@ industry_university                : 1
 inefficiency                       : 1
 inefficient                        : 1
 inequality                         : 46
+Inequality                         : 1 : inequality
 inequity                           : 1
 inertia                            : 1
 inews                              : 2
@@ -301,6 +309,7 @@ inference                          : 32
 inference_graphs                   : 2
 inferentialis                      : 1   : inferentialism
 inferentialism                     : 1
+inferno                            : 1
 inferrence                         : 1   : inference
 infertility                        : 1
 infinite                           : 1
@@ -360,6 +369,7 @@ informed_writer                    : 1
 informing_science                  : 1
 infosec                            : 2   : information_security
 infosphere                         : 1
+infotopia                          : 1
 infrapolitics                      : 1
 infrastructure                     : 14
 infuence                           : 1   : influence
@@ -380,6 +390,7 @@ injury                             : 1
 injustice                          : 5
 ink                                : 1
 ink_script                         : 1
+inmate_society                     : 1
 inmaterial                         : 1
 inmos_transputer                   : 1
 inner_activities                   : 1
@@ -428,20 +439,26 @@ institutional_aesthetics           : 1
 institutional_bias                 : 1
 institutional_care                 : 1
 institutional_change               : 4
+institutional_complexity           : 1
 institutional_design               : 1
 institutional_drift                : 4
 institutional_economics            : 1
 institutional_failure              : 1
 institutional_grammar              : 1
 institutional_identity             : 1
+institutional_infrastructure       : 1
 institutional_logic                : 3
 institutional_logics               : 8   : institutional_logic
+institutional_maintenance          : 3
 institutional_racism               : 6
 institutional_reproduction         : 1
+institutional_theory               : 3
 institutional_work                 : 1
 institutionalisation               : 4
+institutionalism                   : 1
 institutionalization               : 1   : institutionalisation
 institutions                       : 21  : institution
+Institutions                       : 1 : institution
 InstQL                             : 1
 instruction                        : 1
 instructions                       : 1   : instruction
@@ -461,12 +478,14 @@ integrals                          : 1   : integration
 integration                        : 5
 integrity                          : 2
 intel                              : 2   : intelligence
+intellect                          : 1
 intellectual                       : 1
 intellectual_capital               : 1
 intellectual_development           : 1
 intellectual_humility              : 1
 intellectual_property              : 199
 intellectual_ventures              : 4
+intellectual_virtue                : 1
 intellectuals                      : 1   : intellectual
 intelligame                        : 1
 intelligence                       : 6
@@ -526,6 +545,7 @@ intergroup                         : 3
 intergroup_conflict                : 1
 interior_department                : 1
 interleaving                       : 1
+interlinear                        : 1
 interlocking_norms                 : 1
 internal_dynamics                  : 1
 internalisation                    : 2
@@ -569,6 +589,7 @@ interpretive_sociology             : 1
 interpretive_sustainability        : 1
 interpretivist_research            : 1
 interractive_narrative             : 1   : interactive_narrative
+INTERRAPP                          : 1
 interregnum                        : 1
 interrogation                      : 1
 interrogations                     : 1   : interrogation
@@ -584,6 +605,7 @@ intersex                           : 10
 interstate_wars                    : 1
 interstates                        : 1
 interstellar_anthropology          : 1
+interstellar_travel                : 1
 interstitial_space                 : 1
 intersubjectivity                  : 1
 interval                           : 1
@@ -616,11 +638,13 @@ intuitive_physics                  : 1
 inuit                              : 2
 invalidation                       : 1
 invasion                           : 3
+Invasive Pest                      : 1 : invasive_pest
 invasive_games                     : 1
 invention_of_time                  : 1
 inventor                           : 1
 inventors                          : 2   : inventor
 inventory                          : 1
+Inverse Modeling                   : 1 : inverse_modeling
 inverse_kinematics                 : 3
 investigation                      : 2
 investigatory_powers_bill          : 1
@@ -684,6 +708,7 @@ irrational_games                   : 1
 irrigation                         : 3
 IRS                                : 4
 irvine                             : 1
+ISA                                : 1
 Isabelle                           : 2
 iscore                             : 2
 ishtar                             : 1
@@ -701,11 +726,12 @@ islanders                          : 1
 islands                            : 3
 isloation                          : 1
 iso                                : 1
+isobar                             : 1
 isolation                          : 2
 isometric                          : 1
 isomorphism                        : 3
-isp                                : 3
 ISP                                : 1
+isp                                : 3
 ISPAR                              : 1
 israel                             : 42
 ISS                                : 1
@@ -739,30 +765,3 @@ ivory_coast                        : 1
 ivory_tower                        : 1
 iVotronic                          : 1
 ivy                                : 1
-idealism                        : 1 : %RETURN%
-
-immigrant                       : 1 : %RETURN%
-importance_sampling             : 1 : %RETURN%
-incaceration                    : 1 : %RETURN%
-indepeendence                   : 1 : %RETURN%
-Individual-Based Model          : 2 : %RETURN%
-individualism                   : 1 : %RETURN%
-Inequality                      : 1 : %RETURN%
-inferno                         : 1 : %RETURN%
-infotopia                       : 1 : %RETURN%
-inmate_society                  : 1 : %RETURN%
-institutional_complexity        : 1 : %RETURN%
-institutional_infrastructure    : 1 : %RETURN%
-institutional_maintenance       : 3 : %RETURN%
-institutional_theory            : 3 : %RETURN%
-institutionalism                : 1 : %RETURN%
-Institutions                    : 1 : %RETURN%
-intellect                       : 1 : %RETURN%
-intellectual_virtue             : 1 : %RETURN%
-interlinear                     : 1 : %RETURN%
-INTERRAPP                       : 1 : %RETURN%
-interstellar_travel             : 1 : %RETURN%
-Invasive Pest                   : 1 : %RETURN%
-Inverse Modeling                : 1 : %RETURN%
-ISA                             : 1 : %RETURN%
-isobar                          : 1 : %RETURN%

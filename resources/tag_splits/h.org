@@ -1,4 +1,4 @@
-** h                                                                            :cleaned:
+** h                           :cleaned:
 h1n1                           : 1
 h_r_4174                       : 2
 haaretz                        : 3
@@ -87,6 +87,7 @@ HARMONIA                       : 1
 harmony                        : 1
 HARP                           : 1
 harpers_bazaar                 : 3
+harpers_letter                 : 1
 haruhi                         : 1
 harvard                        : 24
 harvard_gazette                : 1
@@ -149,6 +150,7 @@ hearing_aid                    : 1
 hearings                       : 2
 heart_mountain                 : 1
 hearthstone                    : 3
+hearts_of_iron                 : 1
 heat                           : 4
 heat_wave                      : 3
 heated                         : 1
@@ -198,9 +200,11 @@ hermenutics                    : 1   : hermeneutics
 hermetic_tradition             : 1
 hermetically_open_archive      : 1
 hermetism                      : 1
+heroes                         : 1
 heroes_of_might_and_magic      : 1
 heroes_of_newerth              : 1
 heroin                         : 5
+heros                          : 1 : heroes
 herterogeneity                 : 1   : heterogeneity
 hertz                          : 1
 hetergenoustasks               : 1   : heterogenous_tasks
@@ -226,6 +230,7 @@ HHS                            : 4
 hicks_law                      : 1
 hidden                         : 1
 hidden_mechanics               : 1
+hidden_object                  : 1
 hiding                         : 2
 hierarchical_event_streams     : 1
 hierarchical_portfolio_search  : 1
@@ -292,10 +297,12 @@ historical_materialism         : 1
 historical_norms               : 1
 historical_reference           : 1
 historical_trauma              : 1
+historical_turn                : 1
 historical_war_crimes          : 1
 history                        : 1271
 history_degree                 : 1
 history_of_ai                  : 1
+history_of_being               : 1
 history_of_racism              : 1
 history_of_science             : 2
 hit_and_run                    : 1
@@ -426,6 +433,7 @@ house_intelligence_committee   : 2
 house_of_cards                 : 1
 house_of_representatives       : 2
 house_oversight                : 1
+house_societies_model          : 1
 household                      : 1
 houseplants                    : 1
 housework                      : 2
@@ -471,12 +479,14 @@ HTN_planning                   : 1
 HTNs                           : 1   : HTN
 http                           : 1
 HUAC                           : 1
+huamn_rights                   : 1 : human_rights
 hubble                         : 2
 hubs                           : 1
 hud                            : 1
 huffington_post                : 38
 huffpo                         : 12  : huffington_post
 hugo                           : 3
+Human Values                   : 1 : human_values
 human_animal_relationships     : 1
 human_body_parts               : 1
 human_capital                  : 3
@@ -495,6 +505,7 @@ human_readability              : 1
 human_resources                : 1
 human_rights                   : 31
 human_rights_watch             : 3
+human_scale                    : 1
 human_scale_social_systems     : 1
 human_sociobiology             : 1
 human_trafficking              : 9
@@ -529,6 +540,7 @@ hybrid_systems                 : 1
 HyDICE                         : 2
 hydra                          : 2
 hydra_patterns                 : 1
+hydraulics                     : 1
 hydro_dam                      : 1
 hydro_politics                 : 2
 hydrology                      : 1
@@ -561,15 +573,3 @@ hypr_bdience                   : 1   : hyper_obedience
 hysterectomy                   : 2
 hysteria                       : 1
 hysterical_literature          : 2
-harpers_letter                  : 1 : %RETURN%
-hearts_of_iron                  : 1 : %RETURN%
-heroes                          : 1 : %RETURN%
-heros                           : 1 : %RETURN%
-hidden_object                   : 1 : %RETURN%
-historical_turn                 : 1 : %RETURN%
-history_of_being                : 1 : %RETURN%
-house_societies_model           : 1 : %RETURN%
-huamn_rights                    : 1 : %RETURN%
-Human Values                    : 1 : %RETURN%
-human_scale                     : 1 : %RETURN%
-hydraulics                      : 1 : %RETURN%

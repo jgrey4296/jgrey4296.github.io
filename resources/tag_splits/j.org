@@ -1,4 +1,4 @@
-** j                                                                            :cleaned:
+** j                    :cleaned:
 JaCaMo                  : 1
 jacamo                  : 1  : JaCaMo
 JACK                    : 1
@@ -23,6 +23,7 @@ japanese_internment     : 1
 Jason                   : 1
 jason                   : 4  : JASON
 JASON                   : 5
+jaspers                 : 1
 jasss                   : 16 : JASSS
 JASSS                   : 8
 java                    : 101
@@ -63,6 +64,7 @@ jgrasp                  : 1
 JIAC                    : 1
 jibrai_l                : 1
 jigsaw                  : 1
+jingoism                : 1
 jitter                  : 1
 job                     : 11
 job_centre              : 1
@@ -93,8 +95,8 @@ journey                 : 1
 joy                     : 1
 JPL                     : 1
 jquery                  : 2
-jrpg                    : 3  : JRPG
 JRPG                    : 3
+jrpg                    : 3  : JRPG
 jsdoc                   : 1
 JSettlers               : 1
 json                    : 17
@@ -134,6 +136,7 @@ jury_pools              : 1
 jury_trial              : 1
 just_cause              : 1
 just_security           : 4
+just_war                : 1
 justice                 : 36
 justice_department      : 7
 justice_system          : 1
@@ -142,6 +145,3 @@ justification           : 4
 juvenile                : 2
 juvenile_detention      : 2
 jvm                     : 1
-jaspers                         : 1 : %RETURN%
-jingoism                        : 1 : %RETURN%
-just_war                        : 1 : %RETURN%

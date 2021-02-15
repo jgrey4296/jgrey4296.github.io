@@ -1,9 +1,10 @@
-** o                                                                            :cleaned:
+** o                              :cleaned:
 o_hare                            : 1
 oakland                           : 2
 OAN                               : 1
 oasis                             : 1
 oath_keepers                      : 1
+oaths                             : 1
 oatmeal                           : 1
 obama_care                        : 10
 OBDA                              : 1
@@ -53,6 +54,7 @@ occultism                         : 1  : occult
 occupation                        : 3
 occupational_licensing            : 1
 occuptation                       : 1  : occupation
+occuptations                      : 1 : occupation
 occupy                            : 2
 occupy_wall_street                : 1
 occupy_wallstreet                 : 1  : occupy_wall_street
@@ -78,8 +80,10 @@ ODIS                              : 1
 ODMAS                             : 1
 odour                             : 2
 odyssey                           : 1
+oedipus                           : 1
 ofcom                             : 1
 off_line                          : 1
+off_policy_learning               : 1
 off_the_record                    : 1
 off_topic                         : 1
 offenders                         : 2
@@ -117,6 +121,7 @@ old_tv                            : 1
 oldenburg                         : 1
 oldschool                         : 1
 olfactory                         : 1
+oligarchies                       : 1 : oligarchy
 oligarchy                         : 1
 olympics                          : 2
 OMACS                             : 1
@@ -147,8 +152,8 @@ online                            : 53
 online_activism                   : 1
 online_ads                        : 1
 online_advertising                : 17
-Online_Aggregation                : 1  : online_aggregation
 online_aggregation                : 1
+Online_Aggregation                : 1  : online_aggregation
 online_class                      : 1
 online_comments                   : 1
 online_communities                : 1
@@ -176,6 +181,7 @@ ontology_refinement               : 1
 OntoMorph                         : 1
 ontorat                           : 1
 OODA                              : 1
+OOjDREW                           : 1
 OOP                               : 4
 op_ed                             : 1
 opals                             : 1
@@ -218,6 +224,7 @@ open_university                   : 1
 open_workspace                    : 1
 open_world                        : 12
 open_world_games                  : 1
+open_worlds                       : 1 : open_world
 opencog                           : 2  : open_cog
 opendoc                           : 1  : open_doc
 opengl                            : 26 : open_gl
@@ -285,10 +292,12 @@ orca                              : 1
 orchestra                         : 3
 orchestration                     : 1
 orcs                              : 1
+order                             : 1
 order_coherence                   : 1
 order_sorted_logic                : 1
 ordered_choice_logic              : 1
 ordinal                           : 1
+ordinal_rank                      : 1
 ordinance                         : 6
 ordinary_times                    : 1
 oregon                            : 5
@@ -303,14 +312,17 @@ org_roam                          : 2
 organ_donation                    : 2
 organ_harvesting                  : 1
 organ_pipe_cactus                 : 1
+organ_transplantation             : 1
 organ_transplants                 : 1  : organ_donation
 organiations                      : 1  : organisations
+organic_farming                   : 1
 organisation                      : 20
 organisation_oriented_programming : 1
 organisation_studies              : 2
 organisational_behaviour          : 1
 organisational_change             : 1
 organisational_control            : 1
+organisational_culture            : 1
 organisational_learning           : 1
 organisational_logic              : 1
 organisations                     : 5  : organisation
@@ -324,6 +336,7 @@ organizational_capacity           : 1
 Organizational_Control            : 1  : organisational_control
 organizational_learning           : 1  : organisational_learning
 organizational_logic              : 1  : organisational_logic
+organizational_practice           : 1
 organizations                     : 27 : organisation
 organized_crime                   : 4
 organs                            : 1
@@ -358,9 +371,10 @@ oslo_accords                      : 1
 OSS                               : 1
 osti.gov                          : 2  : US_office_of_science_and_technology
 ostracism                         : 1
-osx                               : 23 : OSX
 OSX                               : 23
+osx                               : 23 : OSX
 Otello                            : 1
+other                             : 1
 other_side                        : 1
 OTP                               : 1
 otters                            : 2
@@ -424,17 +438,3 @@ oxygen_bar                        : 1
 Oz                                : 3
 ozone_layer                       : 1
 ozy                               : 1
-oaths                           : 1 : %RETURN%
-occuptations                    : 1 : %RETURN%
-oedipus                         : 1 : %RETURN%
-off_policy_learning             : 1 : %RETURN%
-oligarchies                     : 1 : %RETURN%
-OOjDREW                         : 1 : %RETURN%
-open_worlds                     : 1 : %RETURN%
-order                           : 1 : %RETURN%
-ordinal_rank                    : 1 : %RETURN%
-organ_transplantation           : 1 : %RETURN%
-organic_farming                 : 1 : %RETURN%
-organisational_culture          : 1 : %RETURN%
-organizational_practice         : 1 : %RETURN%
-other                           : 1 : %RETURN%

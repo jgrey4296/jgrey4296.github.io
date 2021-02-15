@@ -3,16 +3,17 @@ u.s.c                                 : 1   : united_states_code
 uber                                  : 9
 uber_eats                             : 1
 UBF                                   : 1
+UBI                                   : 1
 ubiquitous_language                   : 1
 ubisoft                               : 3
 ubuntu                                : 5
 UC_berkeley                           : 2
-ucla                                  : 1   : UCLA
 UCLA                                  : 1
+ucla                                  : 1   : UCLA
 UCPD                                  : 1
 UCSA                                  : 1
-ucsc                                  : 2   : UCSC
 UCSC                                  : 2
+ucsc                                  : 2   : UCSC
 udsa                                  : 1   : UCSA
 UFO                                   : 1
 ufo                                   : 3   : UFO
@@ -32,9 +33,11 @@ ukraine                               : 9
 ultima                                : 2   : ultima_online
 ultima_online                         : 2
 ultimatum                             : 1
+Ultimatum Game                        : 1 : ultimatum_game
 ultraviolet                           : 1
 ulture                                : 1   : culture
 um                                    : 1
+umass                                 : 1
 UML                                   : 7
 UN                                    : 11  : united_nations
 un                                    : 2   : united_nations
@@ -126,6 +129,7 @@ university_of_hull                    : 1
 university_of_illinois                : 1
 university_of_toronto                 : 1
 university_of_tulsa                   : 1
+UNIX                                  : 1 : unix
 unix                                  : 10
 unjust                                : 2
 unknown                               : 1
@@ -154,6 +158,7 @@ update                                : 2
 upgoerfive                            : 1   : up_goer_five
 upload                                : 1
 upper_confidence                      : 1
+upper_limit                           : 1
 uppercase_7                           : 1
 uppity                                : 2
 UPS                                   : 3
@@ -182,6 +187,7 @@ urban_metrics                         : 1
 urban_parks                           : 2
 urban_planning                        : 2
 urban_rocks                           : 1
+urban_squatting                       : 1
 urban_studies                         : 1
 urbanisation                          : 1
 urbanism                              : 8
@@ -202,22 +208,22 @@ US_border                             : 1
 US_coast_guard                        : 1
 US_commission_on_civil_rights         : 2
 US_economy                            : 2
-us_exceptionalism                     : 1   : US_exceptionalism
 US_exceptionalism                     : 1
+us_exceptionalism                     : 1   : US_exceptionalism
 US_government                         : 2
 US_Government                         : 2   : US_government
 US_mexico_border                      : 1
 us_military                           : 3   : US_military
 US_military                           : 8
 US_navy                               : 1
-us_news                               : 1   : US_news
 US_news                               : 1
+us_news                               : 1   : US_news
 US_office_of_science_and_technology   : 2
 US_senate                             : 1   : US_government
-us_state_department                   : 1   : US_state_department
 US_state_department                   : 1
-us_stratcom                           : 1   : US_stratcom
+us_state_department                   : 1   : US_state_department
 US_stratcom                           : 1
+us_stratcom                           : 1   : US_stratcom
 US_treasury                           : 1
 usa                                   : 14  : USA
 USA                                   : 343
@@ -227,6 +233,7 @@ usability                             : 41
 usage                                 : 2
 usage_patterns                        : 2
 usatoday                              : 2   : usa_today
+usb                                   : 1
 uscc                                  : 1   : US_commission_on_civil_rights
 usccr                                 : 1   : US_commission_on_civil_rights
 USCIS                                 : 1
@@ -259,21 +266,21 @@ user_study                            : 1
 user_teseting                         : 1   : user_testing
 user_testing                          : 4
 users                                 : 3   : user
-usgs                                  : 1   : USGS
 USGS                                  : 1
+usgs                                  : 1   : USGS
 USMCA                                 : 1
 usnews                                : 1   : US_news
-uspo                                  : 1   : USPO
 USPO                                  : 1
+uspo                                  : 1   : USPO
 usps                                  : 1   : : USPS
 USPS                                  : 2
-uspto                                 : 4   : USPTO
 USPTO                                 : 4
+uspto                                 : 4   : USPTO
 USS_Roosevelt                         : 2
 ussr                                  : 1   : USSR
 USSR                                  : 7
-ustr                                  : 2   : USTR
 USTR                                  : 2
+ustr                                  : 2   : USTR
 UT_Dallas                             : 1
 UTA                                   : 1
 UTAG                                  : 1
@@ -297,10 +304,3 @@ UX_planet                             : 1
 uxplanet                              : 1   : UX_planet
 uyghur                                : 2
 uzbekistan                            : 1
-UBI                             : 1 : %RETURN%
-Ultimatum Game                  : 1 : %RETURN%
-umass                           : 1 : %RETURN%
-UNIX                            : 1 : %RETURN%
-upper_limit                     : 1 : %RETURN%
-urban_squatting                 : 1 : %RETURN%
-usb                             : 1 : %RETURN%

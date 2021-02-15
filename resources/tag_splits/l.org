@@ -1,4 +1,4 @@
-** l                                                                            :cleaned:
+** l                            :cleaned:
 l_system                        : 2
 l_systems                       : 3  : l_system
 la                              : 2  : LA
@@ -8,10 +8,10 @@ la_curbed                       : 1
 la_mettrie                      : 1
 la_molle_industria              : 2
 LA_noire                        : 1
-la_review_of_books              : 6  : LA_review_of_books
 LA_review_of_books              : 6
-la_times                        : 14 : LA_times
+la_review_of_books              : 6  : LA_review_of_books
 LA_times                        : 14
+la_times                        : 14 : LA_times
 lab_rats                        : 1
 labeled_data                    : 1
 labelled_data                   : 1  : labeled_data
@@ -50,12 +50,14 @@ lame_duck                       : 1
 lamps                           : 1
 LAN                             : 2
 lancashire                      : 1
+lancer                          : 1
 lancer_rpg                      : 1
 lancet                          : 1
 land                            : 3
 land_acknowledgement            : 1  : land_acknowledgment
 land_acknowledgment             : 1
 land_development                : 1
+land_loss                       : 1
 land_run                        : 1
 land_theft                      : 1
 land_use                        : 5
@@ -86,6 +88,7 @@ languages                       : 1  : language
 lanugage                        : 2  : language
 lanyards                        : 1
 LAO                             : 2
+laos                            : 1
 LAPD                            : 3
 laphams_quarterly               : 1
 laplace_transforms              : 1
@@ -131,6 +134,7 @@ latin_squares                   : 1
 latino                          : 1
 latinx                          : 1
 lattic                          : 1  : lattice
+Lattice                         : 1 : lattice
 lattice                         : 8
 lattices                        : 2  : lattice
 Launchpad                       : 1  : launchpad
@@ -193,6 +197,7 @@ lecturers                       : 1  : lecture
 lectures                        : 1  : lecture
 lede_algorithm                  : 1
 leeds                           : 1
+leelanau_county                 : 1
 left4dead                       : 1  : left_4_dead
 left_4_dead                     : 5
 left_handedness                 : 1
@@ -238,6 +243,7 @@ lego                            : 7  : LEGO
 legume                          : 1  : legumes
 legumes                         : 1
 leisure                         : 6
+leisure_time                    : 1
 lemon_project                   : 1
 lemonade                        : 1
 leniency                        : 1
@@ -248,6 +254,7 @@ lesbian                         : 2
 lesbian_pope                    : 1
 lesbian_tyranny                 : 1
 lesbianism                      : 1  : lesbian
+lesbians                        : 1 : lesbian
 less_css                        : 1
 lessons                         : 5
 lethal_force                    : 2
@@ -310,6 +317,7 @@ library_science                 : 1
 libya                           : 1
 license                         : 10
 licensing                       : 5
+liceu_opera_house               : 1
 lichen                          : 1
 lichtenberg                     : 1
 LIDA                            : 1
@@ -395,8 +403,8 @@ linkrot                         : 1
 links_awakening                 : 1
 lino_print                      : 1
 linocut                         : 1
-linq                            : 1  : LINQ
 LINQ                            : 1
+linq                            : 1  : LINQ
 lint                            : 8
 LINUS                           : 1
 linux                           : 15
@@ -412,8 +420,8 @@ liquid                          : 3
 liquid_narrative                : 1
 liquid_times                    : 1
 liquidity                       : 1
-Lisbon                          : 1  : lisbon
 lisbon                          : 1
+Lisbon                          : 1  : lisbon
 lisbon_treat                    : 1
 lisbon_treaty                   : 1
 lisp                            : 102
@@ -482,8 +490,8 @@ local_council                   : 1
 local_councils                  : 1  : local_council
 local_governance                : 2  : local_government
 local_government                : 8
-Local_Institutional_Engineering : 1  : local_institutional_engineering
 local_institutional_engineering : 1
+Local_Institutional_Engineering : 1  : local_institutional_engineering
 local_journalism                : 1
 local_order                     : 1
 local_ordinances                : 2
@@ -573,6 +581,7 @@ louisiana                       : 17
 louisville                      : 3
 lousiana                        : 1
 love                            : 2
+lovecraft_county                : 1
 low_cost                        : 1
 low_culture                     : 1
 low_hanging_fruit               : 1
@@ -599,11 +608,11 @@ lucid_dreams                    : 1
 lucidchart                      : 11 : lucid_chart
 luck                            : 2
 luddite                         : 1
-Ludi                            : 1  : ludi
 ludi                            : 1
+Ludi                            : 1  : ludi
 ludic_narrative                 : 1
-Ludocore                        : 1  : ludocore
 ludocore                        : 1
+Ludocore                        : 1  : ludocore
 ludographic_essay               : 1
 ludology                        : 2
 ludonarrative_dissonance        : 1
@@ -625,13 +634,3 @@ lymph_nodes                     : 2
 lynching                        : 7
 lyre                            : 1
 lyrics                          : 1
-lancer                          : 1 : %RETURN%
-land_loss                       : 1 : %RETURN%
-laos                            : 1 : %RETURN%
-Lattice                         : 1 : %RETURN%
-leelanau_county                 : 1 : %RETURN%
-leisure_time                    : 1 : %RETURN%
-lesbians                        : 1 : %RETURN%
-liceu_opera_house               : 1 : %RETURN%
-
-lovecraft_county                : 1 : %RETURN%

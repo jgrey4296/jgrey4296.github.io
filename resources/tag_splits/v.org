@@ -1,6 +1,6 @@
 ** v                                                                            :cleaned:
-va                            : 1 : VA
 VA                            : 1
+va                            : 1 : VA
 vacancies                     : 1
 vacations                     : 1
 vaccination                   : 5
@@ -25,6 +25,7 @@ value_transformation          : 1
 values                        : 10
 values_hierarchy              : 1
 valve                         : 14
+valves                        : 1
 VAM                           : 1
 vampire_the_masquerade        : 1
 vampires                      : 2
@@ -64,6 +65,7 @@ vegetables                    : 2
 vegetation                    : 1
 vehicle_fatalities            : 1
 vehicles                      : 2
+veil_of_ignorance             : 1
 vending_machines              : 3
 vendor                        : 1
 venezuela                     : 10
@@ -90,6 +92,7 @@ version_control               : 5
 versioning                    : 1
 versu                         : 10
 vertex_betweenness            : 1
+vertigo                       : 1
 vestigial_structures          : 1
 veterans                      : 3
 veterans_affairs              : 4
@@ -128,6 +131,7 @@ viewing_habits                : 1
 viewpoint                     : 1
 views                         : 1
 VigilAgent                    : 1
+vigilantes                    : 1
 vignette                      : 4
 viking                        : 1
 vikings                       : 2  : viking
@@ -180,6 +184,8 @@ virtual_thrifting             : 2
 virtual_training              : 1
 virtual_world                 : 4
 virtual_worlds                : 4  : virtual_world
+virtuaverse                   : 1
+virtue                        : 2
 virtue_signaling              : 1
 virus                         : 7
 virutal_world                 : 1
@@ -190,8 +196,8 @@ VisiCalc                      : 1
 vision                        : 11
 visual                        : 2
 visual_analysis               : 1
-Visual_Analytics              : 1  : visual_analytics
 visual_analytics              : 1
+Visual_Analytics              : 1  : visual_analytics
 visual_arts                   : 1
 visual_code                   : 1
 visual_data                   : 1
@@ -210,6 +216,7 @@ visual_system                 : 1
 visualboy_advance             : 1
 visualiation                  : 1  : visualisation
 visualisation                 : 406
+visualisation_artifacts       : 1
 visualisations                : 1  : visualisation
 visualization                 : 1  : visualisation
 visualsation                  : 1  : visualisation
@@ -275,10 +282,3 @@ vulnerable_populations        : 2
 vvvv                          : 1  : VVVVVVV
 vvvvv                         : 1  : VVVVVVV
 VVVVVVV                       : 3
-valves                          : 1 : %RETURN%
-veil_of_ignorance               : 1 : %RETURN%
-vertigo                         : 1 : %RETURN%
-vigilantes                      : 1 : %RETURN%
-virtuaverse                     : 1 : %RETURN%
-virtue                          : 2 : %RETURN%
-visualisation_artifacts         : 1 : %RETURN%
