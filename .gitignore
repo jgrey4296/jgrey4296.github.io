@@ -8,3 +8,4 @@ old/
 to_clean/
 *.tags
 years/auto/
+.orgids
