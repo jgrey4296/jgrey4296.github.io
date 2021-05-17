@@ -2737,3 +2737,25 @@
     | Saviour     |         |
     | History     |         |
 
+** Ontologies of AI Failure
+schmill07_ontol_reason_failur_ai_system
+
+Brittleness can be countered by a metareasoner with:
+1) enough access to information about the host
+2) able to make recommendations of targetted changes to host
+3) able to monitor effectiveness of recommended change
+4) done in real time
+
+** Features of model transformation approaches
+czarnecki06_featur_based_survey_model_trans_approac
+
+** Taxonomy of video game bugs
+lewis10_what_went_wrong
+
+Specification / Implementation
+
+Fault: phenomenon that leads to an error in the system.
+
+Error: manifestation of a fault during execution
+
+Failure: user observable deviation from expected behaviour
