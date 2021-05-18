@@ -6,6 +6,5 @@ from_desktop
 auto/
 old/
 to_clean/
-*.tags
 years/auto/
 .orgids
