@@ -272,7 +272,7 @@ USMCA                                 : 1
 usnews                                : 1   : US_news
 USPO                                  : 1
 uspo                                  : 1   : USPO
-usps                                  : 1   : : USPS
+usps                                  : 1   : USPS
 USPS                                  : 2
 USPTO                                 : 4
 uspto                                 : 4   : USPTO
