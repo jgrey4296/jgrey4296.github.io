@@ -1,7 +1,9 @@
-2001 Merz2001
-2011 Cranefield2011
-2011 Yatapanage2011
-2012 Rusu2012
-2014 Yatapanage2014
-2016 Padget2016
-2019 konnov2019tla+
+2001 merz01_model_check
+2006 jamroga06_model_check_abilit_under_incom
+2011 cranefield11_verif_social_expec_by_model
+2011 yatapanage11_slicin_behav_trees_verif_large_system
+2012 rusu12_k_based_formal_framew_domain
+2014 yatapanage14_slicin_behav_tree_model_verif
+2016 padget16_instal
+2018 falcionelli18_event_calcul_formal_timed_autom
+2019 konnov19_tla_model_check_made_symbol
