@@ -1,10 +1,6 @@
 web_pages
 from_desktop
-.DS_Store
-*.pdf
-*.log
 auto/
 old/
 to_clean/
 years/auto/
-.orgids
