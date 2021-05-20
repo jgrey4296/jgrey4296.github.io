@@ -3,11 +3,13 @@
 2006 bertot06_coq_hurry
 2010 lipscomb10_goedel_incom_theor
 2011 beck11_art_proof
-2012 lamport12_how_to_write_centur_proof
+2011 simmons11_categ_theor_solut
 2012 day12_introd_to_proof_mathem_vernac
+2012 lamport12_how_to_write_centur_proof
 2012 tontalo12_induc_proof
-2013 hammack13_book_proof
 2013 genesereth13_introd_logic
+2013 hammack13_book_proof
+2015 lerner15_polym_block
 2015 martens15_ceptr
 2017 laurie17_fair_decen_consen_is_impos
 2018 eiben18_struc_approac_activ_selec
@@ -16,5 +18,6 @@
 2018 christiansen18_one_monad_to_prove_them_all
 2020 pierce20_logic_found
 2020 pierce20_progr_languag_found
-2020 pierce20_verif_funct_algor
 2020 pierce20_quick
+2020 pierce20_verif_funct_algor
+2021 antonsen21_logic_method

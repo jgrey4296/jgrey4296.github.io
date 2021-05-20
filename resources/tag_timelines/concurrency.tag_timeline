@@ -6,8 +6,8 @@
 2000 armstrong00_concur_progr_erlan
 2002 birrell02_introd_progr_c_thread
 2002 mazouzi02_open
-2003 long03_pddl2
 2003 armstrong03_makin
+2003 long03_pddl2
 2004 arbab04_reo
 2006 cutumisu06_gener_ambien_behav_comput
 2006 glencross06_exploit
@@ -15,11 +15,11 @@
 2007 bjoerndalen07_pycsp_commun_sequen_proces_python
 2008 sharp08_princ
 2009 elliott09_push_pull_funct_react_progr
-2010 sorensen10_progr_with_time
 2010 sorensen10_distr_memor_networ_livec_perfor
+2010 sorensen10_progr_with_time
 2012 jongmans12_overv_thirt_seman_formal_reo
-2013 schlegel13_concur_infer_graph
 2013 meredith13_polic_as_types
+2013 schlegel13_concur_infer_graph
 2014 dhiel14_what_i_wish_i_knew
 2017 cassar17_eaop
 2018 gu18_certif
