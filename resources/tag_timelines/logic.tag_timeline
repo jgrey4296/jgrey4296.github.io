@@ -3,11 +3,13 @@
 1903 russell03_princ_mathem
 1913 hohfeld13_some_fundam_legal_concep_as
 1920 russell20_introd_to_mathem_philos
+1922 wittgenstein01_tract_logic_philos
 1959 kripke59_compl_theor_modal_logic
 1959 kripke59_distin_const_seman_analy_modal
 1959 popper02_logic_scien_discov
 1969 goguen69_logic_inexac_concep
 1971 cook71
+1973 stoddard73_induc_origin_philos_axiom
 1974 wittgenstein80_philos_gramm
 1977 heidegger97_phenom_inter_kants_critiq_pure_reason
 1984 goguen84_introd_instit
@@ -104,6 +106,7 @@
 2007 benchcapon07_argum_artif_intel
 2007 boella07_normat_multi_agent_system
 2007 boella07_ontol_proper_social_roles_multi_agent_system
+2007 cliffe07_embed
 2007 cliffe07_specif_analy_instit_multi_agent
 2007 davies07_integ_formal_method
 2007 goel07_anatom
@@ -161,6 +164,7 @@
 2012 lamport12_how_to_write_centur_proof
 2012 mohapatra12_cs
 2012 ossowski12_agreem
+2012 richardson12_thou_shalt_not_commit_logic_fallac
 2012 thornton12
 2012 macfarlane12_asses_sensit
 2013 andrighetto13_normat_multi_agent_system
@@ -216,9 +220,9 @@
 2019 benzmueller19_univer_logic_reason
 2019 chlipala19_certif_progr_depen_types
 2019 dunfield19_sound_compl_bidir_typec_higher
+2019 gabbay19_journ_applied_logic
 2019 lyall19_being_inter_academ
 2019 project19_open_logic_text
-2020 cliffe_embed
 2020 allori20_statis_mechan_scien_explan_deter
 2020 chimakonam20_logic_afric_philos
 2020 jain20_indis_obfus_well_found_assum
