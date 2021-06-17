@@ -1,5 +1,3 @@
-** a                                                                            :cleaned:
-a                                     : 1
 a_a                                   : 1
 a_b_testing                           : 1
 A_level                               : 1
@@ -19,8 +17,10 @@ aaihs                                 : 1   : AAIHS
 AAIHS                                 : 2
 AAP                                   : 1
 AARON                                 : 1
+AASPIRE                               : 1 : TO_CHECK
 AATS                                  : 1
 ab_testing                            : 1   : a_b_testing
+ABA                                   : 1 : TO_CHECK
 abandoned                             : 5
 abandoned_houses                      : 1
 abandonment                           : 1
@@ -35,6 +35,7 @@ abductive_logic                       : 2
 abductive_models                      : 1
 abductive_reasoning                   : 1
 aberrant                              : 1
+abjection                             : 2 : TO_CHECK
 ABL                                   : 14
 ableism                               : 15
 ableton                               : 5
@@ -43,7 +44,9 @@ ABM                                   : 95
 ABMS                                  : 2
 ABODE                                 : 2
 abolition                             : 4
+abolitionism                          : 1 : TO_CHECK
 abolitionists                         : 1
+abomination                           : 1 : TO_CHECK
 aboriginal                            : 4
 aboriginal_marriage                   : 1
 aboriginals                           : 2   : aboriginal
@@ -52,16 +55,20 @@ abortion_rights                       : 1
 ABox                                  : 1
 absentee_ballots                      : 2 : absentee_ballottss
 absentee_ballotts                     : 1
+absentee_voting                       : 1 : TO_CHECK
 absinthe                              : 1
 abstinence                            : 4
 abstinence_only                       : 1   : abstinence
 abstract_algebra                      : 1
 abstract_argument_system              : 1
 abstract_behaviour_types              : 1
+abstract_concept                      : 1 : TO_CHECK
 abstract_concepts                     : 1
 abstract_response_menu                : 1
+abstract_systems                      : 1 : TO_CHECK
 abstraction                           : 13
 abstraction_selection                 : 1
+abstractness                          : 1 : TO_CHECK
 abstracts                             : 1
 abstruse_goose                        : 1
 absurdism                             : 2
@@ -84,6 +91,7 @@ academia                              : 132
 academic                              : 5
 academic_dysfunction                  : 1
 academic_ignorance                    : 1
+academic_press                        : 2 : TO_CHECK
 academic_software                     : 2
 academic_writing                      : 3
 academy_of_management                 : 1
@@ -132,6 +140,7 @@ acoustic_ecology                      : 2
 acoustic_transmission                 : 1
 acoustics                             : 2   : acoustic
 acquaintances                         : 1
+ACRE                                  : 1 : TO_CHECK
 ACRES                                 : 1
 acropolis                             : 1
 act                                   : 1
@@ -145,21 +154,29 @@ acting                                : 1
 action                                : 52
 action_adventure                      : 1
 action_description                    : 1
+action_editor                         : 1 : TO_CHECK
 action_fields                         : 1
+action_forms                          : 1 : TO_CHECK
 action_games                          : 2
 action_language                       : 11
 action_logic                          : 3
+action_queue                          : 1 : TO_CHECK
+action_repertoire                     : 1 : TO_CHECK
+action_research                       : 1 : TO_CHECK
 action_rpg                            : 1
+action_rules                          : 1 : TO_CHECK
 action_schema                         : 1
 action_selection                      : 14
 action_semantics                      : 1
 action_stacking                       : 1
+action_theory                         : 1 : TO_CHECK
 actions                               : 23  : action
 actionscript                          : 1
 activation                            : 1
 activation_decay                      : 1
 activation_functions                  : 1
 active_audience                       : 1
+active_sequential_decision_making     : 1 : TO_CHECK
 active_shooter                        : 1
 active_shooter_drills                 : 3
 activision                            : 2
@@ -174,10 +191,13 @@ actorhood                             : 1
 actors                                : 7   : actor
 actr                                  : 2
 actualisation                         : 1
+actualism                             : 1 : TO_CHECK
+actuality                             : 1 : TO_CHECK
 actuarial_science                     : 1
 actvism                               : 1
 acupuncture                           : 1
 ad_hoc                                : 1
+ad_hoc_cooperation                    : 1 : TO_CHECK
 ad_hoc_networks                       : 1
 ad_tech                               : 12
 ADA                                   : 3
@@ -186,6 +206,7 @@ adaboost                              : 1
 adapative                             : 1 : adaptive
 adaptability                          : 2
 adaptation                            : 9
+adaptation_timing                     : 1 : TO_CHECK
 adaptive                              : 13
 adaptive_deontic_logic                : 1
 adaptive_dialog                       : 1
@@ -209,11 +230,12 @@ additude                              : 1
 additudemag                           : 1
 adds                                  : 1
 adel                                  : 1
-adhd                                  : 9 : ADHD
 ADHD                                  : 1
+adhd                                  : 9 : ADHD
 ADICO                                 : 4
 adidas                                : 1
 aditya_chakrabortty                   : 2
+adivasi                               : 1 : TO_CHECK
 adjacency_pairs                       : 1
 adjacency_relations                   : 1
 adjective                             : 1
@@ -232,6 +254,7 @@ administrative_violence               : 3
 administrators                        : 1
 admissions                            : 3
 adobe                                 : 3
+adolescent_thieves                    : 1 : TO_CHECK
 adolescents                           : 4
 adonis                                : 1
 adoption                              : 4
@@ -251,6 +274,7 @@ adventure_games                       : 3   : adventure_game
 adventure_time                        : 1
 adverbs                               : 1
 adversarial                           : 7
+adversarial_design                    : 1 : TO_CHECK
 adversarial_generation                : 1
 adversarial_planning                  : 2
 adversarial_search                    : 1
@@ -264,18 +288,22 @@ advocate                              : 1
 aea                                   : 2
 AEI                                   : 1
 aeon                                  : 2
+AER                                   : 1 : TO_CHECK
 aereo                                 : 1
 AerLingus                             : 1
 aerosol                               : 1
 aeson                                 : 1
 AESOP                                 : 1
 aesthetic_judgement                   : 1
+aesthetic_of_unplayability            : 2 : TO_CHECK
 aesthetics                            : 26
 aetiology                             : 1
 aetna                                 : 1
 AF_APL                                : 1
+AFAPL2                                : 1 : TO_CHECK
 AfD                                   : 1
 affect                                : 35
+affect_theory                         : 1 : TO_CHECK
 affection                             : 1
 affective_community                   : 1
 affective_computing                   : 1
@@ -297,9 +325,13 @@ africa_news                           : 1
 african_american                      : 8
 african_americans                     : 1   : africa_american
 african_diaspora                      : 1
+african_futurism                      : 1 : TO_CHECK
+african_philosophy                    : 1 : TO_CHECK
+african_television                    : 1 : TO_CHECK
 africanews                            : 1   : africa_news
 afrikaans                             : 1
 afro_futurism                         : 3
+afro_surrealism                       : 1 : TO_CHECK
 afterlife                             : 1
 agamben                               : 1
 AGAVE                                 : 1
@@ -309,10 +341,12 @@ age                                   : 13
 age_difference                        : 1
 age_of_empires                        : 1
 age_ratings                           : 1
+agencies                              : 1 : TO_CHECK
 agency                                : 47
 agency_logic                          : 2
 agency_play                           : 1
 agenda                                : 4
+agenda_seeding                        : 1 : TO_CHECK
 agenda_setting                        : 5
 agendas                               : 2   : agenda
 AGENT                                 : 1
@@ -322,7 +356,10 @@ Agent Based Modelling                 : 1 : agent_based_modeling
 Agent-Based Model                     : 6 : agent_based_modeling
 Agent-Based Modeling                  : 1   : agent_based_modeling
 Agent-Based Models                    : 1 : agent_based_modeling
+Agent-Based_Model                     : 1 : TO_CHECK
+agent_architecture                    : 1 : TO_CHECK
 Agent_Based_Computational_Model       : 1 : agent_based_modeling
+Agent_Based_Model                     : 2 : TO_CHECK
 agent_based_model                     : 1   : agent_based_modeling
 agent_based_modeling                  : 52
 agent_based_modelling                 : 1   : agent_based_modeling
@@ -338,7 +375,10 @@ AgentFactory                          : 1
 agentlink                             : 1
 agents                                : 255
 agents_and_artifacts                  : 1
+AgentScape                            : 1 : TO_CHECK
 AgentSpeak                            : 12
+AgentSpotter                          : 1 : TO_CHECK
+agentTool_III                         : 1 : TO_CHECK
 agglomeration                         : 1
 aggregates                            : 1
 aggregation                           : 2
@@ -352,15 +392,21 @@ aging                                 : 1
 agism                                 : 1
 aglets                                : 1
 Aglets                                : 1   : aglets
+agnatology                            : 1 : TO_CHECK
 agnotology                            : 1
 agnts                                 : 1   : agents
+agonism                               : 1 : TO_CHECK
 agrammatism                           : 1
+agrarian_relation                     : 1 : TO_CHECK
+agrarian_society                      : 1 : TO_CHECK
 AGRE                                  : 1
 agreement                             : 2
+agreement_technology                  : 1 : TO_CHECK
 agribusiness                          : 4
 agricultural_revolution               : 1
 agriculture                           : 43
 agrobiodiversity                      : 1
+agroecology                           : 1 : TO_CHECK
 agroforestry                          : 1
 agu100                                : 1
 ah                                    : 1
@@ -386,6 +432,7 @@ ai_for_social_good                    : 1
 ai_game_dev                           : 1
 ai_hermeneutics                       : 1
 ai_hermeutic                          : 1   : ai_hermeneutics
+ai_history                            : 1 : TO_CHECK
 ai_in_context                         : 2
 ai_in_practice                        : 1
 ai_life_cycle                         : 1
@@ -402,6 +449,7 @@ aigamedev                             : 1   : ai_game_dev
 AIIDE                                 : 3
 aiide                                 : 3   : AIIDE
 AIKR                                  : 1
+ailes                                 : 1 : TO_CHECK
 AINRM                                 : 1
 AIPAC                                 : 1
 AIPS                                  : 1
@@ -441,32 +489,44 @@ alcohol                               : 16
 alcoholics_anomymous                  : 1
 alcoholism                            : 1
 ALEC                                  : 1
+aleppo                                : 1 : TO_CHECK
+alethosphere                          : 1 : TO_CHECK
 alexa                                 : 6
 alexandria                            : 1
 alexi                                 : 1
 algebra                               : 4
 algebraic_semantics                   : 2
 algebraic_semiotics                   : 1
+algebraic_topology                    : 1 : TO_CHECK
 algeria                               : 4
 algorithm                             : 17
+algorithm_animation                   : 1 : TO_CHECK
+algorithm_audit                       : 1 : TO_CHECK
 algorithm_centric                     : 1
 algorithm_w                           : 1
 algorithm_watch                       : 1
+algorithmic_ableism                   : 1 : TO_CHECK
 algorithmic_amplification             : 1
 algorithmic_bias                      : 7
+algorithmic_composition               : 1 : TO_CHECK
 Algorithmic_composition               : 1   : algorithmic_composition
 algorithmic_curation                  : 1
 algorithmic_decision_making           : 1
 algorithmic_manipulation              : 1
 algorithmic_music                     : 2
 algorithmic_notation                  : 1
+algorithmic_sentencing                : 1 : TO_CHECK
 algorithmic_shapeshifters             : 1
+algorithmic_systems                   : 1 : TO_CHECK
+algorithmic_tools                     : 1 : TO_CHECK
+algorithmic_transparency              : 1 : TO_CHECK
 algorithms                            : 229 : algorithm
 algorithms_of_oppression              : 1
 alhumdulillah                         : 1
 alias                                 : 1
 alien                                 : 15
 alien_isolation                       : 2
+alienation                            : 1 : TO_CHECK
 alience                               : 1
 aliens                                : 1   : alien
 alife                                 : 11
@@ -474,6 +534,7 @@ alife2019                             : 4
 ALIGN                                 : 1
 alignment                             : 5
 alignment_chart                       : 1
+ALIVE                                 : 1 : TO_CHECK
 aljazeera                             : 5
 all_affected_principle                : 1
 all_cops_are_bastards                 : 1
@@ -493,6 +554,8 @@ alpha                                 : 1
 alpha_centauri                        : 1
 alphabet                              : 2
 alphabetical                          : 1
+alphago                               : 1 : TO_CHECK
+alphastar                             : 1 : TO_CHECK
 alt_dev                               : 1
 alt_lib                               : 2
 alt_right                             : 19
@@ -511,6 +574,7 @@ altrusim                              : 1 : altruism
 alzheimers                            : 1
 AMA                                   : 1
 amanda_mull                           : 1
+amanita_design                        : 1 : TO_CHECK
 AMAS                                  : 1
 amateurs                              : 2
 AMaze2018                             : 1
@@ -518,6 +582,7 @@ AMaze2019                             : 1
 amazon                                : 107
 amazon_wishlist                       : 1
 ambassador                            : 1
+ambedkar                              : 1 : TO_CHECK
 ambien                                : 1
 ambience                              : 1
 ambient                               : 5
@@ -534,8 +599,10 @@ amdahl_law                            : 1
 AMELI                                 : 3
 amendments                            : 1
 america                               : 100
+american_academy_of_pediatrics        : 1 : TO_CHECK
 american_affairs_journal              : 1
 american_anthropology                 : 1
+american_democracy                    : 1 : TO_CHECK
 american_dream                        : 2
 american_economic_association         : 2
 american_enterprisse_institute        : 1
@@ -544,18 +611,23 @@ american_exceptionalism               : 6
 american_heartland                    : 1
 american_historian                    : 1
 american_identity_movement            : 1
+american_indian                       : 2 : TO_CHECK
 american_indian_lore                  : 1
 american_interest                     : 1
 american_labyrinth                    : 1
+american_law                          : 1 : TO_CHECK
 american_legislative_exchange_council : 1
 american_nightmare                    : 1
 american_origami                      : 2
 american_patriots                     : 2
+american_post_modernism               : 1 : TO_CHECK
 american_progress                     : 3
+american_revolution                   : 1 : TO_CHECK
 american_south                        : 1
 americas                              : 1
 americas_army                         : 1
 amir_worship                          : 1
+AMIRIS                                : 1 : TO_CHECK
 amish                                 : 1
 amistad                               : 2
 ammonia                               : 1
@@ -569,12 +641,14 @@ amsterdam                             : 3
 amtrak                                : 3
 AMTs                                  : 1
 amuse                                 : 1
+amw                                   : 1 : TO_CHECK
 amzon                                 : 1   : amazon
 anaconda                              : 2
 anagnorisis                           : 1
 analogue                              : 1
 analogy                               : 11
 analysis                              : 194
+analysis_of_options                   : 1 : TO_CHECK
 analytic_hierarchy                    : 1
 analytic_hierarchy_process            : 1
 analytic_memos                        : 1
@@ -582,12 +656,16 @@ analytic_philosophy                   : 1
 analytic_pragmatism                   : 1
 analytical_frameworks                 : 1
 analytical_methods                    : 1
+analytical_modeling                   : 1 : TO_CHECK
 analytics                             : 1
 anaphora                              : 5
 anarchism                             : 1
 anarchist_cookbook                    : 1
+anarchist_economics                   : 1 : TO_CHECK
 anarchy                               : 5
 anarchy_online                        : 1
+anastatia_opara                       : 1 : TO_CHECK
+anatolia                              : 1 : TO_CHECK
 anatomy                               : 2
 anaxgoras                             : 1
 ancestral_knowledge                   : 1
@@ -595,6 +673,7 @@ ancestry                              : 8
 anchor_effect                         : 1
 anchorage                             : 2
 anchoring                             : 1
+ancient_greece                        : 1 : TO_CHECK
 ancient_lights                        : 1
 ancient_world                         : 1
 and_the_band_played_on                : 1
@@ -646,6 +725,7 @@ Answers_magazine                      : 1
 ANT                                   : 1
 ant                                   : 3
 ant_colony                            : 2
+antagonism                            : 1 : TO_CHECK
 antarctica                            : 1
 antartica                             : 1   : antarctica
 ANTE                                  : 1
@@ -661,6 +741,7 @@ anthropology_of_science               : 1
 anthropomorphism                      : 2
 anthrosource                          : 1
 anti_abortion                         : 2
+anti_authoritarianism                 : 1 : TO_CHECK
 anti_biotics                          : 1
 anti_blackness                        : 2
 anti_depressants                      : 1
@@ -696,15 +777,19 @@ anticipatory_behavior                 : 1
 antidepressants                       : 1
 antifa                                : 5
 antifascism                           : 2   : antifa
+antigone_davis                        : 1 : TO_CHECK
 antihero                              : 1
 Antimining                            : 1   : anti_mining
 antipatterns                          : 1   : anti_patterns
+antiquary                             : 1 : TO_CHECK
 antiques                              : 2
+antiquity                             : 1 : TO_CHECK
 antiracism                            : 3   : anti_racism
 antirez                               : 1
 antisemitism                          : 13  : anti_semitism
 antisocial                            : 3   : anti_social
 antisocial_punishment                 : 1   : anti_social_punishment
+antisthenes                           : 1 : TO_CHECK
 antitrust                             : 2   : anti_trust
 antivax                               : 1   : anti_vax
 antlr                                 : 22
@@ -721,9 +806,12 @@ AORML                                 : 1
 AORTA                                 : 1
 AOSE                                  : 3
 AOSF                                  : 1
+aoteroa                               : 1 : TO_CHECK
+ap_stylebook                          : 1 : TO_CHECK
 APALACHE                              : 1
 apartheid                             : 13
 apartments                            : 2
+aphex_twin                            : 2 : TO_CHECK
 API                                   : 11
 api                                   : 45
 api_centric                           : 1
@@ -759,6 +847,7 @@ applicative                           : 1
 applicative_functors                  : 1
 applied_economics                     : 1
 applied_health_research               : 1
+applied_linguistics                   : 1 : TO_CHECK
 appointment_primer                    : 2
 appointments                          : 1
 appraisal                             : 1
@@ -773,15 +862,19 @@ aquaculture                           : 1
 aquaponics                            : 1
 aquarium                              : 1
 aquifers                              : 1
+aquinas                               : 1 : TO_CHECK
 AR_15                                 : 1
 ar_15                                 : 1   : AR_15
 arab                                  : 1
 arab_african_summit                   : 1
 arab_image_foundation                 : 1
 arab_spring                           : 5
+arab_television                       : 1 : TO_CHECK
 arabia                                : 1
 arabic                                : 6
 arabic_food                           : 1
+aravind_eye_care                      : 1 : TO_CHECK
+arbitrage                             : 2 : TO_CHECK
 arbitrary_rules                       : 1
 arbitration                           : 1
 arbitration_methods                   : 1
@@ -805,14 +898,17 @@ architectural_ai                      : 1
 architectural_debt                    : 1
 architectural_intelligene             : 1
 architecture                          : 219
+architecture_md                       : 1 : TO_CHECK
 architecture_of_entertainment         : 1
 architecture_of_tyranny               : 1
 architectures                         : 1   : architecture
 architeture                           : 1   : architecture
 architeuthis                          : 1
 archival_history                      : 1
+archival_rediscription                : 1 : TO_CHECK
 archive                               : 79
 archives                              : 3   : archive
+archiving                             : 2 : TO_CHECK
 archivists                            : 1
 archtiecture                          : 1   : architecture
 arcology                              : 1
@@ -820,14 +916,18 @@ arctic                                : 4
 arduino                               : 1
 areaware                              : 1
 areca                                 : 2
+arendy                                : 1 : TO_CHECK
 areo_magazine                         : 1
 aresthetics                           : 1
 ARG                                   : 2
+argenis_hurtado_moreno                : 1 : TO_CHECK
 argentina                             : 3
+argentinia                            : 1 : TO_CHECK
 argparse                              : 1
 argument                              : 7
 argument_interchange                  : 1
 argumentation                         : 41
+argumentation_theory                  : 1 : TO_CHECK
 Argunet                               : 1
 ariel                                 : 1
 aristocracy                           : 1
@@ -861,6 +961,7 @@ arrows                                : 2
 ars_technica                          : 65
 arse                                  : 1
 arsenic                               : 1
+arson                                 : 1 : TO_CHECK
 arsonist_myth                         : 1
 arstechnica                           : 1
 art                                   : 802
@@ -870,24 +971,32 @@ art_history                           : 2
 art_newspaper                         : 1
 art_nouveau                           : 1
 art_process                           : 1
+ART_SHTA                              : 1 : TO_CHECK
+art_spiegelman                        : 1 : TO_CHECK
 art_theft                             : 2
 art_tutorial                          : 1
+artefact                              : 1 : TO_CHECK
 artefacts                             : 1
 arthritis                             : 1
+arthur_mitchell                       : 1 : TO_CHECK
 artic_weasels                         : 1
 article                               : 38
 articles                              : 1
+artie_ojeda                           : 1 : TO_CHECK
 artifact                              : 4
 artifacts                             : 33
 artifice_of_intelligence              : 1
 artificial                            : 2
+artificial_agents                     : 1 : TO_CHECK
 artificial_chemistry                  : 1
 artificial_consciousness              : 1
 artificial_immune_system              : 1
 artificial_intelligence               : 6
 artificial_lawyer                     : 1
 artificial_life                       : 1
+artificial_moral_agents               : 1 : TO_CHECK
 artificial_negativity                 : 1
+artificial_slaves                     : 1 : TO_CHECK
 artificial_societies                  : 13
 artificial_society                    : 5
 artificial_systems                    : 2
@@ -900,15 +1009,20 @@ artist_monograms                      : 1
 arts                                  : 2
 artshare                              : 1
 artstation                            : 3
+arunachal_pradesh                     : 1 : TO_CHECK
+arunanchal_pradesh                    : 1 : TO_CHECK
+arundhati_roy                         : 1 : TO_CHECK
 ARV                                   : 1
 arxiv                                 : 30
 aryan_nation                          : 4
 aryan_nations                         : 1   : aryan_nation
+asa_hutchinson                        : 1 : TO_CHECK
 ASC_inclusion                         : 1
 asceticism                            : 1
 ascii                                 : 2
 ascii_art                             : 1
 ASCS                                  : 1
+ASD                                   : 1 : TO_CHECK
 aseprite                              : 1
 asexual                               : 1
 asherons_call                         : 1
@@ -924,7 +1038,9 @@ AspectJ                               : 3
 aspects                               : 6   : aspect
 aspergers                             : 1
 aspiration                            : 1
+aspirational_work                     : 1 : TO_CHECK
 ASSA                                  : 1
+assam                                 : 3 : TO_CHECK
 assassination                         : 7
 assassins_creed                       : 5
 assault                               : 4
@@ -940,6 +1056,7 @@ asset_generator                       : 1
 asset_store                           : 1
 assets                                : 97
 assholes                              : 1
+assia_djebar                          : 1 : TO_CHECK
 assignment                            : 1
 assimilation                          : 1
 assistant                             : 1
@@ -949,7 +1066,9 @@ association_rule                      : 1
 association_rules                     : 1 : association_rule
 assumption                            : 2
 assumptions                           : 1   : assumption
+assurance                             : 1 : TO_CHECK
 assyria                               : 1
+ast                                   : 3 : TO_CHECK
 AST                                   : 1
 asthetics                             : 1
 asthma                                : 3
@@ -969,6 +1088,7 @@ asynchrony                            : 1
 AT_and_T                              : 1
 atari                                 : 2
 ATF                                   : 1
+athabasca_chipewyan                   : 1 : TO_CHECK
 atheism                               : 9
 atheletes                             : 2   : athletes
 atheltics                             : 1   : athletics
@@ -976,6 +1096,7 @@ athens                                : 1
 atherton                              : 1
 athletes                              : 2
 athletics                             : 5
+AThOS                                 : 1 : TO_CHECK
 athropology                           : 1   : anthropology
 ations                                : 2
 ativity_theory                        : 1
@@ -998,6 +1119,7 @@ atomic_force_microscopy               : 1
 atomization                           : 1
 atomspace                             : 1
 atomwaffen                            : 2
+atoss_abrahamian                      : 1 : TO_CHECK
 atrocities                            : 1   : atrocity
 atrocity                              : 2
 atrocity_engineering                  : 1
@@ -1012,6 +1134,7 @@ attention                             : 19
 attention_economy                     : 2
 attenton                              : 1   : attention
 attitude                              : 10
+ATTL                                  : 1 : TO_CHECK
 attorney_general                      : 1
 attorneys                             : 1
 attractors                            : 1
@@ -1021,6 +1144,7 @@ attrition                             : 1
 attrs                                 : 1
 auction                               : 3
 auction_block                         : 1
+auction_houses                        : 1 : TO_CHECK
 auctions                              : 10
 audible                               : 1
 audience                              : 2
@@ -1038,6 +1162,9 @@ audobon                               : 1
 Augmented reality                     : 1   : augmented_reality
 augmented_reality                     : 1
 augsburg                              : 1
+auguste_comte                         : 4 : TO_CHECK
+augustine                             : 1 : TO_CHECK
+augustus_osborne_lamplough            : 1 : TO_CHECK
 AUML                                  : 1
 aunt_jemima                           : 1
 aurality                              : 1
@@ -1047,6 +1174,9 @@ austerity                             : 20
 austerity_bites                       : 1
 austerity_grooming                    : 2
 austin                                : 1
+austin_frakt                          : 1 : TO_CHECK
+austin_jenkins                        : 1 : TO_CHECK
+australasia                           : 1 : TO_CHECK
 australia                             : 44
 austria                               : 3
 austrian_school                       : 1
@@ -1072,6 +1202,7 @@ authors_guild                         : 1
 authorship                            : 8
 autions                               : 2
 autism                                : 33
+autism_speaks                         : 1 : TO_CHECK
 auto_complete                         : 3
 auto_encoders                         : 1
 auto_pilot                            : 1
@@ -1082,21 +1213,26 @@ autocomplete                          : 1
 autocracy                             : 2
 autodesk                              : 2
 autoencoder                           : 1
+autoethnography                       : 1 : TO_CHECK
 autogynephilia                        : 2
 automata                              : 6
 automated                             : 1
 automated_debugging                   : 1
+automated_decision_making             : 1 : TO_CHECK
 automated_hiring                      : 1
 automated_programming                 : 1
+automated_rationale_generation        : 1 : TO_CHECK
 automated_reasoning                   : 1
 automated_systems                     : 1
 automated_testing                     : 1
 automated_theft                       : 2
 automatic_differentiation             : 1
+automatic_knowledge_tracing           : 1 : TO_CHECK
 automatic_theorem_proving             : 1
 automaticity                          : 2
 automating_inequality                 : 1
 automation                            : 9
+automats                              : 1 : TO_CHECK
 automotive                            : 1
 autonomis                             : 1   : automation
 autonomous                            : 1
@@ -1113,6 +1249,7 @@ autopoiesis                           : 1
 Autopoiesis                           : 1   : autopoiesis
 autostraddle                          : 1
 autotranslucence                      : 1
+autumn_peltier                        : 2 : TO_CHECK
 avant_garde                           : 2
 avatar                                : 10
 avataritis                            : 1
@@ -1120,6 +1257,7 @@ avatars                               : 14  : avatar
 avengers                              : 3
 averaging                             : 1
 averroes                              : 1
+avery_alder                           : 1 : TO_CHECK
 aviation                              : 2
 avicenna                              : 1
 AVIE                                  : 1
@@ -1130,14 +1268,22 @@ awareness                             : 9
 awk                                   : 3
 awkward                               : 1
 aws                                   : 1
+axel_hartmann                         : 1 : TO_CHECK
 axes                                  : 1
 axidraw                               : 2
+axiology                              : 1 : TO_CHECK
+axiomatic_basis_for_communication     : 1 : TO_CHECK
 axiomatic_logic                       : 1
 axiomatic_semantics                   : 4
 axioms                                : 1
 axios                                 : 3
 axtell                                : 1
+aya_hirata_kimura                     : 1 : TO_CHECK
+ayanna_pressley                       : 2 : TO_CHECK
+ayatollah_khomeini                    : 1 : TO_CHECK
+ayla_jean_yackley                     : 2 : TO_CHECK
 aymara                                : 1
+ayn_rand                              : 2 : TO_CHECK
 aztec                                 : 1
 aztecs                                : 1   : aztec
 azure                                 : 1

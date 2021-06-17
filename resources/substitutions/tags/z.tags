@@ -1,40 +1,60 @@
-** z               :cleaned:
-z_transform        : 1
-zalo               : 1
-zambia             : 4
-zanzibar           : 1
-zazen              : 1
-zbrush             : 2
-ZChaff             : 1
-zelda              : 23
-zelo_street        : 1
-zen                : 3
-zeno               : 2
-zeno_clash         : 1
-zepplins           : 1
-zero_punctuation   : 1
-zero_sum           : 1
-zero_tolerance     : 2
-zettelkasten       : 2 : zettlekasten
-zettlekasten       : 1
-zillow             : 2
-zimbabwe           : 3
-zine               : 5
-zion_national_park : 1
-zionism            : 7
-zipfs_law          : 1
-zlin               : 1
-Zocalo             : 1
-zodiac             : 1
-zombies            : 4
-zone_of_exception  : 1
-zoning             : 14
-zoo                : 1
-zoom               : 5
-zoombomb           : 2
-zoombombing        : 3 : zoombomb
-zoomer             : 1
-zoopolis           : 1
-zork               : 1
-zotzcomic          : 1
-zouassi            : 1
+z_specification       : 1 : TO_CHECK
+z_transform           : 1
+zachary_macaulay      : 1 : TO_CHECK
+zachary_pleat         : 1 : TO_CHECK
+zak_smith             : 1 : TO_CHECK
+zalo                  : 1
+zambia                : 4
+zanzibar              : 1
+zazen                 : 1
+zbrush                : 2
+ZChaff                : 1
+zdzislaw_beksinski    : 3 : TO_CHECK
+zebrafish             : 1 : TO_CHECK
+zelda                 : 23
+zelo_street           : 1
+zen                   : 3
+zeno                  : 2
+zeno_clash            : 1
+zepplins              : 1
+zero_punctuation      : 1
+zero_sum              : 1
+zero_tolerance        : 2
+zero_tolerance_policy : 1 : TO_CHECK
+zettelkasten          : 2 : zettlekasten
+zettlekasten          : 1
+zeus                  : 1 : TO_CHECK
+zeynep_tufekci        : 4 : TO_CHECK
+zhuo_chen             : 1 : TO_CHECK
+zigmunt_bauman        : 1 : TO_CHECK
+zillow                : 2
+zimbabwe              : 3
+zine                  : 5
+zion_national_park    : 1
+zionism               : 7
+zipfs_law             : 1
+zipporah_arielle      : 1 : TO_CHECK
+ziyad_marar           : 1 : TO_CHECK
+zlin                  : 1
+Zocalo                : 1
+zodiac                : 1
+zoe_williams          : 1 : TO_CHECK
+zolan_kanno_youngs    : 1 : TO_CHECK
+zombies               : 4
+zone_of_exception     : 1
+zone_of_irrelevance   : 1 : TO_CHECK
+zoning                : 14
+zoo                   : 1
+zoology               : 1 : TO_CHECK
+zoom                  : 5
+zoombomb              : 2
+zoombombing           : 3 : zoombomb
+zoomer                : 1
+zoopolis              : 1
+zora_neale_hurston    : 3 : TO_CHECK
+zork                  : 1
+zotzcomic             : 1
+zouassi               : 1
+zuckerberg            : 1 : TO_CHECK
+zucman                : 1 : TO_CHECK
+zynep_tufecki         : 1 : TO_CHECK

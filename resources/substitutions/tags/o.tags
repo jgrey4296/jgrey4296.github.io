@@ -1,4 +1,5 @@
-** o                              :cleaned:
+O-MaSE                            : 2 : TO_CHECK
+O3F                               : 1 : TO_CHECK
 o_hare                            : 1
 oakland                           : 2
 OAN                               : 1
@@ -6,6 +7,7 @@ oasis                             : 1
 oath_keepers                      : 1
 oaths                             : 1
 oatmeal                           : 1
+obama                             : 8 : TO_CHECK
 obama_care                        : 10
 OBDA                              : 1
 obduction                         : 1
@@ -21,10 +23,13 @@ obituary                          : 5
 objc                              : 9  : objective_c
 object_calculus                   : 1
 object_oriented                   : 1  : object_oriented_programming
+object_oriented_logic             : 1 : TO_CHECK
+object_oriented_ontology          : 1 : TO_CHECK
 object_oriented_programming       : 3
 object_tracking                   : 1
 objectification                   : 1
 objective_c                       : 9
+objective_functioning             : 1 : TO_CHECK
 objectivity                       : 4
 objects                           : 1
 obligations                       : 8
@@ -40,6 +45,7 @@ obseration                        : 1  : observation
 observability                     : 4  : observation
 observable                        : 9  : observation
 observation                       : 9
+observational_studies             : 1 : TO_CHECK
 observer                          : 4  : observation
 obsidian                          : 3
 obsolecence                       : 1  : obsolescence
@@ -49,6 +55,7 @@ obstruction                       : 8
 obstruction_of_justice            : 3
 obviousness                       : 4
 ocaml                             : 2
+ocasio_cortez                     : 7 : TO_CHECK
 occult                            : 6
 occultism                         : 1  : occult
 occupation                        : 3
@@ -61,11 +68,13 @@ occupy_wallstreet                 : 1  : occupy_wall_street
 occur_check                       : 1
 OCeAN                             : 2
 ocean                             : 2
+oceanic_time                      : 1 : TO_CHECK
 oceanography                      : 1
 ocial                             : 1  : social
 ockham                            : 2
 Oconomowoc                        : 1
 octagon_therapeutics              : 1
+octavia_butler                    : 5 : TO_CHECK
 octonions                         : 1
 octopus                           : 3
 octopus_cards                     : 1
@@ -77,32 +86,39 @@ oddity                            : 1
 ODE                               : 1
 ode                               : 2  : ODE
 ODIS                              : 1
+odisha                            : 1 : TO_CHECK
 ODMAS                             : 1
+odo_of_cluny                      : 1 : TO_CHECK
 odour                             : 2
 odyssey                           : 1
 oedipus                           : 1
 ofcom                             : 1
 off_line                          : 1
 off_policy_learning               : 1
+off_record                        : 1 : TO_CHECK
 off_the_record                    : 1
 off_topic                         : 1
 offenders                         : 2
 offense                           : 7
+offer                             : 1 : TO_CHECK
 office                            : 1
 office_culture                    : 1
 office_design                     : 1
 office_of_technology_assessment   : 1
 offices                           : 1  : office
 offline                           : 1
+offlineimap                       : 1 : TO_CHECK
 offworld                          : 2
 offworld_trading_colony           : 1
 ofom                              : 1  : ofcom
 ogoni19                           : 1
 ogre                              : 11
 oh_joy_sex_toy                    : 1
+oh_my_git                         : 1 : TO_CHECK
 ohchr                             : 1  : UN_human_rights
 oherence                          : 1  : coherence
 ohio                              : 28
+ohio_university                   : 1 : TO_CHECK
 oia                               : 1
 OIG                               : 5
 oil                               : 19
@@ -116,6 +132,7 @@ oklahoma                          : 10
 OLAP                              : 1
 old_bailey                        : 2
 old_drift                         : 1
+old_people                        : 1 : TO_CHECK
 old_terrorism                     : 1
 old_tv                            : 1
 oldenburg                         : 1
@@ -123,10 +140,13 @@ oldschool                         : 1
 olfactory                         : 1
 oligarchies                       : 1 : oligarchy
 oligarchy                         : 1
+olson                             : 1 : TO_CHECK
 olympics                          : 2
 OMACS                             : 1
 omaha                             : 1
 OMeta                             : 1
+omicron_point                     : 1 : TO_CHECK
+omid_safi                         : 1 : TO_CHECK
 omiya                             : 1
 OML                               : 1
 OMNI                              : 1
@@ -140,6 +160,7 @@ one_child_policy                  : 1
 one_hour_one_life                 : 6
 one_page_games                    : 1
 one_password                      : 1
+one_shot_rule_learning            : 1 : TO_CHECK
 onesie                            : 1
 onesimus                          : 2
 onesoil                           : 1
@@ -154,9 +175,12 @@ online_ads                        : 1
 online_advertising                : 17
 online_aggregation                : 1
 Online_Aggregation                : 1  : online_aggregation
+online_article                    : 1 : TO_CHECK
+online_behaviour                  : 1 : TO_CHECK
 online_class                      : 1
 online_comments                   : 1
 online_communities                : 1
+online_community                  : 1 : TO_CHECK
 online_courses                    : 1
 online_culture                    : 1
 online_education                  : 2
@@ -172,14 +196,19 @@ ONS                               : 1
 ontobee                           : 1
 ontofox                           : 1
 ontography                        : 1
+ontolex_lemon                     : 1 : TO_CHECK
+ontological_neutrality            : 1 : TO_CHECK
+ontological_priors                : 2 : TO_CHECK
 ontological_semantics             : 1
 ontological_shifts                : 1
 ontological_turn                  : 5
 ontologies                        : 1  : ontology
 ontology                          : 68
+ontology_based_data_access        : 3 : TO_CHECK
 ontology_refinement               : 1
 OntoMorph                         : 1
 ontorat                           : 1
+OO_logic                          : 2 : TO_CHECK
 OODA                              : 1
 OOjDREW                           : 1
 OOP                               : 4
@@ -196,6 +225,7 @@ open_concepts                     : 1
 open_culture                      : 46
 open_data                         : 2
 open_doc                          : 1
+open_economy                      : 1 : TO_CHECK
 open_gl                           : 26
 open_letter                       : 3
 open_markets                      : 1
@@ -209,6 +239,7 @@ open_plan_office                  : 1
 open_protocol                     : 1
 open_records                      : 1
 open_relationships                : 1
+open_science                      : 1 : TO_CHECK
 open_secrets                      : 1
 open_societies                    : 1  : open_society
 open_society                      : 1
@@ -227,6 +258,7 @@ open_world_games                  : 1
 open_worlds                       : 1 : open_world
 opencog                           : 2  : open_cog
 opendoc                           : 1  : open_doc
+openflow                          : 1 : TO_CHECK
 opengl                            : 26 : open_gl
 openPGP                           : 1  : open_pgp
 opensecrets                       : 1  : open_secrets
@@ -247,19 +279,25 @@ operational_semantics             : 14
 operationalisation                : 1
 operationalization                : 1  : operationalisation
 operations                        : 2
+operations_management             : 1 : TO_CHECK
 operations_research               : 2
 operators                         : 1
 OperettA                          : 2
 opinion                           : 72
 opinion_dynamics                  : 1
 opinion_entrepreneurs             : 1
+opinion_leader                    : 1 : TO_CHECK
 opinion_section                   : 1
+opinion_seeker                    : 1 : TO_CHECK
 opinion_threads                   : 1
 opinions                          : 6  : opinion
 opioid                            : 20
 opioid_epidemic                   : 3
 opioids                           : 17 : opioid
+opium                             : 4 : TO_CHECK
+opm                               : 1 : TO_CHECK
 opponent_modeling                 : 1
+opportunistic_planning            : 1 : TO_CHECK
 opportunites                      : 1  : opportunities
 opportunities                     : 1
 opportunity_effct                 : 1  : opportunity_effect
@@ -284,9 +322,12 @@ optmisation                       : 1  : optimisation
 ORA4MAS                           : 4
 oracle                            : 1
 oracles                           : 1  : oracle
+oral_culture                      : 1 : TO_CHECK
 oral_histor                       : 1  : oral_history
 oral_history                      : 4
+oral_literature                   : 1 : TO_CHECK
 oral_tradition                    : 1  : oral_history
+orangutan                         : 1 : TO_CHECK
 orbitor                           : 1
 orca                              : 1
 orchestra                         : 3
@@ -295,7 +336,9 @@ orcs                              : 1
 order                             : 1
 order_coherence                   : 1
 order_sorted_logic                : 1
+order_theory                      : 1 : TO_CHECK
 ordered_choice_logic              : 1
+ordering                          : 2 : TO_CHECK
 ordinal                           : 1
 ordinal_rank                      : 1
 ordinance                         : 6
@@ -303,12 +346,14 @@ ordinary_times                    : 1
 oregon                            : 5
 oregon_trail                      : 1
 oreilly                           : 3
+oren_nimni                        : 1 : TO_CHECK
 org                               : 3
 org-babe                          : 1  : org_babel
 org-mode                          : 4  : org_mode
 org_babel                         : 1
 org_mode                          : 4
 org_roam                          : 2
+orgahead                          : 2 : TO_CHECK
 organ_donation                    : 2
 organ_harvesting                  : 1
 organ_pipe_cactus                 : 1
@@ -316,9 +361,13 @@ organ_transplantation             : 1
 organ_transplants                 : 1  : organ_donation
 organiations                      : 1  : organisations
 organic_farming                   : 1
+organisatio                       : 1 : TO_CHECK
 organisation                      : 20
+organisation_of_action            : 1 : TO_CHECK
+organisation_of_knowledge         : 1 : TO_CHECK
 organisation_oriented_programming : 1
 organisation_studies              : 2
+organisation_work                 : 1 : TO_CHECK
 organisational_behaviour          : 1
 organisational_change             : 1
 organisational_control            : 1
@@ -328,12 +377,15 @@ organisational_logic              : 1
 organisations                     : 5  : organisation
 organised_crime                   : 1
 organised_sound                   : 1
+organising                        : 1 : TO_CHECK
 organization                      : 81 : organisation
 organization studies              : 1  : organisation_studies
 organization_oriented_programming : 1  : organisation_oriented_programming
 organizational_behavior           : 1  : organisational_behaviour
 organizational_capacity           : 1
 Organizational_Control            : 1  : organisational_control
+organizational_culture            : 1 : TO_CHECK
+organizational_fields             : 1 : TO_CHECK
 organizational_learning           : 1  : organisational_learning
 organizational_logic              : 1  : organisational_logic
 organizational_practice           : 1
@@ -354,10 +406,14 @@ ornamentation                     : 1
 orphan_works                      : 1
 orphanage                         : 1
 orphans                           : 1
+orrin_hatch                       : 1 : TO_CHECK
 ortho                             : 1
 orthodox                          : 1
 orthodoxy                         : 1
+orthogenesis                      : 1 : TO_CHECK
 orthonormal                       : 1
+orval_faubus                      : 1 : TO_CHECK
+orwell                            : 1 : TO_CHECK
 OSC                               : 1  : osc
 osc                               : 10
 OSCAR                             : 1
@@ -374,13 +430,17 @@ ostracism                         : 1
 OSX                               : 23
 osx                               : 23 : OSX
 Otello                            : 1
+othello                           : 1 : TO_CHECK
 other                             : 1
 other_side                        : 1
+otis_wright                       : 3 : TO_CHECK
 OTP                               : 1
 otters                            : 2
+otto_hoppe                        : 1 : TO_CHECK
 ottolenghi                        : 1
 ottoman                           : 2  : ottoman_empire
 ottoman_empire                    : 3
+ottomoan_empire                   : 1 : TO_CHECK
 our_world_in_data                 : 2
 out                               : 2
 out_group                         : 1
@@ -395,7 +455,9 @@ outer_worlds                      : 1
 outlast                           : 1
 outliers                          : 1
 outlived_lives                    : 1
+output_directed_programming       : 1 : TO_CHECK
 OutRun                            : 1
+outsider                          : 1 : TO_CHECK
 outsourcing                       : 1
 ovarian_cancer                    : 1
 over_40                           : 1
@@ -410,6 +472,7 @@ overhead                          : 2
 overhearing                       : 2
 overhyped_ai                      : 1
 overlapping                       : 1
+overlapping_generations           : 1 : TO_CHECK
 overmedicalization                : 1  : over_medicalisation
 overpopulation                    : 6
 overseas_fees                     : 1
@@ -421,6 +484,8 @@ overview                          : 2
 overwork                          : 1
 ovia                              : 1
 ovrfitting                        : 1  : overfitting
+owen_bowcott                      : 1 : TO_CHECK
+owen_jones                        : 1 : TO_CHECK
 owl                               : 2  : OWL
 OWL                               : 6
 owl_fisher                        : 2
@@ -430,11 +495,14 @@ ownership                         : 8
 oxfam                             : 1
 oxford                            : 2
 oxford_handbook                   : 1
+oxford_textbook                   : 1 : TO_CHECK
 oxford_uni_press                  : 1
 oxford_univeersity                : 1  : oxford_university
 oxo                               : 1
 oxycontin                         : 1
 oxygen_bar                        : 1
+oyez                              : 1 : TO_CHECK
 Oz                                : 3
 ozone_layer                       : 1
 ozy                               : 1
+ozymandias                        : 1 : TO_CHECK

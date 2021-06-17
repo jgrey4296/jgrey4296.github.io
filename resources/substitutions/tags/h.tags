@@ -1,7 +1,11 @@
-** h                           :cleaned:
 h1n1                           : 1
+h_g_wells                      : 1 : TO_CHECK
+h_h_asquith                    : 1 : TO_CHECK
+h_p_lovecraft                  : 6 : TO_CHECK
 h_r_4174                       : 2
+h_r_geiger                     : 1 : TO_CHECK
 haaretz                        : 3
+habermas                       : 6 : TO_CHECK
 habit                          : 4
 habit_formation                : 1
 habitat                        : 1
@@ -13,6 +17,7 @@ hachette                       : 1
 hachijojima                    : 1
 hack                           : 1
 hackathon                      : 1
+HACKER                         : 1 : TO_CHECK
 hacker                         : 2
 hacker_news                    : 2
 hackernoon                     : 1
@@ -21,11 +26,14 @@ hacking                        : 32
 hacks                          : 1   : hack
 hacktivism                     : 1
 haddock                        : 1
+hadith_transmission            : 1 : TO_CHECK
 hadoop                         : 2
 haemophiliac                   : 1
 haferkamp                      : 1
 Hafez                          : 1
 hagerstrang                    : 1
+hagiography                    : 1 : TO_CHECK
+hailey_gavin                   : 1 : TO_CHECK
 hair                           : 7
 hair_styles                    : 2   : hair
 hair_styling                   : 2   : hair
@@ -35,11 +43,16 @@ hairstyle                      : 1   : hair
 hairstyles                     : 2   : hair
 haiti                          : 6
 hakai_magazine                 : 1
+hakim_bey                      : 1 : TO_CHECK
 halakha                        : 1
+halcyon_lawrence               : 1 : TO_CHECK
+HALEF                          : 1 : TO_CHECK
 half-life                      : 2   : half_life
 half_life                      : 4
 haliburton                     : 1
 haliehana                      : 1   : haliehana_stepetin
+haliehana_stepetin             : 2 : TO_CHECK
+halim_el_dabh                  : 1 : TO_CHECK
 hall                           : 1
 halloween                      : 3
 hallucination                  : 2
@@ -48,12 +61,15 @@ halo                           : 3
 halo_2                         : 2
 hama                           : 1
 hamas                          : 1
+hamed_aleaziz                  : 1 : TO_CHECK
+hamilton                       : 1 : TO_CHECK
 hamilton_project               : 1
 hamlet                         : 2
 hamlet_on_the_holodeck         : 1
 hamming_distance               : 2
 hammurabi                      : 1
 hampshire                      : 1
+hanabi                         : 1 : TO_CHECK
 handbook                       : 2
 handheld                       : 1
 handheld_games                 : 1
@@ -65,6 +81,7 @@ handmade_pixels                : 1
 handmaids_tale                 : 3
 hands                          : 3
 handwriting                    : 1
+hannibal                       : 1 : TO_CHECK
 hannity_sources                : 1
 HannitySources                 : 1   : hannity_sources
 hansard                        : 1
@@ -74,6 +91,7 @@ happy_accidents                : 1
 Happy_Network                  : 1
 haptics                        : 8
 harassment                     : 19
+haraway                        : 1 : TO_CHECK
 hard_scifi                     : 1
 hardball                       : 1
 hardcore                       : 1
@@ -117,18 +135,22 @@ haute_cuisine                  : 1
 havasu_falls                   : 1
 havasupai                      : 1
 hawaii                         : 6
+hayek                          : 2 : TO_CHECK
 hayward_fault                  : 1
 hazard                         : 1
+hazelnut                       : 1 : TO_CHECK
 hazelnut_bastille              : 1
 hazing                         : 1
 hazmat                         : 1
 hb_1215                        : 1
+HBCU                           : 1 : TO_CHECK
 hbo                            : 2
 hci                            : 26  : HCI
 HCI                            : 362
 hdrlicka                       : 1
 head_scarf                     : 3
 headdress                      : 1
+headings                       : 1 : TO_CHECK
 headlines                      : 5
 headscarves                    : 3   : head_scarf
 healing                        : 3
@@ -158,6 +180,7 @@ heathrow                       : 1
 heatmap                        : 2
 heatstroke                     : 1
 heatwaves                      : 1   : heat_wave
+heaven                         : 1 : TO_CHECK
 heavens_vault                  : 2
 heavy_systems                  : 1
 hebbian                        : 1
@@ -168,9 +191,12 @@ hedgehog                       : 1
 hedges                         : 1   : hedge
 hedonic_games                  : 1
 hedonism                       : 2
+hegel                          : 7 : TO_CHECK
 hegemony                       : 6
+heidegger                      : 5 : TO_CHECK
 heirloom_seeds                 : 1
 heirs_property                 : 1
+heisenberg                     : 1 : TO_CHECK
 heist                          : 1
 hell                           : 2
 hellblade                      : 1
@@ -186,20 +212,24 @@ hepaestus                      : 1   : hephaestus
 hepatitis                      : 1
 hephaestus                     : 1
 HERA                           : 2
+heraclitus                     : 1 : TO_CHECK
 heraldry                       : 2
 herbrand_logic                 : 1
 herbs                          : 2
+herd_behaviour                 : 1 : TO_CHECK
 herds                          : 1
 heresy                         : 1
 heritability                   : 1
 heritage                       : 3
 heritage_foundation            : 2
 heritage_plan                  : 1
+hermeneutic_reading            : 1 : TO_CHECK
 hermeneutics                   : 4
 hermenutics                    : 1   : hermeneutics
 hermetic_tradition             : 1
 hermetically_open_archive      : 1
 hermetism                      : 1
+hermine_ricketts               : 1 : TO_CHECK
 heroes                         : 1
 heroes_of_might_and_magic      : 1
 heroes_of_newerth              : 1
@@ -216,6 +246,7 @@ heteronormative                : 1   : heteronormativity
 heteronormativity              : 1   : heteronormativity
 heterosexuality                : 1
 heterotopias                   : 5
+hettie_obrien                  : 2 : TO_CHECK
 heuneburg                      : 1
 heuristic                      : 3   : heuristics
 heuristics                     : 21
@@ -223,14 +254,18 @@ hex                            : 3
 hex_game                       : 1
 hexagon                        : 2
 hexagonal                      : 1   : hexagon
+hexapod_robot                  : 1 : TO_CHECK
 hezbollah                      : 1
 HFSM                           : 1
 HHCR741                        : 1
 HHS                            : 4
 hicks_law                      : 1
 hidden                         : 1
+hidden_curriculum              : 2 : TO_CHECK
+hidden_figures                 : 1 : TO_CHECK
 hidden_mechanics               : 1
 hidden_object                  : 1
+hideo_kojima                   : 2 : TO_CHECK
 hiding                         : 2
 hierarchical_event_streams     : 1
 hierarchical_portfolio_search  : 1
@@ -239,6 +274,7 @@ hierarchy                      : 15
 hierarhcy                      : 1   : hierarchy
 hieroglyph                     : 1
 hieronymus_bos                 : 1   : hieronymus_bosch
+hieronymus_bosch               : 2 : TO_CHECK
 high_culture                   : 1
 high_dimensional_space         : 1
 high_dimensional_state_space   : 1
@@ -254,6 +290,8 @@ high_school                    : 1
 high_street                    : 1
 higher_dimensions              : 1
 higher_education               : 1
+higher_education_publishing    : 1 : TO_CHECK
+higher_order_evidence          : 1 : TO_CHECK
 higher_order_logic             : 1 : higher_ordered_logic
 higher_ordered_logic           : 1
 higher_ordered_logics          : 1   : higher_ordered_logic
@@ -264,15 +302,22 @@ highway_of_death               : 1
 highway_system                 : 1
 hijab                          : 2
 hijabi                         : 1   : hijab
+hillary_clinton                : 5 : TO_CHECK
+hillary_sargent                : 1 : TO_CHECK
 hillbilly                      : 1
 hillbilly_elegy                : 2
+hilsa_fish                     : 1 : TO_CHECK
+himachal_pradesh               : 2 : TO_CHECK
 hinderancces                   : 1   : hinderance
 hinderance                     : 1
+hindi                          : 1 : TO_CHECK
+hindiusm                       : 1 : TO_CHECK
 hindley-milner                 : 1   : hindley_milner
 hindley_milner                 : 19
 hindsight                      : 1
 hindu                          : 2   : hinduism
 hindu_business_line            : 1
+hindu_nationalism              : 1 : TO_CHECK
 hinduism                       : 3
 hindustan_times                : 1
 hip_hop                        : 2
@@ -280,9 +325,15 @@ HIPAA                          : 5   : HIPPA
 hipcrime_vocab                 : 1
 HIPPA                          : 1
 hippcratic_license             : 1   : hippocratic_license
+hippocrates                    : 1 : TO_CHECK
 hippocratic_license            : 1
 hippocratic_oath               : 1
+hippu_zukai                    : 1 : TO_CHECK
 hiring                         : 8
+hiro_ito                       : 1 : TO_CHECK
+hiroko_kubota                  : 1 : TO_CHECK
+hiroko_tabuchi                 : 2 : TO_CHECK
+his                            : 1 : TO_CHECK
 hispanic                       : 3
 hispanic_caucus                : 1
 histbook                       : 1   : history
@@ -291,28 +342,36 @@ historian                      : 3
 historians                     : 3   : historian
 historical                     : 32  : history
 historical_analysis            : 2
+historical_critique            : 1 : TO_CHECK
 historical_divergence          : 1
+historical_games               : 1 : TO_CHECK
+historical_imperative          : 1 : TO_CHECK
 historical_institutionalism    : 1
 historical_materialism         : 1
+historical_narcissism          : 1 : TO_CHECK
 historical_norms               : 1
 historical_reference           : 1
 historical_trauma              : 1
 historical_turn                : 1
 historical_war_crimes          : 1
+historiography                 : 7 : TO_CHECK
 history                        : 1271
 history_degree                 : 1
 history_of_ai                  : 1
 history_of_being               : 1
+history_of_english             : 1 : TO_CHECK
 history_of_racism              : 1
 history_of_science             : 2
 hit_and_run                    : 1
 hitchhikers_guide              : 4
 hitchikers_guide               : 8   : hitchhikers_guide
 hitchikers_guide_to_python     : 1
+hitler                         : 8 : TO_CHECK
 hitman                         : 6
 HIV                            : 17
 hiv                            : 4   : HIV
 hives                          : 1
+hizbullah                      : 1 : TO_CHECK
 HKB                            : 1
 HKBS                           : 1
 HLAI                           : 1
@@ -326,15 +385,20 @@ hoare                          : 2
 hoax                           : 3
 hobbes                         : 2
 hobbits                        : 1
+hobby                          : 1 : TO_CHECK
 hobby_lobby                    : 1
 hobo_signs                     : 1
 hockey                         : 1
+hoda_muthana                   : 2 : TO_CHECK
 hofeller_files                 : 1
+hohfeld                        : 1 : TO_CHECK
 hokkaido                       : 1
 HOL                            : 2
 holborn_viaduct                : 1
 holiday                        : 2
 holistic                       : 1
+holistic_view                  : 1 : TO_CHECK
+holly_yan                      : 1 : TO_CHECK
 hollywood                      : 3
 hollywood_reporter             : 3
 holmby_hills                   : 1
@@ -347,7 +411,10 @@ holon                          : 1
 holons                         : 2   : holon
 holy_blood                     : 1
 holy_roman_empire              : 2
+holy_trinity                   : 1 : TO_CHECK
 holywood                       : 3   : hollywood
+hom_types                      : 1 : TO_CHECK
+homan_square                   : 1 : TO_CHECK
 home                           : 2
 home_alone                     : 1
 home_brew                      : 1
@@ -367,10 +434,12 @@ homeowners_association         : 1
 homeownership                  : 1
 homer                          : 1
 Homer                          : 1   : homer
+homer_thornberry               : 1 : TO_CHECK
 homeschooling                  : 1   : home_schooling
 homesteading                   : 2
 homework                       : 1
 homicide                       : 1
+homo_poieticus                 : 1 : TO_CHECK
 homo_sapiens                   : 1
 homo_sociologicus              : 1
 homoeroticism                  : 1
@@ -390,6 +459,8 @@ honeypot                       : 1
 hong_kong                      : 23
 hong_kong_protests             : 4
 HongKongProtests               : 2   : hong_kong_protests
+honore_de_balzac               : 1 : TO_CHECK
+honour                         : 1 : TO_CHECK
 honour_killings                : 1
 honourifics                    : 1
 HOOD                           : 1
@@ -401,6 +472,7 @@ hookworm                       : 1
 hope                           : 1
 hopes_and_fears                : 1
 horizon_magazine               : 1
+horizon_zero_dawn              : 1 : TO_CHECK
 hormone                        : 1
 hormones                       : 4   : hormone
 horn_clause                    : 1
@@ -435,24 +507,33 @@ house_of_representatives       : 2
 house_oversight                : 1
 house_societies_model          : 1
 household                      : 1
+household_finance              : 1 : TO_CHECK
+household_waste                : 1 : TO_CHECK
 houseplants                    : 1
+housewife                      : 1 : TO_CHECK
 housework                      : 2
 housing                        : 56
 housing_authority              : 1
 housing_crisis                 : 5
 housing_policy                 : 1
+housing_programs               : 1 : TO_CHECK
+housing_waste                  : 1 : TO_CHECK
 houston                        : 7
 houston_chronicle              : 4
+how_behavior_spreads           : 1 : TO_CHECK
 how_much                       : 1
 how_music_works                : 2
 how_not_to_say_the_wrong_thing : 1
 how_to                         : 1
 how_to_read_papers             : 1
 how_we_get_to_next             : 2
+howard_s_becker                : 2 : TO_CHECK
+howard_zinn                    : 2 : TO_CHECK
 howls_moving_castle            : 1
 howmuch                        : 1   : how_much
 howwegettonext                 : 1   : how_we_get_to_next
 hp                             : 1
+hp_lovecraft                   : 1 : TO_CHECK
 hpe                            : 1
 hpoem                          : 1
 HPV                            : 1
@@ -481,21 +562,29 @@ http                           : 1
 HUAC                           : 1
 huamn_rights                   : 1 : human_rights
 hubble                         : 2
+hubert_dreyfus                 : 1 : TO_CHECK
+hubery_maga                    : 1 : TO_CHECK
+hubris                         : 1 : TO_CHECK
 hubs                           : 1
 hud                            : 1
+huey_newton                    : 1 : TO_CHECK
 huffington_post                : 38
 huffpo                         : 12  : huffington_post
+hugh_ferris                    : 1 : TO_CHECK
 hugo                           : 3
+hugo_seijas                    : 1 : TO_CHECK
 Human Values                   : 1 : human_values
 human_animal_relationships     : 1
 human_body_parts               : 1
 human_capital                  : 3
 human_centered                 : 1
+human_computation              : 1 : TO_CHECK
 human_computer_interaction     : 1
 human_density                  : 1
 human_evolution_games          : 1
 human_factors                  : 2
 human_focus                    : 1
+human_genome                   : 1 : TO_CHECK
 human_impacts                  : 1
 human_intelligence             : 2
 human_interest                 : 1
@@ -503,12 +592,16 @@ human_labour                   : 1
 human_population_history       : 1
 human_readability              : 1
 human_resources                : 1
+human_right                    : 1 : TO_CHECK
 human_rights                   : 31
+human_rights_campaign          : 1 : TO_CHECK
 human_rights_watch             : 3
 human_scale                    : 1
 human_scale_social_systems     : 1
 human_sociobiology             : 1
+human_subjects                 : 2 : TO_CHECK
 human_trafficking              : 9
+human_values                   : 1 : TO_CHECK
 humanism                       : 1
 humanistic_research            : 1
 humanitarianism                : 1
@@ -519,6 +612,8 @@ humans                         : 2
 Humans                         : 3   : humans
 humble                         : 1
 humble_bundle                  : 2
+hume                           : 1 : TO_CHECK
+Hume                           : 1 : TO_CHECK
 humiliation                    : 1
 humiliation_game               : 1
 humility                       : 1
@@ -534,9 +629,11 @@ hurricane                      : 2
 hurricane_katrina              : 3
 hurricanes                     : 9
 hybrid                         : 1
+hybrid_cuckoo                  : 1 : TO_CHECK
 hybrid_logics                  : 1
 hybrid_model_transformation    : 1
 hybrid_systems                 : 1
+hyde_smith                     : 1 : TO_CHECK
 HyDICE                         : 2
 hydra                          : 2
 hydra_patterns                 : 1
@@ -567,9 +664,11 @@ hyperrogue                     : 1
 hyperstition                   : 2
 hypertext                      : 18
 hypocrisy                      : 17
+hypothesis                     : 1 : TO_CHECK
 hypothesis_generation          : 1
 hypothesis_testing             : 7
 hypr_bdience                   : 1   : hyper_obedience
 hysterectomy                   : 2
+hysteresis                     : 1 : TO_CHECK
 hysteria                       : 1
 hysterical_literature          : 2

@@ -1,12 +1,17 @@
-** f                                     :cleaned:
 f#                                       : 1  : f_sharp
+F_logic                                  : 1 : TO_CHECK
 f_sharp                                  : 9
 FAA                                      : 1
+fabien_sanglard                          : 2 : TO_CHECK
 fable                                    : 4
 fable_3                                  : 1
 fabled_lands                             : 1
+fables                                   : 1 : TO_CHECK
 fabric                                   : 1
 fabric_swatch                            : 1
+fabrizio_salvador                        : 1 : TO_CHECK
+fabry_perot_resonator                    : 1 : TO_CHECK
+fabula                                   : 1 : TO_CHECK
 fabulist                                 : 1
 Fabulist                                 : 1  : fabulist
 facade                                   : 10
@@ -16,6 +21,7 @@ face_mask                                : 2
 face_masks                               : 7  : face_mask
 face_off                                 : 1
 face_recognition                         : 2
+Facebook                                 : 1 : TO_CHECK
 facebook                                 : 105
 facebook_live                            : 1
 faces                                    : 2
@@ -27,11 +33,16 @@ facial_recognition                       : 6
 facing_south                             : 1
 facsism                                  : 1  : fascism
 fact_check                               : 15
+fact_checking                            : 1 : TO_CHECK
 factcheck                                : 1  : fact_check
+facticity                                : 1 : TO_CHECK
 factions                                 : 3
+factor_analysis                          : 1 : TO_CHECK
+factorized_learning                      : 1 : TO_CHECK
 factors                                  : 2
 factory_acts                             : 1
 facts                                    : 3
+fadi_abu_saleh                           : 1 : TO_CHECK
 fail                                     : 1
 fail_better                              : 1
 failed_architecture                      : 4
@@ -49,17 +60,21 @@ fairy_lore                               : 1
 fairy_rings                              : 1
 fairy_tale                               : 2
 fairy_tales                              : 1 : fairy_tle
+fairy_tle                                : 2 : TO_CHECK
 fairy_wren                               : 1
 fairytales                               : 2  : fairy_tale
 faith                                    : 6
 faith_based_media                        : 1
+faith_based_welfare                      : 1 : TO_CHECK
 fake                                     : 7
 fake_christians                          : 1
 fake_news                                : 8
+fake_people                              : 1 : TO_CHECK
 fake_university                          : 1
 faked                                    : 1
 falcons                                  : 1
 falkirk                                  : 1
+falklands_war                            : 1 : TO_CHECK
 fallacies                                : 1
 fallacy                                  : 1
 fallbout                                 : 1
@@ -78,6 +93,7 @@ false_flag                               : 1
 false_negatives                          : 1
 false_positives                          : 1
 false_quote                              : 2
+falsehoods                               : 1 : TO_CHECK
 falsification                            : 3
 fame                                     : 2
 familiarity                              : 1
@@ -94,11 +110,14 @@ family_tree                              : 2
 family_values                            : 2
 famine                                   : 1
 fan_fiction                              : 1
+fan_labour                               : 1 : TO_CHECK
 fanaticism                               : 1
 fandom                                   : 1
 fanfiction                               : 1
+fannie_lou_hamer                         : 1 : TO_CHECK
 fanon                                    : 1
 FANs                                     : 1
+fantacism                                : 1 : TO_CHECK
 fantasy                                  : 39
 fantasy_console                          : 1
 fantasy_society                          : 1
@@ -110,7 +129,9 @@ fararo                                   : 1
 farce_of_consent                         : 1
 fare_evasion                             : 1
 farenheit_451                            : 1
+farid_mokhati                            : 1 : TO_CHECK
 farm_bill                                : 1
+farm_grants                              : 1 : TO_CHECK
 farmers                                  : 2  : farming
 farmers_markets                          : 1
 farming                                  : 28
@@ -124,10 +145,13 @@ fast_company                             : 5
 fast_food                                : 1
 Fast_Forward                             : 1
 fast_inverse_square_root                 : 1
+fast_learning                            : 1 : TO_CHECK
 fast_travel                              : 1
+fastai                                   : 1 : TO_CHECK
 fastcase                                 : 1
 fastcompany                              : 1
 fasting                                  : 1
+fasts                                    : 1 : TO_CHECK
 fasttravel                               : 1  : fast_travel
 fat                                      : 2
 fat_phobia                               : 2  : fatphobia
@@ -136,13 +160,17 @@ fathon                                   : 1
 fatigue                                  : 1
 FatiMA                                   : 1  : FAtiMA
 FAtiMA                                   : 3
+fatima_al_fihiri                         : 2 : TO_CHECK
+fatma_marouf                             : 1 : TO_CHECK
 fatphobia                                : 5
 fault                                    : 3
 fault_detection                          : 1
 fault_injection                          : 1
+fault_localization                       : 1 : TO_CHECK
 fault_recovery                           : 1
 fault_tolerance                          : 3
 faults                                   : 1
+fauna_preserveration_society             : 1 : TO_CHECK
 faust                                    : 1
 favelas                                  : 1
 favouritism                              : 3
@@ -163,8 +191,10 @@ fear_mongering                           : 1
 FearNot                                  : 3
 feast_of_odin                            : 1
 feasts                                   : 1
+feathers_mcgraw                          : 1 : TO_CHECK
 feature_creep                            : 1
 feature_engineering                      : 2
+feature_extraction_join_query            : 1 : TO_CHECK
 feature_factor_relationship              : 1
 feature_models                           : 1
 feature_space                            : 1
@@ -178,6 +208,7 @@ federal_judge                            : 2
 federal_register                         : 1
 federal_regulations                      : 2
 federal_reserve                          : 1
+federal_sentencing                       : 1 : TO_CHECK
 federal_shutdown                         : 3
 federal_waivers                          : 1
 federalism                               : 3
@@ -193,6 +224,11 @@ feel_good_stories                        : 1
 feelings                                 : 1
 fees                                     : 1
 feet                                     : 1
+felicity_huffman                         : 2 : TO_CHECK
+felipe_gomez_alonzo                      : 1 : TO_CHECK
+felix_de_boeck                           : 1 : TO_CHECK
+felix_guattari                           : 5 : TO_CHECK
+felix_vallotton                          : 2 : TO_CHECK
 felon_disenfranchisement                 : 1
 felon_voting                             : 2
 felonies                                 : 1  : felony
@@ -204,6 +240,7 @@ Female                                   : 1  : female
 female                                   : 2
 female_gaze                              : 1
 female_protagonists                      : 2
+female_radicalisation                    : 1 : TO_CHECK
 femdom                                   : 1
 femicide                                 : 1
 feminism                                 : 146
@@ -211,8 +248,12 @@ feminist_alexa                           : 1
 feminist_frequency                       : 1
 feminist_hulk                            : 1
 feminist_photography                     : 1
+feminista_jones                          : 1 : TO_CHECK
 fencing                                  : 1
 fentanyl                                 : 1
+FERC                                     : 1 : TO_CHECK
+ferdinand_de_saussure                    : 2 : TO_CHECK
+ferdinand_verbiest                       : 1 : TO_CHECK
 ferguson                                 : 4
 fermentation                             : 1
 fermi_paradox                            : 1
@@ -220,6 +261,7 @@ ferrari                                  : 1
 ferrero_rocher                           : 1
 fertilisation                            : 1
 fertility                                : 10
+festival                                 : 1 : TO_CHECK
 festivals                                : 2
 fet_lang                                 : 1
 fetch_quest                              : 1
@@ -229,6 +271,7 @@ fetus                                    : 2
 feudal_gynarchy                          : 1
 feudalism                                : 1
 feuds                                    : 1
+feuerbach                                : 1 : TO_CHECK
 fez                                      : 1
 FF                                       : 1
 FFI                                      : 1
@@ -237,12 +280,14 @@ FFREADA                                  : 1
 FFT                                      : 1
 fft                                      : 3
 FGM                                      : 1
+FHIR                                     : 2 : TO_CHECK
 fiat                                     : 1
 fibre                                    : 1
 FICO                                     : 1
 fiction                                  : 137
 fiduciary                                : 1
 field                                    : 6
+field_based_research                     : 1 : TO_CHECK
 field_experiments                        : 1
 field_positions                          : 1
 field_recording                          : 1
@@ -277,11 +322,13 @@ films_for_action                         : 1
 filmschoolrejects                        : 2  : film_school_rejects
 filmsforaction                           : 1  : films_for_action
 filter                                   : 3
+filter_bubble                            : 2 : TO_CHECK
 filters                                  : 1  : filter
 final_fantasy                            : 8
 finance                                  : 52
 finances                                 : 1 : finance
 financial_abuse                          : 1
+financial_aid                            : 1 : TO_CHECK
 financial_crime                          : 1
 financial_crimes                         : 2  : financial_crime
 financial_crisis                         : 2
@@ -331,10 +378,13 @@ first_sale                               : 2
 first_things                             : 1
 first_world_war                          : 1
 FISA                                     : 3
+fiscal_credibility                       : 1 : TO_CHECK
+fiscal_policy                            : 1 : TO_CHECK
 fish                                     : 4
 fish_market                              : 1
 fish_monk                                : 1
 fish_tanks                               : 1
+fisheries                                : 1 : TO_CHECK
 fishery                                  : 1
 fishing                                  : 5
 fit_to_work                              : 1
@@ -346,6 +396,7 @@ fitness_functions                        : 1 : fitness_function
 fitness_landscape                        : 1
 fivebooks                                : 1
 fivethirtyeight                          : 7
+fixed_domain_reasoning                   : 1 : TO_CHECK
 fixed_effects                            : 1
 fixed_point                              : 1
 fizzbuzz                                 : 1
@@ -353,6 +404,7 @@ fjords                                   : 1
 flag                                     : 7
 flake                                    : 1
 flame_gpu                                : 1
+flan_falacci                             : 1 : TO_CHECK
 flanders                                 : 1
 flapper                                  : 1
 flash                                    : 1
@@ -362,6 +414,7 @@ flat_design                              : 2
 flat_earth                               : 2
 flatten                                  : 1
 flatulence                               : 1
+flavia_dzodan                            : 1 : TO_CHECK
 flavour                                  : 1
 flawed_ai                                : 1
 fleabag                                  : 1
@@ -372,6 +425,7 @@ fletcher                                 : 1
 flex                                     : 1
 flexibility                              : 1
 flexible_latching                        : 1
+Flexlab                                  : 1 : TO_CHECK
 flickr                                   : 12
 flies                                    : 1
 flight_simulator                         : 1
@@ -432,6 +486,7 @@ FODMAP                                   : 1
 fog                                      : 1
 FOIA                                     : 13
 foia                                     : 4  : FOIA
+folding_arguments                        : 1 : TO_CHECK
 folding_ideas                            : 1
 Foldit                                   : 1
 foliage                                  : 1
@@ -441,6 +496,7 @@ folk_music                               : 2
 folk_tale                                : 1
 folk_tales                               : 1 : folk_tale
 folklore                                 : 6
+folksong                                 : 1 : TO_CHECK
 folksonomies                             : 1  : folksonomy
 folksonomy                               : 2
 folktales                                : 1  : folk_tale
@@ -462,6 +518,7 @@ food_insecurity                          : 6
 food_justice                             : 1
 food_port                                : 1
 food_preparation                         : 1
+food_safety                              : 1 : TO_CHECK
 food_security                            : 1
 food_sharing                             : 1
 food_stamps                              : 9
@@ -472,6 +529,7 @@ food_waste                               : 2
 foodbanks                                : 1  : food_banks
 fools                                    : 2
 foone                                    : 1
+foot_binding                             : 1 : TO_CHECK
 football                                 : 2
 footnotes                                : 1
 footnotes_blog                           : 3
@@ -487,6 +545,8 @@ forced_birth                             : 9
 forced_labour                            : 4
 forced_migration                         : 3
 forcibly_displaced                       : 1
+ford_library                             : 1 : TO_CHECK
+fordism                                  : 1 : TO_CHECK
 forecast                                 : 1
 foreign_affairs                          : 2
 foreign_bodies                           : 1
@@ -510,13 +570,17 @@ formal                                   : 15
 formal_dining                            : 1
 formal_games                             : 1
 formal_langauge_theory                   : 1  : formal_language_theory
+formal_language                          : 1 : TO_CHECK
 formal_language_theory                   : 1
 formal_logic                             : 1
 formal_methods                           : 6
 formal_model                             : 1
 formal_models                            : 1  : formal_model
+formal_ritual                            : 1 : TO_CHECK
 formal_semantics                         : 1
+formal_spec                              : 1 : TO_CHECK
 formal_specification                     : 2
+formal_structure                         : 1 : TO_CHECK
 formal_system                            : 5
 Formal_Systems                           : 1  : formal_system
 formal_systems                           : 4  : formal_system
@@ -534,6 +598,7 @@ formats                                  : 1
 formatter                                : 1  : formatting
 formatting                               : 4
 formula                                  : 1
+forrest_stuart                           : 2 : TO_CHECK
 fortification                            : 1
 fortnite                                 : 3
 fortune                                  : 1
@@ -545,8 +610,10 @@ forward_chaining                         : 3
 forward_reasoning                        : 1
 fossil_fuel                              : 2
 foster_care                              : 2
+foucault                                 : 8 : TO_CHECK
 found_objects                            : 1
 foundation                               : 2
+foundational                             : 1 : TO_CHECK
 founder_effect                           : 1
 four_comforting_thoughts                 : 1
 four_ps                                  : 1
@@ -568,7 +635,10 @@ fractals                                 : 5  : fractal
 fraction                                 : 1
 fractions                                : 1  : fraction
 fragility                                : 1
+fragment_based_similarity                : 1 : TO_CHECK
+fragmentation                            : 1 : TO_CHECK
 frame                                    : 1
+frame_analysis                           : 1 : TO_CHECK
 frame_metonymy                           : 1
 framebuffer                              : 1
 frames                                   : 7  : frame
@@ -577,7 +647,10 @@ frameworks                               : 1  : framework
 framing                                  : 6
 framing_problem                          : 1
 france                                   : 43
+franciscans                              : 1 : TO_CHECK
 franckbohbot                             : 1
+frankenstein                             : 1 : TO_CHECK
+frankfurt_school                         : 6 : TO_CHECK
 franklycurious                           : 1
 fraternity                               : 2
 fraud                                    : 35
@@ -620,11 +693,14 @@ friend                                   : 1
 friendly                                 : 2  : friend
 friends                                  : 2  : friend
 friendship                               : 5  : friend
+friendstar                               : 1 : TO_CHECK
 friendster                               : 1
 fringe                                   : 1
 fringe_mode                              : 1
+fringe_society                           : 1 : TO_CHECK
 frivolous                                : 1
 frodo_project                            : 1
+froggi_vanRiper                          : 1 : TO_CHECK
 frogs                                    : 1
 from_dust                                : 1
 from_interactions_to_institutions        : 1
@@ -673,6 +749,7 @@ functional_ecology                       : 1
 functional_programming                   : 48
 functional_reactive                      : 1
 functional_reactive_programming          : 2
+functionalism                            : 1 : TO_CHECK
 functionality                            : 1
 functions                                : 2  : function
 functor                                  : 2  : functors
@@ -696,6 +773,7 @@ futurama                                 : 2
 future                                   : 32
 future_history                           : 1
 future_of_cities                         : 2
+future_oriented_design                   : 1 : TO_CHECK
 futurism                                 : 21
 futurist                                 : 1  : futurism
 futuroscope                              : 1

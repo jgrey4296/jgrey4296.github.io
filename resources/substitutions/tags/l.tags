@@ -1,4 +1,3 @@
-** l                            :cleaned:
 l_system                        : 2
 l_systems                       : 3  : l_system
 la                              : 2  : LA
@@ -15,12 +14,17 @@ la_times                        : 14 : LA_times
 lab_rats                        : 1
 labeled_data                    : 1
 labelled_data                   : 1  : labeled_data
+labelling_theory                : 1 : TO_CHECK
 labels                          : 2
+labia                           : 1 : TO_CHECK
 labor                           : 2  : labour
+labor_laws                      : 1 : TO_CHECK
+labor_market                    : 1 : TO_CHECK
 labor_power                     : 1  : labour_power
 laboratories                    : 1  : laboratory
 laboratory                      : 1
 labour                          : 84
+labour_arbitrage                : 1 : TO_CHECK
 labour_identification_card      : 1
 labour_laws                     : 1
 labour_party                    : 3
@@ -32,9 +36,11 @@ labour_supply                   : 1
 labour_unions                   : 1
 labout                          : 1  : labour
 LabVIEW                         : 1
+lacan                           : 2 : TO_CHECK
 lacunarity                      : 1
 ladera_heights                  : 1
 ladykiller                      : 2
+lafayette                       : 1 : TO_CHECK
 lafayette_square                : 1
 lahti                           : 1
 lake_county                     : 1
@@ -57,14 +63,18 @@ land                            : 3
 land_acknowledgement            : 1  : land_acknowledgment
 land_acknowledgment             : 1
 land_development                : 1
+land_legislation                : 1 : TO_CHECK
 land_loss                       : 1
+land_ownership                  : 1 : TO_CHECK
 land_run                        : 1
+land_tenure                     : 1 : TO_CHECK
 land_theft                      : 1
 land_use                        : 5
 landfill                        : 1
 landlord                        : 5
 landlords                       : 5  : landlord
 landmarks                       : 2
+lando_calrissian                : 1 : TO_CHECK
 landowner                       : 1
 landowners                      : 1  : landowner
 landsape                        : 1  : landscape
@@ -72,6 +82,7 @@ landscape                       : 16
 landscapes                      : 1  : landscape
 landspotting                    : 1
 lang_ref                        : 1
+langston_hughes                 : 3 : TO_CHECK
 languae                         : 1  : language
 Language                        : 1  : language
 language                        : 303
@@ -80,12 +91,16 @@ language_design                 : 2
 language_engineering            : 2
 language_evolution              : 1
 language_generation             : 1
+language_K                      : 1 : TO_CHECK
 language_models                 : 1
+language_play                   : 1 : TO_CHECK
 language_workbench              : 1
 Language_workbenches            : 1  : language_workbench
 Languages                       : 1  : language
 languages                       : 1  : language
+lansing                         : 2 : TO_CHECK
 lanugage                        : 2  : language
+lanugage_change                 : 1 : TO_CHECK
 lanyards                        : 1
 LAO                             : 2
 laos                            : 1
@@ -93,6 +108,7 @@ LAPD                            : 3
 laphams_quarterly               : 1
 laplace_transforms              : 1
 lapland                         : 1
+laquan_mcdonald                 : 1 : TO_CHECK
 LARA                            : 1
 large_graphs                    : 1
 large_sale                      : 1  : large_scale
@@ -110,13 +126,16 @@ lassa_fever                     : 2
 lasst_event                     : 1  : last_event
 last_event                      : 1
 last_federation                 : 1
+last_mysteries                  : 1 : TO_CHECK
 last_of_us                      : 1
+laszlo_versenyi                 : 1 : TO_CHECK
 lataco                          : 1
 late_capitalism                 : 1
 late_stage_capitalism           : 1  : late_stage_capitalism
 late_state_capitalism           : 2  : late_stage_capitalism
 late_term_abortion              : 1
 latency                         : 4
+latent_action                   : 1 : TO_CHECK
 latent_dirichlet_allocation     : 2
 latent_semantic_analysis        : 1  : latent_space
 latent_semantic_indexing        : 1  : latent_space
@@ -124,7 +143,9 @@ latent_space                    : 1
 latent_variable_modelling       : 1  : latent_space
 latent_variables                : 1  : latent_space
 lateral_violence                : 1
+lateshia_beachum                : 1 : TO_CHECK
 latex                           : 23
+lathouse                        : 1 : TO_CHECK
 latic_america                   : 1  : latin_america
 latimes                         : 1  : LA_times
 latin                           : 4
@@ -137,6 +158,7 @@ lattic                          : 1  : lattice
 Lattice                         : 1 : lattice
 lattice                         : 8
 lattices                        : 2  : lattice
+lattive                         : 1 : TO_CHECK
 Launchpad                       : 1  : launchpad
 LaunchPad                       : 2  : launchpad
 launchpad                       : 3
@@ -148,6 +170,7 @@ law                             : 569
 law_enforcement                 : 7
 law_review                      : 1
 lawfare                         : 5
+lawmaking                       : 1 : TO_CHECK
 lawn                            : 1
 lawn_maintenance                : 1
 lawn_signs                      : 1
@@ -181,8 +204,11 @@ leaked_emails                   : 1
 leaks                           : 6
 LEAP                            : 1
 learnability                    : 1
+learnification                  : 2 : TO_CHECK
 Learning                        : 1  : learning
 learning                        : 177
+Learning paradigms              : 1 : TO_CHECK
+learning_disability             : 1 : TO_CHECK
 learning_objectives             : 1
 learning_theory                 : 1
 learning_to_work                : 1
@@ -208,20 +234,27 @@ legacy                          : 1
 legacy_code                     : 1
 legal                           : 100
 legal knowledge based systems   : 1  : legal_knowledge_based_systems
+legal_act                       : 1 : TO_CHECK
+legal_ai                        : 1 : TO_CHECK
 legal_analytics                 : 1
+legal_compliance                : 1 : TO_CHECK
 legal_counsel                   : 1
+legal_dualism                   : 1 : TO_CHECK
 legal_history                   : 1
 legal_knowledge_based_systems   : 1
 legal_logic                     : 1
 legal_ontology                  : 1
 legal_personhood                : 1
 legal_persuasion                : 1
+legal_pluralism                 : 1 : TO_CHECK
 legal_provisions                : 1
+legal_realism                   : 1 : TO_CHECK
 legal_reasoning                 : 2
 legal_rule                      : 1
 legal_studies                   : 1
 legal_system                    : 21
 legal_systems                   : 1  : legal_system
+legal_writing                   : 1 : TO_CHECK
 legalese                        : 1
 legalisation                    : 6  : legislation
 legalism                        : 1
@@ -229,7 +262,9 @@ legality                        : 3
 LegalRuleML                     : 1
 legend_of_grimrock              : 1
 leggings                        : 1
+LEGIS                           : 1 : TO_CHECK
 legislation                     : 10
+legislative_intent              : 1 : TO_CHECK
 legislative_power               : 1
 legislature                     : 5
 legislatures                    : 2  : legislature
@@ -242,11 +277,16 @@ LEGO                            : 2
 lego                            : 7  : LEGO
 legume                          : 1  : legumes
 legumes                         : 1
+leibniz                         : 1 : TO_CHECK
+leicester                       : 1 : TO_CHECK
 leisure                         : 6
 leisure_time                    : 1
 lemon_project                   : 1
 lemonade                        : 1
+lemonade_stand                  : 1 : TO_CHECK
+lemony_snicket                  : 1 : TO_CHECK
 leniency                        : 1
+lenin                           : 2 : TO_CHECK
 lennas_inception                : 1
 lens                            : 2  : lenses
 lenses                          : 4
@@ -270,23 +310,35 @@ level_generation                : 12
 level_of_detail                 : 1
 level_shifting                  : 1
 leveling_mechanism              : 1
+levels_of_abstraction           : 1 : TO_CHECK
+levelspace                      : 1 : TO_CHECK
 leverage_points                 : 2
 levers                          : 1
+levi_strauss                    : 6 : TO_CHECK
 leviathan                       : 1
 levitation                      : 1
 leviticus                       : 1
+lewis_gordon                    : 1 : TO_CHECK
+lewis_wallace                   : 2 : TO_CHECK
 lexical                         : 1
 lexical_entrainment             : 1
 lexical_scope                   : 1
+lexicography                    : 1 : TO_CHECK
+lexicon                         : 1 : TO_CHECK
 lexing                          : 1
+leyla_acaroglu                  : 1 : TO_CHECK
 LGBAlliance                     : 1
 lgbtq                           : 35 : LGBTQ
 LGBTQ                           : 94
 lgbtq_media                     : 1
 lgtbq                           : 1  : LGBTQ
 LGTBQ                           : 2
+li_bendersky                    : 1 : TO_CHECK
 liability                       : 1
+liam_casey                      : 1 : TO_CHECK
+liaoning                        : 1 : TO_CHECK
 LIAR                            : 1
+liat_clark                      : 1 : TO_CHECK
 lib                             : 1
 libcom                          : 1
 libel                           : 3
@@ -296,6 +348,7 @@ liberal_governance              : 1
 liberal_media                   : 2
 Liberalism                      : 1  : liberalism
 liberalism                      : 6
+liberatory_archives             : 1 : TO_CHECK
 liberia                         : 3
 libertarian                     : 8
 libertarian_paternalism         : 1
@@ -324,6 +377,7 @@ LIDA                            : 1
 lies                            : 36
 life                            : 4
 life_and_death                  : 1
+life_course                     : 1 : TO_CHECK
 life_cycle                      : 3
 life_expectancy                 : 3
 life_experience                 : 3
@@ -353,15 +407,18 @@ likelihood                      : 5
 LIKELIKE                        : 1  : likelike
 likelike                        : 2
 likes                           : 1
+liking                          : 1 : TO_CHECK
 lily                            : 1
 lily_white_movement             : 1
 lilypond                        : 2
 limbo                           : 1
 lime                            : 1
+limerick                        : 1 : TO_CHECK
 liminal_space                   : 1  : liminal_space
 liminal_spaces                  : 1  : liminal_space
 liminal_states                  : 1
 limitations                     : 1
+limits                          : 1 : TO_CHECK
 limits_of_education             : 1
 limn                            : 1
 lincoln_memorial                : 1
@@ -398,8 +455,10 @@ linkage_analysis                : 1
 linked_data                     : 1
 linked_in                       : 1
 linked_list                     : 1
+linked_production_rules         : 1 : TO_CHECK
 linkedIn                        : 1  : linked_in
 linkrot                         : 1
+links                           : 1 : TO_CHECK
 links_awakening                 : 1
 lino_print                      : 1
 linocut                         : 1
@@ -430,17 +489,21 @@ lissajous_curves                : 1
 list                            : 14
 listening                       : 2
 listning                        : 1  : listening
+lists                           : 1 : TO_CHECK
 literacy                        : 9
 literacy_tests                  : 1
 literary_fiction                : 1
 literary_hub                    : 1
 literary_maps                   : 1
+literary_playgrounds            : 1 : TO_CHECK
+literary_sociology              : 1 : TO_CHECK
 literary_theory                 : 1
 literate_programming            : 2
 literature                      : 17
 literature_review               : 9
 lithium                         : 1
 lithium_ion_batteries           : 1
+lithography                     : 1 : TO_CHECK
 lithotomy                       : 1
 lithuania                       : 1
 lithub                          : 2
@@ -457,6 +520,8 @@ Live_coding                     : 1  : live_coding
 live_coding                     : 22
 live_programming                : 1
 live_science                    : 1
+live_streamed_programming       : 1 : TO_CHECK
+live_streaming                  : 1 : TO_CHECK
 live_tweet                      : 1
 liveable_code                   : 1
 livecoding                      : 2  : live_coding
@@ -506,6 +571,7 @@ lock_free                       : 1
 lock_in                         : 1
 lockdown                        : 36
 lockdown_drills                 : 2
+locke                           : 1 : TO_CHECK
 lockheed_martin                 : 2
 lockless_concurrency            : 1
 locus_of_control                : 1
@@ -515,6 +581,7 @@ LOD_Trader                      : 1
 lodash                          : 2
 lofi                            : 1
 LoFi                            : 1  : lofi
+logan_kirkland                  : 1 : TO_CHECK
 logarithm                       : 6
 logarithmic                     : 2  : logarithm
 logarithms                      : 1  : logarithm
@@ -539,18 +606,22 @@ lone_survivor                   : 1
 lone_wolves                     : 1
 loneliness                      : 2
 long_beach                      : 1
+long_covid                      : 3 : TO_CHECK
 long_form                       : 1
 long_island                     : 1
 long_live_the_queen             : 1
 long_lived_transaction          : 1
 long_read                       : 1
 long_term                       : 1
+long_term_care                  : 1 : TO_CHECK
 long_term_memory                : 1
 longersky                       : 1
 longevity                       : 1
 longitudinal                    : 11
 longitudinal_study              : 1
 longreads                       : 2
+longue_duree                    : 1 : TO_CHECK
+lonnie_shaw                     : 3 : TO_CHECK
 looking_glass                   : 1
 looks_cool                      : 1
 lookup                          : 1
@@ -561,6 +632,7 @@ loopy                           : 1
 loose_coupling                  : 1
 loot_system                     : 1
 looting                         : 3
+lord_mountbatten                : 1 : TO_CHECK
 lord_of_the_rings               : 1
 lore                            : 1
 lore_dump                       : 1
@@ -581,6 +653,7 @@ louisiana                       : 17
 louisville                      : 3
 lousiana                        : 1
 love                            : 2
+lovecraft                       : 2 : TO_CHECK
 lovecraft_county                : 1
 low_cost                        : 1
 low_culture                     : 1
@@ -589,6 +662,7 @@ low_level                       : 3
 low_pay                         : 1
 low_poly                        : 8
 low_wage_jobs                   : 1
+lp_norm                         : 1 : TO_CHECK
 LPDModel                        : 1
 LRA                             : 1
 lrb                             : 1
@@ -601,6 +675,7 @@ LSTM                            : 5
 LTBTQ                           : 2
 LTL                             : 1
 lua                             : 8
+lubart                          : 2 : TO_CHECK
 lucas_arts                      : 1
 lucasarts                       : 1  : lucas_arts
 lucid_chart                     : 11
@@ -611,6 +686,7 @@ luddite                         : 1
 ludi                            : 1
 Ludi                            : 1  : ludi
 ludic_narrative                 : 1
+ludo_narrative                  : 1 : TO_CHECK
 ludocore                        : 1
 Ludocore                        : 1  : ludocore
 ludographic_essay               : 1
@@ -619,12 +695,17 @@ ludonarrative_dissonance        : 1
 ludum_dare                      : 1
 Ludwig                          : 1
 lufia                           : 1
+lukacs                          : 1 : TO_CHECK
 luke                            : 1
 LULU                            : 1
+Lume                            : 1 : TO_CHECK
+luna_younger                    : 3 : TO_CHECK
 lunar_labs                      : 1
 lunarch                         : 1
 lunch_debt                      : 2
 lunch_shaming                   : 1
+luther                          : 1 : TO_CHECK
+lux_alptraum                    : 1 : TO_CHECK
 LVE                             : 1
 lwjgl                           : 2
 lyft                            : 3

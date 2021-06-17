@@ -1,56 +1,78 @@
-** y                                                                            :cleaned:
-y2k                    : 2
-yahoo                  : 4
-yahoo_group            : 1
-yahrzeits              : 1
-yak_shaving            : 1
-yakama_nation          : 1
-yale                   : 4
-yall_qaeda             : 1
-YamanaSim              : 1
-yaml                   : 2
-yandere_sim            : 1
-yangtze_river          : 1
-yankton_college        : 1
-YARN                   : 1
-yarn                   : 5 : YARN
-yarn_bomb              : 1
-yasnippet              : 4
-year                   : 1
-yeast                  : 3
-yellow                 : 1
-yellow_jackets         : 2
-yellowhead_institute   : 1
-yellowstone            : 1
-yelp                   : 3
-yemen                  : 2
-yes_magazine           : 2
-yes_your_grace         : 1
-yeshiva_university     : 3
-yesmagazine            : 1 : yes_magazine
-yichang                : 1
-yield_curve            : 2
-yiling                 : 1
-yip_yip                : 1
-YMIR                   : 1
-ymir                   : 1 : YMIR
-yoga                   : 1
-yogyakarta             : 1
-YOLO                   : 1
-yosemite               : 1
-you_gov                : 2
-yougov                 : 2 : you_gov
-young_adult            : 1
-younger_dryas          : 1
-youngest_person        : 1
-youper                 : 1
-youtbe                 : 1 : youtube
-youth                  : 6
-youth_bulge            : 1
-youth_climate_movement : 1
-youth_culture          : 1
-youth_for_christ       : 1
-youth_subculture       : 1
-youtube                : 121
-yungneocon             : 1
-yup_ik                 : 1
+y2k                     : 2
+y_nakajima              : 1 : TO_CHECK
+yad_vashem              : 1 : TO_CHECK
+yahoo                   : 4
+yahoo_group             : 1
+yahrzeits               : 1
+yak_shaving             : 1
+yakama_nation           : 1
+yale                    : 4
+yall_qaeda              : 1
+YamanaSim               : 1
+yaml                    : 2
+yandere_sim             : 1
+yangtze_river           : 1
+yangzi_delta            : 1 : TO_CHECK
+yanis_varoufakis        : 3 : TO_CHECK
+yankton_college         : 1
+yarden_katz             : 1 : TO_CHECK
+yarin_gal               : 1 : TO_CHECK
+YARN                    : 1
+yarn                    : 5 : YARN
+yarn_bomb               : 1
+yascha_mounk            : 1 : TO_CHECK
+yasha_levine            : 1 : TO_CHECK
+yasmeen_khan            : 1 : TO_CHECK
+yasnippet               : 4
+ycombinator             : 1 : TO_CHECK
+year                    : 1
+yeast                   : 3
+yellow                  : 1
+yellow_jackets          : 2
+yellowhead_institute    : 1
+yellowstone             : 1
+yelp                    : 3
+yemen                   : 2
+yes_magazine            : 2
+yes_your_grace          : 1
+yeshiva_university      : 3
+yesmagazine             : 1 : yes_magazine
+yichang                 : 1
+yield_curve             : 2
+yiling                  : 1
+yip_yip                 : 1
+YMIR                    : 1
+ymir                    : 1 : YMIR
+yoav_shoham             : 1 : TO_CHECK
+yob_zacny               : 1 : TO_CHECK
+yochai_benkler          : 3 : TO_CHECK
+yoga                    : 1
+yogita_goyal            : 2 : TO_CHECK
+yogyakarta              : 1
+yohanan_petrovsky_shter : 1 : TO_CHECK
+YOLO                    : 1
+yonedas_lemma           : 1 : TO_CHECK
+yoruba                  : 1 : TO_CHECK
+yosemite                : 1
+yoshino_river           : 1 : TO_CHECK
+yoshito_hasaka          : 1 : TO_CHECK
+you_gov                 : 2
+yougov                  : 2 : you_gov
+young_adult             : 1
+young_lee               : 1 : TO_CHECK
+younger_dryas           : 1
+youngest_person         : 1
+youper                  : 1
+youtbe                  : 1 : youtube
+youth                   : 6
+youth_bulge             : 1
+youth_citizenship       : 1 : TO_CHECK
+youth_climate_movement  : 1
+youth_culture           : 1
+youth_for_christ        : 1
+youth_subculture        : 1
+youtube                 : 121
+yuda_pearl              : 1 : TO_CHECK
+yungneocon              : 1
+yup_ik                  : 1
+yusuf_al_qaradawi       : 1 : TO_CHECK

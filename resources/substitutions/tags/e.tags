@@ -1,14 +1,19 @@
-** e                                :cleaned:
 e_books                             : 1  : ebook
+e_l_doctorow                        : 1 : TO_CHECK
 e_learning                          : 1
 e_sports                            : 2
+e_wesley_ely                        : 1 : TO_CHECK
 EA                                  : 1
+ea_nasir                            : 1 : TO_CHECK
 eacl                                : 1
 EAGLE                               : 1
+eamonn_holmes                       : 2 : TO_CHECK
 eAOP                                : 1
 ear                                 : 1
 ear_plugs                           : 1
+earl_long                           : 1 : TO_CHECK
 early                               : 1
+early_modern                        : 1 : TO_CHECK
 early_warning                       : 1
 earth                               : 1
 earth_science                       : 2
@@ -27,14 +32,17 @@ eastenders                          : 4
 easter                              : 2
 easter_egg                          : 1
 easter_mass                         : 1
+easthetics                          : 1 : TO_CHECK
 eastshade                           : 2
 easy_mode                           : 1
+easyABMS                            : 2 : TO_CHECK
 easygen                             : 2
 EAT                                 : 1
 eat24                               : 1
 eater                               : 1
 eathworms                           : 1  : earthworms
 eating                              : 1
+eating_disorder                     : 4 : TO_CHECK
 eating_disorders                    : 1
 eating_habits                       : 1
 ebay                                : 2
@@ -45,6 +53,7 @@ ebook                               : 24
 ecclesiastes                        : 1
 ecclesiasty                         : 1
 echo                                : 2
+echo_chamber                        : 9 : TO_CHECK
 echo_chambers                       : 2
 echochamber                         : 1  : echo_chambers
 eclectus                            : 1
@@ -54,14 +63,17 @@ eco_speculation                     : 1
 ecocide                             : 1
 ecological_framework                : 1
 ecology                             : 24
+ecology_of_art                      : 1 : TO_CHECK
 econometrics                        : 3
 economic                            : 1  : economics
 Economic Performance                : 1 : economic_performance
 economic_costs                      : 1
 economic_development                : 1
 economic_growth                     : 1
+economic_history                    : 1 : TO_CHECK
 economic_inequality                 : 2
 economic_logic                      : 1
+economic_performance                : 1 : TO_CHECK
 economic_policy                     : 1
 economic_policy_institute           : 2
 economic_ratonality                 : 1
@@ -79,12 +91,14 @@ economy                             : 17
 econophysics                        : 1
 econstor                            : 1
 ecoology                            : 1  : ecology
+ecopoetics                          : 1 : TO_CHECK
 ecosystem                           : 4
 ecosystems                          : 1  : ecosystem
 ecoterrorism                        : 1
 ectopic_pregnancy                   : 1
 ecuador                             : 1
 ecXML                               : 1
+ED                                  : 4 : TO_CHECK
 ed_tech                             : 1
 edcuation                           : 1  : education
 edge_bundling                       : 1
@@ -104,12 +118,14 @@ edu_games                           : 1
 education                           : 514
 education_tech                      : 1
 educational_decree                  : 1
+educational_policy                  : 1 : TO_CHECK
 educational_software                : 1
 eduction                            : 1  : education
 eelections                          : 1  : elections
 eels                                : 1
 eff                                 : 5
 effect                              : 3
+effect_ordering                     : 1 : TO_CHECK
 effect_size                         : 1
 effect_systems                      : 1
 effectiveness                       : 1
@@ -119,6 +135,7 @@ efficieny                           : 1  : efficiency
 effigies                            : 1
 effort                              : 2
 egalitarianism                      : 1
+Egison                              : 1 : TO_CHECK
 ego                                 : 2
 egypt                               : 14
 EHA2018                             : 1
@@ -129,7 +146,9 @@ eidolon                             : 1
 eiffel_tower                        : 1
 eigenvalues                         : 1
 eigenvectors                        : 1
+einstein                            : 1 : TO_CHECK
 EIS                                 : 1
+eisenhower                          : 2 : TO_CHECK
 el_centro                           : 1
 el_mozote_massacre                  : 3
 el_paso                             : 5
@@ -139,6 +158,7 @@ el_zeft                             : 2
 elaboration                         : 1
 elaboration_tolerance               : 1
 elain_chao                          : 1  : elaine_chao
+elam                                : 1 : TO_CHECK
 elder_scrolls                       : 2
 elderly                             : 1
 elders                              : 2
@@ -156,8 +176,12 @@ elections                           : 54
 electoral+_systems                  : 1  : electoral_system
 electoral_college                   : 5
 electoral_system                    : 1
+electoral_weapons                   : 1 : TO_CHECK
 ELECTRE                             : 2
+electrical_systems                  : 1 : TO_CHECK
 electricity                         : 4
+electronic_arts                     : 1 : TO_CHECK
+electronic_health_records           : 1 : TO_CHECK
 electronic_institutions             : 1
 electronic_music                    : 2
 electronic_voting                   : 1
@@ -176,6 +200,7 @@ elevation_data                      : 1
 elevator_protocol                   : 1
 elevators                           : 2
 ELI5                                : 4
+elias                               : 1 : TO_CHECK
 eligibility                         : 1
 elimination                         : 1
 elisp                               : 5
@@ -203,10 +228,13 @@ email_probe                         : 1
 email_scammers                      : 1
 emails                              : 3
 emal                                : 3  : email
+emancipated_player                  : 1 : TO_CHECK
 EMASL                               : 1
+emax                                : 1 : TO_CHECK
 embarrassment                       : 1
 embarressment                       : 1  : embarrassment
 embedded                            : 2
+embedded_DSL                        : 1 : TO_CHECK
 embedded_systems                    : 1
 embeddedness                        : 4
 emblem                              : 1
@@ -230,13 +258,16 @@ emergency_management                : 1
 emergent_ai                         : 1
 emergent_game_play                  : 1
 emergent_gameplay                   : 1  : emergent_game_play
+emergent_narrative                  : 2 : TO_CHECK
 emerging_logics                     : 1
 emerging_technology                 : 1
+emerson                             : 1 : TO_CHECK
 EMF                                 : 1
 EMI                                 : 2
 EMIL                                : 1
 EmiL                                : 1  : EMIL
 emil                                : 2  : EMIL
+eminem                              : 2 : TO_CHECK
 emissions                           : 3
 emohawk                             : 1
 emoji                               : 1
@@ -244,17 +275,21 @@ emoluments                          : 1
 emote                               : 1
 emotion                             : 92
 emotion_al                          : 1  : emotional_ai
+emotion_appraisal                   : 1 : TO_CHECK
 emotion_recognition                 : 1
 emotion_regulation                  : 1
+emotion_transition                  : 1 : TO_CHECK
 Emotional Contagion                 : 1 : emotional_contagion
 emotional_abuse                     : 1
 emotional_ai                        : 1
 emotional_characters                : 1
 emotional_competence                : 1
+emotional_contagion                 : 1 : TO_CHECK
 emotional_credibility               : 1
 emotional_hyperarousal              : 1
 emotional_investment                : 1
 emotional_labour                    : 3
+emotional_regulation                : 1 : TO_CHECK
 emotional_support_animals           : 1
 Emotions                            : 1 : emotion
 emotions                            : 8  : emotion
@@ -267,10 +302,13 @@ empedocles                          : 1
 empire                              : 7
 empire_apologist                    : 1
 empire_of_sin                       : 1
+empires                             : 1 : TO_CHECK
 empirical                           : 2
 Empirical Data                      : 1 : empirical_data
 empirical evaluation                : 1  : empirical_evaluation
+empirical_data                      : 1 : TO_CHECK
 empirical_evaluation                : 1
+empirical_software_engineering      : 1 : TO_CHECK
 empiricism                          : 2
 employees                           : 1
 employment                          : 45
@@ -278,24 +316,31 @@ empowerment                         : 5
 empty_wheel                         : 1
 emt                                 : 1
 emulation                           : 4
+emulator                            : 1 : TO_CHECK
 Emulator                            : 1 : emulator
 en_banc                             : 1
 ENABL                               : 1
 enabling                            : 2
 enacted                             : 1
 enactment                           : 4
+enactments_research                 : 1 : TO_CHECK
+encapsulation                       : 1 : TO_CHECK
 encartacore                         : 1
 encatc                              : 1
 enchantment                         : 3
 encoding                            : 3
+encoding_bias                       : 1 : TO_CHECK
 encounter                           : 1
 encounter_design                    : 1
 encounter_editor                    : 2
 encounter_system                    : 1
+encrpytion                          : 1 : TO_CHECK
 encrypted_ai                        : 1
 encryption                          : 11
 encyclopedia                        : 6
 end_to_end                          : 2
+end_user_development                : 1 : TO_CHECK
+end_user_programming                : 1 : TO_CHECK
 endagered_species                   : 1
 endangered_species                  : 1
 endemic_corruption                  : 1
@@ -312,19 +357,28 @@ enemies                             : 1
 energy                              : 10
 Energy Scenarios                    : 1 : energy_scenarios
 Energy Systems Analysis             : 1 : energy_systems_analysis
+energy_scenarios                    : 1 : TO_CHECK
+energy_systems_analysis             : 1 : TO_CHECK
 energy_use                          : 1
 enforcement                         : 10
 enforcements                        : 1  : enforcement
 engadget                            : 1
+engaged_anthropology                : 1 : TO_CHECK
 engagement                          : 12
 engagement_economy                  : 1
 engagement_theory                   : 1
+engels                              : 3 : TO_CHECK
 engine                              : 3
 engineering                         : 10
 engineers                           : 1
 england                             : 4
+engles                              : 1 : TO_CHECK
 english                             : 5
+english_departments                 : 1 : TO_CHECK
+english_empire                      : 1 : TO_CHECK
+english_poetry                      : 1 : TO_CHECK
 english_witchcraft_act              : 1
+ENGO                                : 1 : TO_CHECK
 enigma                              : 1
 enigma_machine                      : 1
 enjoyment                           : 2
@@ -346,6 +400,8 @@ entities                            : 1  : entity
 entitlement                         : 2
 entitlements                        : 1  : entitlement
 entity                              : 1
+entomology                          : 1 : TO_CHECK
+entrepreneur                        : 1 : TO_CHECK
 entrepreneurship                    : 4
 entropy                             : 2
 enuch                               : 1
@@ -361,6 +417,7 @@ environment_problem                 : 1
 environmental_anthropology          : 1
 environmental_art                   : 1
 environmental_collapse              : 1
+environmental_history               : 1 : TO_CHECK
 environmental_justice               : 1
 environmental_racism                : 1
 environmental_storytelling          : 2
@@ -376,6 +433,7 @@ EPI                                 : 1
 epic                                : 1
 epic_games                          : 2
 epic_records                        : 1
+epicurus                            : 1 : TO_CHECK
 epidemic                            : 1
 epidemics                           : 2
 epidemiology                        : 21
@@ -393,11 +451,13 @@ epistemic_change                    : 1
 epistemic_community                 : 1
 epistemic_logic                     : 4
 epistemological_individualism       : 1
+epistemological_priors              : 2 : TO_CHECK
 epistemological_sophistication      : 1
 epistemological_violence            : 1
 epistemology                        : 21
 epistemoogy                         : 1  : epistemology
 epochs                              : 1
+epstein                             : 2 : TO_CHECK
 equal_opportunity                   : 1
 equality                            : 2
 equatorial_guinea                   : 1
@@ -408,6 +468,7 @@ equity                              : 2
 erasmus                             : 1
 erasure                             : 5
 erc_smack                           : 1
+erdogan                             : 1 : TO_CHECK
 ERGo                                : 1
 ErgoAI                              : 2
 ergodic_literature                  : 1
@@ -415,8 +476,10 @@ ergodicity                          : 1
 ergonomic                           : 1
 ergonomics                          : 1  : ergonomic
 ericsmack                           : 1  : eric_smack
+erikson                             : 1 : TO_CHECK
 erin_adler                          : 1
 ERISA                               : 1
+eriugena                            : 1 : TO_CHECK
 erland                              : 1  : erlang
 erlang                              : 9
 erotic                              : 1
@@ -432,6 +495,7 @@ error_rate                          : 1
 error_recovery                      : 2
 errorproofing                       : 2  : error_proofing
 errors                              : 6
+erwadi                              : 1 : TO_CHECK
 es2015                              : 1
 es6                                 : 16
 ES_and_S                            : 2
@@ -472,11 +536,17 @@ eternal_castle                      : 1
 eternal_sunshine                    : 1
 eternalism                          : 2
 ETH                                 : 1
+etherington_brothers                : 1 : TO_CHECK
 ethical_ai                          : 1
 ethical_alternatives                : 1
+ethical_open_source                 : 1 : TO_CHECK
+ethical_privacy                     : 1 : TO_CHECK
 ethical_sociality                   : 1
+ethical_systems                     : 1 : TO_CHECK
 ethical_tech                        : 4
+ethicity                            : 1 : TO_CHECK
 ethics                              : 149
+ethics_of_ambiguity                 : 1 : TO_CHECK
 ethinic_minorities                  : 1  : ethnic_minorities
 ethiopia                            : 9
 ethnic_cleansing                    : 4
@@ -485,6 +555,7 @@ ethnic_food                         : 1
 ethnic_group                        : 1
 ethnic_minorities                   : 1
 ethnicity                           : 7
+ethno_nationalism                   : 1 : TO_CHECK
 ethnobotany                         : 1
 ethnocentrism                       : 2
 ethnogaphy                          : 1  : ethnography
@@ -502,13 +573,17 @@ etymology                           : 2
 EU                                  : 30
 eu27                                : 1
 eu_human_rights                     : 1
+eucharist                           : 1 : TO_CHECK
 euclid                              : 1
 EUCRT                               : 1
 eudaimonia                          : 1
+eudy_simelane                       : 1 : TO_CHECK
+eugene_linden                       : 1 : TO_CHECK
 eugenics                            : 20
 eula                                : 1
 eurasia                             : 1
 eureka_machine                      : 1
+euripedies                          : 1 : TO_CHECK
 eurocentrism                        : 5
 eurogamer                           : 46
 eurogamr                            : 1  : eurogamer
@@ -522,8 +597,10 @@ eurozine                            : 1
 eurozone_crisis                     : 1
 euthanasia                          : 1
 eva_marie_quinones                  : 1
+eva_moravec                         : 1 : TO_CHECK
 evacuation_day                      : 2
 evaluation                          : 47
+evaluation_methods                  : 1 : TO_CHECK
 evangelical                         : 5
 evangelicals                        : 1  : evangelical
 evangelion                          : 1
@@ -537,12 +614,15 @@ event                               : 1
 event_calculus                      : 11
 event_chains                        : 1
 event_driven                        : 1
+event_generation                    : 1 : TO_CHECK
 event_history_analysis              : 1
+event_learning                      : 1 : TO_CHECK
 event_management                    : 1
 event_norms                         : 1
 event_steams                        : 1
 event_structure_analysis            : 1
 event_systems                       : 1
+event_time                          : 1 : TO_CHECK
 eventbrite                          : 1
 events                              : 21
 evernote                            : 2
@@ -556,6 +636,7 @@ everyday_exchanges                  : 1
 everyday_experience                 : 1
 everyday_feminism                   : 1
 everyday_life                       : 10
+everyday_lives                      : 1 : TO_CHECK
 everyday_practice                   : 2
 everyday_sexism                     : 1
 everything_is_going_to_be_ok        : 1
@@ -574,6 +655,7 @@ evo_bio                             : 1
 evo_psych                           : 2
 evoland                             : 1
 evolution                           : 93
+evolutionary robotics               : 1 : TO_CHECK
 evolutionary_algorithms             : 1
 evolutionary_economics              : 1
 evolutionary_game_theory            : 1
@@ -591,6 +673,7 @@ examination                         : 1 : exam
 example                             : 19
 example_centric_programming         : 1
 examples                            : 1
+excavation                          : 1 : TO_CHECK
 excel                               : 1
 exception_handling                  : 1
 exceptionalism                      : 1
@@ -606,6 +689,7 @@ exclusionary_politics               : 1
 exclusivity                         : 1
 excuses                             : 2
 execution                           : 9
+execution_trace                     : 1 : TO_CHECK
 executive_branch                    : 1
 executive_function                  : 1
 executive_order                     : 2
@@ -618,6 +702,7 @@ exhaustible_resources               : 1
 exhaustion                          : 2
 existence                           : 3
 existential_crisis                  : 1
+existential_rules                   : 1 : TO_CHECK
 existentialism                      : 2
 exlorable                           : 1  : explorable
 exogamy                             : 1
@@ -626,6 +711,7 @@ exoplanets                          : 1
 expanding_our_sense_of_the_possible : 1
 expansive_learning                  : 1
 expats                              : 1
+expectancy                          : 1 : TO_CHECK
 expectation                         : 3
 expectations                        : 1  : expectation
 expected_value                      : 1
@@ -637,12 +723,15 @@ experience_sampling                 : 1
 experiential_learning               : 1
 experiment                          : 6
 experiment_design                   : 1
+experimentaation                    : 2 : TO_CHECK
 experimental                        : 1
+experimental_community              : 1 : TO_CHECK
 experimental_games                  : 1
 experimental_methods                : 1
 Experimental_Methods                : 1  : experimental_methods
 experimental_music                  : 3
 experimental_semiotics              : 4
+experimental_sociology              : 1 : TO_CHECK
 experimental_software               : 1
 experimentation                     : 6
 experimenting_society               : 1
@@ -655,10 +744,14 @@ expert_testimony                    : 1
 expertise                           : 3
 explainability                      : 2  : explanation
 explainable_agents                  : 1
+explainable_AI                      : 2 : TO_CHECK
 explainable_ai                      : 2
 explainer                           : 2
+explaining                          : 1 : TO_CHECK
 explanation                         : 7
+explanation_based_learning          : 1 : TO_CHECK
 explanations                        : 1  : explanation
+explanatory_narrative               : 1 : TO_CHECK
 explicit                            : 1
 explicit_namespaces                 : 1
 explicity_namespaces                : 1  : explicit_namespaces
@@ -670,6 +763,7 @@ exploratory_data_analysis           : 1
 Exploratory_Data_Analysis           : 1  : exploratory_data_analysis
 exploratory_interface               : 1
 exploratory_programming             : 2
+exploratory_study                   : 1 : TO_CHECK
 explosion                           : 2
 explosion_ai                        : 1
 explosure                           : 1  : exposure
@@ -684,6 +778,7 @@ expressions                         : 1  : expression
 expressive                          : 1
 expressive_ai                       : 3
 expressive_intelligence             : 5
+expressive_power                    : 1 : TO_CHECK
 expressive_processing               : 2
 expressive_range                    : 2
 expressiveness                      : 2
@@ -698,6 +793,7 @@ extensions                          : 2  : extension
 extermination_camps                 : 1
 exterminationism                    : 1
 external_validity                   : 1
+externality                         : 1 : TO_CHECK
 extinction                          : 1
 extra_punctuation                   : 59
 extraction                          : 1
@@ -707,6 +803,7 @@ extravagance                        : 1
 extreme_right                       : 1
 extremely_online                    : 1
 extremism                           : 11
+extrinsic_rewards                   : 1 : TO_CHECK
 exxon                               : 5
 exxon_mobile                        : 1
 eyam                                : 1
@@ -715,3 +812,5 @@ eye_movement                        : 1
 eye_tracking                        : 2
 eyes                                : 1
 eyewitness                          : 2
+eyvind_earle                        : 1 : TO_CHECK
+ezumezu                             : 1 : TO_CHECK
