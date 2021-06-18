@@ -1,8 +1,5 @@
-R                                    : 1 : TO_CHECK
-r_a_lafferty                         : 1 : TO_CHECK
-r_kelly                              : 3 : TO_CHECK
-r_lang                               : 5 : TO_CHECK
-r_street_institute                   : 2 : TO_CHECK
+R                                    : 1
+r_street_institute                   : 2
 rabbit                               : 2
 race                                 : 133
 race_blind                           : 1
@@ -18,22 +15,12 @@ race_the_sun                         : 1
 race_war                             : 2
 racebaitr                            : 1
 races                                : 1      : race
-rachael_tatman                       : 2 : TO_CHECK
-rachana_pradhan                      : 1 : TO_CHECK
-rachel_armstrong                     : 1 : TO_CHECK
-rachel_aviv                          : 1 : TO_CHECK
-rachel_brewson                       : 1 : TO_CHECK
-rachel_laudan                        : 1 : TO_CHECK
-rachel_schon                         : 1 : TO_CHECK
-rachel_west                          : 2 : TO_CHECK
-rachel_wright                        : 1 : TO_CHECK
-rachelle_hampton                     : 1 : TO_CHECK
 rachets                              : 1
 racial_battle_fatigue                : 1
 racial_bias                          : 2
 racial_capitalism                    : 1
 racial_categories                    : 1
-racial_contract                      : 1 : TO_CHECK
+racial_contract                      : 1
 racial_disparities                   : 3
 racial_divide                        : 1
 racial_equality                      : 1
@@ -56,17 +43,15 @@ radar                                : 1
 radia                                : 1
 radiation                            : 2
 radiation_brain_moms                 : 1
-radiator_yang                        : 1 : TO_CHECK
-radiator_yank                        : 1      : radiator_yang
 radiators                            : 1
-radical_botany                       : 1 : TO_CHECK
+radical_botany                       : 1
 radical_cartography                  : 2
 radical_embodied_cognition           : 1
-radical_empiricism                   : 1 : TO_CHECK
-radical_philosophy                   : 1 : TO_CHECK
+radical_empiricism                   : 1
+radical_philosophy                   : 1
 radical_politics                     : 2
 radical_right                        : 1
-radical_sociology                    : 1 : TO_CHECK
+radical_sociology                    : 1
 radical_syllabus                     : 1
 radical_tailorable                   : 1
 radical_theology                     : 1
@@ -83,18 +68,14 @@ radioactivity                        : 1
 radiological_weapons_testing         : 1
 radiophonic_workshop                 : 1
 radius                               : 1
-radley_balko                         : 2 : TO_CHECK
-radomir_lukic                        : 1 : TO_CHECK
 rae_science                          : 1      : race_science
-rafael_reif                          : 1 : TO_CHECK
 Raft                                 : 1      : raft
 raft                                 : 2
-ragnar_tornquist                     : 1 : TO_CHECK
 ragnarok                             : 1
 raids                                : 1
 rail                                 : 5
 rail_shooter                         : 1
-railroads                            : 1 : TO_CHECK
+railroads                            : 1
 railway                              : 2
 railway_museum                       : 1
 railways                             : 1      : railway
@@ -112,9 +93,9 @@ rajasthan                            : 1
 raleigh                              : 2
 rallys                               : 2
 ramadhan                             : 1
-ramanujan_machine                    : 1 : TO_CHECK
+ramanujan_machine                    : 1
 ramification_problem                 : 1
-ramnagar                             : 1 : TO_CHECK
+ramnagar                             : 1
 ranching                             : 1
 RAND                                 : 1
 rand                                 : 4      : RAND
@@ -128,12 +109,10 @@ random_numbers                       : 2
 random_seeds                         : 1
 random_trees                         : 1
 random_utility_model                 : 1
-random_walks                         : 1 : TO_CHECK
+random_walks                         : 1
 randomisation                        : 3
 randomised_controlled_trials         : 2
 randomness                           : 7
-randy_halprin                        : 1 : TO_CHECK
-randy_shilts                         : 1 : TO_CHECK
 rangedtouch                          : 1
 rank_n                               : 1
 ranking                              : 16
@@ -143,12 +122,10 @@ rape                                 : 32
 rape_culture                         : 19
 rape_joke_poem                       : 1
 rape_threats                         : 1
-raph_koster                          : 23 : TO_CHECK
-raphael_lemkin                       : 1 : TO_CHECK
 rapid_city                           : 1
 rapid_onset_gender_dysphoria         : 1
 rapid_prototyping                    : 1
-rapport                              : 1 : TO_CHECK
+rapport                              : 1
 rapture                              : 2
 rare_earth                           : 1
 RASC                                 : 1
@@ -173,26 +150,24 @@ rational_behaviour                   : 1
 rational_choice                      : 11
 rational_reconstruction              : 1
 rationalism                          : 1
-rationalist_utopia                   : 1 : TO_CHECK
-rationalistic_fallacy                : 1 : TO_CHECK
+rationalist_utopia                   : 1
+rationalistic_fallacy                : 1
 rationality                          : 11
 rationing                            : 1
 ratios                               : 1
 rats                                 : 2      : rat
-raul_pacheco_vega                    : 25 : TO_CHECK
 rave                                 : 2
 raven                                : 1
 raven_software                       : 1
 raw_story                            : 2
-rawls                                : 1 : TO_CHECK
 raytheon                             : 2
 razor                                : 1
 razor_blades                         : 1
 RBox                                 : 1
 RBS                                  : 1
-RCMP                                 : 1 : TO_CHECK
+RCMP                                 : 1
 RCT                                  : 1
-RCTs                                 : 1 : TO_CHECK
+RCTs                                 : 1 : RCT
 RDF                                  : 1
 rdf                                  : 3      : RDF
 RDoC                                 : 1
@@ -200,7 +175,7 @@ re_organization                      : 1
 re_reading                           : 1
 reach                                : 1
 reachability                         : 1
-REACT                                : 1 : TO_CHECK
+REACT                                : 1
 react                                : 18
 reaction_diffusion                   : 1
 reactionary_mind                     : 1
@@ -212,7 +187,7 @@ reactive_planning                    : 8
 reactive_programming                 : 2
 reactive_systems                     : 2
 read_only                            : 1
-read_the_comments                    : 1 : TO_CHECK
+read_the_comments                    : 1
 readability                          : 3
 reader                               : 7
 reader_modeling                      : 1
@@ -229,7 +204,7 @@ readsludge                           : 1
 reaganism                            : 1
 real-world                           : 1      : real_world
 real_estate                          : 5
-real_estate_law                      : 1 : TO_CHECK
+real_estate_law                      : 1
 real_life_mag                        : 2
 real_python                          : 2
 real_time                            : 1
@@ -242,17 +217,17 @@ reality                              : 6
 reality_construction                 : 1
 reality_tv                           : 1
 reallifemag                          : 1      : real_life_mag
-realpolitik                          : 1 : TO_CHECK
+realpolitik                          : 1
 realtime_csg                         : 3
 reason                               : 11
 reasoning                            : 65
 reasoning_systems                    : 1
 rebase                               : 2
-rebate_function                      : 1 : TO_CHECK
+rebate_function                      : 1
 rebellion                            : 3
-rebirth                              : 1 : TO_CHECK
+rebirth                              : 1
 reboot                               : 2
-rebordering                          : 1 : TO_CHECK
+rebordering                          : 1
 rebus_community                      : 1
 RECALL                               : 1
 recall                               : 3
@@ -260,12 +235,11 @@ recap                                : 1
 recategorisation                     : 1
 receipt                              : 3
 recent_history                       : 1
-recep_erdogan                        : 2 : TO_CHECK
 recession                            : 4
 recidivism                           : 3
 recipe                               : 4
 recipes                              : 2      : recipe
-reciprocation                        : 1 : TO_CHECK
+reciprocation                        : 1
 reciprocity                          : 3
 recode                               : 1
 recognition                          : 6
@@ -315,7 +289,7 @@ red_flags                            : 1
 red_light_politics                   : 1
 red_lining                           : 1
 red_mars                             : 3
-red_peasant_union                    : 1 : TO_CHECK
+red_peasant_union                    : 1
 red_queen                            : 1
 red_storm                            : 1
 red_summer                           : 1
@@ -337,7 +311,6 @@ redundancy                           : 4
 reduundancy                          : 1      : redundancy
 redux                                : 4
 reearch                              : 1      : research
-reed_solomon                         : 1 : TO_CHECK
 reenactment                          : 2
 reeview                              : 1      : review
 refactoring                          : 7
@@ -352,7 +325,7 @@ refinements                          : 1
 refinery                             : 4
 reflection                           : 18
 reflective_choices                   : 1
-reflective_learning                  : 1 : TO_CHECK
+reflective_learning                  : 1
 reflective_tower                     : 1
 reflexion                            : 1      : reflexive
 reflexive                            : 1
@@ -382,7 +355,7 @@ regional_haze                        : 1
 regional_inequality                  : 1
 regional_networks                    : 1
 regions                              : 1
-registered_voters                    : 1 : TO_CHECK
+registered_voters                    : 1
 registration                         : 1
 regression                           : 10
 regression_discontinuity             : 3
@@ -391,7 +364,7 @@ regulation                           : 83
 regulations                          : 3      : regulation
 regulative                           : 1
 regulatory_categorization            : 1
-regulatory_regions                   : 1 : TO_CHECK
+regulatory_regions                   : 1
 rehab                                : 1      : rehabilitation
 rehabilitation                       : 2
 reification                          : 1
@@ -451,7 +424,7 @@ remembrance                          : 1
 remote_control                       : 1
 remote_desktop                       : 1
 remote_experience                    : 1
-remote_teaching                      : 1 : TO_CHECK
+remote_teaching                      : 1
 remote_work                          : 1
 removal                              : 1
 renagade_inc                         : 1
@@ -461,7 +434,6 @@ render                               : 1
 rendering                            : 6
 RenderMonkey                         : 1
 rendition                            : 1
-rene_thom                            : 1 : TO_CHECK
 renewable                            : 1
 renewable_energy                     : 3
 renovation                           : 2
@@ -483,10 +455,10 @@ RePartitura                          : 1
 Repast                               : 1
 repatriation                         : 1
 repayment                            : 1
-reperformance                        : 1 : TO_CHECK
-repertoire                           : 1 : TO_CHECK
+reperformance                        : 1
+repertoire                           : 1
 repetition                           : 4
-repetitive_edits                     : 1 : TO_CHECK
+repetitive_edits                     : 1
 replacing_guilt                      : 1
 replay                               : 1      : replayability
 replayability                        : 1
@@ -502,7 +474,7 @@ reporting                            : 2
 reporting_guidelines                 : 1
 reports                              : 1      : report
 representation                       : 60
-representation_learning              : 1 : TO_CHECK
+representation_learning              : 1
 representational_complexity          : 1
 representational_harms               : 1
 representational_similarity_analysis : 1
@@ -538,7 +510,7 @@ resale                               : 1
 reseach                              : 1      : research
 researc                              : 1      : research
 research                             : 365
-research_ethics                      : 13 : TO_CHECK
+research_ethics                      : 13
 research_group                       : 1
 research_methods                     : 2
 research_questions                   : 6
@@ -559,16 +531,16 @@ resistane                            : 1      : resistance
 resistence                           : 1      : resistance
 resisting_militarism                 : 1
 ReSkii                               : 1
-resnick_family                       : 1 : TO_CHECK
+resnick_family                       : 1
 resolution                           : 8
 resolutions                          : 1      : resolution
 resonance                            : 1
-resonance_iteration                  : 1 : TO_CHECK
+resonance_iteration                  : 1
 resource                             : 59
 resource_allocation                  : 3
-resource_bounded                     : 1 : TO_CHECK
+resource_bounded                     : 1
 resource_description_framework       : 2
-resource_distribution                : 1 : TO_CHECK
+resource_distribution                : 1
 resource_management                  : 3
 resource_protocol                    : 1
 resource_sharing                     : 1
@@ -585,13 +557,13 @@ responsibility                       : 23
 responsible_ai                       : 1
 responsive                           : 1
 responsive_instruments               : 1
-REST                                 : 2 : TO_CHECK
+REST                                 : 2
 restaurant                           : 6
 restaurants                          : 1      : restaurant
-restitution                          : 1 : TO_CHECK
+restitution                          : 1
 restorative_justice                  : 1
 restorative_justie                   : 1      : restorative_justice
-RESTORE                              : 1 : TO_CHECK
+RESTORE                              : 1
 restraint                            : 1
 restraints                           : 1
 restricted_entailment                : 1
@@ -599,7 +571,7 @@ restricted_play                      : 1
 restriction                          : 1
 restrooms                            : 1      : public_toilet
 resumable                            : 1
-resumes                              : 2 : TO_CHECK
+resumes                              : 2
 retail                               : 3
 retaliation                          : 1
 RETE                                 : 1
@@ -618,7 +590,7 @@ retro_games                          : 1
 retroactive_authorship               : 1
 retroactivity                        : 1
 retrospective                        : 15
-return_of_the_living_dead            : 1 : TO_CHECK
+return_of_the_living_dead            : 1
 return_to                            : 4
 reunification                        : 1
 reuninfication                       : 2 : reunification
@@ -654,9 +626,9 @@ revolutionary_warfare                : 1
 revoution                            : 1      : revolution
 reward                               : 2
 reward_functions                     : 1
-reward_systems                       : 1 : TO_CHECK
+reward_systems                       : 1
 rewards                              : 1
-REWE                                 : 1 : TO_CHECK
+REWE                                 : 1
 rewire                               : 3
 rewriting                            : 5
 rezk_types                           : 1
@@ -674,14 +646,12 @@ RHO_calculus                         : 1
 rhode_island                         : 1
 rhodes                               : 1
 rhodesia                             : 1
-rhodri_phillipps                     : 1 : TO_CHECK
 rhubarb                              : 1
 rhyhtm                               : 1      : rhythm
-rhyme                                : 1 : TO_CHECK
+rhyme                                : 1
 rhythm                               : 14
-rhythmanalysis                       : 1 : TO_CHECK
+rhythmanalysis                       : 1
 rhythms                              : 2      : rhythm
-ria_harpsichord                      : 1 : TO_CHECK
 RIAA                                 : 10
 ribbonfarm                           : 2
 rice                                 : 5
@@ -689,14 +659,12 @@ rich                                 : 2
 rich_countries                       : 1
 rich_description                     : 1
 rich_people_feelings_graph           : 1
-richmond                             : 1 : TO_CHECK
+richmond                             : 1
 richocet                             : 1
 rick_and_morty                       : 1
-ricoeur                              : 2 : TO_CHECK
-riddles                              : 1 : TO_CHECK
+riddles                              : 1
 ridgewood                            : 1
 riding                               : 2
-ridley_scott                         : 1 : TO_CHECK
 riemann                              : 1
 RIF_RPD                              : 1
 RIFTS                                : 1
@@ -704,14 +672,14 @@ rigging                              : 5
 right_of_way                         : 1
 right_to_be_forgotten                : 1
 right_to_explanation                 : 1
-right_to_information                 : 1 : TO_CHECK
+right_to_information                 : 1
 right_to_light                       : 1
 right_to_rent                        : 2
 right_wing                           : 22
 righteousness                        : 1
 rights                               : 24
 rights_info                          : 2
-rigidity                             : 1 : TO_CHECK
+rigidity                             : 1
 rigor                                : 1
 rikers                               : 3
 rilke                                : 1
@@ -724,7 +692,7 @@ rio_de_janerio                       : 1
 riot                                 : 3
 riot_games                           : 1
 riots                                : 7
-rippl_down_rules                     : 1 : TO_CHECK
+rippl_down_rules                     : 1 : ripple_down_rules
 ripple_down                          : 1
 RISC                                 : 1
 risk                                 : 30
@@ -740,8 +708,8 @@ rites                                : 2
 ritman_library                       : 1
 ritual                               : 77
 ritual_combat                        : 1
-ritual_fasting                       : 1 : TO_CHECK
-ritual_performance                   : 1 : TO_CHECK
+ritual_fasting                       : 1
+ritual_performance                   : 1
 rituals                              : 2      : ritual
 river                                : 1
 riviere                              : 1
@@ -753,7 +721,6 @@ ROADMAP                              : 1
 roadmap                              : 2
 roads                                : 4
 roam                                 : 4
-rob_altenhaus                        : 1 : TO_CHECK
 robbery                              : 1
 roberts_rules                        : 1
 roberts_rules_of_order               : 1      : roberts_rules
@@ -763,17 +730,15 @@ robo_cup                             : 2
 robocall                             : 1      : robo_calls
 robocalls                            : 1      : robo_calls
 robot                                : 1
-robot_damage_recovery                : 1 : TO_CHECK
-robot_ethics                         : 1 : TO_CHECK
+robot_damage_recovery                : 1
+robot_ethics                         : 1
 robot_rights                         : 1
 robot_teams                          : 1
 RobotFlow                            : 1
 robotics                             : 84
 robotis                              : 2      : robotics
 robots                               : 2 : robot
-robtel_neajai_pailey                 : 1 : TO_CHECK
 robustness                           : 3
-roch_kabore                          : 1 : TO_CHECK
 ROCIC                                : 1
 rock                                 : 1
 rock_fortress                        : 1
@@ -781,15 +746,11 @@ rock_music                           : 1
 rock_n_roll                          : 1
 rock_paper_scissors                  : 1
 rock_paper_shotgun                   : 308
-rockafeller                          : 1 : TO_CHECK
 rocket_launcher                      : 1
 rockpapershotgun                     : 1 : rock_paper_shotgun
 rocks                                : 1
 rockstar                             : 1      : rockstar_games
 rockstar_games                       : 1
-rockwell_anyoha                      : 1 : TO_CHECK
-rod_blagojevich                      : 1 : TO_CHECK
-rod_ponton                           : 1 : TO_CHECK
 rodrik                               : 1
 roe_v_wade                           : 7
 rogue_archivist                      : 1
@@ -797,7 +758,7 @@ rogue_like                           : 26
 roguelike                            : 25     : rogue_like
 rohingya_muslims                     : 1
 role_change                          : 1
-role_identification                  : 1 : TO_CHECK
+role_identification                  : 1
 role_models                          : 1
 role_passing                         : 1
 role_play                            : 4
@@ -817,7 +778,7 @@ rom                                  : 1      : roms
 roma                                 : 1
 roman                                : 1
 roman_constitution                   : 1
-roman_empire                         : 2 : TO_CHECK
+roman_empire                         : 2
 roman_law                            : 1
 roman_numerals                       : 1
 romance                              : 4
@@ -826,16 +787,15 @@ romance_system                       : 1
 romance_systems                      : 2      : romance_system
 romania                              : 2
 romano_british                       : 1
-romanovs                             : 3 : TO_CHECK
+romanovs                             : 3
 romans                               : 2
-romantic_period                      : 1 : TO_CHECK
+romantic_period                      : 1
 romanticism                          : 2
 rome                                 : 7
 roms                                 : 2
 roof                                 : 1
 roofing                              : 1
 roofman                              : 1
-roosh                                : 1 : TO_CHECK
 root_cause                           : 1
 ropposum                             : 1
 Roraima                              : 1
@@ -843,21 +803,16 @@ ROS                                  : 1
 rosaries                             : 1
 rosemarys_baby                       : 1
 rosetta_code                         : 3
-rosetta_stone                        : 1 : TO_CHECK
+rosetta_stone                        : 1
 Rosette                              : 1
-rosh_hashanah                        : 1 : TO_CHECK
 ROSI                                 : 1
-rosie_cappuccino                     : 2 : TO_CHECK
-rosie_spinks                         : 1 : TO_CHECK
-ross_benes                           : 1 : TO_CHECK
 rostam_cycle                         : 1
 rotation                             : 1
 round_city                           : 1
 roundabout                           : 1
 roundup                              : 1
-rousseau                             : 4 : TO_CHECK
 routes                               : 1
-routh_stability_criterion            : 1 : TO_CHECK
+routh_stability_criterion            : 1
 routine                              : 3
 routine_activity                     : 2
 routine_dynamics                     : 1
@@ -888,7 +843,7 @@ rubbish_theory                       : 1
 rubiks_code                          : 1
 rubiks_cube                          : 1
 ruby                                 : 5
-ruby_ridge                           : 1 : TO_CHECK
+ruby_ridge                           : 1
 ruffs                                : 1
 rug                                  : 1
 rugs                                 : 1      : rug
@@ -896,19 +851,19 @@ ruinarch                             : 1
 rule                                 : 48
 rule_1557                            : 2
 rule_based_systems                   : 1
-rule_book                            : 9 : TO_CHECK
+rule_book                            : 9
 rule_breaking                        : 3
 rule_engine                          : 28
 rule_extraction                      : 1
 rule_generation                      : 1
-rule_language                        : 1 : TO_CHECK
+rule_language                        : 1
 rule_learning                        : 3
 rule_mining                          : 1
 rule_ml                              : 7
 rule_modifications                   : 1
 rule_of_3                            : 2
 rule_of_law                          : 2
-rule_ordering                        : 1 : TO_CHECK
+rule_ordering                        : 1
 rule_system                          : 3
 rule_systems                         : 4      : rule_system
 rule_template                        : 1
@@ -916,11 +871,11 @@ rulelog                              : 3
 ruleml                               : 1      : RuleML
 RuleML                               : 3
 ruleML                               : 8      : RuleML
-ruleness                             : 1 : TO_CHECK
+ruleness                             : 1
 rulers                               : 1
 rules                                : 154    : rule
 RUM                                  : 1
-rumi                                 : 1 : TO_CHECK
+rumi                                 : 1
 rumor                                : 1      : rumour
 rumour                               : 1
 rumours                              : 1      : rumour
@@ -932,17 +887,15 @@ runtime                              : 5
 runtime_parsing                      : 1
 runtime_verification                 : 1
 rural                                : 4
-rural_credit                         : 1 : TO_CHECK
+rural_credit                         : 1
 rural_life                           : 1
-rural_society                        : 1 : TO_CHECK
+rural_society                        : 1
 rural_whites                         : 2
-rush_limbaugh                        : 3 : TO_CHECK
-russell_strong                       : 1 : TO_CHECK
 russia                               : 82
 russiamagnitogorsk                   : 1      : russia : magnitogorsk
 russian                              : 5
 russian_doll                         : 2
-russian_orthodox_church              : 2 : TO_CHECK
+russian_orthodox_church              : 2
 Rust                                 : 2      : rust
 rust                                 : 6
 rutheless                            : 1      : ruthless
@@ -951,4 +904,3 @@ ruthlessness                         : 1      : ruthless
 rview                                : 3      : review
 rwanda                               : 2
 rybaiyat_of_omar_khayyam             : 1
-ryland_g                             : 1 : TO_CHECK

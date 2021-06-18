@@ -13,9 +13,8 @@ dagger                                    : 1
 DAGS                                      : 1  : DAGs
 DAGs                                      : 2
 dagstuhl                                  : 7
-dahlia_lithwick                           : 2 : TO_CHECK
 DAI                                       : 1
-daily_activity                            : 3 : TO_CHECK
+daily_activity                            : 3
 daily_beast                               : 5
 daily_briefing                            : 1
 daily_express                             : 1
@@ -27,27 +26,25 @@ daily_maverick                            : 1
 daily_mirror                              : 1
 daily_news                                : 1
 daily_patterns                            : 1
-daily_practices                           : 1 : TO_CHECK
-daily_ritual                              : 2 : TO_CHECK
+daily_practices                           : 1
+daily_ritual                              : 2
 daily_wire                                : 1
 dailybeast                                : 4
 dailydot                                  : 1
 dailykos                                  : 1
 dailyprogress                             : 1
 dailytelegraph                            : 1
-daisy_chaining                            : 1 : TO_CHECK
-daisy_jones                               : 2 : TO_CHECK
+daisy_chaining                            : 1
 dakota                                    : 5
 dakota_access_pipeline                    : 3
 dakota_county                             : 2
-dale_lane                                 : 1 : TO_CHECK
 dalek                                     : 3
-dalit                                     : 2 : TO_CHECK
+dalit                                     : 2
 dallas                                    : 1
 dallas_morning_news                       : 1
 damage                                    : 1
-damage recovery                           : 1 : TO_CHECK
-damascus                                  : 1 : TO_CHECK
+damage recovery                           : 1
+damascus                                  : 1
 dambulla                                  : 1
 dame_dev                                  : 1  : game_dev
 DAML                                      : 1
@@ -65,7 +62,6 @@ dancing_plague                            : 1
 dandong                                   : 1
 dangerous_jobs                            : 1
 danish                                    : 1
-dante                                     : 3 : TO_CHECK
 DAPL                                      : 1
 DAR                                       : 1
 dark                                      : 1
@@ -74,12 +70,12 @@ dark_age_of_camelot                       : 1
 dark_ages                                 : 2
 dark_constellations                       : 1
 dark_money                                : 1
-dark_organisation                         : 1 : TO_CHECK
+dark_organisation                         : 1
 dark_pattern                              : 1
 dark_patterns                             : 5  : dark_pattern
 dark_souls                                : 12
 dark_thoughts                             : 1
-dark_value                                : 1 : TO_CHECK
+dark_value                                : 1
 darklands                                 : 1
 darksiders                                : 1
 darkwood                                  : 1
@@ -90,9 +86,9 @@ dartmouth                                 : 1
 DARVO                                     : 2
 dasein                                    : 1
 dasharezone                               : 1
-dask                                      : 1 : TO_CHECK
+dask                                      : 1
 DASSIE                                    : 1
-dassur                                    : 1 : TO_CHECK
+dassur                                    : 1
 Data                                      : 1 : data
 data                                      : 82
 data_analysis                             : 158
@@ -103,15 +99,15 @@ data_caps                                 : 1
 data_collection                           : 1
 data_creators                             : 1
 data_cubes                                : 1
-data_density                              : 1 : TO_CHECK
+data_density                              : 1
 data_dependence                           : 1
 data_description                          : 1
 data_down_actions_up                      : 1
 data_driven                               : 3
-data_driven_governance                    : 1 : TO_CHECK
+data_driven_governance                    : 1
 data_driven_history                       : 1
-data_driven_languages                     : 1 : TO_CHECK
-data_driven_legal_technology              : 1 : TO_CHECK
+data_driven_languages                     : 1
+data_driven_legal_technology              : 1
 data_exploration                          : 1
 data_feminism                             : 3
 data_flow                                 : 4
@@ -131,14 +127,14 @@ data_mining                               : 12
 data_orientation                          : 1
 data_our_selves                           : 1
 data_ownership                            : 1
-data_politics                             : 1 : TO_CHECK
+data_politics                             : 1
 data_presentation                         : 1
 data_processing                           : 1
 data_protection                           : 3
 data_provenance                           : 1
-data_quality                              : 1 : TO_CHECK
+data_quality                              : 1
 data_representations                      : 1
-data_rights                               : 1 : TO_CHECK
+data_rights                               : 1
 data_science                              : 26
 data_sciene                               : 1  : data_science
 data_sets                                 : 95
@@ -154,7 +150,7 @@ databases                                 : 4  : database
 databse                                   : 1  : database
 dataflow                                  : 1  : data_flow
 datalexic                                 : 2
-datalog                                   : 2 : TO_CHECK
+datalog                                   : 2
 dataset                                   : 7
 dataset_shift                             : 1
 datasets                                  : 1  : dataset
@@ -175,7 +171,7 @@ DAW                                       : 1
 dawn_of_man                               : 1
 dawn_of_war                               : 3
 daycare                                   : 1
-daytime_tv                                : 1 : TO_CHECK
+daytime_tv                                : 1
 dayton                                    : 1
 dayton_shooting                           : 1
 DayZ                                      : 1
@@ -189,8 +185,8 @@ DDE                                       : 1
 DDLA                                      : 1
 DDOS                                      : 1
 DDoS                                      : 2  : DDOS
-de_facto                                  : 1 : TO_CHECK
-de_jure                                   : 1 : TO_CHECK
+de_facto                                  : 1
+de_jure                                   : 1
 dea                                       : 4  : DEA
 DEA                                       : 9
 dead_children                             : 1
@@ -200,11 +196,8 @@ deadlines                                 : 1
 deadlock_detection                        : 1
 deadspin                                  : 1
 deaf                                      : 5
-deafness                                  : 1 : TO_CHECK
+deafness                                  : 1
 dealer                                    : 1
-dean_burnett                              : 1 : TO_CHECK
-dean_spears                               : 1
-deandre_levy                              : 1 : TO_CHECK
 deanonymization                           : 1
 dear_abby                                 : 1
 dear_esther                               : 1
@@ -212,7 +205,7 @@ deat                                      : 1  : death
 death                                     : 64
 death_cult                                : 2
 death_of_history                          : 1
-death_of_the_author                       : 1 : TO_CHECK
+death_of_the_author                       : 1
 death_panels                              : 1
 death_party                               : 2
 death_penalty                             : 14
@@ -220,13 +213,11 @@ death_row                                 : 1
 death_sentence                            : 1
 death_stranding                           : 3
 death_threats                             : 5
-death_valley                              : 1 : TO_CHECK
+death_valley                              : 1
 deathnote                                 : 1
 deaths                                    : 3  : death
 debate                                    : 20
 debates                                   : 1  : debate
-debbie_nathan                             : 1
-deblasio                                  : 1 : TO_CHECK
 debridement                               : 1
 debt                                      : 45
 debt_cancellation                         : 1
@@ -252,10 +243,10 @@ decentralised_systems                     : 4
 decentralization                          : 2  : decentralisation
 decentralized_systems                     : 4  : decentralised_systems
 deception                                 : 7
-deceptive_communication                   : 1 : TO_CHECK
+deceptive_communication                   : 1
 DECERNS                                   : 1
 decision                                  : 10 : decisions
-decision_analysis                         : 1 : TO_CHECK
+decision_analysis                         : 1
 decision_based_design                     : 1
 decision_interaction                      : 1
 decision_makers                           : 1
@@ -263,26 +254,26 @@ decision_making                           : 43
 decision_modeling                         : 1
 decision_rules                            : 1
 decision_support                          : 4
-decision_support_system                   : 1 : TO_CHECK
-decision_support_systems                  : 2
+decision_support_system                   : 1 : decision_support
+decision_support_systems                  : 2 : decision_support
 decision_theory                           : 2
 decision_tree                             : 1
 decision_trees                            : 5 : decision_tree
 decision_workflow                         : 1
 decisions                                 : 11
-deck_building                             : 2 : TO_CHECK
+deck_building                             : 2
 declaration                               : 2
 declarations                              : 1  : declaration
 declarative                               : 4
 declarative_languages                     : 1
-declarative_networking                    : 1 : TO_CHECK
+declarative_networking                    : 1
 declarative_semantics                     : 1
 declassified                              : 1
 decline                                   : 1
 decline_effect                            : 1
 decoding                                  : 1
 decolonial                                : 1
-decolonial_theory                         : 1 : TO_CHECK
+decolonial_theory                         : 1
 decolonialization                         : 1
 decolonisation                            : 9
 decolonization                            : 6  : decolonisation
@@ -296,17 +287,17 @@ decorators                                : 3 : decorator
 decriminalisation                         : 7
 deduction                                 : 3
 deductive_database                        : 1
-Deep neuroevolution                       : 1 : TO_CHECK
-Deep reinforcement learning               : 1 : TO_CHECK
+Deep neuroevolution                       : 1 : deep_neuroevolution
+Deep reinforcement learning               : 1 : deep_reinforcement_learning
 deep_dive                                 : 1
 deep_fakes                                : 1
 deep_learning                             : 137
 deep_neural_net                           : 5
-deep_neuroeveolution                      : 1 : TO_CHECK
+deep_neuroeveolution                      : 1
 deep_reinforcement_learning               : 1
 deep_sea                                  : 2
 deep_state                                : 2
-deep_web                                  : 1 : TO_CHECK
+deep_web                                  : 1
 deep_work                                 : 1
 deepmind                                  : 4
 deepTools                                 : 1
@@ -333,10 +324,10 @@ defiant.js                                : 1  : defiant_js
 defiant_js                                : 1
 deficit                                   : 1
 deficit_hawks                             : 1
-deficit_narrative                         : 1 : TO_CHECK
+deficit_narrative                         : 1
 deficits                                  : 1  : deficit
-deficity_myth                             : 1 : TO_CHECK
-define-advice                             : 1 : TO_CHECK
+deficity_myth                             : 1 : deficit_myth
+define-advice                             : 1 : define_advice
 DefineMe                                  : 2
 definition                                : 12
 definitions                               : 1  : definition
@@ -350,11 +341,8 @@ dehumanisation                            : 2
 dehumanization                            : 5  : dehumanisation
 deictic                                   : 1
 deictic_representation                    : 1
-deidre_mccloskey                          : 1 : TO_CHECK
 deinstitutionalization                    : 1
 DEIOS                                     : 1
-deirdre_cooper_owens                      : 1 : TO_CHECK
-deirdre_gentner                           : 3 : TO_CHECK
 deitic_representation                     : 1  : deictic_representation
 DEL                                       : 1
 delaratives                               : 1
@@ -366,14 +354,12 @@ delegates                                 : 1  : delegation
 delegation                                : 25
 delegation_logic                          : 1
 deletion                                  : 3
-deleuze                                   : 3 : TO_CHECK
 delhi                                     : 1
 deliberation                              : 2
-deliberative_dialogue                     : 1 : TO_CHECK
+deliberative_dialogue                     : 1
 deliberative_normative_agents             : 1
 delicacy                                  : 1
 delivery                                  : 1
-dell_cameron                              : 1 : TO_CHECK
 delta_v                                   : 2
 deltarune                                 : 1
 delver                                    : 2
@@ -385,9 +371,9 @@ demilked                                  : 1
 democracy                                 : 49
 democracy_now                             : 3
 democrat                                  : 1
-democratic_backsliding                    : 1 : TO_CHECK
+democratic_backsliding                    : 1
 democratic_establshment                   : 1  : democratic_establishment
-democratic_republic_of_congo              : 1 : TO_CHECK
+democratic_republic_of_congo              : 1
 democratic_socialism_simulator            : 4
 democrats                                 : 30
 demographic_parity                        : 1
@@ -408,14 +394,14 @@ denotational_semantics                    : 4
 density                                   : 2
 density_sort                              : 1
 dental                                    : 1
-dental_care                               : 1 : TO_CHECK
+dental_care                               : 1
 dentist                                   : 1 : dentistry
 dentistry                                 : 3
 denver                                    : 1
 denver_post                               : 2
 deontic                                   : 10
 deontic_logic                             : 44
-deontic_noema                             : 1 : TO_CHECK
+deontic_noema                             : 1
 deontics                                  : 2  : deontic
 deontological_reasoning                   : 1  : deontic_logic
 deontology                                : 1  : deontic
@@ -424,7 +410,7 @@ department_of_human_services              : 1
 department_stores                         : 1
 dependence                                : 4
 dependence_logic                          : 1
-dependence_theory                         : 1 : TO_CHECK
+dependence_theory                         : 1
 dependencies                              : 2  : dependency
 dependency                                : 4
 dependency_parsing                        : 3
@@ -433,7 +419,7 @@ dependent_typing                          : 1
 deployment                                : 3
 deportation                               : 15
 deposits                                  : 1
-depreivation                              : 1 : TO_CHECK
+depreivation                              : 1 : deprivation
 depression                                : 19
 deprivation                               : 2
 dept_of_education                         : 4
@@ -444,13 +430,12 @@ deradicalisation                          : 1
 derbyshire                                : 1
 deregulation                              : 6
 dermatitis                                : 1
-DeRool                                    : 1 : TO_CHECK
+DeRool                                    : 1
 DERRIC                                    : 1
-derrida                                   : 2 : TO_CHECK
 des_moines                                : 1
 des_moines_register                       : 1
 descartes                                 : 1
-descent_and_repel                         : 1 : TO_CHECK
+descent_and_repel                         : 1
 description                               : 8
 description_language                      : 1
 description_length                        : 1
@@ -462,24 +447,24 @@ desegregation                             : 2
 desert                                    : 3
 desert_island_discworld                   : 1
 desert_sun                                : 2
-deservingness                             : 2 : TO_CHECK
+deservingness                             : 2
 desigh                                    : 1 : design
 design                                    : 761
 design_artifacts                          : 1
 design_as_critique                        : 1
 design_challege                           : 1
-design_conventions                        : 1 : TO_CHECK
+design_conventions                        : 1
 design_doc                                : 3
 design_document                           : 4
 design_documents                          : 1  : design_document
 design_methodology                        : 1
-design_of_society                         : 1 : TO_CHECK
+design_of_society                         : 1
 design_pattern                            : 1
 design_patterns                           : 20 : design_pattern
-design_practice                           : 1 : TO_CHECK
+design_practice                           : 1
 design_questions                          : 1
 design_space                              : 3
-design_strategies                         : 1 : TO_CHECK
+design_strategies                         : 1
 design_thinking                           : 1
 designed_ethical_systems                  : 1
 designed_experience                       : 1
@@ -490,8 +475,8 @@ desires                                   : 1  : desire
 desks                                     : 1
 DESMON                                    : 1
 despair                                   : 1
-despotic_power                            : 1 : TO_CHECK
-despotism                                 : 1 : TO_CHECK
+despotic_power                            : 1
+despotism                                 : 1
 destiny                                   : 2
 destroy_all_software                      : 1
 destroyallsoftware                        : 1  : destroy_all_software
@@ -526,7 +511,7 @@ developers                                : 1
 developing_countries                      : 3
 developing_states                         : 1
 development                               : 16
-development_banks                         : 1 : TO_CHECK
+development_banks                         : 1
 development_economics                     : 1
 development_log                           : 1
 developmentalism                          : 1
@@ -559,15 +544,15 @@ dialetics                                 : 1  : dialectics
 dialgue                                   : 1  : dialogue
 dialog                                    : 5  : dialogue
 dialog_act                                : 1  : dialogue_act
-dialog_engine                             : 1 : TO_CHECK
-dialogic                                  : 1 : TO_CHECK
+dialog_engine                             : 1  : dialogue_engine
+dialogic                                  : 1
 dialogic_analysis                         : 1
 dialogue                                  : 76
 dialogue_act                              : 1
-dialogue_generation                       : 1 : TO_CHECK
+dialogue_generation                       : 1
 dialogue_logic                            : 1
 dialogue_management                       : 2
-dialogue_state_model                      : 1 : TO_CHECK
+dialogue_state_model                      : 1
 dialogue_systems                          : 3
 dialogue_tree                             : 2
 dialogue_trees                            : 1  : dialogue_tree
@@ -599,7 +584,7 @@ diets                                     : 2  : diet
 diff                                      : 3
 diff_structures                           : 1
 difference                                : 1
-differences_of_sex_development            : 1 : TO_CHECK
+differences_of_sex_development            : 1
 differential_equations                    : 2
 differential_programming                  : 1
 differentials                             : 1
@@ -612,20 +597,20 @@ diffusion                                 : 13
 digest_of_justinian                       : 1
 digiday                                   : 3
 digital                                   : 45
-digital ethnography                       : 1 : TO_CHECK
-digital sociology                         : 1 : TO_CHECK
+digital ethnography                       : 1 : digital_ethnography
+digital sociology                         : 1 : digital_sociology
 digital_antiquarian                       : 1
 digital_art                               : 5
 digital_art_restoration                   : 2
 digital_collection                        : 5
 digital_creativity                        : 1
-digital_economy                           : 1 : TO_CHECK
+digital_economy                           : 1
 digital_economy_act                       : 1
 digital_ethics                            : 1
 digital_ethnography                       : 1
 digital_evidence                          : 1
-digital_footprint                         : 1 : TO_CHECK
-digital_geography                         : 1 : TO_CHECK
+digital_footprint                         : 1
+digital_geography                         : 1
 digital_humanities                        : 1
 Digital_Humanities                        : 1  : digital_humanities
 digital_identity                          : 3
@@ -638,7 +623,7 @@ digital_literacy                          : 1
 digital_living                            : 1
 digital_maginot_line                      : 1
 digital_media                             : 2
-digital_ontology                          : 1 : TO_CHECK
+digital_ontology                          : 1
 digital_preservation                      : 1
 digital_records                           : 1
 digital_research                          : 1
@@ -646,17 +631,17 @@ digital_retreat                           : 1
 digital_rights                            : 9
 digital_signal_processing                 : 13
 digital_sts                               : 1
-digital_studies                           : 1 : TO_CHECK
-digital_technology                        : 1 : TO_CHECK
+digital_studies                           : 1
+digital_technology                        : 1
 DIGITEL                                   : 1
 digitisation                              : 2
 digitization                              : 2  : digitisation
 digitized_manuscripts                     : 1  : digitisation
 DIGMA                                     : 1
 dignity                                   : 1
-DiGRA                                     : 1 : TO_CHECK
 DIGRA                                     : 1
 digra                                     : 1  : DIGRA
+DiGRA                                     : 1
 dildo                                     : 2
 dilemma                                   : 3
 dilemmas                                  : 3  : dilemma
@@ -677,12 +662,12 @@ diphthong                                 : 1
 diplomacy                                 : 5
 DiPRA                                     : 1
 direchlet                                 : 1
-direct_action                             : 1 : TO_CHECK
+direct_action                             : 1
 direction                                 : 2
 dired                                     : 2
-dirty_harry                               : 2 : TO_CHECK
+dirty_harry                               : 2
 dirty_water                               : 1
-dirty_work                                : 1 : TO_CHECK
+dirty_work                                : 1
 DIS                                       : 1
 disabilities                              : 1  : disability
 disability                                : 100
@@ -701,12 +686,12 @@ disaster_menu                             : 1
 disaster_relief                           : 1
 disaster_studies                          : 1
 disasters                                 : 2
-disbelief                                 : 1 : TO_CHECK
-disciplinary_colonialism                  : 1 : TO_CHECK
+disbelief                                 : 1
+disciplinary_colonialism                  : 1
 discipline                                : 6
 disclosure                                : 1
 disco                                     : 1
-disco-reader                              : 1 : TO_CHECK
+disco-reader                              : 1 disco_reader
 disco_elysium                             : 1
 discomfort                                : 1
 discontinuity                             : 1
@@ -730,12 +715,12 @@ discrimination                            : 39
 discrimination_and_disparities            : 1
 discriminative_models                     : 1
 discrmination                             : 1  : discrimination
-discrouse                                 : 1 : TO_CHECK
+discrouse                                 : 1 : discourse
 discursive                                : 1
 discursive_analysis                       : 1
 discursive_psychology                     : 1
 discussion                                : 4
-discussion_forums                         : 1 : TO_CHECK
+discussion_forums                         : 1
 discworld                                 : 31
 disease                                   : 15
 disenchantment                            : 1
@@ -749,10 +734,10 @@ disinvestment                             : 1
 dislikes                                  : 1
 disney                                    : 9
 disneyland                                : 1  : disney
-disorder                                  : 1 : TO_CHECK
+disorder                                  : 1
 disorder_of_things                        : 1
 disourse                                  : 1  : discourse
-displacement                              : 1 : TO_CHECK
+displacement                              : 1
 display                                   : 2
 display_rules                             : 1
 disposability                             : 1  : disposable
@@ -769,7 +754,7 @@ dissidents                                : 1
 dissociation                              : 4
 dissonance                                : 1
 distance                                  : 3
-distance_learning                         : 1 : TO_CHECK
+distance_learning                         : 1
 distraction                               : 2
 distractionware                           : 1
 distress                                  : 1
@@ -778,7 +763,7 @@ distributed control                       : 1  : distributed_control
 distributed_cognition                     : 1
 distributed_communication                 : 1
 distributed_control                       : 2
-distributed_epistemic_labor               : 1 : TO_CHECK
+distributed_epistemic_labor               : 1
 distributed_obseration                    : 1
 distributed_programming                   : 1
 distributed_suffering                     : 2
@@ -796,22 +781,21 @@ ditchthelabel                             : 1  : ditch_the_label
 dither                                    : 2
 dither_machine                            : 1
 divergence                                : 1
-divergent_search                          : 1 : TO_CHECK
+divergent_search                          : 1
 diversification                           : 2
 diversity                                 : 75
-diversity_and_inclusion                   : 1 : TO_CHECK
-divestment                                : 1 : TO_CHECK
+diversity_and_inclusion                   : 1
+divestment                                : 1
 divination                                : 2
 divine_comedy                             : 1
-divine_command_theory                     : 1 : TO_CHECK
+divine_command_theory                     : 1
 diving_suit                               : 1
 divinity                                  : 1
 divio                                     : 1
 division_2                                : 1
-division_of_labor                         : 1 : TO_CHECK
+division_of_labor                         : 1  : division_of_labour
 division_of_labour                        : 9
 divorce                                   : 2
-diwan_lughat_al_turk                      : 1 : TO_CHECK
 dixiecrats                                : 5
 DIY                                       : 4
 diy                                       : 4  : DIY
@@ -832,7 +816,6 @@ DNA_testing                               : 2
 DND                                       : 3
 do_calculus                               : 1
 DOC                                       : 1
-doc_burford                               : 1 : TO_CHECK
 doc_gen                                   : 1
 docile_bodies                             : 1
 docker                                    : 3
@@ -845,7 +828,7 @@ doctor_who                                : 6
 doctors                                   : 12
 document                                  : 7
 document_cloud                            : 1
-document_standardization                  : 1 : TO_CHECK
+document_standardization                  : 1
 documentaries                             : 4  : documentary
 documentary                               : 5
 Documentation                             : 1 : documentation
@@ -868,16 +851,13 @@ doj                                       : 2  : DOJ
 doll                                      : 1
 dollhouse                                 : 2
 dolls                                     : 1  : doll
-dolly_lucio_sevier                        : 1 : TO_CHECK
-dolly_parton                              : 2 : TO_CHECK
 dolmetsch                                 : 1
-dolores_umbridge                          : 1 : TO_CHECK
 DOMA                                      : 2
 domain                                    : 1
 domain_driven_design                      : 1
 domain_elaboration_framework              : 1
-domain_independent_narrative_intelligence : 1 : TO_CHECK
-domain_knowledge                          : 1 : TO_CHECK
+domain_independent_narrative_intelligence : 1
+domain_knowledge                          : 1
 domain_models                             : 1
 domain_specific                           : 1
 domain_specific_modeling                  : 1
@@ -887,10 +867,10 @@ domain_warning                            : 1
 domains                                   : 6  : domain
 DOME                                      : 1
 domestic_abuse                            : 11
-domestic_ideology                         : 1 : TO_CHECK
+domestic_ideology                         : 1
 domestic_terrorism                        : 9
 domestic_violence                         : 33
-domestic_work                             : 1 : TO_CHECK
+domestic_work                             : 1
 domesticated_animals                      : 1
 dominance                                 : 2
 domination                                : 5
@@ -899,6 +879,7 @@ dominion                                  : 1
 domino                                    : 2
 donation                                  : 1
 donations                                 : 3  : donation
+donative_promises                         : 1
 donkey                                    : 1
 donkey_nannies                            : 1
 donner_party                              : 1
@@ -916,14 +897,13 @@ dorr_brothers                             : 1
 dos                                       : 2
 dosbox                                    : 2
 DOSS                                      : 1
-dostoyevsky                               : 1 : TO_CHECK
 dot_eating                                : 1
 dot_product                               : 4
 DOTA                                      : 1
 dota                                      : 5  : DOTA
 dotgraph                                  : 1
 double_entry_accounting                   : 1
-double_entry_bookkeeping                  : 2 : TO_CHECK
+double_entry_bookkeeping                  : 2
 double_meaning                            : 1
 double_standards                          : 1
 doublefine                                : 4
@@ -935,21 +915,20 @@ dow                                       : 1  : DOW
 download                                  : 1
 downs_syndrome                            : 3
 downsizing                                : 1
-downtime                                  : 1 : TO_CHECK
+downtime                                  : 1
 downward_counterfactuals                  : 1
-downward_mobility                         : 1 : TO_CHECK
-doxa                                      : 1 : TO_CHECK
+downward_mobility                         : 1
+doxa                                      : 1
 doxastic                                  : 2
-doxastic_agreement                        : 1 : TO_CHECK
+doxastic_agreement                        : 1
 doxastic_closure                          : 1
-doxastic_logic                            : 1 : TO_CHECK
+doxastic_logic                            : 1
 doxing                                    : 2
 doxygen                                   : 6
 DPL2019                                   : 1
 DPRK                                      : 1
 DQN                                       : 2
 dr_dolittle                               : 1  : doctor_dolittle
-dr_phil                                   : 1 : TO_CHECK
 dr_who                                    : 6  : doctor_who
 dracula                                   : 2
 draft                                     : 1
@@ -962,17 +941,17 @@ dragon_speech                             : 1
 dragons                                   : 1  : dragon
 dragons_doga                              : 1  : dragons_dogma
 dragons_dogma                             : 1
-drakan                                    : 1 : TO_CHECK
+drakan                                    : 1
 drake_equation                            : 1
 drama                                     : 7
 drama_management                          : 6
 drama_manager                             : 2
-drama_theory                              : 8 : TO_CHECK
-dramatic_resolution                       : 1 : TO_CHECK
+drama_theory                              : 8
+dramatic_resolution                       : 1
 dramaturgical_analysis                    : 2
 dramaturgy                                : 1
-DrammarOCC                                : 1 : TO_CHECK
-dravidian_movement                        : 1 : TO_CHECK
+DrammarOCC                                : 1
+dravidian_movement                        : 1
 drawing                                   : 35
 drawings                                  : 1  : drawing
 DRC                                       : 2
@@ -985,7 +964,7 @@ dream_hack                                : 1
 dream_lens                                : 1
 DreamHack                                 : 1  : dream_hack
 dreaming                                  : 1
-dreampolitik                              : 1 : TO_CHECK
+dreampolitik                              : 1
 dreams                                    : 1
 dreamworks                                : 2
 dreamworks_interactive                    : 1
@@ -993,8 +972,6 @@ dress                                     : 2
 dress_barn                                : 1
 dress_code                                : 4
 dresses                                   : 2  : dress
-drew_desilver                             : 1 : TO_CHECK
-drew_harwell                              : 1 : TO_CHECK
 drilling                                  : 1
 drills                                    : 1  : drilling
 drinking                                  : 1
@@ -1013,7 +990,7 @@ drones                                    : 6  : drone
 DROOLS                                    : 1
 Drools                                    : 2  : drools
 drools                                    : 5
-drosophilia                               : 1 : TO_CHECK
+drosophilia                               : 1
 drought                                   : 1
 drowning                                  : 2
 drowsiness                                : 2
@@ -1043,21 +1020,19 @@ DSLR                                      : 1
 dslr                                      : 1  : DSLR
 DSLs                                      : 3  : DSL
 DSM                                       : 2
-dsm5                                      : 1 : TO_CHECK
+dsm5                                      : 1 : DSMV
 DSML                                      : 1
 DSMLs                                     : 1
 DSMV                                      : 2
 DSP                                       : 1
 dsp                                       : 5  : DSP
-DTA                                       : 1 : TO_CHECK
+DTA                                       : 1
 DTMC                                      : 1
-du_bois                                   : 17 : TO_CHECK
 du_pont                                   : 1
 dual_process                              : 1
 dualism                                   : 1
 duality_of_structure                      : 1
-duane_kearns_puryear                      : 1 : TO_CHECK
-dubai                                     : 2 : TO_CHECK
+dubai                                     : 2
 dublin                                    : 2
 ducation                                  : 2  : education
 ducks                                     : 1
@@ -1066,9 +1041,8 @@ due_process                               : 2
 duel                                      : 3
 duke_nukem                                : 1
 duke_university                           : 1
-dummies                                   : 1 : TO_CHECK
+dummies                                   : 1
 dunbars_number                            : 1
-duncan_watts                              : 1 : TO_CHECK
 dundee                                    : 1
 dune                                      : 5
 dungeon                                   : 4
@@ -1082,23 +1056,20 @@ dungeons_and_dragons                      : 8
 dungon                                    : 1  : dungeon
 dungons_and_dragons                       : 1  : dungeons_and_dragons
 dunning_kruger                            : 2
-Dunyazad                                  : 1 : TO_CHECK
-duomo_di_milano                           : 2 : TO_CHECK
+Dunyazad                                  : 1
 DUP                                       : 2
 duration                                  : 1
-durative_activities                       : 1 : TO_CHECK
+durative_activities                       : 1
 durham                                    : 1
 durham_weed_man                           : 1
-durkheim                                  : 4 : TO_CHECK
 durrani_empire                            : 1
 dutch                                     : 6
 dutch_east_indies_company                 : 1
-dutch_republic                            : 1 : TO_CHECK
+dutch_republic                            : 1
 dutee_chand                               : 1
-duterte                                   : 1 : TO_CHECK
 duties                                    : 2  : duty
 duty                                      : 1
-duty_of_care                              : 1 : TO_CHECK
+duty_of_care                              : 1
 DVD                                       : 1
 dw                                        : 1
 dwarf                                     : 1
@@ -1109,28 +1080,26 @@ dwarfcorp                                 : 1  : dwarf_corp
 dwarfism                                  : 1
 dwarves                                   : 1  : dwarf
 dwelling                                  : 1
-dwight_eisenhower                         : 2 : TO_CHECK
 dwp                                       : 1  : DWP
 DWP                                       : 12
 dyadic                                    : 1
-dyadic_deontic_logic                      : 1 : TO_CHECK
+dyadic_deontic_logic                      : 1
 dyck_extended_language                    : 1
 dyck_reachability                         : 1
 dying                                     : 1 : death
-dylan_roof                                : 1 : TO_CHECK
 dynamic                                   : 5
 dynamic norms                             : 1  : dynamic_norms
 dynamic_algebra                           : 1
 dynamic_analysis                          : 1
 dynamic_checkers                          : 1
-dynamic_cognitive_tracing                 : 1 : TO_CHECK
+dynamic_cognitive_tracing                 : 1
 dynamic_conversation                      : 1
 dynamic_deontics                          : 1
 dynamic_difficulty                        : 2
 dynamic_difficulty_adjustment             : 1
 dynamic_disability                        : 2
 dynamic_documents                         : 1
-dynamic_environments                      : 1 : TO_CHECK
+dynamic_environments                      : 1
 dynamic_epistemic_logic                   : 1
 dynamic_graphs                            : 1
 dynamic_intention_structures              : 1
@@ -1148,14 +1117,14 @@ dynamic_task_activation                   : 1
 dynamic_tonality                          : 1
 dynamic_typing                            : 1
 dynamical_meaning                         : 1
-dynamical_regimes                         : 1 : TO_CHECK
 Dynamical_Regimes                         : 1 : dynamical_regimes
+dynamical_regimes                         : 1
 Dynamical_systems                         : 1  : dynamic_systems
 dynamical_systems                         : 2  : dynamic_systems
-dynamical_systems_modelling               : 1 : TO_CHECK
+dynamical_systems_modelling               : 1
 dynamics                                  : 13
 dynasties                                 : 1
-dynasty                                   : 1 : TO_CHECK
+dynasty                                   : 1
 dysfunction                               : 2
 dyslexia                                  : 1
 dyson_sphere                              : 1

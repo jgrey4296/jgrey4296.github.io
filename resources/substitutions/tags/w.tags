@@ -1,8 +1,8 @@
 w3                               : 3
-w_e_b_du_bois                    : 1 : TO_CHECK
+
 wabi_sabi                        : 1
 waco                             : 1
-WADE                             : 1 : TO_CHECK
+WADE                             : 1
 wafb                             : 1
 waffle_house                     : 1
 waffle_house_shooting            : 3
@@ -16,7 +16,7 @@ wakanda                          : 1
 wake_on_lan                      : 1
 walb                             : 1
 walden_7                         : 1
-walden_two                       : 1 : TO_CHECK
+walden_two                       : 1
 waldenponding                    : 2
 waldo                            : 1
 wales                            : 3
@@ -83,8 +83,8 @@ wastewater                       : 1
 WAT                              : 1
 watabou                          : 2
 watch                            : 1
-watch_dogs                       : 2 : TO_CHECK
-watchdogs                        : 1
+watch_dogs                       : 2
+watchdogs                        : 1 : watch_dogs
 watchmen                         : 3
 water                            : 51
 water_colour                     : 1
@@ -93,9 +93,9 @@ water_ethics                     : 1
 water_main                       : 1
 water_mains                      : 1   : water_main
 water_management                 : 1
-water_quality                    : 1 : TO_CHECK
-water_rights                     : 4 : TO_CHECK
-water_shutoffs                   : 1 : TO_CHECK
+water_quality                    : 1
+water_rights                     : 4
+water_shutoffs                   : 1
 water_towers                     : 1
 watercolour                      : 2   : water_colour
 watercolour_world                : 1   : water_colour_world
@@ -113,16 +113,15 @@ wavenet                          : 2
 waves                            : 1
 WAVES                            : 1   : waves
 wayback                          : 13
-wayne_mcgregor                   : 1 : TO_CHECK
 waypoint                         : 18
 wbez                             : 2
 wcbs880                          : 1
-wcd_fyi                          : 1 : TO_CHECK
+wcd_fyi                          : 1
 we_are_the_caretakers            : 1
 weak_ai                          : 1
 weak_emergence                   : 1
 weak_order                       : 1
-weak_signals                     : 1 : TO_CHECK
+weak_signals                     : 1
 weak_states                      : 1
 weak_ties                        : 2
 weakening                        : 1
@@ -134,7 +133,7 @@ wealth_inequality                : 27
 wealth_of_information            : 1
 wealth_transfer                  : 1
 weapons                          : 7
-weapons_of_influence             : 1 : TO_CHECK
+weapons_of_influence             : 1
 wearable_tech                    : 1
 weasel                           : 1
 weather                          : 7
@@ -169,7 +168,6 @@ webcomic                         : 1
 WebDAV                           : 1
 webdev                           : 2   : web_development
 WebDSL                           : 1
-weber                            : 16 : TO_CHECK
 webGL                            : 1   : web_GL
 webgl                            : 9   : web_GL
 webpack                          : 9   : web_pack
@@ -182,16 +180,15 @@ weed                             : 1
 weekly_standard                  : 1
 weeklystandard                   : 1   : weekly_standard
 weight                           : 1
-weight_loss                      : 1 : TO_CHECK
+weight_loss                      : 1
 weighted_scoring_method          : 1
 weighting                        : 2
-weightloss                       : 1
-weights                          : 7
-weimar                           : 1
+weightloss                       : 1 : weight_loss
+weights                          : 7 : weight
+weimar                           : 1 : weimar_germany
 weimar_germany                   : 1
 weird                            : 2
 weird_fiction                    : 2
-weiyi_cai                        : 1 : TO_CHECK
 welcome_collection               : 1
 welding                          : 1
 welfare                          : 36
@@ -208,16 +205,10 @@ well_played                      : 1
 wellbeing                        : 1   : well_being
 wells                            : 1
 welsh                            : 1
-wendy_blchere                    : 1 : TO_CHECK
-wendy_carlos                     : 1 : TO_CHECK
-wendy_cross                      : 1 : TO_CHECK
 werewolf                         : 3
 werewolf_syndrome                : 1
 werewolves                       : 1 : werewolf
-wes_anderson                     : 1 : TO_CHECK
-wes_goodman                      : 1 : TO_CHECK
 wesa                             : 1
-wesley_ryan                      : 1 : TO_CHECK
 west_africa                      : 1
 west_coast                       : 1
 west_indian                      : 1
@@ -229,7 +220,7 @@ west_virginia                    : 4
 west_wing                        : 3
 westboro                         : 1
 western_civilization             : 1
-western_culture                  : 1 : TO_CHECK
+western_culture                  : 1
 western_norms                    : 1
 westerns                         : 1
 westport_independent             : 1
@@ -237,7 +228,6 @@ westwood_studios                 : 1
 westworld                        : 1
 weta_workshop                    : 1
 wget                             : 2
-wharram_percy                    : 1 : TO_CHECK
 what_if                          : 1
 what_monkey_says                 : 1
 whataboutism                     : 1
@@ -258,7 +248,6 @@ whistleblower                    : 4   : whistle_blower
 whistleblowers                   : 1   : whistle_blower
 whistleblowing                   : 2   : whistle_blower
 whistling                        : 1
-whit_taylor                      : 1 : TO_CHECK
 white                            : 3
 white_coat                       : 1
 white_collar                     : 2
@@ -282,7 +271,7 @@ white_supremacy                  : 92
 white_tears                      : 1
 white_washing                    : 2
 white_women                      : 3
-white_working_class              : 1 : TO_CHECK
+white_working_class              : 1
 whiteboard                       : 2
 whitehouse                       : 1   : white_house
 whiteness                        : 4   : white
@@ -297,11 +286,11 @@ whores                           : 1
 whores_of_yore                   : 2
 whtie_feminism                   : 1   : white_feminism
 why_not_default                  : 1
-Whyline                          : 1 : TO_CHECK
+Whyline                          : 1  : whyline
 wiccan                           : 1
 wichita                          : 1
 widening                         : 1
-widowhood                        : 1 : TO_CHECK
+widowhood                        : 1
 widows                           : 1
 wife_guys                        : 1
 wifi                             : 3
@@ -316,24 +305,24 @@ wikiabstinence                   : 1   : wiki_abstinence
 wikileaks                        : 3   : wiki_leaks
 wikimedia                        : 1   : wiki_media
 wikipedia                        : 549 : wiki
-wikis                            : 1
+wikis                            : 1   : wiki
 wikisource                       : 1   : wiki_source
 wild_fire                        : 11
 Wild_Ride                        : 2
 wilderness                       : 2
 wildfire                         : 6   : wild_fire
 wildfires                        : 1   : wild_fire
-wildlife                         : 3
+wildlife                         : 3   : wild_life
 wile_e_coyote                    : 1
 wiley                            : 1
 wilkinson_county                 : 1
-will_to_power                    : 1 : TO_CHECK
+will_to_power                    : 1
 willamette_weekly                : 2
 william                          : 1
 williamsburg                     : 1
 willing_subordination            : 1
 Willingness to Cooperate         : 1 : willingness_to_cooperate
-willingness_to_cooperate         : 1 : TO_CHECK
+willingness_to_cooperate         : 1
 wilmington                       : 1
 wilson_quarterly                 : 1
 wimbledon                        : 1
@@ -371,7 +360,7 @@ wiseland                         : 1
 wish_dot_com                     : 1
 wishlist                         : 1
 wisonsin                         : 1
-witch_trials                     : 1 : TO_CHECK
+witch_trials                     : 1
 witchcraft                       : 2
 witcher                          : 12
 witcher_script                   : 2
@@ -412,14 +401,13 @@ wonkette                         : 1
 wood                             : 3
 wood_buffalo                     : 1
 wooden_planet                    : 1
-woodrow_wilson                   : 1 : TO_CHECK
 woodward                         : 1
 woolworths                       : 1
 word                             : 3
 word2vec                         : 1
 word_cloud                       : 1
 word_co_occurence                : 1
-word_filter                      : 1 : TO_CHECK
+word_filter                      : 1
 word_net                         : 5
 word_of_mouth                    : 1
 word_pairs                       : 1
@@ -432,8 +420,7 @@ wordcloud                        : 1   : word_cloud
 wordnet                          : 5   : word_net
 wordpress                        : 1   : word_press
 words                            : 3   : word
-words_as_tools                   : 1 : TO_CHECK
-wordsworth                       : 1 : TO_CHECK
+words_as_tools                   : 1
 wordwrap                         : 1   : word_wrap
 work                             : 48
 work_culture                     : 2
@@ -445,11 +432,11 @@ work_practices                   : 1
 work_requirements                : 12
 work_studies                     : 1
 workaround                       : 1
-worker_councils                  : 1 : TO_CHECK
+worker_councils                  : 1
 worker_rights                    : 1
 workers                          : 2
 workflow                         : 3
-workhouse                        : 1 : TO_CHECK
+workhouse                        : 1
 working_class                    : 3
 working_day                      : 3
 working_memory                   : 2
@@ -458,8 +445,8 @@ working_towards_the_fuhrer       : 1
 workism                          : 1
 workload                         : 1
 workplace                        : 3
-workplace_culture                : 1 : TO_CHECK
-workplace_democracy              : 1 : TO_CHECK
+workplace_culture                : 1
+workplace_democracy              : 1
 workplaces                       : 2   : workplace
 workshop                         : 2
 workshops_of_empire              : 1
@@ -478,8 +465,8 @@ world_history                    : 3
 world_of_warcraft                : 27
 world_politics                   : 2
 world_war_1                      : 2
-world_war_2                      : 2 : TO_CHECK
-WorldAIDSDay                     : 1
+world_war_2                      : 2
+WorldAIDSDay                     : 1 : world_aids_day
 worldbuilding                    : 31  : world_building
 worlds                           : 1   : world
 worries                          : 1
@@ -487,10 +474,10 @@ worse_sense                      : 1
 worship                          : 1
 WOSPP                            : 1
 wounds                           : 3
-WoW                              : 25
+WoW                              : 25 : world_of_warcraft
 WOZ                              : 1
 wreg                             : 1
-wrestling                        : 1 : TO_CHECK
+wrestling                        : 1
 writer                           : 2
 writers                          : 3
 writers_block                    : 7
@@ -498,7 +485,7 @@ writeup                          : 1
 writing                          : 184
 writing guides                   : 1   : writing_guides
 writing technical papers         : 1   : writing_technical_papers
-writing_convention               : 1 : TO_CHECK
+writing_convention               : 1
 writing_for_social_scientists    : 1
 writing_guides                   : 1
 writing_machines                 : 1
@@ -516,11 +503,10 @@ wsj                              : 5   : WSJ
 WSM                              : 1
 WSTS                             : 1
 wtf                              : 1
-wudan_yan                        : 1 : TO_CHECK
 wuhan                            : 1
 wuxia                            : 1
-WW1                              : 2
-ww2                              : 1   : WW2
-WW2                              : 2
+WW1                              : 2 : world_war_1
+ww2                              : 1   : world_war_2
+WW2                              : 2 : world_war_2
 www                              : 1   : web
 wyoming                          : 1

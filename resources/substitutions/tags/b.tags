@@ -1,7 +1,5 @@
-b_f_skinner                        : 1 : TO_CHECK
-baars_franklin                     : 1 : TO_CHECK
-baba_is_you                        : 1 : TO_CHECK
-baba_yaga                          : 1 : TO_CHECK
+baba_is_you                        : 1
+baba_yaga                          : 1
 babel                              : 8
 babel-mode                         : 1   : babel_mode
 babel_17                           : 1
@@ -40,7 +38,6 @@ bad_news                           : 1
 bad_science                        : 2
 bad_writing                        : 1
 badges                             : 1
-baffour_ankomah                    : 1 : TO_CHECK
 baghdad                            : 1
 bahamas                            : 1
 bahrain                            : 1
@@ -48,7 +45,7 @@ bail                               : 4
 bail_reform                        : 1
 bail_trap_game                     : 1
 bailout                            : 1
-bailouts                           : 1 : TO_CHECK
+bailouts                           : 1
 baked_beans                        : 1
 baked_goods                        : 1
 baker                              : 1   : baking
@@ -62,7 +59,6 @@ balancing                          : 1
 baldness                           : 1
 baldurs_gate                       : 3
 bali                               : 3
-balin_brake                        : 1 : TO_CHECK
 balkanist                          : 1
 balkans                            : 3
 ballet                             : 1
@@ -81,7 +77,7 @@ bamber_bridge                      : 1
 bambi                              : 1
 bamyan                             : 1
 banality_of_evil                   : 1
-banana_company                     : 1 : TO_CHECK
+banana_company                     : 1
 banana_republic                    : 1
 bananna_republics                  : 1 : banana_republic
 band_aid                           : 1
@@ -96,15 +92,13 @@ bank_account                       : 1
 bank_of_england                    : 2
 bankers                            : 1
 banking                            : 22
-bankruptcy_law                     : 1 : TO_CHECK
+bankruptcy_law                     : 1
 banks                              : 1
 banned                             : 1
-banny_banerjee                     : 1 : TO_CHECK
 bans                               : 1
-banter                             : 1 : TO_CHECK
-banzhaf_powerl                     : 1 : TO_CHECK
+banter                             : 1
 baptism                            : 1
-baptist                            : 1 : TO_CHECK
+baptist                            : 1
 bar_graphs                         : 1
 baraboo                            : 1
 barbados                           : 1
@@ -114,16 +108,15 @@ barbie                             : 1
 barcelona                          : 4
 barcode                            : 1
 bare_metal                         : 5
-bargain                            : 1 : TO_CHECK
+bargain                            : 1
 bargaining                         : 3
-barista                            : 1 : TO_CHECK
+barista                            : 1
 barnes_and_noble                   : 1
 barotse                            : 1
 barracoon                          : 1
 bars                               : 2
 bartender                          : 1
 barter                             : 2
-barthes                            : 3 : TO_CHECK
 base_based_reasoning               : 1   : case_based_reasoning
 baseball                           : 1
 bash                               : 11
@@ -133,10 +126,10 @@ basketball                         : 1
 bass                               : 1
 bastille                           : 1
 bastion                            : 1
-batakland                          : 1 : TO_CHECK
+batakland                          : 1
 bath                               : 9
 bath_sensor_framework              : 1
-bath_university                    : 1 : TO_CHECK
+bath_university                    : 1
 bathrooms                          : 5
 batman                             : 15
 batman_ninja                       : 1
@@ -149,9 +142,7 @@ battle_royale                      : 1
 battlespace                        : 1
 battlestar_galactica               : 17
 battletech                         : 1
-baudrillard                        : 2 : TO_CHECK
 bauhaus                            : 2
-baum_eagon                         : 1 : TO_CHECK
 bay_area                           : 5
 bay_area_reporter                  : 1
 bayer                              : 1
@@ -197,13 +188,11 @@ beautiful_soup                     : 2
 beauty                             : 21
 beauty_and_the_beast               : 2
 beauty_pageant                     : 1
-beauvoir                           : 5 : TO_CHECK
 beaviour_tree                      : 1   : behaviour_tree
 because_internet                   : 2
 bechdel                            : 1   : bechdel_test
 bechdel_test                       : 2
 bechdelgrams                       : 2
-beck                               : 1 : TO_CHECK
 becoming_human                     : 1
 bed                                : 1
 bedlam                             : 1
@@ -220,34 +209,34 @@ begging                            : 3
 beginners_guide                    : 1
 behance                            : 2
 BEHAVEngine                        : 2
-behavior_characterization          : 1 : TO_CHECK
+behavior_characterization          : 1
 behavior_trees                     : 1   : behaviour_tree
-behavioral_diversity               : 1 : TO_CHECK
+behavioral_diversity               : 1
 behavioral_economics               : 1   : behavioural_economics
-behavioral_repertoire              : 1 : TO_CHECK
+behavioral_repertoire              : 1
 behavioral_science                 : 1   : behavioural_science
 BehaviorShop                       : 1
 behaviour                          : 146
 behaviour_acquisition              : 1
 behaviour_based_ai                 : 1
 behaviour_based_control            : 1
-behaviour_bounding                 : 1 : TO_CHECK
+behaviour_bounding                 : 1
 behaviour_change                   : 2
 behaviour_design_language          : 1
-behaviour_identification_hierarchy : 1 : TO_CHECK
+behaviour_identification_hierarchy : 1
 behaviour_oriented_design          : 4
 behaviour_selection                : 1
 behaviour_tree                     : 14
 behaviour_trees                    : 21  : behaviour_tree
-behavioural diversity              : 1 : TO_CHECK
+behavioural diversity              : 1
 behavioural_analysis               : 1
-behavioural_boundaries             : 1 : TO_CHECK
+behavioural_boundaries             : 1
 behavioural_ecology                : 2
 behavioural_economics              : 6
 behavioural_implicit_communication : 2
 behavioural_mathematics            : 2
 behavioural_policy                 : 1
-behavioural_psychology             : 1 : TO_CHECK
+behavioural_psychology             : 1
 behavioural_science                : 1
 behaviourism                       : 1
 behaviours                         : 4
@@ -256,8 +245,8 @@ behavour                           : 1   : behaviour
 behind_the_urals                   : 2
 beijing                            : 1
 Beilstein_database                 : 1
-being_towards_death                : 1 : TO_CHECK
-being_with                         : 1 : TO_CHECK
+being_towards_death                : 1
+being_with                         : 1
 being_with_significant_others      : 1
 beira                              : 2
 beirut                             : 1
@@ -275,12 +264,10 @@ bell                               : 1
 bell_curve                         : 2
 bell_labs                          : 2
 belle                              : 2
-belle_de_jour                      : 1 : TO_CHECK
-belly_mujinga                      : 1 : TO_CHECK
-belmont_report                     : 1 : TO_CHECK
+belmont_report                     : 1
 belonging                          : 1
-belt_and_road_initiative           : 1 : TO_CHECK
-BEN                                : 1 : TO_CHECK
+belt_and_road_initiative           : 1
+BEN                                : 1
 benchmarks                         : 3
 bender                             : 2
 bender_economics                   : 2
@@ -289,16 +276,12 @@ benefits                           : 12
 benevolence                        : 2
 benghazi                           : 1
 benin                              : 1
-bentham                            : 1 : TO_CHECK
-bently_ottmann                     : 1 : TO_CHECK
-bereavement                        : 1 : TO_CHECK
+bereavement                        : 1
 berghahn_books                     : 1
-bergson                            : 1 : TO_CHECK
 bering_sea                         : 1
 berk                               : 1
 berkadia                           : 1
 berkeley                           : 4
-berkman_klein                      : 2 : TO_CHECK
 berlant                            : 1
 berlin                             : 1
 berman                             : 1
@@ -322,22 +305,20 @@ betrayal                           : 1
 better_worlds                      : 1
 betting                            : 2
 beyoglu                            : 1
-beyonce                            : 1 : TO_CHECK
 beyond_a_boundary                  : 1
 bezier                             : 3
 BFA                                : 1
-bharata_natyam                     : 1 : TO_CHECK
 bhaviour                           : 1   : behaviour
 bhopal                             : 4
 bhutan                             : 1
-bi_directional                     : 1 : TO_CHECK
+bi_directional                     : 1
 bias                               : 56
 bias_confirmation                  : 1
 bible                              : 11
 biblical_scholar                   : 1
 bibliographic_data                 : 1
 bibliography                       : 1
-bibliometric_analysis              : 1 : TO_CHECK
+bibliometric_analysis              : 1
 BIC                                : 2
 bicameralism                       : 1
 bicycle                            : 1
@@ -350,7 +331,7 @@ bidirectional_language             : 1
 bidirectional_transform            : 2
 bidirectional_transforms           : 1   : bidirectional_transform
 bidirectional_type_checking        : 1
-bidirectional_type_system          : 1 : TO_CHECK
+bidirectional_type_system          : 1
 bids                               : 1
 bifactor                           : 1
 big_brother                        : 1
@@ -381,22 +362,22 @@ binary_space                       : 1
 binding                            : 1
 binding_of_isaac                   : 1
 bindings                           : 1   : binding
-bio_hybrid_systems                 : 1 : TO_CHECK
+bio_hybrid_systems                 : 1
 bio_inspired_computing             : 4
-bio_mimetic                        : 1 : TO_CHECK
-bio_politics                       : 1 : TO_CHECK
+bio_mimetic                        : 1
+bio_politics                       : 1
 bio_power                          : 1
 bio_weapons                        : 1
 biochemistry                       : 4
 bioclimate                         : 1
 biodiversity                       : 4
 bioethics                          : 6
-biofuels                           : 1 : TO_CHECK
+biofuels                           : 1
 biography                          : 2
 biohacking                         : 2
 bioinformatics                     : 3
-biological                         : 1 : TO_CHECK
-biological_process                 : 1 : TO_CHECK
+biological                         : 1
+biological_process                 : 1
 biological_warfare                 : 1
 biological_weapons                 : 1
 biology                            : 70
@@ -423,14 +404,14 @@ biotech                            : 2
 biotechnology                      : 2
 bioterrorism                       : 2
 bioware                            : 4
-bipartisanship                     : 1 : TO_CHECK
+bipartisanship                     : 1
 bipartite                          : 2
 biped                              : 1
 Biped                              : 1   : biped
 birds                              : 13
 birdsong                           : 2
-birman_ko_lee_generator            : 1 : TO_CHECK
-birmingham                         : 2 : TO_CHECK
+birman_ko_lee_generator            : 1
+birmingham                         : 2
 birmingham_crown_court             : 1
 birmingham_jail                    : 1
 birth                              : 2
@@ -446,10 +427,10 @@ birthdays                          : 1
 birtherism                         : 3
 birthright                         : 1   : birth_right
 biseq2seq                          : 1
-bisexual                           : 1 : TO_CHECK
+bisexual                           : 1
 bishops                            : 1
 bison                              : 1
-BIT_CARE                           : 1 : TO_CHECK
+BIT_CARE                           : 1
 bit_hacks                          : 6
 bit_twiddling                      : 1   : bit_hacks
 bitcoin                            : 2
@@ -485,7 +466,7 @@ black_hat                          : 1
 black_history                      : 6
 black_history_month                : 1
 black_homeownership                : 1
-black_in_architecture              : 1 : TO_CHECK
+black_in_architecture              : 1
 black_intelligence                 : 1
 black_is_beautiful                 : 1
 black_is_not_a_crime               : 1
@@ -533,12 +514,9 @@ BlackIsNotACrime                   : 1   : black_is_not_a_crime
 blacklist                          : 1
 blackout                           : 1
 blacksmith                         : 1
-blacksound                         : 1 : TO_CHECK
+blacksound                         : 1
 blade_runner                       : 10
 bladen_county                      : 1
-blair                              : 1 : TO_CHECK
-blaise_compaore                    : 1 : TO_CHECK
-blake                              : 1 : TO_CHECK
 blame                              : 3
 blame_assignment                   : 1
 blanket                            : 1
@@ -562,7 +540,7 @@ block_grants                       : 3
 block_lists                        : 1
 blockchain                         : 8
 blocked                            : 1
-blocked_algorithms                 : 1 : TO_CHECK
+blocked_algorithms                 : 1
 blocks                             : 2
 blocks_world                       : 1
 blog                               : 627
@@ -585,7 +563,7 @@ bloomberg                          : 18
 blow                               : 1
 blue_collar                        : 1
 blue_noise                         : 1
-blue_pencil                        : 1 : TO_CHECK
+blue_pencil                        : 1
 blue_review                        : 1
 blue_sky                           : 1
 blue_zones                         : 1
@@ -605,7 +583,7 @@ BOD                                : 8
 bodies                             : 8   : body
 bodily_autonomy                    : 3
 bodily_fluids                      : 1
-bodily_space                       : 1 : TO_CHECK
+bodily_space                       : 1
 bodlian_library                    : 1
 body                               : 1
 body_armor                         : 1
@@ -614,14 +592,13 @@ body_building                      : 1
 body_cameras                       : 3
 body_image                         : 1
 body_parts                         : 2
-body_politics                      : 1 : TO_CHECK
+body_politics                      : 1
 body_positivity                    : 1
 body_scanner                       : 1
 body_types                         : 1
 bodybuilding                       : 1
 bodycam                            : 1
 boeing                             : 5
-boethius                           : 1 : TO_CHECK
 bogota                             : 1
 bohemia_interactive                : 1
 BOID                               : 4
@@ -630,7 +607,7 @@ boilerplate                        : 1
 boingboing                         : 676
 bokeh                              : 1
 bolivia                            : 3
-bombay                             : 2 : TO_CHECK
+bombay                             : 2
 bombing                            : 4
 bonaventure                        : 1
 bond_villains                      : 2
@@ -648,7 +625,7 @@ book                               : 417
 book_burning                       : 2
 book_club                          : 1
 book_group                         : 1
-book_of_common_prayer              : 1 : TO_CHECK
+book_of_common_prayer              : 1
 book_recommendation                : 2
 book_recommendations               : 1   : book_recommendation
 book_review                        : 1
@@ -679,15 +656,14 @@ border_guard                       : 1
 border_patrol                      : 2
 border_security                    : 1
 border_wall                        : 2
-border_walls                       : 1 : TO_CHECK
+border_walls                       : 1 : border_wall
 borderlands                        : 8
 borders                            : 4
-bored_humans                       : 1 : TO_CHECK
-bored_panda                        : 1 : TO_CHECK
+bored_humans                       : 1
+bored_panda                        : 1
 boredom                            : 5
 boredpanda                         : 2
 BORG                               : 1
-borges                             : 1 : TO_CHECK
 borrowing                          : 1
 bosnia                             : 4
 bosnian_genocide                   : 1
@@ -700,7 +676,7 @@ boston_public_library              : 1
 boston_review                      : 6
 boston_tea_party                   : 1
 bot                                : 27
-bot_wiki                           : 1 : TO_CHECK
+bot_wiki                           : 1
 botany                             : 6
 both_sides                         : 1
 bother                             : 1
@@ -710,7 +686,7 @@ bottled_water                      : 2
 bottlenecks                        : 3
 BotW                               : 1
 boundaries                         : 3
-boundary                           : 1 : TO_CHECK
+boundary                           : 1
 boundary_construction              : 1
 boundary_organization              : 2
 bounded_rationality                : 7
@@ -723,14 +699,14 @@ boyscouts                          : 1
 bpd                                : 1
 bpi                                : 1
 BPL                                : 1
-BPS                                : 1 : TO_CHECK
+BPS                                : 1
 bra                                : 1   : bras
 brackeys                           : 1
 bradley_county_jail                : 1
-brahmanas                          : 1 : TO_CHECK
-brahmanical_patriarchy             : 1 : TO_CHECK
+brahmanas                          : 1
+brahmanical_patriarchy             : 1
 braid                              : 4
-braid_group                        : 1 : TO_CHECK
+braid_group                        : 1
 braille                            : 2
 brain                              : 4
 brain_drain                        : 1
@@ -807,7 +783,7 @@ broken_reality                     : 1
 broken_taillght                    : 1   : broken_taillight
 broken_taillight                   : 1
 broken_windows                     : 1
-brokerage_institutions             : 1 : TO_CHECK
+brokerage_institutions             : 1
 brokering                          : 1
 bronze_age                         : 2
 brookings                          : 3
@@ -846,7 +822,7 @@ buddhism                           : 10
 buddism                            : 1   : buddhism
 buddist                            : 1   : buddhism
 budget                             : 4
-buenos_aires                       : 1 : TO_CHECK
+buenos_aires                       : 1
 buffalo                            : 1
 buffalo_pd                         : 1
 buffy                              : 1
@@ -856,7 +832,7 @@ bugs                               : 8
 BUILD_IT                           : 1
 build_system                       : 1
 building                           : 5
-building_blocks                    : 1 : TO_CHECK
+building_blocks                    : 1
 building_design                    : 1
 buildings                          : 1 : building
 buisiness                          : 1   : business
@@ -865,27 +841,27 @@ bulgaria                           : 1
 bulk_data                          : 1
 bullet_design                      : 1
 bullet_placement                   : 1
-bullion                            : 1 : TO_CHECK
+bullion                            : 1
 bullshit                           : 4
 bullshit_jobs                      : 1
 bully                              : 1   : bullying
 bullying                           : 5
-buluo                              : 1 : TO_CHECK
+buluo                              : 1
 bulwark                            : 1
 bump_stock                         : 1
 bungie_software                    : 1
 bunkers                            : 1
-buranki                            : 1 : TO_CHECK
+buranki                            : 1
 burden_of_proof                    : 1
-bureacratization                   : 1 : TO_CHECK
+bureacratization                   : 1 : bureaucracy
 bureacuracy                        : 4   : bureaucracy
 bureau_of_indian_affairs           : 1
 bureau_of_justice                  : 1
 bureaucracies                      : 1   : bureacuracy
 bureaucracu                        : 1   : bureaucracy
 bureaucracy                        : 78
-bureaucratic_islam                 : 1 : TO_CHECK
-bureaucratic_time                  : 1 : TO_CHECK
+bureaucratic_islam                 : 1
+bureaucratic_time                  : 1
 bureucracy                         : 1   : bureaucracy
 burford                            : 1
 BurgerTime                         : 1
@@ -893,7 +869,6 @@ burglary                           : 1
 burial                             : 1
 burials                            : 1   : burial
 buried_treasure                    : 1
-burke                              : 2 : TO_CHECK
 burkina_faso                       : 3
 burlington                         : 1
 burly_men_at_sea                   : 1
@@ -914,7 +889,7 @@ bushfires                          : 1   : bush_fire
 business                           : 24
 business_complaints                : 1
 business_economics                 : 1
-business_ethics                    : 1 : TO_CHECK
+business_ethics                    : 1
 business_insider                   : 14
 business_model                     : 3
 business_models                    : 58  : business_model
@@ -922,7 +897,6 @@ business_rules                     : 1
 business_school                    : 1
 busking                            : 1
 bustle                             : 2
-butch_locsin                       : 1 : TO_CHECK
 butler                             : 2
 butter                             : 1
 buttload                           : 1
@@ -940,3 +914,5 @@ byu                                : 1   : BYU
 byzantine                          : 2
 byzantine_agreement                : 1
 byzantium                          : 2
+bengal                            : 1
+braunschweig_resolution           : 1

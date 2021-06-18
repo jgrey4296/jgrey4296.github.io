@@ -7,18 +7,18 @@ vaccine                         : 1  : vaccination
 vaccines                        : 8  : vaccination
 vagina                          : 1
 vaginoplasty                    : 1
-vagrants                        : 1 : TO_CHECK
+vagrants                        : 1
 vagueness                       : 1
 valence                         : 1
 valgrind                        : 1
 validation                      : 18
 validity                        : 3
-validity_testing                : 1 : TO_CHECK
+validity_testing                : 1
 vallegjo                        : 1
 valorization                    : 1
 value                           : 14
 value_alignment                 : 1
-value_capture                   : 1 : TO_CHECK
+value_capture                   : 1
 value_form                      : 2
 value_function                  : 1
 value_homophily                 : 1
@@ -43,7 +43,7 @@ variable_neighbourhood          : 1
 variable_neighbourhood_search   : 1  : variable_neighbourhood : search
 variable_schedule_reward        : 1
 variables                       : 1 : variable
-variance_decomposition          : 1 : TO_CHECK
+variance_decomposition          : 1
 variation                       : 4
 variations_forever              : 1
 varieties_of_the_policy_cycle   : 1
@@ -62,7 +62,7 @@ vector_addition                 : 1
 vector_art                      : 1
 vector_graphics                 : 1
 vectors                         : 5
-vedic                           : 1 : TO_CHECK
+vedic                           : 1
 vegan                           : 1
 veganism                        : 1
 vegetables                      : 2
@@ -70,15 +70,14 @@ vegetation                      : 1
 vehicle_fatalities              : 1
 vehicles                        : 2
 veil_of_ignorance               : 1
-vending_machine                 : 1 : TO_CHECK
-vending_machines                : 3
+vending_machine                 : 1
+vending_machines                : 3 : vending_machine
 vendor                          : 1
 venezuela                       : 10
 venice                          : 1
 ventilation                     : 1
 ventilator                      : 1
 ventilators                     : 11 : ventilator
-ventresca                       : 1 : TO_CHECK
 venture_capital                 : 1
 venturebeat                     : 1
 venus                           : 1
@@ -87,14 +86,13 @@ vera                            : 1
 verbnet                         : 3
 verbs                           : 1
 verge                           : 11
-veridicality_thesis             : 1 : TO_CHECK
+veridicality_thesis             : 1
 verifiability                   : 1
 Verification                    : 1
 verification                    : 30
 verizon                         : 5
 vermont                         : 1
 vernacular                      : 1
-veronica_walsingham             : 1 : TO_CHECK
 verse                           : 4
 version_control                 : 5
 versioning                      : 1
@@ -104,7 +102,7 @@ vertigo                         : 1
 vestigial_structures            : 1
 veterans                        : 3
 veterans_affairs                : 4
-veterinary_behaviour            : 1 : TO_CHECK
+veterinary_behaviour            : 1
 vetting                         : 2
 VFX                             : 1
 VGDL                            : 1
@@ -116,7 +114,7 @@ viagra                          : 1
 VIATRA                          : 1
 vibrators                       : 1
 vice                            : 37
-vicious_circles                 : 1 : TO_CHECK
+vicious_circles                 : 1
 victim                          : 2
 victim_blaming                  : 3
 victim_density                  : 1
@@ -125,12 +123,12 @@ victms                          : 1  : victim
 victoria                        : 1
 victorian                       : 5
 victorian_london                : 1
-victorianism                    : 1 : TO_CHECK
+victorianism                    : 1 : victorian
 victorians                      : 1  : victorian
 video                           : 317
 video_dante                     : 1
 video_game_culture              : 1
-video_game_description_language : 1 : TO_CHECK
+video_game_description_language : 1 : VGDL
 video_game_tourism              : 1
 video_games                     : 7
 videodante                      : 1  : video_dante
@@ -145,7 +143,7 @@ views                           : 1
 VigilAgent                      : 1
 vigilantes                      : 1
 vignette                        : 4
-vignettes                       : 2 : TO_CHECK
+vignettes                       : 2 : vignette
 viking                          : 1
 vikings                         : 2  : viking
 vile_rat                        : 1
@@ -182,19 +180,19 @@ virtual_city                    : 1  : virtual_city
 virtual_currency                : 1
 virtual_environment             : 4
 virtual_environments            : 2  : virtual_environment
-virtual_existentialism          : 1 : TO_CHECK
+virtual_existentialism          : 1
 virtual_gaming                  : 1
 virtual_geography               : 1
 virtual_human_toolkit           : 1
 virtual_humans                  : 1
 virtual_inequality              : 1
-virtual_institution             : 1 : TO_CHECK
+virtual_institution             : 1
 virtual_models                  : 1
-virtual_organization            : 1 : TO_CHECK
+virtual_organization            : 1
 virtual_punishment              : 1
 virtual_reality                 : 22
 virtual_self                    : 1
-virtual_society                 : 1 : TO_CHECK
+virtual_society                 : 1
 virtual_space                   : 1
 virtual_spae                    : 1  : virtual_space
 virtual_thrifting               : 2
@@ -203,11 +201,11 @@ virtual_world                   : 4
 virtual_worlds                  : 4  : virtual_world
 virtuaverse                     : 1
 virtue                          : 2
-virtue_ethics                   : 1 : TO_CHECK
+virtue_ethics                   : 1
 virtue_signaling                : 1
-virtues                         : 1 : TO_CHECK
+virtues                         : 1 : virtue
 virus                           : 7
-virutal_world                   : 1
+virutal_world                   : 1 : virtue_world
 visa                            : 3
 viscosity                       : 1
 visibility                      : 3
@@ -227,7 +225,7 @@ visual_literacy                 : 1
 visual_novel                    : 2
 visual_programming              : 4
 visual_proof                    : 2
-visual_rhetoric                 : 1 : TO_CHECK
+visual_rhetoric                 : 1
 visual_score                    : 1
 visual_search                   : 1
 visual_studio                   : 1
@@ -245,13 +243,11 @@ visuospatial_sketchpad          : 1
 vitalism                        : 1
 vitamins                        : 2
 viva                            : 10
-vivian_malone                   : 1 : TO_CHECK
-vladimir_shukhov                : 1 : TO_CHECK
 VLSI                            : 1
 vocab                           : 1  : vocabulary
 vocabulary                      : 1
 vocal_fry                       : 1
-vocal_music                     : 1 : TO_CHECK
+vocal_music                     : 1
 vocoder                         : 1
 vodou                           : 2
 vogue                           : 2
@@ -263,15 +259,13 @@ VoIP                            : 1
 volcano                         : 1
 volcanoes                       : 1  : volcano
 volgodonsk                      : 1
-volkmom                         : 1 : TO_CHECK
-voltarine_de_cleyre             : 1 : TO_CHECK
+volkmom                         : 1
 volume                          : 2
 volume_2                        : 1
-voluntary_servitude             : 1 : TO_CHECK
+voluntary_servitude             : 1
 volunteering                    : 1  : volunteers
 volunteers                      : 2
-VOMAS                           : 1 : TO_CHECK
-von_mises                       : 1 : TO_CHECK
+VOMAS                           : 1
 voodoo                          : 1
 voodoo_economics                : 1
 voronoi                         : 14
@@ -296,7 +290,6 @@ voxels                          : 4
 voyager                         : 1
 voyager_elite_force             : 1
 voynich                         : 1
-vqr                             : 1 : TO_CHECK
 VQR                             : 1
 vqronline                       : 6
 VR                              : 3
@@ -311,5 +304,4 @@ vulnerable_populations          : 2
 vvvv                            : 1  : VVVVVVV
 vvvvv                           : 1  : VVVVVVV
 VVVVVVV                         : 3
-vy_higgensen                    : 1 : TO_CHECK
-vygotsky                        : 2 : TO_CHECK
+violent_action                    : 1 : TO_CHECK

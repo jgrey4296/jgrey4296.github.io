@@ -1,3 +1,4 @@
+
 JaCaMo                  : 1
 jacamo                  : 1  : JaCaMo
 JACK                    : 1
@@ -17,10 +18,10 @@ jambalaya               : 1
 JAMES                   : 1
 Jamocha                 : 1
 jan_25                  : 1
-jan_6t                  : 1 : TO_CHECK
-jan_6th                 : 3 : TO_CHECK
-january_6th             : 3 : TO_CHECK
-Janus                   : 1 : TO_CHECK
+jan_6t                  : 1 : january_6th_insurrection
+jan_6th                 : 3 : january_6th_insurrection
+january_6th             : 3 : january_6th_insurrection
+Janus                   : 1
 japan                   : 45
 japanese_internment     : 1
 Jason                   : 1
@@ -33,30 +34,28 @@ java                    : 101
 javanese                : 1
 javascript              : 217
 jawallian_bagh_massacre : 1
-jayaganesh              : 1 : TO_CHECK
+jayaganesh              : 1
 jaywalking              : 3
-jazmine_headley         : 1 : TO_CHECK
 jazz                    : 6
 jazz_cosmopolitanism    : 1
-jazz_mickle             : 1 : TO_CHECK
 jazzercise              : 1
 jazzpunk                : 2
 jealousy                : 1
 jeff_bezos_simulator    : 1
 jefferson_county        : 1
 jehovahs_witnesses      : 4
-jekyll                  : 7 : TO_CHECK
+jekyll                  : 7
 jellyfish               : 2
 jenga                   : 1
 jerky                   : 1
 jerusalem               : 1
 JESS                    : 1
-jesters                 : 1 : TO_CHECK
+jesters                 : 1
 jesuit                  : 1
-jesus                   : 4 : TO_CHECK
+jesus                   : 4
 jet_stream              : 1
 jetpack                 : 1
-jew                     : 1 : TO_CHECK
+jew                     : 1
 jewellry                : 1  : jewelry
 jewelry                 : 1
 jewish                  : 17
@@ -70,13 +69,13 @@ jews                    : 2  : jewish
 jezebel                 : 2
 jezz_swanson            : 1
 jezzamon                : 1
-JFK                     : 3 : TO_CHECK
 jgrasp                  : 1
+jharkhand               : 1
 JIAC                    : 1
 jibrai_l                : 1
 jigsaw                  : 1
-jihad                   : 4 : TO_CHECK
-jim_crow                : 8 : TO_CHECK
+jihad                   : 4
+jim_crow                : 8
 jingoism                : 1
 jitter                  : 1
 job                     : 11
@@ -97,20 +96,17 @@ joint_activity          : 1
 joker                   : 2
 jokes                   : 6
 JOLENE                  : 1
+jordan                  : 1
 joseon                  : 1
 jouralism               : 1  : journalism
 journal                 : 75
 journal_access          : 1
-journal_methodology     : 1 : TO_CHECK
+journal_methodology     : 1
 journalism              : 178
 journalist              : 1
 journals                : 3
 journey                 : 1
 joy                     : 1
-joyce_beatty            : 1 : TO_CHECK
-joyce_carol_oates       : 1 : TO_CHECK
-joyce_white_vance       : 1 : TO_CHECK
-jp_le_breton            : 3 : TO_CHECK
 JPL                     : 1
 jquery                  : 2
 JRPG                    : 3
@@ -121,21 +117,13 @@ json                    : 17
 jstor                   : 3
 jsx                     : 1
 jtc_roofing             : 1
-juan_alberto_silva      : 1 : TO_CHECK
-juan_gauido             : 1 : TO_CHECK
-juan_ignaciorios        : 1 : TO_CHECK
-juan_rafael_bustillo    : 1 : TO_CHECK
 judaism                 : 14
-jude_stewart            : 1 : TO_CHECK
 judea                   : 1
-judea_pearl             : 2 : TO_CHECK
 judeo_christian         : 3
 judge                   : 6
-judge_dredd             : 1 : TO_CHECK
-judge_pryor             : 1 : TO_CHECK
-judge_troiano           : 1 : TO_CHECK
+judge_dredd             : 1
 judgement               : 5
-judgement_editor        : 1 : TO_CHECK
+judgement_editor        : 1
 judgemental             : 1
 judgements              : 1  : judgement
 judges                  : 1  : judiciary
@@ -143,15 +131,9 @@ judicial                : 1  : judiciary
 judicial_discretion     : 1
 judicial_doctrine       : 1
 judicial_myths          : 1
-judicial_review         : 1 : TO_CHECK
+judicial_review         : 1
 judiciary               : 35
 judiciary_committee     : 1
-judita_k                : 1 : TO_CHECK
-judith_butler           : 1 : TO_CHECK
-judy_lynn_del_Rey       : 1 : TO_CHECK
-jugalk_patel            : 1 : TO_CHECK
-juhani_pallasamaa       : 2 : TO_CHECK
-juhani_pallasmaa        : 1 : TO_CHECK
 juneteenth              : 1
 jung                    : 2
 jungle                  : 1

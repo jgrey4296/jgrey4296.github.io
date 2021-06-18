@@ -3,12 +3,9 @@ QA                               : 4
 QAD                              : 1
 QAnon                            : 3
 qanon                            : 3      : QAnon
-qasem_soleimani                  : 5 : TO_CHECK
-qasr_kabaw                       : 1 : TO_CHECK
 qatar                            : 1
 QCA                              : 1
-QED                              : 1 : TO_CHECK
-qi_wang                          : 1 : TO_CHECK
+QED                              : 1
 qingming                         : 1
 QList                            : 1
 QOC                              : 2
@@ -23,14 +20,14 @@ qualified_immunity               : 2
 qualified_types                  : 2
 qualitative                      : 38
 qualitative_ai                   : 1
-qualitative_analysis             : 1 : TO_CHECK
+qualitative_analysis             : 1
 qualitative_assessment_dynamics  : 1
 qualitative_comparative_analysis : 1
-qualitative_methods              : 3 : TO_CHECK
+qualitative_methods              : 3
 qualitative_modeling             : 1
 qualitative_research             : 4
 quality                          : 1
-quality-diversity algorithms     : 1 : TO_CHECK
+quality-diversity algorithms     : 1 : quality_diversity : algorithm
 quality_diversity                : 1
 quality_of_life                  : 1
 qualtiative                      : 1      : qualitative
@@ -61,7 +58,6 @@ quartz                           : 7
 quaternions                      : 4
 quebec                           : 1
 queen                            : 1
-queen_victoria                   : 1 : TO_CHECK
 queens                           : 2
 queens_university                : 1
 queer                            : 13
@@ -73,10 +69,9 @@ queeries                         : 1
 queerSTS                         : 1
 queerty                          : 1
 quel_solaar                      : 1
-quentin_tarantino                : 1 : TO_CHECK
 queries                          : 1      : query
 query                            : 4
-query_language                   : 5 : TO_CHECK
+query_language                   : 5
 QUEST                            : 1
 quest                            : 3
 quest_design                     : 3
@@ -102,14 +97,13 @@ quicktype                        : 1
 quiet_rooms                      : 1
 quill                            : 1
 quillette                        : 1
-quine                            : 1 : TO_CHECK
 quinoa                           : 1
 quixote                          : 1
 quiz                             : 1
 qulitative                       : 1      : qualitative
 quora                            : 1
 quorum                           : 1
-quotation                        : 1 : TO_CHECK
+quotation                        : 1 : quote
 quotations                       : 1      : quote
 quote                            : 118
 quote_attribution                : 1

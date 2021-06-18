@@ -1,28 +1,25 @@
-X-machine        : 1 : TO_CHECK
+X-machine        : 1 : x_machine
 x11              : 1
 x_com            : 14
 x_files          : 1
 x_men            : 1
-XAI              : 1 : TO_CHECK
+XAI              : 1
 xanadu           : 1
 xargs            : 1
-xavier_portela   : 1 : TO_CHECK
 xbox             : 10
 xbox_live        : 2
 xcom             : 2 : x_com
 XCS              : 1
-xeni_jardin      : 1 : TO_CHECK
 xenoanthropology : 1
 xenocrypt        : 2
 xenofeminism     : 1
-xenophanes       : 1 : TO_CHECK
+xenophanes       : 1
 xenophobia       : 11
 xerox_parc       : 1
 xfiles           : 1 : x_files
 XFT              : 1
 xhamster         : 1
 xi_editor        : 1
-xi_jinping       : 3 : TO_CHECK
 xinjiang         : 1
 XKCD             : 8
 xkcd             : 8 : XKCD
@@ -33,12 +30,12 @@ xmonad           : 1
 XNA              : 3
 XNACSLib         : 1
 XOD              : 1
-xojane           : 1 : TO_CHECK
-XPDL             : 1 : TO_CHECK
+xojane           : 1
+XPDL             : 1
 xronomorph       : 1
 XSB              : 1
 xsb              : 1 : XSB
-XSB_prolog       : 1 : TO_CHECK
+XSB_prolog       : 1
 XSPEM            : 1
 XTAG             : 1
 Xtext            : 1
