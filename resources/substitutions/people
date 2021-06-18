@@ -292,8 +292,10 @@ avery_alder                       :   1
 axel_hartmann                     :   1
 aya_hirata_kimura                 :   1
 ayanna_pressley                   :   1
+ayatollah_khomeini                : 1 :
 ayla_jean_yackley                 :   2
 ayn_rand                          :   1
+b_f_skinner                       : 1 :
 baars_franklin                    :   1
 babbage                           :   1  : charles_babbage
 bach                              :   2  : j_s_bach
@@ -348,6 +350,7 @@ benjanun_sriduangkaew             :   1
 bentham                           :   1  : jeremy_bentham
 bently_ottmann                    :   1
 berger                            :   1  : adam_berger
+bergson                           : 1 : henri_bergson
 berkman_klein                     :   2
 bernie_dekoven                    :   1
 bernie_sanders                    :   6
@@ -389,8 +392,10 @@ billy_ciancaglini                 :   1
 billy_steele                      :   1
 bjorne_stroustrup                 :   1
 blagojevich                       :   1  : rod_blagojevich
+blair                             : 1 : tony_blair
 blaire_white                      :   1
 blaise_compaore                   :   1
+blake                             : 1 : william_blake
 bob_bassett                       :   1
 bob_dylan                         :   2
 bob_mazzer                        :   1
@@ -410,7 +415,7 @@ bonnie_keeler                     :   1
 bonnie_mckee                      :   2
 bonnie_nardi                      :   1
 bonny_brooks                      :   1
-borges                            :   1
+borges                            :   1 : jorge_luis_borges
 boris_johnson                     :   12
 bostock                           :   10 : mike_bostock
 bourdieu                          :   17 : pierre_bourdieu
@@ -556,6 +561,7 @@ chadwick_boseman                  :   1
 chaminda_jayanetti                :   1
 chanakya_sethi                    :   1
 chanel_miller                     :   2
+chantal_mouffe                    : 1 :
 charlemagne                       :   1
 charlene_carruthers               :   1
 charles_babbage                   :   1
@@ -581,6 +587,7 @@ charlie_warzel                    :   2
 charlize_theron                   :   1
 chas_gillespie                    :   1
 chaya_naor                        :   1
+chelsea                           : 1 :
 chelsea_manning                   :   5
 chelsey_bonestell                 :   1
 chelsey_carter                    :   1
@@ -644,6 +651,7 @@ cian_maher                        :   1
 ciara_bryne                       :   1
 ciara_wardlow                     :   1
 cicely_tyson                      :   1
+cicero                            : 2
 Cicero                            :   1
 ciel_fledge                       :   1
 cindy_hyde_smith                  :   1
@@ -675,6 +683,7 @@ colleen_flaherty                  :   1
 colleen_shalby                    :   1
 colleen_taylor                    :   1
 colleen_tighe                     :   1
+collin_wiant                      : 1 :
 colman_o_raghallaigh              :   1
 coltrain                          :   1  : kelly_coltrain
 comey                             :   2  : james_comey
@@ -686,7 +695,7 @@ consuelo_arostegui_isaacson       :   1
 conway                            :   3  : john_conway
 cora                              :   1
 coral_davenport                   :   1
-coralina_ada                      :   1
+coralina_ada                      :   1 : coraline_ada_ehmke
 coraline_ada_ehmke                :   1
 corbin_miller                     :   1
 corbusier                         :   1  : le_corbusier
@@ -769,7 +778,7 @@ danny_buerkli                     :   1
 danny_devito                      :   1
 danny_dorling                     :   1
 danny_o_dwyer                     :   1
-dante                             :   3
+dante                             :   3 : dante_alighieri
 danuta_danielsson                 :   1
 danya_glabau                      :   2
 danya_ruttenberg                  :   2
@@ -869,8 +878,10 @@ dawkins                           :   2  : richard_dawkins
 de_blasio                         :   1
 de_botton                         :   1  :  alain_de_botton
 dean_burnett                      :   1
+dean_spears                       : 1
 deandre_levy                      :   1
-deblasio                          :   1         :  de_blasio
+debbie_nathan                     : 1
+deblasio                          :   1         :  bill_de_blasio
 deborah_small                     :   1
 deborah_small asha_bandele        :   1  : deborah_small : asha_bandele
 deborah_stone                     :   1
@@ -957,7 +968,7 @@ donor_class                       :   1
 dorian_dawes                      :   3
 dorinne_kondo                     :   1
 dorrie_o_brien                    :   1
-dostoyevsky                       :   1
+dostoyevsky                       :   1 : fyodor_dostoyevsky
 doug_wardlow                      :   1
 dougal_dixon                      :   1
 douglas_adams                     :   7
@@ -974,7 +985,7 @@ drew_desilver                     :   1
 drew_harwell                      :   1
 dreyfus                           :   1  : hubert_dreyfus
 drucker                           :   1  : peter_drucker
-du_bois                           :   12
+du_bois                           :   12 : w_e_b_du_bois
 duane_kearns_puryear              :   1
 duncan_watts                      :   1
 duomo_di_milano                   :   1
@@ -1026,8 +1037,8 @@ edwin_lord_weeks                  :   1
 edwin_park                        :   1
 eernst_balluf                     :   2
 Egison                            :   1
-einstein                          :   1
-eisenhower                        :   2
+einstein                          :   1 : albert_einstein
+eisenhower                        :   2 : dwight_eisenhower
 elaine_chao                       :   1
 elaine_welterroth                 :   1
 elanor_janega                     :   1
@@ -1096,9 +1107,11 @@ emma_pettit                       :   1
 emmanuel_saez                     :   1
 emmeline_pankhurst                :   1
 emmett_till                       :   3
-engels                            :   2
+engels                            :   2 : friedrich_engels
+engles                            : 1 : friedrich_engels
 epicurus                          :   1
 epstein                           :   11 : jeffrey_epstein
+erc_smack                         : 1 : eric_smack
 erdogan                           :   2  : recep_erdogan
 eric_bennett                      :   1
 eric_berne                        :   1
@@ -1118,10 +1131,12 @@ eric_wilkrson                     :   1
 eric_zimmerman                    :   1
 erich_dieckmann                   :   1
 erich_fromm                       :   1
+ericsmack                         : 1  : eric_smack
 erik_hoel                         :   1
 erika_christakis                  :   1
 erika_hall                        :   1
 erikson                           :   1
+erin_adler                        : 1
 erin_davis                        :   2
 erin_gilmer                       :   12
 eriugena                          :   1
@@ -1139,8 +1154,10 @@ ethan_corey                       :   1
 ethan_hein                        :   1
 ethan_miller                      :   1
 etherington_brothers              :   1
+eudy_simelane                     : 1 :
 eugene_linden                     :   1
 euripedies                        :   1 : euripides
+eva_marie_quinones                : 1
 eva_moravec                       :   1
 evan_miller                       :   1
 evan_nicole_brown                 :   1
@@ -1171,6 +1188,7 @@ felix_vallotton                   :   2
 feminista_jones                   :   1
 ferdinand_de_saussure             :   2
 ferdinand_verbiest                :   1
+feuerbach                         : 1 : ludwig_feuerbach
 feynman                           :   3  : richard_feynman
 flan_falacci                      :   1
 flavia_dzodan                     :   1
@@ -1239,7 +1257,7 @@ gaiman                            :   1  : neil_gaiman
 gaius_baltar                      :   4
 gallaudet_eleven                  :   1
 galole_orma                       :   1
-gandhi                            :   2
+gandhi                            :   2  : mohandas_karamchand_gandhi
 garber                            :   1  : daniel_garber
 garfinkel                         :   3  : harold_garfinkel
 garrett_rolfe                     :   1
@@ -1318,14 +1336,14 @@ glenn_beck                        :   1
 glenn_gould                       :   1
 glenn_greenwald                   :   4
 glenn_kessler                     :   10
-glinner                           :   1
+glinner                           :   1 : graham_linehan
 gluckman                          :   1  : max_gluckman
 godel                             :   1  : kurt_godel
 goffman                           :   7  : erving_goffman
 golan_levin                       :   1
 goldacre                          :   1  : ben_goldacre
 goldwater                         :   1  : barry_goldwater
-gonzalo_fasca                     :   1
+gonzalo_fasca                     :   1  : gonzalo_frasca
 gordon_liddy                      :   1
 gordon_sondland                   :   5
 gorsuch                           :   6  : neil_gorsuch
@@ -1379,6 +1397,7 @@ habermas                          :   10 : jurgen_habermas
 hailey_gavin                      :   1
 hakim_bey                         :   1
 halcyon_lawrence                  :   1
+haliehana                         : 1   : haliehana_stepetin
 haliehana_stepetin                :   1
 halim_el_dabh                     :   1
 hamed_aleaziz                     :   1
@@ -1395,7 +1414,7 @@ hans_poelzig                      :   1
 hans_rosling                      :   2
 hans_steinmuller                  :   1
 hansi_lo_wang                     :   1
-haraway                           :   1  : donna_harawayh
+haraway                           :   1  : donna_haraway
 hariton_pushwanger                :   1
 harold_garfinkel                  :   3
 harriet_martineau                 :   1
@@ -1456,8 +1475,10 @@ herbert_spencer                   :   1
 herman_talmadge                   :   2
 herman_tulleken                   :   1
 hermine_ricketts                  :   1
+hetero_cephalus_gabler            : 1
 hettie_obrien                     :   2
 hideo_kojima                      :   2
+hieronymus_bos                    : 1   : hieronymus_bosch
 hieronymus_bosch                  :   1
 hilbert                           :   1  : david_hilbert
 hillary_clinton                   :   4
@@ -1490,6 +1511,7 @@ huey_newton                       :   1
 hugh_ferris                       :   1
 hugo_seijas                       :   1
 hume                              :   1  : david_hume
+Hume                              : 1 :  : david_hume
 husserl                           :   5  : edmund_husserl
 hyde_smith                        :   1
 iain_banks                        :   1
@@ -1526,9 +1548,14 @@ imre_makovecz                     :   1
 inae_oh                           :   1
 inana_robitaille                  :   1         :  iana_robitaille
 indya_moore                       :   1
+ingrid_burrington                 : 1 :
+ira_chernus                       : 2 :
 ira_chernus                       :   2
+ira_glass                         : 1 :
 ira_glass                         :   1
+irin_carmon                       : 1 :
 irin_carmon                       :   1
+iris_marion_young                 : 1 :
 iris_marion_young                 :   1
 irvng_yalom                       :   1
 isaac_arnsdorf                    :   1
@@ -1543,8 +1570,11 @@ isabel_millar                     :   1
 isabel_perera                     :   1
 ise_monogatari                    :   1
 isiah_murrietta_golding           :   1
+israel_bartal                     : 1 :
 israel_bartal                     :   1
+italo_calvino                     : 1 :
 italo_calvino                     :   1
+itay_keren                        : 1 :
 itay_keren                        :   1
 ivanka                            :   1  : ivanka_trump
 ivanka_trump                      :   1
@@ -1649,7 +1679,9 @@ jay_rosen                         :   4
 jay_z                             :   1
 jaya_zhane                        : 1
 jazmine_headley                   :   1
+jazmine_headley                   : 1 :
 jazz_mickle                       :   1
+jazz_mickle                       : 1 :
 jean_baptiste_lamarck             :   1
 jean_baudrillard                  :   4
 jean_claude_duvalier              :   1
@@ -1717,7 +1749,7 @@ jessica_valenti                   :   1
 jesus                             :   4
 jethro_kuan                       :   1
 jfk                               :   1  : j_f_kennedy
-JFK                               :   3
+JFK                               :   3  : j_f_kennedy
 jg_ballard                        :   5
 jian_ghomeshi                     :   1
 jichen_zhu                        :   1
@@ -1920,10 +1952,11 @@ judea_pearl                       :   2
 judge_dredd                       :   1
 judge_pryor                       :   1
 judge_troiano                     :   1
+judita_k                          : 1 :
 judith_butler                     :   1
 judy_lynn_del_Rey                 :   1
 jugalk_patel                      :   1
-juhani_pallasamaa                 :   2
+juhani_pallasamaa                 :   2 : juhani_pallasmaa
 juhani_pallasmaa                  :   1
 julia_belluz                      :   1
 julia_brooks                      :   1
@@ -1962,6 +1995,7 @@ juzema_goldring                   :   1
 k_gibran                          :   1
 KA_mclaughlin                     :   1
 kaepernick                        :   4  : colin_kaepernick
+kafa                              : 1 : franz_kafka
 kafka                             :   9  : franz_kafka
 kagan                             :   1  : elena_kagan
 kai_ashante_wilson                :   1
@@ -2041,6 +2075,7 @@ kayleigh_mcenany                  :   2
 kazimir_malevich                  :   1
 kc_green                          :   1
 KC_Viz                            :   1
+keats                             : 1 : john_keats
 kee_hinckley                      :   1
 keeanga_yamahtta_taylor           :   1
 keegan_kyle                       :   1
@@ -2053,6 +2088,7 @@ keller_easterling                 : 1
 kellie_jay_keen_minshull          :   1
 kelly_coltrain                    :   1
 kellyanne_conway                  :   1
+kelsen                            : 1 : hans_kelsen
 ken_klippenstein                  :   2
 ken_levine                        :   1
 ken_saro_wiwa                     :   1
@@ -2111,6 +2147,7 @@ kristin_fawcett                   :   1
 kristin_naylor                    :   1
 kristin_stock                     :   1
 krithika_varagur                  : 1
+kritseva                          : 1    : julia_kristeva
 krugman                           :   2  : paul_krugman
 ksr                               :   5  : kim_stanley_robinson
 kubrick                           :   1  : stanley_kubrick
@@ -2187,12 +2224,12 @@ lee_moran                         :   1
 lee_pace                          :   1
 lee_zeldin                        :   1
 lefebvre                          :   4  : henri_lefebvre
-leibniz                           :   1
+leibniz                           :   1  : gottfried_wilhelm_leibniz
 leif_johnson                      :   1
 leigh_alexander                   :   22
 leigh_ann_caldwell                :   1
 lemony_snicket                    :   1
-lenin                             :   1
+lenin                             :   1  : vladimir_lenin
 leo_III                           :   1
 leo_smith                         :   1
 leo_strauss                       : 1
@@ -2212,12 +2249,12 @@ lessig                            :   2  : lawrence_lessing
 lev_manovich                      :   4
 lev_vygotsky                      :   1
 leveson                           :   1  : brian_leveson
-levi_strauss                      :   4
+levi_strauss                      :   4  : claude_levi_strauss
 levitsky                          :   1  : steven_levitsky
 lewis_gordon                      :   1
 lewis_wallace                     :   2
 leyla_acaroglu                    :   1
-li_bendersky                      :   1
+li_bendersky                      :   1  : eli_bendersky
 liam_casey                        :   1
 liat_clark                        :   1
 lil_loofbourow                    :   1
@@ -2274,6 +2311,7 @@ louis_farrakhan                   :   1
 louis_le_breton                   :   1
 louis_perez                       :   1
 lovecraft                         :   6  : h_p_lovecraft
+lubart                            : 2 :
 luc_besson                        :   1
 luc_forsyth                       :   1
 lucas_pope                        :   3
@@ -2311,6 +2349,7 @@ maciej_ceglowski                  :   1
 mack_briggs                       :   1
 mack_lamoureux                    :   1
 madeleine_joung                   :   1
+madison_cawthorn                  : 1 :
 mae_sot                           :   1
 mael_nison                        :   1
 maggie_bozeman                    :   1
@@ -2320,7 +2359,7 @@ makeda_bizuneh                    :   1
 malaika_handa                     :   1
 malcolm_x                         :   1
 malcom_gladwell                   :   1
-malcom_x                          :   2
+malcom_x                          :   2  : malcolm_x
 malthus                           :   1  : thomas_malthus
 mamdou_cisse                      :   1
 mamud_al_kashgari                 :   1
@@ -2480,8 +2519,9 @@ maya_francis                      :   1
 maya_goodfellow                   :   1
 maya_oppenheim                    :   1
 mccain                            :   1  : john_mccain
-McCarthy                          :   1
-mccarthy                          :   3
+mccarrick                         : 1 :
+McCarthy                          : 1 : mccarthy
+mccarthy                          : 4 :
 mccloskey                         :   1  : deidre_mccloskey
 mcconnell                         :   1  : mitch_mcconell
 mcdemarco                         :   1  : m_c_demarco
@@ -2512,7 +2552,7 @@ melody_kramer                     :   1
 melvin_davis                      : 1
 meredith_somers                   :   1
 merkel                            :   1  : angela_merkel
-merleau_ponty                     :   1
+merleau_ponty                     :   1  : maurice_merleau_ponty
 merrick_garland                   :   1
 merton                            :   2  : robert_merton
 merve_emre                        :   1
@@ -2597,7 +2637,7 @@ miley_cyrus                       :   1
 milk                              :   1
 milo                              :   2  : milo_yiannopoulos
 milo_yiannopoulos                 :   3
-milton                            :   1
+milton                            :   1  : john_milton
 milton_friedman                   :   1
 mimi_onuoha                       :   1
 mindy_jones                       :   1
@@ -2622,6 +2662,7 @@ mo_ansar                          :   1
 mo_brooks                         :   2
 modiba_keita                      :   1
 moebius                           :   3
+mohammad_khatami                  : 1 :
 mohammed_al_halabi                :   1
 mohammed_mosadegh                 :   1
 mohanty                           :   1
@@ -2630,9 +2671,11 @@ molly_redden                      :   2
 molly_russell                     :   1
 mona_lisa                         :   1
 monique_davis                     :   1
+montaigne                         : 1 : michel_de_montaigne
 montequieu                        :   1  : charles_louis_montesquieu
 montesqueiu                       :   1 : charles_louis_montesquieu
 montesquieu                       :   1 : charles_louis_montesquieu
+montesuieu                        : 1 : charles_louis_montesquieu
 moshe_tennenholtz                 :   1
 mossadegh                         :   1  : mohammed_mosadegh
 mourid_barghouti                  :   1
@@ -2641,17 +2684,21 @@ mr_pot                            :   1
 mr_rogers                         :   1
 mrs_butterworth                   :   1
 mueller                           :   9  : robert_mueller
+muhammad                          : 3
 mulvaney                          :   1  : mick_mulvaney
 mulvey                            :   1  : laura_mulvey
 muntazer_al_zaidi                 :   2
 murakami                          :   3  : haruki_murakami
+murraygm                          : 1 : murray_grigo_mcmahon
 murraygm                          :   1
 mychal_denzel_smith               :   1
+myke_cole                         : 1 :
 n_c_wyeth                         :   1
 N_K_jemsin                        :   1
 nadav_kander                      :   1
 nadja_popovich                    :   2
 nadra_nittle                      :   1
+nahdlatul_ulama                   : 1 :
 namwali_serpell                   :   1
 nancy_astor                       :   2
 nancy_drew                        :   1
@@ -2935,16 +2982,19 @@ porpentine                        :   3
 posie_parker                      :   1
 pressley                          :   1  : ayanna_pressley
 primo_levi                        :   1
+prince                            : 1 :
 prince_andrew                     :   1
 priti_patel                       :   2
 prmila_jayapal                    :   1
 prue_macsween                     :   1
+pynchon                           : 1 :
 qasem_soleimani                   :   1
 qasr_kabaw                        :   1
 qi_wang                           :   1
+queen_victoria                    : 1 :
 quentin_tarantino                 :   1
 quine                             :   1 : willard_van_orman_quine
-Quixote                           :   1  : quixote
+Quixote                           :   1  : don_quixote
 r_a_lafferty                      :   1
 r_kelly                           :   3
 r_lang                            :   5
@@ -2959,7 +3009,9 @@ rachel_west                       :   2
 rachel_wright                     :   1
 rachelle_hampton                  :   1
 radiator_yang                     :   1
+radiator_yank                     : 1      : radiator_yang
 radley_balko                      :   2
+radomir_lukic                     : 1 :
 rafael_reif                       :   1
 ragnar_tornquist                  :   1
 raj_ammanbrolu                    :   1
@@ -3096,9 +3148,11 @@ robert_zubek                      :   1
 robin_nagle                       :   1
 robin_snyder                      :   1
 robtel_neajai_pailey              :   1
-rockafeller                       :   1
+roch_kabore                       : 1 :
+rockafeller                       :   1 : john_d_rockafeller
 rockwell_anyoha                   :   1
 rod_blagojevich                   :   1
+rod_ponton                        : 1 :
 rodney_brooke                     :   1
 rodney_brooks                     :   2
 rodney_howard_browne              :   2
@@ -3133,7 +3187,7 @@ rosie_cappuccino                  :   2
 rosie_spinks                      :   1
 ross_benes                        :   1
 rossignol                         :   3  : jim_rossignol
-rousseau                          :   1
+rousseau                          :   1  : jean_jacques_rousseau
 rowan_atkinson                    :   1
 rowan_kaiser                      :   1
 roxsana_hernandez                 :   1
