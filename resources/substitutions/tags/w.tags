@@ -1,5 +1,4 @@
 w3                               : 3
-
 wabi_sabi                        : 1
 waco                             : 1
 WADE                             : 1
@@ -127,6 +126,7 @@ weak_ties                        : 2
 weakening                        : 1
 weakref                          : 1
 wealth                           : 19
+wealth_building                  : 1
 wealth_distribution              : 1
 wealth_gap                       : 2
 wealth_inequality                : 27
@@ -286,6 +286,7 @@ whores                           : 1
 whores_of_yore                   : 2
 whtie_feminism                   : 1   : white_feminism
 why_not_default                  : 1
+whyline                          : 1
 Whyline                          : 1  : whyline
 wiccan                           : 1
 wichita                          : 1
@@ -308,6 +309,7 @@ wikipedia                        : 549 : wiki
 wikis                            : 1   : wiki
 wikisource                       : 1   : wiki_source
 wild_fire                        : 11
+wild_life                        : 1
 Wild_Ride                        : 2
 wilderness                       : 2
 wildfire                         : 6   : wild_fire

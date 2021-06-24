@@ -289,11 +289,14 @@ deduction                                 : 3
 deductive_database                        : 1
 Deep neuroevolution                       : 1 : deep_neuroevolution
 Deep reinforcement learning               : 1 : deep_reinforcement_learning
+deep_canvassing                           : 1
 deep_dive                                 : 1
 deep_fakes                                : 1
+deep_grids                                : 1
 deep_learning                             : 137
 deep_neural_net                           : 5
-deep_neuroeveolution                      : 1
+deep_neuroeveolution                      : 1 : deep_neuroevolution
+deep_neuroevolution                       : 1
 deep_reinforcement_learning               : 1
 deep_sea                                  : 2
 deep_state                                : 2
@@ -324,6 +327,7 @@ defiant.js                                : 1  : defiant_js
 defiant_js                                : 1
 deficit                                   : 1
 deficit_hawks                             : 1
+deficit_myth                              : 1
 deficit_narrative                         : 1
 deficits                                  : 1  : deficit
 deficity_myth                             : 1 : deficit_myth
@@ -549,6 +553,7 @@ dialogic                                  : 1
 dialogic_analysis                         : 1
 dialogue                                  : 76
 dialogue_act                              : 1
+dialogue_engine                           : 1
 dialogue_generation                       : 1
 dialogue_logic                            : 1
 dialogue_management                       : 2
@@ -640,8 +645,8 @@ digitized_manuscripts                     : 1  : digitisation
 DIGMA                                     : 1
 dignity                                   : 1
 DIGRA                                     : 1
-digra                                     : 1  : DIGRA
 DiGRA                                     : 1
+digra                                     : 1  : DIGRA
 dildo                                     : 2
 dilemma                                   : 3
 dilemmas                                  : 3  : dilemma
@@ -683,6 +688,7 @@ disaster                                  : 10
 disaster_capitalism                       : 1
 disaster_management                       : 1
 disaster_menu                             : 1
+disaster_recovery                         : 1
 disaster_relief                           : 1
 disaster_studies                          : 1
 disasters                                 : 2
@@ -703,6 +709,7 @@ discourse                                 : 58
 discourse_analysis                        : 1
 discourse_markers                         : 1
 discover                                  : 3
+discoverability                           : 1
 discoveries                               : 1  : discovery
 discovery                                 : 1
 discrete_event_simulation                 : 2
@@ -842,6 +849,7 @@ dog_mom                                   : 1
 dog_walking                               : 1
 dog_whistle                               : 1
 dogma                                     : 1
+dogma_95                                  : 1
 dogs                                      : 2  : dog
 dogwhistles                               : 1  : dog_whistle
 DOI                                       : 1
@@ -1117,8 +1125,8 @@ dynamic_task_activation                   : 1
 dynamic_tonality                          : 1
 dynamic_typing                            : 1
 dynamical_meaning                         : 1
-Dynamical_Regimes                         : 1 : dynamical_regimes
 dynamical_regimes                         : 1
+Dynamical_Regimes                         : 1 : dynamical_regimes
 Dynamical_systems                         : 1  : dynamic_systems
 dynamical_systems                         : 2  : dynamic_systems
 dynamical_systems_modelling               : 1

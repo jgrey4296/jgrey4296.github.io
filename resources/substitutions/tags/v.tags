@@ -158,12 +158,14 @@ villians                        : 1  : villains
 vim                             : 5
 vimea                           : 1 : vimeo
 vimeo                           : 11
+vineyards                       : 1
 vintage                         : 2
 vinyl                           : 1
 violation                       : 6
 violence                        : 86
 violence_against_women          : 4
 violence_preventation           : 1
+violent_action                    : 1 : TO_CHECK
 violent_crime                   : 1
 violent_entrepreneurs           : 1
 violin                          : 2
@@ -203,6 +205,7 @@ virtuaverse                     : 1
 virtue                          : 2
 virtue_ethics                   : 1
 virtue_signaling                : 1
+virtue_world                    : 1
 virtues                         : 1 : virtue
 virus                           : 7
 virutal_world                   : 1 : virtue_world
@@ -294,6 +297,7 @@ VQR                             : 1
 vqronline                       : 6
 VR                              : 3
 VRA                             : 4
+vs_code                         : 1
 VTMB                            : 3
 vue_js                          : 4
 vulcan_materials                : 1
@@ -304,4 +308,3 @@ vulnerable_populations          : 2
 vvvv                            : 1  : VVVVVVV
 vvvvv                           : 1  : VVVVVVV
 VVVVVVV                         : 3
-violent_action                    : 1 : TO_CHECK

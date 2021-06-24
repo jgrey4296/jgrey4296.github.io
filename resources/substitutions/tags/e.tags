@@ -375,6 +375,7 @@ ensemble                            : 2
 ent                                 : 1
 enter_the_gungeon                   : 1
 enterprise                          : 1
+enterprise_management               : 1
 enterprise_software                 : 1
 entertainment                       : 2
 entertainment_computing             : 1
@@ -452,6 +453,7 @@ equitable_growth                    : 1
 equity                              : 2
 erasmus                             : 1
 erasure                             : 5
+ERCOT                               : 1
 ERGo                                : 1
 ErgoAI                              : 2
 ergodic_literature                  : 1
@@ -529,6 +531,7 @@ ethics                              : 149
 ethics_of_ambiguity                 : 1
 ethinic_minorities                  : 1  : ethnic_minorities
 ethiopia                            : 9
+ethnic_borders                      : 1
 ethnic_cleansing                    : 4
 ethnic_conflict                     : 1
 ethnic_food                         : 1
@@ -635,6 +638,7 @@ evolutionary_algorithms             : 1
 evolutionary_economics              : 1
 evolutionary_game_theory            : 1
 evolutionary_psych                  : 1
+evolutionary_robotics               : 1
 EvoTanks                            : 1
 evoution                            : 1  : evolution
 evropa                              : 1
@@ -719,8 +723,8 @@ expert_testimony                    : 1
 expertise                           : 3
 explainability                      : 2  : explanation
 explainable_agents                  : 1
-explainable_AI                      : 2 : explainable_ai
 explainable_ai                      : 2
+explainable_AI                      : 2 : explainable_ai
 explainer                           : 2
 explaining                          : 1
 explanation                         : 7
@@ -776,6 +780,7 @@ extradition                         : 1
 extrapolation                       : 1
 extravagance                        : 1
 extreme_right                       : 1
+extreme_weather                     : 1
 extremely_online                    : 1
 extremism                           : 11
 extrinsic_rewards                   : 1

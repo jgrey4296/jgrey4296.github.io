@@ -1,4 +1,5 @@
 u.s.c                                 : 1   : united_states_code
+UAV                                   : 1
 uber                                  : 9
 uber_eats                             : 1
 UBF                                   : 1
@@ -133,6 +134,7 @@ university_cheating_scandal           : 1
 university_of_glasgow                 : 1
 university_of_hull                    : 1
 university_of_illinois                : 1
+university_of_miami                   : 1
 university_of_toronto                 : 1
 university_of_tulsa                   : 1
 UNIX                                  : 1 : unix

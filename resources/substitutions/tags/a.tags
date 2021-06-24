@@ -173,6 +173,7 @@ action_stacking                       : 1
 action_theory                         : 1
 actions                               : 23  : action
 actionscript                          : 1
+activated_actors                      : 1
 activation                            : 1
 activation_decay                      : 1
 activation_functions                  : 1
@@ -255,6 +256,7 @@ administrative_violence               : 3
 administrators                        : 1
 admissions                            : 3
 adobe                                 : 3
+adobserver                            : 1 : ad_observer
 adolescent_thieves                    : 1
 adolescents                           : 4
 adonis                                : 1
@@ -327,6 +329,7 @@ african_american                      : 8
 african_americans                     : 1   : africa_american
 african_diaspora                      : 1
 african_futurism                      : 1
+african_jujuism                       : 1
 african_philosophy                    : 1
 african_television                    : 1
 africanews                            : 1   : africa_news
@@ -464,6 +467,7 @@ air_traffic                           : 2
 air_traffic_control                   : 1
 air_traffic_management                : 1
 airbnb                                : 7
+airfoil_optimisation                  : 1
 airline_captains                      : 1
 airlines                              : 3
 airpods                               : 1
@@ -508,8 +512,8 @@ algorithm_watch                       : 1
 algorithmic_ableism                   : 1
 algorithmic_amplification             : 1
 algorithmic_bias                      : 7
-Algorithmic_composition               : 1   : algorithmic_composition
 algorithmic_composition               : 1
+Algorithmic_composition               : 1   : algorithmic_composition
 algorithmic_curation                  : 1
 algorithmic_decision_making           : 1
 algorithmic_manipulation              : 1
@@ -870,6 +874,8 @@ arab_television                       : 1
 arabia                                : 1
 arabic                                : 6
 arabic_food                           : 1
+arabic_history                        : 1
+arabic_logic                          : 1
 aravind_eye_care                      : 1
 arbitrage                             : 2
 arbitrary_rules                       : 1
@@ -1092,6 +1098,7 @@ ativity_theory                        : 1
 ATL                                   : 5
 atlanta                               : 5
 atlanta_black_star                    : 1
+atlanta_olympic_bombing               : 1
 atlantic                              : 14
 atlantic_slave_trade                  : 1
 ATLANTIS                              : 1

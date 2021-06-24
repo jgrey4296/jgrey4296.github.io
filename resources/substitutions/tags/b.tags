@@ -133,6 +133,7 @@ bath_university                    : 1
 bathrooms                          : 5
 batman                             : 15
 batman_ninja                       : 1
+batman_returns                     : 1
 batman_villains                    : 2
 batmobile                          : 1
 baton_rouge                        : 3
@@ -274,6 +275,7 @@ bender_economics                   : 2
 benefit                            : 1   : benefits
 benefits                           : 12
 benevolence                        : 2
+bengal                             : 1
 benghazi                           : 1
 benin                              : 1
 bereavement                        : 1
@@ -389,6 +391,7 @@ biomedical                         : 3
 biomes                             : 2   : biome
 biometric                          : 2
 biometrics                         : 2   : biometric
+bioNEAT                            : 1
 biopharma                          : 4
 biophysics                         : 1
 bioplastics                        : 1
@@ -408,6 +411,7 @@ bipartisanship                     : 1
 bipartite                          : 2
 biped                              : 1
 Biped                              : 1   : biped
+BIPOC                              : 1
 birds                              : 13
 birdsong                           : 2
 birman_ko_lee_generator            : 1
@@ -560,6 +564,7 @@ bloom                              : 2
 bloom_filters                      : 1
 bloom_taxonomy                     : 1
 bloomberg                          : 18
+bloomington                        : 1
 blow                               : 1
 blue_collar                        : 1
 blue_noise                         : 1
@@ -732,6 +737,7 @@ brandy_jensen                      : 1
 bras                               : 2
 brasil                             : 1   : brazil
 brass_city_couriers                : 1
+braunschweig_resolution            : 1
 brave_new_world                    : 1
 brazil                             : 22
 breaching                          : 1
@@ -869,6 +875,7 @@ burglary                           : 1
 burial                             : 1
 burials                            : 1   : burial
 buried_treasure                    : 1
+burisma                            : 1
 burkina_faso                       : 3
 burlington                         : 1
 burly_men_at_sea                   : 1
@@ -914,5 +921,3 @@ byu                                : 1   : BYU
 byzantine                          : 2
 byzantine_agreement                : 1
 byzantium                          : 2
-bengal                            : 1
-braunschweig_resolution           : 1

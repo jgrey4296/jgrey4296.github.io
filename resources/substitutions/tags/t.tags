@@ -8,6 +8,7 @@ TABA                             : 1
 tabasco                          : 1
 TABDUAL                          : 1
 table_top                        : 2
+table_top_game                   : 1
 table_top_rpg                    : 18
 table_top_rpgs                   : 1   : table_top_rpg
 tabled_abduction                 : 1
@@ -25,6 +26,7 @@ taco_bell                        : 1
 tacoma                           : 1
 TACT                             : 1
 tactical_institutions            : 1
+tactical_modes_of_practice       : 1
 tactical_path_finding            : 1
 tactical_pathfinding             : 1   : tactical_path_finding
 tactical_tech                    : 1
@@ -136,6 +138,7 @@ tchad                            : 1
 TCL                              : 1
 TCP                              : 1
 tcp_ip                           : 1
+TCPA                             : 1
 td_org                           : 1
 tdd                              : 2
 tea                              : 8
@@ -187,6 +190,7 @@ technical_writing                : 1
 technicians                      : 1
 techno_chauvinism                : 1
 techno_culture                   : 1
+techno_determinism               : 1
 techno_economic                  : 1
 techno_feminism                  : 1
 techno_futurism                  : 1
@@ -284,6 +288,7 @@ tennis                           : 1
 tennyson                         : 1
 tenochtitlan                     : 1
 tense                            : 1
+tensegrity                       : 1
 tension                          : 1
 tensor_fields                    : 1
 tensorboard                      : 1
@@ -748,11 +753,13 @@ toy                              : 2
 toy_worlds                       : 1
 toys                             : 7
 TPC-E                            : 1 : TPC_E
+TPC_E                            : 1
 TPM                              : 3
 tpm                              : 3   : TPM
 TPP                              : 5
 TPS                              : 1
 TPTL-BIH                         : 1 : TPTL_BIH
+TPTL_BIH                         : 1
 tpy_checking                     : 1   : type_checking
 TRAC                             : 2
 trace_analysis                   : 1
@@ -784,6 +791,7 @@ traffic_laundering               : 1
 traffic_stops                    : 1
 traffic_tickets                  : 1
 traffice                         : 1 : traffick
+traffick                         : 1
 trafficking                      : 9
 tragedy                          : 3
 tragedy_of_the_commons           : 1
@@ -1006,6 +1014,7 @@ tudor                            : 1
 tufts                            : 1
 tug_of_war                       : 1
 tuition                          : 2
+tujunga                          : 1
 tuk_tuk                          : 1
 tulip                            : 1
 tulsa                            : 3

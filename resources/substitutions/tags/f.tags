@@ -1,4 +1,5 @@
 f#                                       : 1  : f_sharp
+f_logic                                  : 1
 F_logic                                  : 1 : f_logic
 f_sharp                                  : 9
 FAA                                      : 1
@@ -163,6 +164,7 @@ fault_localization                       : 1
 fault_recovery                           : 1
 fault_tolerance                          : 3
 faults                                   : 1
+fauna_preservation_society               : 1
 fauna_preserveration_society             : 1 : fauna_preservation_society
 faust                                    : 1
 favelas                                  : 1
@@ -299,6 +301,7 @@ filipina                                 : 1
 film                                     : 100
 film_analysis                            : 3
 film_crit                                : 4
+film_noir                                : 1
 film_school_rejects                      : 3
 filming                                  : 1
 films                                    : 2  : film
@@ -327,6 +330,7 @@ financialization                         : 1
 financy                                  : 1
 FinCEN                                   : 1
 find                                     : 1
+findability                              : 1
 fine                                     : 1
 fines                                    : 8 : fine
 fingerprint                              : 1
@@ -701,6 +705,7 @@ frustration                              : 1
 fsharp                                   : 1  : f_sharp
 FSM                                      : 25 : FSMs
 FSMs                                     : 11
+ft_bragg                                 : 1
 FTA                                      : 2
 FTC                                      : 1
 ftc                                      : 1  : FTC

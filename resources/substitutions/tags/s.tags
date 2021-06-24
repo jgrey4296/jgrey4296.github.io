@@ -32,6 +32,7 @@ sage                                        : 2
 sahara_desert                               : 1
 SAIBA                                       : 1
 said                                        : 1
+SAIL                                        : 1
 SAIMR                                       : 1
 sainbury                                    : 1      : sainsbury
 sainsbury                                   : 1
@@ -64,6 +65,7 @@ salvage                                     : 1
 salvation_army                              : 1
 samarkand                                   : 1
 Sample efficiency                           : 1 : sample_efficiency
+sample_efficiency                           : 1
 sample_size                                 : 1
 sample_space                                : 1
 samples                                     : 9      : sampling
@@ -244,6 +246,7 @@ SCPR                                        : 1
 scpr                                        : 1      : SCPR
 scrap_metal                                 : 1
 scraping                                    : 3
+screen_cast                                 : 1
 screen_play                                 : 1
 screen_reader                               : 1
 screen_resolution                           : 1
@@ -272,6 +275,7 @@ sculpting                                   : 1
 sculptural_hypertext                        : 1
 sculpture                                   : 8      : sculpting
 SCXML                                       : 1
+scythe                                      : 1
 Scythe                                      : 1 : scythe
 scythians                                   : 1
 SDK                                         : 1
@@ -413,6 +417,7 @@ Semantics                                   : 2      : semantics
 semen                                       : 1
 semi_autonomous_agency                      : 1
 seminar                                     : 1
+seminary                                    : 1
 semiotic                                    : 1      : semiotics
 semiotic_technology                         : 1
 semiotics                                   : 34
@@ -535,6 +540,7 @@ sex_offender_registration                   : 1
 sex_offenders                               : 1      : sex_offender
 sex_reassignment                            : 1
 sex_scandals                                : 1
+sex_stereotyping                            : 1
 sex_tax                                     : 1
 sex_testing                                 : 1
 sex_toy                                     : 1      : sex_toys
@@ -591,6 +597,7 @@ shape_grammar                               : 2
 shape_grammars                              : 5      : shape_grammar
 shape_of_news                               : 1
 shaping_functions                           : 1
+share_cropping                              : 1
 sharecroppers                               : 1 : share_cropping
 sharecropping                               : 1 : share_cropping
 shared workspaces                           : 1      : shared_workspaces
@@ -854,6 +861,7 @@ slut                                        : 1
 slut_shame                                  : 1
 Small-World                                 : 1      : small_world
 small_business                              : 1
+small_family_farming                        : 1
 small_gods                                  : 1
 small_group_cohesion                        : 1
 small_groups                                : 1
@@ -1032,6 +1040,7 @@ social_importance                           : 1
 social_inequality                           : 1
 social_influence                            : 1
 social_information                          : 2
+social_infrastructure                       : 1
 social_institution                          : 1
 social_institutions                         : 1      : social_institution
 social_integrity_constraints                : 1
@@ -1225,6 +1234,7 @@ soft_drink                                  : 1
 soft_games                                  : 2
 soft_knowledge_flows                        : 1
 soft_power                                  : 1
+soft_robotics                               : 1
 soft_systems                                : 1
 softbody                                    : 1      : soft_body
 software                                    : 51
@@ -1408,6 +1418,7 @@ spatial                                     : 3
 spatial_boundary                            : 1
 spatial_capital                             : 1
 spatial_experience                          : 1
+spatial_labour                              : 1
 spatial_logic                               : 1
 spatial_logics                              : 1      : spatial_logic
 spatial_networks                            : 1
@@ -1604,6 +1615,7 @@ Starcraft                                   : 1      : starcraft
 starcraft                                   : 7
 stardew_valley                              : 2
 starfighter                                 : 1
+starlings                                   : 1
 stars                                       : 2
 starship_troopers                           : 1
 start                                       : 1
@@ -1658,6 +1670,7 @@ statelessness                               : 1
 statement                                   : 1
 statement_generator                         : 2
 states                                      : 9
+states_rights                               : 1
 statesman                                   : 1
 statesmanship                               : 1
 static                                      : 4
@@ -1768,6 +1781,7 @@ story_beats                                 : 1
 story_board                                 : 2
 story_boarding                              : 3      : story_board
 story_flow                                  : 1
+story_forming                               : 1
 story_fragment_stitching                    : 1
 story_generation                            : 13
 story_graph                                 : 1
@@ -1842,6 +1856,7 @@ streetlights                                : 1      : street_lights
 streets                                     : 9
 streets_of_rogue                            : 2
 streetview                                  : 1      : street_view
+streisand_effect                            : 1
 strength                                    : 1
 stress                                      : 4
 stress_nets                                 : 1
@@ -2010,6 +2025,7 @@ superheroes                                 : 2
 superheros                                  : 1 : superheroes
 superintelligence                           : 2
 superiority                                 : 1
+superman                                    : 1
 supermarket                                 : 1
 supermarket_rpg                             : 1
 supermarkets                                : 1      : supermarket
@@ -2052,6 +2068,7 @@ surreal_software                            : 1
 surrealism                                  : 5
 surrogacy                                   : 1
 Surrogate Model                             : 1 : surrogate_model
+surrogate_assisted_illumination             : 1
 surrogate_model                             : 1
 surveilance                                 : 2      : surveillance
 surveillance                                : 214

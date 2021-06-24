@@ -213,6 +213,7 @@ IN_TALE                            : 1
 inaccurate                         : 1
 inanimate_objects                  : 1
 inaudible                          : 1
+inaugeration                       : 1
 inbreeding                         : 2
 inc                                : 1
 incaceration                       : 1 : incarceration
@@ -459,6 +460,7 @@ inoculation                        : 1   : innoculation
 inota                              : 1
 input_output_logic                 : 17  : input_output_logics
 input_output_logics                : 2
+input_randomness                   : 1
 inquality                          : 2   : inequality
 inquiry                            : 1
 inquisition                        : 5

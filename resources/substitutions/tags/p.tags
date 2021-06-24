@@ -2,6 +2,7 @@ p-log                                : 1 : p_log
 p3                                   : 1
 p_hacking                            : 7
 p_k_metric                           : 1
+p_log                                : 1
 p_np                                 : 1  : p_vs_np
 p_values                             : 4
 p_vs_np                              : 1
@@ -135,11 +136,13 @@ parenting                            : 8
 parenting_style                      : 1
 parents                              : 4
 paris                                : 9
+paris_climate_agreement              : 1
 paris_review                         : 4
 park                                 : 1
 park_slope                           : 1
 parking                              : 4
 parking_lots                         : 1
+parking_tickets                      : 1
 parkland                             : 3
 parks                                : 1  : park
 parler                               : 1
@@ -351,6 +354,7 @@ pentagon                             : 5
 people                               : 96
 people_and_computers_VII             : 1
 people_centric                       : 1
+people_metered_audience              : 1
 people_of_color                      : 1  : people_of_colour
 people_of_colour                     : 10
 peoplemetered_audience               : 1 : people_metered_audience
@@ -391,6 +395,7 @@ permissive_consensus                 : 1
 permit                               : 2
 permutations                         : 2
 perpendicular_vector                 : 1
+perpetrator_perspective              : 1
 perpetual_experiments                : 1
 persawar                             : 1
 persecution                          : 4
@@ -421,6 +426,7 @@ personal_website                     : 2  : personal_web_page
 personalisation                      : 4
 Personality                          : 1 : personality
 personality                          : 24
+personality_cult                     : 1
 personality_culty                    : 1 : personality_cult
 personality_tests                    : 1
 personalization                      : 3  : personalisation
@@ -553,6 +559,7 @@ piano                                : 2
 Picat                                : 1
 piccadilly_line                      : 1
 piccadilly_tube_bombing              : 1
+piccola                              : 1
 Piccola                              : 1 : piccola
 pickpocketing                        : 1
 pico8                                : 2
@@ -620,6 +627,7 @@ plan                                 : 1
 plan_execution                       : 1
 plan_recognition                     : 1
 plan_revision                        : 1
+planck                               : 1
 plane_crash                          : 2
 plane_sweep                          : 1
 planescape                           : 5
@@ -757,6 +765,7 @@ police                               : 162
 police_accountability                : 4
 police_brutality                     : 2  : police_violence
 police_chase                         : 1
+police_lies                          : 1
 police_militarisation                : 1
 police_negligence                    : 1
 police_procedural                    : 1
@@ -792,6 +801,7 @@ policy_management                    : 1
 policy_modeling                      : 1
 policy_modelling                     : 1 : policy_modeling
 policy_network_theory                : 1
+policy_search                        : 1
 polie_violence                       : 2  : police_violence
 polio                                : 3
 polis                                : 1
@@ -815,6 +825,7 @@ political_economy                    : 2
 political_elites                     : 1
 political_factors                    : 2
 political_games                      : 1
+political_geography                  : 1
 political_history                    : 1
 political_islam                      : 1
 political_misinformation             : 1
@@ -1051,6 +1062,7 @@ praxis                               : 10
 prayer                               : 3
 praying                              : 1
 pre_existing_conditions              : 1
+pre_socratic                         : 1
 preacher_economy                     : 1
 preaching                            : 2
 preact                               : 6
@@ -1125,6 +1137,7 @@ presto_studios                       : 1
 pretense                             : 1
 pretty                               : 1
 pretty_good_design                   : 1
+pretty_hate_machine                  : 1
 prevalence                           : 1
 prevent                              : 1
 PREVENT                              : 3
@@ -1376,6 +1389,7 @@ promises                             : 4 : promise
 promising_genomics                   : 1
 promition                            : 1 : promotion
 promo                                : 1
+promotion                            : 1
 prompt_complaint                     : 1
 prompter                             : 1
 prone_restraint                      : 1

@@ -88,6 +88,7 @@ game_rules                    : 1
 game_set_watch                : 7
 game_space                    : 1
 game_studies                  : 23
+game_testing                  : 1
 game_themed_instruction       : 1
 Game_theory                   : 1   : game_theory
 Game_Theory                   : 1 : game_theory
@@ -200,6 +201,7 @@ Gemini                        : 1
 gems                          : 1
 gen_x                         : 3
 gender                        : 78
+gender_agreement              : 1
 gender_analysis               : 11
 gender_conversion_therapy     : 1
 gender_critical               : 1
@@ -267,6 +269,7 @@ genetic_algorithms            : 12  : genetic_algorithm
 genetic_engineering           : 3
 genetic_programming           : 8
 genetics                      : 25
+gengar                        : 1
 genitalia                     : 1   : genitals
 genitals                      : 1
 genius                        : 2
@@ -407,6 +410,7 @@ gns                           : 1
 gnu                           : 21
 gnupg                         : 8
 go                            : 4
+Go_Explore                    : 1
 go_fund_me                    : 1
 go_lang                       : 6
 goal                          : 1
@@ -779,6 +783,7 @@ gun_viollence                 : 1   : gun_violence
 gun_violnce                   : 1   : gun_violence
 gunpowder                     : 2
 guns                          : 25  : gun
+guns_dont_kill_people         : 1
 gunshot                       : 1
 gunshot_wounds                : 3
 gurgaon                       : 1
