@@ -202,7 +202,7 @@ learnability                    : 1
 learnification                  : 2
 Learning                        : 1  : learning
 learning                        : 177
-Learning paradigms              : 1
+Learning paradigms              : 1  : learning_paradigms
 learning_disability             : 1
 learning_objectives             : 1
 learning_theory                 : 1

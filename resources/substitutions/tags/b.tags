@@ -229,7 +229,7 @@ behaviour_oriented_design          : 4
 behaviour_selection                : 1
 behaviour_tree                     : 14
 behaviour_trees                    : 21  : behaviour_tree
-behavioural diversity              : 1
+behavioural diversity              : 1   : behavioural_diversity
 behavioural_analysis               : 1
 behavioural_boundaries             : 1
 behavioural_ecology                : 2

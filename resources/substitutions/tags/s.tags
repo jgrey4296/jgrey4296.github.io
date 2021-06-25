@@ -758,7 +758,7 @@ singular_value_decomposition                : 1
 singularity                                 : 1
 sinn_fein                                   : 1
 SIP                                         : 1
-SIP agents                                  : 1
+SIP agents                                  : 1  : SIP : agents
 siphonophore                                : 1
 sir_gawain                                  : 3
 sir_you_are_being_hunted                    : 4

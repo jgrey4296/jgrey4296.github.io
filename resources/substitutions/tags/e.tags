@@ -633,7 +633,7 @@ evo_bio                             : 1
 evo_psych                           : 2
 evoland                             : 1
 evolution                           : 93
-evolutionary robotics               : 1
+evolutionary robotics               : 1 : evolutionary_robotics
 evolutionary_algorithms             : 1
 evolutionary_economics              : 1
 evolutionary_game_theory            : 1

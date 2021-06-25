@@ -275,7 +275,7 @@ CBMS                                    : 1
 CBO                                     : 1
 CBP                                     : 14
 cbp                                     : 4   : CBP
-cbp dolly_lucio_sevier                  : 1
+cbp dolly_lucio_sevier                  : 1   : CBP : dolly_lucio_sevier
 CBR                                     : 6
 CBS                                     : 1
 cbs                                     : 1   : CBS
@@ -1136,9 +1136,9 @@ compulsion                              : 1
 compulsions                             : 1   : compulsion
 compulsory_attendance                   : 1
 computation                             : 45
-Computational Economics                 : 1
+Computational Economics                 : 1   : computational_economics
 computational social science            : 1   : computational_social_science
-computational social sciences           : 1
+computational social sciences           : 1   : computational_social_science
 computational_aesthetics                : 1
 computational_analysis                  : 1
 computational_anthropology              : 1

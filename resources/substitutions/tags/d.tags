@@ -43,7 +43,7 @@ dalit                                     : 2
 dallas                                    : 1
 dallas_morning_news                       : 1
 damage                                    : 1
-damage recovery                           : 1
+damage recovery                           : 1 : damage_recovery
 damascus                                  : 1
 dambulla                                  : 1
 dame_dev                                  : 1  : game_dev
