@@ -1,7 +1,7 @@
 #+TITLE: Alt Agenda
 * Top
 ** Tasks
-*** TODO [[https://quality-diversity.github.io/papers][Quality-Diversity]]
+*** DONE [[https://quality-diversity.github.io/papers][Quality-Diversity]]
 *** TODO emacs editor
 *** TODO Spec compile to architecture
 *** TODO Source code analysis
@@ -16,7 +16,7 @@ reminder: sankey diagram
 *** TODO Prototype some Mechanical Turk Tasks                                   :survey:online:price:amazon:
 *** importance of the *double hermeneutic*
 *** TODO Structural phenomenology?                                              :look_into:
-*** TODO Get Castelfranchi: Behavioral Implicit Communication                   :look_into:
+*** DONE Get Castelfranchi: Behavioral Implicit Communication                 :look_into:
 *** TODO Vignettes
 *** TODO [[https://ncase.me/remember/][Spaced Repetition]]
 *** TODO [[/Mega/Images/misc_research_images/alien_behave.png][Alien Behaviour Tree]]
@@ -26,7 +26,7 @@ reminder: sankey diagram
 *** [[http://www.parliamentbook.com/spaces][Parliament Book]]
 *** [[https://www.soundsurvey.org.uk/index.php/history/street_cries/brit1/626/3387][Sound Survey]]
 *** [[https://en.wikipedia.org/wiki/Kanban][Kanban]]
-*** [[http://plantuml.com/sequence-diagram][PlantUML]]
+*** DONE [[http://plantuml.com/sequence-diagram][PlantUML]]
 *** [[https://multiagentcontest.org/publications/][Multi Agent Contest]]
     https://github.com/agentcontest/massim_2020
 *** [[http://slatestarcodex.com/2014/04/28/the-control-group-is-out-of-control/][The Control Group is out of control]]                                         :science:methods:
