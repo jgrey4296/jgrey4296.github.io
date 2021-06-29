@@ -1,59 +1,89 @@
  #+TITLE: Quotes
 * Unverified
-** @alexhern
+
+** @alexhern                                                                   :twitter:
 “The incentive under capitalism is to use robots for everything except hard
 wear-and-tear work, because if you wear out your robot, you have to pay to fix
 it, but if you wear out your person, the NHS pays to fix them.”
-** @alliebland
+** @alliebland                                                                 :twitter:
 "Then Google Maps was like, 'turn right on Malcolm Ten Boulevard' and I knew there were no
 black engineers working there".
-** @amybphd
+** @amybphd                                                                    :twitter:
 I needed the reminder that gaslighting is less about truth than it is about
 control. When someone repeatedly tells you 1+1=3, they're not looking for
 your help with math.
-** @BlkHistStudies
+** @blackleftaf                                                                :twitter:
+White supremacy is equal parts petty, absurd, and violent.
+** @BlkHistStudies                                                             :twitter:
 The grave is full of dreams, unfulfilled promises, inventions,
 business plans, etc. You better start living NOW.
-** @chouxsalax and @alt254
+** @chouxsalax and @alt254                                                     :twitter:
  The Greatest trick the videogame industry ever pulled was convincing the world that videogames were games in the first place.
  Unlike traditional games in which voluntary rules are consciously chosen to further constrain
  or interpret the physical properties of dice and cards, balls and bats, or track and field,
  videogames conflate the rulse of a game with the mechanics of the equipment.
 - Metagaming
-** @davidcapello
+** @davidcapello                                                               :twitter:
 The best measure to check the complexity of an UI is the number of steps you
 have to do to create a tutorial about it.
 
-** @dril
+** @dlldlldlldll                                                               :twitter:
+Start a blog and start writing my friend. Doesn’t matter if
+no one sees it, helps you improve your craft and comms skills... and then when
+an opportunity (like @Gaohmee looking for good stuff) pops up, you’re ready to
+go!
+** @dril                                                                       :twitter:
 The wise man bowed his head solemnly and spoke:
 "Theres actually zero difference between good & bad things. you imbecile. you fucking moron."
-** @hypervisible
+** @hypervisible                                                               :twitter:
 Computational tools aren't going to make people recognize our humanity.
-** @mathbabedotorg
+** @JPLeBreton                                                                 :twitter:
+[[https://gist.github.com/JPLeBreton/cef18e516047db06df8d7f41bced8a7e][Against Coercion: A Game Design Manifesto]]
+let players wonder about things and trust them to find answers.
+
+connect players with patterns they find intrinsically fulfilling.
+
+never treat a number going up as an inherently positive or meaningful event.
+
+teach respect for the autonomy and boundaries of all things.
+
+posit alternatives to fantasies of accumulation and extraction.
+
+do not think of emotional responses as something you extract from players.
+
+produce and distribute ethically.
+
+aspire to more than escape.
+** @KHandozo                                                                   :twitter:
+Years of "gUns DoN'T kiLl PEoPle" rhetoric and suddenly every weapon cops use against civilians is animate.
+
+The act of being visibly yourself becomes activism to people who
+oppose your existence.
+** @mathbabedotorg                                                             :twitter:
 A white-shoe law firm or an exclusive prep school will lean far more on recommendations
 and face-to-face interviews than will a fast-food chain or a cash-strapped urban school district.
 The privileged, we'll see time and again, are processed more by people, the masses by machines.
 - Weapons of Math Destruction
-** @OmanReagan
+** @OmanReagan                                                                 :twitter:
 "Facebook is not only a tool for social networking and activism, it is also a
 U.S.-based, corporate, for-profit, data-mining enterprise and its potential
 for use in resisting institutional power must be considered in that context."
 
-** @prchovanec
+** @prchovanec                                                                 :twitter:
 There are two ways of making policy:
 - tell yourself a story about what will happen and hope that it does
 - rigorously ask yourself what could go wrong and have some idea what you might do if it does
 
   Guess which happens more often?
-** @SatansJacuzzi
+** @SatansJacuzzi                                                              :twitter:
 "Steam w/o the humanities is just a raytheon training program".
-** @shaun_vids
+** @shaun_vids                                                                 :twitter:
 billionaires should be desperate to be taxed. something is going to happen to
 them, and 'taxed' is the best verb they can hope for at this point
-** @skulldelacreme (@dirtbagboyfren)
+** @skulldelacreme (@dirtbagboyfren)                                           :twitter:
 You can't force people to live under capitalism which equates your worth to how
 much you own, then not understand property damage as protest.
-** @steam_umm
+** @steam_umm                                                                  :twitter:
 friendly reminder in times of uncertainty and misinformation: anecdotes are
 not data. (good) data is carefully measured and collected information based
 on a range of subject-dependent factors, including, but not limited to,
@@ -86,17 +116,21 @@ if you thought this thread was useful, we posted another one recently
 touching on small, simple ways that the average person can take on the
 daily cultural challenges of this pandemic without demonizing or
 otherizing our neighbors
-** @Theophite
+** @Theophite                                                                  :twitter:
 On Bitcoin: "Imagine if keeping your car idling 24/7 produced solved sudokus you could trade for heroin."
-** @Ugarles
+** @toniasutherland                                                            :twitter:
+"Too often archivists recreate harmful descriptive (and other professional)
+practices, simply via uncritical transfer from analog to digital formats"
+[[http://doi.org/10.33137/ijidi.v5i1.34669]]
+** @Ugarles                                                                    :twitter:
 Conservatives are very big on cost/benefit analysis when it comes to
 regulating for clean air and water but find it morally repugnant when you
 mention it regarding wars of choice.
 
 "these are the assumptions. it's where you hide your preferred outcome."
-** @Vanessa_ABee
+** @Vanessa_ABee                                                               :twitter:
 "Never too young to date, always too young to choose abortion" - ancient GOP Proverb
-** @ztsamudzi
+** @ztsamudzi                                                                  :twitter:
 Maxim of her friend Jeff:
 “There is a correlation between a man’s sensual ineptitude and his
 ruthlessness.”
@@ -119,6 +153,9 @@ The more I study the more insatiable do I feel my genius for it to be.
 
 So basically people who say "snowflake" as an insult are quoting a domestic terrorist who blows up skyscrapers because he's insecure about how good he is in bed."
 - facebook
+** Alain De Botton
+"The fear of saying something stupid (which stupid people never have) has censored far more good ideas than bad ones."
+
 ** Alan Kay
 [[http://www.purl.org/stefan_ram/pub/doc_kay_oop_en][Source]]
 OOP to me means only messaging, local retention and protection and
@@ -618,6 +655,8 @@ Open your mind, get up off the couch, move.”
 ** Antonio Gramsci
 The crisis consists precisely in the fact that the old is dying and the new cannot be born;
 in this interregnum a great variety of morbid symptoms appear.
+** Anwar Sadat                                                                 :democracy_africa:
+It is democracy I am really suffering from as much as I am suffering from the opposition.
 ** Anython Ewer
 No matter how grouchy you're feeling,
 You'll find the smile more or less healing.
@@ -922,6 +961,14 @@ but don't hurt for us long, nor imagine us gone
 though we've slipped into beauty unseen:
 we're waiting right here for when you finally appear
 & we can both go where we go when we leave.
+** Ellen Johnson Sirleaf                                                       :democracy_africa:
+"Ebola is not just a health crisis. Across West Africa, a generation of young people risks being lost to an economic catastrophe"
+
+"Leadership is never given on a silver platter, one has to earn it."
+
+"We are here because we share a fundamental belief: that poverty, illiteracy, disease and inequality do not belong in the twenty-first century. We share a common purpose: to eradicate these ills for the benefit of all."
+
+I beg you I no magician. I can't just wave a magic wand.
 ** Elon Musk
 Marx was a capitalist. He even wrote a book about it.
 ** Emma Thompson
@@ -1665,12 +1712,28 @@ oriented: an eternal "series of ongoing failed lessons, where instead of
 building on knowledge of successes and failures past, we just trace the same
 steps in a kind of random walk with whatever is contemporary and thrust upon us
 by virtue of habit or some mighty deal that gets done at your institution."
+** Idi Amin                                                                    :democracy_africa:
+"My mission is to lead the country out of a bad situation of corruption, depression and slavery. After I rid the country of these vices, I will then organize and supervise a general election of a genuinely democratic civilian government."
+
+"There is freedom of speech, but I cannot guarantee freedom after speech"
+
+I am the hero of Africa.
+
+Politics is like boxing ó you try to knock out your opponents.
 ** Inger Mewburn
 "PhD graduates should write to influence the communities they live in, as well
 as other academics."
 - https://thesiswhisperer.com/2020/06/10/why-academic-writing-sucks-and-how-we-can-fix-it/
 ** Ira Glass
  “Nobody tells this to people who are beginners, I wish someone told me. All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you. A lot of people never get past this phase, they quit. Most people I know who do interesting, creative work went through years of this. We know our work doesn’t have this special thing that we want it to have. We all go through this. And if you are just starting out or you are still in this phase, you gotta know its normal and the most important thing you can do is do a lot of work. Put yourself on a deadline so that every week you will finish one story. It is only by going through a volume of work that you will close that gap, and your work will be as good as your ambitions. And I took longer to figure out how to do this than anyone I’ve ever met. It’s gonna take awhile. It’s normal to take awhile. You’ve just gotta fight your way through.”
+** Jakaya Kikwete                                                              :democracy_africa:
+My government is going to deal with all forms of corruption. White-collar corruption will be high on the list and we are going to plug all gaps that are being used by corrupt leaders (and) business people.
+
+Roads are the blood vessels of the economy.
+
+The presidency is not an office job.
+
+We cannot continue to mourn about our country being poor while our minerals are lying untapped.
 ** James Baldwin
 "You think your pain and your heartbreak are unprecedented in the history of the world, but then you read."
 ** James Henry Hammond
@@ -4352,6 +4415,10 @@ The Failure mode of clever is asshole.
 ** John Tanton
 I've come to the point of view that for European-American society and culture to persist
 requires a European-American majority, and a clear one at that.
+** Jomo Kenyatta                                                               :democracy_africa:
+"The basis of any independent government is a national language, and we can no longer continue aping our former colonizers ... those who feel they cannot do without English can as well pack up and go."
+
+"You and I must work together to develop our country, to get education for our children, to have doctors, to build roads, to improve or provide all day-to-day essentials."
 ** Jon Stewart
 I think I'm beginning to get it.
 If it's a policy that benefits the rich, it doesn't have to be paid for, should
@@ -4368,10 +4435,29 @@ A lie told once remains a lie but a lie told a thousand times becomes the truth.
 ** Joseph Weizenbaum
 "The artificial intelligence project was a fraud that played on the trusting
 instincts of people" - from @noamcohen The Know-It-Alls
+** Joyce Banda                                                                 :democracy_africa:
+It is only when a woman is economically empowered that she can negotiate at household level with her husband about the number of children that body of hers can have.
+
+Leadership is about falling in love with the people you serve and the people falling in love with you.
+
+What I am saying every day to Malawians is that time has come for us to move from aid to trade. We have picked several sectors that we think we can focus on immediately in order for us to grow our economy.
+
 ** Julia Roberts
 Women, you are not rehabilitation centers for badly raised men.
 It is not your job to fix him, change him, parent him or raise him.
 You want a partner not a project.
+** Julius Nyerere                                                              :democracy_africa:
+"Education is not a way to escape poverty, it is a way of fighting it."
+
+"If real development is to take place, the people have to be involved."
+
+"My generation led Africa to political freedom. The current generation of leaders and peoples of Africa must pick up the flickering torch of African freedom, refuel it with their enthusiasm and determination, and carry it forward."
+
+"We spoke and acted as if, given the opportunity for self-government, we would quickly create utopias. Instead injustice, even tyranny, is rampant."
+
+The greatest contraceptive one can have in the developing world is the knowledge that your children will live
+
+You cannot develop people. You must allow people to develop themselves.
 ** K. Gibran
 They deem me mad because I will not sell my days for gold and I deem them mad because they think my days have a price.
 ** Karl Marx
@@ -4392,6 +4478,12 @@ Even if they are lurching backwards now for certain reproductive rights, they wi
 again.
 This is in spite of a certain orange spunk trumpet in Washington.
 
+** Kate Manne
+“Progress fortunately does not rely—cannot, and has never
+relied—on universal agreement that what is patently unjust is unjust indeed”
+
+"The question thus becomes: Why, and how, do we regard many men's potentially hurt feelings as so important,
+so sacrosant? And, relatedly, why do we regard women as so responsible for protecting and ministering to them?"
 ** Katherine Jjohnson
 Girls are capable of doing everything men are capable of doing.
 Sometimes they have more imagination than men.
@@ -4407,6 +4499,16 @@ These days, I start with what it’s not, because there has been distortion. It�
 We need to regulate drugs because they are risky.
 Drugs are infinitely more dangerous when produced and sold by criminals who do not worry about any safety measures.
 Legal regulation protects health.
+** Kofi Annan                                                                  :democracy_africa:
+"Education is, quite simply, peace-building by another name. It is the most effective form of defense spending there is."
+
+"Gender equality is more than a goal in itself. It is a precondition for meeting the challenge of reducing poverty, promoting sustainable development and building good governance."
+
+"No one is born a good citizen; no nation is born a democracy. Rather, both are processes that continue to evolve over a lifetime. Young people must be included from birth."
+
+"When women thrive, all of society benefits, and succeeding generations are given a better start in life."
+
+A developed country is one that allows all its citizens to enjoy a free and healthy life in a safe environment
 ** Kumail Nanjiani
 He's just so stupid.
 
@@ -4453,6 +4555,8 @@ The history of liberty could almost be written in terms of mobs that "got away w
 ** Linda B. Buck
 As a woman in science, I sincerely hope that my receiving a Nobel Prize will send a message to
 young women everywhere that the doors are open to them and that they should follow their dreams.
+** Louise Mushikiwabo                                                          :democracy_africa:
+"As long as countries wave chequebooks over our heads, we can never be equal."
 ** Lucy Parsons
 Never be decieved that the rich will allow you to vote away their wealth.
 ** Lyndon B. Johnson
@@ -4467,6 +4571,13 @@ Q: Hate the house rules: What are your thoughts on people who have “house rule
 
 A: All rules for board games are made up. All games were, at some point, made up; there is no natural, immutable way to play Gin Rummy. The original rules of Monopoly only exist because someone in the early 1900s wanted to explain the tax theories of Henry George via a board game; there is no objective version of Monopoly. Moreover, the worst sort of argument one can have with relatives is one where the stakes are low but the sense of grievance is high. You will likely never convince your in-laws that their game rules are irritating, no matter how passionately you argue your case. Cheerfully embrace your in-laws’ ridiculous house rules (or politely decline to play and read a book instead), and feel free to make up your own rules at home, although if you find yourself at a point where every time you play a game you have to insist that everyone else follow “the real rules,” you might want to do something besides play board games with your guests. (There are no real rules. There are no real games, only endless variations on an arbitrary theme. Embrace chaos.)
 - [[https://slate.com/human-interest/2017/02/dear-prudence-my-boss-didnt-give-me-the-raise-he-promised.html][Dear Prudence Interview]]
+
+** Mar Hicks
+"My classes are not only about "what happened" in the past, but how we know what
+we think we know. I often tell my students that history is the process of
+deciding which stories to tell and which stories to hide."
+
+- [[https://marhicks.com/syllabi.html#womenincomputing][Homepage]]
 
 ** Marcus Aurelius
 Live a good life.
@@ -4527,6 +4638,12 @@ First they came for the socialists, and I did not speak out- Because I was not a
 Then they came for the trade unionists, and I did not speak out- Because I was not a trade unionist.
 Then they came for the Jews, and I did not speak out- Because I was not a Jew.
 Then they came for me- and there was no one left to speak for me.
+** Matthew Salesses
+'It has somehow become common to praise setting for being "a character" of its own,
+but let's face it: setting is not character. The Settings most typically said to be characters are settings
+that are underrepresented in the dominant fiction tradition.
+*Setting as character* is often a veiled way of praising work from or, even more so, *about*
+minority communities, if that work is considered evocative by a white audience.'
 ** Matthew Schultz
 “You’re allowed to believe in a god. You’re allowed to believe unicorns live in your shoes for all I care. But the day you start telling me how to wear my shoes so I don’t upset the unicorns, I have a problem with you. The day you start involving the unicorns in making decisions for this country, I have a BIG problem with you.”
 ** Maurice Merleau-Ponty
@@ -4552,6 +4669,10 @@ A Language is a dialect with an army and a navy.
 
 ** MC Hammer
 "When you measure, include the measurer."
+** Mengistu Haile Mariam                                                       :democracy_africa:
+"He cannot conceive of a nation as anything but an absolute centralized authority, totalitarianism, for his rule is nothing less than that now."
+
+Ethiopia did not have the same problem [of corruption]. African leaders looked at us with envy.
 ** Michael Rosen
  "The data have landed.
 First they said they needed data about the childrern to find out what they're learning.
@@ -4567,6 +4688,8 @@ If any good comes out of ignorance, then I'll take the ignorance.
 Ali said to his mother if he has the chance to live he wants to be a lawyer or a political activist
 so he can get the chance to help others.
 
+** Mohammed Morsi                                                              :democracy_africa:
+"I am the first Egyptian civilian president elected democratically, freely, following a great, peaceful revolution."
 ** Mohandas Gandhi
 I like your Christ,
 I do not like your Christians.
@@ -4577,6 +4700,10 @@ takes one minute; and that the whole book, not a few sentences, be approved or c
 
 - in M. Blanchot's essay "Reading", 1982
 
+** Muammar al-Gaddafi                                                          :democracy_africa:
+There is no state with a democracy except Libya on the whole planet.
+
+We put our fingers in the eyes of those who doubt that Libya is ruled by anyone other than its people.
 ** Mueller Report
 "... the evidence doees indicate that a thorough FBI investigation would uncover facts about the campaign and
 the president personallty that the president could have understood to be crimes or that would give rise to
@@ -4621,6 +4748,20 @@ Don't ever take a city for granted.
 After all, it is bigger than you are; it is older; and it has learned how to wait...
 - [[https://www.neilgaiman.com/Cool_Stuff/Essays/Essays_By_Neil/SIMCITY][Sim city essay]]
 
+** Nelson Mandela                                                              :democracy_africa:
+"If you want to change the world, help the women."
+
+"It is not the kings and generals that make history, but the masses of the people."
+
+"It is said that no one truly knows a nation until one has been inside its jails. A nation should not be judged by how it treats its highest citizens, but its lowest ones."
+
+"Like slavery and apartheid, poverty is not natural. It is man-made and it can be overcome and eradicated by the actions of human beings."
+
+"Our freedom is also incomplete, dear compatriots, as long as we are denied our security by criminals who prey on our communities, who rob our businesses and undermine our economy, who ply their destructive trade in drugs in our schools, and who do violence against our women and children."
+
+It only seems impossible until it's done.
+
+The true character of a society is revealed in how it treats its children.
 ** Nick Morgan
 "You can tell when rhetoric is empty ... because it would never be possible to
 say the alternative."
@@ -4684,6 +4825,12 @@ they have in all of our lives.
 ** Ozy Aloziem
 White Privilege is your history being part of the core curriculum and mine
 being taught as an elective.
+** Paul Kagame                                                                 :democracy_africa:
+"In Africa today, we recognise that trade and investment, and not aid, are pillars of development."
+
+"Infrastructure is key, but also how it's used, and that's political."
+
+Aid leads to more aid and more aid and more aid and less independence of the people that are receiving aid.
 ** Paul S. Ryan
 The right recognizes something that few on the left recognize: That campaign finance law
 underlies all other substantive law.
@@ -4731,6 +4878,10 @@ There are men who are as much women as their mothers, and women who are as much 
 the soul has no gender.
 - 1641.
 
+** Raila Odinga                                                                :democracy_africa:
+"At independence Kenya's economic indicators were equal to those of South Korea, but 45 years down the road, Korea's economy is 40 times that of Kenya. The mediocrity of leadership is across the continent."
+
+The mediocrity with which Africa has been ruled is responsible for its underdevelopment.
 ** Rand Paul
 Quoting @judgenap: Why do we have a second amendment? It's not to shoot deer.
 It's to shoot at the government when it becomes tyrannical.
@@ -6007,6 +6158,10 @@ What the commodifiers of fantasy count on and exploit is the insuperable imagina
 
 ** Vilna Bashi Treitler
 TODO "how an ethnic group comes to be recognized as such"
+** Wangari Maathai                                                             :democracy_africa:
+"Recognizing that sustainable development, democracy and peace are indivisible is an idea whose time has come"
+
+Human rights are not things that are put on the table for people to enjoy. These are things you fight for and then you protect.
 ** Weed man Lue
 Due to the coronavirus I will no longer be accepting cash or hand to hand transactions.
 Please continue to use cashapp or Venmo.
@@ -6036,121 +6191,3 @@ Embrace the concept that rest, recovery, reflection are essential parts of the p
 a successful and happy life.
 ** Zora Neale Hurston
 If you are silent about your pain, they'll kill you and say you enjoyed it.
-** Kate Manne
-“Progress fortunately does not rely—cannot, and has never
-relied—on universal agreement that what is patently unjust is unjust indeed”
-
-"The question thus becomes: Why, and how, do we regard many men's potentially hurt feelings as so important,
-so sacrosant? And, relatedly, why do we regard women as so responsible for protecting and ministering to them?"
-** @JPLeBreton
-[[https://gist.github.com/JPLeBreton/cef18e516047db06df8d7f41bced8a7e][Against Coercion: A Game Design Manifesto]]
-let players wonder about things and trust them to find answers.
-
-connect players with patterns they find intrinsically fulfilling.
-
-never treat a number going up as an inherently positive or meaningful event.
-
-teach respect for the autonomy and boundaries of all things.
-
-posit alternatives to fantasies of accumulation and extraction.
-
-do not think of emotional responses as something you extract from players.
-
-produce and distribute ethically.
-
-aspire to more than escape.
-** @KHandozo
-Years of "gUns DoN'T kiLl PEoPle" rhetoric and suddenly every weapon cops use against civilians is animate.
-
-The act of being visibly yourself becomes activism to people who
-oppose your existence.
-** @blackleftaf
-White supremacy is equal parts petty, absurd, and violent.
-** @toniasutherland
-"Too often archivists recreate harmful descriptive (and other professional)
-practices, simply via uncritical transfer from analog to digital formats"
-[[http://doi.org/10.33137/ijidi.v5i1.34669]]
-** @dlldlldlldll
-Start a blog and start writing my friend. Doesn’t matter if
-no one sees it, helps you improve your craft and comms skills... and then when
-an opportunity (like @Gaohmee looking for good stuff) pops up, you’re ready to
-go!
-** Matthew Salesses
-'It has somehow become common to praise setting for being "a character" of its own,
-but let's face it: setting is not character. The Settings most typically said to be characters are settings
-that are underrepresented in the dominant fiction tradition.
-*Setting as character* is often a veiled way of praising work from or, even more so, *about*
-minority communities, if that work is considered evocative by a white audience.'
-
-* Democracy Africa Quotes
-** Anwar Sadat
-It is democracy I am really suffering from as much as I am suffering from the opposition.
-** Ellen Johnson Sirleaf
-"Ebola is not just a health crisis. Across West Africa, a generation of young people risks being lost to an economic catastrophe"
-"Leadership is never given on a silver platter, one has to earn it."
-"We are here because we share a fundamental belief: that poverty, illiteracy, disease and inequality do not belong in the twenty-first century. We share a common purpose: to eradicate these ills for the benefit of all."
-I beg you I no magician. I can't just wave a magic wand.
-** Idi Amin
-"My mission is to lead the country out of a bad situation of corruption, depression and slavery. After I rid the country of these vices, I will then organize and supervise a general election of a genuinely democratic civilian government."
-"There is freedom of speech, but I cannot guarantee freedom after speech"
-I am the hero of Africa.
-Politics is like boxing ó you try to knock out your opponents.
-** Jakaya Kikwete
-My government is going to deal with all forms of corruption. White-collar corruption will be high on the list and we are going to plug all gaps that are being used by corrupt leaders (and) business people.
-Roads are the blood vessels of the economy.
-The presidency is not an office job.
-We cannot continue to mourn about our country being poor while our minerals are lying untapped.
-** Jomo Kenyatta
-"The basis of any independent government is a national language, and we can no longer continue aping our former colonizers ... those who feel they cannot do without English can as well pack up and go."
-"You and I must work together to develop our country, to get education for our children, to have doctors, to build roads, to improve or provide all day-to-day essentials."
-** Joyce Banda
-It is only when a woman is economically empowered that she can negotiate at household level with her husband about the number of children that body of hers can have.
-Leadership is about falling in love with the people you serve and the people falling in love with you.
-What I am saying every day to Malawians is that time has come for us to move from aid to trade. We have picked several sectors that we think we can focus on immediately in order for us to grow our economy.
-** Julius Nyerere
-"Education is not a way to escape poverty, it is a way of fighting it."
-"If real development is to take place, the people have to be involved."
-"My generation led Africa to political freedom. The current generation of leaders and peoples of Africa must pick up the flickering torch of African freedom, refuel it with their enthusiasm and determination, and carry it forward."
-"We spoke and acted as if, given the opportunity for self-government, we would quickly create utopias. Instead injustice, even tyranny, is rampant."
-The greatest contraceptive one can have in the developing world is the knowledge that your children will live
-You cannot develop people. You must allow people to develop themselves.
-** Kofi Annan
-"Education is, quite simply, peace-building by another name. It is the most effective form of defense spending there is."
-"Gender equality is more than a goal in itself. It is a precondition for meeting the challenge of reducing poverty, promoting sustainable development and building good governance."
-"No one is born a good citizen; no nation is born a democracy. Rather, both are processes that continue to evolve over a lifetime. Young people must be included from birth."
-"When women thrive, all of society benefits, and succeeding generations are given a better start in life."
-A developed country is one that allows all its citizens to enjoy a free and healthy life in a safe environment
-** Louise Mushikiwabo
-"As long as countries wave chequebooks over our heads, we can never be equal."
-** Mengistu Haile Mariam
-"He cannot conceive of a nation as anything but an absolute centralized authority, totalitarianism, for his rule is nothing less than that now."
-Ethiopia did not have the same problem [of corruption]. African leaders looked at us with envy.
-** Mohammed Morsi
-"I am the first Egyptian civilian president elected democratically, freely, following a great, peaceful revolution."
-** Muammar al-Gaddafi
-There is no state with a democracy except Libya on the whole planet.
-We put our fingers in the eyes of those who doubt that Libya is ruled by anyone other than its people.
-** Nelson Mandela
-"If you want to change the world, help the women."
-"It is not the kings and generals that make history, but the masses of the people."
-"It is said that no one truly knows a nation until one has been inside its jails. A nation should not be judged by how it treats its highest citizens, but its lowest ones."
-"Like slavery and apartheid, poverty is not natural. It is man-made and it can be overcome and eradicated by the actions of human beings."
-"Our freedom is also incomplete, dear compatriots, as long as we are denied our security by criminals who prey on our communities, who rob our businesses and undermine our economy, who ply their destructive trade in drugs in our schools, and who do violence against our women and children."
-It only seems impossible until it's done.
-The true character of a society is revealed in how it treats its children.
-** Paul Kagame
-"In Africa today, we recognise that trade and investment, and not aid, are pillars of development."
-"Infrastructure is key, but also how it's used, and that's political."
-Aid leads to more aid and more aid and more aid and less independence of the people that are receiving aid.
-** Raila Odinga
-"At independence Kenya's economic indicators were equal to those of South Korea, but 45 years down the road, Korea's economy is 40 times that of Kenya. The mediocrity of leadership is across the continent."
-The mediocrity with which Africa has been ruled is responsible for its underdevelopment.
-** Wangari Maathai
-"Recognizing that sustainable development, democracy and peace are indivisible is an idea whose time has come"
-Human rights are not things that are put on the table for people to enjoy. These are things you fight for and then you protect.
-** Mar Hicks
-"My classes are not only about "what happened" in the past, but how we know what
-we think we know. I often tell my students that history is the process of
-deciding which stories to tell and which stories to hide."
-
-- [[https://marhicks.com/syllabi.html#womenincomputing][Homepage]]
