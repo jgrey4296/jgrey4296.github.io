@@ -14,6 +14,7 @@
 2003 agrawal03_end_to_end_domain_driven
 2003 agrawal03_graph_trans_domain_specif_model
 2003 koller03_multi
+2004 north04_drawin_graph_neato
 2004 van04_inter
 2005 gruenwoldt05_creat_react_non_player_charac
 2005 jungnickel05_graph_networ_algor
@@ -54,6 +55,7 @@
 2014 hermann14_tripl
 2014 yatapanage14_slicin_behav_tree_model_verif
 2015 anguelov15_separ_concer_archit_ai_animat
+2015 gansner15_drawin_graph_dot
 2015 kairam15_refin
 2015 robinson15_graph
 2015 schlegel15_concur_infer_graph

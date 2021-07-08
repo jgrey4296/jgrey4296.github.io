@@ -107,11 +107,13 @@
 2007 hubner07_moise_tutor
 2007 sato07_dynam_social_simul_with_multi
 2007 sierra07_desig_instit_multi_agent_system
+2007 bordini07_jason
 2008 fornara08_artif_instit
 2008 fornara08_artif_instit
 2008 gascuena08_promet_ingen
 2008 goebel08_multi_agent_based_simul_ix
 2008 guerin08_aisb_behav_regul_multi_agent_system
+2008 harmelen08_handb_knowl_repres
 2008 katja08_multi_autom_learn
 2008 mccallum08_organ_chang_throug_influen
 2008 yasutake08_modul_learn_system_behav_acquis
@@ -180,6 +182,7 @@
 2011 kazakov11_aisb_social_networ_multiag_system
 2011 neville11_simul_social_relat_multi_agent_system
 2011 pitt11_model_resour_alloc_open_embed_system
+2011 dong11_model
 2012 andrighetto12_normat_multi_agent_system_dagst_semin
 2012 artikis12_dynam_specif_open_agent_system
 2012 bourgne12_findin_new_conseq_obser_system_agent
@@ -190,6 +193,7 @@
 2012 popescu12_sage
 2012 villadsen12_reimp_python
 2012 weber12_integ_learn_multi_scale_agent
+2012 ricci12_cartag_jaca_examp
 2013 andrighetto13_normat_multi_agent_system
 2013 balke13_coord_organ_instit_norms_agent_system_ix
 2013 balke13_i_abm
@@ -289,3 +293,4 @@
 2019 tan19_method_applic_model_simul_compl
 2020 ancona20_exploit_agent_ontol_type_meanin
 2020 david20_philos_persp_multiag_based_simul_social_scien
+2020 martin20_local_haltin_criter_for_stoch
