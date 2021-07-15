@@ -95,6 +95,7 @@
 2006 weyns06_envir_as_first_class_abstr_multiag_system
 2007 boella07_normat_multi_agent_system
 2007 boella07_ontol_proper_social_roles_multi_agent_system
+2007 bordini07_jason
 2007 bordini07_progr_multi_agent_system_agent_jason
 2007 cliffe07_specif_analy_instit_multi_agent
 2007 cliffe07_specif_reason_about_multip_instit
@@ -107,7 +108,6 @@
 2007 hubner07_moise_tutor
 2007 sato07_dynam_social_simul_with_multi
 2007 sierra07_desig_instit_multi_agent_system
-2007 bordini07_jason
 2008 fornara08_artif_instit
 2008 fornara08_artif_instit
 2008 gascuena08_promet_ingen
@@ -174,6 +174,7 @@
 2011 criado11_norm_enfor_elect_instit
 2011 criado11_open_issues_normat_multi_agent_system
 2011 demazeau11_advan_pract_applic_agent_multiag_system
+2011 dong11_model
 2011 esparcia11_artif
 2011 ettienne11_implem
 2011 evans11_using_exclus_logic_model_social_pract
@@ -182,7 +183,6 @@
 2011 kazakov11_aisb_social_networ_multiag_system
 2011 neville11_simul_social_relat_multi_agent_system
 2011 pitt11_model_resour_alloc_open_embed_system
-2011 dong11_model
 2012 andrighetto12_normat_multi_agent_system_dagst_semin
 2012 artikis12_dynam_specif_open_agent_system
 2012 bourgne12_findin_new_conseq_obser_system_agent
@@ -191,9 +191,9 @@
 2012 ossowski12_agreem
 2012 pacheco12_using
 2012 popescu12_sage
+2012 ricci12_cartag_jaca_examp
 2012 villadsen12_reimp_python
 2012 weber12_integ_learn_multi_scale_agent
-2012 ricci12_cartag_jaca_examp
 2013 andrighetto13_normat_multi_agent_system
 2013 balke13_coord_organ_instit_norms_agent_system_ix
 2013 balke13_i_abm
@@ -294,3 +294,4 @@
 2020 ancona20_exploit_agent_ontol_type_meanin
 2020 david20_philos_persp_multiag_based_simul_social_scien
 2020 martin20_local_haltin_criter_for_stoch
+2020 boissier20_multi_agent_orien_progr
