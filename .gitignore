@@ -4,3 +4,4 @@ auto/
 old/
 to_clean/
 years/auto/
+*/cron_reports/total*.tags
