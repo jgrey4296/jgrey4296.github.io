@@ -26,7 +26,6 @@
 1997 franklin97_is_it
 1998 bernstein98_patter
 1998 castelfranchi98_model_social_action_ai_agent
-1998 castelfranchi98_model_social_action_ai_agent
 1998 jambon98_taxon
 1998 jurafsky98_johns_hopkin_lvcsr_works_switc
 1998 jurafsky98_lexic_prosod_syntac_cues_dialog_acts
@@ -54,8 +53,7 @@
 2004 schillo04_taxon_auton_multiag_organ
 2004 vazquez-salceda04_implem_norms_multiag_system
 2005 aarseth05_theor_games
-2005 kelleher05_lower_barrier_to_progr
-2005 kelleher05_lower_barrier_to_progr
+2005 kelleher05_lower_barrier_to_progr_37
 2005 ko05_framew_method_study_causes_softw
 2005 lubart05_how_can_comput_be_partn_creat_proces
 2005 mishal05_al_qaeda_as_dune_organ
@@ -174,6 +172,7 @@
 2013 james13_three_corner_rewar_comput_games
 2013 lewis13_motiv_desig_patter
 2013 maung13_games
+2013 roijers13_survey_multi_objec_sequen_decis_makin_48
 2013 ruggiero13_four_keys_social_impac_games
 2013 smith13_proced_conten_gener_oppor_foster
 2013 spiekermann13_four_types_moral_wrigg_room
@@ -199,6 +198,7 @@
 2014 salamon14_datas_taxon_urban_sound_resear
 2014 smart14
 2014 yannakakis14_panor_artif_comput_intel_games
+2015 bloembergen15_evolut_dynam_multi_agent_learn_53
 2015 camus15_consid_multi_level_model_as
 2015 diehl15_panor_artif_comput_intel_games
 2015 heartfield15_taxon_attac_survey_defen_mechan
@@ -262,3 +262,4 @@
 2021 carrier21_taxon
 2021 guo21_data_scien_workf
 2021 mininger21_expan_task_diver_explan_based
+2021 nijs21_const_multiag_markov_decis_proces_70

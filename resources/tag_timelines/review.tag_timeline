@@ -60,7 +60,6 @@
 2005 figueria05_multip_criter_decis_analy
 2005 goldblatt05_mathem_modal_logic
 2005 kearney05_routl_histor_philos_volum_viii
-2005 kelleher05_lower_barrier_to_progr
 2005 kelly05_domain_mdd
 2005 ko05_framew_method_study_causes_softw
 2005 mallon05_stand_up_take_your_place
@@ -133,9 +132,8 @@
 2010 thoren10_weak_emerg_compl
 2010 wanderer10_rober_brand
 2011 march11_elabor_new_instit
-2011 gleizes11_agent_orien_softw_engin_x
 2011 diangelo11_white_fragil
-2011 gleizes11_agent_orien_softw_engin_x
+2011 gleizes11_agent_orien_softw_engin_x_6038
 2011 hawes11_survey_motiv_framew_intel_system
 2011 helbing11_how_to_do_agent_based_simul_futur
 2011 hollander11_curren_state_normat_agent_based_system
@@ -195,6 +193,7 @@
 2013 dawe13_behav_selec_algor
 2013 edmonds13_simul_social_compl
 2013 erdweg13
+2013 fernandez13_ai_method_algor_compos_48
 2013 gabbay13_handb_deont_logic_normat_system
 2013 glăveanu13_rewrit_languag_creat
 2013 haenfler13_subcul
@@ -205,6 +204,7 @@
 2013 lewis13_motiv_desig_patter
 2013 martin13_power_its_alibis
 2013 nikolic13_agent_based_model_socio_techn_system
+2013 roijers13_survey_multi_objec_sequen_decis_makin_48
 2013 sonuga-barke13_nonph_inter_adhd
 2013 thorisson13_editor
 2013 wu13_brief_tutor_inter_type_fuzzy_sets_system
@@ -231,12 +231,11 @@
 2014 scott14_instit_organ
 2014 stutz14_under_convol_neural_networ
 2014 wardrip-fruin14_envis_futur_comput_media
-2014 wiki14_warfar
-2014 wikipedia14_warfar
 2014 wikipedia14_warfar
 2014 zavadskas14_state_art_survey_overv_mcdm_method
 2014 yannakakis14_panor_artif_comput_intel_games
 2015 amblard15_which
+2015 bloembergen15_evolut_dynam_multi_agent_learn_53
 2015 boellstorff15_digit_anthr
 2015 braga15_can_polic_disor_reduc_crime
 2015 browne15_dark_matter
@@ -311,6 +310,7 @@
 2018 lave18_asses_real_risk_sexual_violen_predat
 2018 lawprofblawg18_law_review_citat_count_twitt_oh_my
 2018 lindskoog18_detain_punis
+2018 luedtke18_state_space_abstr_probab_infer_63
 2018 martin18_chang_instit_privat_rental_housin
 2018 pereira18_desig_think_integ_agile_softw_devel
 2018 putte18_adapt_deont_logic
@@ -347,4 +347,7 @@
 2019 vernallis19_janel_monaes_dirty_comput_music_video
 2019 watters19_worst_ed_tech_debac_decad
 2020 heyes20_primer_imitat
+2020 lazaridis20_deep_reinf_learn_69
 2020 pietzsch20_metam_evaluat_calib_apply_agent_based_model
+2021 fuglsang21_livin_labs_public_sector_innov
+2021 read21_class_chain_70

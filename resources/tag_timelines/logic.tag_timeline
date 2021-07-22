@@ -15,6 +15,7 @@
 1984 goguen84_introd_instit
 1985 alchourron85_logic_theor_chang
 1985 hoare85_commun_sequen_proces
+1986 feferman86_kurt_goedel
 1986 sergot86_britis_nation_act_as_logic_progr
 1987 girard87_linear_logic
 1989 grice89_studies_way_words
@@ -68,6 +69,8 @@
 2003 artikis03_specif_elect_societ_with_causal_calcul
 2003 baral03_knowl_repres_reason_declar_probl_solvin
 2003 boella03_oblig_permis_mental_entit
+2003 feferman03_kurt_goedel
+2003 feferman03_kurt_goedel_b
 2003 hitchcock03_explan_gener_part_ii
 2003 ramos03_co3l
 2003 shanker03_philos
@@ -152,11 +155,11 @@
 2010 perrussel10_from_signed_infor_to_belief
 2010 xu10_combin_stit_action
 2010 zarnic10_logic_typol_normat_system
-2011 gleizes11_agent_orien_softw_engin_x
 2011 beck11_art_proof
 2011 corapi11_normat_desig_using_induc_learn
 2011 cranefield11_verif_social_expec_by_model
 2011 dutilh11_differ_ways_which_logic_is_to_formal
+2011 gleizes11_agent_orien_softw_engin_x_6038
 2011 gunji11_robus_soldier_crab_ball_gate
 2011 kazakov11_aisb_social_networ_multiag_system
 2011 leite11_social_abstr_argum
@@ -167,6 +170,7 @@
 2012 artikis12_dynam_specif_open_agent_system
 2012 berstel-da12_formal_both_refrac_based_sequen
 2012 conway12_logic
+2012 kovacs12_multi_agent_exten_pddl_
 2012 lamport12_how_to_write_centur_proof
 2012 mohapatra12_cs
 2012 ossowski12_agreem
@@ -174,8 +178,7 @@
 2012 thornton12
 2012 macfarlane12_asses_sensit
 2013 andrighetto13_normat_multi_agent_system
-2013 balke13_i_abm
-2013 balke13_i_abm
+2013 balke13_i_abm_21
 2013 bosser13_linear_logic_progr_narrat_gener
 2013 criado13_manea
 2013 dijck13_under_social_media_logic
@@ -228,6 +231,7 @@
 2019 dunfield19_sound_compl_bidir_typec_higher
 2019 el-rouayheb19_devel_arabic_logic
 2019 gabbay19_journ_applied_logic
+2019 knapik19_timed_atl_66
 2019 lyall19_being_inter_academ
 2019 project19_open_logic_text
 2020 allori20_statis_mechan_scien_explan_deter
@@ -237,6 +241,8 @@
 2020 pierce20_progr_languag_found
 2020 pierce20_quick
 2020 pierce20_verif_funct_algor
+2020 sakama20_epist_argum_framew_69
+2020 vescovo20_modul_struc_atomic_decom_ontol_69
 2021 antonsen21_logic_method
 2021 bueno21_routl_handb_of_modal
 2021 copi21_essen_logic

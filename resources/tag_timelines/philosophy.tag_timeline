@@ -30,6 +30,7 @@
 1962 heidegger62_being_time
 1963 kaufmann63_faith_heret
 1965 fanon65_wretc_earth
+1967 nietzsche67_will_power
 1968 kaufmann68_traged_philos
 1969 arendt69_violen
 1969 foucault10_archaeol_knowl
@@ -44,7 +45,7 @@
 1973 heidegger73_end_philos
 1973 stoddard73_induc_origin_philos_axiom
 1974 wittgenstein80_philos_gramm
-1975 plato02_phaed
+1975 plato75_phaed
 1975 plato75_phileb
 1977 buchanan77_portab_plato
 1977 heidegger97_phenom_inter_kants_critiq_pure_reason
@@ -56,6 +57,7 @@
 1980 kierkegaard80_kierk_writin_viii_volum
 1980 singer80_marx
 1981 carver81_engel
+1981 putnam81_brain_vat
 1982 adorno82_tryin_to_under_endgam
 1982 heidegger82_basic_probl_phenom
 1982 kristeva82_power_horror
@@ -64,6 +66,8 @@
 1984 rabinow84_foucaul_reader
 1985 ricoeur85_evil_chall_to_philos_theol
 1985 heidegger01_phenom_inter_arist
+1986 feferman86_kurt_goedel
+1986 nelkin86_pains_pain_sensat
 1987 biko87_i_write_what_i_like
 1988 becker88_symbol_inter_cultur_studies
 1988 gardner88_kierk
@@ -86,9 +90,11 @@
 1993 wu93_pract_is_sole_criter_truth
 1994 brandom94_makin_explic
 1994 deleuze94_differ_repet
+1994 dentreves94_polit_philos_hannah_arend
 1994 grosz94_volat_bodies
 1994 parkinson94_routl_histor_philos_renais_seven_ration
 1994 rousseau94_social_contr
+1994 spinoza94_spinoz_reader
 1994 ten94_routl_histor_philos
 1994 tilley94
 1995 rousseau95_confes_corres_includ_letter_males
@@ -97,6 +103,7 @@
 1996 grayling96_wittg
 1996 heidegger96_being_time
 1996 lefebvre96_writin
+1996 shearmur96_polit_thoug_karl_popper
 1997 inwood97_heideg
 1997 kant97_lectur_ethic
 1997 rousseau97_julie_new_helois
@@ -119,7 +126,7 @@
 2000 brockmeier00_autob_time
 2000 buchanan00_deleuz_femin_theor
 2000 coleman00_histor_polit_thoug
-2000 coleman00_histor_polit_thoug
+2000 coleman00_histor_polit_thoug_b
 2000 heaton00_introd_wittg
 2000 kelly00_demys
 2000 nietzsche00_basic_writin_nietz
@@ -146,6 +153,7 @@
 2002 janaway02_schop
 2002 plato02_phaed
 2002 reeve02_trial_socrat
+2002 scruton02_spinoz
 2002 spinoza02_spinoz
 2002 drucker02_funct_societ
 2003 annas03_plato
@@ -153,6 +161,9 @@
 2003 blum03_imagin_struc_city
 2003 borradori03_philos_time_terror
 2003 canfield03_routl_histor_philos_volum
+2003 charland03_const_rhetor_tradit
+2003 feferman03_kurt_goedel
+2003 feferman03_kurt_goedel_b
 2003 khasnabish03_jouis_anand
 2003 lefebvre03_key_writin_edited_by_stuar
 2003 matravers03_debat_contem_polit_philos
@@ -165,6 +176,7 @@
 2004 goguen04_music_qualia_contex_time_emotion
 2004 lefebvre04_rhyth
 2004 osborne04_presoc_philos
+2004 plato04_laws
 2004 plato04_repub
 2004 potter04_set_theor_philos
 2004 ward04_anarc
@@ -232,8 +244,6 @@
 2010 wanderer10_rober_brand
 2010 white10_iron_man_philos
 2011 11_nichom_ethic
-2011 11_nichom_ethic
-2011 11_presoc_reader
 2011 11_presoc_reader
 2011 callender11_oxfor_handb_philos_time
 2011 floridi11_philos_infor
@@ -247,15 +257,12 @@
 2012 woodfin12_introd_arist
 2012 macfarlane12_asses_sensit
 2013 cicero13_how_run_count
-2013 cicero13_how_run_count
 2013 cioran13_tempt_exist
 2013 dawson13_mind_body_world
 2013 franklin13_case_again_moral_right_to_intel_proper
 2013 gordon13
 2013 sheehan13_what_if_heideg_were_phenom
 2013 sullivan13_inher_racis_dispar_healt
-2013 wrathall13_cambr_compan_heideg_i_being_time_i
-2013 wrathall13_cambr_compan_heideg_i_being_time_i
 2014 bueger14_think
 2014 cahoone14_moder_polit_tradit
 2014 cicero14_cicer_compl_works
@@ -287,7 +294,6 @@
 2016 nair16_confl_reason_uncon
 2016 van16_playin_panop
 2017 brennan17_routl_handb_marxian_econom
-2017 glazel17_normat_exper
 2017 glazel17_normat_exper
 2017 hage17_introd_law
 2017 redmond17_i_ching_book_chang

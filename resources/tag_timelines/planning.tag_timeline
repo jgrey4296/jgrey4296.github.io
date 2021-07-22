@@ -32,6 +32,8 @@
 2005 zubek05_hierar
 2006 brom06_posh_tools_game_agent_devel
 2006 castelfranchi06_delib_normat_agent
+2006 helmert06_fast_downw_plann_system_26
+2006 helmert06_solvin_plann_tasks_theor_pract_
 2006 inventado06_digma
 2006 mcneill06_dynam
 2006 niehaus06_comput_model_infer_narrat
@@ -54,12 +56,12 @@
 2009 blaylock09_linux_corpus
 2009 brenner09_contin_plann_actin_dynam_multiag_envir
 2009 harris09_proac_mediat_plan_based_narrat_envir
+2009 helmert09_landm_critic_paths_abstr_
 2009 hullett09_scenar
 2009 mcintyre09_learn_to_tell_tales
 2009 olsen09_beep
 2010 blaylock10_monroe_plan_corpus
 2010 lee10_inves_direc_agent_decis_makin_inter_narrat
-2010 li10_plann_indiv_exper_quest_centr_game_adapt
 2010 li10_plann_indiv_exper_quest_centr_game_adapt
 2010 niehaus10
 2010 riedl10_narrat_plann
@@ -95,3 +97,5 @@
 2019 ho19_ration_pragm_accoun_commun_demon
 2019 koolen19_balan
 2019 vidal19_oxfor_handb_karl_marx
+2020 helmert20_introd_pddl
+2021 nijs21_const_multiag_markov_decis_proces_70

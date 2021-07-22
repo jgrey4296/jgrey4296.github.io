@@ -111,7 +111,7 @@
 2011 jones11_artif_intel
 2011 konidaris11_auton_robot_skill_acquis
 2011 raginsky11_activ_sequen_decis_makin_uncer
-2011 tsoulas11_aisb
+2011 tsoulas11_aisb_active_vision
 2011 walker11_perceiv
 2011 webb11_statis_patter_recog
 2011 welling11_first_encoun_with_machin_learn
@@ -139,11 +139,13 @@
 2014 leskovec14_minin_massiv_datas
 2014 ray14_large_scale_study_progr_languag
 2014 stutz14_under_convol_neural_networ
+2015 bloembergen15_evolut_dynam_multi_agent_learn_53
 2015 bountourakis15_machin_learn_algor_envir_sound_recog
 2015 chotimongkol15_improv_speec_recog_perfor_dialog
 2015 lecun15_deep_learn
 2015 li15_learn_knowl_to_suppor_domain
 2015 lillicrap15_contin_contr_with_deep_reinf_learn
+2015 neyland15_bearin_accoun_able_witnes_to
 2015 vinyals15_neural_conver_model
 2016 elish16_ai_patter_languag
 2016 ghazvininejad16_gener_topic_poetr
@@ -186,6 +188,7 @@
 2020 brown20_chall
 2020 fadelli20_teach_ai_agent_to_commun
 2020 kaushik20_adapt_prior_selec_reper_based
+2020 lazaridis20_deep_reinf_learn_69
 2020 liu20_artif_comput_intel_games
 2020 omidshafiei20_navig_lands_multip_games
 2020 parker-holder20_effec_diver_popul_based_reinf_learn
@@ -194,5 +197,9 @@
 2020 wachter20_why_fairn_cannot_be_autom
 2021 abebe21_narrat_count_data_sharin_afric
 2021 jialun21_suppor_seren
+2021 marie21_scien_credib_machin_trans_resear
 2021 pearl21_radic_empir_machin_learn_resear
+2021 read21_class_chain_70
 2021 roberts21_common_pitfal_recom_using_machin
+2021 tuyls21_game_plan_71
+2021 whittlestone21_societ_implic_deep_reinf_learn_70
