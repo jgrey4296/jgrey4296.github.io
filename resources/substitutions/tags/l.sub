@@ -73,7 +73,6 @@ landfill                        : 1
 landlord                        : 5
 landlords                       : 5  : landlord
 landmarks                       : 2
-lando_calrissian                : 1
 landowner                       : 1
 landowners                      : 1  : landowner
 landsape                        : 1  : landscape
@@ -96,9 +95,8 @@ language_workbench              : 1
 Language_workbenches            : 1  : language_workbench
 Languages                       : 1  : language
 languages                       : 1  : language
-lansing                         : 2
 lanugage                        : 2  : language
-lanugage_change                 : 1
+lanugage_change                 : 1  : language_change
 lanyards                        : 1
 LAO                             : 2
 laos                            : 1
@@ -680,13 +678,11 @@ lufia                           : 1
 luke                            : 1
 LULU                            : 1
 Lume                            : 1
-luna_younger                    : 3
 lunar_labs                      : 1
 lunarch                         : 1
 lunch_debt                      : 2
 lunch_shaming                   : 1
 luther                          : 1
-lux_alptraum                    : 1
 LVE                             : 1
 lwjgl                           : 2
 lyft                            : 3

@@ -344,7 +344,6 @@ penitentials                         : 1
 penn                                 : 1
 penn_state                           : 1
 penn_treebank                        : 1
-penner                               : 1
 pennsylvania                         : 15
 penrose                              : 1
 pension                              : 1
@@ -559,8 +558,6 @@ piano                                : 2
 Picat                                : 1
 piccadilly_line                      : 1
 piccadilly_tube_bombing              : 1
-piccola                              : 1
-Piccola                              : 1 : piccola
 pickpocketing                        : 1
 pico8                                : 2
 pictograms                           : 1
@@ -664,7 +661,6 @@ platform_regulation                  : 1
 platformer                           : 2
 platforms                            : 15 : platform
 PLATO                                : 2
-plato                                : 9
 platypus                             : 1
 plausability                         : 1
 play                                 : 74
@@ -890,8 +886,6 @@ poor_countries                       : 1
 poor_law                             : 1
 poor_peoples_campaign                : 2
 pop_culture                          : 3
-pope                                 : 2
-popeye                               : 1
 POPL                                 : 1
 popl                                 : 1  : POPL
 poptop_software                      : 1
