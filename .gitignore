@@ -6,3 +6,4 @@ to_clean/
 years/auto/
 */cron_reports/total*.tags
 */cron_reports/tags.edgelist
+*/cron_reports/*.index
