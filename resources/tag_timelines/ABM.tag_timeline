@@ -18,6 +18,8 @@
 2005 kim05_inter_confer_ai_simul_plann
 2005 terano05_agent_based_social_system
 2006 arai06_agent
+2006 drogoul06_manta_
+2007 bellifemine07_devel_multi_agent_system_jade_
 2007 chen07_specif
 2007 fishwick07_handb
 2007 utomo07_agent_based_simul_negot_proces
@@ -60,11 +62,13 @@
 2013 holland13_reason_reflec_game_nomic
 2013 nakai13_agent_based_approac_econom_social
 2013 nikolic13_agent_based_model_socio_techn_system
+2013 ossowski13_agreem_techn_
 2014 amrutha14_agent_based_simul_routin_activ_theor
 2014 balke14_how_do_agent_make_decis
 2014 bohensky14_learn_dilem_social_ecolog_system
 2014 bulling14_boolean_game_based_model_socio_techn_system
 2014 bulling14_survey_multi_agent_decis_makin
+2014 elsenbroich14_model_norms_
 2014 holtz14_gener_social_pract
 2014 king14_re_check_normat_system_coher
 2014 mackerrow14
@@ -72,9 +76,11 @@
 2014 sibertin-blanc14_data_analy_social_simul_output_focus
 2014 sileno14_from_inter_agent_intra_agent_repres
 2014 thiele14_facil_param_estim_sensit_analy
+2014 zavoral14_intel_distr_comput_vii_
 2014 frantz14_model
 2015 frantz15_agent_based_instit_model
 2015 ghorbani15_struc_qualit_data_agent_based_model
+2015 giardini15_bottom_up_approac_to_opinion_dynam_abs/1502.06430
 2015 horiuchi15_emerg_collap_norm_resour_sharin
 2015 sakahira15_gener_anthr_archaeol_hypot_okinaw
 2015 sayama15_introd
@@ -115,3 +121,5 @@
 2020 hjorth20_level
 2020 vu20_softw_archit_mechan_based_social
 2020 wettstein20_simul_hidden_dynam
+2021 cardoso21_review_agent_based_progr_multi_agent_system_10
+2021 polhill21_using_agent_based_model_predic_24

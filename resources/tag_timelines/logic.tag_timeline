@@ -16,7 +16,7 @@
 1985 alchourron85_logic_theor_chang
 1985 hoare85_commun_sequen_proces
 1986 feferman86_kurt_goedel
-1986 sergot86_britis_nation_act_as_logic_progr
+1986 sergot86_britis_nation_act_as_logic_progr_29
 1987 girard87_linear_logic
 1989 grice89_studies_way_words
 1990 girard90_proof_types
@@ -25,8 +25,10 @@
 1992 bench-capon92_isomor_legal_knowl_based_system
 1992 randell92_spatial_logic_based_region_connec
 1992 shoam92_synth_useful_laws_artif_agent_societ
+1993 fisher93_concur_metat_
 1993 forbus93_build_probl_solver
 1993 jones93_charac_law_comput_system
+1994 hodas94_logic_progr_fragm_intuit_linear_logic_110
 1994 krall94_implem_techn_prolog
 1994 lavrac94_induc_logic_progr
 1994 popkorn94_first_steps_modal_logic
@@ -36,6 +38,7 @@
 1996 grayling96_wittg
 1996 hughes96
 1996 jones96_formal_charac_instit_power
+1996 lesperance96_found_
 1996 mccarthy96_logic_ai_approac_contex
 1996 jagadish96_manag
 1997 mccain97_causal_common_reason_action
@@ -51,11 +54,13 @@
 2000 konig00_graph_rewrit_seman_polay_pi_calcul
 2000 lifschitz00_gettin
 2000 makinson00_input_logic
+2000 pfenning00_struc_cut_elimin_157
 2000 priest00_logic
 2000 sorell00_descar
 2001 baader01_unific_theor
 2001 belnap01_facin
 2001 brewka01_dynam_argum_system
+2001 girard01_locus_solum_11
 2001 makinson01_const_input_output_logic
 2001 makinson01_input_output_logic
 2001 makinson01_what_input_ouput_logic
@@ -78,12 +83,13 @@
 2004 leite04_declar_agent_languag_techn
 2004 arbab04_model_tempor_logic_timed_compon_connec
 2004 ashby04_princ_self_organ_system
-2004 davies04_integ_formal_method
+2004 davies04_integ_formal_method_2999
 2004 giere04_how_model_are_used_to_repres_realit
 2004 giunchiglia04_nonmon_causal_theor
 2004 miller04_overv_linear_logic_progr
 2004 nirenburg04_ontol_seman
 2004 potter04_set_theor_philos
+2004 rissanen04_discr_overr_acces_contr_privil_calcul_173
 2005 boella05_normat_multiag_system_trust_dynam
 2005 anger05_glimp_answer_set_progr
 2005 baral05_logic_progr_nonmon_reason
@@ -121,6 +127,7 @@
 2007 grau07_logic_framew_modul_ontol
 2007 grossi07_desig_invis_handc_formal_inves
 2007 grossi07_struc_aspec_evaluat_agent_organ
+2007 harper07_mechan_metat_logic_framew_17
 2007 nielson07_seman_with_applic
 2007 noriega07_coin_durham
 2008 arbab08_tiles
@@ -151,6 +158,7 @@
 2010 boley10_rulem
 2010 criado10_normat_bdi
 2010 damasio10_declar
+2010 felty10_hybrid_48
 2010 norman10_logic_deleg
 2010 perrussel10_from_signed_infor_to_belief
 2010 xu10_combin_stit_action
@@ -191,6 +199,7 @@
 2013 kiselyov13_exten_effec_alter_to_monad_trans
 2013 meredith13_polic_as_types
 2013 o.13_decis_makin_contr_knowl_base
+2013 ossowski13_agreem_techn_
 2013 parent13_prima_facie_norms_normat_confl_dilem
 2013 pecune13_formal_model_social_relat_artif_compan
 2013 pruijt13_logic_urban_squat
@@ -199,6 +208,7 @@
 2013 tummolini13
 2013 weber13_from
 2014 agotnes14_formal_method_coord_multi_agent
+2014 deng14_relat_reason_method_linear_logic_proces_algeb_26
 2014 hartonas14_dynam_logic_agenc_action
 2014 manen14_phenom_pract
 2014 noriega14_chall_artif_socio_cognit_system
@@ -232,6 +242,7 @@
 2019 el-rouayheb19_devel_arabic_logic
 2019 gabbay19_journ_applied_logic
 2019 knapik19_timed_atl_66
+2019 larsen19_going_beyon_bdi_agent_based_simul_3
 2019 lyall19_being_inter_academ
 2019 project19_open_logic_text
 2020 allori20_statis_mechan_scien_explan_deter
@@ -246,3 +257,4 @@
 2021 antonsen21_logic_method
 2021 bueno21_routl_handb_of_modal
 2021 copi21_essen_logic
+2021 sergot21_some_forms_collec_bring_about_50

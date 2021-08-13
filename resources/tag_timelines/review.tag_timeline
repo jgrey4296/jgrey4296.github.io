@@ -7,11 +7,13 @@
 1981 barr81_handb_artif_intel
 1987 conklin87
 1988 cress88_review
+1989 murata89_petri_nets_77
 1991 brooks91_intel_without_reason
 1991 dreyfus91_makin
 1991 macleod91_half_stroop
 1992 abell92_review
 1994 bainbridge94_artif_social_intel
+1995 wooldridge95_intel_agent_10
 1996 hall96_polit_scien_three_new_instit
 1996 stinchcombe96_social_miscon_realit
 1997 fink97_compen_conjug_prior
@@ -25,6 +27,7 @@
 1999 epstein99_agent_based_comput_model_gener_social_scien
 1999 gips99_comput_implem_shape_gramm
 1999 iglesias99
+1999 iglesias99_survey_agent_orien_method_
 1999 menzies99_knowl_maint
 1999 papadopoulos99_ai_method_algor_compos
 1999 straus99_testin_typol_tasks
@@ -68,6 +71,8 @@
 2005 volgas05_ballis
 2005 williams05_bridg
 2006 abu-rabi06_black_compan_contem_islam_thoug
+2006 bordini06_survey_languag_platf_mas_implem_30
+2006 bordini06_survey_progr_languag_platf_multi_agent_system_30
 2006 budgen06_perfor
 2006 caramazza06_cognit_neurop_twent_years
 2006 czarnecki06_featur_based_survey_model_trans_approac
@@ -132,6 +137,7 @@
 2010 thoren10_weak_emerg_compl
 2010 wanderer10_rober_brand
 2011 march11_elabor_new_instit
+2011 alkhateeb11_multi_agent_system_
 2011 diangelo11_white_fragil
 2011 gleizes11_agent_orien_softw_engin_x_6038
 2011 hawes11_survey_motiv_framew_intel_system
@@ -184,6 +190,7 @@
 2012 yonck12_towar_stand_metric_machin_intel
 2013 andrighetto13_normat_multi_agent_system
 2013 baliga13_bargain_war
+2013 balke13_norms_mas_4
 2013 battiti13_lion_way
 2013 biggs13_under_why_women_seek_abort_us
 2013 bosse13_co_intel_socio_system
@@ -229,11 +236,13 @@
 2014 ryan14_garmen
 2014 sack14_machin_tell_stories
 2014 scott14_instit_organ
+2014 sturm14_lands_agent_orien_method_
 2014 stutz14_under_convol_neural_networ
 2014 wardrip-fruin14_envis_futur_comput_media
 2014 wikipedia14_warfar
 2014 zavadskas14_state_art_survey_overv_mcdm_method
 2014 yannakakis14_panor_artif_comput_intel_games
+2015 abbas15_organ_multi_agent_system_4
 2015 amblard15_which
 2015 bloembergen15_evolut_dynam_multi_agent_learn_53
 2015 boellstorff15_digit_anthr
@@ -349,5 +358,7 @@
 2020 heyes20_primer_imitat
 2020 lazaridis20_deep_reinf_learn_69
 2020 pietzsch20_metam_evaluat_calib_apply_agent_based_model
+2020 salminen20_liter_review_quant_person_creat_
+2021 cardoso21_review_agent_based_progr_multi_agent_system_10
 2021 fuglsang21_livin_labs_public_sector_innov
 2021 read21_class_chain_70

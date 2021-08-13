@@ -5,17 +5,22 @@
 1995 mizoguchi95_task
 2000 chalupsky00_ontom
 2000 goldspink00_model_social_system_as_compl
+2001 fipa01_xc000_86d
+2001 hendler01_agent_seman_web_16
 2001 storey01_jambal
+2002 fipa02_sc000_94a
+2002 fipa02_si000_91e
 2003 annamalai03_guidel_const_reusab_domain_ontol
 2003 cranefield03_works_ontol_agent_system
 2003 plato03_parmen
 2003 ramos03_co3l
 2004 boella04_agent_orien_ontol_social_realit
 2004 nirenburg04_ontol_seman
-2004 ohare04_engin_societ_agent_world_iv
+2004 ohare04_engin_societ_agent_world_iv_3071
 2005 bordini05_mas_soc
 2005 dautenhahn05_aisb
 2005 dignum05_omni
+2005 dignum05_omni_
 2006 baldoni06_declar_agent_languag_techn_iii
 2006 bundy06_repres_as_fluen
 2006 dignum06_operat_norms_usage_elect_instit
@@ -35,7 +40,7 @@
 2008 08_cats
 2008 erdogan08
 2008 fornara08_artif_instit_16
-2009 baldoni09_declar_agent_languag_techn_vi
+2009 baldoni09_declar_agent_languag_techn_vi_5397
 2009 cutumisu09_archit_game_behav_ai
 2009 houlgate09_hegel_philos_natur
 2009 reisinger09_laten_variab_model_concep_attrib_attac
@@ -47,10 +52,12 @@
 2011 kazakov11_aisb_comput_philos
 2011 motta11
 2011 rezk11_combin
+2011 sartor11_approac_legal_ontol_
 2011 sicart11_again
 2012 rezk12_formal
 2012 sequeda12_ontol_based_data_acces
 2012 sterne12
+2012 zarafin12_integ_seman_web_multi_agent_system_
 2013 antonini13_beyon_rule_repres_norms
 2013 balke13_coord_organ_instit_norms_agent_system_ix
 2013 fu13_inden_tree_or_graph
@@ -63,6 +70,7 @@
 2014 castelfranchi14_minds_as_social_instit
 2014 casu14_imagin_sound
 2014 demeulenaere14_polit_ontol_seeds
+2014 mascardi14_cool_agent_12
 2014 mcroberts14_insid_acrop
 2014 noriega14_chall_artif_socio_cognit_system
 2014 tuo14_owl_formal_ontol_social_struc
@@ -70,6 +78,7 @@
 2015 freitas15
 2015 goncalves15_combin_rules_ontol_param_logic_progr
 2015 neumann15_groun_simul
+2015 panisson15_arguin_about_task_reall_using_
 2015 polhill15_extrac_owl_ontol_from_agent_based_model
 2016 alferes16_rule_techn
 2016 boellstorff16_for_whom_ontol_turns
@@ -107,3 +116,4 @@
 2021 bueno21_routl_handb_of_modal
 2021 mcauley21_oxfor_handb_wester_music_philos
 2021 sicart21_playt
+2021 skea21_leader_organ_chang_sensem_
