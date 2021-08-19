@@ -1,3 +1,198 @@
+* Important Papers
+** abdilla20_indig_protoc_artif_intel_posit_paper
+** ahmad11_guild_play_mmogs_
+Guild Dynamics
+** ahmad11_guild_play_mmogs_
+** andersen12_optim
+** andrighetto13_normat_multi_agent_system
+** anon09_contr_struc_diagr_csd
+** armitage02_socio_centr_sulaw_indon
+** armitage15_mater_magic
+** arnold20_distin_street_level_polic_entrep
+** averett21_qualit_resear_resour
+** bailey05_an_exper_testb_to_enabl
+** bailey97_implic_relig_contem_societ
+** barakova09_social_train_autis_child_with
+** batie08_alter_instit_struc
+** beck92_risk
+** beisaw09_archaeol_instit_life
+** bicchieri14_norms_belief
+** bishop03_digit
+** boella01_delib_normat_agent
+** boella03_oblig_permis_mental_entit
+** boella03_permis_oblig_hierar_normat_system
+** boella04_agent_orien_ontol_social_realit
+** boella04_contr_legal_instit_organ_auton_agent
+** boella04_regul_const_norms_normat_multiag_system
+** boella05_normat_multiag_system_trust_dynam
+** boella06_const_norms_desig_normat_multiag_system
+** boella06_const_norms_desig_normat_multiag_system_
+** boella06_introd_to_normat_multiag_system
+** boella06_logic_archit_normat_system
+** boella07_normat_multi_agent_system
+** boella07_normat_multi_agent_system
+** boella07_ontol_proper_social_roles_multi_agent_system
+** borghi18_words_as_social_tools
+** borghi19_theor_explan_psych
+** borries07_space_
+** bosser10_linear_logic_non_linear_story_215
+** brandom08_between_sayin_doing
+** british19_collec_metad_strat_roadm
+** castelfranchi00_artif_liars
+lying
+** castelfranchi14_minds_as_social_instit
+institutions, individuality
+** castelfranchi98_towar_theor_deleg_agent_based_system
+** chalmers92_high_level_percep_repres_analog
+perception
+** chopra20_evaluat_commun_protoc_languag_engin_multiag_system_69
+** clark87_conceal_ones_meanin_from_overh
+Concealment in communication
+** cleaver12_devel_throug_bricol
+** crawford21_atlas_ai_
+** cresswell02_static_seman_dynam_discour
+semantics, predicate logic, context
+** davis17_disab_studies_reader
+** degroot02_probab_statis
+** dignum01_model_agent_societ
+norms backed by institutions. division of labour
+** diller04_behav_model_commer_games
+smart environment
+** dixon09_plans_action_dialog_using_linear_logic_18
+** douglas86_how
+** dourish04_where_action_is
+** drogoul06_manta_
+Ant colonies
+** drucker93_manag
+** durkheim93
+** epstein96_growin
+** epstein99_agent_based_comput_model_gener_social_scien
+Generative social science
+Heterogenous agents
+** ferguson04_i_i_i
+language generation
+** finlayson05_haber
+** fligstein12
+** franco06_towar_protoc_negot_exchan_values_
+Negotiation of exchange values between agents
+** franco06_towar_protoc_negot_exchan_values_
+** furnari19_situat
+** gabbay13_handb_deont_logic_normat_system
+** gamm89_emerg_legis_instit
+** gero20_mental_model_ai_agent_cooper_game_settin_
+** ghorbani13_struc_socio_techn_compl
+** ghosh98_fables_folk_tales_arunac_prades
+** giddens90_conseq_moder
+** girard01_locus_solum_11
+** girard93_unity_logic_59
+** gray15_from_inter_to_instit_40
+** grosz86_atten_inten_struc_discour
+Sequence of utterances      | Linguistic Structure
+Structure of Purposes       | intentional structure
+State of focus of attention | attentional state
+** harmelen08_handb_knowl_repres
+** herd18_admin_burden_
+** herrera10_do_yours_learn_
+** hofstadter99_godel_escher_bach
+** hughes20_from_semin_univer
+** hunsberger08_dynam_inten_struc_i
+Dynamic Intention Structures,
+incremental agreement
+** hunsberger08_dynam_inten_struc_i
+** institutional autism - grindis
+** jaffe13_under_game_balan_with_quant_method
+** jan07_comput_model_cultur_specif_conver_behav
+cultural specific behvaviours
+** jennings-teats10_polym
+** kahan12_cultur_cognit_concep_cultur_theor_risk
+cultural cognition, risk, perception
+** kellogg12_makin_cut
+** kottler13_under_group_dynam_system
+** lansing91_pries_progr
+** lawrence19_const_organ_life
+** leijen05_exten_recor_with_scoped_label
+** li14_normat_confl_detec_resol_cooper_instit
+** lipsky10_street_level_bureauc
+** lok13_plast_instit
+** lucas20_anthr_archit
+** macy02_f_rom_f_actor_to_ctors
+** manen14_phenom_pract
+** marino20_critic_code_studies_
+** martens15_progr_inter_world_linear_logic
+** martens18_resour_refram_behav_trees_abs/1803.09099
+** Mccoy2012a
+** meyer14_logic_intel_agent_multi_agent_system
+** moeller19_static
+** mohamad20_divin_bureauc_disen_social_life
+** moore92_probl_rst
+rhetoric, discourse
+** morreale20_my_librar_has_just_been_oblit_
+** mosses04_modul_struc_operat_seman
+modularity, operational semantics,
+transition systems
+** murata89_petri_nets_77
+** newton09_autis
+** nielson07_seman_with_applic
+** nosek20_what_is_replic
+** ogbonnaya-ogburu20_critic_race_theor_hci_
+** ossowski12_agreem
+** ostrom05_under_instit_diver
+** pacuit09_dynam_logic_belief_inten
+Dynamic Logic, intention revision,
+difficulty of combining logics
+** pacuit09_dynam_logic_belief_inten_
+** pfenning01_judgm_recon_modal_logic_11
+** piponi10_monad_are_trees_with_graft
+monads
+** pirolli07_infor_forag_theor
+** plotkin09_rule_inter_fiction_
+** powell91_new_instit_organ_analy
+** rezk12_formal
+** riha10_role_quest_serious_gamin
+** rises20_prison_indus
+** roijers13_survey_multi_objec_sequen_decis_makin_48
+** roussou04_learn_by_doing_learn_throug_play
+play and learning in games
+** rueegg04_univer_in_ninet_and_early
+** rueegg11_univer_since
+** scacchi98_model_simul_enact_compl_organ_proces
+complex organizational processes
+** scott14_instit_organ
+** scott98_seein
+** searle10_makin_social_world
+** seaton07_progr_languag_where_syntax_seman
+katadin, mutable syntax and semantics
+** selznick49_tva_and_grass_roots
+** sergot86_britis_nation_act_as_logic_progr_29
+** shehory14_agent_orien_softw_engin_
+** shepsle86_posit_theor_legis_instit
+** singer80_marx
+** slonneger95_formal_syntax_seman_progr_languag
+** smith11_situat
+** tarp19_mozam
+** tesfatsion02_agent_based_comput_econom
+** thompson13_method_isnt_method_
+** thompson14_audit_trail_
+** thompson14_handin_phd_yes_
+** tinnemeier10_progr_norm_chang
+norm change
+** tummolini06_cognit_behav_mediat_instit
+action, behavioural mediation,
+limits of economics view
+** van-roy04_concep
+** vandijk95_discour_seman_ideol
+Theory of Ideology
+** verbeek05_what
+** wang07_social_comput
+serious games, mission rehearsal exercises
+** wells01_end_affair_54
+** westendorp98_strat
+dynamic partial information
+
+** whittaker18_debug
+** winikoff17_debug_agent_progr_why_
+** ybema09_organ_ethnog
+** zald10_wizar_oz
 * Paper TODOs
 ** Numbers
 *** 10 Print Randomness
@@ -3409,3 +3604,851 @@ Favour Extensible Effects
      Anjali Dayal
 **** YEAR :  2019
 **** ABSTRACT
+* Theory                                                                        :theory:
+** The Constitution of Society - Giddens                                       :giddens:
+** Growing Artificial Societies                                                :epstein:axtell:
+** Phantasmal Media - Fox Harrell                                              :harrell:
+** Social Structures - John Levi Martin                                        :leviMartin:
+** Social Physics - Alex Pentland                                              :pentland:
+** The Grammar of Society - Cristina Bicchieri                                 :bicchieri:
+    In "The Grammar of Society", Bicchieri distinguishes between a
+    number of different strengths of social rules, with norms being
+    the most comprehensive. It is useful to lay out, explicitly, the
+    variations, to then relate back to institutions, how they
+    function, and the types of rules which they employ.
+    
+    The main classes of rules she identifies fall into the forms:
+    1) Descriptive norms,
+    2) Conventions
+    3) Formal rules
+    4) Moral rules
+    5) Personal norms
+    6) Habits
+    7) Social Norms
+
+    She formalises the structure of all these rules as variations on
+    characteristics of Contingency, Conditional (both empirical and
+    normative) preference, and the existence of related sanctions.
+
+
+
+** Empirical Methods for Artificial Intelligence - Paul Cohen                  :empirical:ai:cohen:
+** Engineering Emergence - Joris Dormans                                       :emergence:dormans:
+** Language and Symbolic Power - Pierre Bourdieu                               :bourdieu:
+** Technological Revolutions and Financial Capital - Carlota Perez             :perez:economics:
+** A Theory of Fields - Neil Fligstein                                         :fligstein:
+** The New Institutionalism in Organizational Analysis - Powell and Dimaggio   :dimaggio:institutionalism:powell:
+** The Phenomenology of the Social World - Schutz                              :phenomenology:schutz:
+** The Social Construction of Reality - Berger and Luckmann                    :berger:luckmann:phenomenology:
+** Searle                                                                      :searle:
+* Imported
+
+** Gamer Theory- Wark
+
+*** Complex - On Deus Ex
+
+** House and Philosophy
+
+*** House Vs Tritter: The clash of Theoretical and Practical Authority
+
+** The Phenomenology of the Social World - Alfred Schutz
+
+** Searle
+
+*** Speech Acts
+
+*** The Construction of Social Reality
+
+*** Making the Social World
+
+** Beyond Structuralism and Hermeneutics
+
+*** Meticulous Rituals of Power p188
+
+** The Social Construction of Reality- Berger and Luckmann
+
+** Politics, Law and Ritual in Tribal Society
+
+** The Cambridge Companion to Vygotsky
+
+** Social Structures - John Levi Martin
+
+** Understanding Media - Mcluhan
+*** Clocks: The Scent of Time
+
+** I never knew that about the English
+
+** The presentation of self in everyday life
+
+** Empire - Niall Ferguson
+
+** The Constitution of Society - Giddens
+
+** The Non-linear workbook - Steeb
+
+** Research Methods and Statistics in Psychology  - Coolican
+
+** Algorithmic Game Theory
+
+*** Mechanism Design without Money
+
+*** Combinatorial Auctions
+*** Cost Sharing
+
+*** Incentive and Pricing in Communications Networks
+*** Incentives in Peer-to-Peer Systems
+*** Cascading Behaviour in Networks 
+*** Incentives and Information Security
+
+** The Court Society - Elias
+
+** Patterns of Culture - Benedict 
+
+** Metaphors we live by - Lakoff and Johnson
+
+** Language and Symbolic Power - Bourdieu
+
+** At Home - Bill Bryson
+
+** Gormenghast - Peake
+
+** Pattern Recognition and Machine LEarning - Bishop
+
+** The Grammar of Society - Bicchieri
+
+** Growing Artificial Societies - Epstein and Axtell
+
+** Natural Language Understanding - Allen
+
+** Power - Bertrand Russell
+
+** The Dispossessed - Ursua Le Guin
+
+** The 48 Laws of Power - Greene
+
+** The Gone away world - Harkaway
+
+** Being and Time - Heidegger
+
+** Between Saying and Doing - Brandom
+
+** The art of dramatic Writing - egri
+
+** The new Institutionalism in Organizational Analysis - Powell and Dimaggio
+
+** A Theory of Fields - Fligstein and McAdams
+
+** Artificial Intelligence - Russel and Norvig
+
+** Noise: A political economy of music - Attali
+
+** Compilers - Aho
+
+** Games People Play - Berne
+
+** Rules of Play - Salen and Zimmerman
+
+** Stand On Zanzibar - Brunner
+
+** Performance Theory - Schechner
+
+** Networks, Crowds and Markets - Easley and Kleinberg
+
+** Empirical Methods for Artificial Intelligence - Cohen
+
+** Microtrends - Penn
+
+** The Anatomy of Power - Galbraith
+
+** The Folklore of the Discworld
+
+** Group Dynamics - Forsyth
+
+** Engineering Emergence 
+
+** Red Mars - Robinson
+** The Soundscape - Schaffer
+
+** On Politics - Ryan
+
+** Discipline and Punish - Foucault
+
+** Tort and Contract Law
+
+** Structural Anthropology - Levi Strauss
+
+** The Society of Mind - Minsky
+
+** Social Physics - Pentland
+
+* Non-Fiction                                                                   :history:
+** Jewish Literacy                                                             :history:religion:
+** Debt - Graeber                                                              :graeber:
+** Watching the English - Kate Fox                                             :anthropology:
+** Politics Law and Ritual in Tribal Society - Max Gluckman                    :tribal:gluckman:africa:
+** Cultural Anthropology - John Bodley                                         :bodley:tribal:anthropology:
+** 48 Laws of Power - Robert Greene                                            :socialGames:power:greene:
+** At Home - Bill Bryson                                                       :billBryson:historical:society:
+** On Politics - Ryan                                                          :ryan:politics:
+** The Court Society - Elias                                                   :society:institution:elias:
+* Fiction                                                                       :fiction:
+** The Deeper meaning of Liff - Douglas Adams                                  :douglas_adams:humour:names:
+** Stand On Zanzibar - John Brunner                                            :adverts:society:brunner:
+** 1984                                                                        :propaganda:control:violence:
+** Brave New World                                                             :control:indoctrination:
+** Gormenghast                                                                 :ritual:
+** Kim Stanley Robinson                                                        :economics:society:mars:ksr:
+*** Red Mars                                                                  :scifi:
+*** 2312                                                                      :scifi:
+*** Years of Rice and Salt                                                    :historical:
+** Pratchett                                                                   :discworld:pratchett:
+*** Night Watch                                                               :control:violence:law:policing:
+*** Small Gods                                                                :institutionalEntrepreneurs:control:religion:
+*** Thud                                                                      :games:raceRelations:violence:politics:
+*** Going Postal                                                              :institution:institutionalEntrepreneurs:economics:
+*** Making Money                                                              :control:debt:economics:
+*** Raising Steam                                                             :raceRelations:innovation:technology:
+** The Dispossessed - Ursula Le Guin                                           :viewpoints:behaviour:economics:
+* Cultural Anthropology notes                                                   :bodley:tribal:anthropology:
+** Chapter 1:
+*** p1
+    Tribal Societies typically contained fewer than 2,000 there was no need for government at birth all people received a personal estate that guaranteed
+    them access to all the natural, social and cultural wealth needed to make a
+    successful living
+
+*** p4
+    Three 'worlds' of increasing scale and complexity: tribal, imperial,
+    commercial
+
+*** p11
+    tribal world: humanization conceptualization, materialization,
+    berbalization, socialization (through exogamy), cultural transmission
+
+    imperial world: politicization taxation, conquest, specialization,
+    militarization, bureaucratization, urbanization
+
+    commercial world: commercialization commodification, industrialization,
+    capitalization, corporatization, externalization, supralocalization,
+    finacialization
+
+    primates use 'hands-on' social grooming to remain integrated humans can groom
+    and manipulate others at a distance
+
+*** p12
+    tribal clans, neolithic villages, church congregations, small military
+    units, ad the social network of individuals
+
+    culture: what people think, make and do.
+
+    Edward B Tylor: "Culture.. is that complex whole which includes knowledge
+    ,belief, art ,law, morals, custom, and any other capabilities and habits
+    acquired by man as a member of society.
+
+    Culture is a humanly directed response to historical events. We use culture
+    to change our behaviour and the behaviour of others for personal benefit, but
+    the conscious choices that we make are aimed at immediated outcomes.
+
+*** p13
+    Four types of social power: ideological, economic, military, and
+    polticial. Cultural organization of social power: by kin in tribal world by
+    rules in the imperial world by business owners, managers and financiers in
+    the commercial world
+
+    Individuals construct self-centered personal networks of power, or 'imperia'
+    incorporating individuals and institutionally organized groups of people they
+    can personally command or influence to do things for their personal
+    advantage.
+
+    Personal power networks are based on kinship, marriage, friendship and
+    patronage.
+
+*** p16
+    differences in colour descriptions and terms
+
+*** p17
+    The functional organization of sociocultural systems: superstructure,
+    structure, and infrastructure.
+
+*** p18
+    infrastructure: population size, materials, and technology structure:
+    economy, society, polity/government superstructure: ideology
+
+*** p22
+    acculturation: culture change brought about by contact between peoples
+    with different cultures.
+
+    emic: relating to cultural meanings derived from inside a given culture and
+    presumed to be unique to that culture Etic: cultural meaning as translated
+    for cross-cultural comparison
+** Chapter 2: Amazon tribes
+*** p30
+    gardening through slash and burn
+
+*** p35
+    Formula for environmental limits on gardening on amazonian villagers: P
+    = ([T/(R+Y)] Y) / A Where: P= Village population T = arable land R = years in
+    forest fallow Y= years garden cultivated A = garden area per person
+
+*** p36
+    the Ashaninka make only about 120 separately named material items apart
+    from food products
+
+    Exchange on a deferred basis
+
+*** p39
+    Extended families are formed when marreied children reside near their
+    parents, either matriolocally, or patrilocally. Each married couple
+    constitutes an indepenedent domestic unit with its own kitchen hearth and
+    garden, but there is daily economic cooperation between households, and fish
+    and game are pooled.
+
+    The Ashaninka recognize three categories of people: Kin, formal trading
+    parters, and strangers who are potential enemies. If friendly interaction is
+    to take place, strangers are immediately placed in a kinship category and
+    treated appropriately. For example, men who want to request a favor from me
+    would address me as "brother".
+
+*** p43
+    One of the most distinctive features of tribal cultures is the way they
+    resist any concentration of political power that might threaten the autonomy
+    of households and communities.
+
+    Political autonomy means that people can relocate their village whenever they
+    choose, can kill intruders in self-defense, and can control their natural
+    resources.
+
+*** p45
+    An Ashaninka househould network of 100 persons in 26 households in 10
+    household groups.
+
+    Amazon villages are "societies against the state, designed to prevent the
+    concentration of political power that would allow anyone to gain control of
+    the economy for his own benefit.
+
+    A good headman must be a good public speaker and be especially generous,
+    giving things away on request, but he is not distinguished by special dress
+    or insignias of office. The importance of the headman's oratorical skills
+    further shows that he cannot use coercive violence. He must be verbally
+    persuasive at settling intravillage conflicts, but if he fails as a
+    peacemaker, the village simply breaks apart.
+
+*** p46
+    The Ashaninka headman's position is temporary because it is based on his
+    personality and the number of his sons and sons-in-law that he can persuade
+    to remain in his hamlet to form a local group.
+
+    The underlying source of village conflict is the shortage of game and the
+    related competition between village men for access to women.
+
+*** p53
+    In the tribal world there are no central political authorities or
+    institutions with police, courts, and judges that could curb offenders,
+    settle disputes, and prevent endless cycles of revenge and killing.
+
+*** p61
+    Shaman. A part-time religious specialist with special skills for dealing
+    with the spirit world. May help his community by healing, by divination, and
+    by directing supernatural powers against enemies.
+
+*** p89
+    kinship and mother-in-law avoidance
+
+*** p93
+    male initiationp
+
+** Chapter 3: African Cattle peoples: Tribal Pastoralists
+*** p115
+    segmentary lineage system. where geographic distance corresponds to
+    social distance
+* [[http://worrydream.com/LadderOfAbstraction/][Up and Down the Ladder of Abstraction]]
+
+* [[http://worrydream.com/ScientificCommunicationAsSequentialArt/][Scientific Communication as Sequential Art]]
+
+* [[http://worrydream.com/ScientificCommunicationAsSequentialArt/][Scientific Communication as Sequential Art]]
+
+* People
+** [[https://scholar.google.com/citations?user=rWPcKqkAAAAJ&hl=en&oi=sra][Talcot Parsons]]
+** [[http://www.abdoumaliqsimone.com/publications.html][AbouMaliq Simone]]
+** [[http://worrydream.com/][Bret Victor]]
+*** [[http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/][A Brief Rant on the Future of Interaction Design]] :design:capability:tools:hands:
+*** TODO [[https://explorabl.es/all/][Explorables]]
+** [[http://www.lsi.upc.edu/~jvazquez/publications.php][J. Vázquez Salceda]]   :look_into:research:papers:
+** [[https://scholar.google.com/citations?user=iR-SIW8AAAAJ&hl=en&oi=sra][Jodie Sabater-Mir]] :reputation:look_into:research:
+** [[http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en][Alan Kay OOP]] :programming_languages:
+** [[https://scholar.google.com/citations?hl=en&user=FncBQzIAAAAJ&view_op=list_works&sortby=pubdate][Cristiano Castelfranchi]] :programming_languages:MAS:
+** [[http://donellameadows.org/][Donna Meadows]]                               :MAS:systems_thinking:
+* Institutions and Organizations
+  by W. Richard Scott
+** Introduction
+   Origins in the middle of the 19th century.
+   Dominated social sciences from 1850s to 1920s.
+   Subsided until the 1970s.
+*** Questions institutional theory asks:
+**** Why do organizations of the same type so closely resemble one another?
+**** What specific types of institutions are associated with the rise of organizations?
+**** How are we to regard behavior in organizational settings?
+     Does it reflect the pursuit of rational interests and the
+     exercise of conscious choice, or is it primarily shaped by
+     conventions, routines, and habits?
+**** What is the relation between freedom and control in social life?
+**** Why do individuals and organizations conform to institutions?
+     Is it because they are rewarded for doing so, because they
+     believe they are morally obligated to obey, or because they can
+     conceive of no other way of behaving?
+**** Why is the behaviour of participants observed to depart from the formal rules and stated goals of the organization? 
+**** Why is it, if formal rules are largely ignored, that resources and energy are expended to maintain these formal structures?
+**** Where do interests come from? 
+     Do they stem from nature, or are they constructed/inflected by social context?
+**** Why and how do formal and informal control structures arises?
+     Do individuals voluntarily construct rule systems that then operate to bind their own behavior?
+**** Do control systems function only when they are associated with incentives - rewards and punishments - or are other processes sometimes at work?
+**** How do differences in cultural beliefs shape the nature and operation of organizations?
+**** If institutions regulate and constitute individuals, how can individuals hope to alter the institutions in which hthey are embedded?
+
+** Early Institutionalists
+
+*** Economics
+    
+**** European
+     [p2]
+     Schmoller (1900-1904): Historical school: Economic processes operate within a social
+     framework that is in turn shaped by a set of cultural and
+     historical forces. Argued to shed views on simplistic 'economic man'.
+
+     Carl Menger (1883): Classical approach. Institutions as social phenomena. 
+     Possibly (Langlois) the original institutional economist.
+
+**** American
+     Veblen, Commons, Mitchell.
+     
+     Veblen focused on economic change. Focused on individual actors and dynamic models of economy/society.
+     Argued against the 'conception of man as that of a lightning calculator of pleasures and pain', focusing on habit and convention.
+     Defined institutions as 'settled habits of thought common to the generality of man'.
+     *Conspicuous consumption*. 
+     Dichotomy between institutions and technology?
+
+     Commons focused on *transactions*. 'The transaction is two or
+     more wills giving, taking, persuading, coercing, defrauding,
+     mechanisms and rules of conduct'.  
+     Institutional rules were necessary to define the limits within
+     which individuals and firms could perform their objectives.
+     Institutions existing at a specific time are imperfect and pragmatic solutions to reconcile past conflicts.
+     They are solutions consisting of:
+     1) a set of rights and duties
+     2) an authority for enforcing them
+     3) adherence to collective norms of reasonable behaviour
+
+     Jacoby: Early institutionalists departed from mainstream approaches in 4 ways:
+     1) Indeterminacy vs determinacy
+     2) Endogenous vs exogenous preferences
+     3) Behavioural realism vs simplifying assumptions
+     4) Diachronic vs synchronic analysis (static vs dynamic analysis)
+        
+     Schumpeter, Polanyi, Galbraith, Myrdal.
+
+     Failed because of *tendency to degenerate into naive empiricism and historicism.*
+
+*** Political Science
+    [p6]
+    Tocqueville.
+
+*** Sociology
+    [p10]
+**** Spencer and Sumner
+
+**** Cooley, Thomas and Blumer
+
+**** Mark, Durkheim, Weber and Parsons
+
+**** Mead, Schutz, Bourdieu, Berger and Luckmann
+
+** Organization Studies
+   [p21]
+*** Columbia School: Merton and Selznick
+
+*** Chicago School: Hughes
+
+*** Parsons
+
+*** Carnegie School: Simon
+
+*** Neo-Institutional theory in Economics
+
+*** Neo-Institutional Theory in Political Science
+
+*** Cognitive Psychology and Cultural Anthropology
+
+*** Neo-Institutional theory in Sociology
+
+** Three Pillars of Institutions
+   [p55]
+*** Definitions of Institutions
+** Logics, Agency, Carriers and Levels
+   [p87]
+** Institutional Construction
+   [p113]
+** Institutionalization
+   [p143]
+** Institutional Processes and Organizations
+   [p181]
+** Institutional Processes and Organization Fields
+   [p219]
+* Social Situations structured by institutional focus
+** Regulative
+   *The Trial* - kafka
+   [[https://boingboing.net/2012/11/12/if-pot-were-truly-legal-high.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][if pot were legal it would be cheap]]
+   [[https://www.techdirt.com/articles/20170103/05344436390/tanzanian-farmers-face-12-years-prison-selling-seeds-as-theyve-done-generations.shtml][farmers jailed for selling seeds]]
+   [[http://www.slate.com/articles/technology/future_tense/2015/04/the_dangers_of_letting_algorithms_enforce_policy.single.html][automated policy decisions and law enforcement, welfare and child protection]]
+   [[http://thebaffler.com/salvos/off-our-butts-thunderstorm][smoking bans]]
+   [[https://games.slashdot.org/story/12/12/07/231203/nintendo-puts-a-bedtime-on-wii-u-content-in-europe][nintendo and automated bedtimes]]
+   [[https://boingboing.net/2013/03/19/more-on-the-impact-of-uk-press.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][press regulation]]
+   [[https://www.techdirt.com/articles/20120627/00031719500/why-you-cant-braid-someones-hair-utah-money-without-first-paying-16k.shtml][Utah hair braiding]]
+   [[http://www.slate.com/blogs/browbeat/2017/05/10/going_after_netflix_cannes_bans_streaming_only_movies_from_competition_slots.html][cannes and netflix]]
+   [[https://boingboing.net/2014/05/27/uk-home-offices-terrorist-de.html][uk home office terrorist detection checklist]]
+   [[https://boingboing.net/2012/08/08/texas-executes-mentally-handic.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][texas executes mentally handicapped man]]
+   [[https://www.techdirt.com/articles/20121217/16231921411/police-chief-deploys-officers-with-assault-rifles-to-stop-id-everyone-says-local-crime-stats-give-him-probable-cause.shtml][police deployed with assault rifles]]
+   [[https://www.wired.com/2012/02/feb-27-1812-rage-rage-against-the-industrial-age/][death penalty against luddites]]
+   [[https://twitter.com/molleindustria/status/862679577138802690][district - about gerrymandering]]
+   [[http://lewisandquark.tumblr.com/post/159363915392/new-dd-magic-spells-designed-by-neural-network][neural net dnd spells]]
+   [[https://kotaku.com/5918761/valves-hat-based-economy-now-has-its-own-hat-based-economist][Tf2 hat economy]]
+   [[http://rubinmuseum.org/events/event/waiting-rooms-04-23-2016][Waiting Rooms]]
+   [[https://boingboing.net/2017/02/02/martian-immigration-nightmare.html?utm_content=buffer7c4b9&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer][martian imigration sim]]
+   [[https://boingboing.net/2013/01/21/pennsylvania-kindergartener-us.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][Hello-kitty bubble-gun]]
+   [[https://boingboing.net/2012/08/28/school-demands-that-boy-must-c.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][Name Change]]
+   [[https://boingboing.net/2012/07/26/a-rant-on-marijuana-dispensari.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][Dispensary closing]]
+   [[https://boingboing.net/2012/04/24/debtors-prisons-make-an-amer.html][the resurgence of debtors prisons]]
+   [[https://www.theguardian.com/society/2017/apr/14/london-councils-trying-to-force-homeless-families-outside-the-capital?utm_source=dlvr.it&utm_medium=twitter][councils forcing homeless out of cities]]
+   [[http://www.haaretz.com/jewish/archaeology/1.746064?v=201400E6413D7D2651C265E8B80A6531][2000 year old rental contract]]
+   [[https://twitter.com/BoingBoing/status/851454044560379904][oregonians vote to ban duels]]
+   [[https://en.wikipedia.org/wiki/Byzantine_aristocracy_and_bureaucracy#Court_life][bzantine bureaucracy]]
+   [[http://www.gq.com/story/inside-federal-bureau-of-way-too-many-guns][government gun policy]]
+   [[http://www.snopes.com/ugly-laws/?utm_source=twitter&utm_medium=social][ugly laws]]
+   [[https://www.bloomberg.com/view/articles/2016-07-01/voting-ban-for-ex-cons-is-a-lifetime-sentence][Ex-con voting ban]]
+   [[https://www.nytimes.com/2016/12/09/opinion/sunday/australia-refugee-prisons-manus-island.html?src=twr&smid=tw-nytimes&smtyp=cur&_r=0][australias island prisons for immigrants]]
+   [[http://www.newyorker.com/magazine/2017/04/03/why-its-become-so-hard-to-get-an-abortion][why its become so hard to get an abortion]]
+   [[https://qz.com/698928/why-suburbia-sucks/][why suburbia sucks]]
+   red dwarf 11 - prohibition of technology
+** Normative
+   [[https://boingboing.net/2016/03/07/extensive-list-of-space-opera.html][space opera cliches]] - link with rpg cliches
+   [[https://en.wikipedia.org/wiki/Welcome_to_Night_Vale][welcome to night vale]]
+   [[https://en.wikipedia.org/wiki/Night_Watch_%28Discworld%29][discworld night watch]]
+   [[https://sites.ualberta.ca/~urban/Projects/English/Motif_Index.htm][folk motifs]]
+   [[https://www.fastcodesign.com/1672838/why-arent-our-gadgets-still-covered-in-wood?utm_source=twitter][Wood covered gadgets]]
+   [[http://news.nationalgeographic.com/2016/07/chaco-canyon-pueblo-bonito-social-implications-polydactyly-extra-toes/?utm_source=Twitter&utm_medium=Social&utm_content=link_tw20160725news-chacocanyon&utm_campaign=Content&sf31730892=1][ancient reverance for extra fingers and toes]]
+   [[https://www.forbes.com/sites/erikkain/2011/07/05/ten-years-after-decriminalization-drug-abuse-down-by-half-in-portugal/#4ea487003001][ten years after decriminalization drug use is down by half]]
+   [[http://www.thetudorswiki.com/page/POLITICS+of+the+Tudor+Court][Tudor court politics]]
+   [[https://boingboing.net/2012/10/04/schoolkids-pay-to-store-cell-p.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][schoolchildren storing phones in valet trucks]]
+   [[http://ilovecharts.tumblr.com/post/35125454465/ragbag-raynor-ganan-signature-masala-one-of#_=_][spice combinations]]
+   [[https://boingboing.net/2017/01/24/data-shows-that-male-animals-a.html][data on male and female promiscuity]]
+   [[http://michalplachta.com/2017/01/22/folklore-and-science-of-naming-practices/][folklore and naming practices]]
+   [[https://www.nytimes.com/2016/08/10/business/dealbook/aba-prohibits-sexual-harassment-joining-many-state-bars.html][sexist language use in court]]
+   [[https://boingboing.net/2017/01/27/what-political-party-dominates.html][what political party dominates your occupation]]
+   [[http://lacker.io/tech/2017/04/05/why-you-cant-say.html][what you cant say]]
+   [[https://boingboing.net/2012/08/11/marilyn-manson-reportedly-goes.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][marilyn manson anti-paparazzi]]
+   [[https://www.gutenberg.org/ebooks/14314?msg=welcome_stranger#CHAPTER_VII][emily post]]
+   [[http://www.huffingtonpost.com/signe-whitson/bullying_b_2188819.html][rude v mean v bullying]]
+   [[https://boingboing.net/2014/05/13/economics-of-apologies.html][economics of apologies]]
+   [[https://boingboing.net/2015/07/23/how-to-finish-a-conversation-a.html][finishing a conversation]]
+
+   [[http://www.soundsurvey.org.uk/index.php/survey/waterways/][sounds of london]]
+   [[https://www.theguardian.com/commentisfree/2017/may/13/plane-trees-london-monuments-city-life-shade-carbon-pavements?CMP=twt_gu][trees in cities]]
+   [[https://twitter.com/zhuanghongru/status/849847520318455808][doors]]
+   [[http://sti.bmj.com/content/75/3/178][prevalence of dry sex in south africa]]
+   [[https://boingboing.net/2012/08/28/student-sleep-problems-arent.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][student sleep problems]]
+   [[https://arstechnica.com/science/2013/02/did-antibiotics-spur-the-sexual-revolution/][did antibiotics spur the sexual revolution]]
+   [[https://fusion.kinja.com/education-health-care-debt-welcome-to-our-crowdfunde-1794242389?utm_campaign=Fusion&utm_source=fusion_twitter&utm_medium=socialflow][crowdfunded dystopia]]
+   [[https://boingboing.net/2014/05/29/yearbook-photos-selectively-al.html][yearbook photos edited for modesty]]
+   [[http://www.tor.com/2012/11/01/why-battlestar-galacticas-president-roslin-defies-political-stereotypes/][laura roslin defying stereotypes]]
+   [[https://www.theatlantic.com/politics/archive/2011/11/yep-uppity-racist/335160/][the word 'uppity']]
+   [[https://boingboing.net/2013/12/30/illustrated-timeline-of-anti-f.html][timeline of anti-fun moral panics]]
+   [[https://boingboing.net/2012/09/27/uk-banks-use-robo-callers-to-m.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][conditioning people to give out information on the phone]]
+   [[http://www.maximumawesome.com/articles/mafiaoriginal.htm][mafia]]
+   [[https://phys.org/news/2014-06-job-reward-narcissists-applicants-modest.html][Narcissists and modesty]]
+   [[http://www.bbc.co.uk/news/uk-39678059?ocid=socialflow_twitter&ns_mchannel=social&ns_campaign=bbcnews&ns_source=twitter][acid attacks]]
+   [[http://interactive.aljazeera.com/aje/2017/malawi-killed-for-their-bones/index.html][albinos]]
+   [[https://boingboing.net/2012/12/11/76-things-banned-by-the-bible.html][76 things banned in the bible]]
+   [[https://boingboing.net/2013/01/31/magic-copyright-and-internal.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][magic and internal enforcement]]
+   [[https://www.techdirt.com/articles/20120929/17590120549/new-imperialism-forcing-morality-shifts-cultural-change-through-exported-ip-laws.shtml][forcing morality shifts through exported ip laws]]
+   [[https://www.techdirt.com/articles/20161229/15093836371/donald-trump-demonstrating-how-much-our-political-system-is-based-tradition-custom-not-rules.shtml][trump and norms]]
+   [[http://www.stltoday.com/news/local/columns/tony-messenger/messenger-the-water-fountain-returns-as-metaphor-for-division-in/article_9c3aa745-f39f-50b9-b7bd-5ecb57b916fd.html][Water fountains]]
+   [[https://boingboing.net/2015/07/24/naomi-wolf-wants-young-women-t.html][Vocal patterns]]
+   [[https://boingboing.net/2015/07/24/naomi-wolf-wants-young-women-t.html][naomi wolf and vocal fry]]
+   [[https://en.wikipedia.org/wiki/Caste][caste systems]]
+   [[http://stfuconservatives.tumblr.com/post/29062260953][racial microaggressions]]
+   [[https://www.washingtonpost.com/posteverything/wp/2016/12/07/the-right-has-its-own-version-of-political-correctness-its-just-as-stifling/?utm_term=.e48fb2f604aa][Patriotic Correctness]]
+   [[http://news.bbc.co.uk/2/hi/uk_news/magazine/7689554.stm][underwear as outerwear]]
+   [[https://boingboing.net/2014/06/27/photoshopped-ideas-of-beauty.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][world variation in concepts of beauty]]
+   [[https://www.youtube.com/watch?v=LOyVvpXRX6w][beauty through the 20th century]] -- for white people, with links to mexico, korea, iran, india...
+   [[http://ilovecharts.tumblr.com/post/32202211439/nevver-call-me][phone ettiquette]]
+** Cultural Cognitive
+   [[http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131830][impact of descriptive norms on corruption]]
+   [[https://motherboard.vice.com/en_us/article/womens-healthcare-star-wars][star wars and inadequate women's healthcare]]
+   [[http://www.businessinsider.sg/communication-charts-around-the-world-2014-3/#.VWrWh3BHarX][charts of negotiation variations]]
+   [[https://io9.gizmodo.com/david-lynchs-dune-was-so-complex-moviegoers-were-given-1622703689?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+io9%2Ffull+%28io9%29][dune glossary]]
+   [[http://ilovecharts.tumblr.com/post/30458347449/storyboard-which-meth-dealer-would-you-be-a][breaking bad meth labs]]
+   [[http://www.bbc.com/news/world-asia-india-20354669][india textbook says meat eaters lie and commit sex crimes]]
+   [[https://www.techdirt.com/articles/20130125/07585121787/german-court-recognizes-that-internet-connection-is-now-indispensable-modern-life.shtml][germany says internet connection is a basic human right]]
+   [[http://stfuconservatives.tumblr.com/post/32284493786][egypt graffiti]]
+   [[https://boingboing.net/2012/10/23/accidental-cc-from-wedding-pla.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][wedding planner, english class snobbery]]
+   [[http://www.obsidianfields.com/lj/nonmonogamy2.5.1.gif][mono poly etc etc chart]]
+   [[http://stfuconservatives.tumblr.com/post/45140942706][victim blaming]]
+   [[https://io9.gizmodo.com/5948509/men-with-shaved-heads-appear-more-masculine-study-finds?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+io9%2Ffull+%28io9%29][men with shaved heads viewed more masculine]]
+   [[https://qz.com/876494/in-sex-shy-india-more-women-now-want-designer-vaginas/][designer vaginas]]
+   [[https://boingboing.net/2015/07/21/a-walk-through-art-history-to.html][shoes as history]]
+   [[https://lparchive.org/Animal-Crossing/Update%201/][alt reading of animal crossing]]
+   [[http://www.escapistmagazine.com/news/view/119853-Xbox-Live-Rewarding-Gold-Members-Based-on-Gamerscore?utm_source=rss&utm_medium=rss&utm_campaign=news][Rewards based on gamerscore]]
+   [[http://www.thedailybeast.com/articles/2017/04/22/trump-is-the-new-insult-on-playgrounds.html][trump is the new insult on the playground]]
+   [[https://phys.org/news/2014-06-job-reward-narcissists-applicants-modest.html][Narcissists and modesty]]
+   [[https://boingboing.net/2014/04/23/having-leisure-time-is-now-a-m.html#more-298992][Free time as marker for Poverty]]
+   [[https://www.nytimes.com/2017/04/07/well/family/new-mexico-outlaws-school-lunch-shaming.html?module=WatchingPortal&region=c-column-middle-span-region&pgType=Homepage&action=click&mediaId=thumb_square&state=standard&contentPlacement=1&version=internal&contentCollection=www.nytimes.com&contentId=http%3A%2F%2Fwww.nytimes.com%2F2017%2F04%2F07%2Fwell%2Ffamily%2Fnew-mexico-outlaws-school-lunch-shaming.html&eventName=Watching-article-click&_r=1][lunch shaming]]
+   [[https://www.buzzfeed.com/simonlewis/18-ways-british-people-have-of-saying-go-fk-yourself?utm_term=.dnvMgNVoWY#.wvGoAK7BOX][english insults]]
+   [[https://www.buzzfeed.com/lukelewis/what-british-people-say-versus-what-they-mean?utm_term=.ifdZWRYmX8#.jtlQbjYeLx][english meaning]]
+   [[http://www.standard.co.uk/lifestyle/london-life/deeyah-khan-what-is-do-is-like-grooming-they-prey-on-guilt-loneliness-and-anger-a3121011.html][isis and hypermasculinity]]
+   [[https://gizmodo.com/5945435/this-cathedral-of-junk-is-the-most-beautiful-form-of-hoarding?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+gizmodo%2Ffull+%28Gizmodo%29][cathedral of junk]]
+   [[https://io9.gizmodo.com/harsh-environments-foster-beliefs-in-powerful-and-judgm-1657307266?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+io9%2Ffull+%28io9%29][harsh environments foster beliefs in judgemental gods]]
+   [[http://www.vox.com/policy-and-politics/2017/3/22/14762030/donald-trump-tribal-epistemology?mc_cid=22dff6f601&mc_eid=355c6061e6][Tribal epistemology]]
+   [[https://twitter.com/aliceavizandum/status/851698015832338432][execution observers]]
+   [[https://arstechnica.com/business/2014/08/tripping-through-ibms-astonishingly-insane-1937-corporate-songbook/][ibm songbook]]
+   [[https://boingboing.net/2014/06/14/not-selling-out-teens-live-in.html][teens only option is to live in commercial online spaces]]
+   [[https://boingboing.net/2012/10/02/why-the-fedora-grosses-out-gee.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][fedoras]]
+   [[https://www.buzzfeed.com/peggy/unspoken-suit-rules-every-man-should-know?utm_term=.luw8la597r#.yowqYm01Z8][suit rules]]
+   [[http://www.aljazeera.com/indepth/features/2016/12/mexico-drug-war-eyes-children-161201085109758.html][mexicos drug war seen through childrens drawings]]
+** Social Tool
+   [[http://www.story-games.com/forums/discussion/7789/generating-culturally-rich-npcs-/p1][culturally rich nps 2]]
+   [[https://theoutline.com/post/1453/who-goes-nazi-media-edition][who goes nazi?]]
+   somebody elses problem field
+   [[https://gizmodo.com/5947393/remember-youre-not-only-naming-your-pet-youre-also-securing-your-digital-future?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+gizmodo%2Ffull+%28Gizmodo%29][naming your pet]]
+   [[http://monkeyisland.wikia.com/wiki/Insult_Sword_Fighting][monkey island insult swordfighting]]
+   [[http://www.vandruff.com/art_converse.html][conversational terrorism]]
+   [[https://hyperboleandahalf.blogspot.nl/2010/09/four-levels-of-social-entrapment.html][hyperbole and a half: social entrapment]]
+   [[https://io9.gizmodo.com/struggling-to-understand-depression-read-this-498736501?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+io9%2Ffull+%28io9%29][hyperbole and a half depression]]
+   [[http://ilovecharts.tumblr.com/post/45345502163/nickdouglas-choosing-the-right-seat-by-alex#_=_][choosing the right seat]]
+   [[http://ilovecharts.tumblr.com/post/35356525469/a-flowchart-for-determining-if-a-moment-is][flowchart of awkwardness]]
+   [[https://www.washingtonpost.com/news/wonk/wp/2014/07/11/college-graduates-are-sorting-themselves-into-cities-increasingly-out-of-reach-of-everyone-else/?utm_term=.735966fc9735][Segregation]]
+   [[https://www.vice.com/en_au/article/get-to-know-the-memes-of-the-alt-right-and-never-miss-a-dog-whistle-again][alt-right dogwhistles]]
+   [[https://www.washingtonpost.com/news/the-intersect/wp/2017/03/26/trolls-are-reimagining-the-trump-era-as-a-game-of-dungeons-dragons/?hpid=hp_no-name_hp-in-the-news%3Apage%2Fin-the-news&utm_term=.cf84f76c7b41#comments][DnD Republicans]]
+   [[https://www.washingtonpost.com/lifestyle/style/the-coded-language-of-the-alt-right-is-helping-to-power-its-rise/2017/04/07/5f269a82-1ba4-11e7-bcc2-7d1a0973e7b2_story.html?utm_term=.6c94a658ca3f][Alt-right language]]
+   [[https://www.washingtonpost.com/posteverything/wp/2016/12/07/the-right-has-its-own-version-of-political-correctness-its-just-as-stifling/?utm_term=.e48fb2f604aa][Patriotic Correctness]]
+   [[https://www.dailydot.com/layer8/pokeconservative-pokemon-twitter-bot-2016-election/][pokeconservative bot]]
+   [[https://boingboing.net/2013/01/05/dad-hires-in-game-hitsquad-to.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][dad hires in game hitsquad]]
+   [[https://www.washingtonpost.com/news/powerpost/wp/2017/05/24/in-letter-to-trump-democrats-accuse-white-house-of-intentionally-withholding-information/?utm_term=.8b606dacc221][white house blocking democrats requests]]
+   [[http://www.thedailybeast.com/articles/2017/04/22/trump-is-the-new-insult-on-playgrounds.html][trump is the new insult on the playground]]
+   [[https://i.imgur.com/wUSgq4Q.jpg][comic on homeless invisibility]]
+   [[https://i.imgur.com/wUSgq4Q.jpg][homelessness as invisibility]]
+   [[https://www.theguardian.com/world/2017/apr/20/hereat-wherewithin-convoluted-indian-court-ruling-has-lawyers-baffled?CMP=twt_gu][incomprehensible indian law ruling]]
+   [[https://boingboing.net/2014/10/31/secret-recording-of-corporate.html][corpoate lobbyist tricks]]
+   [[http://www.worldpath.net/~minstrel/hobosign.htm][hobo signs]]
+   [[https://www.psychologytoday.com/blog/the-scientific-fundamentalist/201001/british-newspapers-make-things][british newspapers make things up]]
+   [[http://smbc-comics.com/comic/the-uses-of-bureaucracy][the uses of bureaucracy to deal with racists]]
+   [[http://stfuconservatives.tumblr.com/post/29062260953][racial microaggressions]]
+   [[https://www.techdirt.com/articles/20130324/17344622436/petition-submitted-to-require-congress-to-wear-logos-their-corporate-donors.shtml][politicians wearing corporate logos]]
+   [[https://gizmodo.com/5958118/argue-your-way-out-of-bs-fees?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+gizmodo%2Ffull+%28Gizmodo%29][argue out of fees]]
+   [[http://we-make-money-not-art.com/branding_terror_the_logotypes/][branding terrorist orgs]]
+   [[http://www.baltimoresun.com/news/opinion/oped/bs-airport-inhumanity-20170206-story.html][ordinary americans carried out inhumane acts for trump]]
+   [[https://arstechnica.com/science/2013/02/did-antibiotics-spur-the-sexual-revolution/][did antibiotics spur the sexual revolution]]
+   [[https://io9.gizmodo.com/5948528/the-unintended-consequences-of-chinas-one-child-policy][unintended consequences of chinas one child policy]]
+** IGU
+   [[https://twitter.com/emilygorcenski/status/858022699112824832][emily gorcenski on public transport]] -- robert moses, weaponized urban design
+   [[https://www.theatlantic.com/business/archive/2016/10/public-transportation-uber-chariot/505658/][why public transport is important]]
+   [[https://en.m.wikipedia.org/wiki/Robert's_Rules_of_Order][roberts rules of order]]
+   [[http://www.slate.com/articles/technology/future_tense/2015/04/the_dangers_of_letting_algorithms_enforce_policy.single.html][automated policy decisions and law enforcement, welfare and child protection]]
+   [[http://m.motherjones.com/politics/2016/06/cca-private-prisons-corrections-corporation-inmates-investigation-bauer][my four months as a prison guard]]
+   [[https://boingboing.net/2012/11/15/top-georgia-gop-lawmakers-host.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][georgia lawmaker holds briefing on obama mind control plot]]
+   [[https://twitter.com/joemacare/status/851446430338338816][police involved in united airlines assault]]
+   [[http://www.bbc.com/news/business-19674306][why japanese men only have pocket money]]
+   [[https://www.techdirt.com/articles/20121206/16014421285/buy-your-kindle-waterstones-youre-now-locked-into-one-screensaver-waterstones-logo.shtml][Waterstones kindle lock-in]]
+   [[https://boingboing.net/2013/01/31/magic-copyright-and-internal.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][magic and internal enforcement]]
+   [[https://www.propublica.org/article/texas-voter-id-law-led-to-fears-and-failures-in-2016-election?utm_campaign=sprout&utm_medium=social&utm_source=twitter&utm_content=1493763616][texas and voter suppression]]
+   [[https://www.bloomberg.com/view/articles/2016-07-01/voting-ban-for-ex-cons-is-a-lifetime-sentence][Ex-con voting ban]]
+   [[https://theconversation.com/britains-dark-history-of-criminalising-homeless-people-in-public-spaces-74097][Homelessness]]
+   [[http://www.bbc.com/sport/football/20672812][football player lessons to tackle racism]]
+   [[https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/gregorymcneal/2014/06/28/facebook-manipulated-user-news-feeds-to-create-emotional-contagion/&refURL=&referrer=#2f2665585fd8][facebook and emotional manipulation]]
+   [[https://games.slashdot.org/story/12/12/07/231203/nintendo-puts-a-bedtime-on-wii-u-content-in-europe][nintendo and automated bedtimes]]
+   [[https://www.techdirt.com/articles/20120927/00430020528/emi-legitimately-afraid-that-aliens-might-listen-to-beatles-without-license.shtml][record companies worried about aliens without licenses]]
+** Incumbents / Challengers
+   [[http://stfuconservatives.tumblr.com/post/45140942706][victim blaming]]
+   [[https://www.joincampaignzero.org/][campaign zero]]
+   [[http://www.xojane.com/issues/i-got-revenge-on-my-rapist][Revenge beating up rapist]]
+   [[https://www.theguardian.com/law/2017/apr/20/judge-alarmed-about-lack-of-lawyer-as-he-jails-woman-for-begging?utm_source=dlvr.it&utm_medium=twitter][lack of lawyer while jailing for begging]]
+   [[https://www.independent.co.uk/news/world/americas/black-man-prison-serve-five-years-ramad-chatman-georgia-prison-not-guilty-probation-broke-terms-jail-a7744326.html][man will spend six years in prison despite being found not guilty]]
+   [[https://www.techdirt.com/articles/20130114/19393821674/aaron-swartz-could-have-killed-someone-robbed-bank-sold-child-porn-faced-less-time-prison.shtml][comparative crime sentencing regarding aaron swartz]]
+   [[https://www.techdirt.com/articles/20170313/08105936905/extra-digit-accidentally-typed-officer-turns-uk-man-into-pedophile.shtml][accidental digit turns man into pedophile]] - very Brazil-ian
+   [[https://www.techdirt.com/articles/20130102/09481421547/fbi-working-with-banks-chose-not-to-inform-occupy-leadership-assassination-plot-its-leaders.shtml][fbi and banks chose not to inform occupy of assassination plot]]
+   [[https://www.techdirt.com/articles/20140424/18113827025/chase-bank-slutshames-their-adult-performer-customers.shtml][bank slutshames adult performers]]
+   [[http://www.bbc.co.uk/news/uk-england-manchester-38798215?ocid=socialflow_twitter&ns_mchannel=social&ns_campaign=bbcnews&ns_source=twitter][Covering anti-homeless spikes]]
+   [[http://everydayfeminism.com/2015/05/male-privilege-trans-men/?utm_source=SocialWarfare&utm_medium=facebook&utm_campaign=SocialWarfare][male privilege from a trans guys perspective]]
+   [[https://outofthiscentury.wordpress.com/2014/03/25/the-greatest-african-american-and-afro-american-martial-artists-in-history/][race and classical fencing]]
+   [[https://mobile.slashdot.org/story/12/12/28/2227203/how-isps-collude-to-offer-poor-service][isps collude to offer poor service]]
+   [[http://www.bbc.co.uk/news/magazine-20796981#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa][ex offenders left with huge debt]]
+   [[https://boingboing.net/2012/12/17/if-youre-suspected-of-drug-i.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][suspected of drug involvment, house taken]]
+   [[https://boingboing.net/2013/03/15/anti-pot-gop-assemblyman-accus.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][anti pot gop accussed of pot possession]]
+   [[https://www.techdirt.com/articles/20120703/11594019568/uk-pensioner-could-face-arrest-atheist-poster.shtml][pensioner arrested over atheist poster]]
+   battlestar galactica -- dirty hands episode
+** Shocks / Contention
+   Trump
+** Time / Space Pyramid
+** TODO Bourdieu
+   Structuring Structures - instruments for knowing and constructing the world
+   - subjective structures
+
+   Structured structures - means of communication
+   - objective structures
+
+   instruments of domination - division of labour
+   - body of specialists competing for the monopoly of legitimate cultural production
+* Structured Social Situations
+** Existing Systems
+   [[https://killscreen.com/articles/easy-level-life/][BLM game]] - Street Crossing
+   [[https://www.rockpapershotgun.com/2014/12/09/darklands-review/][darklands]] - deep rpg
+   [[https://www.eskimo.com/~mwirkk/dl/man/DL_man_TOC.htm][Darklands manual]]
+   [[https://waypoint.vice.com/en_us/article/food-is-the-secret-ingredient-in-vanillawares-games?utm_source=wptwitterus][food in games]]
+   [[http://legacy.earlham.edu/~peters/writing/nomic.htm][nomic]]
+   [[https://www.nytimes.com/interactive/2016/11/01/opinion/voting-suppression-videogame.html?smid=tw-nytimes&smtyp=cur][voter suppression trail game]]
+   [[http://rubinmuseum.org/events/event/waiting-rooms-04-23-2016][Waiting Rooms]]
+
+** Norm Change
+   [[https://qz.com/876494/in-sex-shy-india-more-women-now-want-designer-vaginas/][designer vaginas]]
+   [[https://boingboing.net/2013/04/05/how-the-global-hyper-rich-have.html][hyper-rich gentrification]]
+   [[http://www.bbc.com/sport/football/20672812][football player lessons to tackle racism]]
+   [[https://boingboing.net/2013/12/30/illustrated-timeline-of-anti-f.html][timeline of anti-fun moral panics]]
+   [[https://boingboing.net/2014/06/24/how-accounting-forced-transpar.html][how accounting forced transparency]]
+   [[https://www.techdirt.com/articles/20120929/17590120549/new-imperialism-forcing-morality-shifts-cultural-change-through-exported-ip-laws.shtml][forcing morality shifts through exported ip laws]]
+   [[https://motherboard.vice.com/en_us/article/the-history-of-twitters-rules][twitter rule evolution]]
+   [[http://www.mdpi.com/1999-5903/8/2/14/html][evolution of wikipedias norms]]
+   [[http://www.thedailybeast.com/articles/2017/04/22/trump-is-the-new-insult-on-playgrounds.html][trump is the new insult on the playground]]
+   [[https://economicfront.wordpress.com/2016/12/28/the-devastating-transformation-of-work-in-the-us/][transformation of work in the us]]
+   [[https://medium.com/@AbiWilks/it-s-inheritance-that-is-immoral-not-inheritance-tax-33ff91791f03][inheritance as immoral]]
+   [[https://fivethirtyeight.com/features/constitutional-crisis/][four types of constitutional crises]]
+   [[https://i.imgur.com/4An9vRT.png?2][religion in twitch plays pokemon]]
+
+** Misapplied rules
+   [[https://boingboing.net/2012/08/08/texas-executes-mentally-handic.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][texas executes mentally handicapped man]]
+   [[https://www.techdirt.com/articles/20170313/08105936905/extra-digit-accidentally-typed-officer-turns-uk-man-into-pedophile.shtml][accidental digit turns man into pedophile]] - very Brazil-ian
+   [[https://www.techdirt.com/articles/20130114/19393821674/aaron-swartz-could-have-killed-someone-robbed-bank-sold-child-porn-faced-less-time-prison.shtml][comparative crime sentencing regarding aaron swartz]]
+   [[https://boingboing.net/2013/01/21/pennsylvania-kindergartener-us.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][Hello-kitty bubble-gun]]
+   [[https://boingboing.net/2012/08/28/school-demands-that-boy-must-c.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][Name Change]]
+   [[https://www.independent.co.uk/news/world/americas/black-man-prison-serve-five-years-ramad-chatman-georgia-prison-not-guilty-probation-broke-terms-jail-a7744326.html][man will spend six years in prison despite being found not guilty]]
+   [[https://www.theguardian.com/law/2017/apr/20/judge-alarmed-about-lack-of-lawyer-as-he-jails-woman-for-begging?utm_source=dlvr.it&utm_medium=twitter][lack of lawyer while jailing for begging]]
+
+** Arbitrary assessment
+   [[https://boingboing.net/2012/06/30/excellent-list-of-reasons-to-h.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][Standardized testing]]
+
+** Jobs
+   [[https://boingboing.net/2012/07/26/a-rant-on-marijuana-dispensari.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][Dispensary closing]]
+   [[https://boingboing.net/2013/12/01/presenting-political-argument.html][against unpaid interships]]
+
+** Conflicting norms
+   [[https://phys.org/news/2014-06-job-reward-narcissists-applicants-modest.html][Narcissists and modesty]]
+   [[http://www.bbc.co.uk/news/uk-england-manchester-38798215?ocid=socialflow_twitter&ns_mchannel=social&ns_campaign=bbcnews&ns_source=twitter][Covering anti-homeless spikes]]
+
+** Power
+
+   [[https://www.techdirt.com/articles/20121206/16014421285/buy-your-kindle-waterstones-youre-now-locked-into-one-screensaver-waterstones-logo.shtml][Waterstones kindle lock-in]]
+   [[https://twitter.com/samswey/status/865602050209357825][racism and slavery in louisiana]]
+   [[https://www.techdirt.com/articles/20100309/0034318473.shtml][bloggers suiing for press passes]]
+   [[http://www.no-cctv.org.uk/materials/docs/The_Maufacture_of_Surveillance_by_Consent-No-CCTV-2013.pdf][policing and surveillance by consent]]
+   [[https://pirates-forum.org/Thread-The-UK-s-184-Year-Old-Idea-Of-Policing-By-Consent][policing by consent]]
+   [[https://boingboing.net/2012/04/24/debtors-prisons-make-an-amer.html][the resurgence of debtors prisons]]
+   -- prison rape
+   [[https://www.theguardian.com/society/2017/apr/14/london-councils-trying-to-force-homeless-families-outside-the-capital?utm_source=dlvr.it&utm_medium=twitter][councils forcing homeless out of cities]]
+   [[http://www.vox.com/the-big-idea/2016/12/1/13800348/wisconsin-gerrymander-supreme-court-parties][Wisconsin Gerrymandering]]
+   [[https://boingboing.net/2012/11/21/white-house-to-blind-people-t.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][Blindness and copyright]]
+   [[https://twitter.com/milknmuffins/status/861092198728609793][salvation army problems]]
+
+** Economies
+   [[https://longreads.com/2014/11/19/death-penalty-reading-list/][the bureaucracy of death]]
+   [[https://boingboing.net/2014/03/18/how-a-coffee-order-chatbot-tur.html#more-292677][how a coffee chatbot turned into a bank]]
+   [[https://boingboing.net/2015/05/26/poverty-is-a-tax-on-cognition.html][taxes on cognition]]
+   [[http://www.locusmag.com/Perspectives/2016/03/cory-doctorow-wealth-inequality-is-even-worse-in-reputation-economies/][Wealth inequality in reputation economies]]
+   [[https://medium.com/@simondlr/introducing-curation-markets-trade-popularity-of-memes-information-with-code-70bf6fed9881][curation markets]]
+   [[http://stfuconservatives.tumblr.com/post/45295059818][socioeconomics of health]]
+
+** Entrenched norms
+   [[https://kotaku.com/5968027/some-idiots-wanted-to-take-a-girl-off-the-cover-of-the-last-of-us][wanting to remove the girl from a game cover]]
+   [[https://en.wikipedia.org/wiki/Caste][caste systems]]
+   [[https://www.bloomberg.com/view/articles/2016-07-01/voting-ban-for-ex-cons-is-a-lifetime-sentence][Ex-con voting ban]]
+   [[https://boingboing.net/2012/09/27/uk-banks-use-robo-callers-to-m.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][conditioning people to give out information on the phone]]
+   [[http://www.bbc.com/news/magazine-20361339][why rules aren't a la carte]]
+   [[https://www.theguardian.com/books/2017/apr/10/stiff-upper-lip-secrets-crimes-schooling-of-a-ruling-class-alex-renton-book-review?CMP=twt_gu][the stiff upper lip]]
+   [[https://io9.gizmodo.com/harsh-environments-foster-beliefs-in-powerful-and-judgm-1657307266?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+io9%2Ffull+%28io9%29][harsh environments foster beliefs in judgemental gods]]
+   [[https://en.wikipedia.org/wiki/Byzantine_aristocracy_and_bureaucracy#Court_life][bzantine bureaucracy]]
+   [[http://www.rollingstone.com/politics/news/one-towns-war-on-gay-teens-20120202][one towns war on gay teens]]
+   [[https://boingboing.net/2014/05/29/yearbook-photos-selectively-al.html][yearbook photos edited for modesty]]
+   [[http://everydayfeminism.com/2015/05/male-privilege-trans-men/?utm_source=SocialWarfare&utm_medium=facebook&utm_campaign=SocialWarfare][male privilege from a trans guys perspective]]
+
+** Social Signals / identification
+   [[https://www.techdirt.com/articles/20121217/16231921411/police-chief-deploys-officers-with-assault-rifles-to-stop-id-everyone-says-local-crime-stats-give-him-probable-cause.shtml][police deployed with assault rifles]]
+   [[https://boingboing.net/2014/06/27/photoshopped-ideas-of-beauty.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][world variation in concepts of beauty]]
+   [[https://www.youtube.com/watch?v=LOyVvpXRX6w][beauty through the 20th century]] -- for white people, with links to mexico, korea, iran, india...
+   [[https://io9.gizmodo.com/5948509/men-with-shaved-heads-appear-more-masculine-study-finds?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+io9%2Ffull+%28io9%29][men with shaved heads viewed more masculine]]
+   [[https://boingboing.net/2012/10/02/why-the-fedora-grosses-out-gee.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][fedoras]]
+   [[https://www.buzzfeed.com/peggy/unspoken-suit-rules-every-man-should-know?utm_term=.luw8la597r#.yowqYm01Z8][suit rules]]
+   [[https://boingboing.net/2014/06/14/not-selling-out-teens-live-in.html][teens only option is to live in commercial online spaces]]
+   [[https://www.vice.com/en_au/article/get-to-know-the-memes-of-the-alt-right-and-never-miss-a-dog-whistle-again][alt-right dogwhistles]]
+   [[https://www.washingtonpost.com/lifestyle/style/the-coded-language-of-the-alt-right-is-helping-to-power-its-rise/2017/04/07/5f269a82-1ba4-11e7-bcc2-7d1a0973e7b2_story.html?utm_term=.6c94a658ca3f][Alt-right language]]
+   [[https://boingboing.net/2015/07/24/naomi-wolf-wants-young-women-t.html][naomi wolf and vocal fry]]
+   [[https://boingboing.net/2014/04/23/having-leisure-time-is-now-a-m.html#more-298992][Free time as marker for Poverty]]
+   [[https://www.nytimes.com/2017/04/07/well/family/new-mexico-outlaws-school-lunch-shaming.html?module=WatchingPortal&region=c-column-middle-span-region&pgType=Homepage&action=click&mediaId=thumb_square&state=standard&contentPlacement=1&version=internal&contentCollection=www.nytimes.com&contentId=http%3A%2F%2Fwww.nytimes.com%2F2017%2F04%2F07%2Fwell%2Ffamily%2Fnew-mexico-outlaws-school-lunch-shaming.html&eventName=Watching-article-click&_r=1][lunch shaming]]
+   [[http://www.latimes.com/local/lanow/la-me-ln-calgangs-audit-20160811-snap-story.html][gang database with errors]]
+   [[https://boingboing.net/2017/04/21/vintage-chicago-street-gang-bu.html][chicago gang business cards]]
+   [[http://www.worldpath.net/~minstrel/hobosign.htm][hobo signs]]
+   [[http://www.teenvogue.com/story/united-airlines-passenger-says-someone-accused-him-of-human-trafficking-while-traveling-with-his-daughter?mbid=social_twitter][accused of human trafficking while flying with daughter]]
+   [[https://www.theatlantic.com/politics/archive/2011/11/yep-uppity-racist/335160/][the word 'uppity']]
+   [[http://stfuconservatives.tumblr.com/post/29062260953][racial microaggressions]]
+   [[https://i.imgur.com/XjIorEf.jpg][job biases]]
+   [[https://boingboing.net/2012/11/13/who-owns-who-in-congress.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][who bought your politician]]
+   [[https://www.techdirt.com/articles/20130324/17344622436/petition-submitted-to-require-congress-to-wear-logos-their-corporate-donors.shtml][politicians wearing corporate logos]]
+   [[https://arstechnica.com/business/2014/08/tripping-through-ibms-astonishingly-insane-1937-corporate-songbook/][ibm songbook]]
+
+** Social 'moves'
+   [[https://gizmodo.com/5958118/argue-your-way-out-of-bs-fees?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+gizmodo%2Ffull+%28Gizmodo%29][argue out of fees]]
+   [[http://stfuconservatives.tumblr.com/post/29062260953][racial microaggressions]]
+   [[https://www.techdirt.com/articles/20130102/09481421547/fbi-working-with-banks-chose-not-to-inform-occupy-leadership-assassination-plot-its-leaders.shtml][fbi and banks chose not to inform occupy of assassination plot]]
+   [[https://www.buzzfeed.com/simonlewis/18-ways-british-people-have-of-saying-go-fk-yourself?utm_term=.dnvMgNVoWY#.wvGoAK7BOX][english insults]]
+   [[https://twitter.com/BoingBoing/status/851454044560379904][oregonians vote to ban duels]]
+   [[http://stash.jkirchartz.com/post/32258773488/via-saturday-morning-breakfast-cereal][lawyers and genies]]
+   [[https://i.imgur.com/wUSgq4Q.jpg][comic on homeless invisibility]]
+   [[http://www.haaretz.com/jewish/archaeology/1.746064?v=201400E6413D7D2651C265E8B80A6531][2000 year old rental contract]]
+   [[https://www.buzzfeed.com/lukelewis/what-british-people-say-versus-what-they-mean?utm_term=.ifdZWRYmX8#.jtlQbjYeLx][english meaning]]
+   [[http://www.businessinsider.sg/communication-charts-around-the-world-2014-3/#.VWrWh3BHarX][charts of negotiation variations]]
+   [[https://boingboing.net/2014/10/31/secret-recording-of-corporate.html][corpoate lobbyist tricks]]
+   [[https://web.archive.org/web/20150317064306/http://peteseeger.net/HUAC.htm][HUAC transcript]]
+   [[http://smbc-comics.com/comic/the-uses-of-bureaucracy][the uses of bureaucracy to deal with racists]]
+   [[https://fusion.kinja.com/graphic-essay-betsy-devoss-school-choice-movement-isnt-1794866688][betsy devos and school choice as segregation]]
+
+** Experiences
+   [[https://boingboing.net/2016/06/18/homeless-in-seattle-five-essa.html][homeless vignettes]]
+   [[https://www.theguardian.com/society/2016/oct/28/arrogance-poverty-social-housing-benefits-ken-loach-i-daniel-blake-unrealistic?CMP=twt_gu][poverty in the film I daniel blake]]
+   [[http://m.motherjones.com/politics/2016/06/cca-private-prisons-corrections-corporation-inmates-investigation-bauer][my four months as a prison guard]]
+   [[https://www.buzzfeed.com/aishamirza/until-white-women-ruined-it?utm_term=.woDmx9eVd1#.ji8LvAZp2o][experiences of racism]]
+   [[http://www.gq.com/story/inside-federal-bureau-of-way-too-many-guns][government gun policy]]
+
+** Protection
+   [[https://georgelakoff.com/2017/01/28/the-publics-viewpoint-regulations-are-protections/][regulations are protections]]
+
+** society making no sense / lying
+   [[https://www.theguardian.com/world/2017/apr/20/hereat-wherewithin-convoluted-indian-court-ruling-has-lawyers-baffled?CMP=twt_gu][incomprehensible indian law ruling]]
+   [[https://boingboing.net/2014/07/21/mawwiage.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+boingboing/iBag+%28Boing+Boing%29][gay marriage opponents twist history]]
+   [[https://politics.slashdot.org/story/12/10/06/2038259/us-house-science-committee-member-evolution-is-a-lie-from-hell?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Slashdot%2Fslashdot+%28Slashdot%29?SetFreedomCookie][science committee member evolution is a lie from hell]]
+   [[https://boingboing.net/2012/11/15/top-georgia-gop-lawmakers-host.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][georgia lawmaker holds briefing on obama mind control plot]]
+   [[https://www.psychologytoday.com/blog/the-scientific-fundamentalist/201001/british-newspapers-make-things][british newspapers make things up]]
+   [[http://www.philosophersbeard.org/2010/11/democracy-is-not-truth-machine.html][democracy is not a truth machine]]
+
+** punishment / sanctions
+   [[http://www.snopes.com/ugly-laws/?utm_source=twitter&utm_medium=social][ugly laws]]
+   [[http://www.bbc.co.uk/news/uk-39678059?ocid=socialflow_twitter&ns_mchannel=social&ns_campaign=bbcnews&ns_source=twitter][acid attacks]]
+   [[https://boingboing.net/2012/12/11/76-things-banned-by-the-bible.html][76 things banned in the bible]]
+   [[https://boingboing.net/2013/08/09/texas-man-sues-gop-lawmaker-an.html][man sues gop lawmaker over stun gun attacks]]
+   [[https://www.techdirt.com/articles/20140424/18113827025/chase-bank-slutshames-their-adult-performer-customers.shtml][bank slutshames adult performers]]
+   [[https://www.nytimes.com/2016/12/09/opinion/sunday/australia-refugee-prisons-manus-island.html?src=twr&smid=tw-nytimes&smtyp=cur&_r=0][australias island prisons for immigrants]]
+   [[https://twitter.com/aliceavizandum/status/851698015832338432][execution observers]]
+   [[http://www.huffingtonpost.com/entry/this-interactive-map-reveals-the-history-of-lynching-in-america_us_58d0204fe4b0ec9d29de4056?ncid=tweetlnkushpmg00000067][map of lynchings]]
+   [[https://boingboing.net/2012/11/13/woman-mows-down-husband-with-c.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][women mows down husband with car for not voting]]
+
+** Belief
+   [[http://interactive.aljazeera.com/aje/2017/malawi-killed-for-their-bones/index.html][albinos]]
+
+** social structures
+   [[https://boingboing.net/2012/12/19/infographic-understanding-the.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+boingboing%2FiBag+%28Boing+Boing%29][Westoboro baptists]]
+   [[http://greencracker.net/wp-content/uploads/2013/11/final-cafe-press-dimensions-1106.jpg][map of georgia government]]
+   

@@ -58,17 +58,6 @@ Margins of Error: A Study of Reliability in Survey Measurement
 doi : 10.1177/0094306110396847
 *** [[http://www.casos.cs.cmu.edu/projects/OrgAhead/orgahead_info.html][OrgAHead]]                                                                  :CMU:
 Also See [[http://www.casos.cs.cmu.edu/projects/biowar/][BioWar]]
-** People
-*** [[https://scholar.google.com/citations?user=rWPcKqkAAAAJ&hl=en&oi=sra][Talcot Parsons]]
-*** [[http://www.abdoumaliqsimone.com/publications.html][AbouMaliq Simone]]
-*** [[http://worrydream.com/][Bret Victor]]
-**** [[http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/][A Brief Rant on the Future of Interaction Design]] :design:capability:tools:hands:
-**** TODO [[https://explorabl.es/all/][Explorables]]
-*** [[http://www.lsi.upc.edu/~jvazquez/publications.php][J. Vázquez Salceda]]                                                        :look_into:research:papers:
-*** [[https://scholar.google.com/citations?user=iR-SIW8AAAAJ&hl=en&oi=sra][Jodie Sabater-Mir]]                                                         :reputation:look_into:research:
-*** [[http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en][Alan Kay OOP]]                                                              :programming_languages:
-*** [[https://scholar.google.com/citations?hl=en&user=FncBQzIAAAAJ&view_op=list_works&sortby=pubdate][Cristiano Castelfranchi]]                                                   :programming_languages:MAS:
-*** [[http://donellameadows.org/][Donna Meadows]]                                                             :MAS:systems_thinking:
 ** Writing
 *** [[file:~/github/writing/orgfiles/design_writing.org::*Design%20writing][Design writing]]
 *** [[file:~/github/writing/orgfiles/dissertation.org::*Dissertation bits and pieces][Dissertation bits and pieces]]
