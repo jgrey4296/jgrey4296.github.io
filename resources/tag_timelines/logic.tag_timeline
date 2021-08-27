@@ -26,7 +26,7 @@
 1992 randell92_spatial_logic_based_region_connec
 1992 shoam92_synth_useful_laws_artif_agent_societ
 1993 fisher93_concur_metat_
-1993 forbus93_build_probl_solver
+1993 forbus93_build_probl_solver_
 1993 jones93_charac_law_comput_system
 1994 hodas94_logic_progr_fragm_intuit_linear_logic_110
 1994 krall94_implem_techn_prolog
@@ -152,7 +152,7 @@
 2009 khedker09_progr_analy
 2009 lorini09_logic_accep
 2009 mateas09_defin_operat_logic
-2009 pacuit09_dynam_logic_belief_inten
+2009 pacuit09_dynam_logic_belief_inten_
 2009 rahwan09_argum_artif_intel
 2010 baader10_the_descr_logic_handb
 2010 boley10_rulem
@@ -225,7 +225,10 @@
 2016 benthem16_logic_in_action
 2016 knobbout16_logic_model_verif_normat_multi_agent_system
 2016 lorini16_stit_logic_reason_about_social_influen
+2016 mullins16_right_defaul_logic_
 2016 padget16_instal
+2016 pavese16_logic_infer_its_dynam_
+2016 peterson16_condit_normat_reason_with_subst_logic_
 2016 roy16_deont_logic_normat_system
 2017 genesereth17_introd_to_logic
 2017 robaldo17_reified_input_logic
@@ -257,4 +260,5 @@
 2021 antonsen21_logic_method
 2021 bueno21_routl_handb_of_modal
 2021 copi21_essen_logic
+2021 russell21_artif_intel_
 2021 sergot21_some_forms_collec_bring_about_50

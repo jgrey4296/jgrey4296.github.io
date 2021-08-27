@@ -12,7 +12,7 @@
 1990 touretzky90_common_lisp
 1991 freeman91_neural_networ
 1992 bell92_ritual
-1993 forbus93_build_probl_solver
+1993 forbus93_build_probl_solver_
 1994 bazerman94_infor_writer
 1994 brandom94_makin_explic
 1994 michie94_machin_learn_neural_statis_class
@@ -74,6 +74,7 @@
 2003 arbib03
 2003 ashcroft03
 2003 baral03_knowl_repres_reason_declar_probl_solvin
+2003 bartle03_desig_virtual_world_
 2003 bartlett03_progr_from_groun_up
 2003 canfield03_routl_histor_philos_volum
 2003 chou03_patter_recog_speec_languag_proces
@@ -328,6 +329,7 @@
 2010 ware10_rand_infor_evolut
 2010 wartman10_spatial_analy_ident_concen_urban_damag
 2010 wood10_rethin
+2011 ahmad11_guild_play_mmogs_
 2011 barber11_bayes_reason_machin_learn
 2011 beck11_art_proof
 2011 bissel11_extra_lifes
@@ -503,11 +505,14 @@
 2016 floridi16_routl_handb_of_philos_of_infor
 2016 luo16_social_struc_tibet_societ
 2016 magee16_cambr_handb_wester_mystic_esoter
+2016 mullins16_right_defaul_logic_
 2016 netlogo16_netlog
 2016 noriega16_coin
 2016 pachet16_proceed_of_the_seven_inter
 2016 parsons16_analy_essay_music_by_women_compos
+2016 pavese16_logic_infer_its_dynam_
 2016 pearl16_causal
+2016 peterson16_condit_normat_reason_with_subst_logic_
 2016 pierro16_annot_algor_python
 2016 pollard16_black_churc_studies_reader
 2016 roy16_deont_logic_normat_system
@@ -572,6 +577,7 @@
 2018 nobel18_algor_oppres
 2018 oestigaard18_relig_nile
 2018 orangotango+18_this
+2018 parent18_introd_deont_logic_normat_system_
 2018 parsons18_from_asylum_to_prison
 2018 pearl18
 2018 phakiti18_palgr_handb_applied_linguis_resear_method
@@ -591,3 +597,4 @@
 2019 vertesi19_digit
 2019 vidal19_oxfor_handb_karl_marx
 2020 božic20_intel_histor_textb
+2021 russell21_artif_intel_
