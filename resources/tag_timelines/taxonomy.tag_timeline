@@ -1,9 +1,12 @@
-1913 hohfeld13_some_fundam_legal_concep_as
+1913 hohfeld13_some_fundam_legal_concep_as_23
+1975 davis75_overv_produc_system_
 1976 searle76_taxon_illoc_acts
+1981 buchanan81_resear_exper_system_
 1983 chandrasekaran83_towar_taxon_probl_solvin_types
 1984 buchanan84_origin_rule_based_system_ai
 1985 galbraith85_anatom_power
 1986 ostrom86_agend_study_instit
+1988 buchanan88_fundam_exper_system_3
 1988 murstein88_taxon_love
 1988 sokolowski88_natur_artif_intel
 1990 marradi90_class_typol_taxon
@@ -16,15 +19,17 @@
 1994 johnson94_evolv_visual_routin_1
 1994 schafer94_sound
 1995 cockburn95_four_princ_group_desig
+1995 mcdermott95_plann_76
 1995 oatley95_taxon_emotion_liter_respon_theor
 1996 massetti96_empir_examin_value_creat_suppor
 1996 schneiderman96_eyes
+1997 alberdi97_retax_91
 1997 clark97_dogmas_under
 1997 fligstein97_social_skill_instit_theor
 1997 menzies97_knowl_maint
 1997 parunak97_go_to_ant_75
 1997 robertson97_cooper_work_lived_cognit
-1997 ruiter97_basic_class_legal_instit
+1997 ruiter97_basic_class_legal_instit_10
 1997 franklin97_is_it
 1998 bernstein98_patter
 1998 castelfranchi98_model_social_action_ai_agent
@@ -39,12 +44,13 @@
 1999 yoshioka99_genre_taxon
 2000 esteva00_instit_
 2000 mccarthy00_cladis
-2000 werner00_formal_comput_seman_pragm_speec_acts
+2000 werner00_formal_comput_seman_pragm_speec_acts_
 2001 grant01_towar_taxon_erron_plann
 2001 lough01
 2001 morrison01_taxon_analy_what_world_wide
 2002 fipa02_sc000_37j
 2002 isbister02_desig_evaluat_embod_conver_agent
+2002 larsson02_issue_dialog_manag_
 2002 smith02_typol_taxon_benef_polic_class_typol_theor
 2002 therborn02_back_to_norms
 2002 ward02_taxon_glyph_placem_strat_multid_data_visual
@@ -113,7 +119,7 @@
 2009 hagedorn09_natur_relat_trans
 2009 jin09_self
 2009 lim09_inter_attrib
-2009 mcburney09_dialog_games_agent_argum
+2009 mcburney09_dialog_games_agent_argum_
 2009 nikolai09_tools_trade
 2009 payne09_resear_into_pract_polic_applic
 2009 pinelle09_usabil_heuris_networ_multip_games
@@ -136,6 +142,7 @@
 2010 steele10_all_human_all_minds_all_time
 2010 takadama10_simul_inter_agent_social_phenom
 2010 whittle10_measur_moral
+2010 zhuge10_inter_seman_174
 2011 balke11_normat_bdi
 2011 cheong11
 2011 criado11_thomas_23
@@ -171,7 +178,7 @@
 2012 zook12_skill
 2013 antonini13_beyon_rule_repres_norms
 2013 calleja13_narrat_invol_digit_games
-2013 cohen13_assem_jobs
+2013 cohen13_assem_jobs_24
 2013 dormans13_makin_desig_patter_work
 2013 dragert13_scyth_ai
 2013 edmonds13_simul_social_compl
@@ -275,6 +282,7 @@
 2020 boley20_rulem
 2020 briggle20_philos_techn_as_polit
 2020 david20_philos_persp_multiag_based_simul_social_scien
+2020 hellstroem20_bias_machin_learn_what_good_
 2020 long20_what_ai_liter_
 2020 lucas20_anthr_archit
 2020 marino20_critic_code_studies_
@@ -285,3 +293,4 @@
 2021 guo21_data_scien_workf
 2021 mininger21_expan_task_diver_explan_based
 2021 nijs21_const_multiag_markov_decis_proces_70
+2021 waa21_evaluat_xai_291

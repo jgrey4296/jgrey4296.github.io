@@ -1,7 +1,7 @@
 1787 kant96_critiq_pure_reason
 1903 russell10_princ_mathem
 1903 russell03_princ_mathem
-1913 hohfeld13_some_fundam_legal_concep_as
+1913 hohfeld13_some_fundam_legal_concep_as_23
 1920 russell20_introd_to_mathem_philos
 1922 wittgenstein01_tract_logic_philos
 1959 kripke59_compl_theor_modal_logic
@@ -27,7 +27,7 @@
 1992 shoam92_synth_useful_laws_artif_agent_societ
 1993 fisher93_concur_metat_
 1993 forbus93_build_probl_solver_
-1993 jones93_charac_law_comput_system
+1993 jones93_charac_law_comput_system_1
 1994 hodas94_logic_progr_fragm_intuit_linear_logic_110
 1994 krall94_implem_techn_prolog
 1994 lavrac94_induc_logic_progr
@@ -41,6 +41,7 @@
 1996 lesperance96_found_
 1996 mccarthy96_logic_ai_approac_contex
 1996 jagadish96_manag
+1997 ledesma97_comput_approac_to_georg_booles_91
 1997 mccain97_causal_common_reason_action
 1998 chase98_vision
 1998 wright98_collec_works_ludwig_wittg
@@ -157,7 +158,7 @@
 2010 baader10_the_descr_logic_handb
 2010 boley10_rulem
 2010 criado10_normat_bdi
-2010 damasio10_declar
+2010 damasio10_declar_
 2010 felty10_hybrid_48
 2010 norman10_logic_deleg
 2010 perrussel10_from_signed_infor_to_belief
@@ -258,6 +259,7 @@
 2020 sakama20_epist_argum_framew_69
 2020 vescovo20_modul_struc_atomic_decom_ontol_69
 2021 antonsen21_logic_method
+2021 bernreiter21_choic_logic_their_comput_proper_
 2021 bueno21_routl_handb_of_modal
 2021 copi21_essen_logic
 2021 russell21_artif_intel_
