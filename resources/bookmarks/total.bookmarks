@@ -3190,6 +3190,7 @@ http://www.autodidactproject.org/sitequot.html : quotation
 http://www.awareness-mag.eu/view.php?article=005212-2013-12-05&category=Artificial+Intelligence : __verified : nomic : norms : rule : social_system
 http://www.bach-cantatas.com/index.htm : __verified : analysis : j_s_bach : music
 http://www.baddesigns.com/examples.html : __verified : anti_patterns : design
+http://www.bailii.org/uk/cases/UKHL/1985/7.html : contraception:UK:consent:law:gillick_competence
 http://www.ballardian.com/indexed-out-of-existence : __verified : blog : criticism : jg_ballard
 http://www.baltimoresun.com/news/maryland/crime/bs-md-suicide-criminal-charge-20180222-story,amp.html : baltimore_sun : crime : maryland : suicide
 http://www.baltimoresun.com/news/opinion/oped/bs-airport-inhumanity-20170206-story.html : authoritarianism : authority : baltimore_sun : social_system : trump
@@ -6535,6 +6536,7 @@ https://cs.brown.edu/~dabel/blog/posts/misc/nips_2017.pdf : NIPS : conference : 
 https://cs.uwaterloo.ca/~jimmylin/projects/index.html : __verified
 https://csel.cs.colorado.edu/~silkense/js-scheme/ : edu
 https://cseweb.ucsd.edu/classes/wi13/cse230-a/lectures/lec-transformers.html : haskell : monad : monad_transformers : tutorial
+https://cseweb.ucsd.edu/~goguen/projs/inst.html : joseph_goguen:institutions:__important:logic
 https://cseweb.ucsd.edu/~lerner/pg.html : UI : natural_deduction : polymorphic_blocks : programming : proof_games
 https://csl.name/post/lambda-macros-continuations/ : lisp : macros : racket : scheme : tutorial
 https://csound.com/get-started.html : csound : github : music : tutorial
@@ -8697,6 +8699,7 @@ https://mitpress.mit.edu/books/little-typer : __important : dependent_typing
 https://mitpress.mit.edu/books/objectivity : bayes : book : history : objectivity : recommendation : science : statistics
 https://mitpress.mit.edu/books/twelve-tomorrows : __come_back_to : book : important : recommendation : sci_fi : science_fiction
 https://mitpress.mit.edu/books/vast-machine : book : climate_change : data : politics : recommendation
+https://mitpress.mit.edu/books/writings-1997-2003 : CCRY:book:warwick_unversity:MIT_press
 https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html#%_toc_start : MIT : __verified : edu : education : lisp : programming : reference
 https://mitsloan.mit.edu/ideas-made-to-matter/emotion-ai-explained : MIT : __come_back_to : emotional_ai : meredith_somers : sloan
 https://mkremins.itch.io/epitaph : __important : civilisation : death : existential_crisis : game : max_kreminski
@@ -10203,6 +10206,7 @@ https://www.cambridge.org/core/journals/politics-and-the-life-sciences/issue/975
 https://www.cambridge.org/core/what-we-publish/textbooks : cambridge_core : textbooks
 https://www.cambridge.org/gb/academic/subjects/politics-international-relations/international-relations-and-international-organisations/politics-borders-sovereignty-security-and-citizen-after-911?format=PB#wBcEd93eyUCMRltq.97 : academia : book : borders : matthew_longo : politics : politics_of_borders : recommendation
 https://www.campcoffeeclub.co.uk/recipes?recipe=camp-coffee-and-chocolate-tiffin : chocolate : coffee : food : recipe : tiffin
+https://www.cand.uscourts.gov/ : USA:district_court:law
 https://www.carbonbrief.org/mapped-how-every-part-of-the-world-has-warmed-and-could-continue-to-warm : carbon_brief : climate_change : data_visualisation : heatmap
 https://www.carbonbrief.org/mapped-the-climate-change-conversation-on-twitter-in-2016 : climate_change : data_analysis : twitter : visualisation
 https://www.carbonbrief.org/the-2004-lecture-that-finally-convinced-david-attenborough-about-global-warming : carbon_brief : david_attenborough
@@ -10762,6 +10766,7 @@ https://www.jstor.org/stable/10.7591/j.ctt21h4w2k?turn_away=true&Search=yes&resu
 https://www.jstor.org/stable/40489013#page_scan_tab_contents : article : conservation : green_new_deal : habitat : jstor : wildlife
 https://www.jstor.org/stable/40971096 : __important : field : geography : metaphor : social_structure : space
 https://www.jtcroofing.co.uk/roof-types/ : UI : architecture : design : jtc_roofing : reference : roofing : urban_design
+https://www.judiciary.uk/judgments/bell-and-another-v-the-tavistock-and-portman-nhs-foundation-trust-and-others/ : law:UK:judiciary:tavistock_v_bell
 https://www.justice.gov/ : DOJ : USA : government : law_enforcement
 https://www.justice.gov/sco : DOJ : USA : report : robert_mueller : russia : special_counsel : trump
 https://www.justice.gov/usam/usam-9-13000-obtaining-evidence#9-13.420 : attorneys : evidence : guidelines : justice_department : law : popehat : search_warrant
@@ -11731,6 +11736,7 @@ https://www.scipy.org/ : libraries : python : scipy : statistics
 https://www.scpr.org/news/2016/05/02/60085/hundreds-of-la-bus-shelters-go-unbuilt-millions-in/ : LA : SCPR : bus_shelters : graft : shade : urban_design
 https://www.seas.upenn.edu/~cis194/spring13/lectures.html : functional_programming : tutorial
 https://www.securityconference.de/en/publications/munich-security-report/ : foreign_policy : germany : international_security : munich : security
+https://www.sefaria.org/sheets/242996?lang=bi : sefaria:judaism:abortion
 https://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?session=1&congress=111&vote=00061 : 2009 : GOP : democrats : record : roll_call : senate : voting
 https://www.sendowl.com/orders/2267839/download/b13c8ad34d90bbca3014267aa859246a : __verified : game : rimworld
 https://www.sevendaysvt.com/vermont/madelyn-linsenmeir-1988-2018/Content?oid=21797604 : addiction : drug_addiction : obituary : opioid
@@ -11798,6 +11804,7 @@ https://www.tandfonline.com/doi/full/10.1080/09518390902736512 : best_practices 
 https://www.tandfonline.com/doi/full/10.1080/24694452.2017.1417820 : alice_evans : city : social_change : taylor_and_francis : zambia
 https://www.tandfonline.com/toc/flgs20/44/5 : government : government_studies : journal : politics
 https://www.tate.org.uk/whats-on/tate-britain/exhibition/don-mccullin : UK : art : don_mccullin : ireland : modern_art : photography : tate
+https://www.taylorfrancis.com/books/edit/10.4324/9781315302430/organizational-space-beyond-sytze-kingma-karen-dale-varda-wasserman?refId=567a10ab-4e59-454a-859d-38b64675312e : lefebvre:organization:__important
 https://www.td.org/insights/better-science-for-better-learning-text-layout : education : formatting : science : td_org : text_layout
 https://www.techdirt.com/ : __verified : tech_dirt
 https://www.techdirt.com/articles/20091026/1207146679/dailydirt-logarithmic-thinking-is-natural.shtml : child : logarithm : math : tech_dirt
