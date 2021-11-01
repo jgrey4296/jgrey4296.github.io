@@ -4173,6 +4173,7 @@ http://www.indiedb.com/games/rymdresa/ : __verified : game
 http://www.indieretronews.com/2019/06/skald-against-black-priory-dark-fantasy.html : RPG : game : skald
 http://www.inf.unibz.it/~montali/ : ai : edu : formal_system : montali : research
 http://www.infinitespacegames.com/seaofstars/ : __verified : game : rogue_like : science_fiction
+http://www.informatik.uni-bremen.de/cofi/index.php/CoFI : cofi:algebraic_semiotics:ontology:common_framework_initiative:algebraic_specification
 http://www.informatik.uni-hamburg.de/RZ/software/emacs/w3/w3_5.html#SEC14 : __verified : emacs
 http://www.informationclearinghouse.info/article3807.htm : __verified : politics
 http://www.informit.com/articles/article.aspx?p=1401642 : design : software_design : software_development
@@ -5599,6 +5600,7 @@ https://ainowinstitute.org/litigatingalgorithms.pdf : algorithm : kate_crawford 
 https://alamasnino.shinyapps.io/shotspotter_app/ : ShotSpotter : gun_violence : justice_tech_lab
 https://alarmingdevelopment.org/ : __come_back_to : blog : programming : research
 https://alarmingdevelopment.org/?p=1068 : UI : UX : blog : design : interface : programming
+https://alexanderameye.github.io/notes/rendering-outlines/ : outline:graphics:github:rendering
 https://alexanderetz.com/2015/04/15/understanding-bayes-a-look-at-the-likelihood/ : bayes : likelihood : statistics : tutorial
 https://alexey.radul.name/ideas/2013/introduction-to-automatic-differentiation/ : alexey_radul : automatic_differentiation : math
 https://algorithmwatch.org/en/story/austrias-employment-agency-ams-rolls-out-discriminatory-algorithm/ : algorithm : algorithm_watch : algorithmic_bias : australia : bias : employment
@@ -6536,7 +6538,7 @@ https://cs.brown.edu/~dabel/blog/posts/misc/nips_2017.pdf : NIPS : conference : 
 https://cs.uwaterloo.ca/~jimmylin/projects/index.html : __verified
 https://csel.cs.colorado.edu/~silkense/js-scheme/ : edu
 https://cseweb.ucsd.edu/classes/wi13/cse230-a/lectures/lec-transformers.html : haskell : monad : monad_transformers : tutorial
-https://cseweb.ucsd.edu/~goguen/projs/inst.html : joseph_goguen:institutions:__important:logic
+https://cseweb.ucsd.edu/~goguen/projs/inst.html : institutions:logic:__important:joseph_goguen : joseph_goguen:institutions:__important:logic
 https://cseweb.ucsd.edu/~lerner/pg.html : UI : natural_deduction : polymorphic_blocks : programming : proof_games
 https://csl.name/post/lambda-macros-continuations/ : lisp : macros : racket : scheme : tutorial
 https://csound.com/get-started.html : csound : github : music : tutorial
@@ -7361,6 +7363,7 @@ https://genderanalysis.net/2017/08/do-all-trans-youth-on-puberty-blockers-go-on-
 https://genderanalysis.net/2017/11/dissecting-denialism-how-transphobias-bad-science-turned-a-washington-hospital-into-a-battleground/ : denialism : gender_analysis : transgender
 https://genderanalysis.net/2018/02/rapid-onset-gender-dysphoria-what-a-hoax-diagnosis-looks-like/ : gender_analysis : rapid_onset_gender_dysphoria
 https://generativist.falsifiable.com/metaverse/dunbars-number-is-quadratic : dunbars_number : generativist
+https://genius.com/Darren-korb-vagrant-song-lyrics : darren_korb:supergiant_games:pyre:music
 https://georgelakoff.com/2017/01/28/the-publics-viewpoint-regulations-are-protections/ : george_lakoff : law : regulation
 https://gespielt.hypotheses.org/2477 : __important : conference : game
 https://getpocket.com/explore/item/how-we-ll-forget-john-lennon : john_lennon : memory : mit
@@ -8348,6 +8351,7 @@ https://lareviewofbooks.org/article/pointing-at-the-wrong-villain-cass-sunstein-
 https://lareviewofbooks.org/article/public-sphere-dark-times/ : LA_review_of_books : jurgen_habermas : noelle_mcafee : politics : public_sphere : sociology
 https://lareviewofbooks.org/article/the-blathering-superego-at-the-end-of-history/ : criticism : liberalism : policy : politics : trump
 https://lareviewofbooks.org/article/thieves-of-experience-how-google-and-facebook-corrupted-capitalism/ : LA_review_of_books : book : capitalism : review : silicon_valley : technology
+https://lareviewofbooks.org/article/we-can-do-better-on-richard-rortys-pragmatism-as-anti-authoritarianism/ : la_review_of_books:richard_rorty:pragmatism
 https://lasteventphoto.wordpress.com/ : architecture : art : farming : industrial : last_event : photography : piero_annoni
 https://lauramcinerney.com/2017/06/25/journalists-dont-need-to-self-flagellate-about-corbyn-but-they-should-about-grenfell/ : grenfell : jeremy_corbyn : journalism : politics
 https://laurenduca.substack.com/p/kayleigh-mcenany-is-an-enemy-of-truth : kayleigh_mcenany : lauren_duca : lies : politics : propaganda : trump
@@ -8625,6 +8629,7 @@ https://medium.com/mammon-machine-zeal/a-stairway-to-the-unconscious-thief-the-d
 https://medium.com/maslo/your-ai-sucks-40fa00ec42a1 : ai : children : design : dystopia : medium : tiana_cornelius
 https://medium.com/mmc-writes/the-fourth-industrial-revolution-a-primer-on-artificial-intelligence-ai-ff5e7fffcae1 : ai : fourth_industrial_revolution : medium : primer
 https://medium.com/mule-design/the-9-rules-of-design-research-1a273fdd1d3b#---0-131 : design : erika_hall : medium : research
+https://medium.com/nightingale/strange-times-visualizing-the-oddities-of-time-data-bc1fee487153 : time:archive:data_visualisation:history
 https://medium.com/p/62ae4bcbe01b : __verified : article : assets : medium
 https://medium.com/p/62d7434aa118 : __verified : article : future : medium
 https://medium.com/potac/reusable-code-in-tidalcycles-59b7a4dba30a : haskell : libraries : music : reusable_code : tidal : tutorial
@@ -8996,6 +9001,8 @@ https://press.princeton.edu/titles/5711.html : democracy : economics : political
 https://press.rebus.community/intro-to-phil-ethics/ : christina_hendricks : introduction : philosophy : rebus_community
 https://press.ucalgary.ca/books/9781552389591 : architecture : book : city : photography : recommendation
 https://press.uchicago.edu/ucp/books/book/chicago/W/bo5620950.html : book : social_science : writing
+https://presswatchers.org/2021/10/arsonist-heroically-agrees-not-to-light-deadly-fire-let-me-rewrite-that-for-you/ : journalism:dan_froomkin:let_me_rewrite_that_for_you
+https://presswatchers.org/2021/10/jackie-calmes-proposes-a-baby-step-for-political-reporters/ : journalism:jackie_calms:dan_froomkin
 https://prezi.com/view/ARalxBi2SuAv03OBPtuJ/ : __come_back_to : data_visualisation : presentation : time : video
 https://privacyinternational.org/feature/2433/i-asked-online-tracking-company-all-my-data-and-heres-what-i-found : advertising : online_tracking : privacy_international : surveillance
 https://probablydance.com/2017/02/26/i-wrote-the-fastest-hashtable/ : hash_tables : hashing : programming : technical
@@ -9125,6 +9132,7 @@ https://sainsburyarchive.org.uk/ : archive : assets : history : sainsbury : shop
 https://sainsburyarchive.org.uk/catalogue/search/search/eweo-term:Packaging?page=8&date_from=1901&date_to=2003 : archive : history : packages : sainsbury
 https://salimbo.com/deus-ex-architecture/ : architecture : deus_ex : game_criticism
 https://samim.io/p/2018-04-21-dream-lens-exploration-and-visualization-of-large-sca/ : autodesk : dataset : design : large_scale : visualisation
+https://samoe-vazhnoe.blogspot.com/2016/10/15-sester.html : blog:russia:art:children
 https://sarabander.github.io/sicp/ : functional_programming : gerald_sussman : structure_and_interpretation
 https://sarahgraley.mybigcommerce.com/ : art : badges : cat : cut : pins : sarah_graley : shop_fronts
 https://schneems.com/2017/10/02/lifelong-rubyist-makes-some-python-code-5x-faster/ : benchmarks : programming : python : ruby
@@ -9409,6 +9417,7 @@ https://swprs.org/the-american-empire-and-its-media/ : USA : media : monopoly : 
 https://synergyclothing.com/collections/dresses : clothing : dress : style : synergy
 https://t.co/2sBAj7LdEP : LA_times : blocked : cancer : recommendation : trauma
 https://t.co/H4ZmQQ84HT : LA_times : crime : explorable : justice : police : police_violence
+https://tabs.ultimate-guitar.com/tab/misc-computer-games/pyre-vagrant-song-chords-2286587 : ukelele:chords:pyre:music:darren_korb:supergiant_games
 https://tag.hexagram.ca/jekagames/transgalactica/ : ambient_game : game_jam : radio : sound : squink : trans_galatica
 https://tah.oah.org/november-2015/the-cause-was-never-lost/ : 1920 : USA : american_historian : confederacy : history : mississippi : racism
 https://tahayasseri.wordpress.com/2019/06/04/corruption-is-in-the-fabric-of-societies/ : blog : corruption : social_structure : taha_yasseri
@@ -11736,7 +11745,7 @@ https://www.scipy.org/ : libraries : python : scipy : statistics
 https://www.scpr.org/news/2016/05/02/60085/hundreds-of-la-bus-shelters-go-unbuilt-millions-in/ : LA : SCPR : bus_shelters : graft : shade : urban_design
 https://www.seas.upenn.edu/~cis194/spring13/lectures.html : functional_programming : tutorial
 https://www.securityconference.de/en/publications/munich-security-report/ : foreign_policy : germany : international_security : munich : security
-https://www.sefaria.org/sheets/242996?lang=bi : sefaria:judaism:abortion
+https://www.sefaria.org/sheets/242996?lang=bi : abortion:judaism:sefaria : sefaria:judaism:abortion
 https://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?session=1&congress=111&vote=00061 : 2009 : GOP : democrats : record : roll_call : senate : voting
 https://www.sendowl.com/orders/2267839/download/b13c8ad34d90bbca3014267aa859246a : __verified : game : rimworld
 https://www.sevendaysvt.com/vermont/madelyn-linsenmeir-1988-2018/Content?oid=21797604 : addiction : drug_addiction : obituary : opioid
@@ -12209,6 +12218,8 @@ https://www.techdirt.com/articles/20170109/06535936441/chinese-officials-with-go
 https://www.techdirt.com/articles/20170313/08105936905/extra-digit-accidentally-typed-officer-turns-uk-man-into-pedophile.shtml : absurdist : brazil : crime : insane : real_world : tech_dirt : terry_gilliam
 https://www.techdirt.com/articles/20170322/11002236978/encryption-workarounds-paper-shows-why-going-dark-is-not-problem-fact-is-as-old-as-humanity-itself.shtml : encryption : privacy : surveillance : tech_dirt
 https://www.techdirt.com/articles/20200416/08145144311/isps-ignore-toothless-fcc-demand-to-not-kick-users-offline-during-covid-19.shtml : FCC : ISP : access : covid_19 : internet : poverty : techdirt
+https://www.techdirt.com/articles/20211026/20051447826/why-falsely-claiming-illegal-to-shout-fire-crowded-theater-distorts-any-conversation-about-online-speech.shtml : law:cathy_gellis:techdirt:free_speech
+https://www.techdirt.com/articles/20211027/00044947827/let-me-rewrite-that-you-washington-post-misinforms-you-about-how-facebook-weighted-emoji-reactions.shtml : facebook:journalism:techdirt:dan_froomkin:technology:let_me_rewrite_that_for_you
 https://www.techdirt.com/blog/casestudies/articles/20120813/14074420011/people-who-pay-service-are-lot-nicer-than-those-who-dont.shtml : case_study : piracy : tech_dirt
 https://www.techdirt.com/blog/casestudies/articles/20120822/12001520125/ubisoft-realizing-that-perhaps-pirate-users-are-really-just-like-free-to-play-users-who-dont-pay.shtml : free_play : game : piracy : ubisoft
 https://www.techdirt.com/blog/casestudies/articles/20120824/13344120152/game-developer-refuses-publishing-offer-realizes-its-better-to-stay-independent.shtml : crowd_funding : economics : game_development : gate_keeping : indie : tech_dirt
