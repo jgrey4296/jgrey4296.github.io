@@ -4,6 +4,8 @@
 1981 plotkin81
 1982 belnap82_displ_logic_11
 1982 smith82_proced_reflec_progr_languag
+1984 goguen84_some_fundam_algeb_tools_seman_comput_31
+1984 goguen84_some_fundam_algeb_tools_seman_comput_31
 1984 lamport84_axiom_seman_concur_progr_languag
 1987 girard87_linear_logic_50
 1989 grice89_studies_way_words
@@ -11,9 +13,11 @@
 1990 cohen90_inten_is_choic_with_commit_42
 1991 macleod91_half_stroop
 1991 shivers91_contr_flow_analy_higher_order_languag
+1991 tarlecki91_some_fundam_algeb_tools_seman_comput_91
 1991 van91_well_found_seman_gener_logic_progr
 1992 goguen92_instit
 1993 dalrymple93_lfg_
+1993 diaconsescu93_logic_suppor_modul_
 1994 popkorn94_first_steps_modal_logic
 1995 heiler95_seman_inter
 1995 slonneger95_formal_syntax_seman_progr_languag
@@ -28,6 +32,7 @@
 1999 ohearn99_logic_bunch_implic_5
 1999 torre99_updat_seman_defeas_oblig
 2000 colombetti00_commit_based_approac_agent_speec_acts_conver
+2000 goguen00_implem_orien_seman_modul_compos_
 2000 konig00_graph_rewrit_seman_polay_pi_calcul
 2000 werner00_formal_comput_seman_pragm_speec_acts_
 2001 cavazza01_charac_searc_author
@@ -192,5 +197,6 @@
 2020 kosta20_syntax_meanin_meanin_syntax_minim
 2021 antonsen21_logic_method
 2021 bernreiter21_choic_logic_their_comput_proper_
+2021 goguen21_algeb_semiot_
 2021 lorini21_multi_agent_belief_base_revis_
 2021 sergot21_some_forms_collec_bring_about_50

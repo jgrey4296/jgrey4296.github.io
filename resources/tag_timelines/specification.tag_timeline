@@ -1,5 +1,6 @@
 1985 guttag85_larch
 1992 goguen92_instit
+1992 goguen92_instit_39
 1995 brazier95_formal_specif_multi_agent_system
 1999 nance99_redun_model_specif_discr_event_simul
 2001 fipa01_pc000_89d
@@ -41,10 +42,12 @@
 2002 fipa02_si000_91e
 2002 fipa02_xc000_92b
 2002 fipa02_xc000_93b
+2002 goguen02_instit_morph_13
 2002 huebner02_model_struc_funct_deont_specif
 2003 fipa03_pc000_95a
 2003 fipa03_pc000_96a
 2003 fipa03_xc000_10c
+2004 bidoit04_casl_user_manual_
 2004 fipa20_sc000_23k
 2004 ohare04_engin_societ_agent_world_iv_3071
 2006 barras06_coq_proof_assis_refer_manual

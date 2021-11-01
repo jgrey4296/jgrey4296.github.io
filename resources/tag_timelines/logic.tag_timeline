@@ -13,6 +13,7 @@
 1974 wittgenstein80_philos_gramm
 1977 heidegger97_phenom_inter_kants_critiq_pure_reason
 1984 goguen84_introd_instit
+1984 goguen84_some_fundam_algeb_tools_seman_comput_31
 1985 alchourron85_logic_theor_chang
 1985 hoare85_commun_sequen_proces
 1986 feferman86_kurt_goedel
@@ -21,12 +22,16 @@
 1989 grice89_studies_way_words
 1990 girard90_proof_types
 1990 ourston90_chang
+1991 tarlecki91_some_fundam_algeb_tools_seman_comput_91
 1991 van91_well_found_seman_gener_logic_progr
 1992 bench-capon92_isomor_legal_knowl_based_system
+1992 goguen92_instit_39
 1992 randell92_spatial_logic_based_region_connec
 1992 shoam92_synth_useful_laws_artif_agent_societ
+1993 diaconsescu93_logic_suppor_modul_
 1993 fisher93_concur_metat_
 1993 forbus93_build_probl_solver_
+1993 goguen93_notat_
 1993 jones93_charac_law_comput_system_1
 1994 hodas94_logic_progr_fragm_intuit_linear_logic_110
 1994 krall94_implem_techn_prolog
@@ -35,6 +40,7 @@
 1994 sterling94_art_prolog
 1995 coven95_ai_applic_operat_seman_reflec
 1996 brauener96_introd
+1996 goguen96_algeb_seman_imper_progr_
 1996 grayling96_wittg
 1996 hughes96
 1996 jones96_formal_charac_instit_power
@@ -67,6 +73,7 @@
 2001 makinson01_what_input_ouput_logic
 2002 blackburn02_modal_logic
 2002 gabbay02_handb_philos_logic
+2002 goguen02_instit_morph_13
 2002 grayling02_russel
 2002 knight02_unific
 2002 mui02_comput_model_trust_reput
@@ -87,6 +94,8 @@
 2004 davies04_integ_formal_method_2999
 2004 giere04_how_model_are_used_to_repres_realit
 2004 giunchiglia04_nonmon_causal_theor
+2004 goguen04_compos_hidden_infor_modul_over_inclus_instit_
+2004 goguen04_infor_integ_instit_
 2004 miller04_overv_linear_logic_progr
 2004 nirenburg04_ontol_seman
 2004 potter04_set_theor_philos
@@ -98,6 +107,7 @@
 2005 buccafurri05
 2005 genesereth05_cs157_great_hits_top_slides_cours
 2005 genesereth05_order_resol
+2005 goguen05_data_schem_ontol_logic_integ_13
 2005 goldblatt05_mathem_modal_logic
 2005 governatori05_norm_modif_defeas_logic
 2005 governatori05_repres_busin_contr_rulem
@@ -109,6 +119,7 @@
 2006 broersen06
 2006 dignum06_operat_norms_usage_elect_instit
 2006 fararo06_found_action_theor
+2006 goguen06_mathem_model_cognit_space_time_
 2006 governatori06_rule
 2006 grossi06_ontol_aspec_implem_norms_agent
 2006 hagiwara06_discor_detec_region_ordin
@@ -130,6 +141,7 @@
 2007 grossi07_desig_invis_handc_formal_inves
 2007 grossi07_struc_aspec_evaluat_agent_organ
 2007 harper07_mechan_metat_logic_framew_17
+2007 mossakowski07_what_is_logic_
 2007 nielson07_seman_with_applic
 2007 noriega07_coin_durham
 2008 arbab08_tiles
@@ -252,6 +264,7 @@
 2019 project19_open_logic_text
 2020 allori20_statis_mechan_scien_explan_deter
 2020 chimakonam20_logic_afric_philos
+2020 goguen20_instit_
 2020 jain20_indis_obfus_well_found_assum
 2020 pierce20_logic_found
 2020 pierce20_progr_languag_found
@@ -264,5 +277,6 @@
 2021 bueno21_routl_handb_of_modal
 2021 castricato21_towar_model_theor_view_narrat_
 2021 copi21_essen_logic
+2021 goguen21_algeb_semiot_
 2021 russell21_artif_intel_
 2021 sergot21_some_forms_collec_bring_about_50
