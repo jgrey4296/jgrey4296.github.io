@@ -2792,3 +2792,64 @@ cite:blackwell01_cognit_dimen_notat,green89_cognit_dimen_notat
 | Unevenness             | System pushes your ideas in a certain direction            |
 | Lability               | Notation changes shape easily                              |
 | Permissiveness         | Notation allows several ways of doing things               |
+
+** FIPA ACL Performatives
+| Performatives     |   |   |
+|-------------------+---+---|
+| Accept Proposal   |   |   |
+| Agree             |   |   |
+| Cancel            |   |   |
+| Call for Proposal |   |   |
+| Confirm           |   |   |
+| Disconfirm        |   |   |
+| Failure           |   |   |
+| Inform            |   |   |
+| Inform If         |   |   |
+| Inform Ref        |   |   |
+| Not Understood    |   |   |
+| Propagate         |   |   |
+| Propose           |   |   |
+| Proxy             |   |   |
+| Query If          |   |   |
+| Query Ref         |   |   |
+| Refuse            |   |   |
+| Reject Proposal   |   |   |
+| Request           |   |   |
+| Request When      |   |   |
+| Request Whenever  |   |   |
+| Subscribe         |   |   |
+
+
+| Message Structure |               |
+|-------------------+---------------|
+| performative      |               |
+| sender            | Participation |
+| receiver          | Participation |
+| reply-to          | Participation |
+| content           | content       |
+| language          | content-meta  |
+| encoding          | content-meta  |
+| ontology          | content-meta  |
+| protocol          | control       |
+| conversation-id   | control       |
+| reply-with        | control       |
+| in-reply-to       | control       |
+| reply-by          | control       |
+
+
+** KQML Performatives
+|                       |                                                 |   |
+|-----------------------+-------------------------------------------------+---|
+| Basic                 | Evaluate, ask-if, ask-in, ask-one, ask-all..    |   |
+|                       |                                                 |   |
+| Multi-Response Query  | Steam-in, Stream-all                            |   |
+|                       |                                                 |   |
+| Response              | Reply, Sorry..                                  |   |
+|                       |                                                 |   |
+| Generic Information   | Tell, Achieve, Cancel, Untell, Unachieve        |   |
+|                       |                                                 |   |
+| Generators            | Standby, ready, next, rest, discard, generator  |   |
+|                       |                                                 |   |
+| Capability-definition | advertise, subscribe, monitor, import, export   |   |
+|                       |                                                 |   |
+| Networking            | register, unregister, forward, broadcast, route |   |
