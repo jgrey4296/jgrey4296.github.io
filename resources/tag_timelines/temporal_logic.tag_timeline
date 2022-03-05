@@ -1,5 +1,9 @@
 1984 lamport84_axiom_seman_concur_progr_languag
 1993 fisher93_concur_metat_
+1993 lamport93_tla_hybrid_system_
+1994 lamport94_introd_tla_
+1994 lamport94_tempor_logic_action_
+1995 lamport95_tla_pictur_21
 2001 merz01_model_check
 2001 qvortrup01_virtual_inter
 2004 arbab04_model_tempor_logic_timed_compon_connec
@@ -18,3 +22,4 @@
 2017 kliess17_requir_tempor_logic_daily_activ_suppor_techn
 2018 havelund18_shared_chall_behav_specif_dagst_semin
 2018 kliess18_tempor_logic_model_activ_daily_livin
+2019 kuppe19_tla_toolb_

@@ -16,6 +16,7 @@
 1992 goguen92_instit
 1992 jefferson92_simpl_reflec_inter
 1994 bunkenburg94
+1994 lamport94_tempor_logic_action_
 1994 lavrac94_induc_logic_progr
 1994 sterling94_art_prolog
 1995 barbuceanu95_cool
@@ -175,6 +176,7 @@
 2013 ghorbani13_maia
 2013 gibbons13_monad_behav
 2013 jackson13_formul_
+2013 lamy13_sympy_start_
 2013 lawrance13_how_progr_debug_revis
 2013 liu13_unify_theor_progr_formal_engin_method_
 2013 mcdirmid13_usabl
@@ -216,10 +218,13 @@
 2015 goncalves15_combin_rules_ontol_param_logic_progr
 2015 haber15_compos
 2015 higginbotham15_clojur
+2015 idris15_numpy_begin_guide_
 2015 lerner15_polym_block
 2015 maclean15_d3_tips_trick_inter_data
 2015 martens15_progr_inter_world_linear_logic
+2015 mcgreggor15_master_
 2015 sewell15_bluep_visual_scrip_unreal_engin
+2015 smith15_cython_
 2015 smith15_unity
 2015 stutsman15_exper
 2015 sweigart15_autom_borin_stuff_python
@@ -284,6 +289,7 @@
 2018 hu18_chaff_bugs
 2018 kordjamshidi18_system_ai
 2018 nicola18_dream
+2018 poladi18_matpl_
 2018 stefik18_eviden_about_progr_progr_languag
 2018 thompson18_build_abstr_story_compon_instit_tropes
 2018 varughese18_contr_swarm
@@ -295,6 +301,7 @@
 2019 dunham19_desig_six_ages_story_strat_game
 2019 hempel19_sketc_n
 2019 kiselyov19_effec_without_monad
+2019 kuppe19_tla_toolb_
 2019 oldenburg19_fixed_it_for_you
 2019 ross19_how
 2019 short19_adapt_ides_suppor_infor_forag_novic_progr
@@ -302,9 +309,12 @@
 2019 tonder19_light
 2020 monnier20_evolut_emacs_lisp
 2020 arawjo20_to_write_code_
+2020 brandon20_reflec_
 2020 kline20_what
 2020 mcguire20_pypar
 2020 parrish20_infor_concep_strat
+2020 vasiliev20_natur_languag_proces_python_spacy_
 2021 baccaris21_twine_grimoir
 2021 mullaney21_your_comput_fire
 2021 russell21_artif_intel_
+2022 pajankar22_hands_matpl_

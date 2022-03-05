@@ -86,6 +86,7 @@
 2012 shiffman12_natur_code
 2012 tontalo12_induc_proof
 2013 anon13_laws_logar
+2013 bressert13_scipy_numpy_
 2013 downey13_think_bayes
 2013 hartline13_mechan_desig_approx
 2013 james13_introd_to_statis_learn
@@ -103,6 +104,7 @@
 2014 wikipedia14_calcul_
 2015 chen15_probab_cheat
 2015 cooperstein15_advan_linear_algeb_
+2015 idris15_numpy_begin_guide_
 2016 anon16_projec_euler
 2016 beveridge16_networ_thron
 2016 bozoki16_applic_incom_pairw_compar_matric
@@ -137,4 +139,5 @@
 2019 moeller19_static
 2019 morrison19_tropic_geomet
 2020 allori20_statis_mechan_scien_explan_deter
-2021 21_dioph_
+2020 idris20_numpy_cookb_
+2021 grechuk21_dioph_
