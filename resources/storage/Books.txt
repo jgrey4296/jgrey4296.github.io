@@ -1,0 +1,8290 @@
+@book{SB:08,
+	Author = {Sara  Baase},
+	Title = {A Gift of Fire},
+	Publisher = {Prentice Hall},
+	Year = {2008},
+	Pages = {528 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9780135011379}
+}
+@book{SS:02,
+	Author = {Steven C. Smith},
+	Title = {A heart at fire's center},
+	Publisher = {Univ of California Pr},
+	Year = {2002},
+	Pages = {415 pages},
+	Keywords = {Biography & Autobiography},
+	Annote = {},
+	ISBN = {0520229398}
+}
+@book{IH:92,
+	Author = {Iain  Hampsher-Monk},
+	Title = {A history of modern political thought},
+	Publisher = {Wiley-Blackwell},
+	Year = {1992},
+	Pages = {609 pages},
+	Keywords = {History},
+	Annote = {},
+	ISBN = {1557861471}
+}
+@book{GH:01,
+	Author = {Grahame  Hill},
+	Title = {A level psychology through diagrams},
+	Publisher = {Oxford University Press},
+	Year = {2001},
+	Pages = {288 pages},
+	Keywords = {Psychology},
+	Annote = {},
+	ISBN = {0199134227}
+}
+@book{PD:99,
+	Author = {Philip K. Dick},
+	Title = {A scanner darkly},
+	Publisher = {Phoenix},
+	Year = {1999},
+	Pages = {217 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781857988475}
+}
+@book{JB:05,
+	Author = {John  Bowlby},
+	Title = {A secure base},
+	Publisher = {Taylor & Francis},
+	Year = {2005},
+	Pages = {204 pages},
+	Keywords = {Family & Relationships},
+	Annote = {},
+	ISBN = {9780415355278}
+}
+@book{NN:07,
+	Author = {Noam  Nisan},
+	Title = {Algorithmic game theory},
+	Publisher = {Cambridge Univ Pr},
+	Year = {2007},
+	Pages = {754 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9780521872829}
+}
+@book{KT:09,
+	Author = {Kostas  Terzidis},
+	Title = {Algorithms for visual design using the Processing language},
+	Publisher = {Wiley},
+	Year = {2009},
+	Pages = {354 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9780470375488}
+}
+@book{LC:92,
+	Author = {Lewis  Carroll},
+	Title = {Alice's adventures in Wonderland ; and, Through the looking glass},
+	Publisher = {Vintage},
+	Year = {1992},
+	Pages = {326 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {1857159047}
+}
+@book{DB:99,
+	Author = {Jack Du Bois and  William  Darby},
+	Title = {American film music},
+	Publisher = {McFarland & Co Inc Pub},
+	Year = {1999},
+	Pages = {605 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {0786407530}
+}
+@book{MF:09,
+	Author = {Monika  Fludernik},
+	Title = {An Introduction to Narratology},
+	Publisher = {Taylor & Francis},
+	Year = {2009},
+	Pages = {190 pages},
+	Keywords = {Language Arts & Disciplines},
+	Annote = {},
+	ISBN = {9780415450300}
+}
+@book{FD:96,
+	Author = {Janet  Finlay and  Alan  Dix},
+	Title = {An introduction to artificial intelligence},
+	Publisher = {CRC},
+	Year = {1996},
+	Pages = {276 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {1857283996}
+}
+@book{JP:80,
+	Author = {John Robinson Pierce},
+	Title = {An introduction to information theory},
+	Publisher = {Dover Pubns},
+	Year = {1980},
+	Pages = {305 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {0486240614}
+}
+@book{KU:05,
+	Author = {Margaret  Kiloh and  Open  University},
+	Title = {An introduction to the social sciences},
+	Publisher = {Open University},
+	Year = {2005},
+	Pages = {81 pages},
+	Keywords = {},
+	Annote = {},
+	ISBN = {0749253797}
+}
+@book{UMMG:05,
+	Author = {David  Goldblatt and  Gerry  Mooney and  Hugh  Mackay and  Open  University},
+	Title = {An introduction to the social sciences},
+	Publisher = {Open University},
+	Year = {2005},
+	Pages = {147 pages},
+	Keywords = {},
+	Annote = {},
+	ISBN = {0749268174}
+}
+@book{NC:98,
+	Author = {Nicholas  Cook},
+	Title = {Analysing musical multimedia},
+	Publisher = {Oxford University Press, USA},
+	Year = {1998},
+	Pages = {290 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {0198167377}
+}
+@book{NG:06,
+	Author = {Neil  Gaiman},
+	Title = {Anansi boys},
+	Publisher = {Headline Review},
+	Year = {2006},
+	Pages = {457 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780755305094}
+}
+@book{PT:97,
+	Author = {Paul  Théberge},
+	Title = {Any sound you can imagine},
+	Publisher = {Wesleyan Univ Pr},
+	Year = {1997},
+	Pages = {293 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {0819563099}
+}
+@book{MF:07,
+	Author = {Michel  Foucault},
+	Title = {Archaeology of knowledge},
+	Publisher = {Routledge},
+	Year = {2007},
+	Pages = {239 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {9780415287531}
+}
+@book{KV:08,
+	Author = {Kurt  Vonnegut},
+	Title = {Armageddon in Retrospect},
+	Publisher = {Jonathan Cape},
+	Year = {2008},
+	Pages = {240 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780224085397}
+}
+@book{CH:09,
+	Author = {Charles  Harrison},
+	Title = {Art in theory, 1900 - 2000},
+	Publisher = {Wiley-Blackwell},
+	Year = {2009},
+	Pages = {1258 pages},
+	Keywords = {Art},
+	Annote = {},
+	ISBN = {9780631227083}
+}
+@book{BW:06,
+	Author = {Bruce  Wands},
+	Title = {Art of the digital age},
+	Publisher = {Thames & Hudson},
+	Year = {2006},
+	Pages = {223 pages},
+	Keywords = {Art},
+	Annote = {},
+	ISBN = {0500286299}
+}
+@book{FP:97,
+	Author = {Frank  Popper},
+	Title = {Art of the electronic age},
+	Publisher = {Thames & Hudson},
+	Year = {1997},
+	Pages = {192 pages},
+	Keywords = {Art},
+	Annote = {},
+	ISBN = {0500279187}
+}
+@book{EC:87,
+	Author = {Eugene  Charniak},
+	Title = {Artificial intelligence programming},
+	Publisher = {Lawrence Erlbaum},
+	Year = {1987},
+	Pages = {533 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {0898596092}
+}
+@book{GB:04,
+	Author = {Ronen  Barzel and  Ken  Greenebaum},
+	Title = {Audio anecdotes},
+	Publisher = {A K Peters, Ltd.},
+	Year = {2004},
+	Pages = {489 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {1568811047}
+}
+@book{WC:04,
+	Author = {Christoph  Cox and  Daniel  Warner},
+	Title = {Audio culture},
+	Publisher = {Continuum Intl Pub Group},
+	Year = {2004},
+	Pages = {454 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {0826416152}
+}
+@book{WA:05,
+	Author = {Tim  Amyes and  Hilary  Wyatt},
+	Title = {Audio post production for television and film},
+	Publisher = {Focal Pr},
+	Year = {2005},
+	Pages = {286 pages},
+	Keywords = {Mathematics},
+	Annote = {},
+	ISBN = {0240519477}
+}
+@book{CM:94,
+	Author = {Michel  Chion and  Walter  Murch},
+	Title = {Audio-vision},
+	Publisher = {Columbia Univ Pr},
+	Year = {1994},
+	Pages = {239 pages},
+	Keywords = {Performing Arts},
+	Annote = {},
+	ISBN = {0231078994}
+}
+@book{GB:08,
+	Author = {Günter  Berghaus},
+	Title = {Avant-garde performance},
+	Publisher = {Palgrave Macmillan},
+	Year = {2008},
+	Pages = {374 pages},
+	Keywords = {Digital media},
+	Annote = {},
+	ISBN = {9781403946454}
+}
+@book{MG:93,
+	Author = {Matt  Groening},
+	Title = {Bart Simpson's guide to life},
+	Publisher = {HarperCollinsPublishers},
+	Year = {1993},
+	Pages = {186 pages},
+	Keywords = {Humor},
+	Annote = {},
+	ISBN = {0007110057}
+}
+@book{RH:01,
+	Author = {Richard  Holmes},
+	Title = {Battlefields of the Second World War},
+	Publisher = {Bbc Pubns},
+	Year = {2001},
+	Pages = {224 pages},
+	Keywords = {History},
+	Annote = {},
+	ISBN = {0563537825}
+}
+@book{WO:07,
+	Author = {Andrew  Oram and  Greg  Wilson},
+	Title = {Beautiful code},
+	Publisher = {O'Reilly Media, Inc.},
+	Year = {2007},
+	Pages = {593 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {0596510047}
+}
+@book{SC:07,
+	Author = {David  Schultz and  Craig  Cook},
+	Title = {Beginning HTML with CSS and XHTML},
+	Publisher = {Springer},
+	Year = {2007},
+	Pages = {427 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9781590597477}
+}
+@book{TM:05,
+	Author = {Michael  Trent and  Drew  McCormack},
+	Title = {Beginning Mac OS X programming},
+	Publisher = {Wrox},
+	Year = {2005},
+	Pages = {695 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {0764573993}
+}
+@book{WG:08,
+	Author = {W. Jason Gilmore},
+	Title = {Beginning PHP and MySQL},
+	Publisher = {Springer},
+	Year = {2008},
+	Pages = {1044 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9781590598627}
+}
+@book{MH:08,
+	Author = {Magnus Lie Hetland},
+	Title = {Beginning Python},
+	Publisher = {Springer},
+	Year = {2008},
+	Pages = {656 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9781590599822}
+}
+@book{PB:02,
+	Author = {Peter  Barry},
+	Title = {Beginning theory},
+	Publisher = {Manchester Univ Pr},
+	Year = {2002},
+	Pages = {290 pages},
+	Keywords = {Literary Criticism},
+	Annote = {},
+	ISBN = {9780719062681}
+}
+@book{BP:07,
+	Author = {Billie  Piper},
+	Title = {Billie Piper},
+	Publisher = {Hodder & Stoughton},
+	Year = {2007},
+	Pages = {368 pages},
+	Keywords = {Biography & Autobiography},
+	Annote = {},
+	ISBN = {0340938498}
+}
+@book{MT:88,
+	Author = {Grace  Monger and  Nuffield-Chelsea Curriculum Trust},
+	Title = {Biology},
+	Publisher = {Longman},
+	Year = {1988},
+	Pages = {314 pages},
+	Keywords = {Science},
+	Annote = {},
+	ISBN = {0582042577}
+}
+@book{MM:07,
+	Author = {Richard K. Morgan and  Richard  Morgan},
+	Title = {Black Man},
+	Publisher = {Egully.com},
+	Year = {2007},
+	Pages = {630 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780575078130}
+}
+@book{GT:98,
+	Author = {Gavin  Thorpe},
+	Title = {Blood Angels},
+	Publisher = {Games Workshop},
+	Year = {1998},
+	Pages = {16 pages},
+	Keywords = {Fantasy games},
+	Annote = {},
+	ISBN = {186989345X}
+}
+@book{RD:86,
+	Author = {Roald  Dahl},
+	Title = {Boy},
+	Publisher = {Penguin USA},
+	Year = {1986},
+	Pages = {176 pages},
+	Keywords = {Juvenile Nonfiction},
+	Annote = {},
+	ISBN = {0140318909}
+}
+@book{RC:02,
+	Author = {Richard  Cohen},
+	Title = {By the sword},
+	Publisher = {Macmillan},
+	Year = {2002},
+	Pages = {519 pages},
+	Keywords = {Sports & Recreation},
+	Annote = {},
+	ISBN = {0333901924}
+}
+@book{CP:91,
+	Author = {Korky  Paul and  Peter  Carter},
+	Title = {Captain Teachum's Buried Treasure},
+	Publisher = {Oxford University Press},
+	Year = {1991},
+	Pages = {32 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {0192722301}
+}
+@book{OT:07,
+	Author = {Open University Course  Team},
+	Title = {Challenging Psychological Issues},
+	Publisher = {Open University Worldwide},
+	Year = {2007},
+	Pages = {216 pages},
+	Keywords = {Psychology},
+	Annote = {},
+	ISBN = {9780749216290}
+}
+@book{AH:90,
+	Author = {Andrew  Hunt},
+	Title = {Chemistry},
+	Publisher = {Longman},
+	Year = {1990},
+	Pages = {336 pages},
+	Keywords = {Science},
+	Annote = {},
+	ISBN = {0582042569}
+}
+@book{JW:70,
+	Author = {John  Wyndham},
+	Title = {Chocky},
+	Publisher = {Penguin Books},
+	Year = {1970},
+	Pages = {153 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0140031219}
+}
+@book{CC:03,
+	Author = {Chris  Crawford},
+	Title = {Chris Crawford on game design},
+	Publisher = {New Riders Pub},
+	Year = {2003},
+	Pages = {476 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9780131460997}
+}
+@book{CC:05,
+	Author = {Chris  Crawford},
+	Title = {Chris Crawford on interactive storytelling},
+	Publisher = {New Riders Pub},
+	Year = {2005},
+	Pages = {366 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9780321278906}
+}
+@book{SM:04,
+	Author = {Steve  McConnell},
+	Title = {Code complete},
+	Publisher = {Microsoft Pr},
+	Year = {2004},
+	Pages = {914 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9780735619678}
+}
+@book{JJ:98,
+	Author = {J.  Johnson},
+	Title = {Codex Dark Eldar},
+	Publisher = {Games Workshop, Limited},
+	Year = {1998},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {1869893417}
+}
+@book{GW:01,
+	Author = {Games  Workshop},
+	Title = {Codex Tau},
+	Publisher = {Games Workshop Ltd},
+	Year = {2001},
+	Pages = {},
+	Keywords = {Games},
+	Annote = {},
+	ISBN = {1841540986}
+}
+@book{GW:98,
+	Author = {Games  Workshop},
+	Title = {Codex: Space Marines},
+	Publisher = {Games Workshop Ltd},
+	Year = {1998},
+	Pages = {48 pages},
+	Keywords = {Games},
+	Annote = {},
+	ISBN = {186989328X}
+}
+@book{RB:01,
+	Author = {Russell W. Belk},
+	Title = {Collecting in a consumer society},
+	Publisher = {Psychology Press},
+	Year = {2001},
+	Pages = {198 pages},
+	Keywords = {Antiques & Collectibles},
+	Annote = {},
+	ISBN = {0415258480}
+}
+@book{RD:99,
+	Author = {Richard  Davis},
+	Title = {Complete guide to film scoring},
+	Publisher = {Berklee Pr Pubns},
+	Year = {1999},
+	Pages = {378 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {0634006363}
+}
+@book{TW:01,
+	Author = {Todd  Winkler},
+	Title = {Composing interactive music},
+	Publisher = {The MIT Press},
+	Year = {2001},
+	Pages = {350 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {0262731398}
+}
+@book{ASR:88,
+	Author = {William  Russo and  Jeffrey  Ainis and  David  Stevenson},
+	Title = {Composing music},
+	Publisher = {University Of Chicago Press},
+	Year = {1988},
+	Pages = {230 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {0226732169}
+}
+@book{CSS:02,
+	Author = {Yiorgos  Chrysanthou and  Anthony  Steed and  Mel  Slater},
+	Title = {Computer graphics and virtual environments},
+	Publisher = {Addison Wesley},
+	Year = {2002},
+	Pages = {571 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {0201624206}
+}
+@book{DC:05,
+	Author = {David  Cope},
+	Title = {Computer models of musical creativity},
+	Publisher = {The MIT Press},
+	Year = {2005},
+	Pages = {462 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {0262033380}
+}
+@book{EM:02,
+	Author = {Eduardo Reck Miranda},
+	Title = {Computer sound design},
+	Publisher = {Focal Pr},
+	Year = {2002},
+	Pages = {263 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {0240516931}
+}
+@book{BN:96,
+	Author = {Bonnie A. Nardi},
+	Title = {Context and consciousness},
+	Publisher = {The MIT Press},
+	Year = {1996},
+	Pages = {400 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9780262140584}
+}
+@book{VJ:06,
+	Author = {Vera  John-Steiner},
+	Title = {Creative Collaboration},
+	Publisher = {Oxford University Press, USA},
+	Year = {2006},
+	Pages = {261 pages},
+	Keywords = {Language Arts & Disciplines},
+	Annote = {},
+	ISBN = {9780195307702}
+}
+@book{MC:97,
+	Author = {Mihály  Csíkszentmihályi},
+	Title = {Creativity},
+	Publisher = {Harper Perennial},
+	Year = {1997},
+	Pages = {456 pages},
+	Keywords = {Family & Relationships},
+	Annote = {},
+	ISBN = {9780060928209}
+}
+@book{TA:96,
+	Author = {Teresa  Amabile},
+	Title = {Creativity in context},
+	Publisher = {Westview Pr},
+	Year = {1996},
+	Pages = {317 pages},
+	Keywords = {Psychology},
+	Annote = {},
+	ISBN = {9780813330341}
+}
+@book{LCJ:01,
+	Author = {Anna  Craft and  Bob  Jeffrey and  Mike  Leibling},
+	Title = {Creativity in education},
+	Publisher = {Continuum Intl Pub Group},
+	Year = {2001},
+	Pages = {204 pages},
+	Keywords = {Education},
+	Annote = {},
+	ISBN = {0826448631}
+}
+@book{KN:08,
+	Author = {Kent L. Norman},
+	Title = {Cyberpsychology},
+	Publisher = {Cambridge Univ Pr},
+	Year = {2008},
+	Pages = {434 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9780521687027}
+}
+@book{TF:07,
+	Author = {Open University. DD121 Course  Team and  Ross  Fergusson},
+	Title = {DD121 Workbook 3},
+	Publisher = {Open University},
+	Year = {2007},
+	Pages = {77 pages},
+	Keywords = {},
+	Annote = {},
+	ISBN = {9780749216313}
+}
+@book{TGKHM:04,
+	Author = {David  Goldblatt and  Open University. DD121 Course  Team and  Bob  Kelly and  Gerry  Mooney and  Gordon  Hughes},
+	Title = {DD121 introductory chapter tales of fear and fascination},
+	Publisher = {The Open University},
+	Year = {2004},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {0749268115}
+}
+@book{TKU:07,
+	Author = {Open University. DD121 Course  Team and  Bob  Kelly and  Open  University},
+	Title = {DD121 introductory workbook},
+	Publisher = {Open University},
+	Year = {2007},
+	Pages = {58 pages},
+	Keywords = {},
+	Annote = {},
+	ISBN = {9780749216306}
+}
+@book{TGMWS:04,
+	Author = {Maureen  Mackintosh and  Open University. DD121 Course  Team and  Norma  Sherrat and  Kath  Woodward and  David  Goldglatt},
+	Title = {DD121 workbook 1},
+	Publisher = {The Open University},
+	Year = {2004},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {0749268131}
+}
+@book{DAL:06,
+	Author = {Dante  Alighieri and  Henry Wadsworth Longfellow and  GUSTAVE  DORE},
+	Title = {Dante's Divine Comedy},
+	Publisher = {Arcturus},
+	Year = {2006},
+	Pages = {383 pages},
+	Keywords = {Poetry},
+	Annote = {},
+	ISBN = {9780572032616}
+}
+@book{JL:04,
+	Author = {Jeff  Lindsay},
+	Title = {Darkly Dreaming Dexter},
+	Publisher = {Orion},
+	Year = {2004},
+	Pages = {288 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780752865744}
+}
+@book{MP:03,
+	Author = {Jonathan E. Pike and  Derek  Matravers},
+	Title = {Debates in contemporary political philosophy},
+	Publisher = {Routledge},
+	Year = {2003},
+	Pages = {454 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0415302110}
+}
+@book{BU:99,
+	Author = {Stuart  Brown and  Open  University},
+	Title = {Destiny, purpose and faith},
+	Publisher = {Open University},
+	Year = {1999},
+	Pages = {219 pages},
+	Keywords = {Human beings},
+	Annote = {},
+	ISBN = {0749287551}
+}
+@book{TC:93,
+	Author = {Tom  Chetwynd},
+	Title = {Dictionary of symbols},
+	Publisher = {Thorsons Pub},
+	Year = {1993},
+	Pages = {459 pages},
+	Keywords = {Body, Mind & Spirit},
+	Annote = {},
+	ISBN = {1855382962}
+}
+@book{CG:02,
+	Author = {Charlie  Gere},
+	Title = {Digital culture},
+	Publisher = {Reaktion Books},
+	Year = {2002},
+	Pages = {222 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {1861891431}
+}
+@book{SD:07,
+	Author = {Steve  Dixon},
+	Title = {Digital performance},
+	Publisher = {The MIT Press},
+	Year = {2007},
+	Pages = {809 pages},
+	Keywords = {Performing Arts},
+	Annote = {},
+	ISBN = {0262042355}
+}
+@book{KS:96,
+	Author = {Kenneth  Steiglitz},
+	Title = {Digital signal processing primer},
+	Publisher = {Prentice Hall},
+	Year = {1996},
+	Pages = {314 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {0805316841}
+}
+@book{PD:99,
+	Author = {Philip K. Dick},
+	Title = {Do androids dream of electric sheep?},
+	Publisher = {Phoenix},
+	Year = {1999},
+	Pages = {210 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857988132}
+}
+@book{WS:03,
+	Author = {Will  Self},
+	Title = {Dorian},
+	Publisher = {Penguin Books},
+	Year = {2003},
+	Pages = {277 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780140290561}
+}
+@book{PD:00,
+	Author = {Philip K. Dick},
+	Title = {Dr. Bloodmoney},
+	Publisher = {Millennium},
+	Year = {2000},
+	Pages = {304 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {185798952X}
+}
+@book{CJ:02,
+	Author = {Carl Gustav Jung},
+	Title = {Dreams},
+	Publisher = {Psychology Press},
+	Year = {2002},
+	Pages = {344 pages},
+	Keywords = {Dream interpretation},
+	Annote = {},
+	ISBN = {9780415267410}
+}
+@book{MB:08,
+	Author = {Matt  Barton},
+	Title = {Dungeons and desktops},
+	Publisher = {A K Peters Ltd},
+	Year = {2008},
+	Pages = {443 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9781568814117}
+}
+@book{RB:03,
+	Author = {Richard Ernest Bellman},
+	Title = {Dynamic Programming},
+	Publisher = {Dover Pubns},
+	Year = {2003},
+	Pages = {366 pages},
+	Keywords = {Mathematics},
+	Annote = {},
+	ISBN = {9780486428093}
+}
+@book{TL:02,
+	Author = {Thomas  Licata},
+	Title = {Electroacoustic music},
+	Publisher = {Praeger Pub Text},
+	Year = {2002},
+	Pages = {242 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {0313314209}
+}
+@book{AG:95,
+	Author = {Alan  Garner},
+	Title = {Elidor},
+	Publisher = {Collins},
+	Year = {1995},
+	Pages = {188 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0006742912}
+}
+@book{PS:08,
+	Author = {Penny  Sweetser},
+	Title = {Emergence in games},
+	Publisher = {Course Technology PTR},
+	Year = {2008},
+	Pages = {449 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9781584505518}
+}
+@book{GB:02,
+	Author = {Greg  Bear},
+	Title = {Eon},
+	Publisher = {Gollancz},
+	Year = {2002},
+	Pages = {504 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780575073166}
+}
+@book{AF:00,
+	Author = {Anne  Fadiman},
+	Title = {Ex libris},
+	Publisher = {Egully.com},
+	Year = {2000},
+	Pages = {131 pages},
+	Keywords = {Literary Collections},
+	Annote = {},
+	ISBN = {9780140283709}
+}
+@book{RS:06,
+	Author = {Robert Keith Sawyer},
+	Title = {Explaining creativity},
+	Publisher = {Oxford University Press, USA},
+	Year = {2006},
+	Pages = {354 pages},
+	Keywords = {Psychology},
+	Annote = {},
+	ISBN = {9780195304459}
+}
+@book{NW:09,
+	Author = {Noah  Wardrip-Fruin},
+	Title = {Expressive processing},
+	Publisher = {The MIT Press},
+	Year = {2009},
+	Pages = {482 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9780262013437}
+}
+@book{CP:97,
+	Author = {Chuck  Palahniuk},
+	Title = {Fight Club},
+	Publisher = {Vintage Books},
+	Year = {1997},
+	Pages = {208 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780099765219}
+}
+@book{RP:92,
+	Author = {Roy M. Prendergast},
+	Title = {Film music},
+	Publisher = {W. W. Norton & Company},
+	Year = {1992},
+	Pages = {329 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {039330874X}
+}
+@book{WH:06,
+	Author = {Pat  Harrigan and  Noah  Wardrip-Fruin},
+	Title = {First Person},
+	Publisher = {The MIT Press},
+	Year = {2006},
+	Pages = {331 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9780262731751}
+}
+@book{JS:09,
+	Author = {Robert J. Sawyer and  Robert  J.},
+	Title = {Flashforward},
+	Publisher = {Gollancz},
+	Year = {2009},
+	Pages = {320 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780575091016}
+}
+@book{IX:92,
+	Author = {Iannis  Xenakis},
+	Title = {Formalized music},
+	Publisher = {Pendragon Pr},
+	Year = {1992},
+	Pages = {387 pages},
+	Keywords = {Mathematics},
+	Annote = {},
+	ISBN = {1576470792}
+}
+@book{CJ:03,
+	Author = {Carl Gustav Jung},
+	Title = {Four archetypes},
+	Publisher = {Psychology Press},
+	Year = {2003},
+	Pages = {201 pages},
+	Keywords = {Psychology},
+	Annote = {},
+	ISBN = {0415304415}
+}
+@book{TB:04,
+	Author = {Tony  Benn},
+	Title = {Free Radical},
+	Publisher = {Continuum Intl Pub Group},
+	Year = {2004},
+	Pages = {246 pages},
+	Keywords = {History},
+	Annote = {},
+	ISBN = {0826474004}
+}
+@book{JF:94,
+	Author = {Joel  Feinberg},
+	Title = {Freedom and fulfillment},
+	Publisher = {Princeton Univ Pr},
+	Year = {1994},
+	Pages = {374 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {069101924X}
+}
+@book{RWM:93,
+	Author = {Jean-Arcady  Meyer and  H. L. Roitblat and  Stewart W. Wilson},
+	Title = {From animals to animats 2},
+	Publisher = {The MIT Press},
+	Year = {1993},
+	Pages = {523 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9780262631495}
+}
+@book{MR:91,
+	Author = {Michael  Rosen},
+	Title = {Funny stories},
+	Publisher = {Kingfisher Books},
+	Year = {1991},
+	Pages = {253 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {0862728010}
+}
+@book{MW:07,
+	Author = {McKenzie  Wark},
+	Title = {Gamer theory},
+	Publisher = {Harvard Univ Pr},
+	Year = {2007},
+	Pages = {240 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9780674025196}
+}
+@book{ER:07,
+	Author = {Eric  Rasmusen},
+	Title = {Games and information},
+	Publisher = {Wiley-Blackwell},
+	Year = {2007},
+	Pages = {528 pages},
+	Keywords = {Business & Economics},
+	Annote = {},
+	ISBN = {9781405136662}
+}
+@book{QB:06,
+	Author = {Matteo  Bittanti and  Domenico  Quaranta},
+	Title = {Gamescenes},
+	Publisher = {Johan & Levi Editore},
+	Year = {2006},
+	Pages = {454 pages},
+	Keywords = {Travel},
+	Annote = {},
+	ISBN = {8860100100}
+}
+@book{EC:03,
+	Author = {Erick  Cantù-Paz},
+	Title = {Genetic and evolutionary computation--GECCO 2003},
+	Publisher = {Springer},
+	Year = {2003},
+	Pages = {2520 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {3540406034}
+}
+@book{CP:00,
+	Author = {Philip  Pedley and  Martin  Collier},
+	Title = {Germany 1919-45},
+	Publisher = {Heinemann},
+	Year = {2000},
+	Pages = {262 pages},
+	Keywords = {History},
+	Annote = {},
+	ISBN = {0435327216}
+}
+@book{SEJD:08,
+	Author = {Frederic  Jameson and  Jacques  Derrida and  Michael  Sprinker and  Terry  Eagleton},
+	Title = {Ghostly Demarcations},
+	Publisher = {Verso Books},
+	Year = {2008},
+	Pages = {278 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {9781844672110}
+}
+@book{JG:01,
+	Author = {Jes  Goodwin},
+	Title = {Gothic and the Eldritch},
+	Publisher = {Black Library, The},
+	Year = {2001},
+	Pages = {80 pages},
+	Keywords = {Fantasy in art},
+	Annote = {},
+	ISBN = {1841541486}
+}
+@book{MJ:01,
+	Author = {Anita  Jeram and  Sam  McBratney},
+	Title = {Guess How Much I Love You},
+	Publisher = {Walker},
+	Year = {2001},
+	Pages = {32 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0744581893}
+}
+@book{JJ:05,
+	Author = {Jesper  Juul},
+	Title = {Half-real},
+	Publisher = {The MIT Press},
+	Year = {2005},
+	Pages = {233 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9780262101103}
+}
+@book{JM:98,
+	Author = {Janet Horowitz Murray},
+	Title = {Hamlet on the holodeck},
+	Publisher = {The MIT Press},
+	Year = {1998},
+	Pages = {324 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9780262631877}
+}
+@book{TH:06,
+	Author = {Thomas  Harris},
+	Title = {Hannibal rising},
+	Publisher = {William Heinemann},
+	Year = {2006},
+	Pages = {323 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0434014087}
+}
+@book{KL:05,
+	Author = {Karen  Legge},
+	Title = {Heinemann psychology A2 for OCR},
+	Publisher = {Heinemann},
+	Year = {2005},
+	Pages = {373 pages},
+	Keywords = {A-level examinations},
+	Annote = {},
+	ISBN = {0435806718}
+}
+@book{BR:04,
+	Author = {Bertrand  Russell},
+	Title = {History of western philosophy},
+	Publisher = {Psychology Press},
+	Year = {2004},
+	Pages = {778 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0415325056}
+}
+@book{HJ:08,
+	Author = {Henry  Jacoby},
+	Title = {House and philosophy},
+	Publisher = {Wiley},
+	Year = {2008},
+	Pages = {261 pages},
+	Keywords = {Performing Arts},
+	Annote = {},
+	ISBN = {9780470316603}
+}
+@book{AG:97,
+	Author = {Angela  Gair},
+	Title = {How to draw anything},
+	Publisher = {Parragon},
+	Year = {1997},
+	Pages = {160 pages},
+	Keywords = {Art},
+	Annote = {},
+	ISBN = {0752536672}
+}
+@book{RU:99,
+	Author = {Open  University and  Janet Radcliffe Richards},
+	Title = {Human nature after Darwin},
+	Publisher = {Open University},
+	Year = {1999},
+	Pages = {351 pages},
+	Keywords = {Human evolution},
+	Annote = {},
+	ISBN = {0749287535}
+}
+@book{HU:99,
+	Author = {Open  University and  Rosalind  Hursthouse},
+	Title = {Humans and other animals},
+	Publisher = {Open University},
+	Year = {1999},
+	Pages = {306 pages},
+	Keywords = {Human beings},
+	Annote = {},
+	ISBN = {0749287519}
+}
+@book{BD:91,
+	Author = {Emily  Berk and  Joseph  Devlin},
+	Title = {Hypertext/hypermedia handbook},
+	Publisher = {McGraw-Hill},
+	Year = {1991},
+	Pages = {583 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {0070166226}
+}
+@book{RB:77,
+	Author = {Roland  Barthes},
+	Title = {Image, music, text},
+	Publisher = {Fontana Press},
+	Year = {1977},
+	Pages = {220 pages},
+	Keywords = {Literary Criticism},
+	Annote = {},
+	ISBN = {0006861350}
+}
+@book{PP:07,
+	Author = {Peter  Pirolli},
+	Title = {Information foraging theory},
+	Publisher = {Oxford University Press, USA},
+	Year = {2007},
+	Pages = {204 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9780195173321}
+}
+@book{GW:00,
+	Author = {Games  Workshop},
+	Title = {Inquis exterminatus},
+	Publisher = {Games Workshop},
+	Year = {2000},
+	Pages = {144 pages},
+	Keywords = {Warhammer (Game)},
+	Annote = {},
+	ISBN = {184154034X}
+}
+@book{GT:01,
+	Author = {Gavin  Thorpe},
+	Title = {Inquisitor},
+	Publisher = {Games Workshop},
+	Year = {2001},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {1841540773}
+}
+@book{PSR:07,
+	Author = {Helen  Sharp and  Yvonne  Rogers and  Jenny  Preece},
+	Title = {Interaction design},
+	Publisher = {John Wiley & Sons Inc},
+	Year = {2007},
+	Pages = {773 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9780470018668}
+}
+@book{RA:10,
+	Author = {Ruth  Aylett},
+	Title = {Interactive Storytelling},
+	Publisher = {Springer-Verlag New York Inc},
+	Year = {2010},
+	Pages = {302 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9783642166372}
+}
+@book{AG:04,
+	Author = {Andrew S. Glassner},
+	Title = {Interactive storytelling},
+	Publisher = {A K Peters, Ltd.},
+	Year = {2004},
+	Pages = {511 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {1568812213}
+}
+@book{BG:00,
+	Author = {Philip  Banyard and  Andrew  Grayson},
+	Title = {Introducing psychological research},
+	Publisher = {Palgrave},
+	Year = {2000},
+	Pages = {531 pages},
+	Keywords = {Psychology},
+	Annote = {},
+	ISBN = {0333912519}
+}
+@book{CB:94,
+	Author = {Charlotte  Brontë},
+	Title = {Jane Eyre},
+	Publisher = {Puffin},
+	Year = {1994},
+	Pages = {656 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {0140366784}
+}
+@book{RG:53,
+	Author = {Roger Lancelyn Green},
+	Title = {King Arthur and his Knights of the Round Table},
+	Publisher = {Puffin},
+	Year = {1953},
+	Pages = {330 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {0140366709}
+}
+@book{AG:67,
+	Author = {A. Phillips Griffiths},
+	Title = {Knowledge and belief},
+	Publisher = {Oxford University Press, USA},
+	Year = {1967},
+	Pages = {358 pages},
+	Keywords = {History},
+	Annote = {},
+	ISBN = {019875003X}
+}
+@book{PC:99,
+	Author = {Peter  Chippindale},
+	Title = {Laptop of the gods},
+	Publisher = {Pocket Books},
+	Year = {1999},
+	Pages = {420 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0671855689}
+}
+@book{MD:10,
+	Author = {Michael  Daley},
+	Title = {Learning IOS Game Programming},
+	Publisher = {Addison-Wesley Professional},
+	Year = {2010},
+	Pages = {413 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9780321699428}
+}
+@book{KN:05,
+	Author = {Jonathan  Knudsen and  Patrick  Niemeyer},
+	Title = {Learning Java},
+	Publisher = {O'Reilly Media},
+	Year = {2005},
+	Pages = {954 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9780596008734}
+}
+@book{BS:03,
+	Author = {Ben  Shneiderman},
+	Title = {Leonardo's laptop},
+	Publisher = {The MIT Press},
+	Year = {2003},
+	Pages = {281 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9780262692991}
+}
+@book{RW:03,
+	Author = {Richard  Williams},
+	Title = {Liber Chaotica},
+	Publisher = {Black Library, The},
+	Year = {2003},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {1841542725}
+}
+@book{,
+	Author = {},
+	Title = {Liberals and communitarians},
+	Publisher = {Wiley-Blackwell},
+	Year = {2005},
+	Pages = {363 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0631198199}
+}
+@book{YM:03,
+	Author = {Yann  Martel},
+	Title = {Life of Pi},
+	Publisher = {Canongate Books Ltd},
+	Year = {2003},
+	Pages = {319 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781841953922}
+}
+@book{TN:92,
+	Author = {Theodor H. Nelson},
+	Title = {Literary machines},
+	Publisher = {Mindful Pr},
+	Year = {1992},
+	Pages = {286 pages},
+	Keywords = {Literary Criticism},
+	Annote = {},
+	ISBN = {9780893470623}
+}
+@book{PA:99,
+	Author = {Philip  Auslander},
+	Title = {Liveness},
+	Publisher = {Psychology Press},
+	Year = {1999},
+	Pages = {179 pages},
+	Keywords = {Business & Economics},
+	Annote = {},
+	ISBN = {0415196906}
+}
+@book{RR:04,
+	Author = {Robert  Rowe},
+	Title = {Machine Musicianship},
+	Publisher = {The MIT Press},
+	Year = {2004},
+	Pages = {411 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {0262681498}
+}
+@book{UT:07,
+	Author = {Open University. Exploring Psychology Course  Team and  Open  University},
+	Title = {Mapping Psychology: Chapters 6-9},
+	Publisher = {Open University},
+	Year = {2007},
+	Pages = {250 pages},
+	Keywords = {Psychology},
+	Annote = {},
+	ISBN = {9780749216283}
+}
+@book{KK:02,
+	Author = {Bob  Katz and  Robert A. Katz},
+	Title = {Mastering audio},
+	Publisher = {Focal Press},
+	Year = {2002},
+	Pages = {319 pages},
+	Keywords = {Education},
+	Annote = {},
+	ISBN = {0240805453}
+}
+@book{AH:01,
+	Author = {Anthony  Harrison-Barbet},
+	Title = {Mastering philosophy},
+	Publisher = {InBook SA},
+	Year = {2001},
+	Pages = {509 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0333793846}
+}
+@book{JG:02,
+	Author = {John  Gray},
+	Title = {Men are from Mars, women are from Venus},
+	Publisher = {HarperThorsons},
+	Year = {2002},
+	Pages = {307 pages},
+	Keywords = {Family & Relationships},
+	Annote = {},
+	ISBN = {0007152590}
+}
+@book{DG:09,
+	Author = {Dmitry  Glukhovsky},
+	Title = {Metro 2033},
+	Publisher = {Gollancz},
+	Year = {2009},
+	Pages = {488 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780575086241}
+}
+@book{TS:06,
+	Author = {Thomas C. Schelling},
+	Title = {Micromotives and macrobehavior},
+	Publisher = {W. W. Norton & Company},
+	Year = {2006},
+	Pages = {270 pages},
+	Keywords = {Business & Economics},
+	Annote = {},
+	ISBN = {9780393329469}
+}
+@book{CR:04,
+	Author = {Curtis  Roads},
+	Title = {Microsound},
+	Publisher = {The MIT Press},
+	Year = {2004},
+	Pages = {409 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {0262681544}
+}
+@book{TA:05,
+	Author = {Theodor W. Adorno},
+	Title = {Minima moralia},
+	Publisher = {Verso Books},
+	Year = {2005},
+	Pages = {251 pages},
+	Keywords = {Biography & Autobiography},
+	Annote = {},
+	ISBN = {1844670511}
+}
+@book{SF:98,
+	Author = {Stephen  Fry},
+	Title = {Moab is my washpot},
+	Publisher = {Arrow Books},
+	Year = {1998},
+	Pages = {436 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0099727315}
+}
+@book{PG:95,
+	Author = {Paul  Griffiths},
+	Title = {Modern music and after},
+	Publisher = {Oxford University Press, USA},
+	Year = {1995},
+	Pages = {373 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {0198165110}
+}
+@book{AG:91,
+	Author = {Anthony  Giddens},
+	Title = {Modernity and self-identity},
+	Publisher = {Polity},
+	Year = {1991},
+	Pages = {256 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {9780745609324}
+}
+@book{IL:00,
+	Author = {Iara  Lee},
+	Title = {Modulations},
+	Publisher = {Distributed Art Pub Inc},
+	Year = {2000},
+	Pages = {255 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {189102406X}
+}
+@book{VP:68,
+	Author = {Vladimir I︠A︡kovlevich Propp},
+	Title = {Morphology of the folktale},
+	Publisher = {Univ of Texas Pr},
+	Year = {1968},
+	Pages = {158 pages},
+	Keywords = {Literary Criticism},
+	Annote = {},
+	ISBN = {9780292783768}
+}
+@book{RM:01,
+	Author = {David  McKee and  Tess  Read},
+	Title = {Mr Benn's Little Book of Life},
+	Publisher = {Arrow},
+	Year = {2001},
+	Pages = {176 pages},
+	Keywords = {Humor},
+	Annote = {},
+	ISBN = {0099436493}
+}
+@book{NC:92,
+	Author = {Nicholas  Cook},
+	Title = {Music, imagination, and culture},
+	Publisher = {Oxford University Press, USA},
+	Year = {1992},
+	Pages = {265 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {0198163037}
+}
+@book{CR:97,
+	Author = {Curtis  Roads},
+	Title = {Musical signal processing},
+	Publisher = {Routledge},
+	Year = {1997},
+	Pages = {477 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {9026514824}
+}
+@book{RB:09,
+	Author = {Roland  Barthes},
+	Title = {Mythologies},
+	Publisher = {Vintage Classics},
+	Year = {2009},
+	Pages = {208 pages},
+	Keywords = {Literary Collections},
+	Annote = {},
+	ISBN = {9780099529750}
+}
+@book{MR:04,
+	Author = {Marie-Laure  Ryan},
+	Title = {Narrative across media},
+	Publisher = {Univ of Nebraska Pr},
+	Year = {2004},
+	Pages = {422 pages},
+	Keywords = {Language Arts & Disciplines},
+	Annote = {},
+	ISBN = {9780803289932}
+}
+@book{MR:03,
+	Author = {Marie-Laure  Ryan},
+	Title = {Narrative as virtual reality},
+	Publisher = {Johns Hopkins Univ Pr},
+	Year = {2003},
+	Pages = {416 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {0801877539}
+}
+@book{JA:95,
+	Author = {James  Allen},
+	Title = {Natural language understanding},
+	Publisher = {Addison-Wesley},
+	Year = {1995},
+	Pages = {654 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {0805303340}
+}
+@book{JS:00,
+	Author = {Jean-Paul  Sartre},
+	Title = {Nausea},
+	Publisher = {Penguin Modern Classics},
+	Year = {2000},
+	Pages = {272 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780141185491}
+}
+@book{WG:95,
+	Author = {William  Gibson},
+	Title = {Neuromancer},
+	Publisher = {Voyager},
+	Year = {1995},
+	Pages = {317 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780006480419}
+}
+@book{JA:85,
+	Author = {Jacques  Attali},
+	Title = {Noise},
+	Publisher = {Manchester University Press},
+	Year = {1985},
+	Pages = {179 pages},
+	Keywords = {},
+	Annote = {},
+	ISBN = {0816612870}
+}
+@book{PH:07,
+	Author = {Paul  Hegarty},
+	Title = {Noise/music},
+	Publisher = {Continuum Intl Pub Group},
+	Year = {2007},
+	Pages = {221 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {9780826417275}
+}
+@book{DT:01,
+	Author = {David  Toop},
+	Title = {Ocean of Sound},
+	Publisher = {Serpents Tail},
+	Year = {2001},
+	Pages = {320 pages},
+	Keywords = {Art},
+	Annote = {},
+	ISBN = {1852427434}
+}
+@book{WE:96,
+	Author = {Simon  Emmerson and  Trevor  Wishart},
+	Title = {On sonic art},
+	Publisher = {Routledge},
+	Year = {1996},
+	Pages = {357 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {371865847X}
+}
+@book{AC:03,
+	Author = {Agatha  Christie},
+	Title = {Ordeal by Innocence},
+	Publisher = {Harpercollins Pub Ltd},
+	Year = {2003},
+	Pages = {320 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780007154913}
+}
+@book{UHF:04,
+	Author = {Open  University and  Ross  Fergusson and  Gordon  Hughes},
+	Title = {Ordering lives},
+	Publisher = {Routledge},
+	Year = {2004},
+	Pages = {177 pages},
+	Keywords = {Political Science},
+	Annote = {},
+	ISBN = {0415329728}
+}
+@book{RB:94,
+	Author = {Royal S. Brown},
+	Title = {Overtones and undertones},
+	Publisher = {Univ of California Pr},
+	Year = {1994},
+	Pages = {396 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {9780520085442}
+}
+@book{KC:94,
+	Author = {Ernie  Contreras and  David  Kirshner},
+	Title = {Pagemaster},
+	Publisher = {Kingfisher Publications, plc},
+	Year = {1994},
+	Pages = {96 pages},
+	Keywords = {},
+	Annote = {},
+	ISBN = {1856972763}
+}
+@book{PD:03,
+	Author = {Philip Kindred Dick},
+	Title = {Paycheck},
+	Publisher = {Gollancz},
+	Year = {2003},
+	Pages = {312 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {057507583X}
+}
+@book{JH:06,
+	Author = {Joe  Haldeman},
+	Title = {Peace and war},
+	Publisher = {Gollancz},
+	Year = {2006},
+	Pages = {697 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0575079193}
+}
+@book{MP:90,
+	Author = {Morgan Scott Peck},
+	Title = {People of the lie},
+	Publisher = {Vintage},
+	Year = {1990},
+	Pages = {311 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0099728605}
+}
+@book{BM:06,
+	Author = {Josephine  Machon and  Susan  Broadhurst},
+	Title = {Performance and technology},
+	Publisher = {Palgrave MacMillan},
+	Year = {2006},
+	Pages = {203 pages},
+	Keywords = {Art},
+	Annote = {},
+	ISBN = {9781403999078}
+}
+@book{RS:03,
+	Author = {Richard  Schechner},
+	Title = {Performance theory},
+	Publisher = {Psychology Press},
+	Year = {2003},
+	Pages = {407 pages},
+	Keywords = {Art},
+	Annote = {},
+	ISBN = {0415314550}
+}
+@book{SF:98,
+	Author = {Simon  Frith},
+	Title = {Performing rites},
+	Publisher = {Harvard Univ Pr},
+	Year = {1998},
+	Pages = {352 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {0674661966}
+}
+@book{AM:96,
+	Author = {Aloysius  Martinich},
+	Title = {Philosophical writing},
+	Publisher = {Wiley-Blackwell},
+	Year = {1996},
+	Pages = {200 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0631202811}
+}
+@book{AM:96,
+	Author = {Adam  Morton},
+	Title = {Philosophy in practice},
+	Publisher = {Wiley-Blackwell},
+	Year = {1996},
+	Pages = {488 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0631188657}
+}
+@book{BU:99,
+	Author = {Open  University and  John  Benson},
+	Title = {Philosopy and the human situation},
+	Publisher = {Open University},
+	Year = {1999},
+	Pages = {320 pages},
+	Keywords = {Environmental ethics},
+	Annote = {},
+	ISBN = {0749287527}
+}
+@book{DB:88,
+	Author = {Geoffrey  Dorling and  Alan  Boyle},
+	Title = {Physics},
+	Publisher = {Longman},
+	Year = {1988},
+	Pages = {331 pages},
+	Keywords = {Science},
+	Annote = {},
+	ISBN = {0582042550}
+}
+@book{FP:07,
+	Author = {Frederik  Pohl},
+	Title = {Platinum Pohl},
+	Publisher = {Orb Books},
+	Year = {2007},
+	Pages = {464 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780765301451}
+}
+@book{HE:02,
+	Author = {Harry  Eyres},
+	Title = {Plato's The Republic},
+	Publisher = {Hodder & Stoughton},
+	Year = {2002},
+	Pages = {84 pages},
+	Keywords = {Biography & Autobiography},
+	Annote = {},
+	ISBN = {0340804203}
+}
+@book{GC:05,
+	Author = {Omayra Zaragoza Cruz and  Raiford  Guins},
+	Title = {Popular culture},
+	Publisher = {Sage Publications Ltd},
+	Year = {2005},
+	Pages = {549 pages},
+	Keywords = {Social Science},
+	Annote = {},
+	ISBN = {9780761974727}
+}
+@book{MR:91,
+	Author = {Marie-Laure  Ryan},
+	Title = {Possible worlds, artificial intelligence, and narrative theory},
+	Publisher = {Indiana Univ Pr},
+	Year = {1991},
+	Pages = {291 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {0253350042}
+}
+@book{PW:92,
+	Author = {Patricia  Waugh},
+	Title = {Postmodernism},
+	Publisher = {A Hodder Arnold Publication},
+	Year = {1992},
+	Pages = {226 pages},
+	Keywords = {Literary Criticism},
+	Annote = {},
+	ISBN = {0340573813}
+}
+@book{HH:04,
+	Author = {S. E. Haupt and  Randy L. Haupt},
+	Title = {Practical genetic algorithms},
+	Publisher = {Wiley-Interscience},
+	Year = {2004},
+	Pages = {253 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9780471455653}
+}
+@book{GJ:06,
+	Author = {Gregory  Junker},
+	Title = {Pro OGRE 3D programming},
+	Publisher = {Apress},
+	Year = {2006},
+	Pages = {288 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {1590597109}
+}
+@book{RF:07,
+	Author = {Ben  Fry and  Casey  Reas},
+	Title = {Processing},
+	Publisher = {The MIT Press},
+	Year = {2007},
+	Pages = {710 pages},
+	Keywords = {Art},
+	Annote = {},
+	ISBN = {9780262182621}
+}
+@book{RI:06,
+	Author = {Roberto  Ierusalimschy},
+	Title = {Programming in Lua},
+	Publisher = {Roberto Ierusalimschy},
+	Year = {2006},
+	Pages = {328 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {8590379825}
+}
+@book{SK:04,
+	Author = {Stephen G. Kochan},
+	Title = {Programming in objective-C},
+	Publisher = {Sams Publishing},
+	Year = {2004},
+	Pages = {556 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {0672325861}
+}
+@book{KW:04,
+	Author = {Kath  Woodward},
+	Title = {Questioning identity},
+	Publisher = {Other},
+	Year = {2004},
+	Pages = {162 pages},
+	Keywords = {Psychology},
+	Annote = {},
+	ISBN = {041532968X}
+}
+@book{JH:08,
+	Author = {Jeff  Howard},
+	Title = {Quests},
+	Publisher = {A K Peters Ltd},
+	Year = {2008},
+	Pages = {230 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9781568813479}
+}
+@book{LG:02,
+	Author = {Lois G. Gordon},
+	Title = {Reading Godot},
+	Publisher = {Yale Univ Pr},
+	Year = {2002},
+	Pages = {214 pages},
+	Keywords = {Literary Criticism},
+	Annote = {},
+	ISBN = {0300092865}
+}
+@book{TH:91,
+	Author = {Thomas  Harris},
+	Title = {Red dragon},
+	Publisher = {Bounty Books},
+	Year = {1991},
+	Pages = {533 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1850522316}
+}
+@book{MP:06,
+	Author = {Marcel  Proust},
+	Title = {Remembrance of Things Past},
+	Publisher = {Wordsworth Editions},
+	Year = {2006},
+	Pages = {1360 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781840221466}
+}
+@book{LN:09,
+	Author = {Larry  Niven},
+	Title = {Ringworld},
+	Publisher = {Victor Gollancz Limited},
+	Year = {2009},
+	Pages = {336 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780575082540}
+}
+@book{UB:92,
+	Author = {Ulrich  Beck},
+	Title = {Risk society},
+	Publisher = {Sage Publications Ltd},
+	Year = {1992},
+	Pages = {260 pages},
+	Keywords = {Political Science},
+	Annote = {},
+	ISBN = {9780803983465}
+}
+@book{SZ:04,
+	Author = {Eric  Zimmerman and  Katie  Salen},
+	Title = {Rules of play},
+	Publisher = {The MIT Press},
+	Year = {2004},
+	Pages = {672 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9780262240451}
+}
+@book{LR:65,
+	Author = {Lee T. Lemon and  Marion J. Reis},
+	Title = {Russian formalist criticism},
+	Publisher = {Univ of Nebraska Pr},
+	Year = {1965},
+	Pages = {143 pages},
+	Keywords = {Literary Criticism},
+	Annote = {},
+	ISBN = {9780803254602}
+}
+@book{NL:95,
+	Author = {Nancy  Leveson},
+	Title = {SafeWare},
+	Publisher = {Addison-Wesley Professional},
+	Year = {1995},
+	Pages = {680 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {0201119722}
+}
+@book{NS:96,
+	Author = {Neil  Storey},
+	Title = {Safety-critical computer systems},
+	Publisher = {Addison Wesley},
+	Year = {1996},
+	Pages = {453 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {0201427877}
+}
+@book{BS:02,
+	Author = {Ben  Schott},
+	Title = {Schott's original miscellany},
+	Publisher = {Egully.com},
+	Year = {2002},
+	Pages = {158 pages},
+	Keywords = {Humor},
+	Annote = {},
+	ISBN = {0747563209}
+}
+@book{HW:07,
+	Author = {Noah  Wardrip-Fruin and  Pat  Harrigan},
+	Title = {Second person},
+	Publisher = {The MIT Press},
+	Year = {2007},
+	Pages = {408 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9780262083560}
+}
+@book{SS:04,
+	Author = {Sebastien  St-Laurent},
+	Title = {Shaders for Game Programmers and Artists},
+	Publisher = {Course Technology Ptr},
+	Year = {2004},
+	Pages = {483 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {1592000924}
+}
+@book{JC:73,
+	Author = {John  Cage},
+	Title = {Silence},
+	Publisher = {Wesleyan Univ Pr},
+	Year = {1973},
+	Pages = {276 pages},
+	Keywords = {Biography & Autobiography},
+	Annote = {},
+	ISBN = {0819560286}
+}
+@book{KV:91,
+	Author = {Kurt  Vonnegut},
+	Title = {Slaughterhouse-five, or, The children's crusade},
+	Publisher = {Vintage Books},
+	Year = {1991},
+	Pages = {157 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780099800200}
+}
+@book{WM:04,
+	Author = {Leslie  Willcocks and  John  Mingers},
+	Title = {Social theory and philosophy for information systems},
+	Publisher = {Wiley},
+	Year = {2004},
+	Pages = {455 pages},
+	Keywords = {Business & Economics},
+	Annote = {},
+	ISBN = {0470851171}
+}
+@book{IS:07,
+	Author = {Ian  Sommerville},
+	Title = {Software engineering},
+	Publisher = {Addison-Wesley Longman},
+	Year = {2007},
+	Pages = {840 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {0321313798}
+}
+@book{DH:99,
+	Author = {Debra S. Herrmann},
+	Title = {Software safety and reliability},
+	Publisher = {Wiley-IEEE Computer Society Pr},
+	Year = {1999},
+	Pages = {503 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9780769502991}
+}
+@book{RM:06,
+	Author = {Francis  Rumsey and  Tim  McCormick},
+	Title = {Sound and recording},
+	Publisher = {Focal Pr},
+	Year = {2006},
+	Pages = {569 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {0240519965}
+}
+@book{DS:01,
+	Author = {David  Sonnenschein},
+	Title = {Sound design},
+	Publisher = {Michael Wiese},
+	Year = {2001},
+	Pages = {245 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {0941188264}
+}
+@book{MR:04,
+	Author = {Martin  Russ},
+	Title = {Sound synthesis and sampling},
+	Publisher = {Focal Pr},
+	Year = {2004},
+	Pages = {473 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {0240516923}
+}
+@book{FSS:03,
+	Author = {Larry  Sider and  Jerry  Sider and  Diane  Freeman},
+	Title = {Soundscape},
+	Publisher = {Wallflower Pr},
+	Year = {2003},
+	Pages = {242 pages},
+	Keywords = {Performing Arts},
+	Annote = {},
+	ISBN = {1903364590}
+}
+@book{BS:96,
+	Author = {Bill  Smith},
+	Title = {Star Wars: essential guide to vehicles},
+	Publisher = {Boxtree},
+	Year = {1996},
+	Pages = {201 pages},
+	Keywords = {Performing Arts},
+	Annote = {},
+	ISBN = {075220114X}
+}
+@book{BS:98,
+	Author = {Bill  Smith},
+	Title = {Star Wars: essential guide to weapons},
+	Publisher = {Boxtree},
+	Year = {1998},
+	Pages = {213 pages},
+	Keywords = {Science},
+	Annote = {},
+	ISBN = {0752223380}
+}
+@book{AM:96,
+	Author = {Andy  Mangels},
+	Title = {Star wars: Essential Guide to characters},
+	Publisher = {Boxtree},
+	Year = {1996},
+	Pages = {199 pages},
+	Keywords = {Performing Arts},
+	Annote = {},
+	ISBN = {0752201093}
+}
+@book{BE:89,
+	Author = {Ben  Elton},
+	Title = {Stark},
+	Publisher = {Sphere},
+	Year = {1989},
+	Pages = {452 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0747403902}
+}
+@book{VV:08,
+	Author = {Jeff  VanderMeer and  Ann  VanderMeer},
+	Title = {Steampunk},
+	Publisher = {Tachyon Pubns},
+	Year = {2008},
+	Pages = {373 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781892391759}
+}
+@book{TT:01,
+	Author = {Timothy Dean Taylor},
+	Title = {Strange sounds},
+	Publisher = {Psychology Press},
+	Year = {2001},
+	Pages = {278 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {0415936845}
+}
+@book{TH:03,
+	Author = {Terence  Hawkes},
+	Title = {Structuralism and semiotics},
+	Publisher = {Psychology Press},
+	Year = {2003},
+	Pages = {176 pages},
+	Keywords = {Literary Criticism},
+	Annote = {},
+	ISBN = {9780415321532}
+}
+@book{NC:02,
+	Author = {Noam  Chomsky},
+	Title = {Syntactic structures},
+	Publisher = {Walter de Gruyter},
+	Year = {2002},
+	Pages = {117 pages},
+	Keywords = {Language Arts & Disciplines},
+	Annote = {},
+	ISBN = {3110172798}
+}
+@book{TH:05,
+	Author = {Terence  Hawkes},
+	Title = {That Shakespeherian rag},
+	Publisher = {Psychology Press},
+	Year = {2005},
+	Pages = {131 pages},
+	Keywords = {Literary Criticism},
+	Annote = {},
+	ISBN = {0415352924}
+}
+@book{ET:89,
+	Author = {Eric  Taylor},
+	Title = {The AB guide to music theory},
+	Publisher = {Associated Board of the Royal Schools of Music},
+	Year = {1989},
+	Pages = {128 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {1854724460}
+}
+@book{MP:03,
+	Author = {Mark J. Prendergast},
+	Title = {The Ambient Century},
+	Publisher = {Bloomsbury Pub Ltd},
+	Year = {2003},
+	Pages = {510 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {0747557322}
+}
+@book{GB:95,
+	Author = {George  Burt},
+	Title = {The Art of Film Music},
+	Publisher = {Northeastern Univ Pr},
+	Year = {1995},
+	Pages = {266 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {1555532705}
+}
+@book{RS:02,
+	Author = {Robert L. Simon},
+	Title = {The Blackwell guide to social and political philosophy},
+	Publisher = {Wiley-Blackwell},
+	Year = {2002},
+	Pages = {329 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0631221271}
+}
+@book{KR:88,
+	Author = {Dennis M. Ritchie and  Brian W. Kernighan},
+	Title = {The C Programming Language},
+	Publisher = {Livraria Tempo Real Inform},
+	Year = {1988},
+	Pages = {272 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {0131103628}
+}
+@book{ES,
+	Author = {Edwards I. E.  S.},
+	Title = {The Cambridge ancient history},
+	Publisher = {Cambridge University Press},
+	Year = {},
+	Pages = {},
+	Keywords = {History},
+	Annote = {},
+	ISBN = {0521082307}
+}
+@book{DW:07,
+	Author = {Harry  Daniels and  James V. Wertsch},
+	Title = {The Cambridge companion to Vygotsky},
+	Publisher = {Cambridge Univ Pr},
+	Year = {2007},
+	Pages = {462 pages},
+	Keywords = {Biography & Autobiography},
+	Annote = {},
+	ISBN = {9780521537872}
+}
+@book{MH:09,
+	Author = {M John Harrison},
+	Title = {The Centauri Device},
+	Publisher = {Victor Gollancz Limited},
+	Year = {2009},
+	Pages = {208 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780575082571}
+}
+@book{PB:03,
+	Author = {Andrew  Bateman and  Iain  Paterson-Stephens},
+	Title = {The DSP handbook},
+	Publisher = {China Machine Press},
+	Year = {2003},
+	Pages = {664 pages},
+	Keywords = {Signal processing},
+	Annote = {},
+	ISBN = {7111117514}
+}
+@book{MP:04,
+	Author = {Matthew  Pearl},
+	Title = {The Dante Club},
+	Publisher = {Vintage Books},
+	Year = {2004},
+	Pages = {372 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0099465981}
+}
+@book{JD:98,
+	Author = {Jacques  Derrida},
+	Title = {The Derrida reader},
+	Publisher = {Edinburgh University Press},
+	Year = {1998},
+	Pages = {312 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0748609644}
+}
+@book{SF:10,
+	Author = {Stephen  Fry},
+	Title = {The Fry chronicles},
+	Publisher = {Egully.com},
+	Year = {2010},
+	Pages = {438 pages},
+	Keywords = {Biography & Autobiography},
+	Annote = {},
+	ISBN = {9780718154837}
+}
+@book{RD:07,
+	Author = {Richard  Dawkins},
+	Title = {The God delusion},
+	Publisher = {Random House},
+	Year = {2007},
+	Pages = {464 pages},
+	Keywords = {Religion},
+	Annote = {},
+	ISBN = {9780552773317}
+}
+@book{MP:99,
+	Author = {Mervyn  Peake},
+	Title = {The Gormenghast Trilogy},
+	Publisher = {Vintage Classics},
+	Year = {1999},
+	Pages = {960 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0099288893}
+}
+@book{SE:86,
+	Author = {Simon  Emmerson},
+	Title = {The Language of electroacoustic music},
+	Publisher = {Macmillan},
+	Year = {1986},
+	Pages = {231 pages},
+	Keywords = {Science},
+	Annote = {},
+	ISBN = {0333397592}
+}
+@book{SF:04,
+	Author = {Stephen  Fry},
+	Title = {The Liar},
+	Publisher = {Cornerstone},
+	Year = {2004},
+	Pages = {400 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0099457059}
+}
+@book{CIC:05,
+	Author = {Andy  Ihnatko and  Dennis R. Cohen and  Michael E. Cohen},
+	Title = {The Mac Xcode 2 book},
+	Publisher = {John Wiley & Sons Inc},
+	Year = {2005},
+	Pages = {330 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {0764584111}
+}
+@book{CP:94,
+	Author = {Christopher  Pike},
+	Title = {The Midnight Club},
+	Publisher = {Hodder & Stoughton},
+	Year = {1994},
+	Pages = {234 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {0340611553}
+}
+@book{JW:79,
+	Author = {John  Wyndham},
+	Title = {The Midwich cuckoos},
+	Publisher = {Penguin},
+	Year = {1979},
+	Pages = {220 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780140014402}
+}
+@book{MW:01,
+	Author = {Max  Weber},
+	Title = {The Protestant ethic and the spirit of capitalism},
+	Publisher = {Psychology Press},
+	Year = {2001},
+	Pages = {271 pages},
+	Keywords = {Business & Economics},
+	Annote = {},
+	ISBN = {9780415254069}
+}
+@book{NRL:93,
+	Author = {Paul S. Rosenbloom and  Allen  Newell and  John  Laird},
+	Title = {The Soar papers},
+	Publisher = {MIT Press},
+	Year = {1993},
+	Pages = {720 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {0262680718}
+}
+@book{NRL:93,
+	Author = {Paul S. Rosenbloom and  Allen  Newell and  John  Laird},
+	Title = {The Soar papers},
+	Publisher = {MIT Press},
+	Year = {1993},
+	Pages = {720 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {0262680718}
+}
+@book{CG:95,
+	Author = {Charles  Grant},
+	Title = {The X-files},
+	Publisher = {HarperCollins},
+	Year = {1995},
+	Pages = {277 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {000648204X}
+}
+@book{HCK:06,
+	Author = {Michael  Hofmann and  Roberto  Calasso and  Franz  Kafka},
+	Title = {The Zürau aphorisms of Franz Kafka},
+	Publisher = {Random House of Canada},
+	Year = {2006},
+	Pages = {138 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780805212075}
+}
+@book{PP:00,
+	Author = {Philip  Pullman},
+	Title = {The amber spyglass},
+	Publisher = {Scholastic},
+	Year = {2000},
+	Pages = {548 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {0590542443}
+}
+@book{MG:03,
+	Author = {Muriel  Gray},
+	Title = {The ancient},
+	Publisher = {HarperCollins, [2003]},
+	Year = {2003},
+	Pages = {358 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0006496415}
+}
+@book{LE:60,
+	Author = {Lajos  Egri},
+	Title = {The art of dramatic writing},
+	Publisher = {Touchstone},
+	Year = {1960},
+	Pages = {305 pages},
+	Keywords = {Drama},
+	Annote = {},
+	ISBN = {9780671213329}
+}
+@book{FY:92,
+	Author = {Frances A. Yates},
+	Title = {The art of memory},
+	Publisher = {Random House UK},
+	Year = {1992},
+	Pages = {448 pages},
+	Keywords = {Psychology},
+	Annote = {},
+	ISBN = {9780712655453}
+}
+@book{,
+	Author = {},
+	Title = {The book of firsts},
+	Publisher = {Bounty Books},
+	Year = {2005},
+	Pages = {288 pages},
+	Keywords = {History},
+	Annote = {},
+	ISBN = {0753710897}
+}
+@book{JC:06,
+	Author = {John  Connolly},
+	Title = {The book of lost things},
+	Publisher = {Hodder Paperbacks},
+	Year = {2006},
+	Pages = {502 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780340899489}
+}
+@book{CR:96,
+	Author = {Curtis  Roads},
+	Title = {The computer music tutorial},
+	Publisher = {The MIT Press},
+	Year = {1996},
+	Pages = {1234 pages},
+	Keywords = {Art},
+	Annote = {},
+	ISBN = {9780262680820}
+}
+@book{SP:97,
+	Author = {Samuel  Pepys},
+	Title = {The concise Pepys},
+	Publisher = {Wordsworth Editions Ltd},
+	Year = {1997},
+	Pages = {804 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1853264784}
+}
+@book{AG:03,
+	Author = {Anthony  Giddens},
+	Title = {The consequences of modernity},
+	Publisher = {Polity Press},
+	Year = {2003},
+	Pages = {186 pages},
+	Keywords = {},
+	Annote = {},
+	ISBN = {9780745609232}
+}
+@book{JB:98,
+	Author = {Jean  Baudrillard},
+	Title = {The consumer society},
+	Publisher = {Sage Publications Ltd},
+	Year = {1998},
+	Pages = {208 pages},
+	Keywords = {Business & Economics},
+	Annote = {},
+	ISBN = {9780761956921}
+}
+@book{HS:00,
+	Author = {Juliet  Schor and  Douglas B. Holt},
+	Title = {The consumer society reader},
+	Publisher = {New Press, The},
+	Year = {2000},
+	Pages = {502 pages},
+	Keywords = {Business & Economics},
+	Annote = {},
+	ISBN = {9781565845985}
+}
+@book{ML:00,
+	Author = {Martyn J. Lee},
+	Title = {The consumer society reader},
+	Publisher = {Wiley-Blackwell},
+	Year = {2000},
+	Pages = {325 pages},
+	Keywords = {Business & Economics},
+	Annote = {},
+	ISBN = {9780631207986}
+}
+@book{MB:04,
+	Author = {Margaret A. Boden},
+	Title = {The creative mind},
+	Publisher = {Psychology Press},
+	Year = {2004},
+	Pages = {344 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0415314534}
+}
+@book{BA:01,
+	Author = {J. M. Bernstein and  Theodor W. Adorno},
+	Title = {The culture industry},
+	Publisher = {Brunner-Routledge},
+	Year = {2001},
+	Pages = {210 pages},
+	Keywords = {History},
+	Annote = {},
+	ISBN = {0415253802}
+}
+@book{SC:94,
+	Author = {Susan  Cooper},
+	Title = {The dark is rising},
+	Publisher = {Puffin},
+	Year = {1994},
+	Pages = {352 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {0140364625}
+}
+@book{AB:99,
+	Author = {Alfred  Bester},
+	Title = {The demolished man},
+	Publisher = {Phoenix},
+	Year = {1999},
+	Pages = {250 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781857988222}
+}
+@book{DN:02,
+	Author = {Donald A. Norman},
+	Title = {The design of everyday things},
+	Publisher = {Egully.com},
+	Year = {2002},
+	Pages = {257 pages},
+	Keywords = {Business & Economics},
+	Annote = {},
+	ISBN = {9780465067107}
+}
+@book{BPFF:02,
+	Author = {Anne  Frank and  Mirjam  Pressler and  Otto  Frank and  Harry  Brockway},
+	Title = {The diary of a young girl},
+	Publisher = {Puffin},
+	Year = {2002},
+	Pages = {432 pages},
+	Keywords = {Juvenile Nonfiction},
+	Annote = {},
+	ISBN = {9780141315195}
+}
+@book{UG:99,
+	Author = {Ursula K. Le  Guin},
+	Title = {The dispossessed},
+	Publisher = {Millennium},
+	Year = {1999},
+	Pages = {318 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781857988826}
+}
+@book{AH:94,
+	Author = {Aldous  Huxley},
+	Title = {The doors of perception and Heaven and hell},
+	Publisher = {HarperPerennial},
+	Year = {1994},
+	Pages = {135 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0006547311}
+}
+@book{HRF:07,
+	Author = {Roland  Hess and  Blender  Foundation and  Ton  Roosendaal},
+	Title = {The essential Blender},
+	Publisher = {No Starch Pr},
+	Year = {2007},
+	Pages = {371 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9781593271664}
+}
+@book{FC:99,
+	Author = {Richard  Ford and  Anton Pavlovich Chekhov},
+	Title = {The essential tales of Chekhov},
+	Publisher = {Granta Books},
+	Year = {1999},
+	Pages = {362 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781862073005}
+}
+@book{EF:01,
+	Author = {Erich  Fromm},
+	Title = {The fear of freedom},
+	Publisher = {Psychology Press},
+	Year = {2001},
+	Pages = {260 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {9780415253888}
+}
+@book{SE:86,
+	Author = {Sergei  Eisenstein},
+	Title = {The film sense},
+	Publisher = {Faber and Faber},
+	Year = {1986},
+	Pages = {228 pages},
+	Keywords = {Photography},
+	Annote = {},
+	ISBN = {057108575X}
+}
+@book{NH:08,
+	Author = {Nick  Harkaway},
+	Title = {The gone-away world},
+	Publisher = {William Heinemann},
+	Year = {2008},
+	Pages = {531 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780434018420}
+}
+@book{JC:88,
+	Author = {Joseph  Campbell},
+	Title = {The hero with a thousand faces},
+	Publisher = {Harpercollins Pub Ltd},
+	Year = {1988},
+	Pages = {416 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780586085714}
+}
+@book{DD:02,
+	Author = {David  Day},
+	Title = {The hobbit companion},
+	Publisher = {Pavilion Books, Limited},
+	Year = {2002},
+	Pages = {96 pages},
+	Keywords = {Literary Criticism},
+	Annote = {},
+	ISBN = {1862055181}
+}
+@book{PV:05,
+	Author = {Paul  Virilio},
+	Title = {The information bomb},
+	Publisher = {Verso Books},
+	Year = {2005},
+	Pages = {145 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {1844670597}
+}
+@book{JW:55,
+	Author = {John  Wyndham},
+	Title = {The kraken wakes},
+	Publisher = {Penguin Books},
+	Year = {1955},
+	Pages = {239 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0140010750}
+}
+@book{JP:02,
+	Author = {Jean  Piaget},
+	Title = {The language and thought of the child},
+	Publisher = {Psychology Press},
+	Year = {2002},
+	Pages = {294 pages},
+	Keywords = {Psychology},
+	Annote = {},
+	ISBN = {0415267501}
+}
+@book{CP:94,
+	Author = {Christopher  Pike},
+	Title = {The listeners},
+	Publisher = {Hodder & Stoughton},
+	Year = {1994},
+	Pages = {328 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0340625716}
+}
+@book{KP:02,
+	Author = {Karl Raimund Popper},
+	Title = {The logic of scientific discovery},
+	Publisher = {Psychology Press},
+	Year = {2002},
+	Pages = {513 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0415278449}
+}
+@book{RK:07,
+	Author = {Rudyard  Kipling},
+	Title = {The mark of the beast and other fantastical tales},
+	Publisher = {Gollancz},
+	Year = {2007},
+	Pages = {785 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780575077911}
+}
+@book{AE:03,
+	Author = {Albert  Einstein},
+	Title = {The meaning of relativity},
+	Publisher = {Psychology Press},
+	Year = {2003},
+	Pages = {192 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {9780415285889}
+}
+@book{AG:02,
+	Author = {A. C. Grayling},
+	Title = {The meaning of things},
+	Publisher = {Phoenix},
+	Year = {2002},
+	Pages = {208 pages},
+	Keywords = {Psychology},
+	Annote = {},
+	ISBN = {0753813599}
+}
+@book{TB:05,
+	Author = {Tim  Burton},
+	Title = {The melancholy death of Oyster boy & other stories},
+	Publisher = {Faber and Faber},
+	Year = {2005},
+	Pages = {115 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {057122444X}
+}
+@book{JS:08,
+	Author = {Jonathan D. Spence},
+	Title = {The memory palace of Matteo Ricci},
+	Publisher = {Quercus},
+	Year = {2008},
+	Pages = {350 pages},
+	Keywords = {Biography & Autobiography},
+	Annote = {},
+	ISBN = {9781847243447}
+}
+@book{FB:95,
+	Author = {Frederick Phillips Brooks},
+	Title = {The mythical man-month},
+	Publisher = {Addison-Wesley},
+	Year = {1995},
+	Pages = {322 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {0201835959}
+}
+@book{MM:00,
+	Author = {Martin  McQuillan},
+	Title = {The narrative reader},
+	Publisher = {Psychology Press},
+	Year = {2000},
+	Pages = {353 pages},
+	Keywords = {Language Arts & Disciplines},
+	Annote = {},
+	ISBN = {0415205336}
+}
+@book{HW:04,
+	Author = {Steve  Hinchliffe and  Kath  Woodward},
+	Title = {The natural and the social},
+	Publisher = {Psychology Press},
+	Year = {2004},
+	Pages = {165 pages},
+	Keywords = {Business & Economics},
+	Annote = {},
+	ISBN = {0415329701}
+}
+@book{BC:88,
+	Author = {David  Cummings and  Eric  Blom},
+	Title = {The new everyman dictionary of music},
+	Publisher = {Weidenfeld & Nicolson},
+	Year = {1988},
+	Pages = {876 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {0460029045}
+}
+@book{RB:87,
+	Author = {Reginald Smith Brindle},
+	Title = {The new music},
+	Publisher = {Oxford University Press, USA},
+	Year = {1987},
+	Pages = {222 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {0193154684}
+}
+@book{SSSH:08,
+	Author = {Yorick  Hardy and  W.-H.  Steeb and  Ruedi  Stoop and  Willi-Hans  Steeb},
+	Title = {The nonlinear workbook},
+	Publisher = {World Scientific Pub Co Inc},
+	Year = {2008},
+	Pages = {605 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9789812818539}
+}
+@book{PD:05,
+	Author = {Philip K. Dick},
+	Title = {The penultimate truth},
+	Publisher = {Gollancz},
+	Year = {2005},
+	Pages = {208 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780575074811}
+}
+@book{JR:00,
+	Author = {Jeffrey Carl Rona},
+	Title = {The reel world},
+	Publisher = {Miller Freeman Psn Inc},
+	Year = {2000},
+	Pages = {272 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {0879305916}
+}
+@book{SR:92,
+	Author = {Salman  Rushdie},
+	Title = {The satanic verses},
+	Publisher = {Consortium},
+	Year = {1992},
+	Pages = {546 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780963270702}
+}
+@book{MS:99,
+	Author = {Michael  Schelle},
+	Title = {The score},
+	Publisher = {Silman-James Pr},
+	Year = {1999},
+	Pages = {427 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {9781879505407}
+}
+@book{CB:04,
+	Author = {Christopher  Booker},
+	Title = {The seven basic plots},
+	Publisher = {Continuum Intl Pub Group},
+	Year = {2004},
+	Pages = {728 pages},
+	Keywords = {Language Arts & Disciplines},
+	Annote = {},
+	ISBN = {0826480373}
+}
+@book{He:62,
+	Author = {  Hergé},
+	Title = {The seven crystal balls},
+	Publisher = {Mammoth},
+	Year = {1962},
+	Pages = {62 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {0749704586}
+}
+@book{RS:94,
+	Author = {Raymond Murray Schafer},
+	Title = {The soundscape},
+	Publisher = {Destiny Books},
+	Year = {1994},
+	Pages = {301 pages},
+	Keywords = {},
+	Annote = {},
+	ISBN = {0892814551}
+}
+@book{BM:01,
+	Author = {Bryan  Magee},
+	Title = {The story of philosophy},
+	Publisher = {Dorling Kindersley},
+	Year = {2001},
+	Pages = {240 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0751333328}
+}
+@book{JB:05,
+	Author = {Jean  Baudrillard},
+	Title = {The system of objects},
+	Publisher = {Verso Books},
+	Year = {2005},
+	Pages = {224 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {9781844670536}
+}
+@book{PD:03,
+	Author = {Philip K. Dick},
+	Title = {The three stigmata of Palmer Eldritch},
+	Publisher = {Gollancz},
+	Year = {2003},
+	Pages = {230 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780575074804}
+}
+@book{DP:06,
+	Author = {David  Pringle},
+	Title = {The ultimate encyclopedia of fantasy},
+	Publisher = {Carlton},
+	Year = {2006},
+	Pages = {304 pages},
+	Keywords = {Psychology},
+	Annote = {},
+	ISBN = {1844421104}
+}
+@book{CJ:02,
+	Author = {Carl Gustav Jung},
+	Title = {The undiscovered self},
+	Publisher = {Psychology Press},
+	Year = {2002},
+	Pages = {79 pages},
+	Keywords = {Psychology},
+	Annote = {},
+	ISBN = {9780415278393}
+}
+@book{BLP:95,
+	Author = {Claude  Bremond and  Joshua  Landy and  Thomas G. Pavel},
+	Title = {Thematics},
+	Publisher = {State Univ of New York Pr},
+	Year = {1995},
+	Pages = {229 pages},
+	Keywords = {Art},
+	Annote = {},
+	ISBN = {0791421686}
+}
+@book{RG:03,
+	Author = {Richard D. Gross},
+	Title = {Themes, issues and debates in psychology},
+	Publisher = {A Hodder Arnold Publication},
+	Year = {2003},
+	Pages = {383 pages},
+	Keywords = {Psychology},
+	Annote = {},
+	ISBN = {0340857846}
+}
+@book{FW:95,
+	Author = {Frank  Webster},
+	Title = {Theories of the information society},
+	Publisher = {Psychology Press},
+	Year = {1995},
+	Pages = {257 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {0415105749}
+}
+@book{HW:00,
+	Author = {Chris  Horner and  Emrys  Westacott},
+	Title = {Thinking through philosophy},
+	Publisher = {Cambridge Univ Pr},
+	Year = {2000},
+	Pages = {271 pages},
+	Keywords = {Education},
+	Annote = {},
+	ISBN = {0521626579}
+}
+@book{HW:09,
+	Author = {Noah  Wardrip-Fruin and  Pat  Harrigan},
+	Title = {Third person},
+	Publisher = {The MIT Press},
+	Year = {2009},
+	Pages = {477 pages},
+	Keywords = {Games},
+	Annote = {},
+	ISBN = {9780262232630}
+}
+@book{JR:08,
+	Author = {Jim  Rossignol},
+	Title = {This Gaming Life},
+	Publisher = {Univ of Michigan Pr},
+	Year = {2008},
+	Pages = {213 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9780472116355}
+}
+@book{noTag,
+	Author = {Yasmin  Alibhai-Brown},
+	Title = {True Colours : Attitudes to Multiculturalism and the Role of the Government},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {9781860300837}
+}
+@book{KN:97,
+	Author = {K. M. Newton},
+	Title = {Twentieth-century literary theory},
+	Publisher = {Macmillan},
+	Year = {1997},
+	Pages = {306 pages},
+	Keywords = {Literary Criticism},
+	Annote = {},
+	ISBN = {9780333677421}
+}
+@book{TCWBN:01,
+	Author = {Gavin  Thorpe and  Games  Workshop and  Graham  Neil and  Andy  Chambers and  Sherman  Bishop},
+	Title = {Tyranids},
+	Publisher = {Games Workshop},
+	Year = {2001},
+	Pages = {43 pages},
+	Keywords = {Fantasy games},
+	Annote = {},
+	ISBN = {1841540137}
+}
+@book{PD:00,
+	Author = {Philip K. Dick},
+	Title = {Ubik},
+	Publisher = {Millennium},
+	Year = {2000},
+	Pages = {224 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781857988536}
+}
+@book{PJ:95,
+	Author = {Rick  Priestley and  Jervis  Johnson},
+	Title = {Ultramarines},
+	Publisher = {Games Workshop},
+	Year = {1995},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {1872372872}
+}
+@book{CH:03,
+	Author = {Christopher  Hamilton},
+	Title = {Understanding philosophy for AS Level},
+	Publisher = {Nelson Thornes},
+	Year = {2003},
+	Pages = {436 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0748765603}
+}
+@book{HBL:03,
+	Author = {Kritina  Holden and  Jill  Butler and  William  Lidwell},
+	Title = {Universal principles of design},
+	Publisher = {Rockport Publishers},
+	Year = {2003},
+	Pages = {216 pages},
+	Keywords = {Art},
+	Annote = {},
+	ISBN = {9781592530076}
+}
+@book{LS:07,
+	Author = {L.  Sacher-Masoch},
+	Title = {Venus in Furs},
+	Publisher = {Bookkake},
+	Year = {2007},
+	Pages = {148 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781906110031}
+}
+@book{CM:07,
+	Author = {Grethe  Mitchell and  Andy  Clarke},
+	Title = {Videogames and art},
+	Publisher = {Intellect Ltd},
+	Year = {2007},
+	Pages = {283 pages},
+	Keywords = {Art},
+	Annote = {},
+	ISBN = {9781841501420}
+}
+@book{LQ:01,
+	Author = {Lars  Qvortrup},
+	Title = {Virtual interaction},
+	Publisher = {Springer Verlag},
+	Year = {2001},
+	Pages = {443 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {1852333316}
+}
+@book{BF:08,
+	Author = {Ben  Fry},
+	Title = {Visualizing data},
+	Publisher = {O'Reilly Media},
+	Year = {2008},
+	Pages = {366 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9780596514556}
+}
+@book{LK:08,
+	Author = {Leonard  Koren},
+	Title = {Wabi-sabi for artists, designers, poets & philosophers},
+	Publisher = {Imperfect Pub},
+	Year = {2008},
+	Pages = {94 pages},
+	Keywords = {Art},
+	Annote = {},
+	ISBN = {9780981484600}
+}
+@book{RP:98,
+	Author = {Rick  Priestley},
+	Title = {Warhammer 40000 Rulebook},
+	Publisher = {Games Workshop, Limited},
+	Year = {1998},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {1869893190}
+}
+@book{ZR:07,
+	Author = {Natasha  Randall and  YVEGENY  ZAMYATIN},
+	Title = {We},
+	Publisher = {Vintage},
+	Year = {2007},
+	Pages = {224 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780099511434}
+}
+@book{LS:05,
+	Author = {Lionel  Shriver},
+	Title = {We need to talk about Kevin},
+	Publisher = {Serpent's Tail},
+	Year = {2005},
+	Pages = {400 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1852428899}
+}
+@book{AG:04,
+	Author = {A. C. Grayling},
+	Title = {What is good?},
+	Publisher = {Egully.com},
+	Year = {2004},
+	Pages = {274 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0753817551}
+}
+@book{MH:97,
+	Author = {Martin  Handford},
+	Title = {Where's Wally?},
+	Publisher = {Walker Books},
+	Year = {1997},
+	Pages = {27 pages},
+	Keywords = {Juvenile Nonfiction},
+	Annote = {},
+	ISBN = {0744563615}
+}
+@book{GG:04,
+	Author = {Germaine  Greer},
+	Title = {Whitefella jump up},
+	Publisher = {Profile Books},
+	Year = {2004},
+	Pages = {232 pages},
+	Keywords = {History},
+	Annote = {},
+	ISBN = {1861977395}
+}
+@book{JD:01,
+	Author = {Jacques  Derrida},
+	Title = {Writing and difference},
+	Publisher = {Psychology Press},
+	Year = {2001},
+	Pages = {446 pages},
+	Keywords = {Language Arts & Disciplines},
+	Annote = {},
+	ISBN = {9780415253833}
+}
+@book{SG:05,
+	Author = {Katsuki  Sekida and  A. V. Grimstone},
+	Title = {Zen training},
+	Publisher = {Shambhala Pubns},
+	Year = {2005},
+	Pages = {258 pages},
+	Keywords = {Religion},
+	Annote = {},
+	ISBN = {9781590302835}
+}
+@book{LF:06,
+	Author = {Jacques  Lacan and  Bruce  Fink},
+	Title = {Écrits},
+	Publisher = {W. W. Norton & Company},
+	Year = {2006},
+	Pages = {878 pages},
+	Keywords = {Psychology},
+	Annote = {},
+	ISBN = {9780393329254}
+}
+@book{SK:06,
+	Author = {Stephen  King},
+	Title = {'Salem's Lot},
+	Publisher = {Hodder & Stoughton},
+	Year = {2006},
+	Pages = {594 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0340921277}
+}
+@book{NS:06,
+	Author = {New Scientist Magazine  Staff},
+	Title = {100 Things to Do Before You Die (Plus a Few to Do Afterwards)},
+	Publisher = {Profile Business},
+	Year = {2006},
+	Pages = {96 pages},
+	Keywords = {Science},
+	Annote = {},
+	ISBN = {1861979258}
+}
+@book{AC:06,
+	Author = {Agatha  Christie},
+	Title = {1920s Omnibus},
+	Publisher = {Egully.com},
+	Year = {2006},
+	Pages = {841 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0007208626}
+}
+@book{JS:11,
+	Author = {John  Sutherland},
+	Title = {50 Literature Ideas You Really Need to Know},
+	Publisher = {Quercus Books},
+	Year = {2011},
+	Pages = {208 pages},
+	Keywords = {Literature},
+	Annote = {},
+	ISBN = {9781848660601}
+}
+@book{CT:09,
+	Author = {Caroline  Taggart},
+	Title = {A Classical Education},
+	Publisher = {Michael O'Mara Books, Limited},
+	Year = {2009},
+	Pages = {192 pages},
+	Keywords = {Education},
+	Annote = {},
+	ISBN = {9781843173564}
+}
+@book{SS:00,
+	Author = {Simon  Schama},
+	Title = {A History of Britain: At the edge of the world? 3000 BC-AD 1603},
+	Publisher = {McClelland & Stewart},
+	Year = {2000},
+	Pages = {416 pages},
+	Keywords = {History},
+	Annote = {},
+	ISBN = {0563384972}
+}
+@book{SS:02,
+	Author = {Simon  Schama},
+	Title = {A History of Britain: The fate of empire 1776-2000},
+	Publisher = {Random House},
+	Year = {2002},
+	Pages = {576 pages},
+	Keywords = {History},
+	Annote = {},
+	ISBN = {0563534575}
+}
+@book{noTag,
+	Author = {Steven  Runciman},
+	Title = {A History of the Crusades: Volume 2 The Kingdom of Jerusalem},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{noTag,
+	Author = {Stephen  Wolfram},
+	Title = {A New Kind of Science},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{noTag,
+	Author = {J. Stuart Mill},
+	Title = {A System of Logic},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{GM:10,
+	Author = {Graham  McNeill},
+	Title = {A Thousand Sons},
+	Publisher = {Black Library, The},
+	Year = {2010},
+	Pages = {416 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781844168088}
+}
+@book{AB:00,
+	Author = {Anthony  Burgess},
+	Title = {A clockwork orange},
+	Publisher = {Gardners Books},
+	Year = {2000},
+	Pages = {140 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780141182605}
+}
+@book{DH:04,
+	Author = {David  Held},
+	Title = {A globalizing world?},
+	Publisher = {Routledge},
+	Year = {2004},
+	Pages = {188 pages},
+	Keywords = {Business & Economics},
+	Annote = {},
+	ISBN = {0415329744}
+}
+@book{,
+	Author = {},
+	Title = {A guide to the Louvre},
+	Publisher = {Musée du Louvre Éditions},
+	Year = {2005},
+	Pages = {479 pages},
+	Keywords = {Art},
+	Annote = {},
+	ISBN = {9782711845927}
+}
+@book{SS:01,
+	Author = {Simon  Schama},
+	Title = {A history of Britain},
+	Publisher = {BBC},
+	Year = {2001},
+	Pages = {544 pages},
+	Keywords = {History},
+	Annote = {},
+	ISBN = {0563537477}
+}
+@book{FF:91,
+	Author = {P.N.  Furbank and  Edward Morgan Forster},
+	Title = {A passage to India},
+	Publisher = {Everyman's Library},
+	Year = {1991},
+	Pages = {282 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857150295}
+}
+@book{IT:92,
+	Author = {Ivan Sergeevich Turgenev},
+	Title = {A sportsman's notebook},
+	Publisher = {Ebury Press},
+	Year = {1992},
+	Pages = {390 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857150546}
+}
+@book{BC:01,
+	Author = {Bruce  Cole},
+	Title = {A student's guide to music technology},
+	Publisher = {Rhinegold Publishing Ltd},
+	Year = {2001},
+	Pages = {136 pages},
+	Keywords = {Music and technology},
+	Annote = {},
+	ISBN = {0946890986}
+}
+@book{SD:98,
+	Author = {Charles  Dickens and  Andrew  Sanders},
+	Title = {A tale of two cities},
+	Publisher = {Oxford University Press, USA},
+	Year = {1998},
+	Pages = {524 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0192833901}
+}
+@book{JR:99,
+	Author = {John  Rawls},
+	Title = {A theory of justice},
+	Publisher = {Oxford University Press},
+	Year = {1999},
+	Pages = {538 pages},
+	Keywords = {Law},
+	Annote = {},
+	ISBN = {019825055X}
+}
+@book{noTag,
+	Author = {Dimitar  Kazakov and  George  Tsoulas},
+	Title = {AISB 2011: AI and Games},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{noTag,
+	Author = {Dimitar  Kazakov and  George  Tsoulas},
+	Title = {AISB 2011: Human Memory for Artificial Intelligence},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{SCV:03,
+	Author = {Bobby  Vanstone and  Mary  Charman and  Liz  Sherratt},
+	Title = {AS law},
+	Publisher = {Willan Pub},
+	Year = {2003},
+	Pages = {329 pages},
+	Keywords = {Law},
+	Annote = {},
+	ISBN = {1843920557}
+}
+@book{RS:99,
+	Author = {Robert  Swindells},
+	Title = {Abomination},
+	Publisher = {Corgi},
+	Year = {1999},
+	Pages = {208 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {0440863627}
+}
+@book{OE:92,
+	Author = {George  Eliot and  Leonée  Ormond},
+	Title = {Adam Bede},
+	Publisher = {D. Campbell},
+	Year = {1992},
+	Pages = {612 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857150597}
+}
+@book{Ae:06,
+	Author = {  Aesop},
+	Title = {Aesop's Fables},
+	Publisher = {Collector's Library},
+	Year = {2006},
+	Pages = {304 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781904919810}
+}
+@book{MC:97,
+	Author = {Michael  Crichton},
+	Title = {Airframe},
+	Publisher = {Vintage},
+	Year = {1997},
+	Pages = {431 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780099556312}
+}
+@book{LC:98,
+	Author = {Lewis  Carroll},
+	Title = {Alice's adventures in Wonderland},
+	Publisher = {Penguin Classics},
+	Year = {1998},
+	Pages = {356 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0141439769}
+}
+@book{RM:07,
+	Author = {Richard  Morgan},
+	Title = {Altered Carbon},
+	Publisher = {Gollancz},
+	Year = {2007},
+	Pages = {512 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780575081123}
+}
+@book{noTag,
+	Author = {Richard K. Morgan},
+	Title = {Altered Carbon},
+	Publisher = {},
+	Year = {2005},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{BE:06,
+	Author = {Bret Easton Ellis},
+	Title = {American Psycho},
+	Publisher = {Picador USA},
+	Year = {2006},
+	Pages = {416 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780330448017}
+}
+@book{JW:96,
+	Author = {Jonathan  Wolff},
+	Title = {An introduction to political philosophy},
+	Publisher = {Oxford University Press, USA},
+	Year = {1996},
+	Pages = {237 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0192892517}
+}
+@book{NS:08,
+	Author = {Neal  Stephenson},
+	Title = {Anathem},
+	Publisher = {Atlantic Books},
+	Year = {2008},
+	Pages = {937 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781843549161}
+}
+@book{GO:00,
+	Author = {George  Orwell},
+	Title = {Animal farm},
+	Publisher = {Penguin Modern Classics},
+	Year = {2000},
+	Pages = {113 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780141182704}
+}
+@book{WB:03,
+	Author = {William  Boyd},
+	Title = {Any human heart},
+	Publisher = {Penguin},
+	Year = {2003},
+	Pages = {512 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0141009284}
+}
+@book{,
+	Author = {Robert  Harris},
+	Title = {Archangel},
+	Publisher = {Arrow Books},
+	Year = {2004},
+	Pages = {},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0099282410}
+}
+@book{noTag,
+	Author = {W. R. Dalzell},
+	Title = {Architecture},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{SF:05,
+	Author = {Edward Morgan Forster and  Oliver  Stallybrass},
+	Title = {Aspects of the novel},
+	Publisher = {Penguin Classics},
+	Year = {2005},
+	Pages = {204 pages},
+	Keywords = {Literary Criticism},
+	Annote = {},
+	ISBN = {9780141441696}
+}
+@book{AR:07,
+	Author = {Ayn  Rand},
+	Title = {Atlas Shrugged},
+	Publisher = {Penguin Classics},
+	Year = {2007},
+	Pages = {1168 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780141188935}
+}
+@book{MH:07,
+	Author = {Michel  Houellebecq},
+	Title = {Atomised},
+	Publisher = {Vintage},
+	Year = {2007},
+	Pages = {379 pages},
+	Keywords = {},
+	Annote = {},
+	ISBN = {9780099503958}
+}
+@book{EY:07,
+	Author = {Edward Wayne Younkins},
+	Title = {Ayn Rand's Atlas shrugged},
+	Publisher = {Ashgate Pub Co},
+	Year = {2007},
+	Pages = {414 pages},
+	Keywords = {Literary Criticism},
+	Annote = {},
+	ISBN = {9780754655497}
+}
+@book{BG:09,
+	Author = {Ben  Goldacre},
+	Title = {Bad science},
+	Publisher = {HarperPerennial},
+	Year = {2009},
+	Pages = {370 pages},
+	Keywords = {Health & Fitness},
+	Annote = {},
+	ISBN = {9780007284870}
+}
+@book{JW:03,
+	Author = {Jamie  Whyte},
+	Title = {Bad thoughts},
+	Publisher = {Corvo},
+	Year = {2003},
+	Pages = {152 pages},
+	Keywords = {Language Arts & Disciplines},
+	Annote = {},
+	ISBN = {0954325532}
+}
+@book{SK:99,
+	Author = {Stephen  King},
+	Title = {Bag of bones},
+	Publisher = {New English Library},
+	Year = {1999},
+	Pages = {660 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {034071820X}
+}
+@book{JE:08,
+	Author = {Jason T. Eberl},
+	Title = {Battlestar Galactica and philosophy},
+	Publisher = {Wiley-Blackwell},
+	Year = {2008},
+	Pages = {267 pages},
+	Keywords = {Performing Arts},
+	Annote = {},
+	ISBN = {9781405178143}
+}
+@book{BS:86,
+	Author = {Francis  Scarfe and  Charles  Baudelaire},
+	Title = {Baudelaire},
+	Publisher = {Anvil Pr Poetry Ltd},
+	Year = {1986},
+	Pages = {400 pages},
+	Keywords = {Poetry},
+	Annote = {},
+	ISBN = {0856461520}
+}
+@book{JS:69,
+	Author = {Jean-Paul  Sartre},
+	Title = {Being and nothingness},
+	Publisher = {Psychology Press},
+	Year = {1969},
+	Pages = {688 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0415040299}
+}
+@book{MH:62,
+	Author = {Martin  Heidegger},
+	Title = {Being and time},
+	Publisher = {Wiley-Blackwell},
+	Year = {1962},
+	Pages = {592 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {9780631197706}
+}
+@book{NH:03,
+	Author = {R. J. Hollingdale and  Friedrich Wilhelm Nietzsche},
+	Title = {Beyond good and evil},
+	Publisher = {Penguin Classics},
+	Year = {2003},
+	Pages = {240 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {014044923X}
+}
+@book{NF:98,
+	Author = {Marion  Faber and  Friedrich Wilhelm Nietzsche},
+	Title = {Beyond good and evil},
+	Publisher = {Oxford University Press, USA},
+	Year = {1998},
+	Pages = {198 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0192832638}
+}
+@book{noTag,
+	Author = {Russell  Stannard},
+	Title = {Black Holes and Uncle Albert},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{KB:08,
+	Author = {Stephen  King and  Richard  Bachman},
+	Title = {Blaze},
+	Publisher = {Hodder & Stoughton},
+	Year = {2008},
+	Pages = {340 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780340952245}
+}
+@book{CD:05,
+	Author = {Charles  Dickens},
+	Title = {Bleak House},
+	Publisher = {Penguin Classics},
+	Year = {2005},
+	Pages = {1088 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0141025263}
+}
+@book{GB:07,
+	Author = {Greg  Bear},
+	Title = {Blood Music},
+	Publisher = {Gollancz},
+	Year = {2007},
+	Pages = {252 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780575081093}
+}
+@book{DA:09,
+	Author = {Dan  Abnett},
+	Title = {Blood Pact},
+	Publisher = {Black Library, The},
+	Year = {2009},
+	Pages = {320 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781844166930}
+}
+@book{noTag,
+	Author = {Aldous  Huxley},
+	Title = {Brave New World},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{WB:91,
+	Author = {William  Boyd},
+	Title = {Brazzaville Beach},
+	Publisher = {Penguin Books},
+	Year = {1991},
+	Pages = {398 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {014014658X}
+}
+@book{RM:08,
+	Author = {Richard  Morgan},
+	Title = {Broken Angels},
+	Publisher = {Gollancz},
+	Year = {2008},
+	Pages = {468 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780575081253}
+}
+@book{FV:06,
+	Author = {Francois  Voltaire},
+	Title = {CANDIDE AND OTHER STORIES},
+	Publisher = {CRW PUBLISHING},
+	Year = {2006},
+	Pages = {384 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781904919940}
+}
+@book{CP:90,
+	Author = {Cambridge School Classics  Project},
+	Title = {Cambridge Latin Course Unit 1 (Integrated)},
+	Publisher = {Cambridge Univ Pr},
+	Year = {1990},
+	Pages = {226 pages},
+	Keywords = {Education},
+	Annote = {},
+	ISBN = {0521389453}
+}
+@book{TP:99,
+	Author = {Terry  Pratchett},
+	Title = {Carpe Jugulum},
+	Publisher = {Corgi Books},
+	Year = {1999},
+	Pages = {432 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780552146159}
+}
+@book{KV:08,
+	Author = {Kurt  Vonnegut},
+	Title = {Cat's cradle},
+	Publisher = {Penguin Modern Classics},
+	Year = {2008},
+	Pages = {205 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780141189345}
+}
+@book{SK:06,
+	Author = {Stephen  King},
+	Title = {Cell},
+	Publisher = {Egully.com},
+	Year = {2006},
+	Pages = {399 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0340921447}
+}
+@book{JG:97,
+	Author = {James  Gleick},
+	Title = {Chaos},
+	Publisher = {Vintage/Ebury (a Division of Random House Group)},
+	Year = {1997},
+	Pages = {352 pages},
+	Keywords = {Political Science},
+	Annote = {},
+	ISBN = {0749386061}
+}
+@book{T(:91,
+	Author = {Leo  Tolstoy and  Leo Tolstoy (graf)},
+	Title = {Childhood, boyhood and youth},
+	Publisher = {Everyman},
+	Year = {1991},
+	Pages = {314 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857150139}
+}
+@book{PD:64,
+	Author = {Philip K. Dick},
+	Title = {Clans of the Alphane Moon},
+	Publisher = {Voyager},
+	Year = {1964},
+	Pages = {204 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780006482482}
+}
+@book{MP:08,
+	Author = {Mervyn  Peake and  Robert W. Maslen},
+	Title = {Collected poems},
+	Publisher = {Carcanet Pr},
+	Year = {2008},
+	Pages = {259 pages},
+	Keywords = {Poetry},
+	Annote = {},
+	ISBN = {9781857549713}
+}
+@book{FK:93,
+	Author = {Franz  Kafka},
+	Title = {Collected stories},
+	Publisher = {David Campbell},
+	Year = {1993},
+	Pages = {503 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857151453}
+}
+@book{DL:98,
+	Author = {Thomas  De Quincey and  Grevel  Lindop},
+	Title = {Confessions of an English opium-eater and other writings},
+	Publisher = {Oxford University Press, USA},
+	Year = {1998},
+	Pages = {257 pages},
+	Keywords = {Biography & Autobiography},
+	Annote = {},
+	ISBN = {0192836544}
+}
+@book{MW:00,
+	Author = {Michael  Wood},
+	Title = {Conquistadors},
+	Publisher = {BBC},
+	Year = {2000},
+	Pages = {288 pages},
+	Keywords = {History},
+	Annote = {},
+	ISBN = {056355116X}
+}
+@book{noTag,
+	Author = {Will  Kymlicka},
+	Title = {Contemporary Political Philosophy},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{MC:04,
+	Author = {Mary  Charman},
+	Title = {Contract law},
+	Publisher = {Willan Pub},
+	Year = {2004},
+	Pages = {330 pages},
+	Keywords = {Law},
+	Annote = {},
+	ISBN = {1843920999}
+}
+@book{PD:67,
+	Author = {Philip K. Dick},
+	Title = {Counter-clock world},
+	Publisher = {HarperCollinsPublishers},
+	Year = {1967},
+	Pages = {236 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780007127702}
+}
+@book{noTag,
+	Author = {Fyodor  Dostoyevsky},
+	Title = {Crime and Punishment},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{CDD:00,
+	Author = {Fyodor  Dostoyevsky and  Keith  Carabine and    Dostoevsky},
+	Title = {Crime and punishment},
+	Publisher = {Wordsworth Editions},
+	Year = {2000},
+	Pages = {485 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1840224304}
+}
+@book{MMH:03,
+	Author = {John  Muncie and  Eugene  McLaughlin and  Gordon  Hughes},
+	Title = {Criminological perspectives},
+	Publisher = {Sage Publications Ltd},
+	Year = {2003},
+	Pages = {612 pages},
+	Keywords = {Social Science},
+	Annote = {},
+	ISBN = {0761941444}
+}
+@book{AT:02,
+	Author = {Anne  Thomson},
+	Title = {Critical reasoning},
+	Publisher = {Psychology Press},
+	Year = {2002},
+	Pages = {209 pages},
+	Keywords = {Education},
+	Annote = {},
+	ISBN = {0415241200}
+}
+@book{AH:94,
+	Author = {Aldous  Huxley},
+	Title = {Crome yellow},
+	Publisher = {Flamingo},
+	Year = {1994},
+	Pages = {170 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {000654729X}
+}
+@book{NS:00,
+	Author = {Neal  Stephenson},
+	Title = {Cryptonomicon},
+	Publisher = {Egully.com},
+	Year = {2000},
+	Pages = {918 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0099410672}
+}
+@book{noTag,
+	Author = {Kev  Walker and  Gordon  Rennie and  And  Others},
+	Title = {Daemonifuge},
+	Publisher = {Black Library},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{SK:93,
+	Author = {Stephen  King},
+	Title = {Danse macabre},
+	Publisher = {Warner Books},
+	Year = {1993},
+	Pages = {479 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0751504378}
+}
+@book{JG:01,
+	Author = {Andy  Jones and  Marc  Gascoigne},
+	Title = {Dark Imperium},
+	Publisher = {Black Library},
+	Year = {2001},
+	Pages = {288 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1841541362}
+}
+@book{CH:09,
+	Author = {Charlaine  Harris},
+	Title = {Dead Until Dark},
+	Publisher = {Gollancz},
+	Year = {2009},
+	Pages = {336 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780575089365}
+}
+@book{GGM:04,
+	Author = {Robert A. Maguire and  Nikolai  Gogol and  Nikolaĭ Vasilʹevich Gogolʹ},
+	Title = {Dead souls},
+	Publisher = {Penguin Classics},
+	Year = {2004},
+	Pages = {464 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780140448078}
+}
+@book{TM:91,
+	Author = {Thomas  Mann},
+	Title = {Death in Venice and other stories},
+	Publisher = {Everyman's Library Ltd},
+	Year = {1991},
+	Pages = {357 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857150473}
+}
+@book{noTag,
+	Author = {},
+	Title = {Deco Devolution: The Art of Bioshock 2},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{MS:07,
+	Author = {Mitchel  Scanlon},
+	Title = {Descent of Angels},
+	Publisher = {Games Workshop},
+	Year = {2007},
+	Pages = {416 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781844165087}
+}
+@book{noTag,
+	Author = {F. M. T. Brazier},
+	Title = {Design and Evaluation of a User Interface for Information Retrieval},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{SK:11,
+	Author = {Stephen  King},
+	Title = {Desperation},
+	Publisher = {Hodder & Stoughton},
+	Year = {2011},
+	Pages = {720 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781444707830}
+}
+@book{DK:92,
+	Author = {Michael R. Katz and  Fyodor  Dostoyevsky},
+	Title = {Devils},
+	Publisher = {Oxford University Press, USA},
+	Year = {1992},
+	Pages = {769 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0192838296}
+}
+@book{WG:05,
+	Author = {Nikolaĭ Vasilʹevich Gogolʹ and  Ronald  Wilks},
+	Title = {Diary of a madman, the government inspector and selected stories},
+	Publisher = {Penguin Classics},
+	Year = {2005},
+	Pages = {330 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780140449075}
+}
+@book{noTag,
+	Author = {Jill Walker Rettberg and  Hilde G. Corneliussen},
+	Title = {Digital Culture, Play and Identity},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{DA:88,
+	Author = {Douglas  Adams},
+	Title = {Dirk Gently's Holistic Detective Agency},
+	Publisher = {Pan Macmillan},
+	Year = {1988},
+	Pages = {247 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780330301626}
+}
+@book{WP:87,
+	Author = {Margaret  Wetherell and  Jonathan  Potter},
+	Title = {Discourse and social psychology},
+	Publisher = {Sage Publications Ltd},
+	Year = {1987},
+	Pages = {216 pages},
+	Keywords = {Language Arts & Disciplines},
+	Annote = {},
+	ISBN = {9780803980563}
+}
+@book{SD:68,
+	Author = {F. E. Sutcliffe and  René  Descartes},
+	Title = {Discourse on method and the meditations},
+	Publisher = {Viking Pr},
+	Year = {1968},
+	Pages = {187 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0140442065}
+}
+@book{DA:02,
+	Author = {Dante  Alighieri},
+	Title = {Divine Comedy, The: Volume 1: Inferno},
+	Publisher = {Penguin Books},
+	Year = {2002},
+	Pages = {432 pages},
+	Keywords = {Poetry},
+	Annote = {},
+	ISBN = {0142437220}
+}
+@book{BP:91,
+	Author = {Boris Leonidovich Pasternak},
+	Title = {Doctor Zhivago},
+	Publisher = {Everyman's Library: Distributed by},
+	Year = {1991},
+	Pages = {510 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857150414}
+}
+@book{MS:03,
+	Author = {Miguel de Cervantes  Saavedra},
+	Title = {Don Quixote},
+	Publisher = {Penguin Classics},
+	Year = {2003},
+	Pages = {1022 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780140449099}
+}
+@book{MM:02,
+	Author = {Michael  Moore},
+	Title = {Downsize this!},
+	Publisher = {Pan},
+	Year = {2002},
+	Pages = {278 pages},
+	Keywords = {Humor},
+	Annote = {},
+	ISBN = {0330419153}
+}
+@book{SK:08,
+	Author = {Stephen  King},
+	Title = {Duma Key},
+	Publisher = {Scribner Book Company},
+	Year = {2008},
+	Pages = {611 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781416552512}
+}
+@book{AG:05,
+	Author = {Marc  Gascoigne and  Dan  Abnett},
+	Title = {Eisenhorn},
+	Publisher = {Games Workshop Ltd},
+	Year = {2005},
+	Pages = {768 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1844161560}
+}
+@book{NF:07,
+	Author = {Niall  Ferguson},
+	Title = {Empire},
+	Publisher = {Penguin Books},
+	Year = {2007},
+	Pages = {448 pages},
+	Keywords = {History},
+	Annote = {},
+	ISBN = {9780141035260}
+}
+@book{GS:03,
+	Author = {Dane R. Gordon and  David B. Suits},
+	Title = {Epicurus},
+	Publisher = {RIT Cary Graphic Arts Press},
+	Year = {2003},
+	Pages = {223 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0971345961}
+}
+@book{TP:89,
+	Author = {Terry  Pratchett},
+	Title = {Equal Rites},
+	Publisher = {Transworld Publishers},
+	Year = {1989},
+	Pages = {283 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0552131059}
+}
+@book{GO:00,
+	Author = {George  Orwell},
+	Title = {Essays},
+	Publisher = {Penguin Modern Classics},
+	Year = {2000},
+	Pages = {466 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780141183060}
+}
+@book{JS:07,
+	Author = {Jean-Paul  Sartre},
+	Title = {Existentialism and Humanism},
+	Publisher = {Methuen Publishing},
+	Year = {2007},
+	Pages = {94 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {9780413776396}
+}
+@book{noTag,
+	Author = {Open  University},
+	Title = {Exploring Psychological Research Methods},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{AH:04,
+	Author = {Aldous  Huxley},
+	Title = {Eyeless in Gaza},
+	Publisher = {Vintage Classics},
+	Year = {2004},
+	Pages = {464 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780099458173}
+}
+@book{RB:93,
+	Author = {Ray  Bradbury},
+	Title = {Fahrenheit 451},
+	Publisher = {Flamingo},
+	Year = {1993},
+	Pages = {172 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780006546061}
+}
+@book{PM:07,
+	Author = {Paul J. McAuley},
+	Title = {Fairyland},
+	Publisher = {Victor Gollancz Limited},
+	Year = {2007},
+	Pages = {384 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780575081109}
+}
+@book{GM:06,
+	Author = {Graham  McNeill},
+	Title = {False Gods},
+	Publisher = {Games Workshop},
+	Year = {2006},
+	Pages = {416 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781844163700}
+}
+@book{SR:01,
+	Author = {Newt  Scamander and  J. K. Rowling},
+	Title = {Fantastic beasts and where to find them},
+	Publisher = {A1bazaar},
+	Year = {2001},
+	Pages = {42 pages},
+	Keywords = {Juvenile Nonfiction},
+	Annote = {},
+	ISBN = {0747554668}
+}
+@book{IT:91,
+	Author = {Ivan Sergeevich Turgenev},
+	Title = {Fathers and children},
+	Publisher = {Everyman's Library},
+	Year = {1991},
+	Pages = {247 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857150171}
+}
+@book{Cv:09,
+	Author = {David  Constantine and  Johann Wolfgang von Goethe},
+	Title = {Faust},
+	Publisher = {Penguin Classics},
+	Year = {2009},
+	Pages = {285 pages},
+	Keywords = {Drama},
+	Annote = {},
+	ISBN = {9780140449020}
+}
+@book{Cv:05,
+	Author = {David  Constantine and  Johann Wolfgang von Goethe},
+	Title = {Faust},
+	Publisher = {Penguin Classics},
+	Year = {2005},
+	Pages = {182 pages},
+	Keywords = {Drama},
+	Annote = {},
+	ISBN = {9780140449013}
+}
+@book{JB:00,
+	Author = {Jorge Luis Borges},
+	Title = {Fictions},
+	Publisher = {Penguin Modern Classics},
+	Year = {2000},
+	Pages = {178 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780141183848}
+}
+@book{DA:99,
+	Author = {Dan  Abnett},
+	Title = {First & only},
+	Publisher = {Games Workshop},
+	Year = {1999},
+	Pages = {272 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {184154101X}
+}
+@book{EA:98,
+	Author = {Edwin Abbott Abbott},
+	Title = {Flatland},
+	Publisher = {Penguin Classics},
+	Year = {1998},
+	Pages = {118 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {014043531X}
+}
+@book{MC:02,
+	Author = {Mihaly  Csikszentmihalyi},
+	Title = {Flow},
+	Publisher = {Egully.com},
+	Year = {2002},
+	Pages = {303 pages},
+	Keywords = {Self-Help},
+	Annote = {},
+	ISBN = {9780712657594}
+}
+@book{PD:74,
+	Author = {Philip K. Dick},
+	Title = {Flow, My Tears, the Policeman Said},
+	Publisher = {Gollancz},
+	Year = {1974},
+	Pages = {204 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781857983418}
+}
+@book{UE:01,
+	Author = {Umberto  Eco},
+	Title = {Foucault's pendulum},
+	Publisher = {Egully.com},
+	Year = {2001},
+	Pages = {641 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0099287153}
+}
+@book{noTag,
+	Author = {Isaac  Asimov},
+	Title = {Foundation},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{IA:94,
+	Author = {Isaac  Asimov},
+	Title = {Foundation and Empire},
+	Publisher = {Voyager},
+	Year = {1994},
+	Pages = {240 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0586013555}
+}
+@book{IA:84,
+	Author = {Isaac  Asimov},
+	Title = {Foundation's edge},
+	Publisher = {Voyager},
+	Year = {1984},
+	Pages = {432 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0586058397}
+}
+@book{noTag,
+	Author = {Curtis  Roads and  John  Strawn},
+	Title = {Foundations of Computer Music},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{SK:91,
+	Author = {Stephen  King},
+	Title = {Four past midnight},
+	Publisher = {New English Library},
+	Year = {1991},
+	Pages = {930 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0450542882}
+}
+@book{SH:03,
+	Author = {Maurice  Hindle and  Mary Wollstonecraft Shelley},
+	Title = {Frankenstein, or, The modern Prometheus},
+	Publisher = {Penguin Classics},
+	Year = {2003},
+	Pages = {273 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780141439471}
+}
+@book{GM:07,
+	Author = {Graham  McNeill},
+	Title = {Fulgrim},
+	Publisher = {Games Workshop Ltd},
+	Year = {2007},
+	Pages = {512 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781844164769}
+}
+@book{MG:97,
+	Author = {Muriel  Gray},
+	Title = {Furnace},
+	Publisher = {HarperCollins},
+	Year = {1997},
+	Pages = {338 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0006496407}
+}
+@book{PP:97,
+	Author = {Robert  Powell and  Mark  Patmore},
+	Title = {GCSE Mathematics},
+	Publisher = {Letts Educational},
+	Year = {1997},
+	Pages = {284 pages},
+	Keywords = {General Certificate of Secondary Education},
+	Annote = {},
+	ISBN = {1858054346}
+}
+@book{BC:06,
+	Author = {Ben  Counter},
+	Title = {Galaxy in Flames},
+	Publisher = {Games Workshop},
+	Year = {2006},
+	Pages = {416 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781844163939}
+}
+@book{EB:68,
+	Author = {Eric  Berne},
+	Title = {Games people play},
+	Publisher = {Egully.com},
+	Year = {1968},
+	Pages = {173 pages},
+	Keywords = {Family & Relationships},
+	Annote = {},
+	ISBN = {9780140027686}
+}
+@book{FP:06,
+	Author = {Frederik  Pohl},
+	Title = {Gateway},
+	Publisher = {Gollancz},
+	Year = {2006},
+	Pages = {304 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780575078994}
+}
+@book{noTag,
+	Author = {Erick  Cantu-Paz},
+	Title = {Genetic and Evolutionary Computation},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{NT:99,
+	Author = {Neil  Turnbull},
+	Title = {Get a Grip on Philosophy},
+	Publisher = {Weidenfeld & Nicolson},
+	Year = {1999},
+	Pages = {192 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0297826980}
+}
+@book{DA:00,
+	Author = {Dan  Abnett},
+	Title = {Ghostmaker},
+	Publisher = {Games Workshop},
+	Year = {2000},
+	Pages = {287 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1841540323}
+}
+@book{TP:05,
+	Author = {Terry  Pratchett},
+	Title = {Going Postal},
+	Publisher = {Corgi Books},
+	Year = {2005},
+	Pages = {429 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780552149433}
+}
+@book{PR:06,
+	Author = {Peter  Redman},
+	Title = {Good essay writing},
+	Publisher = {Sage Publications Ltd},
+	Year = {2006},
+	Pages = {121 pages},
+	Keywords = {Education},
+	Annote = {},
+	ISBN = {9781412920117}
+}
+@book{CD:94,
+	Author = {Charles  Dickens},
+	Title = {Great expectations},
+	Publisher = {OOO LabirintRu},
+	Year = {1994},
+	Pages = {442 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780140620160}
+}
+@book{BC:04,
+	Author = {Ben  Counter},
+	Title = {Grey Knights},
+	Publisher = {Games Workshop},
+	Year = {2004},
+	Pages = {416 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1844160874}
+}
+@book{TP:98,
+	Author = {Terry  Pratchett},
+	Title = {Guards! Guards!},
+	Publisher = {Corgi},
+	Year = {1998},
+	Pages = {316 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780552134620}
+}
+@book{JS:03,
+	Author = {Jonathan  Swift},
+	Title = {Gulliver's travels},
+	Publisher = {Penguin Classics},
+	Year = {2003},
+	Pages = {305 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780141439495}
+}
+@book{RS:91,
+	Author = {Jonathan  Swift and  Pat  Rogers},
+	Title = {Gulliver's travels},
+	Publisher = {Everyman's Library},
+	Year = {1991},
+	Pages = {318 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857150260}
+}
+@book{MB:03,
+	Author = {Mac  Bride},
+	Title = {HTML},
+	Publisher = {Hodder Arnold},
+	Year = {2003},
+	Pages = {256 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {0340811307}
+}
+@book{TH:01,
+	Author = {Thomas  Harris},
+	Title = {Hannibal},
+	Publisher = {Arrow},
+	Year = {2001},
+	Pages = {564 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0099416832}
+}
+@book{CD:92,
+	Author = {Charles  Dickens},
+	Title = {Hard times},
+	Publisher = {D. Campbell},
+	Year = {1992},
+	Pages = {299 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857150732}
+}
+@book{JR:98,
+	Author = {J. K. Rowling},
+	Title = {Harry Potter and the chamber of secrets},
+	Publisher = {Bloomsbury},
+	Year = {1998},
+	Pages = {251 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {0747538484}
+}
+@book{JR:07,
+	Author = {J. K. Rowling},
+	Title = {Harry Potter and the deathly hallows},
+	Publisher = {OOO LabirintRu},
+	Year = {2007},
+	Pages = {607 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {9780747591054}
+}
+@book{JR:00,
+	Author = {J. K. Rowling},
+	Title = {Harry Potter and the goblet of fire},
+	Publisher = {Bloomsbury Pub Ltd},
+	Year = {2000},
+	Pages = {636 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {074754624X}
+}
+@book{JR:05,
+	Author = {J. K. Rowling},
+	Title = {Harry Potter and the half-blood prince},
+	Publisher = {Egully.com},
+	Year = {2005},
+	Pages = {607 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {0747581088}
+}
+@book{JR:03,
+	Author = {J. K. Rowling},
+	Title = {Harry Potter and the order of the phoenix},
+	Publisher = {Rafeeq Ibrahim},
+	Year = {2003},
+	Pages = {766 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {0747551006}
+}
+@book{JR,
+	Author = {J. K. Rowling},
+	Title = {Harry Potter and the philosopher's stone},
+	Publisher = {Bloomsbury},
+	Year = {},
+	Pages = {223 pages},
+	Keywords = {England},
+	Annote = {},
+	ISBN = {0747532745}
+}
+@book{JR:99,
+	Author = {J. K. Rowling},
+	Title = {Harry Potter and the prisoner of Azkaban},
+	Publisher = {Egully.com},
+	Year = {1999},
+	Pages = {317 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {0747542155}
+}
+@book{CHK:07,
+	Author = {Joseph  Conrad and  Owen  Knowles and  Robert  Hampson},
+	Title = {Heart of Darkness and the Congo Diary},
+	Publisher = {Penguin Classics},
+	Year = {2007},
+	Pages = {136 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780141441672}
+}
+@book{RZ:92,
+	Author = {R. C. Zaehner},
+	Title = {Hindu scriptures},
+	Publisher = {Everyman Publishers},
+	Year = {1992},
+	Pages = {411 pages},
+	Keywords = {Religion},
+	Annote = {},
+	ISBN = {1857150643}
+}
+@book{DA:06,
+	Author = {Dan  Abnett},
+	Title = {His Last Command},
+	Publisher = {Games Workshop Ltd},
+	Year = {2006},
+	Pages = {416 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1844162397}
+}
+@book{TP:98,
+	Author = {Terry  Pratchett},
+	Title = {Hogfather},
+	Publisher = {Transworld Pub},
+	Year = {1998},
+	Pages = {444 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0552145424}
+}
+@book{DA:01,
+	Author = {Dan  Abnett},
+	Title = {Honour Guard},
+	Publisher = {Games Workshop, Limited},
+	Year = {2001},
+	Pages = {320 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1841541516}
+}
+@book{BC:08,
+	Author = {Ben  Counter},
+	Title = {Horus Heresy: Battle for the Abyss},
+	Publisher = {Gardners Books},
+	Year = {2008},
+	Pages = {416 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781844166572}
+}
+@book{DA:06,
+	Author = {Dan  Abnett},
+	Title = {Horus Rising},
+	Publisher = {Games Workshop Ltd},
+	Year = {2006},
+	Pages = {416 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {184416294X}
+}
+@book{noTag,
+	Author = {},
+	Title = {Household Management for Men},
+	Publisher = {Marks and Spencer},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{TE:07,
+	Author = {Terry  Eagleton},
+	Title = {How to read a poem},
+	Publisher = {Wiley-Blackwell},
+	Year = {2007},
+	Pages = {182 pages},
+	Keywords = {Literary Criticism},
+	Annote = {},
+	ISBN = {9781405151412}
+}
+@book{MW:07,
+	Author = {Kathleen  McMillan and  Jonathan  Weyers},
+	Title = {How to write dissertations and project reports},
+	Publisher = {Pearson Education},
+	Year = {2007},
+	Pages = {286 pages},
+	Keywords = {Education},
+	Annote = {},
+	ISBN = {9780273713586}
+}
+@book{BP:08,
+	Author = {Blaise  Pascal},
+	Title = {Human Happiness},
+	Publisher = {ePenguin},
+	Year = {2008},
+	Pages = {128 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {9780141036793}
+}
+@book{DS:07,
+	Author = {Dan  Simmons},
+	Title = {Hyperion},
+	Publisher = {Victor Gollancz Limited},
+	Year = {2007},
+	Pages = {480 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780575081147}
+}
+@book{MK:94,
+	Author = {Michio  Kaku},
+	Title = {Hyperspace},
+	Publisher = {Oxford University Press, USA},
+	Year = {1994},
+	Pages = {359 pages},
+	Keywords = {Mathematics},
+	Annote = {},
+	ISBN = {0195085140}
+}
+@book{noTag,
+	Author = {Ted  Nelson},
+	Title = {Hypertext, Hypermedia, Transclusion, Virtuality, Interwingularity, Teledildonics},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{RM:06,
+	Author = {Richard  Matheson},
+	Title = {I Am Legend},
+	Publisher = {Gollancz},
+	Year = {2006},
+	Pages = {176 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780575079007}
+}
+@book{WB:89,
+	Author = {Richard  Wilhelm and  Cary F. Baynes},
+	Title = {I Ching or Book of changes},
+	Publisher = {Penguin},
+	Year = {1989},
+	Pages = {740 pages},
+	Keywords = {Body, Mind & Spirit},
+	Annote = {},
+	ISBN = {0140192077}
+}
+@book{CW:08,
+	Author = {Christopher  Winn},
+	Title = {I Never Knew That About the English},
+	Publisher = {Ebury Press},
+	Year = {2008},
+	Pages = {368 pages},
+	Keywords = {Social Science},
+	Annote = {},
+	ISBN = {9780091926731}
+}
+@book{noTag,
+	Author = {Hannah  Green},
+	Title = {I Never Promised You A Rose Garden},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{IA:01,
+	Author = {Isaac  Asimov},
+	Title = {I, robot},
+	Publisher = {Voyager},
+	Year = {2001},
+	Pages = {249 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0007119631}
+}
+@book{IC:93,
+	Author = {Italo  Calvino},
+	Title = {If on a winter's night a traveler},
+	Publisher = {Everyman's Library},
+	Year = {1993},
+	Pages = {254 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857151380}
+}
+@book{noTag,
+	Author = {Truman  Capote},
+	Title = {In Cold Blood},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{noTag,
+	Author = {A Scientific American Book},
+	Title = {Information},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{HG:99,
+	Author = {Howard  Gardner},
+	Title = {Intelligence reframed},
+	Publisher = {Egully.com},
+	Year = {1999},
+	Pages = {304 pages},
+	Keywords = {Business & Economics},
+	Annote = {},
+	ISBN = {9780465026111}
+}
+@book{MH:97,
+	Author = {Martin  Hollis},
+	Title = {Invitation to philosophy},
+	Publisher = {Wiley-Blackwell},
+	Year = {1997},
+	Pages = {180 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0631206647}
+}
+@book{AM:03,
+	Author = {Rebecca  Moesta and  Kevin J. Anderson},
+	Title = {Jedi Shadow},
+	Publisher = {Berkley},
+	Year = {2003},
+	Pages = {400 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0425186830}
+}
+@book{AM:03,
+	Author = {Rebecca  Moesta and  Kevin J. Anderson},
+	Title = {Jedi Sunrise},
+	Publisher = {Berkley},
+	Year = {2003},
+	Pages = {392 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0425186849}
+}
+@book{TP:98,
+	Author = {Terry  Pratchett},
+	Title = {Jingo},
+	Publisher = {Transworld Publishers},
+	Year = {1998},
+	Pages = {413 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {055214598X}
+}
+@book{JV:94,
+	Author = {Jules  Verne},
+	Title = {Journey to the centre of the earth},
+	Publisher = {Penguin Books, Limited (UK)},
+	Year = {1994},
+	Pages = {253 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780140621396}
+}
+@book{SK:08,
+	Author = {Stephen  King},
+	Title = {Just After Sunset},
+	Publisher = {Egully.com},
+	Year = {2008},
+	Pages = {368 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780340977163}
+}
+@book{RK:94,
+	Author = {Rudyard  Kipling},
+	Title = {Just so stories},
+	Publisher = {OOO LabirintRu},
+	Year = {1994},
+	Pages = {158 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {014062113X}
+}
+@book{GB:04,
+	Author = {Gene  Brewer},
+	Title = {K-PAX},
+	Publisher = {Bloomsbury Publishing},
+	Year = {2004},
+	Pages = {791 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {074756695X}
+}
+@book{BB:07,
+	Author = {J G Ballard and  J. G. Ballard},
+	Title = {Kingdom Come},
+	Publisher = {HarperPerennial},
+	Year = {2007},
+	Pages = {304 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780007232475}
+}
+@book{DG:04,
+	Author = {David S. Goldblatt},
+	Title = {Knowledge and the social sciences},
+	Publisher = {Psychology Press},
+	Year = {2004},
+	Pages = {162 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0415329760}
+}
+@book{KC:02,
+	Author = {Kurt  Cobain},
+	Title = {Kurt Cobain journals},
+	Publisher = {Viking Canada},
+	Year = {2002},
+	Pages = {280 pages},
+	Keywords = {Biography & Autobiography},
+	Annote = {},
+	ISBN = {0670913707}
+}
+@book{JB:00,
+	Author = {Jorge Luis Borges},
+	Title = {Labyrinths},
+	Publisher = {Penguin Modern Classics},
+	Year = {2000},
+	Pages = {287 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780141184845}
+}
+@book{PB:92,
+	Author = {Pierre  Bourdieu},
+	Title = {Language and symbolic power},
+	Publisher = {Polity},
+	Year = {1992},
+	Pages = {312 pages},
+	Keywords = {Language Arts & Disciplines},
+	Annote = {},
+	ISBN = {9780745610344}
+}
+@book{DA:08,
+	Author = {Dan  Abnett},
+	Title = {Legion},
+	Publisher = {Black Library, The},
+	Year = {2008},
+	Pages = {416 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781844165360}
+}
+@book{VH:98,
+	Author = {Victor  Hugo},
+	Title = {Les misérables},
+	Publisher = {Penguin Classics},
+	Year = {1998},
+	Pages = {226 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780140622911}
+}
+@book{PD:84,
+	Author = {Philip K. Dick},
+	Title = {Lies, Inc},
+	Publisher = {Random House Inc},
+	Year = {1984},
+	Pages = {202 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1400030080}
+}
+@book{noTag,
+	Author = {Douglas  Adams},
+	Title = {Life, the Universe and Everything},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{CD:57,
+	Author = {Charles  Dickens},
+	Title = {Little Dorrit},
+	Publisher = {David Campbell},
+	Year = {1857},
+	Pages = {836 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857151119}
+}
+@book{MS:98,
+	Author = {Neil  Strauss and  Marilyn  Manson},
+	Title = {Long Hard Road Out of Hell},
+	Publisher = {Plexus},
+	Year = {1998},
+	Pages = {275 pages},
+	Keywords = {Biography & Autobiography},
+	Annote = {},
+	ISBN = {0859652777}
+}
+@book{SR:09,
+	Author = {Salman  Rushdie},
+	Title = {Luka and the Fire of Life},
+	Publisher = {Egully.com},
+	Year = {2009},
+	Pages = {216 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780224061629}
+}
+@book{NMB:10,
+	Author = {David  Malki and  Matthew  Bennardo and  Ryan  North},
+	Title = {Machine of Death},
+	Publisher = {Bearstache Books},
+	Year = {2010},
+	Pages = {464 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780982167120}
+}
+@book{TP:07,
+	Author = {Terry  Pratchett},
+	Title = {Making Money},
+	Publisher = {Doubleday UK},
+	Year = {2007},
+	Pages = {352 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780385611015}
+}
+@book{FP:00,
+	Author = {Frederik  Pohl},
+	Title = {Man plus},
+	Publisher = {Gollancz},
+	Year = {2000},
+	Pages = {215 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781857989465}
+}
+@book{OU:07,
+	Author = {Open  University},
+	Title = {Mapping Psychology: Chapters 1-5},
+	Publisher = {Open University},
+	Year = {2007},
+	Pages = {362 pages},
+	Keywords = {Psychology},
+	Annote = {},
+	ISBN = {9780749216276}
+}
+@book{TE:03,
+	Author = {Terry  Eagleton},
+	Title = {Marx and freedom},
+	Publisher = {Phoenix},
+	Year = {2003},
+	Pages = {57 pages},
+	Keywords = {},
+	Annote = {},
+	ISBN = {0753801876}
+}
+@book{TP:96,
+	Author = {Terry  Pratchett},
+	Title = {Maskerade},
+	Publisher = {Corgi Books},
+	Year = {1996},
+	Pages = {380 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0552142360}
+}
+@book{PS:00,
+	Author = {Peter  Sherran},
+	Title = {Mathematics},
+	Publisher = {Letts Educational},
+	Year = {2000},
+	Pages = {144 pages},
+	Keywords = {Mathematics},
+	Annote = {},
+	ISBN = {1840853107}
+}
+@book{GM:08,
+	Author = {Graham  McNeill},
+	Title = {Mechanicum},
+	Publisher = {Black Library, The},
+	Year = {2008},
+	Pages = {416 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1844166643}
+}
+@book{CJ:95,
+	Author = {Carl Gustav Jung},
+	Title = {Memories, Dreams, Reflections},
+	Publisher = {Harper Collins Paperbacks},
+	Year = {1995},
+	Pages = {448 pages},
+	Keywords = {Biography & Autobiography},
+	Annote = {},
+	ISBN = {9780006540274}
+}
+@book{GM:67,
+	Author = {George H. Mead},
+	Title = {Mind, self, and society},
+	Publisher = {University of Chicago Press},
+	Year = {1967},
+	Pages = {401 pages},
+	Keywords = {Psychology},
+	Annote = {},
+	ISBN = {0226516687}
+}
+@book{LB:94,
+	Author = {Lagoon  Books},
+	Title = {Mind-bending lateral thinking puzzles},
+	Publisher = {Lagoon Books},
+	Year = {1994},
+	Pages = {87 pages},
+	Keywords = {Games},
+	Annote = {},
+	ISBN = {1899712062}
+}
+@book{HM:94,
+	Author = {Herman  Melville},
+	Title = {Moby Dick},
+	Publisher = {OOO LabirintRu},
+	Year = {1994},
+	Pages = {536 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780140620627}
+}
+@book{TP:04,
+	Author = {Terry  Pratchett},
+	Title = {Monstrous Regiment},
+	Publisher = {Transworld Publishers},
+	Year = {2004},
+	Pages = {429 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780552149419}
+}
+@book{RH:05,
+	Author = {Robert A. Heinlein},
+	Title = {Moon Is a Harsh Mistress},
+	Publisher = {Hodder & Stoughton},
+	Year = {2005},
+	Pages = {288 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {9780340837948}
+}
+@book{TP:88,
+	Author = {Terry  Pratchett},
+	Title = {Mort},
+	Publisher = {Corgi Books},
+	Year = {1988},
+	Pages = {271 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0552131067}
+}
+@book{PR:10,
+	Author = {Philip  Reeve},
+	Title = {Mortal Engines},
+	Publisher = {Scholastic},
+	Year = {2010},
+	Pages = {304 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781407117041}
+}
+@book{TP:91,
+	Author = {Terry  Pratchett},
+	Title = {Moving Pictures},
+	Publisher = {Corgi},
+	Year = {1991},
+	Pages = {332 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0552134635}
+}
+@book{TP:08,
+	Author = {Terry  Pratchett},
+	Title = {Nation},
+	Publisher = {Doubleday UK},
+	Year = {2008},
+	Pages = {300 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {9780385613705}
+}
+@book{HL:08,
+	Author = {H. P. Lovecraft},
+	Title = {Necronomicon},
+	Publisher = {Victor Gollancz},
+	Year = {2008},
+	Pages = {880 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780575081567}
+}
+@book{DA:00,
+	Author = {Dan  Abnett},
+	Title = {Necropolis},
+	Publisher = {Black Library},
+	Year = {2000},
+	Pages = {313 pages},
+	Keywords = {Science fiction},
+	Annote = {},
+	ISBN = {1841541389}
+}
+@book{SK:11,
+	Author = {Stephen  King},
+	Title = {Needful Things},
+	Publisher = {Hodder & Stoughton},
+	Year = {2011},
+	Pages = {944 pages},
+	Keywords = {},
+	Annote = {},
+	ISBN = {9781444707878}
+}
+@book{JS:10,
+	Author = {James  Swallow},
+	Title = {Nemisis},
+	Publisher = {Black Library, The},
+	Year = {2010},
+	Pages = {416 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781844168682}
+}
+@book{MC:06,
+	Author = {Michael  Crichton},
+	Title = {Next},
+	Publisher = {HarperCollins},
+	Year = {2006},
+	Pages = {431 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0007240996}
+}
+@book{CD:93,
+	Author = {Charles  Dickens},
+	Title = {Nicholas Nickleby},
+	Publisher = {Everyman's Library},
+	Year = {1993},
+	Pages = {843 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857151593}
+}
+@book{LL:04,
+	Author = {Laurence  Lampert},
+	Title = {Nietzsche's Task},
+	Publisher = {Yale Univ Pr},
+	Year = {2004},
+	Pages = {336 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0300103018}
+}
+@book{TP:02,
+	Author = {Terry  Pratchett},
+	Title = {Night watch},
+	Publisher = {Doubleday UK},
+	Year = {2002},
+	Pages = {364 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0385602642}
+}
+@book{SK:08,
+	Author = {Stephen  King},
+	Title = {Nightmares and Dreamscapes},
+	Publisher = {Hodder & Stoughton},
+	Year = {2008},
+	Pages = {992 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780340952788}
+}
+@book{noTag,
+	Author = {George  Orwell},
+	Title = {Nineteen Eighty Four},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{GO:92,
+	Author = {George  Orwell},
+	Title = {Nineteen eighty-four},
+	Publisher = {Gardners Books},
+	Year = {1992},
+	Pages = {325 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857151348}
+}
+@book{PP:98,
+	Author = {Philip  Pullman},
+	Title = {Northern lights},
+	Publisher = {Egully.com},
+	Year = {1998},
+	Pages = {399 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {0590660543}
+}
+@book{SC:07,
+	Author = {John Henry Stape and  Joseph  Conrad},
+	Title = {Nostromo},
+	Publisher = {Penguin Classics},
+	Year = {2007},
+	Pages = {496 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780141441634}
+}
+@book{RB:06,
+	Author = {Peter J. Richerson and  Robert  Boyd},
+	Title = {Not by genes alone},
+	Publisher = {University Of Chicago Press},
+	Year = {2006},
+	Pages = {342 pages},
+	Keywords = {Psychology},
+	Annote = {},
+	ISBN = {9780226712123}
+}
+@book{noTag,
+	Author = {Leonardo Da Vinci},
+	Title = {Notebooks},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{noTag,
+	Author = {B.  Kirk and  R.  Muhlbacher and  B.  Leisch and  U.  Kreuzeder},
+	Title = {Oberon 2: Programming With Windows},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{Ad:91,
+	Author = {Donald  Adamson and  Honoré  de Balzac},
+	Title = {Old Goriot},
+	Publisher = {Everyman's Library},
+	Year = {1991},
+	Pages = {237 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857150376}
+}
+@book{HM:59,
+	Author = {Gertrude  Himmelfarb and  John Stuart Mill},
+	Title = {On liberty},
+	Publisher = {Penguin Classics},
+	Year = {1859},
+	Pages = {186 pages},
+	Keywords = {History},
+	Annote = {},
+	ISBN = {0140432078}
+}
+@book{CK:00,
+	Author = {Jack  Kerouac and  Ann  Charters},
+	Title = {On the road},
+	Publisher = {Penguin Modern Classics},
+	Year = {2000},
+	Pages = {280 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780141182674}
+}
+@book{Cv:93,
+	Author = {Carl  von Clausewitz},
+	Title = {On war},
+	Publisher = {David Campbell},
+	Year = {1993},
+	Pages = {870 pages},
+	Keywords = {History},
+	Annote = {},
+	ISBN = {1857151216}
+}
+@book{RM:00,
+	Author = {Gabriel García Márquez and  Gregory  Rabassa},
+	Title = {One Hundred Years of Solitude},
+	Publisher = {Penguin Modern Classics},
+	Year = {2000},
+	Pages = {422 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780141184999}
+}
+@book{BD:04,
+	Author = {Alexandre  Dumas and  Andrew  Brown},
+	Title = {One thousand and one ghosts},
+	Publisher = {Hesperus Press},
+	Year = {2004},
+	Pages = {160 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1843910829}
+}
+@book{DA:08,
+	Author = {Dan  Abnett},
+	Title = {Only in Death},
+	Publisher = {Black Library, The},
+	Year = {2008},
+	Pages = {320 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781844164288}
+}
+@book{WM:97,
+	Author = {Robert  Mighall and  Oscar  Wilde},
+	Title = {Oscar Wilde},
+	Publisher = {Orion Publishing Group, Ltd.},
+	Year = {1997},
+	Pages = {118 pages},
+	Keywords = {Literary Criticism},
+	Annote = {},
+	ISBN = {0460878034}
+}
+@book{noTag,
+	Author = {},
+	Title = {Oxford Concise Dictionary},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{noTag,
+	Author = {Ford Madox Ford},
+	Title = {Parade's End},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{LM:03,
+	Author = {John  Milton and  John  Leonard},
+	Title = {Paradise lost},
+	Publisher = {Penguin Classics},
+	Year = {2003},
+	Pages = {453 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0140424393}
+}
+@book{KR:00,
+	Author = {Keith  Roberts},
+	Title = {Pavane},
+	Publisher = {Millennium},
+	Year = {2000},
+	Pages = {279 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781857989373}
+}
+@book{PS:87,
+	Author = {Patrick  Süskind},
+	Title = {Perfume},
+	Publisher = {InBook SA},
+	Year = {1987},
+	Pages = {263 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780140120837}
+}
+@book{MM:02,
+	Author = {Maurice  Merleau-Ponty},
+	Title = {Phenomenology of perception},
+	Publisher = {Psychology Press},
+	Year = {2002},
+	Pages = {544 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {9780415278416}
+}
+@book{WB:91,
+	Author = {William  Blake},
+	Title = {Poems and prophecies},
+	Publisher = {Everyman's Library},
+	Year = {1991},
+	Pages = {439 pages},
+	Keywords = {Poetry},
+	Annote = {},
+	ISBN = {1857150341}
+}
+@book{noTag,
+	Author = {Ben  Elton},
+	Title = {Popcorn},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{CB:92,
+	Author = {Charles  Bukowski},
+	Title = {Post office},
+	Publisher = {Random House},
+	Year = {1992},
+	Pages = {160 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780863697609}
+}
+@book{BR:75,
+	Author = {Bertrand  Russell},
+	Title = {Power},
+	Publisher = {Unwin Books},
+	Year = {1975},
+	Pages = {207 pages},
+	Keywords = {Social Science},
+	Annote = {},
+	ISBN = {0043010725}
+}
+@book{PS:93,
+	Author = {Peter  Singer},
+	Title = {Practical ethics},
+	Publisher = {Cambridge Univ Pr},
+	Year = {1993},
+	Pages = {395 pages},
+	Keywords = {Medical},
+	Annote = {},
+	ISBN = {052143971X}
+}
+@book{IA:88,
+	Author = {Isaac  Asimov},
+	Title = {Prelude to foundation},
+	Publisher = {Voyager},
+	Year = {1988},
+	Pages = {464 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0586071113}
+}
+@book{MC:03,
+	Author = {Michael  Crichton},
+	Title = {Prey},
+	Publisher = {HarperCollins UK},
+	Year = {2003},
+	Pages = {528 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0007154534}
+}
+@book{JA:91,
+	Author = {Jane  Austen},
+	Title = {Pride and prejudice},
+	Publisher = {Everyman's Library},
+	Year = {1991},
+	Pages = {368 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857150015}
+}
+@book{DA:11,
+	Author = {Dan  Abnett},
+	Title = {Prospero Burns},
+	Publisher = {Black Library, The},
+	Year = {2011},
+	Pages = {416 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781844167760}
+}
+@book{GM:67,
+	Author = {George Armitage Miller},
+	Title = {Psychology},
+	Publisher = {Penguin},
+	Year = {1967},
+	Pages = {415 pages},
+	Keywords = {Psychology},
+	Annote = {},
+	ISBN = {0140208380}
+}
+@book{DA:85,
+	Author = {Dante  Alighieri},
+	Title = {Purgatory},
+	Publisher = {Penguin Classics},
+	Year = {1985},
+	Pages = {399 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0140444424}
+}
+@book{JR:01,
+	Author = {J. K. Rowling},
+	Title = {Quidditch through the ages},
+	Publisher = {Egully.com},
+	Year = {2001},
+	Pages = {56 pages},
+	Keywords = {Sports & Recreation},
+	Annote = {},
+	ISBN = {0747554714}
+}
+@book{N:04,
+	Author = {Karel  Čapek and  Claudia  Novack},
+	Title = {R.U.R. (Rossum's universal robots)},
+	Publisher = {Penguin Group USA},
+	Year = {2004},
+	Pages = {84 pages},
+	Keywords = {Drama},
+	Annote = {},
+	ISBN = {9780141182087}
+}
+@book{DA:05,
+	Author = {Dan  Abnett},
+	Title = {Ravenor},
+	Publisher = {Games Workshop Ltd},
+	Year = {2005},
+	Pages = {416 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781844160730}
+}
+@book{DA:06,
+	Author = {Dan  Abnett},
+	Title = {Ravenor Returned},
+	Publisher = {Games Workshop Ltd},
+	Year = {2006},
+	Pages = {416 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781844161850}
+}
+@book{DA:08,
+	Author = {Dan  Abnett},
+	Title = {Ravenor Rogue},
+	Publisher = {Black Library, The},
+	Year = {2008},
+	Pages = {416 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781844164615}
+}
+@book{TP:98,
+	Author = {Terry  Pratchett},
+	Title = {Reaper Man},
+	Publisher = {Corgi},
+	Year = {1998},
+	Pages = {287 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780552134644}
+}
+@book{KR:96,
+	Author = {Kim Stanley Robinson},
+	Title = {Red Mars},
+	Publisher = {Voyager},
+	Year = {1996},
+	Pages = {671 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780586213896}
+}
+@book{E(:66,
+	Author = {Leo Tolstoy (graf) and  Rosemary  Edmonds},
+	Title = {Resurrection},
+	Publisher = {Penguin Classics},
+	Year = {1966},
+	Pages = {567 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0140441840}
+}
+@book{DD:92,
+	Author = {Daniel  Defoe},
+	Title = {Robinson Crusoe},
+	Publisher = {D. Campbell},
+	Year = {1992},
+	Pages = {261 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857150163}
+}
+@book{SM:05,
+	Author = {Stephen  Mulhall},
+	Title = {Routledge philosophy guidebook to Heidegger and Being and time},
+	Publisher = {Taylor & Francis},
+	Year = {2005},
+	Pages = {220 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0415357209}
+}
+@book{DA:05,
+	Author = {Dan  Abnett},
+	Title = {Sabbat Martyr},
+	Publisher = {Black Library, The},
+	Year = {2005},
+	Pages = {320 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1844163032}
+}
+@book{PCS:00,
+	Author = {Jack  Cohen and  Terry  Pratchett and  Ian  Stewart},
+	Title = {Science of Discworld},
+	Publisher = {Ebury Press},
+	Year = {2000},
+	Pages = {336 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0091874777}
+}
+@book{noTag,
+	Author = {Roger  Fiske},
+	Title = {Score Recording},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{AH:04,
+	Author = {Anthony  Horowitz},
+	Title = {Scorpia},
+	Publisher = {Walker},
+	Year = {2004},
+	Pages = {358 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {0744583233}
+}
+@book{noTag,
+	Author = {Isaac  Asimov},
+	Title = {Second Foundation},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{VP:98,
+	Author = {David  Van Leer and  Edgar Allan Poe},
+	Title = {Selected tales},
+	Publisher = {Oxford University Press, USA},
+	Year = {1998},
+	Pages = {338 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0192832247}
+}
+@book{BB:08,
+	Author = {Bill  Bryson},
+	Title = {Shakespeare},
+	Publisher = {HarperPerennial},
+	Year = {2008},
+	Pages = {200 pages},
+	Keywords = {Literary Criticism},
+	Annote = {},
+	ISBN = {9780007197903}
+}
+@book{JB:94,
+	Author = {Jean  Baudrillard},
+	Title = {Simulacra and simulation},
+	Publisher = {Univ of Michigan Pr},
+	Year = {1994},
+	Pages = {164 pages},
+	Keywords = {Art},
+	Annote = {},
+	ISBN = {9780472065219}
+}
+@book{JA:02,
+	Author = {Jason  Arnopp},
+	Title = {Slipknot},
+	Publisher = {Ebury Press},
+	Year = {2002},
+	Pages = {248 pages},
+	Keywords = {Biography & Autobiography},
+	Annote = {},
+	ISBN = {0091879337}
+}
+@book{TP:93,
+	Author = {Terry  Pratchett},
+	Title = {Small Gods},
+	Publisher = {Transworld Publishers},
+	Year = {1993},
+	Pages = {380 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0552138908}
+}
+@book{NS:93,
+	Author = {Neal  Stephenson},
+	Title = {Snow crash},
+	Publisher = {N A L Trade},
+	Year = {1993},
+	Pages = {440 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780140232929}
+}
+@book{KW:03,
+	Author = {Kath  Woodward},
+	Title = {Social sciences},
+	Publisher = {Psychology Press},
+	Year = {2003},
+	Pages = {189 pages},
+	Keywords = {Social Science},
+	Annote = {},
+	ISBN = {0415300800}
+}
+@book{noTag,
+	Author = {Claire  Willis},
+	Title = {Software Development With Oberon-2: A Modular Approach},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{SL:03,
+	Author = {Stanislaw  Lem},
+	Title = {Solaris},
+	Publisher = {Faber and Faber},
+	Year = {2003},
+	Pages = {214 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0571219721}
+}
+@book{RB:08,
+	Author = {ROBERT  BURTON},
+	Title = {Some Anatomies of Melancholy},
+	Publisher = {Egully.com},
+	Year = {2008},
+	Pages = {},
+	Keywords = {Psychology},
+	Annote = {},
+	ISBN = {9780141036786}
+}
+@book{TP:95,
+	Author = {Terry  Pratchett},
+	Title = {Soul music},
+	Publisher = {Transworld Publishers},
+	Year = {1995},
+	Pages = {377 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0552140295}
+}
+@book{TP:89,
+	Author = {Terry  Pratchett},
+	Title = {Sourcery},
+	Publisher = {Corgi},
+	Year = {1989},
+	Pages = {269 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0552131075}
+}
+@book{MC:88,
+	Author = {Michael  Crichton},
+	Title = {Sphere},
+	Publisher = {Pan Publishing},
+	Year = {1988},
+	Pages = {500 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0330301276}
+}
+@book{EP:97,
+	Author = {Edgar Allan Poe},
+	Title = {Spirits of the dead},
+	Publisher = {OOO LabirintRu},
+	Year = {1997},
+	Pages = {278 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780140622393}
+}
+@book{KA:96,
+	Author = {Kevin J. Anderson},
+	Title = {Star wars},
+	Publisher = {Bantam},
+	Year = {1996},
+	Pages = {339 pages},
+	Keywords = {},
+	Annote = {},
+	ISBN = {0553504711}
+}
+@book{RH:05,
+	Author = {Robert A. Heinlein},
+	Title = {Starship Troopers},
+	Publisher = {Hodder & Stoughton},
+	Year = {2005},
+	Pages = {222 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780340837931}
+}
+@book{MC:05,
+	Author = {Michael  Crichton},
+	Title = {State of fear},
+	Publisher = {HarperCollins UK},
+	Year = {2005},
+	Pages = {717 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0007181604}
+}
+@book{EG:90,
+	Author = {Erving  Goffman},
+	Title = {Stigma},
+	Publisher = {Penguin Books},
+	Year = {1990},
+	Pages = {173 pages},
+	Keywords = {Psychology},
+	Annote = {},
+	ISBN = {9780140124750}
+}
+@book{DA:06,
+	Author = {Dan  Abnett},
+	Title = {Straight Silver},
+	Publisher = {Black Library},
+	Year = {2006},
+	Pages = {320 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1844163288}
+}
+@book{TAB:02,
+	Author = {Paul  Terry and  David  Bowman and  John  Arkell},
+	Title = {Student's Guide to Gcse Music for the Edexcel Specification},
+	Publisher = {Rhinegold Publishing Limited},
+	Year = {2002},
+	Pages = {120 pages},
+	Keywords = {},
+	Annote = {},
+	ISBN = {1904226019}
+}
+@book{MM:02,
+	Author = {Michael  Moore},
+	Title = {Stupid white men},
+	Publisher = {Penguin},
+	Year = {2002},
+	Pages = {281 pages},
+	Keywords = {Humor},
+	Annote = {},
+	ISBN = {0141011904}
+}
+@book{SS:09,
+	Author = {Susan  Sontag},
+	Title = {Styles of Radical Will},
+	Publisher = {Penguin Classics},
+	Year = {2009},
+	Pages = {288 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780141190051}
+}
+@book{KA:96,
+	Author = {Kevin J. Anderson},
+	Title = {Tales from Jabba's palace},
+	Publisher = {Bantam Books},
+	Year = {1996},
+	Pages = {427 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0553504134}
+}
+@book{KA:95,
+	Author = {Kevin J. Anderson},
+	Title = {Tales from the Mos Eisley Cantina},
+	Publisher = {Bantam Books},
+	Year = {1995},
+	Pages = {387 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0553409719}
+}
+@book{ND:73,
+	Author = {N. J. Dawood},
+	Title = {Tales from the Thousand and one nights},
+	Publisher = {Penguin Classics},
+	Year = {1973},
+	Pages = {406 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780140442892}
+}
+@book{CB:09,
+	Author = {Charles  Bukowski},
+	Title = {Tales of Ordinary Madness},
+	Publisher = {Virgin},
+	Year = {2009},
+	Pages = {231 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780753513873}
+}
+@book{AL:06,
+	Author = {Alwena  Lamping},
+	Title = {Talk Italian},
+	Publisher = {Bbc Pubns},
+	Year = {2006},
+	Pages = {126 pages},
+	Keywords = {Education},
+	Annote = {},
+	ISBN = {0563520159}
+}
+@book{TH:91,
+	Author = {Thomas  Hardy},
+	Title = {Tess of the d'Urbervilles},
+	Publisher = {Everyman's Library},
+	Year = {1991},
+	Pages = {472 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857150333}
+}
+@book{MC:93,
+	Author = {Michael  Crichton},
+	Title = {The Andromeda strain},
+	Publisher = {Arrow Books},
+	Year = {1993},
+	Pages = {295 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0099319519}
+}
+@book{HH:92,
+	Author = {Husain  Haddawy},
+	Title = {The Arabian nights},
+	Publisher = {Vintage},
+	Year = {1992},
+	Pages = {428 pages},
+	Keywords = {},
+	Annote = {},
+	ISBN = {1857150872}
+}
+@book{noTag,
+	Author = {C. G. Jung},
+	Title = {The Archetypes and the Collective Unconscious},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{DA:06,
+	Author = {Dan  Abnett},
+	Title = {The Armour of Contempt},
+	Publisher = {Games Workshop Ltd},
+	Year = {2006},
+	Pages = {320 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781844164004}
+}
+@book{IL:02,
+	Author = {Introduction by: Taigen Daniel Leighton, Edited By: John Daido  Loori},
+	Title = {The Art of Just Sitting},
+	Publisher = {Wisdom Pubns},
+	Year = {2002},
+	Pages = {243 pages},
+	Keywords = {Religion},
+	Annote = {},
+	ISBN = {086171394X}
+}
+@book{ST:05,
+	Author = {Sun  Tzu},
+	Title = {The Art of War},
+	Publisher = {Penguin Classics},
+	Year = {2005},
+	Pages = {100 pages},
+	Keywords = {Business & Economics},
+	Annote = {},
+	ISBN = {9780141023816}
+}
+@book{SK:07,
+	Author = {Stephen  King},
+	Title = {The Bachman Books},
+	Publisher = {Hodder & Stoughton},
+	Year = {2007},
+	Pages = {978 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780340952252}
+}
+@book{BM:02,
+	Author = {Simon  Brodbeck and  Juan  Mascaró},
+	Title = {The Bhagavad Gita},
+	Publisher = {Penguin Classics},
+	Year = {2002},
+	Pages = {85 pages},
+	Keywords = {Poetry},
+	Annote = {},
+	ISBN = {0140449183}
+}
+@book{CC:03,
+	Author = {Geoffrey  Chaucer and  Nevill  Coghill},
+	Title = {The Canterbury tales},
+	Publisher = {Penguin Classics},
+	Year = {2003},
+	Pages = {504 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780140424386}
+}
+@book{noTag,
+	Author = {John  Wyndham},
+	Title = {The Chrysalids},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{noTag,
+	Author = {William  Shakespeare},
+	Title = {The Complete Works},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{AD:03,
+	Author = {Alexandre  Dumas},
+	Title = {The Count of Monte Cristo},
+	Publisher = {Penguin Classics},
+	Year = {2003},
+	Pages = {1276 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0140449264}
+}
+@book{WN:00,
+	Author = {Wendy  Northcutt},
+	Title = {The Darwin Awards},
+	Publisher = {Orion},
+	Year = {2000},
+	Pages = {176 pages},
+	Keywords = {Humor},
+	Annote = {},
+	ISBN = {0752838717}
+}
+@book{noTag,
+	Author = {John  Wyndham},
+	Title = {The Day of the Triffids},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{MS:98,
+	Author = {Pauline  Maier and  United  States},
+	Title = {The Declaration of Independence and the Constitution of the United States},
+	Publisher = {Bantam Classics},
+	Year = {1998},
+	Pages = {112 pages},
+	Keywords = {History},
+	Annote = {},
+	ISBN = {9780553214826}
+}
+@book{DA:86,
+	Author = {Dante  Alighieri},
+	Title = {The Divine Comedy: Paradise},
+	Publisher = {Penguin Classics},
+	Year = {1986},
+	Pages = {433 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0140444432}
+}
+@book{GG:93,
+	Author = {Ursula K. Le  Guin and  Ursula Le Guin},
+	Title = {The Earthsea Quartet},
+	Publisher = {Penguin Books, Limited (UK)},
+	Year = {1993},
+	Pages = {704 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780140154276}
+}
+@book{noTag,
+	Author = {Isaac  Asimov},
+	Title = {The End of Eternity},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{JT:10,
+	Author = {John  Tingey},
+	Title = {The Englishman Who Posted Himself and Other Curious Objects},
+	Publisher = {Princeton Architectural Pr},
+	Year = {2010},
+	Pages = {176 pages},
+	Keywords = {Antiques & Collectibles},
+	Annote = {},
+	ISBN = {9781568988726}
+}
+@book{LS:02,
+	Author = {Lemony  Snicket},
+	Title = {The Ersatz elevator},
+	Publisher = {Egmont},
+	Year = {2002},
+	Pages = {259 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {1405200510}
+}
+@book{JC:95,
+	Author = {John  Carey},
+	Title = {The Faber book of science},
+	Publisher = {Faber and Faber},
+	Year = {1995},
+	Pages = {528 pages},
+	Keywords = {Science},
+	Annote = {},
+	ISBN = {0571179010}
+}
+@book{BG:04,
+	Author = {Brian  Greene},
+	Title = {The Fabric of the Cosmos},
+	Publisher = {Penguin Books},
+	Year = {2004},
+	Pages = {569 pages},
+	Keywords = {Science},
+	Annote = {},
+	ISBN = {9780141035291}
+}
+@book{AD:10,
+	Author = {Aaron  Dembski-Bowden},
+	Title = {The First Heretic},
+	Publisher = {Black Library, The},
+	Year = {2010},
+	Pages = {416 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781844168842}
+}
+@book{JS:07,
+	Author = {James  Swallow},
+	Title = {The Flight of the Eisenstein},
+	Publisher = {Games Workshop Ltd},
+	Year = {2007},
+	Pages = {416 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781844164592}
+}
+@book{SP:08,
+	Author = {Jacqueline  Simpson and  Terry  Pratchett},
+	Title = {The Folklore of Discworld},
+	Publisher = {Doubleday UK},
+	Year = {2008},
+	Pages = {368 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780385611008}
+}
+@book{AD:09,
+	Author = {Andrew  Davidson},
+	Title = {The Gargoyle},
+	Publisher = {Canongate Books Ltd},
+	Year = {2009},
+	Pages = {502 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781847671691}
+}
+@book{JG:09,
+	Author = {John  Graham-Cumming},
+	Title = {The Geek Atlas},
+	Publisher = {O'Reilly Media},
+	Year = {2009},
+	Pages = {523 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {9780596523206}
+}
+@book{GM:95,
+	Author = {Gustav  Meyrink},
+	Title = {The Golem},
+	Publisher = {Dedalus Ltd},
+	Year = {1995},
+	Pages = {262 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781873982914}
+}
+@book{SK:99,
+	Author = {Stephen  King},
+	Title = {The Green Mile},
+	Publisher = {Pocket},
+	Year = {1999},
+	Pages = {544 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0671041789}
+}
+@book{GT:95,
+	Author = {Geoff  Tibballs},
+	Title = {The Guinness book of oddities},
+	Publisher = {Guinness Publishing},
+	Year = {1995},
+	Pages = {192 pages},
+	Keywords = {Reference},
+	Annote = {},
+	ISBN = {0851126618}
+}
+@book{noTag,
+	Author = {Homer  },
+	Title = {The Iliad},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{AS:08,
+	Author = {Adam  Smith},
+	Title = {The Invisible Hand},
+	Publisher = {PENGUIN GROUP},
+	Year = {2008},
+	Pages = {126 pages},
+	Keywords = {Business & Economics},
+	Annote = {},
+	ISBN = {9780141036816}
+}
+@book{TP:07,
+	Author = {Terry  Pratchett},
+	Title = {The Last Hero},
+	Publisher = {Phoenix},
+	Year = {2007},
+	Pages = {174 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780575081963}
+}
+@book{JT:07,
+	Author = {John Ronald Reuel  Tolkien},
+	Title = {The Lord of the Rings: The return of the king},
+	Publisher = {Egully.com},
+	Year = {2007},
+	Pages = {556 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0261102370}
+}
+@book{FP:11,
+	Author = {Francis  Pryor},
+	Title = {The Making of the British Landscape},
+	Publisher = {Penguin Books, Limited},
+	Year = {2011},
+	Pages = {812 pages},
+	Keywords = {History},
+	Annote = {},
+	ISBN = {9780141040592}
+}
+@book{CR:92,
+	Author = {Curtis  Roads},
+	Title = {The Music Machine},
+	Publisher = {The MIT Press},
+	Year = {1992},
+	Pages = {740 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {0262680785}
+}
+@book{RAUA:98,
+	Author = {  Aristotle and  William David Ross and  J. O. Urmson and  J. L. Ackrill},
+	Title = {The Nicomachean ethics},
+	Publisher = {Oxford University Press, USA},
+	Year = {1998},
+	Pages = {283 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780192834072}
+}
+@book{LL:07,
+	Author = {Sergei  Lukyanenko and  Sergei  Luk'ianenko},
+	Title = {The Night Watch},
+	Publisher = {Arrow},
+	Year = {2007},
+	Pages = {531 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780099489924}
+}
+@book{SF:07,
+	Author = {Stephen  Fry},
+	Title = {The Ode Less Travelled},
+	Publisher = {Arrow},
+	Year = {2007},
+	Pages = {384 pages},
+	Keywords = {Language Arts & Disciplines},
+	Annote = {},
+	ISBN = {9780099509349}
+}
+@book{KHS:08,
+	Author = {  Homer and  G. S. Kirk and  Walter  Shewring},
+	Title = {The Odyssey},
+	Publisher = {Oxford University Press, USA},
+	Year = {2008},
+	Pages = {384 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780199536788}
+}
+@book{noTag,
+	Author = {},
+	Title = {The Oxford Dictionary of Quotations},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{LS:05,
+	Author = {Lemony  Snicket},
+	Title = {The Penultimate Peril},
+	Publisher = {Egmont},
+	Year = {2005},
+	Pages = {368 pages},
+	Keywords = {Baudelaire, Klaus (Fictitious character)},
+	Annote = {},
+	ISBN = {1405223375}
+}
+@book{JB:11,
+	Author = {Joke  Brouwer},
+	Title = {The Politics of the Impure},
+	Publisher = {Nai Uitgevers Pub},
+	Year = {2011},
+	Pages = {356 pages},
+	Keywords = {Art},
+	Annote = {},
+	ISBN = {9789056627485}
+}
+@book{MR:88,
+	Author = {William J. Richardson and  John P. Muller},
+	Title = {The Purloined Poe},
+	Publisher = {Johns Hopkins Univ Pr},
+	Year = {1988},
+	Pages = {394 pages},
+	Keywords = {Literary Criticism},
+	Annote = {},
+	ISBN = {0801832934}
+}
+@book{JT:01,
+	Author = {J. R. R.  Tolkien},
+	Title = {The Return of the King},
+	Publisher = {HarperCollins Canada, Limited},
+	Year = {2001},
+	Pages = {731 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0007119569}
+}
+@book{CPS:06,
+	Author = {Ian  Stewart and  Terry  Pratchett and  Jack  Cohen},
+	Title = {The Science of Discworld III: Darwin's Watch},
+	Publisher = {Ebury Press},
+	Year = {2006},
+	Pages = {384 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0091898242}
+}
+@book{GWA:06,
+	Author = {Suzi  Godson and  Mel  Agace and  ROBERT M. L.  WINSTON},
+	Title = {The Sex Book},
+	Publisher = {Cassell Illustrated},
+	Year = {2006},
+	Pages = {288 pages},
+	Keywords = {Health & Fitness},
+	Annote = {},
+	ISBN = {1844035115}
+}
+@book{SK:11,
+	Author = {Stephen  King},
+	Title = {The Stand},
+	Publisher = {Hodder & Stoughton},
+	Year = {2011},
+	Pages = {1344 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781444720730}
+}
+@book{JR:08,
+	Author = {J. K. Rowling},
+	Title = {The Tales of Beedle the Bard},
+	Publisher = {Bloomsbury UK},
+	Year = {2008},
+	Pages = {108 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780747599876}
+}
+@book{CT:10,
+	Author = {Chuang  Tzu},
+	Title = {The Tao of Nature},
+	Publisher = {Penguin Classics},
+	Year = {2010},
+	Pages = {160 pages},
+	Keywords = {Religion},
+	Annote = {},
+	ISBN = {9780141192741}
+}
+@book{noTag,
+	Author = {H. G. Wells},
+	Title = {The Time Machine},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{noTag,
+	Author = {Franz  Kafka},
+	Title = {The Trial},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{noTag,
+	Author = {H. G. Wells},
+	Title = {The War of the Worlds},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{PB:10,
+	Author = {Paolo  Bacigalupi},
+	Title = {The Windup Girl},
+	Publisher = {Orbit Books},
+	Year = {2010},
+	Pages = {544 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780356500539}
+}
+@book{TP:07,
+	Author = {Terry  Pratchett},
+	Title = {The Wit and Wisdom of Discworld},
+	Publisher = {Doubleday UK},
+	Year = {2007},
+	Pages = {176 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780385611770}
+}
+@book{BU:08,
+	Author = {J. A. Underwood and  Walter  Benjamin},
+	Title = {The Work of Art in the Age of Mechanical Reproduction},
+	Publisher = {PENGUIN UK},
+	Year = {2008},
+	Pages = {128 pages},
+	Keywords = {Art},
+	Annote = {},
+	ISBN = {9780141036199}
+}
+@book{AD:94,
+	Author = {Arthur Conan Doyle},
+	Title = {The adventures of Sherlock Holmes},
+	Publisher = {OOO LabirintRu},
+	Year = {1994},
+	Pages = {302 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780140621006}
+}
+@book{EW:96,
+	Author = {Edith  Wharton},
+	Title = {The age of innocence},
+	Publisher = {OOO LabirintRu},
+	Year = {1996},
+	Pages = {364 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780140622058}
+}
+@book{TG:89,
+	Author = {Michael  Grant and  Cornelius  Tacitus},
+	Title = {The annals of imperial Rome},
+	Publisher = {Penguin Classics},
+	Year = {1989},
+	Pages = {455 pages},
+	Keywords = {History},
+	Annote = {},
+	ISBN = {9780140440607}
+}
+@book{RG:83,
+	Author = {Róbert  Gerle},
+	Title = {The art of practising the violin},
+	Publisher = {Galaxy Music Corp},
+	Year = {1983},
+	Pages = {110 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {0852495064}
+}
+@book{Ad:03,
+	Author = {Alain  de Botton},
+	Title = {The art of travel},
+	Publisher = {Egully.com},
+	Year = {2003},
+	Pages = {261 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0140276629}
+}
+@book{LS:03,
+	Author = {Lemony  Snicket},
+	Title = {The austere academy},
+	Publisher = {Egmont},
+	Year = {2003},
+	Pages = {272 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {1405208716}
+}
+@book{LS:01,
+	Author = {Lemony  Snicket},
+	Title = {The bad beginning},
+	Publisher = {Egmont},
+	Year = {2001},
+	Pages = {162 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {0749746114}
+}
+@book{LM:04,
+	Author = {Lou  Marinoff},
+	Title = {The big questions},
+	Publisher = {Egully.com},
+	Year = {2004},
+	Pages = {384 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0747565864}
+}
+@book{AD:03,
+	Author = {Alexandre  Dumas},
+	Title = {The black tulip},
+	Publisher = {Penguin Books},
+	Year = {2003},
+	Pages = {246 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0140448926}
+}
+@book{DM:03,
+	Author = {Fyodor  Dostoyevsky and  David  McDuff},
+	Title = {The brothers Karamazov},
+	Publisher = {Penguin Classics},
+	Year = {2003},
+	Pages = {1013 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780140449242}
+}
+@book{JK:08,
+	Author = {Jesse  Kellerman},
+	Title = {The brutal art},
+	Publisher = {Egully.com},
+	Year = {2008},
+	Pages = {405 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780751540284}
+}
+@book{HL:99,
+	Author = {Howard Phillips Lovecraft},
+	Title = {The call of Cthulhu and other weird stories},
+	Publisher = {Penguin Modern Classics},
+	Year = {1999},
+	Pages = {420 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780141187068}
+}
+@book{AP:92,
+	Author = {Aleksandr Sergeevich Pushkin},
+	Title = {The captain's daughter and other stories},
+	Publisher = {Vintage},
+	Year = {1992},
+	Pages = {336 pages},
+	Keywords = {},
+	Annote = {},
+	ISBN = {185715083X}
+}
+@book{HS:03,
+	Author = {Lemony  Snicket and  Brett  Helquist},
+	Title = {The carnivorous carnival},
+	Publisher = {Egmont},
+	Year = {2003},
+	Pages = {286 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {1405207523}
+}
+@book{FK:00,
+	Author = {Franz  Kafka},
+	Title = {The castle},
+	Publisher = {Penguin Modern Classics},
+	Year = {2000},
+	Pages = {304 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780141183442}
+}
+@book{FF:07,
+	Author = {Robin  Fox and  R L Fox},
+	Title = {The classical world : an epic history of Greece and Rome.},
+	Publisher = {Penguin},
+	Year = {2007},
+	Pages = {720 pages},
+	Keywords = {History},
+	Annote = {},
+	ISBN = {9780141035277}
+}
+@book{TP:90,
+	Author = {Terry  Pratchett},
+	Title = {The colour of magic},
+	Publisher = {Corgi Books},
+	Year = {1990},
+	Pages = {284 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0552124753}
+}
+@book{MC:92,
+	Author = {John  Milton and  Gordon  Campbell},
+	Title = {The complete English poems},
+	Publisher = {David Campbell Pub.},
+	Year = {1992},
+	Pages = {620 pages},
+	Keywords = {Poetry},
+	Annote = {},
+	ISBN = {185715097X}
+}
+@book{DP:91,
+	Author = {John  Donne and  C. A. Patrides},
+	Title = {The complete English poems},
+	Publisher = {Everyman's Library},
+	Year = {1991},
+	Pages = {569 pages},
+	Keywords = {Poetry},
+	Annote = {},
+	ISBN = {1857150058}
+}
+@book{SB:06,
+	Author = {Samuel  Beckett},
+	Title = {The complete dramatic works},
+	Publisher = {Faber & Faber},
+	Year = {2006},
+	Pages = {476 pages},
+	Keywords = {Drama},
+	Annote = {},
+	ISBN = {0571229158}
+}
+@book{ALM:93,
+	Author = {Andrew  Marvell and  George de Forest  Lord and  A.  Alvarez},
+	Title = {The complete poems},
+	Publisher = {David Campbell},
+	Year = {1993},
+	Pages = {275 pages},
+	Keywords = {Poetry},
+	Annote = {},
+	ISBN = {1857151534}
+}
+@book{Sa:00,
+	Author = {  Saki},
+	Title = {The complete short stories},
+	Publisher = {Penguin Modern Classics},
+	Year = {2000},
+	Pages = {563 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780141184494}
+}
+@book{WG:07,
+	Author = {Herbert George Wells and  Neil  Gaiman},
+	Title = {The country of the blind and other selected stories},
+	Publisher = {Penguin Classics},
+	Year = {2007},
+	Pages = {432 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780141441986}
+}
+@book{BK:07,
+	Author = {David  Bell and  Barbara M. Kennedy},
+	Title = {The cybercultures reader},
+	Publisher = {Routledge},
+	Year = {2007},
+	Pages = {797 pages},
+	Keywords = {Art},
+	Annote = {},
+	ISBN = {9780415410670}
+}
+@book{JC:09,
+	Author = {John  Christopher},
+	Title = {The death of grass},
+	Publisher = {Penguin Classics},
+	Year = {2009},
+	Pages = {194 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780141190174}
+}
+@book{AL:90,
+	Author = {John  Lloyd and  Douglas  Adams},
+	Title = {The deeper meaning of liff},
+	Publisher = {Pan},
+	Year = {1990},
+	Pages = {146 pages},
+	Keywords = {Humor},
+	Annote = {},
+	ISBN = {9780330322201}
+}
+@book{GG:99,
+	Author = {George  Grossmith and  Weedon  Grossmith},
+	Title = {The diary of a nobody},
+	Publisher = {Penguin Classics},
+	Year = {1999},
+	Pages = {217 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780140437324}
+}
+@book{JS:03,
+	Author = {Jonathan  Sacks},
+	Title = {The dignity of difference},
+	Publisher = {Continuum Intl Pub Group},
+	Year = {2003},
+	Pages = {216 pages},
+	Keywords = {History},
+	Annote = {},
+	ISBN = {0826468500}
+}
+@book{BG:00,
+	Author = {Brian  Greene},
+	Title = {The elegant universe},
+	Publisher = {Vintage/Ebury (a Division of Random House Group)},
+	Year = {2000},
+	Pages = {448 pages},
+	Keywords = {Science},
+	Annote = {},
+	ISBN = {009928992X}
+}
+@book{LS:06,
+	Author = {Lemony  Snicket},
+	Title = {The end},
+	Publisher = {Egmont},
+	Year = {2006},
+	Pages = {368 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {1405226730}
+}
+@book{Md:93,
+	Author = {Michel  de Montaigne},
+	Title = {The essays},
+	Publisher = {Penguin Classics},
+	Year = {1993},
+	Pages = {445 pages},
+	Keywords = {Literary Collections},
+	Annote = {},
+	ISBN = {0140446028}
+}
+@book{PS:96,
+	Author = {Paul  Strathern},
+	Title = {The essential Descartes},
+	Publisher = {Virgin},
+	Year = {1996},
+	Pages = {53 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0753506971}
+}
+@book{JT:93,
+	Author = {John Ronald Reuel  Tolkien},
+	Title = {The fellowship of the ring},
+	Publisher = {OOO LabirintRu},
+	Year = {1993},
+	Pages = {529 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0261102354}
+}
+@book{TP:00,
+	Author = {Terry  Pratchett},
+	Title = {The fifth elephant},
+	Publisher = {Corgi Books},
+	Year = {2000},
+	Pages = {459 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0552146161}
+}
+@book{GB:89,
+	Author = {Greg  Bear},
+	Title = {The forge of God},
+	Publisher = {Legend},
+	Year = {1989},
+	Pages = {474 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0099618702}
+}
+@book{AR:43,
+	Author = {Ayn  Rand},
+	Title = {The fountainhead},
+	Publisher = {New American Library},
+	Year = {1943},
+	Pages = {704 pages},
+	Keywords = {Architects},
+	Annote = {},
+	ISBN = {0451191153}
+}
+@book{KM:83,
+	Author = {Katherine  Mansfield},
+	Title = {The garden party and other stories},
+	Publisher = {Everyman's Library},
+	Year = {1983},
+	Pages = {267 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857150481}
+}
+@book{AN:90,
+	Author = {Andrew  Northedge},
+	Title = {The good study guide},
+	Publisher = {Open University},
+	Year = {1990},
+	Pages = {248 pages},
+	Keywords = {Education},
+	Annote = {},
+	ISBN = {0749200448}
+}
+@book{JG:92,
+	Author = {John Kenneth Galbraith},
+	Title = {The great crash 1929},
+	Publisher = {Egully.com},
+	Year = {1992},
+	Pages = {224 pages},
+	Keywords = {Business & Economics},
+	Annote = {},
+	ISBN = {9780140136098}
+}
+@book{,
+	Author = {Lemony  Snicket},
+	Title = {The grim grotto},
+	Publisher = {Egmont},
+	Year = {2004},
+	Pages = {304 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {1405215275}
+}
+@book{DA:02,
+	Author = {Dan  Abnett},
+	Title = {The guns of Tanith},
+	Publisher = {Black Library},
+	Year = {2002},
+	Pages = {315 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1841542326}
+}
+@book{SK:03,
+	Author = {Stephen  King},
+	Title = {The gunslinger},
+	Publisher = {Egully.com},
+	Year = {2003},
+	Pages = {238 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780340829752}
+}
+@book{HMD:03,
+	Author = {Aubrey  De Sélincourt and  John  Marincola and    Herodotus},
+	Title = {The histories},
+	Publisher = {Penguin Classics},
+	Year = {2003},
+	Pages = {716 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780140449082}
+}
+@book{HF:91,
+	Author = {Henry  Fielding},
+	Title = {The history of Tom Jones},
+	Publisher = {D. Campbell},
+	Year = {1991},
+	Pages = {856 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857150287}
+}
+@book{DA:97,
+	Author = {Douglas  Adams},
+	Title = {The hitch hiker's guide to the galaxy},
+	Publisher = {William Heinemann},
+	Year = {1997},
+	Pages = {776 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0434003484}
+}
+@book{JT:99,
+	Author = {John Ronald Reuel  Tolkien},
+	Title = {The hobbit or There and back again},
+	Publisher = {Egully.com},
+	Year = {1999},
+	Pages = {310 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0261102214}
+}
+@book{LS:03,
+	Author = {Lemony  Snicket},
+	Title = {The hostile hospital},
+	Publisher = {Egmont},
+	Year = {2003},
+	Pages = {255 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {1405206128}
+}
+@book{WK:91,
+	Author = {Pamela  Knights and  Edith  Wharton},
+	Title = {The house of mirth},
+	Publisher = {D. Campbell Publishers Ltd.},
+	Year = {1991},
+	Pages = {347 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857150465}
+}
+@book{MTD:04,
+	Author = {David  McDuff and  William Mills Todd and  Fyodor  Dostoyevsky},
+	Title = {The idiot},
+	Publisher = {Penguin Classics},
+	Year = {2004},
+	Pages = {732 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780140447927}
+}
+@book{RK:94,
+	Author = {Rudyard  Kipling},
+	Title = {The jungle books},
+	Publisher = {OOO LabirintRu},
+	Year = {1994},
+	Pages = {326 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780140621044}
+}
+@book{TP:99,
+	Author = {Terry  Pratchett},
+	Title = {The last continent},
+	Publisher = {Transworld Publishers},
+	Year = {1999},
+	Pages = {416 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0552146145}
+}
+@book{UG:01,
+	Author = {Ursula K. Le  Guin},
+	Title = {The lathe of heaven},
+	Publisher = {Gollancz},
+	Year = {2001},
+	Pages = {184 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857989511}
+}
+@book{TP:97,
+	Author = {Terry  Pratchett},
+	Title = {The light fantastic},
+	Publisher = {Transworld Publishers},
+	Year = {1997},
+	Pages = {284 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0552128481}
+}
+@book{DT:03,
+	Author = {Donna  Tartt},
+	Title = {The little friend},
+	Publisher = {Bloomsbury},
+	Year = {2003},
+	Pages = {555 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0747564132}
+}
+@book{SD:98,
+	Author = {Sir Arthur Conan  Doyle},
+	Title = {The lost world},
+	Publisher = {Oxford University Press},
+	Year = {1998},
+	Pages = {206 pages},
+	Keywords = {},
+	Annote = {},
+	ISBN = {9780199569892}
+}
+@book{PD:01,
+	Author = {Philip K. Dick},
+	Title = {The man in the high castle},
+	Publisher = {Penguin Modern Classics},
+	Year = {2001},
+	Pages = {248 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0141186674}
+}
+@book{OS:86,
+	Author = {Oliver  Sacks},
+	Title = {The man who mistook his wife for a hat},
+	Publisher = {Pan Macmillan},
+	Year = {1986},
+	Pages = {233 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780330294911}
+}
+@book{KA:96,
+	Author = {Stanley  Appelbaum and  Franz  Kafka},
+	Title = {The metamorphosis and other stories},
+	Publisher = {Dover Pubns},
+	Year = {1996},
+	Pages = {88 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0486290301}
+}
+@book{LS:02,
+	Author = {Lemony  Snicket},
+	Title = {The miserable mill},
+	Publisher = {Egmont},
+	Year = {2002},
+	Pages = {208 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {0749747021}
+}
+@book{DCR:98,
+	Author = {Terry  Castle and  Ann Ward Radcliffe and  Bonamy  Dobrée},
+	Title = {The mysteries of Udolpho},
+	Publisher = {Oxford University Press, USA},
+	Year = {1998},
+	Pages = {693 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780192825230}
+}
+@book{BD:85,
+	Author = {Charles  Darwin and  John Wyon Burrow},
+	Title = {The origin of species by means of natural selection, or, The preservation of favoured races in the struggle for life},
+	Publisher = {Penguin Classics},
+	Year = {1985},
+	Pages = {476 pages},
+	Keywords = {Science},
+	Annote = {},
+	ISBN = {9780140432053}
+}
+@book{CD:91,
+	Author = {Charles  Dickens},
+	Title = {The personal history of David Copperfield},
+	Publisher = {Everyman's Library},
+	Year = {1991},
+	Pages = {877 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857150317}
+}
+@book{MR:03,
+	Author = {Mark  Rowlands},
+	Title = {The philosopher at the end of the universe},
+	Publisher = {Vintage},
+	Year = {2003},
+	Pages = {276 pages},
+	Keywords = {Performing Arts},
+	Annote = {},
+	ISBN = {0091889219}
+}
+@book{SL:04,
+	Author = {Stephen  Law},
+	Title = {The philosophy gym},
+	Publisher = {Headline Review},
+	Year = {2004},
+	Pages = {290 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0747232717}
+}
+@book{OW:94,
+	Author = {Oscar  Wilde},
+	Title = {The picture of Dorian Gray},
+	Publisher = {Penguin Mass Market},
+	Year = {1994},
+	Pages = {255 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780140620337}
+}
+@book{AC:02,
+	Author = {Albert  Camus},
+	Title = {The plague},
+	Publisher = {Penguin Modern Classics},
+	Year = {2002},
+	Pages = {237 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780141185132}
+}
+@book{BBK:92,
+	Author = {David  Bromwich and  John  Keats and  Gerald  Bullett},
+	Title = {The poems},
+	Publisher = {Everyman's Library},
+	Year = {1992},
+	Pages = {396 pages},
+	Keywords = {Poetry},
+	Annote = {},
+	ISBN = {1857150538}
+}
+@book{BK:00,
+	Author = {Barbara  Kingsolver},
+	Title = {The poisonwood bible},
+	Publisher = {Egully.com},
+	Year = {2000},
+	Pages = {616 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {057120175X}
+}
+@book{EG:90,
+	Author = {Erving  Goffman},
+	Title = {The presentation of self in everyday life},
+	Publisher = {Penguin},
+	Year = {1990},
+	Pages = {251 pages},
+	Keywords = {Psychology},
+	Annote = {},
+	ISBN = {9780140135718}
+}
+@book{GMB:03,
+	Author = {Anthony  Grafton and  Niccolò  Machiavelli and  George  Bull},
+	Title = {The prince},
+	Publisher = {Penguin Classics},
+	Year = {2003},
+	Pages = {106 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0140449159}
+}
+@book{HL:91,
+	Author = {Henri  Lefèbvre},
+	Title = {The production of space},
+	Publisher = {Wiley-Blackwell},
+	Year = {1991},
+	Pages = {454 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {9780631181774}
+}
+@book{VG:99,
+	Author = {Paul  Grosch and  Peter  Vardy},
+	Title = {The puzzle of ethics},
+	Publisher = {Fount},
+	Year = {1999},
+	Pages = {284 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0006281443}
+}
+@book{LH:93,
+	Author = {David Herbert Lawrence and  Barbara  Hardy},
+	Title = {The rainbow},
+	Publisher = {David Campbell},
+	Year = {1993},
+	Pages = {460 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857151615}
+}
+@book{AG:02,
+	Author = {A. C. Grayling},
+	Title = {The reason of things},
+	Publisher = {Weidenfeld & Nicolson},
+	Year = {2002},
+	Pages = {236 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0297829351}
+}
+@book{LS:01,
+	Author = {Lemony  Snicket},
+	Title = {The reptile room},
+	Publisher = {Egmont},
+	Year = {2001},
+	Pages = {190 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {0749746122}
+}
+@book{AR:09,
+	Author = {Alex  Ross},
+	Title = {The rest is noise},
+	Publisher = {HarperPerennial},
+	Year = {2009},
+	Pages = {640 pages},
+	Keywords = {Music},
+	Annote = {},
+	ISBN = {9781841154763}
+}
+@book{CPS:02,
+	Author = {Ian  Stewart and  Jack Sidney Cohen and  Terry  Pratchett},
+	Title = {The science of Discworld II - the Globe},
+	Publisher = {Ebury Press},
+	Year = {2002},
+	Pages = {368 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0091882737}
+}
+@book{Sd:93,
+	Author = {Simone  de Beauvoir},
+	Title = {The second sex},
+	Publisher = {Vintage},
+	Year = {1993},
+	Pages = {786 pages},
+	Keywords = {Social Science},
+	Annote = {},
+	ISBN = {1857151372}
+}
+@book{JC:92,
+	Author = {Joseph  Conrad},
+	Title = {The secret agent},
+	Publisher = {David Campbell},
+	Year = {1992},
+	Pages = {283 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857151232}
+}
+@book{DT:07,
+	Author = {Donna  Tartt},
+	Title = {The secret history},
+	Publisher = {Egully.com},
+	Year = {2007},
+	Pages = {628 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780141035215}
+}
+@book{RD:89,
+	Author = {Richard  Dawkins},
+	Title = {The selfish gene},
+	Publisher = {Oxford University Press, USA},
+	Year = {1989},
+	Pages = {352 pages},
+	Keywords = {Literary Criticism},
+	Annote = {},
+	ISBN = {0192860925}
+}
+@book{PD:04,
+	Author = {Philip K. Dick},
+	Title = {The simulacra},
+	Publisher = {Gollancz},
+	Year = {2004},
+	Pages = {220 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0575074604}
+}
+@book{KV:06,
+	Author = {Kurt  Vonnegut},
+	Title = {The sirens of Titan},
+	Publisher = {Gollancz},
+	Year = {2006},
+	Pages = {249 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780575079021}
+}
+@book{LS:04,
+	Author = {Lemony  Snicket},
+	Title = {The slippery slope},
+	Publisher = {Egmont},
+	Year = {2004},
+	Pages = {337 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {1405210869}
+}
+@book{JR:04,
+	Author = {Jean-Jacques  Rousseau},
+	Title = {The social contract},
+	Publisher = {Penguin Classics},
+	Year = {2004},
+	Pages = {167 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {9780141018881}
+}
+@book{RR:93,
+	Author = {Jean-Jacques  Rousseau and  Alan  Ryan},
+	Title = {The social contract and the discourses},
+	Publisher = {D. Campbell},
+	Year = {1993},
+	Pages = {409 pages},
+	Keywords = {Business & Economics},
+	Annote = {},
+	ISBN = {1857151623}
+}
+@book{MM:88,
+	Author = {Marvin Lee Minsky},
+	Title = {The society of mind},
+	Publisher = {Picador in association with Heinemann},
+	Year = {1988},
+	Pages = {339 pages},
+	Keywords = {Cognition},
+	Annote = {},
+	ISBN = {0330300393}
+}
+@book{AB:06,
+	Author = {Alfred  Bester},
+	Title = {The stars my destination},
+	Publisher = {Gollancz},
+	Year = {2006},
+	Pages = {272 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780575079090}
+}
+@book{FC:91,
+	Author = {Anton Pavlovich Chekhov and  Richard  Freeborn},
+	Title = {The steppe and other stories},
+	Publisher = {Everyman's Library: Distributed by Random Century Group},
+	Year = {1991},
+	Pages = {323 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857150457}
+}
+@book{RS:03,
+	Author = {Robert Louis Stevenson},
+	Title = {The strange case of Dr Jekyll and Mr Hyde and other tales of terror},
+	Publisher = {Penguin Classics},
+	Year = {2003},
+	Pages = {177 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0141439734}
+}
+@book{TK:96,
+	Author = {Thomas S. Kuhn},
+	Title = {The structure of scientific revolutions},
+	Publisher = {University Of Chicago Press},
+	Year = {1996},
+	Pages = {212 pages},
+	Keywords = {Science},
+	Annote = {},
+	ISBN = {9780226458083}
+}
+@book{PP:98,
+	Author = {Philip  Pullman},
+	Title = {The subtle knife},
+	Publisher = {Egully.com},
+	Year = {1998},
+	Pages = {341 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {0590112899}
+}
+@book{TP:01,
+	Author = {Terry  Pratchett},
+	Title = {The truth},
+	Publisher = {Transworld Publishers},
+	Year = {2001},
+	Pages = {443 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0552147680}
+}
+@book{JT:93,
+	Author = {John Ronald Reuel  Tolkien},
+	Title = {The two towers},
+	Publisher = {OOO LabirintRu},
+	Year = {1993},
+	Pages = {442 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0261102362}
+}
+@book{LS:03,
+	Author = {Lemony  Snicket},
+	Title = {The vile village},
+	Publisher = {Egmont},
+	Year = {2003},
+	Pages = {176 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {1405207345}
+}
+@book{LS:01,
+	Author = {Lemony  Snicket},
+	Title = {The wide window},
+	Publisher = {Egmont},
+	Year = {2001},
+	Pages = {214 pages},
+	Keywords = {Juvenile Fiction},
+	Annote = {},
+	ISBN = {0749747013}
+}
+@book{WC:91,
+	Author = {Wilkie  Collins},
+	Title = {The woman in white},
+	Publisher = {D. Campbell},
+	Year = {1991},
+	Pages = {569 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {185715018X}
+}
+@book{AA:92,
+	Author = {Chinua  Achebe and  Kwame Anthony Appiah},
+	Title = {Things fall apart},
+	Publisher = {D. Campbell},
+	Year = {1992},
+	Pages = {181 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857151356}
+}
+@book{SB:99,
+	Author = {Simon  Blackburn},
+	Title = {Think},
+	Publisher = {Oxford University Press},
+	Year = {1999},
+	Pages = {312 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0192854259}
+}
+@book{noTag,
+	Author = {The Royal Institute of Philosophy  },
+	Title = {Think Philosophy Issue 10},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{noTag,
+	Author = {The Royal Institute of Philosophy  },
+	Title = {Think Philosophy Issue 11},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{noTag,
+	Author = {},
+	Title = {Think Philosophy Issue 13},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{noTag,
+	Author = {The Royal Institute of Philosophy  },
+	Title = {Think Philosophy Issue 9 },
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{NW:07,
+	Author = {Nigel  Warburton},
+	Title = {Thinking from A to Z},
+	Publisher = {Routledge},
+	Year = {2007},
+	Pages = {1164 pages},
+	Keywords = {Critical thinking},
+	Annote = {},
+	ISBN = {0415222818}
+}
+@book{TP:06,
+	Author = {Terry  Pratchett},
+	Title = {Thud!},
+	Publisher = {Corgi},
+	Year = {2006},
+	Pages = {309 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780552152679}
+}
+@book{FN:61,
+	Author = {Friedrich Wilhelm Nietzsche},
+	Title = {Thus spoke Zarathustra},
+	Publisher = {Penguin Classics},
+	Year = {1961},
+	Pages = {342 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0140441182}
+}
+@book{PD:03,
+	Author = {Philip K. Dick},
+	Title = {Time Out of Joint},
+	Publisher = {Gollancz},
+	Year = {2003},
+	Pages = {224 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0575074582}
+}
+@book{noTag,
+	Author = {Paul  Ricoeur},
+	Title = {Time and Narrative},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{MC:00,
+	Author = {Michael  Crichton},
+	Title = {Timeline},
+	Publisher = {Vintage},
+	Year = {2000},
+	Pages = {496 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0099244721}
+}
+@book{DA:08,
+	Author = {Dan  Abnett},
+	Title = {Titanicus},
+	Publisher = {HarperCollins Publishers Limited},
+	Year = {2008},
+	Pages = {400 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781844166619}
+}
+@book{WS:95,
+	Author = {William  Shakespeare},
+	Title = {Titus Andronicus},
+	Publisher = {The Arden Shakespeare},
+	Year = {1995},
+	Pages = {308 pages},
+	Keywords = {Drama},
+	Annote = {},
+	ISBN = {9781903436059}
+}
+@book{MT:91,
+	Author = {Mark  Twain},
+	Title = {Tom Sawyer and Huckleberry Finn},
+	Publisher = {Everyman's Library},
+	Year = {1991},
+	Pages = {435 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857150449}
+}
+@book{SH:04,
+	Author = {Sue  Hodge},
+	Title = {Tort law},
+	Publisher = {Willan Pub},
+	Year = {2004},
+	Pages = {325 pages},
+	Keywords = {Law},
+	Annote = {},
+	ISBN = {1843920980}
+}
+@book{noTag,
+	Author = {Terry  Burrows},
+	Title = {Total Guitar},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{WK:92,
+	Author = {Walter Arnold Kaufmann},
+	Title = {Tragedy and philosophy},
+	Publisher = {Princeton Univ Pr},
+	Year = {1992},
+	Pages = {386 pages},
+	Keywords = {Literary Criticism},
+	Annote = {},
+	ISBN = {0691020051}
+}
+@book{DA:05,
+	Author = {Dan  Abnett},
+	Title = {Traitor General},
+	Publisher = {Games Workshop Ltd},
+	Year = {2005},
+	Pages = {416 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1844161137}
+}
+@book{RS:94,
+	Author = {Robert Louis Stevenson},
+	Title = {Treasure Island},
+	Publisher = {Penguin Mass Market},
+	Year = {1994},
+	Pages = {223 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780140620832}
+}
+@book{noTag,
+	Author = {Yasmin  Alibhai-Brown},
+	Title = {True Colours},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{VB:98,
+	Author = {William  Butcher and  Jules  Verne},
+	Title = {Twenty thousand leagues under the seas},
+	Publisher = {Oxford University Press, USA},
+	Year = {1998},
+	Pages = {445 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0192828398}
+}
+@book{FN:90,
+	Author = {Friedrich Wilhelm Nietzsche},
+	Title = {Twilight of the idols ; and, The Anti-Christ},
+	Publisher = {Penguin Classics},
+	Year = {1990},
+	Pages = {207 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0140445145}
+}
+@book{CS:91,
+	Author = {Martin  Seymour-Smith and  Joseph  Conrad},
+	Title = {Typhoon and other stories},
+	Publisher = {Egully.com},
+	Year = {1991},
+	Pages = {305 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {185715004X}
+}
+@book{ST:04,
+	Author = {Scott  Turow},
+	Title = {Ultimate punishment},
+	Publisher = {Picador USA},
+	Year = {2004},
+	Pages = {164 pages},
+	Keywords = {Law},
+	Annote = {},
+	ISBN = {0330426885}
+}
+@book{JC:91,
+	Author = {Joseph  Conrad},
+	Title = {Under western eyes},
+	Publisher = {Everyman's Library},
+	Year = {1991},
+	Pages = {477 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857150430}
+}
+@book{SR:11,
+	Author = {Stewart  Ross},
+	Title = {Understand the Middle East (Since 1945)},
+	Publisher = {Hodder Education},
+	Year = {2011},
+	Pages = {256 pages},
+	Keywords = {History},
+	Annote = {},
+	ISBN = {9781444105216}
+}
+@book{noTag,
+	Author = {Kath  Woodward},
+	Title = {Understanding Identity},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{MM:01,
+	Author = {Marshall  McLuhan},
+	Title = {Understanding media},
+	Publisher = {Routledge, 2001},
+	Year = {2001},
+	Pages = {400 pages},
+	Keywords = {Language Arts & Disciplines},
+	Annote = {},
+	ISBN = {9780415253970}
+}
+@book{ST:87,
+	Author = {D. W. S.  Thorning and  A. J. Sadler},
+	Title = {Understanding pure mathematics},
+	Publisher = {Oxford University Press},
+	Year = {1987},
+	Pages = {608 pages},
+	Keywords = {Mathematics},
+	Annote = {},
+	ISBN = {0199142599}
+}
+@book{noTag,
+	Author = {Ian  Bogost},
+	Title = {Unit Operations: An Approach to Videogame Criticism},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{TP:09,
+	Author = {Terry  Pratchett},
+	Title = {Unseen Academicals},
+	Publisher = {Doubleday UK},
+	Year = {2009},
+	Pages = {400 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780385609340}
+}
+@book{WM:08,
+	Author = {William  Morris},
+	Title = {Useful Work Vs. Useless Toil},
+	Publisher = {Penguin Books Ltd (UK)},
+	Year = {2008},
+	Pages = {93 pages},
+	Keywords = {Business & Economics},
+	Annote = {},
+	ISBN = {9780141036700}
+}
+@book{TM:09,
+	Author = {Thomas  Morus},
+	Title = {Utopia},
+	Publisher = {Penguin Books Ltd (UK)},
+	Year = {2009},
+	Pages = {128 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780141043692}
+}
+@book{MM:92,
+	Author = {Thomas  More and  Jenny  Mezciems},
+	Title = {Utópia},
+	Publisher = {D. Campbell Publishers Ltd.},
+	Year = {1992},
+	Pages = {144 pages},
+	Keywords = {Political Science},
+	Annote = {},
+	ISBN = {1857150619}
+}
+@book{WT:91,
+	Author = {William Makepeace Thackeray},
+	Title = {Vanity fair},
+	Publisher = {Everyman's Library},
+	Year = {1991},
+	Pages = {878 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {1857150120}
+}
+@book{JB:01,
+	Author = {J. G. Ballard},
+	Title = {Vermilion Sands},
+	Publisher = {Vintage Classics},
+	Year = {2001},
+	Pages = {208 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780099273585}
+}
+@book{PS:00,
+	Author = {Phil  Schmauder},
+	Title = {Virus Proof},
+	Publisher = {Prima Lifestyles},
+	Year = {2000},
+	Pages = {273 pages},
+	Keywords = {Computers},
+	Annote = {},
+	ISBN = {0761527478}
+}
+@book{MMT:08,
+	Author = {Aylmer  Maude and  Louise  Maude and  Leo  Tolstoy},
+	Title = {War and Peace},
+	Publisher = {Oxford University Press, USA},
+	Year = {2008},
+	Pages = {1392 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780199536054}
+}
+@book{noTag,
+	Author = {John  Blanche},
+	Title = {Warhammer 40,000},
+	Publisher = {},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{noTag,
+	Author = {},
+	Title = {Warhammer 40,000: Assassins},
+	Publisher = {Games Workshop},
+	Year = {},
+	Pages = {},
+	Keywords = {},
+	Annote = {},
+	ISBN = {}
+}
+@book{MG:87,
+	Author = {Alan  Moore and  Dave  Gibbons},
+	Title = {Watchmen},
+	Publisher = {Titan Books},
+	Year = {1987},
+	Pages = {424 pages},
+	Keywords = {Humor},
+	Annote = {},
+	ISBN = {9781852860240}
+}
+@book{PD:97,
+	Author = {Philip K. Dick},
+	Title = {We Can Build You},
+	Publisher = {Voyager},
+	Year = {1997},
+	Pages = {252 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780006482796}
+}
+@book{PD:00,
+	Author = {Philip K. Dick},
+	Title = {We can remember it for you wholesale},
+	Publisher = {Phoenix},
+	Year = {2000},
+	Pages = {395 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9781857989489}
+}
+@book{GO:04,
+	Author = {George  Orwell},
+	Title = {Why I write},
+	Publisher = {Penguin Classics},
+	Year = {2004},
+	Pages = {119 pages},
+	Keywords = {Language Arts & Disciplines},
+	Annote = {},
+	ISBN = {9780141019000}
+}
+@book{PH:97,
+	Author = {Peter Michael Stephan  Hacker},
+	Title = {Wittgenstein},
+	Publisher = {Weidenfeld & Nicolson},
+	Year = {1997},
+	Pages = {59 pages},
+	Keywords = {Philosophy},
+	Annote = {},
+	ISBN = {0753801930}
+}
+@book{RM:09,
+	Author = {Richard  Morgan},
+	Title = {Woken Furies},
+	Publisher = {Gollancz},
+	Year = {2009},
+	Pages = {576 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780575081277}
+}
+@book{MB:07,
+	Author = {Max  Brooks},
+	Title = {World War Z},
+	Publisher = {Gardners Books},
+	Year = {2007},
+	Pages = {352 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780715637036}
+}
+@book{BN:03,
+	Author = {Emily  Brontë and  Pauline  Nestor},
+	Title = {Wuthering Heights},
+	Publisher = {Penguin Classics},
+	Year = {2003},
+	Pages = {353 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {0141439556}
+}
+@book{TP:98,
+	Author = {Terry  Pratchett},
+	Title = {Wyrd Sisters},
+	Publisher = {Transworld Publishers},
+	Year = {1998},
+	Pages = {251 pages},
+	Keywords = {Fiction},
+	Annote = {},
+	ISBN = {9780552134606}
+}
