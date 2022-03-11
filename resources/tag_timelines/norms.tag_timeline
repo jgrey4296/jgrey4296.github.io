@@ -4,7 +4,7 @@
 1987 brown87_polit
 1987 wells87_undoin_scenar
 1991 sutton91_maint_norms_about_expres_emotion
-1992 shoam92_synth_useful_laws_artif_agent_societ
+1992 shoham92_synth_useful_laws_artif_agent_societ_
 1994 brandom94_makin_explic
 1995 gilbert95_artif_socit_
 1996 epstein96_growin
@@ -29,9 +29,9 @@
 2001 nunn01_growin_artif_societ
 2001 sergot01_comput_theor_normat_posit
 2001 staller01_introd_emotion_into_comput_study_social_norms
-2002 therborn02_back_to_norms
+2002 therborn02_back_to_norms_50
 2003 boella03_oblig_permis_mental_entit
-2003 boella03_permis_oblig_hierar_normat_system
+2003 boella03_permis_oblig_hierar_normat_system_
 2003 castelfranchi03_presc_destin_predic_attit
 2003 parunak03_chang_roles
 2003 vazquez-salceda03_role_norms_elect_instit_multi
@@ -48,7 +48,7 @@
 2005 farrell05_using_event_calcul_track_normat_state_contr
 2005 galan05_appear_can_be_deceiv
 2005 garcia-camino05_implem
-2005 governatori05_norm_modif_defeas_logic
+2005 governatori05_norm_modif_defeas_logic_
 2005 governatori05_repres_busin_contr_rulem
 2005 gâteau05_moisein
 2005 rhalibi05_emotion_npcs
@@ -58,7 +58,7 @@
 2006 boella06_const_norms_desig_normat_multiag_system
 2006 boella06_const_norms_desig_normat_multiag_system_
 2006 boella06_introd_to_normat_multiag_system
-2006 boella06_logic_archit_normat_system
+2006 boella06_logic_archit_normat_system_4048_LNAI
 2006 broersen06_embed_alter_time_tempor_logic
 2006 cardoso06_instit_realit_norms
 2006 castelfranchi06_delib_normat_agent
@@ -76,9 +76,9 @@
 2006 tummolini06_introd_to_special_issue_cognit
 2007 bierschenk07_states_work_
 2007 boella07_normat_multi_agent_system
-2007 cliffe07_specif_reason_about_multip_instit
+2007 cliffe07_specif_reason_about_multip_instit_
 2007 fornara07_agent_commun_artif_instit
-2007 gaertner07_ballr_etiquet
+2007 gaertner07_ballr_etiquet_
 2007 grossi07_desig_invis_handc_formal_inves
 2007 grossi07_struc_aspec_evaluat_agent_organ
 2007 grossi07_ubi_lex_ibi_poena
@@ -87,7 +87,7 @@
 2007 sichman07_aamas_works_coord_organ_instit
 2007 vasconcelos07_resol
 2008 bastin08_social_norm_emerg_virtual_agent
-2008 bou08_auton_elect_instit_self_adapt
+2008 bou08_auton_elect_instit_self_adapt_
 2008 brandom08_between_sayin_doing
 2008 carter08_impor_being_monog
 2008 craven08_agent_stran_action_languag_nc_6
@@ -101,7 +101,7 @@
 2008 mccallum08_organ_chang_throug_influen
 2008 neumann08_homo_socion
 2009 alvarez-napagao09_norms_organ_seman_web_servic
-2009 artikis09_dynam_protoc_open_agent_system
+2009 artikis09_dynam_protoc_open_agent_system_
 2009 baldoni09_declar_agent_languag_techn_vi_5397
 2009 balke09_taxon_ensur_instit_compl_utilit_comput_09121
 2009 barandiaran09_defin_agenc
@@ -125,11 +125,11 @@
 2010 esparcia10_gormas
 2010 neumann10
 2010 neumann10_norm_inter_human_artif_intel
-2010 norman10_logic_deleg
+2010 norman10_logic_deleg_174
 2010 oren10_model_normat_power
 2010 romay10_hybrid_artif_intel_system_part_ii
 2010 savarimuthu10_oblig_norm_ident_agent_societ
-2010 schlueter10_gramm_instit
+2010 schlueter10_gramm_instit_22
 2010 serrano10_dealin_with_incom_normat_states
 2010 takadama10_simul_inter_agent_social_phenom
 2010 twining10_how_do_thing_rules_
@@ -143,7 +143,7 @@
 2011 criado11_open_issues_normat_multi_agent_system
 2011 criado11_thomas_23
 2011 goldstein11_games_work
-2011 hollander11_curren_state_normat_agent_based_system
+2011 hollander11_curren_state_normat_agent_based_system_14
 2011 huebner11_normat_progr_languag_multi_agent_organ_62
 2011 okuyama11_situat_normat_infras_23
 2011 philosophy11_social_instit
@@ -160,7 +160,7 @@
 2012 pacheco12_using
 2012 ricci12_infras_tools_multiag_system_itmas_
 2012 schwartz12_overv_schwar_theor_basic_values
-2012 tosatto12_visual
+2012 tosatto12_visual_
 2012 macfarlane12_asses_sensit
 2013 andrighetto13_normat_multi_agent_system
 2013 andrighetto13_social_norm_dynam
@@ -175,7 +175,7 @@
 2013 de13_progr_instit_facts_multi_agent_system
 2013 gabbay13_handb_deont_logic_normat_system
 2013 gordon13
-2013 jones13_desig_intel_socio_techn_system
+2013 jones13_desig_intel_socio_techn_system_39
 2013 livermore13_custom_world
 2013 ossowski13_agreem_techn_
 2013 parent13_prima_facie_norms_normat_confl_dilem
@@ -183,12 +183,12 @@
 2013 tummolini13
 2013 tummolini13_conven_or_agreem_betwix_us_190
 2013 vos13_combin_event_and_state_based_norms
-2014 balke14_how_do_agent_make_decis
+2014 balke14_how_do_agent_make_decis_17
 2014 bicchieri14_norms_belief
 2014 bulling14_survey_multi_agent_decis_makin
 2014 elsenbroich14_model_norms_
 2014 floridi14_toler_desig_norms_21
-2014 frantz14_model_instit_using_dynam_deont
+2014 frantz14_model_instit_using_dynam_deont_8386_LNAI
 2014 jiang14_reason_with_agent_prefer_normat
 2014 kelly14_autom_extrac_proper_norm_like
 2014 king14_re_check_normat_system_coher_8386
