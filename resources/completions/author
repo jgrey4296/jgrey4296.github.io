@@ -2,12 +2,10 @@
 @AwkwardTurtle42
 @brstf
 @swamp_hen
-ACLED
-ACLU
-AIX-COVNET
-AMD
-ANSIRH
-ARM
+\CSen, Gül
+\VCapek, Karel
+\VCerný, Martin
+\VSperka, Roman
 Aaby, Bendik Hellem
 Aarseth, Espen
 Ababsa, Myriam
@@ -58,7 +56,10 @@ Achterbosch, Leigh
 Ackerman, Andrea
 Ackerman, Mark S
 Ackerman, Robert
+ACLED
+ACLU
 Acosta, Alejandro
+Adam Goldstein
 Adam, Carole
 Adam, Sheila
 Adam, Tarn
@@ -156,6 +157,7 @@ Ainsworth, Sara L
 Airiau, Stephane
 Aishman, Steven
 Aitken, Andrew
+AIX-COVNET
 Aja, Alan
 Ajayi, JFA
 Ajmeri, Nirav
@@ -166,11 +168,12 @@ Akkermans, Bram
 Akman, Varol
 Akçay, Erol
 Al Qaddafi, Muammar
+al, James Bell et
 Al-Abdulkarim, Latifa
 Al-Fuqha, Ala
 Al-Hudaibi, Muhammad M.
 Al-Masri, Mohammad
-AlSayyad, Nezar
+al., et
 Ala-Mutka, Kirsti M
 Alabi, Oluwatosin
 Alaboudi, Abdulaziz
@@ -204,6 +207,7 @@ Aldrich, Daniel P.
 Aldrich, Jonathan
 Alechina, Natasha
 Alejandre, Adriana
+Aleksandra Sandrstrom
 Aleksynska, Mariya
 Alencar, Paulo
 Alert, Spoiler
@@ -274,6 +278,7 @@ Alpaydin, Ethem
 Alper, Mariel
 Alper, Sinan
 Alsalti, Taym M.
+AlSayyad, Nezar
 Alshehri, Taghreed
 Alshihayb, Talal S.
 Alshumrani, Salha
@@ -308,6 +313,7 @@ Amazeen, Michelle A.
 Ambagudia, Jagannath
 Amblard, Frédéric
 Ambrossio, Diego Agustín
+AMD
 Amenta, Edwin
 America, United States of
 American Olean Tile Company
@@ -335,6 +341,7 @@ Anakin, Sergei
 Anand, P.
 Anand, Pranav
 Ancona, Davide
+and Gian Luca Pozzato
 Andereck, Michael
 Anders, T
 Andersen, Barbara Vad
@@ -414,9 +421,11 @@ Anscombe, G. E. M
 Ansell, Chris
 Anshelevich, Elliot
 Anshus, Otto J
+ANSIRH
 Ansolabehere, Stephen
 Anson, Chris M
 Anthony Barone
+Anthony Carew
 Anthony Francis
 Anthropy, Anna
 Antonietti, Alberto
@@ -486,6 +495,7 @@ Aristotle
 Arjona, Ana M
 Arjoranta, Jonne
 Arkema, Katie K.
+ARM
 Armes, Roy
 Armitage, Derek
 Armitage, Grenville
@@ -498,6 +508,7 @@ Arnab, Sylvester;
 Arndt, Dörthe
 Arndt, Jorg
 Arnedo-Moreno, Joan
+Arnold D. Robbins
 Arnold, David
 Arnold, Eckhart
 Arnold, Gwen
@@ -582,6 +593,8 @@ Austin, J. L.
 Austin, Michael
 Austin, Thomas H.
 Auston, Donna
+author = {Jules Desai
+Autism Speaks
 Autor, David
 Autsitic Self Advocacy Network
 Avellone, Chris
@@ -617,7 +630,6 @@ Azuma, Shoko
 Azzi, Michael
 Aïvodji, Ulrich
 B, Lazarevi ́́Ljiljana
-BPS
 Baader, Franz
 Baase, Sara
 Babaev, Sergey
@@ -721,6 +733,7 @@ Ballew, Matthew T.
 Ballweber, Christy
 Ballı, Sakine \CCabuk
 Baltag, Alexandru
+Baltimore Police Department
 Balzarini, Rhonda N
 Banaji, Jairus
 Banaschewski, Tobias
@@ -981,8 +994,8 @@ Benatar, Solomon
 Benatar, Solomon R.
 Bench-Capon, T J M
 Bench-Capon, T. J. M.
-Bench-Capon, Trevor JM
 Bench-capon, Trevor
+Bench-Capon, Trevor JM
 Benchcapon, T
 Bencomo, Nelly
 Benda, Peter
@@ -1362,10 +1375,10 @@ Borbora, Zoheb
 Borchers, Jan
 Bordini, R H
 Bordini, R. H.
-Bordini, RH Rafael H.
 Bordini, Rafael
 Bordini, Rafael H
 Bordini, Rafael H.
+Bordini, RH Rafael H.
 Borell, Belinda
 Borenstein, Severin
 Borgatta, Edgar F.
@@ -1463,12 +1476,15 @@ Box, George E. P.
 Boxerman, Eddy
 Boyan, Andy
 Boyce, Acey
+Boyd K Rutherford
 Boyd, Danah
 Boyd, Katharine A.
 Boyd, William
 Bozzano, Marco
 Bozóki, Sándor
 Božić, Marko
+BPD
+BPS
 Braatz, Benjamin
 Brace, Nicola
 Braceras, Roberto M.
@@ -1502,6 +1518,7 @@ Branco, Vasco
 Brand, Stewart
 Brandeis, Daniel
 Brandom, Robert
+Brandon M. Scott
 Brandt, Mark J
 Brandt, Mark J.
 Brandão, Michele A.
@@ -1847,14 +1864,8 @@ Bødker, Susanne
 Bădică, Costin
 Bărbat, Boldur E.
 C. Zakas, Nicholas
-CA, Pollard
-CDC
-CIA
-CLIPS
-CMSC_754
-CORAPI, DOMENICO
-CS157
 Ca, Lola
+CA, Pollard
 Cabalar, Pedro
 Caballero, Jose
 Caballud, Luis Moreno
@@ -2073,6 +2084,7 @@ Cavedon, Lawrence
 Caxaj, C. Susana
 Cazenille, L
 Cazenille, Leo
+CDC
 Ceci, Louis
 Cederman, Lars-erik
 Cedex, Paris
@@ -2169,6 +2181,7 @@ Charles, John B.
 Charles, Kerwin Kofi
 Charles, Solange Kesi Charles
 Charles_Donahue, _Jr
+Charlie Eaton
 Charmaz, Kathy
 Charness, Neil
 Charsky, Dennis
@@ -2237,9 +2250,9 @@ Chenciner, Robert
 Cheney, James
 Cheney, Nick
 Cheng, Betty H. C.
-Cheng, LT
 Cheng, Li Te
 Cheng, Li-te
+Cheng, LT
 Cheng, Lu
 Cheng, Yu-Jie
 Chenoweth, Erica
@@ -2343,6 +2356,7 @@ Chung, Soon-Jo
 Chunias, Jennifer L.
 Churchill, David
 Churchill, George T.
+CIA
 Cialdini, Robert B.
 Ciampaglia, Giovanni Luca
 Ciancarini, Paolo
@@ -2380,10 +2394,10 @@ Clark, C. Shelby
 Clark, David D
 Clark, H H
 Clark, H.H.
-Clark, HH Herbert H
-Clark, HH Herbert H.
 Clark, Herbert H
 Clark, Herbert H.
+Clark, HH Herbert H
+Clark, HH Herbert H.
 Clark, Jack
 Clark, Justice
 Clark, Keith
@@ -2410,6 +2424,7 @@ Clemens, Michael A.
 Clemente, Marco
 Cleminson, Richard
 Cliffe, Owen
+CLIPS
 Clips
 Clive Thompson
 Cliver, Robert
@@ -2418,6 +2433,7 @@ Clore, Gerald L
 Close, Frank
 Club, ReproducibiliTea Journal
 Clune, Jeff
+CMSC_754
 Coad, Emma Dent
 Coan, Susan
 Coan, Travis
@@ -2512,8 +2528,8 @@ Condolora, Brooke
 Conermann, Stephan
 Congdon, Clare Bates
 Congleton, Christina
-Congress, US
 Congress, United States. Civil Rights
+Congress, US
 Coninx, Alexandre
 Conklin, Jeff
 Conklin, Philip
@@ -2578,6 +2594,7 @@ Copley, Stephen
 Coppock, Alexander
 Copsey, Keith
 Corak, Miles
+CORAPI, DOMENICO
 Corbara, Bruno
 Corbett, Tom
 Corbin, Juliet
@@ -2613,9 +2630,9 @@ Cosgriff-Hernandez, Elizabeth
 Cosley, Dan
 Cosley, Dan R.
 Cossentino, Massimo
+Costa, A. C. da Rocha
 Costa, A. C. R
 Costa, A. C. Rocha
-Costa, A. C. da Rocha
 Costa, Antônio Carlos da Rocha
 Costa, Elisabetta
 Costa, Peter De
@@ -2628,6 +2645,7 @@ Cottle, David Michael
 Cottom, Tressie McMillan
 Coughlan, Tim
 Coulom, Rémi
+Counter Extremism Project
 Coupeau, Steeve
 Coupland, Robin M
 Couprie, Geoffroy
@@ -2726,6 +2744,7 @@ Crumpler, William
 Cruz, David De La
 Cruz-Ramírez, Nicandro
 Crépon, Bruno
+CS157
 Csató, László
 Csicsery-Ronay, Istvan. Jr.
 Csiszar, Alex
@@ -2791,17 +2810,19 @@ Césaire, Aimé
 D'Aderio, Luciana
 D'Agostino, Marcello
 D'Antoni, Loris
+d'Aquin, Mathieu
+D'aquino, Patrick
 D'Entrèves, Maurizio Passerin
 D'Eramo, Marco
+d'Errico, Angelo
 D'Hondt, Theo
 D'Inverno, Mark
-D'aquino, Patrick
-DE VOS, MARINA
-DEKEL-CHEN, JONATHAN
-DEfanee Rose L. Doroon
 D\áz-Agudo, Belén
 Da Col, Giovanni
 Da Cruz, Adailton J.A.
+da Cunha, Paulo Rupino
+da Rocha Costa, A C
+da Rocha Costa, Antnio Carlos
 Dabbish, Laura A
 Dabravolskaj, Julia
 Dacin, M Tina
@@ -2839,6 +2860,7 @@ Damico, Anthony
 Damon, Cynthia
 Damásio, Carlos Viegas
 Damásio, Manuel
+Dan Abentt
 Danckaerts, Marina
 Dancygier, Barbara
 Danescu-Niculescu-Mizil, Cristian
@@ -2868,8 +2890,8 @@ Dasgupta, Sanjoy
 Dasgupta, Subrata
 Daskal, Jennifer C
 Dass, Nathan
-Dastani, MM
 Dastani, Mehdi
+Dastani, MM
 Datta, Anwitaman
 Dauber, Edwin
 Daum, Hal
@@ -2950,62 +2972,105 @@ Dayal, Naina
 Dayan, Peter
 Dazeley, R.
 De Abreu Batista, Antônio
+de Almeida Neto, Areolino
+de Antonio, Angélica
 De Beauvoir, Simone
 De Berg, M
+de Boer, Frank
+de Boer, Frank S.
 De Brito, Maiquel
+de Brito, Maiquel
+de Bruijn, Jos
 De Bruin, Erica Susanne
+de Brujin, Maaike
+de Carcer, Daniel Aguirre
+de Castro, Luis
+de Certeau, Michel
+de Croon, Guido C. H. E.
+de Freitas, Sara;
+de FSM Russo, Rosaria
+de Gandillac, Maurice
+de Graaff, Thomas
+de Groot, David
+de Groot, Thomas
 De Guzman, Jaybie A.
+de Guzmán, Ignacio Garcı́a Rodr\ǵuez
+de Jong, Hidde
+de Jong, Peter
 De Jonge, Dave
+de Jonge, Peter
+de Jongh, D.
+de Kraker, Klaas Jan
 De La Cadena, Marisol
 De La Rosa Takashima, Mari
+de Ledesma, Luis
+de Leeuw, Evelyne
+de Lemos, Rogerio
+de Lemos, Rogério
 De León, Jason
 De Lima Neto, Fernando Buarque
+de Lima, Edirlei Soares
+de Lima, ICA
+de Matos, David Martins
+de Melo, Pedro O. S. Vaz
+de Mesentier Silva, Fernando
 De Nardi, Renzo
 De Nart, Dario
+de Noronha, Luke
+de Paiva, Anselmo Cardoso
 De Paoli, Stefano
+de Peuter, Greig
 De Plancy, Jacques Ausguste Simon Collin
 De Quincy, Thomas Morrison Robert
+de Rijcke, Sarah
+de Rijke, Maarten
 De Rond, Mark
+de Sade, Marquis
+de Sardan, Jean-Pierre Olivier
 De Schutter, Leander
+de Sevin, Etienne
+de Silva, Lavindra
+de Silva, Nisansa
 De Souza Pita, Marcelo R.
+de Souza, Clarisse Sieckenius
+de Soysa, Indra
+de Spinoza, Benedict
+de Visser, Coen C.
+DE VOS, MARINA
 De Vos, Marina
+de Vries, Marieke
+de Waal, Frans B.M. M
+de Wit, Emmie
+de'Liguoro, Ugo
 De-Arteaga, Maria
-DeAngelis, Donald L.
-DeCarlo, Laura
-DeCelles, Katherine A.
-DeDeo, Simon
-DeGroot, Morris
-DeLine, Robert
-DeLoach, Scott A.
-DeMarco, M. C.
-DeMaria, R.
-DeMarrais, Kathleen Bennett
-DePorzio, Nicholas
-DeRosier, Melissa E.
-DeVault, David
-DeWitt, Richard
 Deal, Terrence E.
 Dean, Janet
 Dean, Joshua T
 Dean, Mitchell
 Dean, Thomas
+DeAngelis, Donald L.
 Deary, Ian J.
 Deaton, Angus
 Deaton, J.
 Debeauvais, Thomas
 Debeuvais, Thomas
 Debrix, Francois
+DeCarlo, Laura
+DeCelles, Katherine A.
 Decker, Keith
 Decker, Kevin S.
+DeDeo, Simon
 Dediu, Dan
 Deesing, Jonathan Dennis
 Deetz, Kelley Fanto
+DEfanee Rose L. Doroon
 Deffuant, G
 Deffuant, Guillaume
 Deflem, Mathieu
 Degens, N
 Degens, Nick
 Deghuchi, H.
+DeGroot, Morris
 Deguchi, H
 Deguchi, Hiroshi
 Dehais, Frédéric
@@ -3013,6 +3078,7 @@ Dei, George J.Sefa
 Deichsel, Simon
 Deisenroth, Marc Peter
 Dejene, Sara
+DEKEL-CHEN, JONATHAN
 Delaney, Liam
 Delaney, Samuel R.
 Deleuze, Gilles
@@ -3021,14 +3087,19 @@ Delgado, Jordi
 Delgado, Mikel
 Delgado, Richard
 Delignat-lavaud, Antoine
+DeLine, Robert
 Deline, Robert
 Dell, Melissa
 Dellarocas, Chrysanthos
 Delmas, Guylain
 Delmestri, Giuseppe
+DeLoach, Scott A.
 Delzanno, Giorgio
 Demaestri, Camila
 Demaine, Erik D.
+DeMarco, M. C.
+DeMaria, R.
+DeMarrais, Kathleen Bennett
 Demazeau, Yves
 Dembczynski, Krzysztof
 Demeulenaere, Elise
@@ -3039,6 +3110,10 @@ Demler, Olga
 Democrats, Liberal
 Demortain, David
 Demszky, Dora
+den Berg, Bibi van
+den Broek, Paul van
+den Herik, H. Jaap van
+den Herik, Jaap van
 Denby, Taylor
 Deng, Yuxin
 Denil, Joachim
@@ -3055,10 +3130,23 @@ Dentzman, Katherine
 Denzinger, Jorg
 Department of Children, Equality, Disability, Integration
 Depew, Briggs
+DePorzio, Nicholas
+der Goot, Rob van
+der Hoek, André van
+der Hoek, Wiebe van
+der Kwast, Julius van
+der Oord, Saskia van
+der Ploeg, Atze van
+der Torre, Leendert van
+der Torre, Leendert W. N. van
+der Torre, Leon van
+der Waa, Jasper van
 Derbinsky, Nate
 Dercon, Stefan
 Dermeval, Diego
+DeRosier, Melissa E.
 Derrida, Jacques
+des Rivières, Jim
 Desai, Tejal A.
 Descartes, Alligator
 Descartes, Rene
@@ -3072,6 +3160,7 @@ Deterding, Sebastian
 Deutsch, Kenneth L.
 Dev, Jayati
 Devanbu, Premkumar T
+DeVault, David
 Devault, David
 Devereux, Barry
 Devereux, Paul J
@@ -3080,6 +3169,7 @@ Devlin, Marie
 Devos, Thierry
 Devroye, L
 Dewan, Hasanat M.
+DeWitt, Richard
 Dhar, Diva
 Dheeraj Rajagopal
 Dhejne, Cecilia
@@ -3088,11 +3178,9 @@ Dhillon, Uttam
 Dhuliawala, Murtaza
 Di Domenico, MariaLaura
 Di Paolo, Ezequiel A.
+di Pierro, Massimo
 Di, Jin
 Di, Qian
-DiMaggio, Paul
-DiSalvo, Betsy
-DiYanni, Robert
 Diakopoulos, Nicholas
 Dialynas, Michael
 Diamond, Rebecca
@@ -3134,6 +3222,7 @@ Dilley, Roy
 Dillon, Grace L
 Dillon, Josh
 Dillon, Sarah
+DiMaggio, Paul
 Dimaggio, Paul
 Dimaio, Vincent. J M.
 Dimant, Eugen
@@ -3155,6 +3244,7 @@ Dinis, José Maria
 Dinkin, Kenny Shea
 Dinneen, Jesse David
 Diot, Christophe
+DiSalvo, Betsy
 Disch, Lisa
 Dittmann, Ralf W.
 Dittmar, Christian
@@ -3168,6 +3258,7 @@ Dixon, J.
 Dixon, Lucas
 Dixon, Thomas
 Dixson, Adrienne D.
+DiYanni, Robert
 Djaouti, Damien
 Djelic, Marie-Laure
 Djikstra, Edgar
@@ -3206,6 +3297,7 @@ Donahue, Chris
 Donahue, Jeff
 Donahue, Marie L.
 Donald F. Wood
+Donald Heinz
 Donaldson, Peter
 Donaldson, Scott
 Donath, Judith
@@ -3404,8 +3496,6 @@ Düdder, Boris
 Dündar, Friederike
 Dı́az, Vanessa
 Džeroski, Sašo
-EAVS
-ELLIS, GABRIEL ZANE
 Eagle, Michael
 Eagleton, Terry
 Eagly, Ingrid
@@ -3419,6 +3509,7 @@ Easton, Dossie
 Easwaran, Kenny
 Eaton, Katherine B.
 Eatough, Virginia
+EAVS
 Ebel, Jochen
 Eberhardt, Richard
 Eberhart, Russell C.
@@ -3500,14 +3591,14 @@ El Fallah-Seghrouchni, Amal
 El Rhalibi, Abdennour
 El, H
 El-Nasr, Magy Seif
+El-nasr, Magy Seif
 El-Rouayheb, Khaled
 El-Samad, Hana
-El-nasr, Magy Seif
-ElDeen Elakehal, Emad
 Eladhari, Mirjam P
 Eladhari, Mirjam P. Et Al
 Eladhari, Mirjam Palosaari
 Elangovan, Arvind
+ElDeen Elakehal, Emad
 Elfasi, M
 Elfenbein, Daniel W.
 Elgard, Per
@@ -3530,6 +3621,7 @@ Elliott, Desmond
 Elliott, James R
 Elliott, Julie
 Ellis, Clarence Arthur
+ELLIS, GABRIEL ZANE
 Ellis, Jason B
 Ellis, Jason B.
 Ellis, S
@@ -3542,8 +3634,8 @@ Elmarsafy, Ziad
 Elrad, Tzilia
 Elrakaiby, Yehia
 Else-Quest, Nicole M.
-ElseWhenCode
 Elsenbroich, Corinna
+ElseWhenCode
 Elshaw, Mark
 Elson, David K
 Elson, David K.
@@ -3677,8 +3769,6 @@ Executive, Chief
 Eynard, Davide
 Eynon, Rebecca
 Eyster, Lauren
-FBI
-FIPA
 Faas, Sander
 Fabb, John
 Faber, Wolfgang
@@ -3757,6 +3847,7 @@ Faundez, Antonio
 Fawcett, Tim W.
 Fawns, Tim
 Fay-Wolfe, Victor
+FBI
 Fdili-Alaoui, Sarah
 Feak, Christine
 Fearon, James D
@@ -3891,6 +3982,7 @@ Finster, David C.
 Fintland, Ine
 Fioravanzo, Stefano
 Fioretti, Guido
+FIPA
 Firat, Orhan
 Firestone, Michelle
 Firozabadi, Babak Sadighi
@@ -4116,6 +4208,7 @@ Fraternali, Piero
 Frayne, Douglas R.
 Fred W. Sanborn
 Frederick F. Wherry
+Frederick Wherry
 Fredkin, Edward
 Freedberg, Kenneth A.
 Freeland, Howard J.
@@ -4216,9 +4309,6 @@ Furuta, Richard
 Futhazar, Guillaume
 Fyfe, Colin
 G.A Shchelkunova
-GCHQ
-GERLICH, GERHARD
-GOP
 Gabaldon, Alfredo
 Gabbard, Joseph L
 Gabbay, Dov
@@ -4373,6 +4463,7 @@ Gay, Simon
 Gay, Steven E.
 Gazzard, Alison
 Gaŝević, Dragan
+GCHQ
 Ge, Jiaqi
 Gebru, Timnit
 Gebser, Martin
@@ -4420,6 +4511,7 @@ Gerber, David J
 Gerber, Susan I.
 Gerhard, Daniela;
 Gerlee, Philip
+GERLICH, GERHARD
 German, Daniel
 German, Komi
 German, Tim
@@ -4675,9 +4767,10 @@ Goodwin, Marjorie Harness
 Goodwin, Michele
 Goodwin, Robert E.
 Google
+GOP
 Gopal, M
-Gordon, AS Andrew S.
 Gordon, Andrew D
+Gordon, AS Andrew S.
 Gordon, Cameron Elliot
 Gordon, Colin S
 Gordon, David G.
@@ -4821,6 +4914,7 @@ Grenier, Gerry
 Greuter, Stefan
 Greve, Bent
 Grey, John
+grey, John
 Greytak, Emily A.
 Grice, Paul
 Griepentrog, Brian
@@ -4881,6 +4975,7 @@ Grosz, Barbara J
 Grosz, Elizabeth
 Groth, Paul
 Ground, Larry
+group, a+t research
 Group, Global Strategy
 Groves, Judy
 Grow, April
@@ -4949,6 +5044,7 @@ Guo, Jiqiang
 Guo, Li
 Guo, Philip
 Guo, Yi-ke
+Gupta, a.
 Gupta, Juhi
 Gupta, Madan M.
 Gupta, Mithun Das
@@ -4957,7 +5053,6 @@ Gupta, Satya P.
 Gupta, Surabhi
 Gupta, Sushmita
 Gupta, Vikas
-Gupta, a.
 Guralnik, Valerie
 Guran, Paula
 Gurr, C.
@@ -4989,10 +5084,10 @@ Gâteau, Benjamin
 Gómez Sebastià, Ignasi
 Gómez, Alberto Pérez
 Gómez, Ángel
-Gómez-Martií, Marco
-Gómez-Rodríguez, Alma
 Gómez-mart, ́́ Pedro P
 Gómez-mart\ń, Marco A
+Gómez-Martií, Marco
+Gómez-Rodríguez, Alma
 Gösken, Urs
 Ha, David
 Ha, EY
@@ -5594,9 +5689,9 @@ Hofmann, David C
 Hofmann, Till
 Hofstadter, Douglas
 Hofstadter, Douglas R.
-Hofstede, GJ
 Hofstede, Geert
 Hofstede, Gert Jan
+Hofstede, GJ
 Hofstede, Gj
 Hogan, Lynn
 Hoggatt, K. J.
@@ -5886,14 +5981,6 @@ Hübner, Jomi
 Hübner, Jomi F
 Hübner, Jomi F.
 Hübner, Jomi Fred
-ICE
-II, Anthony J. Nocella
-II, James H. Cross
-III, George R. Seage
-III, Hal Daumé
-IJzerman, Hans
-INCITE!
-IV, James Tynion
 Iacca, Giovanni
 Iain Thomson
 Iaione, Christian
@@ -5904,6 +5991,7 @@ Ibrahim, Celene
 Ibrahim, Riyadh Khalil
 Ibroscheva, Elza
 Icard, Thomas
+ICE
 Ichikawa, Manabu
 Ichinco, Michelle
 Ida, Aletheia
@@ -5913,6 +6001,11 @@ Iglesias, CA
 Iglesias, Carlos A.
 Ignatieff, Michael
 Igual, Francesc
+II, Anthony J. Nocella
+II, James H. Cross
+III, George R. Seage
+III, Hal Daumé
+IJzerman, Hans
 Ijzerman, Hans
 Ikeda, M
 Ikegami, Takashi
@@ -5930,6 +6023,7 @@ Inbar, Yoel
 Inc., Apple
 Inc., SPARC International
 Ince, Can
+INCITE!
 Infurna, Joe
 Ingalls, Dan
 Ingeniería, Dep
@@ -6010,6 +6104,7 @@ Israel, Jonas
 Ito, Hiroshi
 Iuppa, Nicholas
 Iuppa, Nick
+IV, James Tynion
 Ivan Idris
 Ivan Rumanovsky
 Ivan Stadtrucker
@@ -6169,6 +6264,8 @@ Jernite, Yacine
 Jespersen, Kristjan
 Jess, Tyehimba
 Jess, Tyhimba
+Jesse Kate Schingler
+Jesse Kate Schingler
 Jessica Caster
 Jetha, Cacilda
 Jevan Hutson
@@ -6305,6 +6402,7 @@ Jordan, Neil
 Jordan, Thomas J
 Jose, Alemany
 Jose, San
+Joseph Liu
 Joseph Weizenbaum
 Joseph, Bellal
 Josephson, Paul R
@@ -6312,6 +6410,7 @@ Josh Hoxie
 Joshi, Aravind
 Joshi, Aravind K
 Joshi, Manish
+Joshua Trachtenberg
 Joslin, Simon
 Joslyn, Cliff
 Josyula, Darsana
@@ -6363,7 +6462,6 @@ Jérôme Leroux
 Jönsson, Christer
 K. Wayne Yang
 K.D Bennett
-KNOX, DEAN
 Kaba, Mariame
 Kacem, A.H.
 Kaczynski, Ted
@@ -6451,8 +6549,8 @@ Kapur, Devesh
 Kapur, Shitij
 Kapuscinska, Adela
 Karabati, Serdar
-Karahalios, KG
 Karahalios, Karrie
+Karahalios, KG
 Karamcheti, Siddharth
 Karamouz, M
 Karapanos, Evangelos
@@ -6611,6 +6709,7 @@ Kessler, Gladys
 Kessler, Ronald C.
 Ketkar, Nikhil S.
 Ketter, Daniel M.
+Kevin Fox Gotham
 Keyes, Katherine M.
 Keynes, John Maynard
 Kezouh, A.
@@ -6763,8 +6862,8 @@ Klass, Perri
 Klazar, Martin
 Klebel, Thomas
 Kleckova, Javan
-Kleek, MG Van
 Kleek, Max Van
+Kleek, MG Van
 Kleene, Stephen C.
 Kleer, Johan D E
 Klein, Dan
@@ -6823,6 +6922,7 @@ Knoller, Noam
 Knott, Alistair
 Knott, Thomas
 Knowledge, Coherent
+KNOX, DEAN
 Knox, Dean
 Knox, Katelyn E
 Knuth, D. E.
@@ -7120,20 +7220,10 @@ Kümmerling-Meibauer, Bettina
 Küpers, Wendelin
 Kürümlüoglu, Mehmet
 L. Randall Wray
-LEAL, JONATHAN JAMES
-LEslie Lamport
-LOCHARD, GABRIELLE
-LOWE, WILL
 La Vey, Anton Szandor
-LaBate, Vincent
-LaLone, Nicolas
-LaPensée, Elizabeth
-LaRocque, Regina C.
-LaToza, Thomas D
-LaToza, Thomas D.
-LaViola Jr, Joseph J
 Laaksonen, Antti
 Laamanen, Tomi
+LaBate, Vincent
 Labonté, Ronald
 Laboratory), Kiri Wagstaff (Jet Propulsion
 Labov, William
@@ -7172,6 +7262,7 @@ Lal, Vinay
 Lalande, Steffen
 Lalejini, Alexander
 Lalmas, Mounia
+LaLone, Nicolas
 Lalone, Nicolas
 Lam, Ho-Pun
 Lam, Sze Tung
@@ -7233,11 +7324,13 @@ Lanzing, Jackson
 Lao, Ni
 Lapalme, Josée
 Lapata, Mirella
+LaPensée, Elizabeth
 Laporte, Dominique
 Lapoujade, David
 Lapp, David (Tufts University)
 Lappegård, Trude
 Larkin, Steve
+LaRocque, Regina C.
 Laroze, Denise
 Larres, Klaus
 Larsen, John Bruntse
@@ -7260,6 +7353,8 @@ Latorella, Kara A.
 Latorre, Antonio
 Latour, Bruna
 Latour, Bruno
+LaToza, Thomas D
+LaToza, Thomas D.
 Latt, Su Mon
 Lattmann, Zsolt
 Latzman, Robert D
@@ -7274,6 +7369,7 @@ Laude, Patrick
 Lauga, Eric
 Laughlin, Charles D.
 Laura Giordano
+Laura Hamilton
 Laura J. Mixon
 Laurance, William F.
 Laurel, Brenda
@@ -7285,6 +7381,7 @@ Lausier, Annie
 Lave, Tamara Rice
 Laver, Michael
 Lavery, Grace
+LaViola Jr, Joseph J
 Lavrač, N
 Law, Anica C.
 Law, John
@@ -7295,6 +7392,7 @@ Lawless, Angela
 Lawless, Robert M.
 Lawprofblawg
 Lawrance, Joseph
+Lawrence J. Hogan Jr.
 Lawrence, Ashley
 Lawrence, Barbara S.
 Lawrence, Neil D
@@ -7316,14 +7414,10 @@ Le Moal, M
 Le Page, Christophe
 Le, Quoc
 Le, Vu
-LeBaron, C
-LeBras, Ronan
-LeBron, Larry
-LeCount, Ryan Jerome
-LeCun, Yann
 Lea, Gary
 Leach, Geoff
 Leake, Jason
+LEAL, JONATHAN JAMES
 Leaman, Oliver
 Learning Support
 Leary, Adam
@@ -7334,15 +7428,20 @@ Leaver-fay, Andrew
 Leavitt, Alex
 Leavitt, Judith Walzer
 Leavy, Patricia
+LeBaron, C
 Lebas, Elizabeth
 Leber, Christina
 Lebiere, Christian
 Leblanc, Marc
 Lebling, P. David
 Lebo, Matthew J.
+LeBras, Ronan
+LeBron, Larry
 Leca, Bernard
 Lecendreux, Michel
 Leckie, Ann
+LeCount, Ryan Jerome
+LeCun, Yann
 Ledeczi, Akos
 Lederberg, Joshua
 Ledig, Christian
@@ -7467,22 +7566,23 @@ Leshem, Shosh
 Leskes, Boaz
 Lesko, Catherine R
 Leskovec, Jure
+LEslie Lamport
 Leslie, Erika
 Lesmo, L.
 Lespérance, Yves
 Lessard, Jonathan
 Lesser, V. R.
-Lesser, VR
 Lesser, Victor
 Lesser, Victor R.
+Lesser, VR
 Lessig, Lawrence
 Lessing, Benjamin
 Lester Burbank Bridaham
 Lester, Cynthia Y.
-Lester, JC
 Lester, James
 Lester, James C
 Lester, James C.
+Lester, JC
 Lester, Marilyn
 Lesṕerance, Yves
 Let, Definition
@@ -7617,8 +7717,8 @@ Lilienfeld, Scott O
 Lillibridge, Mark
 Lillicrap, Timothy P
 Lillis, David
-Lim, CU
 Lim, Chong-U
+Lim, CU
 Lim, Maxine
 Lim, Mei Yii
 Lim, Peter
@@ -7645,6 +7745,7 @@ Lin, Yu
 Lin, Z. Jun
 Lincke, Jens
 Lincoln, Bruce
+Linda M. Chinnia
 Lindahl, Bertil
 Lindauer, Marius
 Lindberg, Aron
@@ -7696,8 +7797,8 @@ Liu, Geoffrey
 Liu, Huan
 Liu, Jialin
 Liu, Jiming
-Liu, KJ Ray
 Liu, Kecheng
+Liu, KJ Ray
 Liu, Lydia H.
 Liu, Mengchen
 Liu, Min
@@ -7708,9 +7809,9 @@ Liu, Shixia
 Liu, Sifeng
 Liu, Tracy Xiao
 Liu, Weiru
-Liu, YE
 Liu, Yang
 Liu, Yang-Yu
+Liu, YE
 Liu, Ying
 Liu, Yinhan
 Liu, Yun-en
@@ -7731,6 +7832,7 @@ Lloyd-Smith, James O.
 Lo, Shao-kang
 Loban, Rhett
 Lobo, J.
+LOCHARD, GABRIELLE
 Lockemann, Peter
 Lockerd, Andrea
 Lockhart, Kristi L
@@ -7820,6 +7922,7 @@ Low, Devin
 Lowe, Al
 Lowe, P D
 Lowe, Thomas
+LOWE, WILL
 Lowe, Will
 Lowes, John Livingstong
 Lowes, Linda P
@@ -7909,52 +8012,51 @@ Lüdtke, Stefan
 Lünen, Alexander von
 Lüth, Christoph
 M. Beliso-De Jesús, Aisha
-MA. Sentiido
-MUMMOLO, JONATHAN
 Ma'ayan, Dor
 Ma, Tengyu
 Ma, William
+MA. Sentiido
 Maarek, Paul
 Maarten, Peeters
 Maassen, Esther
 Mabin, Vicky
 Mac, Juno
-MacCallum, Catriona
-MacCurdy, Robert
-MacDonald, Graham K.
-MacFarlane, John
-MacIntyre, Blair
-MacIver, Robert Morrison
-MacKay, David J C
-MacKerrow, Edward
-MacLean, Allan
-MacLean, Lauren Morris
-MacLeod, C M
-MacLeod, Chris
-MacNamara, Andrew
-MacPherson, Sir William
 Macal, Charles M
 Macari, Suzanne L.
 Macartney, Suzanne
 Macbeth, Samuel
+MacCallum, Catriona
+MacCurdy, Robert
 Macdonald, Brian
+MacDonald, Graham K.
 Macfadyen, Alyx
+MacFarlane, John
 Macfarlane, John
 Machado, Penousal
 Macheret, Valentin
+MacIntyre, Blair
+MacIver, Robert Morrison
 Mack, Jonathan
+MacKay, David J C
 Mackay, WE
 Macke, Susan
 Mackenzie, Adrian
 Mackenzie, Dana
+MacKerrow, Edward
 Mackie, George M.
 Mackintosh, Bundy
 Maclaurin, Matt
+MacLean, Allan
 Maclean, Allan
+MacLean, Lauren Morris
 Maclean, Malcom
+MacLeod, C M
+MacLeod, Chris
 Macleod, Hamish
 Macleod, Suzanne
+MacNamara, Andrew
 Macola, Giacomo
+MacPherson, Sir William
 Macqueen, David
 Macy, Michael W
 Macy, Michael W.
@@ -8098,10 +8200,10 @@ Mar, Maksymilian Del
 Marano, Monika
 Marar, Ziyad
 Marc J. Ventresca
-March, JG James G
-March, JG James G.
 March, James G
 March, James G.
+March, JG James G
+March, JG James G.
 Marchi, Erik
 Marchioni, Enrico
 Marchionni, Caterina
@@ -8200,8 +8302,8 @@ Martin, Nancy M.
 Martin, Nicola
 Martin, Paul
 Martin, R.
-Martin, RJ
 Martin, Rachel
+Martin, RJ
 Martinas, Sharon
 Martinek, Jacek
 Martinelli, Fabio
@@ -8345,6 +8447,7 @@ McAuley, Tomás
 McBreen, John
 McBride, Conor
 McBurney, Peter
+Mccaffrey, Tony
 McCague, Cathal
 McCain, John
 McCain, Miles
@@ -8358,6 +8461,7 @@ McCarthy, Ian
 McCarthy, J
 McCarthy, James
 McCarthy, John
+Mccarthy, John
 McCarthy, John JJ
 McCarthy, Lauren
 McCarthy, Thomas
@@ -8369,10 +8473,14 @@ McCloud, Scott
 McClure, Dan
 McClure, Julia
 McCollum, C.
+Mcconaughey, Meghan
+Mccormack, Jon
 McCormick, Danny
 McCoy, J
 McCoy, John
 McCoy, Josh
+Mccoy, Josh
+Mccoy, Joshua Allen
 McCrae, John P.
 McCreanor, Tim
 McCrickard, D.Scott
@@ -8388,16 +8496,19 @@ McDonald, David W.
 McDonald, James
 McDonald, Malcolm
 McDonald, Nora
+Mcdonald, Peter Douglas
 McDonald, Robert I.
 McDonald, Ruth
 McDougal, Julian
 McDowell, Charlie
 McDowell, Gary
+Mcduffee, Eric
 McEntire, Robin
 McFarland, D
 McFarlane, Daniel C.
 McFarlin, Isaac
 McGee, K
+Mcgee, Kevin
 McGee, Michael Calvin
 McGibney, Jimmy
 McGloin, Rory
@@ -8425,8 +8536,10 @@ McIlraith, Sheila A
 McIntosh, Daniel N.
 McIntosh, Mary
 McIntosh, Robert D.
+Mcintyre, Neil
 McKay, Don
 McKean, Margaret A.
+Mckeegan, Michele
 McKelvey, Maureen
 McKenna, Justice
 McKenna, Madeline
@@ -8437,6 +8550,7 @@ McKeown, Kathleen R.
 McKercher, Grant R
 McKinna, James
 McKinney, Kayla
+Mckinnon, Rachel
 McKleroy, Vel S.
 McKone, Elinor
 McLaughlin, Katie A
@@ -8450,11 +8564,14 @@ McLoughlin, Ian
 McLuhan, Marshall
 McMahan, Brian
 McMahan, C. Alex
+Mcmahon, Chris
 McMahon, John
 McManus, Brian
 McMillan-Major, Angelina
 McNamara, John M.
 McNamara, Kevin R.
+Mcnaughton, M
+Mcnaughton, Matthew
 McNeill, Fiona
 McNeill, Graham
 McNicholas, Anthony
@@ -8464,29 +8581,14 @@ McPhearson, Timon
 McPherson, Andrew
 McPherson, Chad Michael
 McPherson, Klim
+Mcpherson, Leslie
 McPherson, Ryan J
 McQuade, Joseph
+Mcquade, Tim
 McQueston, Jacquelyn T
 McReynolds, Justice
 McRoberts, Mo
 McStay, Andrew
-Mccaffrey, Tony
-Mccarthy, John
-Mcconaughey, Meghan
-Mccormack, Jon
-Mccoy, Josh
-Mccoy, Joshua Allen
-Mcdonald, Peter Douglas
-Mcduffee, Eric
-Mcgee, Kevin
-Mcintyre, Neil
-Mckeegan, Michele
-Mckinnon, Rachel
-Mcmahon, Chris
-Mcnaughton, M
-Mcnaughton, Matthew
-Mcpherson, Leslie
-Mcquade, Tim
 Mcwilliam, Kelly
 Mead, Julia
 Mead, Philip
@@ -8600,14 +8702,14 @@ Mewburn, Inger
 Meyer, Albert R
 Meyer, Bruce
 Meyer, Heinz-Dieter
-Meyer, JW John
 Meyer, Joachim
 Meyer, John W
 Meyer, John-Jules
+Meyer, John-jules
 Meyer, John-Jules Ch
 Meyer, John-Jules Ch.
 Meyer, John-Jules Jules Ch.
-Meyer, John-jules
+Meyer, JW John
 Meyer, M.
 Meyer, Matthias
 Meyer, Paul R.
@@ -8660,6 +8762,7 @@ Miguez, Roberto
 Mihalcea, R
 Mihalcea, Rada
 Miikkulainen, Risto
+Mike Ryder
 Mikhaylov, Slava
 Mikkelsen, Simon Leander
 Mikolov, Tomáš
@@ -8740,6 +8843,7 @@ Mir, Raza
 Mirandola, Raffaela
 Miranker, Daniel P
 Mirchandani, Suvir
+Miriam Greenberg
 Mirzakhalov, Jamshidbek
 Misdariis, Nicolas
 Misevic, Dusan
@@ -8847,8 +8951,8 @@ Moore, Carleton
 Moore, Ernest E
 Moore, Gregory H.
 Moore, J
-Moore, JD
 Moore, James W
+Moore, JD
 Moore, Johanna
 Moore, Matthew
 Moore, Patrick S
@@ -8869,9 +8973,9 @@ Morales Matamoros, Javier
 Morales Meoqui, Jorge
 Morales, Gianmarco De Francisci
 Moran, S. E
-Moran, TP P.
 Moran, Thomas
 Moran, Tom
+Moran, TP P.
 Morana, Stefan
 Morang, Rachel E.
 Mordatch, Igor
@@ -9006,6 +9110,7 @@ Mullins, Daniel
 Mullins, Daniel Austin
 Mullins, Robert
 Mumick, Inderpal Singh
+MUMMOLO, JONATHAN
 Mummolo, Jonathan
 Munger, Charlie
 Munir, Kamal
@@ -9098,7 +9203,6 @@ Müller, Pascal
 Müller, Peter
 Müller, Stephan
 Měch, Radomír
-NSF
 Na, Gitae
 Na, Jin-Cheon
 Nabatchi, Tina
@@ -9239,9 +9343,9 @@ Neville, Brendan J.
 Neville, Henrry
 Nevins, Jeffrey
 Newell, A.
+Newell, a.
 Newell, Alen
 Newell, Allen
-Newell, a.
 Newhouse, Alex
 Newmahr, S.
 Newmahr, Staci
@@ -9261,8 +9365,8 @@ Newton, Scott
 Nexon, Daniel
 Neyland, Daniel
 Neylon, Cameron
-Ng, AY
 Ng, Andrew Y
+Ng, AY
 Ng, Edwin
 Ng, Nicholas
 Ng, Nottingham
@@ -9418,6 +9522,8 @@ Nowak, Kristine L.
 Nowostawski, Mariusz
 Nowrasteh, Alex
 Noy, Natalya F.
+NSF
+nterlandi, Jeneen
 Ntuli, Esther
 Nuccitelli, Dana
 Nugi, Grace
@@ -9481,8 +9587,6 @@ O'Sullivan, Declan
 O'Toole, Jennifer Cook
 O'Toole, Therese
 O., German Ju.
-ODonnell, Susan L
-OORE, DANIEL
 O\textquoterightDonoghue, Ashley L.
 Oaksford, Mike
 Oates, Tim
@@ -9507,6 +9611,7 @@ Odersky, Martin
 Odo, Nnaemeka U.
 Odom, William
 Odone, Francesca
+ODonnell, Susan L
 Odum, Eugene P
 Oehlberg, Lora
 Oestigaard, Terje
@@ -9606,6 +9711,7 @@ Onuczko, C
 Onuczko, Curtis
 Onuczko, Curtis Aaron
 Onyeador, Ivuoma N.
+OORE, DANIEL
 Oosterlaan, Jaap
 Oosterlinck, Kim
 Oppen, Karoline Von
@@ -9663,6 +9769,7 @@ Oswald, Frederick L
 Otaduy, Miguel a.
 Othenin-Girard, A
 Othenin-girard, By Alexei
+others
 Ott, Barbara B
 Ott, Myle
 Otten, Jens
@@ -9693,9 +9800,6 @@ Ozcan, Pinar
 Ozg, Munindar P Singh
 O’Connor, Cailin
 P., R. Biju
-PADGET, JULIAN
-PAckard, Norman H.
-PINHEIRO-MACHADO, ROSANA
 Paavilainen, Janne
 Pabel, Anja
 Pacchiano, Aldo
@@ -9708,11 +9812,13 @@ Pacheco-Vega, Raul
 Pacheco‐Vega, Raul
 Pachet, François
 Packard, Grant
+PAckard, Norman H.
 Packer, Heather S
 Packer, Jeremy
 Packer, ZZ
 Pacuit, Eric
 Padget, J
+PADGET, JULIAN
 Padget, Julian
 Padget, Julian A.
 Padgham, Lin
@@ -9777,8 +9883,8 @@ Pantano, Pietro
 Pantazis, Evangelos
 Panter, Jenna
 Panter-Brick, Catherine
-Paolo, Ezequiel Di
 Paolo, Ezequiel a.
+Paolo, Ezequiel Di
 Paolo, Giuseppe
 Paolucci, Mario
 Papadimitriou, Christos H
@@ -9906,6 +10012,7 @@ Pattison, H. Edward
 Pattnaik, Binay Kumar
 Patton, Bruce
 Patwardhan, Siddharth
+Paul DeWolfe
 Paul Johnson
 Paul Johnson
 Paul Murphy
@@ -10040,6 +10147,7 @@ Persson, Torsten
 Perzanowski, Aaron
 Petcou, Constantin
 Peter Clark
+Peter Davis and Roy Lay-Yee
 Peter Good
 Peter Norvig
 Peter, Vrancx
@@ -10161,6 +10269,7 @@ Pinckney, Darryl
 Pineau, Joelle
 Pinelle, David
 Ping, Haoyue
+PINHEIRO-MACHADO, ROSANA
 Pink, Sarah
 Pinker, Steven
 Pinkernell, Claas
@@ -10326,6 +10435,7 @@ Prade, Henri
 Pradel, Michael
 Prakash, Sushant
 Prakken, Henry
+Pramod K. Nayar
 Prandini, Riccardo
 Prasad, Ishita
 Prasad, Rashmi
@@ -10373,6 +10483,7 @@ Priestley, Hilary A.
 Priestley, Rick
 Priestley, Theo
 Prigent, Armelle
+Primavera de Filippi
 Primorac, Jaka
 Prince, Alan S
 Pringle, Patricia
@@ -10461,6 +10572,7 @@ Qadir, Ashequl
 Qadri, Hussain Mohi-ud-Din
 Qambela, Gcobani
 Qian, Franklin
+Qiaochu Yuan
 Qu, Chengcheng
 Quack, Sigrid
 Quadri, Junaid
@@ -10470,6 +10582,7 @@ Quattrociocchi, Walter
 Quattrone, Paolo
 Quayle, Ethel
 Queiroz, Chico
+Quentin Davis
 Querubin, Pablo
 Quijada, Justine Buck
 Quinan, P. S.
@@ -10481,9 +10594,6 @@ Qureshi, Ishtiaq Husain
 Quéma, Vivien
 Qvortrup, Lars
 R. Needham
-RIEMSDIJK, MB
-RNC
-RUSSO, ALESSANDRA
 Raadschelders, Jos
 Raayoni, Gal
 Rabaka, Reiland
@@ -10583,9 +10693,9 @@ Ranker, Lynsie R
 Ranstorp, Magnus
 Rantala, Ramona R
 Ranzato, Marc'Aurelio
-Rao, AS Anand S.
 Rao, Anand S
 Rao, Anand S.
+Rao, AS Anand S.
 Rao, Gautam
 Rao, Justin M.
 Rao, Prasad
@@ -10778,6 +10888,7 @@ Rice, Melissa
 Rich, Charles
 Richard Blundell
 Richard Blundell
+Richard C. Bell
 Richard Jackson Harris
 Richard Lemarchand
 Richards, Debbie
@@ -10811,18 +10922,19 @@ Riedel, Oliver
 Riedel, Sebastian
 Rieder, Erica
 Riederer, Emily
-Riedl, MO
 Riedl, Mark
 Riedl, Mark O
 Riedl, Mark O MO Mark O.
 Riedl, Mark O.
 Riedl, Mark Owen
+Riedl, MO
 Rieffel, John
 Riegelsberger, Jens
 Rieman, John
 Riemann, Rainer
 Riemer, Matthew
 Riemer, Till
+RIEMSDIJK, MB
 Ries, K.
 Ries, Klaus
 Riesbeck, Christopher K.
@@ -10868,6 +10980,7 @@ Riveret, Régis
 Rivers, W. H. R.
 Rivest, Ronald L.
 Rizzo, Sara
+RNC
 Roa, Anand
 Road, Harry
 Roads, Curtis
@@ -11113,8 +11226,8 @@ Roversi, Corrado
 Rowan, Brian
 Rowan, Heinz-Dieter Meyer Brian
 Rowan, John
-Rowe, JP
 Rowe, Jonathan P.
+Rowe, JP
 Rowe, June R.
 Rowe, Neil
 Rowe, Nicolas
@@ -11177,6 +11290,7 @@ Russell, Ian
 Russell, Jamie
 Russell, Seán
 Russell, Stuart
+RUSSO, ALESSANDRA
 Russo, Wilma
 Russolo, Luigi
 Russworm, TreaAndrea M
@@ -11218,15 +11332,6 @@ Røhnebæk, Maria Taivalsaari
 Rüegg, Walter
 S.Moss, Laurence
 S.N Shcelkunov
-SATOH, KEN
-SCOTUS
-SHAVIRO, STEVEN
-SIngh, Munindar P.
-SMALLEY, DENIS
-SOLOMONOFF, G
-STERBENZ, MAEVE
-STODDARD, WILLIAM
-SUECHTING, MAXWELL JOSEPH
 Saab, Daniel G
 Saam, Nicole J
 Saar, William
@@ -11390,6 +11495,7 @@ Sasse, Martina Angela
 Sathiyanarayanan, Pavithra
 Sato, Aki-hiro
 Sato, Takashi
+SATOH, KEN
 Satoh, Ken
 Satokhina, Natalia
 Sattar, Abdul
@@ -11438,8 +11544,8 @@ Scanniello, Giuseppe
 Scedrov, Andre
 Scerri, Paul
 Schachter, Marc D.
-Schaefer, EF Edward F.
 Schaefer, Edward F
+Schaefer, EF Edward F.
 Schaeffer, J
 Schaeffer, Jonathan
 Schafer, R. Murray
@@ -11662,6 +11768,7 @@ Scott, Peter
 Scott, Richard W.
 Scott, W Richard
 Scott, W. Richard
+SCOTUS
 Scrivens, Ryan
 Scruton, Roger
 Scukins, Edvards
@@ -11821,6 +11928,7 @@ Sharpe, Alex
 Sharts-Hopko, Nancy C
 Shashua, Amnon
 Shaver, Phillip R
+SHAVIRO, STEVEN
 Shaw, Adrienne
 Shaw, David
 Shaw, Devin Zane
@@ -11933,10 +12041,10 @@ Sibertin-Blanc, Christophe
 Sibghat, Huma
 Sibley, Frank
 Sicart, Miguel
-Sichman, JS
 Sichman, Jaime S.
 Sichman, Jaime Simao
 Sichman, Jaime Simão
+Sichman, JS
 Sidanius, Jim
 Siddiki, Saba
 Siddiqi, Asiya
@@ -12037,6 +12145,7 @@ Singh, Jaspreet
 Singh, M. P.
 Singh, Manvir
 Singh, Munindar P
+SIngh, Munindar P.
 Singh, Munindar P.
 Singh, Sabita
 Singh, Satinder
@@ -12104,6 +12213,7 @@ Smail, Irene E
 Smaill, Alan
 Smalheiser, Neil R.
 Small, Mario Luis
+SMALLEY, DENIS
 Smaragdakis, Yannis
 Smart, Barry
 Smart, Paul
@@ -12212,6 +12322,7 @@ Solmi, Riccardo
 Solomon, Caren G.
 Solomon, Robert C.
 Solomon, Yonas
+SOLOMONOFF, G
 Solovay, Robert M.
 Soloway, Elliot
 Solé, Ricard V.
@@ -12422,11 +12533,12 @@ Stephenson, Matthew
 Stephenson, Neal
 Stephenson, Svetlana
 Stepner, Michael
+STERBENZ, MAEVE
 Steriu, Andreea
 Sterling, Leon
+Stern, a.
 Stern, Andrew
 Stern, Hal
-Stern, a.
 Sternberg, Evan S.
 Sterne, Jonathan
 Sternglanz, R. Weylin
@@ -12453,6 +12565,7 @@ Stevenson, Jamey
 Stevenson, Jim
 Stevenson, Megan
 Steward, Don
+Stewart, a J
 Stewart, Alexander J.
 Stewart, B. C.
 Stewart, Brooke C.
@@ -12462,7 +12575,6 @@ Stewart, Justice
 Stewart, Neil
 Stewart, Nigel
 Stewart, Sean
-Stewart, a J
 Stewart-Shaw, Lizzie
 Steyerberg, Ewout
 Steyven, Andreas SW
@@ -12478,6 +12590,7 @@ Stillwell, David
 Stinchcombe, Arthur L.
 Stiny, G.
 Stockhause, Martina
+STODDARD, WILLIAM
 Stoddart, Mark C J
 Stolarek, Jan
 Stolcke, A.
@@ -12578,6 +12691,7 @@ Sudnow, David
 Sue Fox
 Sue Gray
 Sue, Derald Wing
+SUECHTING, MAXWELL JOSEPH
 Suen, Wing
 Sugiyama, Masashi
 Sugrue, Ciaran
@@ -12631,10 +12745,10 @@ Sutherland, Tonia
 Sutton, May Ishikawa
 Sutton, Philip W.
 Sutton, R S
-Sutton, RS
 Sutton, Richard S
 Sutton, Richard S.
 Sutton, Robert I
+Sutton, RS
 Sutton, Valerie
 Suyanto, J.L.
 Suznjevic, Mirko
@@ -12699,7 +12813,6 @@ Søren, Lassen
 Sørensen, Eva
 Sørensen, Henrik Toft
 Sýkora, Lukáš
-TSCHEUSCHNER, RALF D.
 Tabard, Aurélien
 Tabareau, Nicolas
 Taber, Lee
@@ -12813,8 +12926,8 @@ Taylor, Robert W.
 Taylor, Rosemary C. R.
 Taylor, Stephanie
 Taylor, Steven S
-Taylor, TL
 Taylor, Tina L
+Taylor, TL
 Taylor-Greene, Marjorie
 Taylor-Laird, Jay
 Team, Loria Maia
@@ -12837,6 +12950,7 @@ Tellioğlu, Hilda
 Telushkin, Rabbi Joseph
 Temesi, József
 Temkin, Max
+ten Broeke, Guus
 Ten, C. L
 Tenenbaum, Joshua B
 Teng, Zhongzhao
@@ -12875,6 +12989,8 @@ Thalmann, D.
 Thangarajah, John
 Thapa, Devinder
 The Glidden Company
+The Republican Party
+The Republican Party of Texas
 Thea, B
 Theesfeld, Insa
 Theis, Lucas
@@ -13084,8 +13200,8 @@ Travers, Max
 Travers, Michael
 Travis, Peter W.
 Treanor, Mike
-Tree, JEF
 Tree, Jean E. Fox
+Tree, JEF
 Treem, Jeffrey W.
 Trefay, Gregory
 Treherne, J. Mark
@@ -13122,6 +13238,7 @@ Tsaknaki, Vasiliki
 Tsandilas, Theophanis
 Tsang, Tracy
 Tsay, Jason
+TSCHEUSCHNER, RALF D.
 Tschurenev, Jana
 Tseng, Alice Y
 Tsipoulanidis, Alexander
@@ -13190,13 +13307,9 @@ Tyndall, Mark W.
 Tynion IV, James
 Tzanetakis, George
 Törngren, Martin
-UCSC
-UK Home Office
-USA
-USGS
-USSR
 Ubisoft
 Uchikawa, Y.
+UCSC
 Uduku, Ola
 Udupa, Abhishek
 Udupa, Sahana
@@ -13207,6 +13320,7 @@ Uggen, Christopher
 Ugur, Emre
 Uhde, Alarith
 Ujhelyi, Adrienn
+UK Home Office
 Ulin, David L
 Ullman, Jeffrey David
 Ullman, Tomer
@@ -13218,7 +13332,10 @@ Unknown
 Upshur, Ross
 Urquhart, Neil
 Ursprung, Stephan
+USA
+USGS
 Usherwood, Simon
+USSR
 Ustun, T. Bedirhan
 Uszkoreit, Jakob
 Uszok, Andrzej
@@ -13229,7 +13346,6 @@ Uzelac, Aleksandra
 Uzelac, Milan
 V, Di Lollo
 V, Samuel H Christie
-VERNALLIS, CAROL
 Vadean, Florin
 Vadén, T.
 Vaghi, Ivan
@@ -13250,55 +13366,102 @@ Valve
 Valverde, Sergi
 Vamplew, P.
 Van 'T Veer, A. E.
+van 't Veer, Anna Elisabeth
+van Aert, Robbie C M
+van Allen, Zack
+van Assen, Marcel A L M
+van Baar, Huub
+van Benthem, Johan
+van Benthem, Johan F.A.K
 Van Brummelen, Jessica
+van Brunt, Brian
 Van De Putte, Frederik
+van Delft, Bart
 Van Den Bos, Jeroen
+Van den Bosch, Karel
+van der Hulst, Marije
+van der Kolk, Bessel
+Van der Linden, Marcel
+van der Meyden, Ron
 Van Der Ploeg, Atze
+van der Smagt, Patrick
 Van Der Storm, Tijs
+van der Storm, Tijs
+van der Torre, L
 Van Der Torre, Leendert
+van der Torre, Leendert
+van der Torre, Leendert W. N.
+van der Torre, Leendert WN
 Van Der Velden, Joeri
 Van Der Vlist, Kevin
+van der Wal, Ron
+van der Weel, Adriaan
 Van Der Wege, Mija M.
 Van Der Woning, Jimi
 Van Deth, Jan W.
+van Dijck, José
+van Ditmarsch, Hans
+van Doremalen, Neeltje
 Van Dorland, Rob
 Van Dyke Parunak, H.
+van Eekelen, M. C.J.D.
 Van Eijck, Jan
+van Eijck, Jan
+van Elst, Ludger
+van Erp, Judith
 Van Es, KF
+van Esch, Daan
 Van Ess-Dykema, C.
+van Gastel, Froukje
 Van Gelder, Allen
 Van Gorp, Pieter
 Van Gulick, Ana E.
 Van Ham, Frank
+van Hardenberg, Peter
+van Harmelen, Frank
+van Hasselt, Hado
+van Heijenoort, Jean
+van Karnenbeek, Lilian
+van Klaveren, David
 Van Kleek, Max
 Van Kreveld, M
+van Lambalgen, Michiel
+van Lange, Paul A M
 Van Lange, Paul AM
+van Leer, M. O.
+van Leeuwen, Jan
 Van Leeuwen, Theo
+van Loon, Borin
+van Manen, Max
+van Melle, William
+van Miltenburg, Emiel
+van Noord, Rik
+van Noordwijk, M.
 Van Nuenen, Tom
 Van Prooijen, Jan-Willem
 Van Riemsdijk, M Birna
 Van Riemsdijk, M. Birna
+van Riemsdijk, M. Birna
 Van Roy, Peter
 Van Swol, Lyn M.
+van Tonder, Rijnard
+van Voorn, George
 Van Wijk, J J
 Van Wijk, Jarke
 Van Wijk, Jarke J.
 Van Woensel, W.
 Van Wyk, Ben-Erik
-Van den Bosch, Karel
-Van der Linden, Marcel
 Van-Roy, Peter
 VanBuskirk, Chris
-VanRiper, Ryan
 Vandekerckhove, Joachim
 Vandelanotte, Lieven
 VandenBerghe, Jason
 Vandenbroucke, Jan P.
-VanderWeele, Tyler J.
 Vanderleyden, Julie
 Vanderplas, Jake
 Vanderpool, Christopher K.
 Vanderstichele, Geneviève
+VanderWeele, Tyler J.
 Vandijk, Ta
 Vangel, Mark
 Vangheluwe, Hans
@@ -13306,6 +13469,7 @@ Vanhasbroeck, Niels
 Vanhoucke, Vincent
 Vannisselroij, Koen
 Vanos, Jennifer K
+VanRiper, Ryan
 Vansteelandt, Stijn
 Vantaggi, Barbara
 Vanwelkenhuysen, J
@@ -13390,6 +13554,7 @@ Verity, Dominic
 Verkamo, A. Inkeri
 Verleger, Dean
 Verma, Inder M.
+VERNALLIS, CAROL
 Vernetti, Angelina
 Vernieri, Thomas M
 Verniers, Catherine
@@ -13499,6 +13664,9 @@ Vollmer, Heribert
 Volz, Vanessa
 Von Busch, Otto
 Von Landesberger, T
+von Lünen, Alexander
+von Riegen, Stephanie
+von Staufer, Marijan
 Vonnegut, Kurt
 Voorhees, Gerald
 Voorhorst, Fred
@@ -13539,7 +13707,6 @@ Völkel, Max
 Völkel, Steven
 Völter, Markus
 W. Rush, Toby
-WHO
 Waber, Benjamin
 Waber, Benjamin N.
 Wachs, Johannes
@@ -13562,8 +13729,8 @@ Wagg, Stephen
 Waghmore, Suryakant
 Wagner, Alfredo
 Wagner, Hannes F.
-Wagner, MG
 Wagner, Markus
+Wagner, MG
 Wagner, Thomas
 Wagner-Martin, Linda
 Wagstaff, Kiri L.
@@ -13760,11 +13927,11 @@ Webber, Bonnie Lynn
 Webber, Jim
 Webber, Nick
 Webbink, Dinand
-Weber, BG
 Weber, Basil
 Weber, Ben G
 Weber, Ben G.
 Weber, Ben George
+Weber, BG
 Weber, Cornelius
 Weber, Elke U
 Weber, Jörg
@@ -13921,6 +14088,7 @@ Whittle, Jon
 Whittle, Stephen
 Whittlestone, Jess
 Whitty, Monica T.
+WHO
 Wichman, Aaron
 Wichman, Aaron L
 Wichman, Aaron L.
@@ -13995,8 +14163,8 @@ Williamson, Brandi N.
 Williamson, Mary
 Williamson, Oliver E. OE
 Willis, Claire
-Willis, PJ
 Willis, Paul
+Willis, PJ
 Willits, Rebecca K.
 Willmot, Christopher
 Willmott, Hugh
@@ -14309,15 +14477,15 @@ Young, Jason R.
 Young, Jock
 Young, Julian
 Young, Liane
-Young, MR
 Young, Michael
+Young, MR
 Young, R Michael
 Young, R. M.
 Young, R. Michael
 Young, R. Michael RM
+Young, Richard
 Young, RM
 Young, RM Michael
-Young, Richard
 Young, Robert Michael
 Youngblood, Alexander
 Youngblood, G Michael
@@ -14353,8 +14521,8 @@ Zack, Naomi
 Zackariasson, Peter
 Zafar, Saad
 Zagal, J. P.
-Zagal, JP
 Zagal, José P.
+Zagal, JP
 Zagalo, Nelson
 Zagato, Alessandro
 Zagorsky, Jay L.
@@ -14497,141 +14665,6 @@ Zyda, Fred
 Zyl Smit, Dirk van
 Zyphur, Michael J
 Zünd, Fabio
-\CSen, Gül
-\VCapek, Karel
-\VCerný, Martin
-\VSperka, Roman
-al, James Bell et
-al., et
-and Gian Luca Pozzato
-author = {Jules Desai
-d'Aquin, Mathieu
-d'Errico, Angelo
-da Cunha, Paulo Rupino
-da Rocha Costa, A C
-da Rocha Costa, Antnio Carlos
-de Almeida Neto, Areolino
-de Antonio, Angélica
-de Boer, Frank
-de Boer, Frank S.
-de Brito, Maiquel
-de Bruijn, Jos
-de Brujin, Maaike
-de Carcer, Daniel Aguirre
-de Castro, Luis
-de Certeau, Michel
-de Croon, Guido C. H. E.
-de FSM Russo, Rosaria
-de Freitas, Sara;
-de Gandillac, Maurice
-de Graaff, Thomas
-de Groot, David
-de Groot, Thomas
-de Guzmán, Ignacio Garcı́a Rodr\ǵuez
-de Jong, Hidde
-de Jong, Peter
-de Jonge, Peter
-de Jongh, D.
-de Kraker, Klaas Jan
-de Ledesma, Luis
-de Leeuw, Evelyne
-de Lemos, Rogerio
-de Lemos, Rogério
-de Lima, Edirlei Soares
-de Lima, ICA
-de Matos, David Martins
-de Melo, Pedro O. S. Vaz
-de Mesentier Silva, Fernando
-de Noronha, Luke
-de Paiva, Anselmo Cardoso
-de Peuter, Greig
-de Rijcke, Sarah
-de Rijke, Maarten
-de Sade, Marquis
-de Sardan, Jean-Pierre Olivier
-de Sevin, Etienne
-de Silva, Lavindra
-de Silva, Nisansa
-de Souza, Clarisse Sieckenius
-de Soysa, Indra
-de Spinoza, Benedict
-de Visser, Coen C.
-de Vries, Marieke
-de Waal, Frans B.M. M
-de Wit, Emmie
-de'Liguoro, Ugo
-den Berg, Bibi van
-den Broek, Paul van
-den Herik, H. Jaap van
-den Herik, Jaap van
-der Goot, Rob van
-der Hoek, André van
-der Hoek, Wiebe van
-der Kwast, Julius van
-der Oord, Saskia van
-der Ploeg, Atze van
-der Torre, Leendert W. N. van
-der Torre, Leendert van
-der Torre, Leon van
-der Waa, Jasper van
-des Rivières, Jim
-di Pierro, Massimo
-grey, John
-group, a+t research
-nterlandi, Jeneen
-others
-ten Broeke, Guus
-van 't Veer, Anna Elisabeth
-van Aert, Robbie C M
-van Allen, Zack
-van Assen, Marcel A L M
-van Baar, Huub
-van Benthem, Johan
-van Benthem, Johan F.A.K
-van Brunt, Brian
-van Delft, Bart
-van Dijck, José
-van Ditmarsch, Hans
-van Doremalen, Neeltje
-van Eekelen, M. C.J.D.
-van Eijck, Jan
-van Elst, Ludger
-van Erp, Judith
-van Esch, Daan
-van Gastel, Froukje
-van Hardenberg, Peter
-van Harmelen, Frank
-van Hasselt, Hado
-van Heijenoort, Jean
-van Karnenbeek, Lilian
-van Klaveren, David
-van Lambalgen, Michiel
-van Lange, Paul A M
-van Leer, M. O.
-van Leeuwen, Jan
-van Loon, Borin
-van Manen, Max
-van Melle, William
-van Miltenburg, Emiel
-van Noord, Rik
-van Noordwijk, M.
-van Riemsdijk, M. Birna
-van Tonder, Rijnard
-van Voorn, George
-van der Hulst, Marije
-van der Kolk, Bessel
-van der Meyden, Ron
-van der Smagt, Patrick
-van der Storm, Tijs
-van der Torre, L
-van der Torre, Leendert
-van der Torre, Leendert W. N.
-van der Torre, Leendert WN
-van der Wal, Ron
-van der Weel, Adriaan
-von Lünen, Alexander
-von Riegen, Stephanie
-von Staufer, Marijan
 Ángela Duarte
 Ávila, Giovani Manso
 Åkerblom, Beatrice
