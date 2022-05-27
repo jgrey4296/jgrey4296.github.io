@@ -6882,7 +6882,7 @@ https://eilab.gatech.edu/publications : academia : explainable_ai : georgia_tech
 https://einstein.ai/research/domain-specific-language-for-automated-rnn-architecture-search : DSL : __important : deep_learning : language
 https://eji.org/reports/cruel-and-unusual#.WkJT2kTt9YA.twitter : america : prison
 https://elemental.medium.com/the-bizarre-and-racist-history-of-the-bmi-7d8dc2aa33bb : BMI : elemental : fatphobia : history : medium : racism
-https://elemental.medium.com/your-surge-capacity-is-depleted-it-s-why-you-feel-awful-de285d542f4c : surge_capacity:tara_haelle:covid_19:blog
+https://elemental.medium.com/your-surge-capacity-is-depleted-it-s-why-you-feel-awful-de285d542f4c  :  surge_capacity : tara_haelle : covid_19 : blog
 https://elementary.io/docs/human-interface-guidelines#dock-integration : __verified
 https://eli.thegreenplace.net/2017/deciphering-haskells-applicative-and-monadic-parsers/ : applicative : haskell : monad : parser
 https://eli.thegreenplace.net/2018/affine-transformations/ : affine : linear : math : transform : tutorial
@@ -6926,7 +6926,7 @@ https://en.m.wikipedia.org/wiki/Cagot : __important : history : persecution : so
 https://en.m.wikipedia.org/wiki/Carrie_Goldberg  : carried_goldberg : law : revenge_porn : wiki
 https://en.m.wikipedia.org/wiki/Cart_Life : cart_life : game : richard_hofmeier : simulation : systems : wiki
 https://en.m.wikipedia.org/wiki/Christian_nationalism : christian_nationalism : christianity : wiki
-https://en.m.wikipedia.org/wiki/Clarence_Ellis_(computer_scientist) : clarence_ellis:history:race:wiki:computer_science
+https://en.m.wikipedia.org/wiki/Clarence_Ellis_(computer_scientist)  :  clarence_ellis : history : race : wiki : computer_science
 https://en.m.wikipedia.org/wiki/Confederate_States_of_America : confederacy : racism : wiki
 https://en.m.wikipedia.org/wiki/Dataflow_programming  : HCI : dataflow : programming : wiki
 https://en.m.wikipedia.org/wiki/Design_Patterns : design_patterns : wiki
@@ -6986,7 +6986,7 @@ https://en.m.wikipedia.org/wiki/SLD_resolution : logic : resolution : wiki
 https://en.m.wikipedia.org/wiki/Sensitivity_analysis : analysis : math : sensitivity : wiki
 https://en.m.wikipedia.org/wiki/Shooting_of_Kathryn_Steinle : kate_steinle : shooting : wiki
 https://en.m.wikipedia.org/wiki/South_Dakota_v._Dole : drinking_age : federal_government : law : wiki
-https://en.m.wikipedia.org/wiki/System_F : system_f:wiki
+https://en.m.wikipedia.org/wiki/System_F  :  system_f : wiki
 https://en.m.wikipedia.org/wiki/Terri_Schiavo_case : euthanasia : florida : george_bush : law : rights : terri_schiavo : wiki
 https://en.m.wikipedia.org/wiki/The_Beggar%27s_Benison : __verified
 https://en.m.wikipedia.org/wiki/The_Wake_(novel) : book : emily_whetstone : language : paul_kingsnorth : recommendation
@@ -8303,8 +8303,8 @@ https://jeffreykegler.github.io/personal/timeline_v3 : algorithm : computer_scie
 https://jentery.github.io/ts200v2/notes.html : __important : blog : github : guide : writing
 https://jeremykun.com/2017/02/27/the-reasonable-effectiveness-of-the-multiplicative-weights-update-algorithm/ : jeremy_kun : machine_learning : math : multiplicative_weights
 https://jessicabaker.co.uk/2018/03/11/tests-and-testability/  : jessica_baker : software_engineering : testing
-https://jessicabaker.co.uk/2018/05/15/code-hazards-and-how-to-avoid-them/ : code_hazards:software_engineering:jessica_baker
-https://jessicabaker.co.uk/2018/09/10/comment-free-coding/ : software_engineering:comments:jessica_baker
+https://jessicabaker.co.uk/2018/05/15/code-hazards-and-how-to-avoid-them/  :  code_hazards : software_engineering : jessica_baker
+https://jessicabaker.co.uk/2018/09/10/comment-free-coding/  :  software_engineering : comments : jessica_baker
 https://jessicabaker.co.uk/2020/10/19/how-to-write-great-unit-tests/ : unit_tests:testing:software_engineering:jessica_baker
 https://jewishcurrents.org/a-springtime-of-erasure/ : art : eli_valley : erasure : jewish_currents : politics : satire : trump
 https://jezebel.com/private-messages-reveal-the-cis-journalist-groupthink-b-1827041764 : bigotry : harron_walker : jesse_singal : jezebel : politics : transgender
@@ -8499,7 +8499,7 @@ https://lh3.googleusercontent.com/-eV75iWGS9sY/UrsQgOpDhcI/AAAAAAAANwQ/e1_7Zp7b8
 https://libcom.org/history/origins-police-david-whitehouse : david_whitehouse : history : libcom : origin : police
 https://libgdx.com/dev/ : android : game_development : game_engine : java : kotlin : libgdx
 https://lifehacker.com/find-specialty-subreddits-with-this-tool-1831773643 : exploration : machine_learning : recommender_system : reddit
-https://lifeisasacredtext.substack.com/p/how-to-disrupt-a-tyrannical-system : tyrannical_systems:tyranny:danya_ruttenberg:judaism
+https://lifeisasacredtext.substack.com/p/how-to-disrupt-a-tyrannical-system  :  tyrannical_systems : tyranny : danya_ruttenberg : judaism
 https://liinwww.ira.uka.de/bibliography/Ai/index.html : bibliography : computer_science
 https://liinwww.ira.uka.de/bibliography/index.html : bibliography : computer_science
 https://lilianweng.github.io/posts/2022-02-20-active-learning/ : active_learning : machine_learning : math : technical_writing
@@ -8979,7 +8979,7 @@ https://nplusonemag.com/issue-30/essays/on-liking-women/ : book : transgender
 https://nplusonemag.com/online-only/book-review/not-every-kid-bond-matures/ : analysis : child : demographics : millenial
 https://nplusonemag.com/online-only/online-only/bureaucratic-heroism/ : CDC : bureaucracy : contagion : covid19 : film : merve_emre : nplusone : pandemic
 https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2018-07-09/presidential-control-nuclear-weapons-football : NSA : archive : freedom_of_information : nuclear_football
-https://numinous.productions/ttft/ : andy_matuschak:michael_nielsen:alan_kay:transformative_thought:doug_englebart
+https://numinous.productions/ttft/  :  andy_matuschak : michael_nielsen : alan_kay : transformative_thought : doug_englebart
 https://numpy.org/doc/stable/reference/arrays.html : math : numpy : python : reference
 https://nursingclio.org/2019/05/16/abortion-the-archive-doesnt-lie-but-republicans-do/ : abortion : justice : lauren_macivor_thompson : nursing : politician : reproduction : republicans
 https://ny.eater.com/2019/1/18/18183973/authenticity-yelp-reviews-white-supremacy-trap : authenticity : criticism : culture : food : ny_eater : racism : restaurant : sara_kay : white_supremacy : yelp
@@ -9161,7 +9161,7 @@ https://probablydance.com/2017/08/05/intuitive-quaternions/ : algebra : geometry
 https://procedural-generation.tumblr.com/ : blog : procedural_content
 https://procedural-generation.tumblr.com/post/190625480383/lennas-inception-after-a-long-development-cycle : game_development : lennas_inception : procedural_content : zelda
 https://programminghistorian.org/lessons/intro-to-twitterbots : bot : procedural_content : tracery : tutorial : twitter
-https://progressive.org/magazine/lone-wolf-in-the-henhouse-christophi/ : US_DOJ:terrorism:white_supremacy:brian_p_haughton:progressive
+https://progressive.org/magazine/lone-wolf-in-the-henhouse-christophi/  :  US_DOJ : terrorism : white_supremacy : brian_p_haughton : progressive
 https://projecteuler.net/archives : __verified : math : project_euler
 https://projects.nj.com/data/force-visual/ : cop : new_jersey : police : police_violence : use_of_force
 https://projects.propublica.org/asylum/#how-asylum-works : america : asylum : propublica : racism
@@ -9286,7 +9286,7 @@ https://ro-che.info/articles/2017-08-06-manage-allocated-memory-haskell : haskel
 https://roadmap.sh/backend : backend_developer : programming : roadmap
 https://robertsrules.org/rror--00.htm : roberts_rules
 https://rockt.github.io/pdf/rocktaschel2017end-slides.pdf : NIPS : machine_learning : neural_network : proving
-https://rofasss.org/ : social_simulation:RofASSS:journal:artificial_societies:__important
+https://rofasss.org/  :  social_simulation : RofASSS : journal : artificial_societies : __important
 https://rollingout.com/2013/06/22/don-butler-tells-how-blacks-helped-save-cadillac-from-extinction-during-abff-festival/2/ : cadillac : car : don_butler : history : racism : rolling_out : terry_shropshire
 https://rosettacode.org/wiki/Category:Solutions_by_Programming_Task : rosetta_code
 https://rosettacode.org/wiki/Rosetta_Code : programming : reference : rosetta_code
@@ -10449,7 +10449,7 @@ https://www.cbinsights.com/research/corporate-innovation-product-fails/ : cbinsi
 https://www.cbpp.org/research/health/medicaid-block-grant-would-slash-federal-funding-shift-costs-to-states-and-leave : CBP : GOP : block_grants : edwin_park : medicaid : policy : trump
 https://www.cbsnews.com/amp/news/charles-kinsey-shooting-clears-officer-jonathan-aledda-on-1-count-deadlocks-on-others-today-2019-03-15/ : CBS : charles_kinsey : florida : news
 https://www.cc.gatech.edu/gvu/ii/softvis/ : georgia_tech:data_visualisation:research:academia:software_visualisation
-https://www.cc.gatech.edu/~isbell/pubs/ : charles_isbell:academia:georgia_tech:research
+https://www.cc.gatech.edu/~isbell/pubs/  :  charles_isbell : academia : georgia_tech : research
 https://www.cc.gatech.edu/~riedl/pubs/aaai-keg17.pdf : creativity : machine_learning : mark_riedel : paper : procedural_content
 https://www.cdc.gov/mmwr/volumes/67/ss/ss6713a1.htm : CDC : abortion : statistics
 https://www.cdc.gov/mmwr/volumes/70/wr/mm7010e3.htm?s_cid=mm7010e3_w : CDC : covid : mask_mandates
@@ -10645,7 +10645,7 @@ https://www.edx.org/course/the-architectural-imagination : architecture : course
 https://www.eff.org/deeplinks/2012/04/4-simple-changes-protect-your-privacy-online : __verified : eff : law : policy : privacy
 https://www.eff.org/deeplinks/2013/04/are-you-teenager-who-reads-news-online-according-justice-department-you-may-be : cfaa : eff : information_literacy : news
 https://www.eff.org/deeplinks/2013/04/until-today-if-you-were-17-it-could-have-been-illegal-read-seventeencom-under-cfaa : cfaa : eff : information_literacy : news
-https://www.eff.org/deeplinks/2019/10/adversarial-interoperability : cory_doctorow:intellectual_property:software:adversarial_interoperability
+https://www.eff.org/deeplinks/2019/10/adversarial-interoperability  :  cory_doctorow : intellectual_property : software : adversarial_interoperability
 https://www.eff.org/pages/list-printers-which-do-or-do-not-display-tracking-dots : __verified : privacy : surveillance : technology
 https://www.egison.org/ : __important : ai : pattern_matching : programming_language : reasoning : type_system
 https://www.emacswiki.org/emacs/DiredOmitMode : emacs : reference
@@ -10698,7 +10698,7 @@ https://www.fastcompany.com/90422553/the-first-map-of-americas-food-supply-chain
 https://www.fastcompany.com/90605031/the-toll-of-codeswitching-and-the-tyranny-of-culture-fit?partner=rss : code_switching : culture_fit : fastcompany : kathleen_davis
 https://www.fathommag.com/stories/when-the-church-listens-to-the-hard-of-hearing : church : deaf : disability : fathon
 https://www.fbo.gov/index.php?s=opportunity&mode=list&tab=list&_nfound=1 : USA : business : federal_business_opportunities : federal_government
-https://www.federalregister.gov/ : federal_register:executive_orders:USA
+https://www.federalregister.gov/  :  federal_register : executive_orders : USA
 https://www.federalregister.gov/documents/2019/03/04/2019-02200/medicare-and-medicaid-programs-patient-protection-and-affordable-care-act-interoperability-and : assets : federal_register : law : medicaid : medicare : resource
 https://www.filfre.net/2019/03/darklands/ : RPG : darklands : digital_antiquarian : history
 https://www.filmsforaction.org/articles/names-and-locations-of-the-top-100-people-killing-the-planet/?fbclid=IwAR2Msu20kQ9-7hRZbPvYFy-vyudSDWxNvOjTlxsDejKAeMjT09KVIe45P5k#.XQZ_PeMGPF0.facebook : climate_change : films_for_action : jordan_engel : map
@@ -10766,7 +10766,7 @@ https://www.gamasutra.com/view/news/315664/The_AI_systems_that_govern_Final_Fant
 https://www.gamasutra.com/view/news/315954/Making_a_civilizationscale_crafting_system_for_Jason_Rohrers_One_Hour_One_Life.php : crafting : gamasutra : jason_rohrer : one_hour_one_life
 https://www.gamasutra.com/view/news/320624/Video_Procedurally_generating_history_in_Caves_of_Qud.php : GDC : caves_of_qud : gamasutra : procedural_content : video
 https://www.gamasutra.com/view/news/325047/Video_How_the_nemesis_system_in_Shadow_of_War_was_designed.php : gamasutra : game_design : nemesis_system : shadow_of_mordor
-https://www.game-cities.com/ : urban_design:games:cities:Konstantinos_Dimopoulos
+https://www.game-cities.com/ : urban_design : games : cities : Konstantinos_Dimopoulos
 https://www.gamedev.net/ : __verified : game_development : programming : reference : technical : tutorial
 https://www.gamedev.net/resources/_/technical/artificial-intelligence/chess-programming-part-i-getting-started-r1014 : __verified : ai : chess : game_ai : programming
 https://www.gamedeveloperstudio.com/graphics/ : assets : graphics : image
@@ -10898,7 +10898,7 @@ https://www.huffingtonpost.co.uk/entry/kamala-harris-truancy-arrests-2020-progre
 https://www.huffingtonpost.co.uk/entry/kamala-harris-truancy-arrests-2020-progressive-prosecutor_n_5c995789e4b0f7bfa1b57d2e?guccounter=1 : cheree_peoples : huffington_post : kamala_harris : molly_redden : truancy
 https://www.huffingtonpost.co.uk/entry/national-parks-trump-shutdown-ryan-zinke_us_5c38d473e4b0c469d76dd24e : chris_d_angelo : huffington_post : national_parks : ryan_zinke
 https://www.huffingtonpost.co.uk/entry/philip-alston-austerity_uk_5ce4f0c5e4b0d513447c7276?ncid=other_twitter_cooo9wqtham&utm_campaign=share_twitter&guccounter=1&guce_referrer=aHR0cHM6Ly90d2l0dGVyLmNvbS9pL2NhcmRzL3Rmdy92MS8xMTQyMDYyMTE5ODY2ODE4NTYxP2NhcmRuYW1lPXN1bW1hcnlfbGFyZ2VfaW1hZ2UmYXV0b3BsYXlfZGlzYWJsZWQ9dHJ1ZSZlYXJuZWQ9dHJ1ZSZlZGdlPXRydWUmbGFuZz1lbiZjYXJkX2hlaWdodD0zNDQmbmlnaHRfbW9kZT10cnVlJnNjcmliZV9jb250ZXh0PSU3QiUyMmNsaWVudCUyMiUzQSUyMndlYiUyMiUyQyUyMnBhZ2UlMjIlM0ElMjJwZXJtYWxpbmslMjIlMkMlMjJzZWN0aW9uJTIyJTNBJTIycGVybWFsaW5rJTIyJTJDJTIyY29tcG9uZW50JTIyJTNBJTIydHdlZXQlMjIlN0QmYmVhcmVyX3Rva2VuPUFBQUFBQUFBQUFBQUFBQUFBQUFBQVBZWEJBQUFBQUFBQ0xYVU5EZWtNeHFhOGglMjUyRjQwSzRtb1VrR3NvYyUyNTNEVFlmYkRLYlQzakpQQ0VWbk1ZcWlsQjI4TkhmT1Bxa2NhM3FhQXhHZnN5S0NzMHdSYnc&guce_referrer_sig=AQAAAKtTC0iBXd2jrJDk-ohvddD_ZYSvqozDbcNBsIkEDt5KR_WyMQ7wfKxBPmybFZUStfRjNUP1YxPUtW6O9eh0v3QwOafUaDfDIMqD-xTUPOrwhLc34T2YhS13pTr77qoP3gjrqELLCTxAGUQruaHwgfvj655Lp2IZZtFE0SMKhgkw : UK : austerity : government : huffington_post : philip_alston : report
-https://www.huffingtonpost.co.uk/entry/police-misconduct-settlements_n_7423386?ri18n=true : police_violence:nick_wing:timothy_russell:malissa_williams:michael_brelo:huffpo
+https://www.huffingtonpost.co.uk/entry/police-misconduct-settlements_n_7423386?ri18n=true : police_violence : nick_wing : timothy_russell : malissa_williams : michael_brelo : huffpo
 https://www.huffingtonpost.co.uk/entry/stephen-colbert-anxiety_us_5b8819bae4b0511db3d5d2a7 : anxiety : huffington_post : stephen_colbert
 https://www.huffingtonpost.co.uk/entry/steve-king-white-nationalist_us_5b3276f0e4b0b745f1784ebe : GOP : huffington_post : politics : racism : steve_king : white_supremacy
 https://www.huffingtonpost.co.uk/entry/stillbirth-photo-series_l_5cc9e6b7e4b0e4d7572cd893 : abortion : catherine_pearson : huffington_post : kristin_naylor : meg_brock : miscarriage : pennsylvania : pregnancy : still_birth
@@ -10921,7 +10921,7 @@ https://www.idlethumbs.net/designernotes/episodes/sid-meier-part-1 : designer_no
 https://www.idlethumbs.net/tonecontrol : __verified : game_development : interview : podcast
 https://www.idrlabs.com/autism-spectrum/test.php : autism
 https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_696146/lang--en/index.htm : ilo : international_labour_organization : labour : report : work
-https://www.imperial-library.info/content/game-data : elder_scrolls:data:archive:nlp
+https://www.imperial-library.info/content/game-data  :  elder_scrolls : data : archive : nlp
 https://www.inc.com/marcel-schwantes/13-genius-questions-most-interesting-people-ask-to-start-great-conversations.html : inc : psychology : small_talk : smalltalk
 https://www.increpare.com/2009/02/opera-omnia/ : games : increpare_games : opera_omnia
 https://www.increpare.com/game/opera-omnia.html : __important : increpare : opera_omnia
@@ -11311,7 +11311,7 @@ https://www.npr.org/2019/07/02/738131948/after-6-year-battle-florida-couple-wins
 https://www.npr.org/2019/09/12/752341188/when-school-safety-becomes-school-surveillance?utm_source=twitter.com&utm_term=nprnews&utm_campaign=npr&utm_medium=social : NPR : anya_kamenetz : education : privacy : school_shootings : surveillance
 https://www.npr.org/2019/09/23/762028606/chanel-miller-says-know-my-name-as-she-reflects-on-her-assault-by-brock-turner : NPR : brock_turner : chanel_miller : rape : sexual_assault : stanford
 https://www.npr.org/2019/10/07/767850332/a-pioneering-columbus-courtroom-helps-trafficking-victims-find-hope?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=202907 : NPR : drug_war : judiciary : ohio : paige_pfleger : prohibition
-https://www.npr.org/2020/12/23/949679837/shock-and-dismay-after-trump-pardons-blackwater-guards-who-killed-14-iraqi-civil : paul_slough:blackwater:journalism:dustin_heard:trump:npr:war_crimes:evan_liberty:nicholas_slatten:laurel_wamsley
+https://www.npr.org/2020/12/23/949679837/shock-and-dismay-after-trump-pardons-blackwater-guards-who-killed-14-iraqi-civil : paul_slough : blackwater : journalism : dustin_heard : trump : npr : war_crimes : evan_liberty : nicholas_slatten : laurel_wamsley
 https://www.npr.org/2021/02/15/967783477/immigration-hard-liner-files-reveal-40-year-bid-behind-trumps-census-obsession?t=1615146790051 : census : hansi_lo_wang : immigration : npr : racism : trump
 https://www.npr.org/sections/ed/2014/08/22/341898975/a-picture-of-language-the-fading-art-of-diagramming-sentences : NLP : NPR : diagram : language : part_of_speech
 https://www.npr.org/sections/ed/2018/04/04/590887226/persistent-disparities-in-school-discipline-says-government-watchdog : NPR : discipline : education : racism : school
@@ -11479,7 +11479,7 @@ https://www.nytimes.com/2020/02/07/sunday-review/rush-limbaugh-trump-medal.html?
 https://www.nytimes.com/2020/03/02/climate/goks-uncertainty-language-interior.html?smtyp=cur : EPA : climate_change : climate_denial : hiroko_tabuchi : new_york_times : politics : trump
 https://www.nytimes.com/2020/04/11/us/politics/coronavirus-red-dawn-emails-trump.html : covid_19 : eric_lipton : journalism : new_york_times : politics : trump
 https://www.nytimes.com/2020/04/15/nyregion/coronavirus-nj-andover-nursing-home-deaths.html : care_home : covid_19 : death : new_jersey : new_york_times : tracey_tully
-https://www.nytimes.com/2020/08/27/technology/what-if-facebook-is-the-real-silent-majority.html#click=https://t.co/fD6MRkV55u : social_media:silent_majority:nytimes:technology:facebook
+https://www.nytimes.com/2020/08/27/technology/what-if-facebook-is-the-real-silent-majority.html#click=https://t.co/fD6MRkV55u  :  social_media : silent_majority : nytimes : technology : facebook
 https://www.nytimes.com/2020/09/05/world/asia/india-economy-coronavirus.html : covid_19 : india : new_york_times
 https://www.nytimes.com/2021/01/02/opinion/letters/feminism.html?referringSource=articleShare : feminism : nytimes : opinion
 https://www.nytimes.com/interactive/2015/07/08/us/census-race-map.html : map : segregation : social_system : visualisation
@@ -11944,14 +11944,14 @@ https://www.rockpapershotgun.com/2020/12/23/indie-game-publishers-are-sharing-th
 https://www.rockpapershotgun.com/2020/12/23/the-best-game-you-missed-in-april-2020-vertigo/ : games : rps : vertigo
 https://www.rockpapershotgun.com/2020/12/23/this-database-of-game-menus-is-very-cool-actually/ : UI : database : design : games : menus
 https://www.rockpapershotgun.com/2020/12/24/the-best-game-you-missed-in-may-2020-virtuaverse/ : cyberpunk : games : rps : virtuaverse
-https://www.rockpapershotgun.com/amp/watch-dogs-legion-is-booting-a-journalist-off-its-fictional-radio : watch_dogs:transphobia:rps:game_dev:helen_lewis
+https://www.rockpapershotgun.com/amp/watch-dogs-legion-is-booting-a-journalist-off-its-fictional-radio : watch_dogs : transphobia : rps : game_dev : helen_lewis
 https://www.rockpapershotgun.com/every-map-from-hitman-1-2-and-3-ranked : 
-https://www.rockpapershotgun.com/how-empire-of-sins-new-updates-are-adding-more-strategy-more-drama-and-truth-thats-stranger-than-fiction : empire_of_sin:rock_paper_shotgun:romero_games:procedural_content
-https://www.rockpapershotgun.com/kentucky-route-zeros-robot-band-just-released-an-ep-of-chill-synth-jams : ben_babbitt:music:soundtrack:kentucky_route_zero
-https://www.rockpapershotgun.com/star-dynasties-aka-crusader-kings-in-space-is-out-now : rock_paper_shotgun:crusader_kings:star_dynasties:games
+https://www.rockpapershotgun.com/how-empire-of-sins-new-updates-are-adding-more-strategy-more-drama-and-truth-thats-stranger-than-fiction : empire_of_sin : rock_paper_shotgun : romero_games : procedural_content
+https://www.rockpapershotgun.com/kentucky-route-zeros-robot-band-just-released-an-ep-of-chill-synth-jams  :  ben_babbitt : music : soundtrack : kentucky_route_zero
+https://www.rockpapershotgun.com/star-dynasties-aka-crusader-kings-in-space-is-out-now : rock_paper_shotgun : crusader_kings : star_dynasties : games
 https://www.rockpapershotgun.com/tag/analogue-a-hate-story/ : __verified : christine_love : game : game_criticism : interactive_fiction : rock_paper_shotgun : social_system
 https://www.rockpapershotgun.com/this-video-game-teaches-you-how-to-use-git-repositories : deck_building : game_design : git : oh_my_git : rock_paper_shotgun : version_control
-https://www.rockpapershotgun.com/topics/the-consolidation-of-the-games-industry : rock_paper_shotgun:games_industry:consolitation
+https://www.rockpapershotgun.com/topics/the-consolidation-of-the-games-industry  :  rock_paper_shotgun : games_industry : consolitation
 https://www.rollcall.com/news/congress/gop-questions-private-depositions-foreshadow-public-hearings?fbclid=IwAR2Fh3X9cCtMPnbAhD2G5rcOUTVACq-OKOIBO4O1DvWEiCxk1UZzcyEscuY : GOP : impeachment : michael_macagnone : patrick_kelley : roll_call : theatre : trump
 https://www.rollingstone.com/glixel/features/west-of-loathing-interview-w501675 : absurdism : game : review : stick_figures : west_of_loathing
 https://www.rollingstone.com/politics/news/gop-rigs-elections-gerrymandering-voter-id-laws-dark-money-w515664 : GOP : election : gerrymandering : rollingstone : voter_id
@@ -11984,7 +11984,7 @@ https://www.schneems.com/2016/11/14/statistical-lit.html : __verified : educatio
 https://www.schneier.com/blog/archives/2016/05/white_house_rep.html : __verified : blog : privacy : security
 https://www.schoolwix.com/us  : age : education : schooling
 https://www.sciencedirect.com/science/article/abs/pii/S019566639599775X : anorexia : economics : mental_health
-https://www.sciencedirect.com/science/article/abs/pii/S026840121400098X : social_media:resarch
+https://www.sciencedirect.com/science/article/abs/pii/S026840121400098X : social_media : resarch
 https://www.sciencedirect.com/science/article/pii/S0039602815001326 : __come_back_to : data : data_sharing : elsevier : john_kitchin
 https://www.sciencedirect.com/science/article/pii/S092180091530197X : cultural_evolution
 https://www.sciencedirect.com/science/article/pii/S2352154617301031 : empathy : neuro_science : paper : pdf
@@ -12480,7 +12480,7 @@ https://www.techdirt.com/articles/20170109/06535936441/chinese-officials-with-go
 https://www.techdirt.com/articles/20170313/08105936905/extra-digit-accidentally-typed-officer-turns-uk-man-into-pedophile.shtml : absurdist : brazil : crime : insane : real_world : tech_dirt : terry_gilliam
 https://www.techdirt.com/articles/20170322/11002236978/encryption-workarounds-paper-shows-why-going-dark-is-not-problem-fact-is-as-old-as-humanity-itself.shtml : encryption : privacy : surveillance : tech_dirt
 https://www.techdirt.com/articles/20200416/08145144311/isps-ignore-toothless-fcc-demand-to-not-kick-users-offline-during-covid-19.shtml : FCC : ISP : access : covid_19 : internet : poverty : techdirt
-https://www.techdirt.com/articles/20211026/20051447826/why-falsely-claiming-illegal-to-shout-fire-crowded-theater-distorts-any-conversation-about-online-speech.shtml : cathy_gellis : cathy_gellis:techdirt:free_speech:law : free_speech : law : techdirt
+https://www.techdirt.com/articles/20211026/20051447826/why-falsely-claiming-illegal-to-shout-fire-crowded-theater-distorts-any-conversation-about-online-speech.shtml  :  cathy_gellis  :  cathy_gellis : techdirt : free_speech : law  :  free_speech  :  law  :  techdirt
 https://www.techdirt.com/articles/20211027/00044947827/let-me-rewrite-that-you-washington-post-misinforms-you-about-how-facebook-weighted-emoji-reactions.shtml  : dan_froomkin : facebook : journalism : let_me_rewrite_that_for_you : techdirt : technology
 https://www.techdirt.com/blog/casestudies/articles/20120813/14074420011/people-who-pay-service-are-lot-nicer-than-those-who-dont.shtml : case_study : piracy : tech_dirt
 https://www.techdirt.com/blog/casestudies/articles/20120822/12001520125/ubisoft-realizing-that-perhaps-pirate-users-are-really-just-like-free-to-play-users-who-dont-pay.shtml : free_play : game : piracy : ubisoft
@@ -13258,7 +13258,7 @@ https://www.wweek.com/news/city/2019/02/14/portland-mayor-calls-for-investigatio
 https://www.wweek.com/news/courts/2019/02/14/texts-between-portland-police-and-patriot-prayer-ringleader-joey-gibson-show-warm-exchange/ : FOIA : demonstration : fascism : jeff_niiya : joey_gibson : police_protests : portland : public_records : racism : right_wing : willamette_weekly
 https://www.wzchen.com/data-science-books  : books : data_science : recommendations
 https://www.xeno-canto.org/ : assets : birds : birdsong : recording
-https://www.xeromag.com/sexualinformatics.html : sexual_informatics:visualisation:sexuality
+https://www.xeromag.com/sexualinformatics.html : sexual_informatics : visualisation : sexuality
 https://www.xkcd.com/ : XKCD : __verified : comic : humour
 https://www.xtuc.fr/notes/simple-type-checker.html : __come_back_to : type_inference : type_system
 https://www.yanisvaroufakis.eu/2018/07/17/austerity-a-vintage-mini-144-pages/ : austerity : economics : yanis_varoufakis
@@ -13297,7 +13297,7 @@ https://www.youtube.com/watch?v=8hq7zvHM3TM : __verified : science : video
 https://www.youtube.com/watch?v=9Sq-EjKYp_Q : star_trek : video_games : youtube
 https://www.youtube.com/watch?v=9Sq-EjKYp_Q&feature=share : games : games_criticism : unfilled_potential : youtube
 https://www.youtube.com/watch?v=9Sq-EjKYp_Q&feature=share&app=desktop : game_criticism : unfilled_potential : youtube
-https://www.youtube.com/watch?v=9yjZpBq1XBE : fast_pass:disney:video:queueing_theory:youtube
+https://www.youtube.com/watch?v=9yjZpBq1XBE : fast_pass : disney : video : queueing_theory : youtube
 https://www.youtube.com/watch?v=AplG6KnOr2Q : __verified : video
 https://www.youtube.com/watch?v=B4IyRw1zvvA : __verified : math : video : youtube
 https://www.youtube.com/watch?v=B4IyRw1zvvA&app=desktop : education : math : youtube : z_transform
