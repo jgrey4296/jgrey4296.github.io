@@ -1,0 +1,59 @@
+#+TITLE: CLIPS Notes
+* Command line
+Version 6.30 on sourceforge has a command line executable
+Versions 6.40+ do not.
+* Commands
+#+NAME: Clips Commands
+#+begin_src elisp :results value
+(assert (duck)) ;; Assert facts
+(retract 2) ;; Retract fact with index 2
+(defrule ..)
+
+(run) ;; Run rule activations from the agenda
+
+(save "filename") ;; Save the rules
+(load "filename") ;; Load a rules file
+(save-facts "filename")
+(load-facts "filename")
+
+(system "...") ;; Execute system commands
+(facts) ;; List all assertions
+(rules) ;; List all Rules
+(agenda) ;; List potential rules to fire
+(ppdefrule rule) ;; Pretty Print a rule definition
+
+(clear) (reset) ;; Remove all Facts
+(watch facts) (unwatch facts) ;; Print fact changes / turn off
+(exit) ;; Quit CLIPS
+#+end_src
+** Watch Targets
+facts
+instances
+slots
+rules
+activations
+messages
+message-handlers
+generic-functions
+methods
+deffunctions
+compilations
+statistics
+globals
+focus
+all
+** Rule definition
+#+NAME: Rule Definition
+#+begin_src elisp :results value
+(defrule rule-name
+  " Rule Comment "
+  (animal-is duck) ;; Pattern
+=>
+  (assert (sound-is quack)) ;; Action
+  )
+#+end_src
+
+#+NAME: Rule Actions
+#+begin_src elisp :results value
+(printout t "test" crlf) ;; Print to standard output ('t'), with line feed
+#+end_src

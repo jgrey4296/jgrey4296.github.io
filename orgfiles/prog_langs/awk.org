@@ -1,0 +1,12 @@
+#+TITLE: Awk Notes
+
+https://devarea.com/understanding-awk-practical-guide/ :
+devarea,awk,guide
+
+https://en.m.wikibooks.org/wiki/An_Awk_Primer/Awk_Command-Line_Examples :
+primer,awk,programming,example
+
+https://unix.stackexchange.com/questions/112023/how-can-i-replace-a-string-in-a-files#251742 :
+text_processing,awk,cli,sed
+
+http://www.math.utah.edu/docs/info/gawk_toc.html

@@ -1,0 +1,13 @@
+#+NAME: fsharp
+#+begin_src fsharp :results value
+let a = 5
+
+printfn "The number is %i" a
+#+end_src
+
+#+NAME: make
+#+begin_src makefile :results value
+all :
+	fsharpc main.fs
+	mono main.exe
+#+end_src

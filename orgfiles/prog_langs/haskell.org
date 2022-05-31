@@ -1,0 +1,700 @@
+* Haskell Notes
+  [[http://book.realworldhaskell.org/][Real World Haskell]]
+** CLI programs
+   1) ghc    -   compiles programs
+   2) runghc -   allows running of hs programs without compiling
+   3) ghci   -   REPL interpreter
+   3) cabal  -   package manager
+** useful command line options:
+   -Wall
+   -Werror
+   -Wwarn
+   -fwarn-name-shadowing
+   --supported-languages
+   --supported-extensions
+   --show-packages
+** Module loading
+   [[https://stackoverflow.com/questions/21006987/module-loading-options-in-ghci][Stack overflow overview]]
+   Two concepts: Target set and Evaluation context
+
+   Target Set: :add, :load, :reload
+   Eval Context: :module, import
+
+   Target Set is locally available modules
+   load sets to *just those modules*.
+   
+   Eval Context is what is in scope.
+
+
+*** ghci commands
+    :module + Data.Ratio
+    :info x
+    :set +t --->  makes ghci print type information automatically
+    
+    :browse[!] [[*]<mod>]       display the names defined by module <mod>
+    (!: more details; *: all top-level names)
+    :help, :?                   display this list of commands
+    :info[!] [<name> ...]       display information about the given names
+    (!: do not filter instances)
+    :kind[!] <type>             show the kind of <type>
+    :module [+/-] [*]<mod> ...  set the context for expression evaluation
+    
+    :show bindings              show the current bindings made at the prompt
+    :show breaks                show the active breakpoints
+    :show context               show the breakpoint context
+    :show imports               show the current imports
+    :show linker                show current linker state
+    :show modules               show the currently loaded modules
+    :show packages              show the currently active package flags
+    :show paths                 show the currently active search paths
+    :show language              show the currently active language flags
+    :show <setting>             show value of <setting>, which is one of
+    [args, prog, prompt, editor, stop]
+    :showi language             show language flags for interactive evaluation
+
+    Use ghc-paths: docdir, ghc, ghc_pkg, libdir
+    
+
+
+*** Gotchas
+    
+**** Let in Ghci Do block
+     Needs to be wrapped in parens:
+#+begin_src haskell
+  do { let { x = 5; y = 10 }; print $ x + y }
+#+end_src
+
+
+** language
+*** Pragmas
+    {-# LANGUAGE TypeSynonymInstances, OverlappingInstances, FlexibleInstances, GeneralizedNewtypeDeriving #-}
+    type synonyms allows useful for typeclass instances for Strings (as strings are [Char],
+    which are [a] )
+    overlapping instances allows for the most specific instance functions of typeclasses 
+    FlexibleInstances goes beyond haskell98 typechecking, allowing eg: Functors on Either Int b
+    gen newtype deriving to allow derivations of Monads
+    
+    possible *MultiParamTypeClasses*
+
+*** Monads
+    >>= , >>, return
+    do notation: do { x <- func; return $ x + 2 }
+    
+    data that are instances of Monad are typically instances of Functor. 
+    So instances need to implement >>, >>=, return, fail?, and fmap
+
+*** STATE MONAD
+#+begin_src haskell
+      import Control.Monad.State
+      --Construct an initial state constructor:
+      let initialState = state $ \x -> (0,x)
+    
+      -- create a modifying function of the state:
+      let stateMod oldValue = state $ \oldState-> (oldValue+1,oldState-1)
+      let stateMod2 oldValue = state $ \oldState -> (oldValue-1,oldState+1)
+    
+      -- or do syntax:
+      let stateMod3 = \val -> do { state <- get; put (state-1); return (val+1) }
+    
+      --run a sequence of actions on the state, starting with an initial value:
+      let result = runState (initialState >>= stateMod >>= stateMod) 10
+    
+      --can also do: (for lists/strings)
+      let strMod v = do { st <- get; let (h:tl) = st in do put tl; return h; }
+    
+      the value is passed in explicitly, while the state container is passed
+      implicitly, to be modified with 'get' and 'put'
+    
+    
+      -- State >>= 
+      theMonad >>=  theFunction = \s -> (theFunction value) s'
+	  where (value,s') = theMonad s
+#+end_src
+
+
+
+*** Association Lists and maps
+#+begin_src haskell
+  import qualified Data.Map as Map
+
+  let a = [(1,"blah"),(2,"bloo"),(3,"blee")]
+  lookup 2 a
+
+  let aMap = Map.fromList a
+  let aMap' = Map.insert 10 "awef" aMap
+#+end_src
+
+
+*** List comprehensions
+#+begin_src haskell
+  comp xs ys = [(x,y) | x <- xs, y <- ys]
+  --with guards or lets:
+  let abs xs ys = [(x,y) | (x,y) <- zip xs ys, x+y < 60, x+y > 20]
+#+end_src
+
+*** Record Syntax 
+can copy and modify a record datatype:
+#+begin_src haskell
+data Test = Test { theInt :: Int, theString :: String }
+aVal = Test 2 "blah"
+chng x y = x { theInt = y }
+
+chng aVal 4
+#+end_src
+
+see state monad for use case
+
+*** Precedence and Associativity (fixity)
+1 = lowest, 9 = highest
+specify fixity type and priority thus:
+(+) :: a -> a -> a
+infixl 5 +
+or 
+infixr 5 +
+*** Regex
+import Text.Regex.Posix
+use =~, polymorphic so specify return type:
+"my test" =~ "test" :: Bool --match exists or not
+"my test" =~ "t.*" :: String --matching string
+
+"blah bloo blee" =~ "(bl)" :: [ [String] ] --all matches
+--or use getAllTextMatches() :: [String]
+
+use :: (String, String, String) to get prior,matching,post text
+
+TODO: find a regex library that has meta characters
+
+*** FilePaths
+import System.FilePath
+concat filepaths using </>
+
+*** qualified imports 
+#+begin_src haskell
+import qualified Data.ByteString.Lazy as L
+import Mod -- imports everything, qualified and unqualified
+import Mod () -- imports nothing
+import Mod (x,y) -- imports only x and y, unqualified
+import qualified Mod -- import everything qualified Mod.x...
+import qualified Mod (x,y) -- qual only x and y
+import Mod as Foo --everything unqual and as Foo.x..
+import Mod as Foo (x,y) -- x,y, Foo.x Foo.y
+import qualified Mod as Foo (x,y) -- only Foo.x Foo.y
+#+end_src
+
+*** type and newtype and data
+data     : creation of new types.
+type     : synonyms of types *that are interchangeable*
+newtype  : *constrained* synonym of type *that is not interchangeable*
+
+newtype constructors take a single parameter, are typically a wrapping record to give an auto unwrap
+
+*** general notes
+#+begin_src haskell
+[1..5] == [1,2,3,4,5] ;;beware roundoff errors
+map (\x -> x + 2) [1,2,3,4]
+map (\x -> x > 2) [1,2,3,4]
+#+end_src
+
+foldr
+foldl' --prefer foldl' to foldl due to thunk space issues
+
+
+*** Modules
+module *name* 
+(
+   exportedValues
+   , ExportedType(...) --adds constructors
+) where
+*definitions*
+
+*** Typeclasses:
+#+begin_src haskell
+  --definition:
+  class BasicEq a where
+	  isEqual :: a -> a -> Bool
+      isEqual x y = not (isNotEqual x y)
+
+      isNotEqual :: a -> a -> Bool
+      isNotEqual x y = not (isEqual x y)
+
+
+  --instantiation:
+  instance BasicEq Bool where
+	  isEqual True  True  = True
+      isEqual False False = True
+      isEqual _     _     = False
+
+  instance (Typeclass) (DataType) where
+	  (functions)
+#+end_src
+
+**** Automatic derivation:
+can occur for Read, Show, Bounded, Enum, Eq, Ord
+also Monad, MonadM, MonadPlus...
+
+*** Simple Lambda pattern matching:
+#+begin_src haskell
+data Test = Something Int Int
+let a = Test 5 3
+let myFunc = \x -> case x of Something a b -> a + b
+#+end_src
+
+
+*** Pattern Guards
+#+begin_src haskell
+    guardTest :: Int -> Int
+    guardTest x 
+	  | x < 5 = 10
+	  | x > 5 = 5
+	  | otherwise = 0
+#+end_src
+
+
+*** Random Numbers
+#+begin_src haskell
+    import System.Random
+    getRandomList :: Float -> Float -> Int -> [Float]
+    getRandomList min max seed = randList
+      where baseList = randoms (mkStdGen seed) :: [Float]
+        range = max - min
+        randList = [ min + (x * range) | x <- baseList ]
+#+end_src
+
+
+*** Switch Statement
+#+begin_src haskell
+    recTest :: [Float] -> [Float] -> [Float]
+    recTest base vals = case vals of
+	  [] -> base
+	  x:xs -> recTest (x*2 : base) xs
+#+end_src
+
+
+*** Modules
+    Data.Map 
+    Data.Text -- More efficient than string
+    Data.Maybe -- has isJust, isNothing...
+    Control.Monad (forM, liftM)
+    Control.Monad.Trans
+    Control.Monad.Writer
+    Control.Monad.State
+    Control.Monad.Reader
+
+
+*** Monad Transformers
+    import Control.Monad.Identity
+    import Control.Monad.Trans
+    import Control.Monad.Trans.Identity
+    import Control.Monad.Trans.State, Writer, Reader etc
+    import Control.Monad.IO.Class
+
+*** newtype wrapping
+    Use a newtype to do similar to runReader, runWriter etc:
+    
+    newtype MyApp a = MyA {
+    runA :: ReaderT [Int] (WriterT [String] IO) Int
+    } deriving (Monad, MonadIO) ...
+
+    runMyApp k = runWriterT (runReaderT (runA k) [1,2,3,4])
+
+
+**** Example State Monads
+#+begin_src haskell
+     test1 :: State Int Int
+     test1 = do
+     a <- get
+     modify (+1)
+     b <- get
+     return a
+
+     test2 :: State Int String
+     test2 = do
+     a <- get
+     modify (+1)
+     b <- get
+     return "blah"
+#+end_src
+
+
+**** State Monads combined:
+#+begin_src haskell
+     test3 :: StateT Integer (StateT String Identity) (Integer, String)
+     test3 = do
+     modify (+1)
+     lift $ modify ( ++ "1")
+     a <- get
+     b <- lift get
+     return (a,b)
+    
+     go3 = runIdentity $ evalStateT (evalStateT test3 0) "0"
+#+end_src    
+
+**** State with IO
+#+begin_src haskell
+     test4 :: StateT String IO Integer
+     test4 = do
+     modify (++ "1")
+     let a = 5
+     lift $ print a
+     modify (++ "1")
+     let b = 10
+     lift (print b)
+     return $ a + b
+    
+     go4 = evalStateT test4 "0"
+#+end_src
+**** State with data
+#+begin_src haskell
+     data TestState = TestState { num :: Int, name :: String }
+    
+     test5 :: StateT TestState IO (String, Int)
+     test5 = do
+     theState <- get;
+     lift $ print $ name theState
+     put $ theState { name = "blah" }
+     lift $ print $ num theState
+     upState <- get;
+     put $ upState { num = 1 + num upState }
+     finalState <- get
+     return (name finalState, num finalState)
+    
+     go5 = evalStateT test5 $ TestState 5 "awef"
+#+end_src
+**** Reader Monad
+#+begin_src haskell
+     -- Reader
+     test6 :: Int -> StateT Int (ReaderT Int IO) Int
+     test6 y = do
+     val <- get
+     x <- lift $ ask
+     put $ val + x
+     return $ x + y
+     
+     test7 :: ReaderT Int (StateT Int IO) Int
+     test7 = do
+     val <- ask
+     x <- lift get;
+     liftIO $ print val
+     liftIO $ print x
+     lift $ put $ val + x
+     newVal <- lift get
+     liftIO $ print newVal
+     return newVal
+     
+     go7 = evalStateT (runReaderT test7 10) 2
+     
+     
+     test8 :: ReaderT [Int] (StateT Int IO) Int
+     test8 = do
+     otherVal <- test9
+     liftIO $ print otherVal
+     val <- ask
+     liftIO $ print val
+     lift $ put $ (val !! 2) + 2
+     upVal <- lift $ get
+     liftIO $ print upVal
+     return $ upVal
+     
+     test9 = do
+     val <- ask
+     return $ val !! 3
+     
+     go8 = evalStateT (runReaderT test8 [1,2,3,4]) 2
+#+end_src
+**** Writer Monad
+#+begin_src haskell
+     test10 :: ReaderT [Int] (WriterT String IO) String
+     test10 = do
+     v <- ask
+     lift $ tell "blah"
+     liftIO $ print "----"
+     lift $ tell "bloo"
+     liftIO $ print v
+     liftIO $ print "----"
+     lift $ tell "blee"
+     lift $ tell "awef"
+     return "final"
+
+     go10 = runWriterT (runReaderT test10 [1,2,3,4])
+     
+     go11 = do
+     result <- go10
+     print $ snd result
+     return $ fst result
+#+end_src
+**** Random State
+#+begin_src haskell
+getRandom min max = do
+  gen <- get
+  let (val, gen') = randomR (min, max) gen
+  put gen'
+  return val
+
+runRand :: Int -> Int -> IO ()
+runRand min max = do
+  gen <- getStdGen
+  let (result :: Int, newGen) = runState (getRandom min max) gen
+  setStdGen newGen
+  print result
+  return ()
+
+aTest = do
+  g <- newStdGen;
+  let xs :: [Int] = take 5 $ randomRs (0, 20) g
+  print xs
+#+end_src
+
+**** Shuffling
+#+begin_src haskell
+--from the haskell wiki
+import Control.Monad.ST
+import Data.STRef
+import Data.Array.ST
+import System.Random
+
+shuffle :: [a] -> StdGen -> ([a], StdGen)
+shuffle xs gen = runST action
+  where n = length xs
+        newArray :: Int -> [a] -> ST s (STArray s Int a)
+        newArray n xs = newListArray (1,n) xs
+        action = do
+          g <- newSTRef gen
+          let randomRST lohi = do
+                (a, s') <- liftM (randomR lohi) (readSTRef g)
+                writeSTRef g s'
+                return a
+          ar <- newArray n xs
+          xs' <- forM [1..n] $ \i -> do
+            j <- randomRST (i, n)
+            vi <- readArray ar i
+            vj <- readArray ar j
+            writeArray ar j vi
+            return vj
+          gen' <- readSTRef g
+          return (xs', gen')
+
+                            
+aShuffle = do
+  gen <- newStdGen
+  let xs = [1,2,3,4,5,6]
+  let (ys, gen') = shuffle xs x
+  print ys
+#+end_src 
+
+*** File IO
+#+begin_src haskell
+  import System.IO
+
+    filename = "test.txt"
+
+    main = do
+    handle <- openFile filename ReadWriteMode
+    contents <- hGetContents handle
+    hClose handle
+    writeFile filename (map toUpper contents)
+    #+end_src
+
+*** Arguments
+    import System.Environment
+
+*** CWD
+    #+begin_src haskell
+      import System.Directory (getCurrentDirectory)
+    #+end_src
+
+
+
+*** Applicative
+    Used with Maybe:
+    #+begin_src haskell :results output
+      Just (+3) <*> Just 9 -- unwrap and combine 
+      Just (+3) *> Just 9  -- unwrap and discard left
+      Just 7 <* Just 8     -- unwrap and discard right
+      (+3) <$> Just 9      -- unwrap right, combine
+      3 <$ Just 9          -- Unwrap right, only wrap left
+    #+end_src
+
+    #+RESULTS:
+    : Just 12
+    : Just 9
+    : Just 7
+    : Just 12
+
+
+
+
+** Parsec Notes
+   parsers as variables requires the flag -XFlexibleContexts
+   use Text.Parsec, Text.Parsec.String, Text.Parsec.Char
+   Text.Parsec.Char and Text.Parsec.String simplify types   
+
+   *Simplest Parser*:
+   #+begin_src haskell :results value
+     import Text.Parsec as P
+     let a = do { a <- P.many P.alphaNum; P.space; b <- P.many P.alphaNum; return [a,b] }
+     let textToParse = "blah blee"
+     let result = parse a "" textToParse
+     putStrLn $ show result
+    #+end_src
+
+    #+RESULTS:
+    : Right ["blah","blee"]
+    spaces = many space
+    word = many1 alphaNum <* spaces
+    words = many1 word <* spaces
+    num = do { a <- many digit <* spaces; return $ (read a :: Int) }
+
+   Alternatives: 
+   let dogOrCat = (string "dog") <|> (string "cat")
+
+   <|> consumes input without backtracking, so
+   let altFail = (string "abc") <|> (string "abd")
+   Will fail as when the first attempt fails
+   To fix, use *try*
+   let altSucceed = try (string "abc") <|> (string "abd")
+
+
+
+*** Other notes
+    Satisfy performs tests of chars to accept
+    satisfy :: (Char -> Bool) -> Parser Char
+   
+    Standard Parsers:
+    anyChar, space, newline, tab,
+    upper, lower, alphaNum, letter, digit, hexDigit, octDigit
+    string
+
+    oneOf, noneOf, many, skipMany
+   
+    to convert to numbers:
+    read "1234" :: Integer 
+
+    to ignore a parse:
+    void $ parser  
+
+    ignore the second parser:
+    x <- p <* whitespace
+
+    Options (to backtrack, wrap with 'try' )
+    p <|> p2
+
+    Apply a function to a parse result:
+    ctor <$> p
+
+    Write new parsers, use type declaration to hint:
+ #+begin_src haskell
+   var :: Parser (Char, String)
+   var = do
+     fc <- firstChar
+     rest <- many nonFirstChar
+     return (fc, rest)
+     where
+       firstChar = satisfy ( \a -> isLetter a || a == '_' )
+       nonFirstChar = satisfy ( \a -> isDigit a || isLetter a || a == '_' )
+ #+end_src
+
+
+
+** Profiling
+   Three step process:
+   1) compile with -prof-auto option. 
+      1a) possibly reinstall packages with profiling support. (install -p package --reinstall)
+   2) run with '+RTS -p -RTS' flags (-p -P -pa -V -xc, for time; -h for heap)
+
+** Lens
+   Control.Lens
+   Allows for improved access to records.
+   Typically creates the getters and setters using template haskell
+   
+   #+begin_src haskell
+     import Control.Lens
+
+     data MyTest = MyTest { _first :: String
+                          , _second :: Int } deriving (Show)
+     makeLenses ''MyTest
+     a = MyTest "blah" 2
+     --Getters use 'view'
+     x :: String = view first a
+     --Modify using 'over'
+     a' = over second (+ 2) a
+     --Setters use 'set'
+     a'' = set second 10 a
+   #+end_src
+
+   If not using template haskell, create lens manually:
+   #+begin_src haskell
+     import Control.Lens
+
+     data MyTest = MyTest { _first :: String
+                          , _second :: Int } deriving (Show)
+
+     -- Manual Lens
+     first :: Lens' MyTest String
+     first = lens _first (\aTest newFirst -> aTest { _first = newFirst })
+
+     second :: Lens' MyTest Int
+     second = lens _second (\aTest newSecond -> aTest { _second = newSecond })
+   #+end_src
+
+
+   #+begin_src haskell
+     import Control.Lens
+     data MyRoot = MyRoot { _theTest :: MyTest } deriving (Show)
+     data MyTest = MyTest { _first :: Int
+                          , _second :: Int
+                          , _third :: Int } deriving (Show)
+     makeLenses ''MyRoot
+     makeLenses ''MyTest
+
+     a = MyRoot $ MyTest 2 3 4
+     --To Update all of the variables
+     allAccessors = fmap (theTest .) [first, second, third]
+     allMods xs = fmap (\x -> over x (+ 1)) xs
+     a' = foldl (\memo func -> func memo) a allMods
+     -- theTest a == [3, 4, 5]
+   #+end_src
+
+
+** Continuation monad
+   #+begin_src haskell
+     import Control.Monad.Cont
+
+     square :: Int -> Cont r Int
+     square x = cont $ \k -> k (x^2)
+     -- square = fmap (^2)
+
+
+     add :: Int -> Int -> Cont r Int
+     add x y = cont $ \x -> k (x+y)
+
+
+     result = square 2 `runCont` id
+     result2 = add (square 2) (square 3) `runCont` id
+   #+end_src
+
+** Timing
+   in ghci, for timing info:
+   :set +s 
+
+** Debugging
+   :abandon                    at a breakpoint, abandon current computation
+   :back [<n>]                 go back in the history N steps (after :trace)
+   :break [<mod>] <l> [<col>]  set a breakpoint at the specified location
+   :break <name>               set a breakpoint on the specified function
+   :continue                   resume after a breakpoint
+   :delete <number>            delete the specified breakpoint
+   :delete *                   delete all breakpoints
+   :force <expr>               print <expr>, forcing unevaluated parts
+   :forward [<n>]              go forward in the history N step s(after :back)
+   :history [<n>]              after :trace, show the execution history
+   :list                       show the source code around current breakpoint
+   :list <identifier>          show the source code for <identifier>
+   :list [<module>] <line>     show the source code around line number <line>
+   :print [<name> ...]         show a value without forcing its computation
+   :sprint [<name> ...]        simplified version of :print
+   :step                       single-step after stopping at a breakpoint
+   :step <expr>                single-step into <expr>
+   :steplocal                  single-step within the current top-level binding
+   :stepmodule                 single-step restricted to the current module
+   :trace                      trace after stopping at a breakpoint
+   :trace <expr>               evaluate <expr> with tracing on (see :history)
