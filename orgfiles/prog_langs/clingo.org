@@ -351,6 +351,10 @@ in the body, thus binding the variable to some existing constant.
 clingo -Wall -n 1 --rand-freq=0.5 --verbose=3 test_map.lp
 clingo -n 100 --restart-on-model --heu=vsids --rand-freq=0.01
 clingo --time-limit=10 ...
+
+clingo -V -o text -W all --keep-facts --reify-steps --mode=gringo file.lp
+
+
 *** CLI JSON                                                                    :json:
 clingo -outf=2 -n5 * > *.out
 *** Exit Codes                                                                  :exit_codes:cli:
@@ -494,25 +498,7 @@ dry :- not wet(_).
 #+end_src
 
 #+RESULTS:
-#+begin_example
-   clingo version 5.4.0
-   Reading from ...45c0000gn/T/babel-7DJl0a/clingo-BOK9kE
-   Solving...
-   Answer: 1
-   dry
-   Answer: 2
-   dry summer
-   Answer: 3
-   wet(rain) rain -dry
-   Answer: 4
-   wet(sprinkler) sprinkler -dry
-   SATISFIABLE
-
-   Models       : 4
-   Calls        : 1
-   Time         : 0.005s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
-   CPU Time     : 0.005s
-#+end_example
+: Syntax Error
 
 ***   #+NAME: Graph Test
 #+begin_src clingo :results output :clingo-models 5 :c-W all :clingo-output-debug all :clingo-time-limit 10
@@ -651,4 +637,26 @@ Models       : 5+
 Calls        : 1
 Time         : 0.748s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
 CPU Time     : 0.004s
+#+end_example
+
+
+* Simple
+#+NAME: Simple
+#+begin_src clingo :results output :clingo-models 5 :c-W all :clingo-output-debug all
+a(1..5).
+#+end_src
+
+#+RESULTS: Simple
+#+begin_example
+clingo version 5.5.2
+Reading from ...45c0000gn/T/babel-lEnfjf/clingo-sLtqHw
+Solving...
+Answer: 1
+a(1) a(2) a(3) a(4) a(5)
+SATISFIABLE
+
+Models       : 1
+Calls        : 1
+Time         : 0.002s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.002s
 #+end_example
