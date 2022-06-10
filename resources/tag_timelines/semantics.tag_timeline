@@ -44,6 +44,7 @@
 2001 makinson01_what_input_ouput_logic_
 2002 chaib-draa02_trend_agent_commun_languag_18
 2002 cresswell02_static_seman_dynam_discour_25
+2002 kick02_rule_format_timed_proces_68
 2003 boroditsky03_sex_syntax_seman_
 2003 bos03_dipper_
 2003 krishnamurthi03_progr_languag_
@@ -130,6 +131,7 @@
 2012 rezk12_formal_
 2012 rusu12_k_based_formal_framew_domain_
 2012 silk12_modal_22
+2012 thompson-walsh12_contain_rule_based_model_284
 2012 thorisson12_new_const_ai_
 2013 argente13_role_envir_agreem_techn_39
 2013 blomberg13_actual_non_actual_motion_13
@@ -166,6 +168,7 @@
 2016 mullins16_right_defaul_logic_
 2016 pavese16_logic_infer_its_dynam_
 2016 peterson16_condit_normat_reason_with_subst_logic_
+2016 poulsen16_scopes_descr_frames
 2016 roy16_deont_logic_normat_system_
 2016 schmidt16_framew_organ_aware_agent_exten_abstr_
 2017 amin17_collap_tower_inter_2
@@ -177,6 +180,8 @@
 2017 king17_gover_gover_
 2017 petricek17_contex_aware_progr_languag_
 2017 thorisson17_machin_with_auton_gener_intel_
+2017 vergu17_seman_name_resol_grace
+2017 visser17
 2018 baroni18_handb_formal_argum_
 2018 bessai18_mixin_compos_synth_based_inter_types_14
 2018 egi18_loop_patter_
@@ -194,6 +199,7 @@
 2019 dunfield19_sound_compl_bidir_typec_higher_3
 2019 guagliardo19_codd_seman_sql_nulls_86
 2019 knapik19_timed_atl_66
+2019 lerner19_summit_advan_progr_languag_snapl
 2019 lorini19_exploit_belief_bases_build_rich_epist_struc_
 2019 mayr19_next_gener_domain_specif_concep_model_8
 2020 bouche20_readin_brand_
@@ -205,3 +211,5 @@
 2021 goguen21_algeb_semiot_
 2021 lorini21_multi_agent_belief_base_revis_
 2021 sergot21_some_forms_collec_bring_about_50
+2022 groth22_seman_web
+2022 hillerstroem22_found_progr_implem_effec_handl

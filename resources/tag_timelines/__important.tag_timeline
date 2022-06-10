@@ -15,6 +15,7 @@
 1986 douglas86_how
 1986 sergot86_britis_nation_act_as_logic_progr_29
 1986 shepsle86_posit_theor_legis_instit
+1987 adams87_bureauc
 1987 shepsle87_instit_found_commit_power_81
 1988 buchanan88_fundam_exper_system_3
 1988 mudimbe88_inven_afric_gnosis_philos_
@@ -30,10 +31,12 @@
 1993 forbus93_build_probl_solver_
 1993 girard93_unity_logic_59
 1993 jones93_charac_law_comput_system_1
+1993 nardi93_small_matter_progr
 1994 ostrom94_rules_games_common_pool_resour_
 1995 howe95_under_plann_behav_76
 1995 levinson95_gener_progr_languag_unified_plann_contr_76
 1995 slonneger95_formal_syntax_seman_progr_languag_
+1996 barrett96_monot_super_linear_dylan
 1996 epstein96_growin_
 1997 bailey97_implic_relig_contem_societ_
 1997 jong97_comput_revol_scien_91
@@ -41,6 +44,7 @@
 1997 ruiter97_basic_class_legal_instit_10
 1998 ghosh98_fables_folk_tales_arunac_prades_
 1998 scott98_seein_
+1999 power99_introd_to_pierr_bourd_key_theor_concep_3
 2000 goguen00_implem_orien_seman_modul_compos_
 2000 sowa00_knowl_repres_
 2000 stent00_annot_argum_acts_spoken_dialog_
@@ -73,6 +77,7 @@
 2007 bierschenk07_states_work_
 2007 boella07_normat_multi_agent_system_
 2007 borries07_space_
+2007 carbone07_calcul_global_inter_based_session_types_171
 2007 hodgson07_reviv_veblen_instit_econom_41
 2007 jr07_law_marriag_societ_later_middl_ages_
 2007 nielson07_seman_with_applic_
@@ -80,8 +85,10 @@
 2008 brandom08_between_sayin_doing_
 2008 deaf08_britis_sign_languag_dummies_
 2008 harmelen08_handb_knowl_repres_
+2008 honda08_multip
 2008 hunsberger08_dynam_inten_struc_i_16
 2008 levy08_inven_mid_level_to_make_ends_meet_26
+2008 moreau08_rules_strat_java_204
 2008 weizenbaum08_social_polit_impac_long_term_histor_comput_30
 2009 baroni09_seman_abstr_argum_system_
 2009 beisaw09_archaeol_instit_life_
@@ -93,6 +100,7 @@
 2009 siegel09_dialog_patter_visual_languag_dynam_dialog_20
 2009 ybema09_organ_ethnog_
 2010 bosser10_linear_logic_non_linear_story_215
+2010 caires10_session_types_intuit_linear_propos
 2010 dacin10_formal_dinin_at_cambr_colleg_53
 2010 damasio10_declar_
 2010 dastani10_operat_seman_bdi_modul_multi_agent_progr_
@@ -123,6 +131,7 @@
 2013 roijers13_survey_multi_objec_sequen_decis_makin_48
 2013 thompson13_method_isnt_method_
 2014 dignum14_formal_seman_agent_24
+2014 honda14_struc_commun_with_session_types
 2014 king14_re_check_normat_system_coher_8386
 2014 li14_normat_confl_detec_resol_cooper_instit_
 2014 manen14_phenom_pract_
@@ -140,11 +149,15 @@
 2016 governatori16_sequen_seman_normat_agent_9862
 2016 king16_revis_instit_gover_by_instit_compl_regul_9628
 2016 king16_when_do_rule_chang_count_285
+2017 allen17_engin_academ_softw_5
+2017 baader17_introd_descr_logic
 2017 gemrot17_contr_virtual_peopl_
 2017 johanson17_gover_hybrid_organ_
 2017 king17_gover_gover_
 2017 laird17_soar_manual_
+2017 visser17
 2017 winikoff17_debug_agent_progr_why_
+2018 alechina18_tempor_repres_reason_time
 2018 ballantyne18_epist_tresp_128
 2018 herd18_admin_burden_
 2018 martens18_resour_refram_behav_trees_abs/1803.09099
@@ -155,6 +168,7 @@
 2019 brok19_rhetor_code_studies_
 2019 furnari19_situat_
 2019 lawrence19_const_organ_life_
+2019 lerner19_summit_advan_progr_languag_snapl
 2019 moeller19_static_
 2019 morley19_from_what_to_how_26
 2019 tarp19_mozam_
@@ -199,6 +213,7 @@
 2021 goguen21_what_proof_
 2021 howell21_crack_succes_narrat_28
 2021 kostera21_organ_ethnog_
+2021 lindley21_handl
 2021 na21_human_use_forwar_think_to_10
 2021 neupert-wentz21_democ_tradit_polit_system_afric_
 2021 pacheco-vega21_blog_collec_
@@ -210,9 +225,17 @@
 2021 siddarth21_how_ai_fails_us_
 2021 torres21_why_how_when_repres_compl_system_63
 2021 viehmann21_trans_robot_plans_timed_autom_
+2021 wagner21_dagst_repor_11
+2021 wagner21_dagst_repor_11
 2021 yadav21_criter_good_qualit_resear_
 2021 yadav21_distr_artif_intel
 2021 ĉyras21_argum_xai_
 2022 birhane22_forgot_margin_ai_ethic
+2022 bourgaux22_artif_intel_bergen_aib
 2022 gal22_multi_agent_system_151
 2022 goldwasser22_plant_undet_backd_machin_learn_model
+2022 hillerstroem22_found_progr_implem_effec_handl
+2022 jayanth22_game_desig_imper_mode
+2022 rest22_handl_higher_order_effec
+2022 wagner22_dagst_repor_11
+2022 woodruff22_more_than_sum_their_parts
