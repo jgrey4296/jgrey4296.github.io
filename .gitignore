@@ -6,3 +6,4 @@ to_clean/
 years/auto/
 *cron_reports/
 *tex
+_ignored
