@@ -1,4 +1,5 @@
 1981 plotkin81_
+1999 biere99_symbol_model_check_bdds
 2001 finkel01_well_struc_trans_system_every_256
 2001 merz01_model_check_
 2002 jmaiel02_2
@@ -6,6 +7,7 @@
 2006 groote06_hierar_sos_rule_format_156
 2008 craven08_agent_stran_action_languag_nc_6
 2008 erdogan08_
+2008 veanes08_smt_approac_bound_reach_analy_model_progr
 2011 yatapanage11_slicin_behav_trees_verif_large_system_
 2017 danielsson17_up_to_techn_using_sized_types_2
 2017 franz17_logic_approac_to_model_nomen_chang_34
