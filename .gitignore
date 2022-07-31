@@ -7,3 +7,4 @@ years/auto/
 *cron_reports/
 *tex
 _ignored
+*.auctex-auto/
