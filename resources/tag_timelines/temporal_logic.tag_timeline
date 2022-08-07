@@ -6,6 +6,7 @@
 1995 lamport95_tla_pictur_21
 2001 merz01_model_check_
 2001 qvortrup01_virtual_inter_
+2003 penczek03_verif_epist_proper_multi_agent
 2003 schmidt03_combin_dynam_logic_with_doxas_modal_logic
 2004 arbab04_model_tempor_logic_timed_compon_connec_
 2004 davies04_integ_formal_method_2999
@@ -28,3 +29,4 @@
 2019 kuppe19_tla_toolb_
 2019 schultz19_tempor_type_theor
 2020 bezhanishvili20_tempor_inter_intuit_quant
+2021 hahn21_autom_techn_tempor_answer_set_progr

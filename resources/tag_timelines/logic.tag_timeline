@@ -13,6 +13,7 @@
 1973 stoddard73_induc_origin_philos_axiom
 1974 wittgenstein80_philos_gramm
 1977 heidegger97_phenom_inter_kants_critiq_pure_reason_
+1980 reiter80_logic_defaul_reason_13
 1984 goguen84_introd_instit
 1984 goguen84_some_fundam_algeb_tools_seman_comput_31
 1985 alchourron85_logic_theor_chang_50
@@ -34,6 +35,7 @@
 1993 diaconsescu93_logic_suppor_modul_
 1993 fisher93_concur_metat_
 1993 forbus93_build_probl_solver_
+1993 gelfond93_repres_action_chang_by_logic_progr_17
 1993 goguen93_notat_
 1993 jones93_charac_law_comput_system_1
 1994 hodas94_logic_progr_fragm_intuit_linear_logic_110
@@ -67,6 +69,7 @@
 2000 makinson00_input_logic_29
 2000 pfenning00_struc_cut_elimin_157
 2000 priest00_logic_
+2000 sergot00_non_conseq_relat
 2000 sorell00_descar_
 2000 sowa00_knowl_repres_
 2001 baader01_unific_theor_
@@ -117,6 +120,8 @@
 2005 governatori05_norm_modif_defeas_logic_
 2005 governatori05_repres_busin_contr_rulem_14
 2005 meredith05_names_3705_LNCS
+2005 sergot05_minim
+2005 sergot05_strat_logic_progr
 2006 barras06_coq_proof_assis_refer_manual_
 2006 bertot06_coq_hurry_
 2006 boella06_introd_to_normat_multiag_system_12
@@ -149,7 +154,7 @@
 2007 harper07_mechan_metat_logic_framew_17
 2007 mossakowski07_what_is_logic_
 2007 nielson07_seman_with_applic_
-2007 noriega07_coin_durham_
+2007 noriega07_coin_durham
 2008 arbab08_tiles_
 2008 brandom08_between_sayin_doing_
 2008 curd14_routl_compan_philos_scien_
@@ -158,6 +163,7 @@
 2008 harmelen08_handb_knowl_repres_
 2008 hunsberger08_dynam_inten_struc_i_16
 2008 pugh08_model_mechan_insig_131
+2008 sergot08_deduc_consis_maxi
 2008 sergot08_deduc_consis_maxi_1
 2009 walton09_argum_theor_
 2009 brain09_pragm_progr_guide_answer_set_progr_
@@ -235,9 +241,11 @@
 2014 hartonas14_dynam_logic_agenc_action_102
 2014 manen14_phenom_pract_
 2014 noriega14_chall_artif_socio_cognit_system_
+2014 sergot14_exten_logic_progr
 2014 sun14_how_build_input_output_logic_
 2015 wadler15_theor_free
 2015 herzig15_reason_about_action_meets_strat_logic_
+2015 babb15_action_languag_bc_29
 2015 gebser15_abstr_gring_15
 2015 goncalves15_combin_rules_ontol_param_logic_progr_
 2015 lambalgen15_event_calcul_
@@ -255,6 +263,7 @@
 2016 pavese16_logic_infer_its_dynam_
 2016 peterson16_condit_normat_reason_with_subst_logic_
 2016 roy16_deont_logic_normat_system_
+2016 sergot16_stabl_model_answer_sets
 2017 genesereth17_introd_to_logic_4
 2017 robaldo17_reified_input_logic_27
 2017 zełaniec17_chall_k_princ_deont_logic_well_
@@ -266,6 +275,7 @@
 2018 mcconaughey18_beyon_anarc_10
 2018 parent18_i_o_logic_consis_check_
 2019 benzmueller19_univer_logic_reason_172
+2019 calimeri19_asp_core_input_languag_format_20
 2019 chlipala19_certif_progr_depen_types_
 2019 dunfield19_sound_compl_bidir_typec_higher_3
 2019 el-rouayheb19_devel_arabic_logic_
