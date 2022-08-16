@@ -2907,7 +2907,7 @@ http://variety.com/2018/tv/features/star-trek-ds9-25th-anniversary-interview-120
 http://vasir.net/blog/game-development/data-visualization-in-games : blog : data_analysis : design : game_design : visualisation
 http://vegnews.com/articles/page.do?pageId=2763 : cooking : food : vegan
 http://vene.ro/betrayal/#data : betrayal : data_analysis : data_sets : dataset : social_game : social_interaction
-http://vene.ro/figurative-comparisons/ : NLP :
+http://vene.ro/figurative-comparisons/ : NLP_:
 http://venturebeat.com/2014/09/01/how-did-dark-souls-iis-in-game-message-system-affect-player-behavior/ : communication : dark_souls : game_design : language : social_system
 http://venuspatrol.com/purgateus/ : ed_key : game : mod : proteus
 http://verbs.colorado.edu/~mpalmer/projects/verbnet.html : data_analysis : data_sets : edu : verbnet
@@ -3181,9 +3181,9 @@ http://www.bay12forums.com/smf/index.php?topic=59026.0 : dwarf_fortress : game
 http://www.bay12forums.com/smf/index.php?topic=72702.0 : dwarf_fortress : game
 http://www.bay12games.com/dwarves/index.html#2014-07-07 : dwarf_fortress
 http://www.bayardo.org/resources.html : ccalc : sat_solving
-http://www.bbc.co.uk/food/recipes/ : BBC :
+http://www.bbc.co.uk/food/recipes/ : BBC_:
 http://www.bbc.co.uk/food/recipes/basicpancakeswithsuga_66226 : BBC : food
-http://www.bbc.co.uk/news/ : BBC :
+http://www.bbc.co.uk/news/ : BBC_:
 http://www.bbc.co.uk/news/business-20294569#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa : 2012 : BBC : cannabis : drug_war : drugs
 http://www.bbc.co.uk/news/business-20663550#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa : BBC : student_debt_crisis
 http://www.bbc.co.uk/news/entertainment-arts-24989543 : BBC : news
@@ -3206,19 +3206,19 @@ http://www.bbc.co.uk/news/world-asia-pacific-15356257 : BBC : country : politics
 http://www.bbc.co.uk/news/world-us-canada-38890090 : BBC : journalism : terrorism : trump
 http://www.bbc.co.uk/radio4/hitchhikers/game_nolan.shtml : BBC : game
 http://www.bbc.com/culture/story/20190509-the-1968-sci-fi-that-spookily-predicted-today : BBC : __important : author : john_brunner : sci_fi : science_fiction : society
-http://www.bbc.com/future/story/20140521-the-best-way-to-win-an-argument : BBC :
-http://www.bbc.com/future/story/20160721-how-jessica-mitford-changed-our-ideas-about-death : BBC :
+http://www.bbc.com/future/story/20140521-the-best-way-to-win-an-argument : BBC_:
+http://www.bbc.com/future/story/20160721-how-jessica-mitford-changed-our-ideas-about-death : BBC_:
 http://www.bbc.com/news/business-19674306 : BBC : asian : culture : japan
 http://www.bbc.com/news/magazine-20361339 : BBC : history : mary_beard : rule : social_system
 http://www.bbc.com/news/magazine-26384041 : BBC : politics : revolution
-http://www.bbc.com/news/magazine-27186709 : BBC :
+http://www.bbc.com/news/magazine-27186709 : BBC_:
 http://www.bbc.com/news/magazine-29476893 : BBC : nuclear : physics : time
-http://www.bbc.com/news/magazine-34797017 : BBC :
+http://www.bbc.com/news/magazine-34797017 : BBC_:
 http://www.bbc.com/news/science-environment-22975809#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa : BBC : cryptography : voynich
 http://www.bbc.com/news/technology-19884218 : HCI : UI : UX : design : microsoft : technology
 http://www.bbc.com/news/uk-politics-20950691 : BBC : conservative : economics : politics : poverty
 http://www.bbc.com/news/world-asia-india-20354669 : BBC : education : food : india : rape : strange : text_books
-http://www.bbc.com/news/world-us-canada-26855657 : BBC :
+http://www.bbc.com/news/world-us-canada-26855657 : BBC_:
 http://www.bbc.com/sport/football/20672812 : BBC : culture : education : racism : social_system : sport
 http://www.bbcgoodfood.com/recipes/168623/gordons-honey-glazed-ham : BBC : food
 http://www.bbcgoodfood.com/recipes/3256/moroccan-lamb-with-apricots-almonds-and-mint : BBC : food
@@ -3305,7 +3305,7 @@ http://www.buzzfeed.com/peggy/insanely-gorgeous-nature-tattoos : art : buzzfeed 
 http://www.buzzfeed.com/peggy/unspoken-suit-rules-every-man-should-know#.wcw9pnjR6 : buzzfeed : fashion : suit
 http://www.buzzfeed.com/simonlewis/18-ways-british-people-have-of-saying-go-fk-yourself : buzzfeed : language : social_system
 http://www.c-span.org/ : politics : video
-http://www.cadlab.neu.edu/publications.php : __come_back_to :
+http://www.cadlab.neu.edu/publications.php : __come_back_to_:
 http://www.calebh.io/Type-Inference-by-Solving-Constraints/ : constraint_programming : kind_system : programming_language : type_system
 http://www.cambridge.org/gb/academic/subjects/politics-international-relations/international-relations-and-international-organisations/politics-borders-sovereignty-security-and-citizen-after-911#wBcEd93eyUCMRltq.97 : book : border : politics : recommendation
 http://www.cameronius.com/games/yavalath/ : board_game : game : game_design : game_mechanics : people
@@ -3711,7 +3711,7 @@ http://www.ethiopianreview.com/news/14064 : news : politics : racism
 http://www.euclideanspace.com/software/games/threed/openglcpp/movement/index.htm : c_plus_plus : game_development : open_gl : programming : tutorial
 http://www.euclidthegame.com/Tutorial/ : game : geometry : math : tutorial
 http://www.eurekalert.org/pub_releases/2004-02/jhmi-acc020904.php : science
-http://www.eurekalert.org/pub_releases/2005-04/ksu-dvc042705.php : HCI :
+http://www.eurekalert.org/pub_releases/2005-04/ksu-dvc042705.php : HCI_:
 http://www.eurogamer.net/amp/2017-11-04-imagining-and-deciphering-writing-systems-for-games : analysis : game : language : world_building : writing_systems
 http://www.eurogamer.net/article.php?article_id=211273 : game_design : game_development : interview : will_wright
 http://www.eurogamer.net/article.php?article_id=213903 : blog : game_development : indie
@@ -4307,7 +4307,7 @@ http://www.lyonwj.com/2016/06/26/graph-of-thrones-neo4j-social-network-analysis/
 http://www.m1key.me/photography/road_to_north_korea/ : north_korea
 http://www.maa.org/sites/default/files/pdf/upload_library/22/Ford/Graham-Yao687-701.pdf : computational_geometry : geometry : graphics : pdf
 http://www.macalester.edu/~hutchinson/book/book.html : algorithm : edu : math
-http://www.macdevcenter.com/pub/a/mac/2002/10/22/macforunix.html : OSX :
+http://www.macdevcenter.com/pub/a/mac/2002/10/22/macforunix.html : OSX_:
 http://www.macosxautomation.com/applescript/features/system-prefs.html : applescript
 http://www.macports.org/install.php : OSX : apple : package_manager
 http://www.macrumors.com/2012/07/20/googles-top-lawyer-some-apple-inventions-are-commercially-essential-should-be-made-into-standards/ : apple : google : law : patent : standards
@@ -4624,9 +4624,9 @@ http://www.patient.co.uk/doctor/lower-urinary-tract-symptoms-in-men : health
 http://www.paulgraham.com/head.html : blog : distraction : environment : programming : software_development
 http://www.paulrademacher.com/housing/ : atlas : data_analysis : map : visualisation
 http://www.pawfal.org/dave/blog/computer-games/ : blog : fluxus : game : game_criticism : pawfal : people
-http://www.pbs.org/wgbh/nova/elegant/ : PBS :
-http://www.pbs.org/wgbh/pages/frontline/shows/persuaders/ : PBS :
-http://www.pbs.org/wgbh/pages/frontline/shows/warriors/ : PBS :
+http://www.pbs.org/wgbh/nova/elegant/ : PBS_:
+http://www.pbs.org/wgbh/pages/frontline/shows/persuaders/ : PBS_:
+http://www.pbs.org/wgbh/pages/frontline/shows/warriors/ : PBS_:
 http://www.pcg-random.org/party-tricks.html : math : random_numbers : statistics
 http://www.pcgamer.com/2013/03/25/mass-effect-3-infographic/ : data_analysis : game_criticism : infographic : pc_gamer : quest
 http://www.pcgamer.com/2013/12/28/the-text-adventures-that-never-were-bioshock-infinite/ : game_criticism : pc_gamer
@@ -5126,7 +5126,7 @@ http://www.stltoday.com/news/local/columns/tony-messenger/messenger-the-water-fo
 http://www.strangesisters.com/index.htm : LGBTQ : art
 http://www.stripperweb.com/ : sex_work
 http://www.studioaka.co.uk/jojo/ : art : blog
-http://www.studiointernational.com/index.php/component/acesearch/search?query=%22darran+anderson%22 : __come_back_to :
+http://www.studiointernational.com/index.php/component/acesearch/search?query=%22darran+anderson%22 : __come_back_to_:
 http://www.supremecourt.gov/ : SCOTUS : government : law : politics
 http://www.sussex.ac.uk/informatics/people/peoplelists/person/172510 : HCI : kate_howland : people
 http://www.swi-prolog.org/pldoc/man : api : docs : documentation : manual : prolog : reference : swipl
@@ -5309,7 +5309,7 @@ http://www.unshelved.com/2013-10-31 : censorship : comic : humour : libraries
 http://www.uottawa.ca/academic/arts/writcent/hypergrammar/partsp.html : grammar : language : learning
 http://www.uow.edu.au/~nabg/ABC/ABC.html : c_plus_plus : edu
 http://www.urbandictionary.com/define.php?term=Email+Bankruptcy&defid=2397501 : humour : language
-http://www.usabilityhome.com/ : HCI :
+http://www.usabilityhome.com/ : HCI_:
 http://www.usatoday.com/money/2002-09-25-kung-fu-trademark_x.htm : news : usa_today
 http://www.usatoday.com/money/advertising/2003-12-19-celeb_x.htm : news : usa_today
 http://www.usatoday.com/money/industries/technology/2004-03-09-onlineporn_x.htm : news : usa_today
@@ -6806,7 +6806,7 @@ https://dsmobserver.com/2019/06/imagining-worst-case-scenarios-the-legacy-of-nuc
 https://duckduckgo.com/ : FBI : __come_back_to : agents : ai : david_petraeus : email : game : institution : lore : politics : search : surveillance : youtube
 https://duckduckgo.com/?t=disconnect : ars_technica : data_analysis : data_sets : game_design : google : insult_swordfighting : monkey_island : quantum_theory : search : social_system : sound
 https://duckduckgo.com/?t=disconnect&iax=1 : art : dalek : doctor_who : google : salvador_dali : search
-https://duckduckgo.com/?t=ffab : __come_back_to :
+https://duckduckgo.com/?t=ffab : __come_back_to_:
 https://dungeoncommandr.itch.io/mutants-in-the-night : __important : game : indie : itch_io : mutants_in_the_night
 https://dungpa.github.io/fsharp-cheatsheet/ : cheat_sheet : f_sharp : github
 https://dynamicland.org/ : HCI : child : computation : research
@@ -6960,7 +6960,7 @@ https://en.m.wikipedia.org/wiki/System_F  : system_f : wiki
 https://en.m.wikipedia.org/wiki/Terri_Schiavo_case : euthanasia : florida : george_bush : law : rights : terri_schiavo : wiki
 https://en.m.wikipedia.org/wiki/The_Wake_(novel) : book : emily_whetstone : language : paul_kingsnorth : recommendation
 https://en.m.wikipedia.org/wiki/The_Wisdom_of_Crowds : book : crowd : psychology : recommendation : wiki
-https://en.m.wikipedia.org/wiki/Underhanded_C_Contest : obfuscation : c_lang : programming : wiki : deception
+https://en.m.wikipedia.org/wiki/Underhanded_C_Contest : c_lang : deception : obfuscation : programming : wiki
 https://en.m.wikipedia.org/wiki/United_States_debt-ceiling_crisis_of_2011 : 2011 : debt_crisis : wiki
 https://en.m.wikipedia.org/wiki/United_States_military_casualties_of_war : america : casualties : military : warfare
 https://en.m.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights : human_rights : wiki
@@ -7970,7 +7970,7 @@ https://gizmodo.com/how-this-designer-tracks-every-single-aspect-of-his-lif-1623
 https://gizmodo.com/how-we-determined-predictive-policing-software-dispropo-1848139456 : gizmodo : police_violence : policing : predictive_policing : predpol : racism
 https://gizmodo.com/londons-crazy-stupid-garden-bridge-is-actually-going-ah-1665980312 : architecture : bridge : gizmodo : nature : urban_design
 https://gizmodo.com/ring-discloses-over-400-partnerships-with-police-in-mos-1837669511 : amazon : dell_cameron : gizmodo : police : privacy : ring : surveillance
-https://gizmodo.com/the-7-most-important-ui-and-ux-ideas-of-2014-1674224098 : HCI : UI :
+https://gizmodo.com/the-7-most-important-ui-and-ux-ideas-of-2014-1674224098 : HCI : UI_:
 https://gizmodo.com/the-amazon-alexa-eavesdropping-nightmare-came-true-1831231490 : alexa : amazon : privacy : surveillance
 https://gizmodo.com/the-case-for-shitty-passwords-1605902705 : gizmodo : passwords : security
 https://gizmodo.com/the-super-humans-who-read-addresses-computers-cant-fig-490513773 : post : reading
@@ -8016,6 +8016,7 @@ https://grumpygamer.com/maniac_mansion_design_doc : design_document : game_desig
 https://grumpygamer.com/monkey_island_design_scribblings : design_doc : game_design : grumpy_gamer : monkey_island
 https://grumpygamer.com/puzzle_dependency_charts : blog : dependency : design : game_design : grumpy_gamer : puzzle : structure
 https://grumpygamer.com/unit_testing_games : game_development : grumpy_gamer : unit_testing
+https://guides.nyu.edu/ScienceFictionUniverse/Journals : academia : journal : science_fiction
 https://gumroad.com/l/tPWN : RPG : __important : avery_alder : dream_apart : dream_askew : gumroad : jewish : queer
 https://guyintheblackhat.wordpress.com/ : game_studies
 https://hackage.haskell.org/package/aeson : aeson : haskell : json
@@ -8356,6 +8357,7 @@ https://jp.itch.io/playscii : animation : art : ascii_art : itch_io : jp_le_bret
 https://jp.itch.io/quake-ghosts : NIN : mod : quake : video_game_tourism
 https://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html : obfuscated : programming : tutorial
 https://js.libhunt.com/ : javascript : libraries : programming : recommendation
+https://jsfphil.org/ : academia : journal : science_fiction
 https://juliagaffield.medium.com/who-was-jean-jacques-dessalines-and-why-does-he-matter-now-3cce1434c15b : 1804 : blog : haiti : history : indepeendence : jean_jacques_dessalines : julia_gaffield : medium : revolution : slavery
 https://juliareda.eu/2017/09/when-filters-fail/ : algorithm : censorship : content : filter : trust
 https://jupyterlab.readthedocs.io/en/stable/user/export.html : jupyter : notebook : python
@@ -8915,6 +8917,7 @@ https://mubaris.com/2017-09-28/linear-regression-from-scratch : blog : machine_l
 https://multiverse.com/ : __important : design : game_design : kickstarter : multiverse : rpg
 https://musclewiki.org/ : exercise
 https://muse.jhu.edu/article/524783/summary : institution : raul_pacheco_vega : study
+https://muse.jhu.edu/journal/0780 : academia : journal : science_fiction
 https://music-suite.github.io/docs/ref/ : haskell : libraries : music : programming
 https://music.stackexchange.com/questions/10488/polymeter-vs-polyrhythm : music : polymetre : polyrhythm : rhythm : sound : tidal
 https://musicbrainz.org/ : database : formal_methods : meta : music : public_domain
@@ -9204,6 +9207,7 @@ https://publications.parliament.uk/pa/cm5802/cmselect/cmwomeq/977/report.html : 
 https://publicdomainreview.org/collection/stream-of-time/ : data_visualisation : history : illustration : public_domain : samuel_goorich : time : universal_history
 https://publicintegrity.org/federal-politics/charitable-contributions/ : PAC : chris_zubak_skees : corruption : donation : election_funding : elections : public_integrity : sarah_kleiner : tampa_bay_times : telemarketing
 https://publicintegrity.org/federal-politics/ethics-watchdog-wont-certify-mnuchin-report-but-says-questions-raised-by-his-wifes-company-now-addressed/ : corruption : politics : public_integrity : steve_mnuchin
+https://publish.lib.umd.edu/?journal=scifi&page=issue&op=archive : MOSF : journal : science_fiction
 https://pubs.acs.org/doi/10.1021/acscatal.5b00538 : data_sharing : john_kitchin : paper
 https://pubsonline.informs.org/search/advanced : __come_back_to
 https://pudding.cool/2018/07/women-in-congress/ : data_analysis : data_science : data_visualisation : history : house_of_representatives : politics : the_pudding
@@ -9802,7 +9806,7 @@ https://thenorthstar.com/articles/milwaukee-county-declares-racism-a-public-heal
 https://thenounproject.com/ : creative_commons : design : icons : libraries : noun_project : nouns
 https://theoutline.com/post/1453/who-goes-nazi-media-edition : game : game_design : media : nazis : social_commentary
 https://theoutline.com/post/2352/apple-is-really-bad-at-design : apple : criticism : design
-https://theoutline.com/post/349/a-story-about-discovery : LGBTQ :
+https://theoutline.com/post/349/a-story-about-discovery : LGBTQ_:
 https://theoutline.com/post/3625/the-false-hope-of-parole : corruption : crime : parole : politics : prison : racism
 https://theoutline.com/post/7145/ask-a-fuck-up-ghosted : brandy_jensen : ghosting : the_outline
 https://theoutline.com/post/7267/living-with-passive-suicidal-ideation : depression : suicide : the_outline
@@ -10854,6 +10858,7 @@ https://www.gnu.org/software/global/globaldoc_toc.html#Emacs-editor : emacs : gl
 https://www.gnu.org/software/make/manual/html_node/Pattern-Rules.html : gnu : make
 https://www.gnu.org/software/make/manual/html_node/Text-Functions.html : gnu : make
 https://www.gnu.org/software/sed/ : GNU : manual : regex : sed : stream_processor : text_editor
+https://www.gnu.org/software/sed/manual/sed.html#sed-regular-expressions : gnu : sed
 https://www.gnu.org/software/smalltalk/manual-base/gst-base.html#Character : gnu : smalltalk
 https://www.gnupg.org/faq/gnupg-faq.html : gnupg : privacy : security
 https://www.gofundme.com/full-bodily-sovereignty-project : abortion : bodily_autonomy : feminism : gofundme : politics : women
@@ -11063,6 +11068,7 @@ https://www.josephkirwin.com/2017/11/16/constraint-solver-tips/ : best_practices
 https://www.journaldev.com/23365/python-string-to-datetime-strptime : dates : datetime : libraries : python : time : tutorial
 https://www.journalofdemocracy.org/article/liberation-turmoil-social-media-and-democracy : democracy : journal : philosophy : social_media
 https://www.jsonline.com/story/news/local/milwaukee/2018/04/27/no-charges-against-west-milwaukee-officers-death-mentally-ill-man-hit-18-times-taser/552071002/ : milwaukee : police_violence
+https://www.jstor.org/journal/sciefictstud : academia : jstor : science_fiction
 https://www.jstor.org/stable/10.7591/j.ctt21h4w2k?turn_away=true&Search=yes&resultItemClick=true&searchText=women&searchText=fitness&searchUri=%2Faction%2FdoBasicSearch%3FsearchType%3DfacetSearch%26amp%3Bsd%3D%26amp%3Bdisc_history-discipline_facet%3DaGlzdG9yeS1kaXNjaXBsaW5l%26amp%3BQuery%3Dwomen%2Bfitness%2B%26amp%3Bed%3D&ab_segments=0%2Fdefault-2%2Fcontrol&seq=1#metadata_info_tab_contents : __come_back_to : american_labyrinth : history : jstor
 https://www.jstor.org/stable/40489013#page_scan_tab_contents : article : conservation : green_new_deal : habitat : jstor : wildlife
 https://www.jstor.org/stable/40971096 : __important : field : geography : metaphor : social_structure : space
@@ -11195,7 +11201,7 @@ https://www.marketwatch.com/story/u-s-government-checks-constituted-40-of-farmer
 https://www.marxists.org/archive/index.htm : books : communism : library : marxism
 https://www.marxists.org/archive/marx/works/1845/condition-working-class/ch07.htm : engels : karl_marx
 https://www.marxists.org/archive/marx/works/1867-c1/ : book : capital : economics : marx : marxism
-https://www.mat.unical.it/aspcomp2013/ASPStandardization : ASP :
+https://www.mat.unical.it/aspcomp2013/ASPStandardization : ASP_:
 https://www.math.upenn.edu/~jhansen/2019/04/09/flow-coloring-duality/ : flow_coloring : graph : graph_theory : math : penn
 https://www.math3ma.com/blog/matrices-probability-graphs : graph : math : matrix : probability
 https://www.mathsisfun.com/ : math : reference
@@ -11692,6 +11698,7 @@ https://www.postandcourier.com/news/he-defended-the-confederate-flag-and-insulte
 https://www.postandcourier.com/news/these-sc-judges-can-have-less-training-than-barbers-but/article_deeac12e-eb6f-11e9-927b-5735a3edbaf1.html : joseph_cranney : judiciary : law : post_and_courier : south_carolina : training
 https://www.povertyactionlab.org/handbook-field-experiments : field_experiments : methods : research
 https://www.poynter.org/tech-tools/2016/ad-tech-is-broken-heres-how-newsrooms-can-fix-it/ : ad_tech : fraud : marketing : melody_kramer : news : online_advertising : poynter
+https://www.ppig.org/papers/ : PPIG : academia : conference : programming : psychology
 https://www.prettygooddesign.org/blog/Blog%20Post%20Title%20One-5new4?fbclid=IwAR1MfNmMK0FQnhWKQzzQfBAD2XXfvo2fNvqrnNaNuJ33_-5lOahvX2wrJ6E : children : discussion : education : pretty_good_design : racism : resource
 https://www.pri.org/stories/2017-08-14/three-ways-trump-administration-has-downplayed-white-supremacy : pri : trump : white_supremacy
 https://www.pri.org/stories/2017-10-03/why-oklahomas-female-incarceration-rate-so-high : incarceration : oklahoma : women
