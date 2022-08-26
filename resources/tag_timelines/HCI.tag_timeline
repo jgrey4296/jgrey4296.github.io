@@ -3,6 +3,7 @@
 1986 card86
 1988 goodman88_compl_hyper_handb
 1989 jordan89_facil_devel_repres_hyper_ide
+1989 norman89_desig_of_every_thing
 1990 lewis90_testin_
 1990 nielsen90_heuris_evaluat_user_inter_
 1990 tufte90_envis_infor
@@ -23,6 +24,7 @@
 1995 baecker95_readin_human_comput_inter_
 1995 cockburn95_four_princ_group_desig_7
 1995 maes95_agent_
+1995 mulholland95_prolog
 1995 pirolli95_infor_forag_infor_acces_envir_
 1996 green96_usabil_analy_visual_progr_envir_7
 1996 john96_goms_famil_user_inter_analy_techn_3
@@ -43,6 +45,7 @@
 1998 jambon98_taxon_
 1998 may98_hci98_confer_compan_
 1998 pirolli98_explor_brows_desig_trade_using_
+1999 ben-ari99_bricol_forev
 1999 card99_infor_forag_106
 1999 goguen99_introd_to_algeb_semiot_with_
 1999 kleinberg99_hubs_author_commun_31
@@ -57,7 +60,6 @@
 2001 byrne01_act_r_menu_selec_55
 2001 chalupsky01_elect_elves
 2001 cribbin01_explor_
-2001 holborn01_norman_donal_desig_of_every_thing_
 2001 morrison01_taxon_analy_what_world_wide_
 2001 wyeth01_elect_block_
 2002 halasz02_reflec_notec_31
@@ -129,7 +131,7 @@
 2008 baljko08_aesth_emerg_15
 2008 bernstein08_infor_scrap_26
 2008 drachen08_player_talk_funct_commun_multp_6
-2008 eisenberg08_digit_
+2008 eisenberg08_digit
 2008 hills08_towar_
 2008 ko08_debug_reinv_
 2008 kurniawan08_older_peopl_mobil_phones_66
@@ -304,6 +306,7 @@
 2013 shannon13_effec_pract_game_tutor_system_
 2013 silva13_node_based_shape_gramm_repres_editin_
 2013 soares13_live_feedb_behav_chang_
+2013 stefik13_empir_inves_into_progr_languag_syntax_13
 2013 stiegler13_ai_human_player_cooper_rts_games_
 2013 wallner13_play_graph_
 2013 yu13_towar_person_guidan_inter_narrat_1
@@ -361,6 +364,7 @@
 2018 toka18_siren_
 2018 yorgey18_explain_type_error_
 2019 anon19_chi_front_
+2019 blackwell19_fifty_years_psych_progr_131
 2019 caraban19_ways_to_nudge_
 2019 card19_ceptr_editor_
 2019 compton19_casual_creat_
@@ -427,9 +431,11 @@
 2020 wang20_cheat_sheet_data_visual_techn_
 2020 yoo20_comput_alter_vignet_place_activ_
 2021 franconeri21_scien_visual_data_commun_22
+2021 good21_visual_inter
 2021 jiang21_suppor_seren_
 2021 paleja21_utilit_explain_ai_ad_hoc_
 2021 pichlmair21_desig_game_feel
+2021 tavante21_data_center_user_study_proof_assis_tools
 2021 wagner21_dagst_repor_11
 2021 yilmaz21_system_softw_servic_proces_improv_
 2021 zhu21_person_parad_behav_chang_apps_

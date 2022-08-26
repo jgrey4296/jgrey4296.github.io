@@ -1,7 +1,8 @@
+1871 brown71_five
 1885 silber85_illus_
 1896 heikel96_mordv_
 1903 mori03_
-1960 corporation60_aetna_steel_produc_corpor
+1960 corporation60_aetna_steel_produc_corpor_catal
 1962 simon62_archit_compl
 1968 conway68_how_do_commit_inven
 1972 liskov72_
@@ -25,6 +26,7 @@
 1988 sokolowski88_natur_artif_intel_117
 1989 balci89_how
 1989 jordan89_facil_devel_repres_hyper_ide
+1989 norman89_desig_of_every_thing
 1989 ostrom89_cpr_codin_manual
 1989 pemberton89
 1990 cardelli90_
@@ -88,7 +90,6 @@
 2001 cagan01_engin_shape_gramm_
 2001 cross01_desig_ways_knowin_17
 2001 felleisen01_how_to_desig_progr_
-2001 holborn01_norman_donal_desig_of_every_thing_
 2001 spinellis01_notab_desig_patter_domain_specif_languag_56
 2001 wyeth01_elect_block_
 2002 bowman02_survey_usabil_evaluat_virtual_envir_11
@@ -408,7 +409,7 @@
 2016 cukier16_d3_cheat_sheet_
 2016 fallan16_desig_24
 2016 fiesler16_archiv_their_own_
-2016 gaudl16_build_robus_real_time_game_ai_
+2016 gaudl16_build_robus_real_time_game_ai
 2016 gingold16_play_desig_
 2016 guerra-gomez16_networ_explor_07-10-June
 2016 ince16_siren_
@@ -471,6 +472,7 @@
 2018 totten18_
 2018 vandenbroucke18_from_ideas_to_studies_10
 2018 wani18_contex_aware_knowl_bases_effic_contex_retriev_
+2018 weintrop18_how_block_based_text_based_17
 2018 youngblood18_desig_pract_human_scale_onlin_games_
 2019 aishman19_inter_digit_pract_every_life_
 2019 akerblom19_progr_repor_

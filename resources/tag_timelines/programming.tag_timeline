@@ -23,16 +23,19 @@
 1994 sterling94_art_prolog_
 1995 barbuceanu95_cool_
 1995 jones95_funct_
+1995 mulholland95_prolog
 1995 rieman95_introd_to_soar_progr_
 1995 slonneger95_formal_syntax_seman_progr_languag_
 1996 ciancarini96_coord_model_languag_as_softw_integ_28
 1996 okasaki96_purel_funct_data_struc_
+1996 winslow96_progr_pedag_psych_overv_28
 1997 kiczales97_aspec_
 1997 liebowitz97_
 1997 roberts97_refac_tool_small_3
 1998 jr.98_growin_languag_
 1999 gulyas99_multi_agent_model_languag_model_desig_inter_2
 1999 hofstadter99_godel_escher_bach_
+1999 romero99_focal_struc_prolog
 2000 armstrong00_concur_progr_erlan_
 2000 descartes00_progr_perl_dbi_40
 2000 hudak00_haskel_school_expres_
@@ -189,6 +192,7 @@
 2013 saptawijaya13_towar_comput_moral_with_logic_progr_13
 2013 shipman13_pypar_
 2013 soares13_live_feedb_behav_chang_
+2013 stefik13_empir_inves_into_progr_languag_syntax_13
 2013 zaytsev13_microp_8225_LNCS
 2013 zorn13_explor_minec_as_conduit_increas_inter_progr_
 2014 c.14_princ_of_objec_orien_javas_
@@ -225,6 +229,7 @@
 2015 maclean15_d3_tips_trick_inter_data_
 2015 martens15_progr_inter_world_linear_logic_
 2015 mcgreggor15_master_
+2015 sarkar15
 2015 sewell15_bluep_visual_scrip_unreal_engin_
 2015 smith15_cython_
 2015 smith15_unity_
@@ -286,6 +291,7 @@
 2018 ciortea18_repur_manuf_lines_fly_multi
 2018 doran18_unity_shader_effec_cookb_
 2018 edwards18_galler_progr_inter_
+2018 edwards18_separ_syntax_probl_solvin_introd_comput_progr
 2018 egi18_loop_patter_
 2018 gordon18_sequen_effec_system_with_contr_operat_
 2018 gu18_certif_
@@ -297,8 +303,10 @@
 2018 stefik18_eviden_about_progr_progr_languag_8
 2018 thompson18_build_abstr_story_compon_instit_tropes_
 2018 varughese18_contr_swarm_
+2018 weintrop18_how_block_based_text_based_17
 2018 christiansen18_one_monad_to_prove_them_all_3
 2019 akerblom19_progr_repor_
+2019 blackwell19_fifty_years_psych_progr_131
 2019 boissier19_dimen_progr_multi_agent_system_34
 2019 chlipala19_certif_progr_depen_types_
 2019 chugh19_editab_ai_
@@ -319,6 +327,7 @@
 2020 parrish20_infor_concep_strat_
 2020 vasiliev20_natur_languag_proces_python_spacy_
 2021 baccaris21_twine_grimoir_1
+2021 diapoulis21_creat_act_live_codin_pract_music_perfor
 2021 mullaney21_your_comput_fire_
 2021 russell21_artif_intel_
 2022 bjoerner22_progr_z3
