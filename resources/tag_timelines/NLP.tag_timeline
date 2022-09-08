@@ -2,12 +2,12 @@
 1987 brennan87_center_approac_pronoun_
 1987 gazdar87_natur_languag_proces_
 1989 walker89_evaluat_discour_proces_algor
-1990 agre90_what_plans_
+1990 agre90_what_plans
 1991 jurafsky91_comput_model_human_senten_inter_
-1993 dalrymple93_lfg_
+1993 dalrymple93_lfg
 1993 walker93_infor_redun_resour_bound_dialog_
-1994 hearst94_multi_
-1994 mccarthy94_emerg_unmar_optim_prosod_morph_
+1994 hearst94_multi
+1994 mccarthy94_emerg_unmar_optim_prosod_morph
 1995 vandijk95_discour_seman_ideol_6
 1996 walker96_limit_atten_discour_struc_22
 1997 clark97_dogmas_under_23
@@ -15,7 +15,7 @@
 1997 hearst97_textt_
 1997 loyall97_believ_agent_
 1997 pevzner97_critiq_improv_evaluat_metric_text_segmen_
-1998 jurafsky98_lexic_prosod_syntac_cues_dialog_acts_
+1998 jurafsky98_lexic_prosod_syntac_cues_dialog_acts
 1999 tetreault99_analy_
 2002 jackson02_natur_languag_proces_onlin_applic_
 2002 manning02_found_statis_natur_languag_proces_31
@@ -23,8 +23,8 @@
 2002 stent02_conver_acts_model_gener_spoken_dialog_contr_16
 2003 lowe03_
 2003 webber03_anaph_discour_struc_29
-2004 byron04_resol_pronom_refer_to_abstr_entit_
 2004 bosma04_exploit_emotion_disam_dialog_acts_
+2004 byron04_resol_pronom_refer_to_abstr_entit
 2004 ferguson04_i_i_i_
 2004 navarretta04_resol_indiv_abstr_anaph_texts_backg_80
 2004 nirenburg04_ontol_seman_
@@ -33,7 +33,7 @@
 2005 mihalcea05_makin_comput_laugh_
 2005 olney05_orthon_basis_topic_segmen_tutor_dialog_
 2005 schuler05_verbn_
-2006 cheong06_framew_summar_game_exper_narrat_
+2006 cheong06_framew_summar_game_exper_narrat
 2006 kral06_autom_dialog_acts_recog_based_senten_struc_1
 2006 montero06_is_it_correc_
 2006 niehaus06_comput_model_infer_narrat_
@@ -48,9 +48,9 @@
 2007 pado07_depen_based_const_seman_space_model_33
 2007 snow07_learn_to_merge_word_senses_
 2007 somasundaran07_detec_
-2008 hawes08_elemen_comput_model_multi_party_discour_
-2008 nenkova08_high_frequen_word_enter_spoken_dialog_
-2008 snow08_cheap_
+2008 hawes08_elemen_comput_model_multi_party_discour
+2008 nenkova08_high_frequen_word_enter_spoken_dialog
+2008 snow08_cheap
 2009 artstein09_viabil_simpl_dialog_act_schem_
 2009 burfoot09_autom_satir_detec_
 2009 buyko09_event_
@@ -74,8 +74,8 @@
 2009 webber09_genre_penn_treeb_
 2009 wing09_recog_stanc_ideol_line_debat_
 2009 zhang09_employ_
-2010 akkaya10_amazon_mechan_turk_subjec_word_sense_disam_
-2010 baader10_the_descr_logic_handb_
+2010 akkaya10_amazon_mechan_turk_subjec_word_sense_disam
+2010 baader10_the_descr_logic_handb
 2010 chambers10_datab_narrat_schem_
 2010 davidov10_semi_super_recog_sarcas_senten_twitt_amazon_
 2010 elson10_autom_attrib_quoted_speec_liter_narrat_
@@ -96,7 +96,7 @@
 2010 tomai10_using_
 2010 wang10_makin_conver_struc_explic_
 2010 elson10_extrac_
-2011 abbott11_how_
+2011 abbott11_how
 2011 danescu-niculescu-mizil11_echoes_
 2011 gibbs11_irony_talk_among_frien_15
 2011 kiddon11_thats_what_she_said_
@@ -124,7 +124,7 @@
 2016 ghazvininejad16_gener_topic_poetr_
 2016 sim16_text_strat_choic_
 2016 song16_two_are_better_than_one_
-2017 maheshwari17_societ_sentim_analy_
+2017 maheshwari17_societ_sentim_analy
 2018 eisenstein18_natur_
 2018 stefnisson18_mimis_
 2018 wagner18_dagst_manif_7
@@ -143,5 +143,5 @@
 2021 caswell21_qualit_glanc_
 2021 gabbay21_journ_applied_logic_8
 2021 russell21_artif_intel_
-2021 yilmaz21_system_softw_servic_proces_improv_
 2021 widdows21_quant_mathem_artif_intel_72
+2021 yilmaz21_system_softw_servic_proces_improv_
