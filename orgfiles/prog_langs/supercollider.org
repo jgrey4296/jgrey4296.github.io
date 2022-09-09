@@ -1,6 +1,8 @@
-* Supercollider notes
+#+title:  Supercollider
+* Overview
+* Main
 ** Server Commands
-   #+begin_src 
+   #+begin_src
    s.status
    s.boot
    s.reboot
@@ -29,19 +31,19 @@
     Platform.pathSeparator
     Platform.resourceDir
     Platform.defaultTempDir
-   
+
 *** SynthDefs versus Synths
     The point is to abstract concepts from the server to the client.
     Class - Instance : SynthDef - Synth
-    
+
     Synthdefs are eval'd *only once*, so changes are through messages,
     initializations, or ugens.
     #+begin_src sclang
     //As a Function:
     { SinOsc.ar(440, 0, 0.2) }.play;
-    
+
     //SynthDef creation
-    aSynthDef = SynthDef.new("tutorial", { Out.ar(0, Sin.ar(440, 0, 0.2)) }); 
+    aSynthDef = SynthDef.new("tutorial", { Out.ar(0, Sin.ar(440, 0, 0.2)) });
     //Simple Testing:
     aSynth = aSynthDef.play;
     //Stop the Synth
@@ -59,16 +61,16 @@
     b = Synth.new("Blah", [ "pitch", 220 ])
     //combine with busses/groups:
     //can also use .moveBefore, .moveAfter, .moveToHead, .movetoTail
-    c = Synth.after(b,"Blah",["pitch",220]); 
+    c = Synth.after(b,"Blah",["pitch",220]);
     //Synth.head/tail/before/after/replace
     //modification
     b.set("pitch",220) ;
     //then kill it
     b.free;
-    #+end_src    
+    #+end_src
 
     For feedback, use InFeedback.ar
-    
+
 *** UGens
 
 **** Oscillators:
@@ -87,7 +89,7 @@
      Impulse.ar/kr (freq,phase,mul,add)
      SyncSaw.ar/kr (syncFreq,sawFreq,mul,add) // careful
      DWGPlucked.ar/kr(freq, amp, gate, pos, c1, c3, inp, release)
- 
+
 **** Buffer Playback:
      #+begin_src sclang
      //EG:
@@ -105,7 +107,7 @@
      Mix.ar (array)
      Decay2.ar/kr (in, attackTime, decayTime, mul, add)
      AllpassC.ar/kr (in, maxDelaytime, delaytime, decaytime, mul, add)
-     
+
 **** Envelopes
      EnvGen.ar/kr (envelope, gate, levelScale, levelBias, timeScale, doneAction)
      Env.perc/triangle/sine/xyc/pairs/step/cutoff/dadsr/adsr/asr/circle
@@ -150,7 +152,7 @@
     b = Bus.audio(server, numChannels=1)
 
     b = Bus.audio(s)
-    b.index 
+    b.index
     b.numChannels
     b.free
 
@@ -173,18 +175,18 @@
     //creating a new synth in a group
     Synth(\tutorial..,[\inBus,b],g)
     // sends set message to all nodes inside group
-    g.set(\amp,0.005) 
+    g.set(\amp,0.005)
     #+end_src
 *** Buffers
     #+begin_src sclang
     b = Buffer.alloc(server,frames,channels)
     //8 second long buffer:
-    b = Buffer.alloc(s,s.sampleRate * 8.0, 2) 
+    b = Buffer.alloc(s,s.sampleRate * 8.0, 2)
     b = Buffer.read(s, "/path/to/file.wav")
 
     //Play the buffer:
     ({Out.ar(0,PlayBuf.ar(1,b,BufRateScale.kr(b)))}).play;
-    
+
     //for streaming:
     b = Buffer.cueSoundFile(s,filePath, 0, 1)
 
@@ -197,7 +199,7 @@
     'this' refers to instance
     *NEEDS TO BE IN ~/github/.super_collider_classes*
     *or Platform.userExtensionDir*
-    
+
     #+begin_src sclang
     MyClass {
     	var <a,>b,<>c; //get,set,both
@@ -233,10 +235,10 @@
      #+begin_src sclang
      2 @ 3 : Point(2,3)
      point @ point : rectangle, top left -> bottom right
-     
+
      rect & rect : intersection of rectangles
      rect | rect : union of rectangles
-     
+
      Color.rand
      #+end_src
 
@@ -245,7 +247,7 @@
      //defined as routines:
      {: x, x <- (1..5) }
      {: [x,y], x <- 2, y <- (1..5), (x+y).isprime }
-    
+
      //use 'all' to get the values out:
      all {:x, x <- (1..5) }
 
@@ -257,13 +259,13 @@
 *** Variables
     defined with 'var' after the open curly bracket
     of a function.
-    
+
     ~varName -> create an environment variable
     //Environments allow for stack control of variables?
     (Environment.new.push; currentEnvironment.pop;)
 
     Globals can only be single letter variables
-    
+
 *** Functions
     #+begin_src sclang
     a = { arg a; a + 2 }
@@ -328,17 +330,17 @@
 **** Window
      Window.screenBounds
      Display with window.front;
-    
+
      Window display can be automated with:
      window.view.decorator = FlowLayout(window.view.bounds);
 
      Windows can also have layouts:
 	 wind.layout_(HLayout(button, VLayout(button2, Button())));
-    
+
 **** Button
      b = Button.new(parent, Rect(0,0,100,100).states([["One"], ["Two"]]);
      b.action_( "test".postln;)
-    
+
 *** IO
     #+begin_src sclang
     File.getcwd
@@ -362,8 +364,8 @@
      #+begin_src sclang
      //Tempo/System/App -Clock
      //System/App are in seconds
-     
-     SystemClock.sched(5,{"hello".postln;}); 
+
+     SystemClock.sched(5,{"hello".postln;});
 
      var timeNow = TempoClock.default.beats;
      TempoClock.default.tempo = 2; // 2 beats / sec
@@ -386,7 +388,7 @@
      "b".yield;
      "c".yield;
      });
-     
+
      //return numbers for clock based rescheduling:
      r = Routine({
 	 loop {
@@ -394,7 +396,7 @@
     	 rrand(1,3).yield;
      	}
       });
- 
+
       //creating scheduled sound:
       r = Routine({
 	  loop{
@@ -429,13 +431,13 @@
      #+begin_src sclang
      aRoutine.play(clock,quant)
      aRoutine.play(argClock, doReset, quant)
-     //Specify a clock, whether to reset to start, 
-     //and exact start time. 
+     //Specify a clock, whether to reset to start,
+     //and exact start time.
      quant = [bar length,phase]
      //where u and v are tasks
      u.play(c,true,2);
      v.play(c,true,[2,0.5]);
-     //When dealing with latency, wrap messages 
+     //When dealing with latency, wrap messages
      //to the server with 'makeBundle':
      s.makeBundle(s.latency, {...});
      #+end_src
@@ -443,12 +445,12 @@
     Streams have .next and .reset
     Patterns create streams
     Can collect, select, reject on patterns to modify.
-    
+
     #+begin_src sclang
     a = Pseq([1,2,3,4,5], 1).asStream
     while { (m=a.next).notNil } {m.postln };
     #+end_src
-    
+
     Patterns can be concatenated with ++
     and composed with <>
     played,
@@ -476,8 +478,8 @@
     //can use patterns inside of other patterns:
     p = Pwhite(0.0, Pseries(0.01,0.01,inf), 100)
     //Parallel event patterns, with duration
-    Ppar(list) 
-    
+    Ppar(list)
+
 **** Pbind
      //Pbind combines elements from patterns
      //into *key-value* events to pass to a synth
@@ -522,13 +524,13 @@
     Modal, gamut, chromatic transposition:
     \mtranspose, \gtranspose, \ctranspose
 
-    \root, \harmonic, \detune, 
+    \root, \harmonic, \detune,
     \midiToCps
     \octave, \degree, \scale,
     \octaveRatio
 
     \note, \midinote, \freq, \detunedFreq
-   
+
 
 
 *** Rests
@@ -569,16 +571,16 @@ freeAllInGroup
 freeGroup
 
 *** Data Structures
-    
-**** Array 
+
+**** Array
      Fixed Size
 
-**** List 
+**** List
      Variable Size. Uses 'add','pop','addFirst', insert,removeAt
      into pairs: .pairsDo(f)
 
-**** Dictionary 
-     uses [ ] and .at access, 
+**** Dictionary
+     uses [ ] and .at access,
      can take strings, symbols, objects...
 
 **** PriorityQueue
@@ -592,7 +594,7 @@ freeGroup
      m.put(\a, \b, \c, "blah")
 
      m.treeDo(
-     {|x| ("Branch: " + x).postln}, 
+     {|x| ("Branch: " + x).postln},
      {|x, y| ("LeafPath: " + x + " Leaf: + y).postln; },
      {|x| ("Arg: " + x).postln; },
      {|x| ("Post Branch: " + x).postln})
@@ -690,18 +692,18 @@ set -- set : symmetric different
      Ppar([q, r]);
      #+end_src
 
-     
+
      #+begin_src sclang
      p = Pbind(
      \type, \midi,
      \midicmd, \noteOn,
-     \midiout, m,    
+     \midiout, m,
      \chan, 0,
 	 \mtranspose, -24,
 	 \root, 0,
 	 \scale, Scale.chromatic,
 	 \amp, Pbeta.new(0.2, 0.8, 1.2, 1.2,));
-     
+
      //\degree, [1,2,3]
      //\dur, Pwrand([0.25, Pn(0.125, 2)], #[0.8, 0.2], inf),
      //\legato, sin(Ptime(inf) * 0.5).linexp(-1, 1, 1/3, 3),
@@ -716,7 +718,7 @@ set -- set : symmetric different
      Pfsm example:
      #+begin_src sclang
      a = Pfsm([
-	 #[0], //Start States 
+	 #[0], //Start States
 	 Pseq([0,12,4,0]), #[1], //S0, -> S1
 	 Pseq([4,4,5,5]), #[2], //S1 -> S2
 	 Pseq([4,1,4,3,1]), #[3], //S2 -> S3
@@ -730,7 +732,7 @@ set -- set : symmetric different
 
 
 
-     
+
 **** Misc
      #+begin_src sclang
      8.rand //generate random number from 0-8
@@ -741,10 +743,9 @@ set -- set : symmetric different
      x ! n // create array of x, n times
      #+end_src
 
-
 ** scsynth
    TODO
-   
+
 ** emacs specific:
    C-c C-o         sclang-start
    C-c C-c         sclang-eval-region-or-line
@@ -765,14 +766,14 @@ set -- set : symmetric different
 ** Useful Debugging / Introspection
 
    #+begin_src sclang
-   // dumps information about the class/type, 
+   // dumps information about the class/type,
    "test".dump
    // get the class type
    "test".class
    // opens up a detailed inspector
    "test".inspect
    //prints all methods the class can respond to
-   "test".class.dumpInterface 
+   "test".class.dumpInterface
    //Gui Scope a Synth:
    SynthDef(\Test, { Out.ar(0, SinOsc.ar(440, 0, 0.5)); })
    //all instance variable names of a class
@@ -781,11 +782,11 @@ set -- set : symmetric different
    "test".class.findMethod("blah")
    SynthDef... .dumpUGens
    // get info on the interpreter
-   this.dump 
+   this.dump
    currentEnvironment.clear
    //Gui Plot an Environment
    Env.linen(0.1, 0.2, 0.1, 0.6).test.plot
-   //Open up gui help. 
+   //Open up gui help.
    thisProcess.showHelpBrowser
    //Show Guis:
    Stethoscope.new(nil, 1, 0, 4096, 1, \audio, nil, 0);
@@ -809,10 +810,11 @@ set -- set : symmetric different
    install the dependencies, ensure qt55,
    temporarily modify the path to point to where brew link qt55 suggests
    make sure you run:
-   
+
    git submodule init
    git submodule update
 
    to install yaml-cpp
    otherwise follow the instructions
 
+* Links

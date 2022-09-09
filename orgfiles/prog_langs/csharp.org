@@ -1,11 +1,6 @@
-* CSharp
-** Links
-http://learnxinyminutes.com/docs/csharp/
-https://msdn.microsoft.com/en-us/library/aa645596(v=vs.71).aspx
-http://docs.unity3d.com/Manual/UnityOverview.html
-http://www.beforegame.net/blog/scene-lighting-and-post-processing-in-before/#more-11
-[[http://docs.unity3d.com/412/Documentation/ScriptReference/index.Accessing_Other_Game_Objects.html][Unity: Accessing Other Game Objects]]
-
+#+title: C#
+* Overview
+* Main
 ** Building
 mcs for compiling,
 mono for running the compiled executable
@@ -13,8 +8,8 @@ xbuild on linux instead of msbuild, using .sln and .csproj files
 xbuild /t:Target
 xbuild /p:Configuration=Release
 csharp for REPL
-* Language
-** Basic Data Types
+** Language
+*** Basic Data Types
 #+NAME: Basic types
 #+begin_src csharp  :results value
 // Sbyte - Signed 8-bit integer
@@ -87,7 +82,7 @@ const int HOURS_I_WORK_PER_WEEK = 9001;
 
 
 #+end_src
-** Classes
+*** Classes
 // Class Declaration Syntax:
 // <public/private/protected/internal> class <class name>{
 //    //data fields, constructors, functions all inside.
@@ -322,8 +317,8 @@ public class BikeRespository : DbSet
 }
 
 #+end_src
-** Control Structures
-*** IF
+*** Control Structures
+**** IF
 #+begin_src csharp  :results value
 if(true || false){} else {};
 // Ternary operators
@@ -333,12 +328,12 @@ string isTrue = (true) ? "True" : "False";
 
 
 #+end_src
-*** WHILE
+**** WHILE
 #+begin_src csharp  :results value
 while(true){};
 do {} while(true);
 #+end_src
-*** FOR
+**** FOR
 #+begin_src csharp  :results value
 for(var i = 0; i < 5; i++){}
 
@@ -356,7 +351,7 @@ foreach (char character in "Hello World".ToCharArray())
 
 #+end_src
 
-*** Switch Case
+**** Switch Case
 #+begin_src csharp  :results value
 // A switch works with the byte, short, char, and int data types.
 // It also works with enumerated types (discussed in Enum Types),
@@ -389,7 +384,7 @@ switch (month)
 }
 
 #+end_src
-** Data Structures
+*** Data Structures
 // Others data structures to check out:
 // Stack/Queue
 // Dictionary (an implementation of a hash map)
@@ -398,7 +393,7 @@ switch (month)
 // Tuple (.Net 4+)
 //Stack,Queue,Dictionary,HashSet,Tuple
 
-*** Arrays
+**** Arrays
 #+begin_src csharp  :results value
 // Arrays - zero indexed
 // The array size must be decided upon declaration
@@ -419,7 +414,7 @@ int[,] array2 = new int[4,6];
 int[][] array3;
 
 #+end_src
-*** Lists
+**** Lists
 #+begin_src csharp  :results value
 // Lists are used more frequently than arrays as they are more flexible
 // The format for declaring a list is follows:
@@ -436,7 +431,7 @@ Console.WriteLine("intList @ 0: " + intList[0]);
 
 #+end_src
 
-*** Objects/Classes
+**** Objects/Classes
 #+begin_src csharp  :results value
 class Person : InheritClass, AndAnInterface
 {
@@ -464,18 +459,18 @@ class Person : InheritClass, AndAnInterface
 }
 
 #+end_src
-**** Object Creation:
+***** Object Creation:
 #+begin_src csharp  :results value
 //use new
 Person blah = new Person();
 #+end_src
 
-**** Methods:
+***** Methods:
 #+begin_src csharp  :results value
 blah.something();
 #+end_src
 
-** Delegates:
+*** Delegates:
 A delegate in C# is similar to a function pointer in C or C++. Using a
 delegate allows the programmer to encapsulate a reference to a method
 inside a delegate object. The delegate object can then be passed to
@@ -518,7 +513,7 @@ static void PrintTitle(Book b)
 
 #+end_src
 
-** Dynamic Objects
+*** Dynamic Objects
 #+begin_src csharp  :results value
 // DYNAMIC OBJECTS (great for working with other languages)
 dynamic student = new ExpandoObject();
@@ -531,7 +526,7 @@ Console.WriteLine(student.Introduce("Beth"));
 
 
 #+end_src
-** Generics
+*** Generics
 #+begin_src csharp  :results value
 // The classes for TKey and TValue is specified by the user calling this function.
 // This method emulates the SetDefault of Python
@@ -557,7 +552,7 @@ public static void IterateAndPrint<T>(T toPrint) where T: IEnumerable<int>
 
 
 #+end_src
-** Heap or Stack?
+*** Heap or Stack?
 When you call the New operator on a class, it will be allocated on the
 heap.
 When you instantiate a struct, it gets created on the
@@ -568,23 +563,23 @@ classes. You will be working directly with the struct
 instance. Because of this, when passing a struct to a method, it's
 passed by value instead of as a reference.
 
-** Inspection and Output:
+*** Inspection and Output:
 #+NAME: inspection
 #+begin_src csharp  :results value
 // Print out the name and the age associated with the person:
 Console.WriteLine("Person details - {0}", person);
 #+end_src
-** Lambdas
+*** Lambdas
 #+begin_src csharp  :results value
 // LAMBDA EXPRESSIONS - allow you to write code in line
 Func<int, int> square = (x) => x * x; // Last T item is the return value
 Console.WriteLine(square(3)); // 9
 #+end_src
-** Memory Management
+*** Memory Management
 //Automatic, uses destructors:
 ~A(){}
 
-** Namespaces
+*** Namespaces
 #+NAME: Standard imports
 #+begin_src csharp  :results value
 using System;
@@ -600,7 +595,7 @@ using System.IO;
 
 #+end_src
 
-** Networking
+*** Networking
 On the C# side, breaks down to using System.Net.Sockets,
 and System for [Serializable] flag for data classes.
 
@@ -644,7 +639,7 @@ socket_reader.Close();
 tcp_socket.Close();
 #+end_src
 
-** Nullables, Defaults and Generics
+*** Nullables, Defaults and Generics
 #+begin_src csharp  :results value
 // NULLABLE TYPES - great for database interaction / return values
 // any value type (i.e. not a class) can be made nullable by suffixing a ?
@@ -670,7 +665,7 @@ var phonebook = new Dictionary<string, string>() {
 
 #+end_src
 
-** Operators
+*** Operators
 #+begin_src csharp  :results value
 int i1 = 1, i2 = 2; // Shorthand for multiple declarations
 
@@ -708,7 +703,7 @@ Console.WriteLine(--i); //i = 0. Pre-Decrementation
 
 
 #+end_src
-** Resource Management
+*** Resource Management
 #+begin_src csharp  :results value
 // DISPOSABLE RESOURCES MANAGEMENT - let you handle unmanaged resources easily.
 // Most of objects that access unmanaged resources (file handle, device contexts, etc.)
@@ -724,7 +719,7 @@ using (StreamWriter writer = new StreamWriter("log.txt"))
 
 #+end_src
 
-** Sorting
+*** Sorting
 #+begin_src csharp  :results value
 List<Order> SortedList = objListOrder.OrderBy(o => o.OrderDate).ToList();
 
@@ -732,7 +727,7 @@ List<Order> SortedList = objListOrder.OrderBy(o => o.OrderDate).ToList();
 var x = from x in list orderBy x.val select x
 #+end_src
 
-** Type Casting
+*** Type Casting
 #+begin_src csharp  :results value
 // Converting data
 
@@ -752,7 +747,7 @@ Convert.ToString(123);
 // or
 tryInt.ToString();
 #+end_src
-** Value vs Reference
+*** Value vs Reference
 A value type is either a struct type or an enumeration type.
 C# provides a set of predefined struct types called the simple types.
 The simple types are identified through reserved words.
@@ -760,7 +755,7 @@ The simple types are identified through reserved words.
 A reference type is a class type, an interface type, an array type,
 or a delegate type.
 
-* Unity:
+** Unity:
 CMD-' will bring up documentation in monodevelop
 
 GUI Text: requires a gui layer on the camera, and uses camera coordinates so 0.0
@@ -770,7 +765,7 @@ Typical base class: Monobehaviour
 using UnityEngine;
 
 Templates: GetComponent.<Rigidbody>();
-** Standard Functions:
+*** Standard Functions:
 #+begin_src csharp  :results value
 #pragma strict
 
@@ -816,17 +811,17 @@ function OnCollisionEnter(otherObj: Collision){}
 
 
 #+end_src
-** Debug:
+*** Debug:
 #+begin_src csharp  :results value
 Debug.Log()
 #+end_src
 
-** Coroutines:
+*** Coroutines:
 #+begin_src csharp  :results value
 yield //optional: WaitForSeconds(0.1);
 #+end_src
 
-** Vector2:
+*** Vector2:
 #+begin_src csharp  :results value
 //Array: Add, Clear, Concat, Join, Pop, Push, RemoveAt, Shift, Unshift, Sort
 // Exposes an float array in the inspector,
@@ -844,7 +839,7 @@ one, right, up, zero,
 magnitude, normalized, x, y
 Static : Max,Min, Lerp, Dot, Distance, Angle, Scale
 
-** Editor stuff
+*** Editor stuff
 Example class to edit:
 #+begin_src csharp
 using System.Collections;
@@ -946,7 +941,7 @@ public class BezierInspector : Editor {
     }
 }
 #+end_src
-** Splines
+*** Splines
 Base Spline class:
 #+begin_src csharp
 using System.Collections;
@@ -1141,11 +1136,11 @@ public class SplineInspector : Editor {
 }
 
 #+end_src
-** Blender Import
+*** Blender Import
 Unity loads blender files natively.
 Set 'Material Naming' in the imported prefabs to 'From Model's Material'
 To use Sprytile tilesets, import the texture and add them to the albedo of the shader for the object.
-* Shader Notes
+** Shader Notes
 Notes based on [[http://www.alanzucconi.com/2015/06/10/a-gentle-introduction-to-shaders-in-unity3d/][Alan Zucconi's tutorials]]
 [[https://digitalerr0r.wordpress.com/2015/09/02/unity-5-shader-programming-1-an-introduction-to-shaders/][secondary tutorial]]
 [[http://catlikecoding.com/unity/tutorials/][tertiary tutorial]]
@@ -1155,7 +1150,7 @@ Types: 32 bit *float* is rarely needed,
 16 bit *half* preferred
 10 bit *fixed* goes from -2 to +2
 
-** Basic layout:
+*** Basic layout:
 #+begin_src csharp shader
      Shader "MyShader"
      {
@@ -1179,7 +1174,7 @@ Types: 32 bit *float* is rarely needed,
        }
      }
 #+end_src
-** Properties
+*** Properties
 Provides unity inspector access to variables
 #+begin_src csharp
 Properties
@@ -1200,7 +1195,7 @@ Properties
         _MyVector ("My Vector4", Vector) = (0, 0, 0, 0)	// (x, y, z, w)
 }
 #+end_src
-** Shader Body
+*** Shader Body
 #+begin_src csharp
 SubShader
 {
@@ -1215,7 +1210,7 @@ SubShader
     ENDCG
 }
 #+end_src
-*** Tags
+**** Tags
 [[https://docs.unity3d.com/Manual/SL-PassTags.html][Tags]] define properties of the shader to unity.
 
 *Queue* : The order to render the shader
@@ -1229,11 +1224,11 @@ Transparent : 3000,
 Overlay : 4000
 
 Can also specify offsets: Background+2
-*** Imports
+**** Imports
 To access global variables:
 #include "UnityCG.cginc"
 
-** Surface Shaders
+*** Surface Shaders
 uses #pragma surface [functionName] [params]
 #+begin_src csharp
 CGPROGRAM
@@ -1290,7 +1285,7 @@ Shader "Example/Diffuse Texture" {
 }
 #+end_src
 
-*** Struct SurfaceOutput:
+**** Struct SurfaceOutput:
 fixed3 Albedo
 fixed3 Normal
 fixed3 Emission
@@ -1298,7 +1293,7 @@ half Specular
 fixed Glass
 fixed Alpha
 
-** Vertex Shaders
+*** Vertex Shaders
 uses #pragma vertex [funcName]
 Where function has the form: *vertOutput vert(vertInput)*
 
@@ -1330,11 +1325,11 @@ ENDCG
 }
 #+end_src
 
-** Fragment Shaders
+*** Fragment Shaders
 uses #pragma fragment [functionName]
 Where the function has form: *half4 frag(vertOutput)*
 
-** Functions and Values
+*** Functions and Values
 [[https://msdn.microsoft.com/en-us/library/windows/desktop/ff471376(v=vs.85).aspx][functions in hlsl]]
 [[https://docs.unity3d.com/Manual/SL-UnityShaderVariables.html][built in variables]]
 [[https://docs.unity3d.com/Manual/SL-VertexProgramInputs.html][vertex data]]
@@ -1347,10 +1342,10 @@ tex2D : takes a texture and uv coordinate, returns RGBA
 
 _Time, _SinTime, _CosTime : Floats.
 
-** Examples
-*** Debug shaders
+*** Examples
+**** Debug shaders
 
-**** DebugUVs:
+***** DebugUVs:
 #+begin_src shader
        Shader "Custom/DebugUVs" {
         Properties {
@@ -1403,7 +1398,7 @@ _Time, _SinTime, _CosTime : Floats.
 
 
 
-**** DebugVerts
+***** DebugVerts
 #+begin_src shader
        Shader "Custom/DebugVerts" {
            Properties {
@@ -1448,7 +1443,7 @@ _Time, _SinTime, _CosTime : Floats.
        }
 #+end_src
 
-**** DebugNormals
+***** DebugNormals
 #+begin_src shader
        Shader "Custom/DebugNormals" {
            Properties {
@@ -1494,7 +1489,7 @@ _Time, _SinTime, _CosTime : Floats.
 
 #+end_src
 
-*** Simple lighting
+**** Simple lighting
 #+begin_src shader
       Shader "Custom/DiffuseSimpleWGlobals" {
           SubShader {
@@ -1540,7 +1535,7 @@ _Time, _SinTime, _CosTime : Floats.
       }
 #+end_src
 
-*** Simple textured
+**** Simple textured
 #+begin_src shader
       // Upgrade NOTE: replaced '_World2Object' with 'unity_WorldToObject'
 
@@ -1605,7 +1600,7 @@ _Time, _SinTime, _CosTime : Floats.
 
 
 
-*** Simple vertex shader
+**** Simple vertex shader
 #+begin_src shader
       Shader "Custom/VertMovement" {
           Properties {
@@ -1663,7 +1658,7 @@ _Time, _SinTime, _CosTime : Floats.
 
 #+end_src
 
-* Sandbox
+** Sandbox
 #+NAME: csharp
 #+begin_src csharp :results value
 class HelloWorld{
@@ -1688,3 +1683,10 @@ class HelloWorld{
 | r |
 | l |
 | d |
+* Links
+http://learnxinyminutes.com/docs/csharp/
+https://msdn.microsoft.com/en-us/library/aa645596(v=vs.71).aspx
+http://docs.unity3d.com/Manual/UnityOverview.html
+http://www.beforegame.net/blog/scene-lighting-and-post-processing-in-before/#more-11
+[[http://docs.unity3d.com/412/Documentation/ScriptReference/index.Accessing_Other_Game_Objects.html][Unity: Accessing Other Game Objects]]
+

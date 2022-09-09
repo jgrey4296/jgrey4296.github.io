@@ -1,8 +1,6 @@
-* CCalc
-  [[https://www.cs.utexas.edu/users/tag/cc/][The Causal Calculator]]
-  [[http://www.cs.utexas.edu/users/tag/mad/][MAD]]
-  [[https://www.cs.utexas.edu/users/tag/cc/tutorial/toc.html][Online Tutorial]].
-
+#+title: CCalc
+* Overview
+* Main
 ** Running
    start swipl6 with ccal loaded:
    swipl6 -f path/to/ccalc.pl
@@ -174,7 +172,6 @@ Needs swi-prolog < 7
 	:- include 'file.prolog'.
   %% Any definitions in file are now usable
 #+end_src
-
 
 ** Sandbox
 
@@ -465,7 +462,6 @@ nonexecutable sell(It) if buy(It).
 
 #+end_src
 
-
 ** Sandbox Session
 *** #+NAME: Basic example
    #+begin_src ccalc :results output :session test :as-file
@@ -601,7 +597,6 @@ nonexecutable sell(It) if buy(It).
    show_clauses.
    #+end_src
 
-
 ** Zoo
    [[https://www.cs.utexas.edu/users/tag/cc/examples/][Examples Source]]
 
@@ -641,3 +636,8 @@ nonexecutable sell(It) if buy(It).
    [[file:examples/hanoi.prolog][Hanoi]]
    [[file:examples/bw.prolog][Blocks World Description]]
    [[file:examples/bw-test.prolog][Blocks World Problem]]
+
+* Links
+[[https://www.cs.utexas.edu/users/tag/cc/][The Causal Calculator]]
+[[http://www.cs.utexas.edu/users/tag/mad/][MAD]]
+[[https://www.cs.utexas.edu/users/tag/cc/tutorial/toc.html][Online Tutorial]].

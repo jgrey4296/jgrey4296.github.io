@@ -1,5 +1,7 @@
-* Versu / Prompter Notes                                                        :versu:
-  Needs to be in .prompter files
+#+title: Versu / Prompter
+* Overview
+* Main
+Needs to be in .prompter files
 ** Prompter file format:
    "Story name"
 
@@ -15,30 +17,30 @@
    For the main prompter file, rather than charactes, dealt with below
    Surrounded by triple *'s
    *** Cast *** etc.
-   
+
    Requires:
    *Cast*, *Scenario* and *Scene*'s
 
 ** Casting
 
    {*Free* Role} ... {*Defined* Character}
-   
-   Can mark any role as (playable). 
+
+   Can mark any role as (playable).
 
    {Role} ... {a} or {b}
-   
+
    Versu can auto fill roles:
    The Boss ... a middle aged man
-   
+
    This uses age, gender, sex orientation, wealth, social class, and genre.
 
 ** New Characters
 
-   New characters are marked: 
+   New characters are marked:
    Manager (unique to this story) ... Bob
 
    And are associated with a file:
-   character_bob.prompter 
+   character_bob.prompter
    in the story directory.
 
    Format:
@@ -49,7 +51,7 @@
    {Personality}.
 
    Where personality can be:
-   
+
 *** Age
     adolescent, young, middle-aged, older, old
 
@@ -59,7 +61,7 @@
 
 *** Orientation
     straight, gay,
-    attracted to women, attracted to men, 
+    attracted to women, attracted to men,
     attracted to people of ambiguous gender
 
 *** Wealth
@@ -73,17 +75,17 @@
     agreeable, apologetic, assertive,
     bully,
     cheerful, closed, clumsy, combative, combative when provoked, conscientious, courteous
-    disagreeable, doormat, 
+    disagreeable, doormat,
     earnest, empathic, extrovert
-    flttering, flirt, forward, 
-    graceful, 
+    flttering, flirt, forward,
+    graceful,
     health nut, histrionic
     insouciant
     honest, host, hypochondiac
     introvert
     jaded,
     lovable rogue, loyal,
-    neurotic, 
+    neurotic,
     obsequious, open
     pacifist, perceptive, politely assertive, prone to fainting/sulking/tantrums
     rake, repressed, romantic, rude, rude if provoked
@@ -103,13 +105,13 @@
 *** Back Story
     Optional memories on subjects.
     designate with the *** Back story *** heading
-    
+
     Format:
     On {}: {}
     >> {}
 
 *** Personal Dialogue
-    On particular topics: 
+    On particular topics:
 
     About {}: {}
 
@@ -155,7 +157,7 @@
     Also [he], [him], [his], [himself] and related female
     and gender neutral pronouns.
 
-    
+
 *** Manners of Speaking
     {Name} ({MoS, MoS...}) : {Text}
 
@@ -164,7 +166,7 @@
 
     {Name} (advancing the plot) : {Text}
 
-**** Manners of speaking base 
+**** Manners of speaking base
 
      assertively, agreeably, aloof, avoiding leadership, acting unhealthy, acting healthy
      airing family laundry, acting feminine, acting masculine
@@ -173,7 +175,7 @@
      being overly honest, being obviously insincere, being intentionally weird,
      betraying age, betraying youth,
 
-     cynically, confidently, competently, 
+     cynically, confidently, competently,
 
      dominantly, disloyally
 
@@ -184,7 +186,7 @@
      inappropriately, insensitively, impolitely, incompetently, impiously
 
      joking
-     lying, loyally, 
+     lying, loyally,
      menacingly
      naively
      pompously, properly, pleasantly, politely, piously
@@ -200,7 +202,7 @@
 
      adopting...
      friendship, sensitivity, leadership, confidence, judgment, accomplishments, constitution, style,
-     status, intelligence, funny, manners, propriety, virtue, attractive, 
+     status, intelligence, funny, manners, propriety, virtue, attractive,
      faithful, piety, menace, wordliness
 
 **** Manners of directed speaking
@@ -250,13 +252,13 @@
      testing the loyalty of X
      testing the will of X
 
-     
-     
+
+
 
 
 
 *** Emotion
-     
+
     {Name} : {Text}
     ([he]/it/they become(s) {Emotion} - {Text})
 
@@ -265,7 +267,7 @@
 
 **** Emotion list
      amused, angry, annoyed, devastated
-     embarrassed, frightened, happy, 
+     embarrassed, frightened, happy,
      humiliated, pleased, sad, surprised, worried
 
 ** Conversations
@@ -298,11 +300,11 @@
     (>) : {Name} : {Text}
 
 *** Conditional Speech
-    
+
     (a) (if {name} is {emotion}) {name} : {text}
-    
+
     (b) (if {name} is {emotion}) {name} : {text}
-    
+
     (c) {name} : {text}
 
 
@@ -324,7 +326,7 @@
 
     //Conditionally on the topic already being active:
     (Continuing on the {topic})
-    
+
 ** Scenes
    Expected structure:
    1) Scenes
@@ -364,12 +366,12 @@
 
 **** Player Ending a scene:
      (End on option "{LoD}" and go to {scene}. {Text})
-     
+
      (End on option "{LoD}" if 50 ticks have passed and
      go to {scene}. "{Text}")
 
 ** Choices
-   
+
    {Scene declaration}
 
    Choice ({choiceOpt}): {Text}
@@ -381,7 +383,6 @@
    (if {condition}) Choice ({choiceOpt}) : {Text}
    -- {Text}
 
-
 ** *Conditions*
    Types:
    {n} ticks have passed.
@@ -389,7 +390,7 @@
    {x} is {relation} of/to {y}
    {x} is {emotion}
    *lull*: where noone wants to say anything:
-   There is a lull in {location}. 
+   There is a lull in {location}.
    There is a lull where {name} is.
    *lines of dialogue*:
    "{LoD}" has been reached.
@@ -397,21 +398,20 @@
    {name} is alone.
    {name} is present.
    {name} is among friends.
-   {name} is {restraint}. 
+   {name} is {restraint}.
 
    if {name} rates {name}'s {quality} as {level}
 
 *** *Restraints*:
-    insane, socially outcast, unconscious, 
+    insane, socially outcast, unconscious,
     asleep, furious, sulking, weeping
-
 
 
 ** Locations
    Uses "*** Scenario ***" prompt.
    Only stage directions, no speech.
    Locations an be indoors or outdoors.
-   
+
    The main office is indoors. "Its the center of cubicle land."
    Dave's office and Patrick's desk are next to the main office.
 
@@ -431,7 +431,7 @@
    ({name} can walk out.)
 
    (If {condition} then {name} is in the {location}.)
-   
+
    {name} : {speech}
    ({name} carries the {object}.)
 
@@ -510,7 +510,7 @@
     *percentages*
 
 ** Beliefs
-   it is important to be {quality} 
+   it is important to be {quality}
    *three states*:
    do, don't neutral.
 
@@ -523,7 +523,7 @@
 
    *** Activity - {Instruction} ("{Text}", {conditions})
    Narration : {Text}
-   
+
 *** Physical Activities
     Observe X, Observe X closely,
     Listen to X in the distance, Observe X at a distance,
@@ -541,8 +541,8 @@
     Chop up X, Set X on fire
 
     Dead, eliminated, drunk
-    
-    insane, socially outcast, unconscious, 
+
+    insane, socially outcast, unconscious,
     asleep, furious, sulking, weeping
 
     X may leave.
@@ -550,28 +550,27 @@
     X may have sex.
 
 ** Events
-   
+
    *** Event - {Action} ({condition}) ***
    ({consequences})
    Narration : {Text}
-   
-   
+
+
 *** Background events
     *** Event - {Name} (background, {details}, near {location}/in {location} only) ***
     ...
 
-    
+
 *** Choice events
     An event with a Choice.
     The choice can be another event:
-    
+
     *** Event - Letter arrives ***
     Choice (Letter accepted): ...
 
 
     *** Event - Letter accepted ***
     ...
-
 
 ** Sequels
    Annotate after title:
@@ -584,7 +583,6 @@
    Then as a condition:
    (if the token "{Something}" has been created)
 
-
 ** Imports / Includes
    Include Modern Furniture.
    import "core/modern_furniture.data"
@@ -594,14 +592,14 @@
 ** Pictures
 
    (Display "characters/jenkins/img/jenkins_goes_finishing.png".)
-   
+
 ** Objectives and achievements
    (The objective "{Text}" for {name} will be achieved when {condition})
 
    (This is the achievment "{Text}". "Text}")
 
-* Setup Notes
-** Compilation notes:
+** Setup Notes
+*** Compilation notes:
    Compiling on 64 bit: Versu.Luna.Build Makefile needs -arch set to x86_64
    Make sure to do clean builds of dylibs
    Command line build script should copy dylib into ./ not bin/Debug
@@ -613,7 +611,7 @@
 
    In Versu.CommmandLine.csproj:
    cp commands need to make sure they copy from Versu.Luna.Build, NOT
-   Versu.Luna.Build/ltpsim/, 
+   Versu.Luna.Build/ltpsim/,
    Possibly use a dll map:
    <Configuration Condition=" '$(Configuration)' == '' ">
    <dllmap dll="libltpsim.dynamic.dll" target="libltpsim.dynamic.dylib"/>
@@ -629,7 +627,7 @@
    Change the Simulator/Simulator.cs:
    ltpsim.dynamic -> ltpsim.dynamic.dylib
 
-** Prompter setup notes:
+*** Prompter setup notes:
 
 
    Make sure the relevant modules directories are added to PERL5LIB in bash:
@@ -643,15 +641,15 @@
    PPConfigurer::add_configuration_file($dirname);
 
 
-   
-** Prompter command line Switches
+
+*** Prompter command line Switches
    -index : print an index of characters, actions and topics
    -configure FILE
    -to FILE
    -verbose
 
-   
-** Prompter Config Files
+
+*** Prompter Config Files
    action: A (Pattern, Category)
    emotion : E
    genre : G
@@ -660,11 +658,12 @@
    topic : T
    VARIABLE = value
 
-** Praxis
-   Prompter converts to lower_case 
+*** Praxis
+   Prompter converts to lower_case
    Can specify names:
    (Praxis name: awkward_visit)
 
    Can insert raw praxis code:
    ++ constitutes_action.child_gambit_high
-   
+
+* Links

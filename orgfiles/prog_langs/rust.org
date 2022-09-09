@@ -1,4 +1,6 @@
-* Rust Notes
+#+title:  Rust
+* Overview
+* Main
 ** Hello world
    #+begin_src rust
      fn main(){
@@ -22,9 +24,10 @@
 
      [dependencies]
    #+end_src
-   
+
    Run with *cargo build*, *cargo run*
    With optimizations: *cargo build --release*
 
 
 
+* Links

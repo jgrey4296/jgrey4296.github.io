@@ -1,14 +1,11 @@
-* Chuck
+#+title:  Chuck
+* Overview
+* Main
 to connect to daw:
 chuck --dac=4 fileName
 
 ** Code
 [[file:~/programming/chuck/][Code Directory]]
-
-
-** Links
-http://chuck.cs.princeton.edu/doc/examples/
-http://chuck.cs.princeton.edu/doc/language/
 
 ** Inspection and Output:
 //Print statement:
@@ -19,9 +16,6 @@ http://chuck.cs.princeton.edu/doc/language/
 
 //Now:
 chuck --time
-
-** Good Style
-
 
 ** Usage
 
@@ -137,15 +131,11 @@ Utilizes a callback for buffering (default).
 **** --blocking
 Utilizes blocking for buffering. 
 
-
-** Imports
-
 ** Comments
 // comment
 /* comment */
 
 *** Whitespace and Statements
-
 
 ** Memory Management
 ChucK objects are reference counted and garbage collection takes place
@@ -170,13 +160,10 @@ Object, array, Event, UGen, string
     5 => the_array[0];
     <<< foo[0] >>>; // should be 5
 
-
-
 ** Scope
 Unless declared public, class definitions are scoped to the shred and
 will not conflict with identically named classes in other running
 shreds.
-
 
 ** Basic Data Types
 int, float, time, dur (5.5::second)
@@ -194,7 +181,6 @@ maybe, null, NULL, me, pi
 
 ***  Booleans
 true, false
-
 
 ** Operators:
 
@@ -248,10 +234,8 @@ These operators come before one operand:
     // negative
     -1 => int foo;
 
-
 ** Variables
 <type> name<array>; 
-
 
 ** Data Structures
 
@@ -431,7 +415,6 @@ but not fully implemented. Everything is public by default.
 
 **** Constructors
 
-
 ** Control Structures
 if(condition){ }else{ }
 while(true) {}
@@ -441,7 +424,6 @@ do {} until(false);
 for( 0 => int foo; foo < 4; foo++){ }
 
 //repeat, break, continue, return
-
 
 ** Functions
 function, fun, spork, const, new, me
@@ -500,7 +482,6 @@ Similarly, you can remove shreds from the virtual machine.
 
     // replace shred with "bar.ck"
     Machine.replace( id, "bar.ck" );
-
 
 ** Events:
 Events
@@ -702,9 +683,6 @@ while( true )
 }
 
 ** Examples
-
-
-
 ** Language Specific Concepts:
 
 *** duration
@@ -809,7 +787,6 @@ advancing time by absolute time
 
     // advance time to later
     later => now;
-
 
 ** Ugens
 dac, adc, blackhole
@@ -1397,11 +1374,9 @@ many basic transform functions (FFT, IFFT) and feature extraction
 methods (both spectral and time-domain features). A list of built-in
 ChucK unit analyzers can be found here.
 
-
-
 ** Reserved Words:
 
-***    (primitive types)
+*** (primitive types)
         int
         float
         time
@@ -1409,7 +1384,7 @@ ChucK unit analyzers can be found here.
         void
         same (unimplemented) 
 
-***    (control structures)
+*** (control structures)
         if
         else
         while
@@ -1421,7 +1396,7 @@ ChucK unit analyzers can be found here.
         return
         switch (unimplemented) 
 
-***    (class keywords)
+*** (class keywords)
         class
         extends
         public
@@ -1434,14 +1409,14 @@ ChucK unit analyzers can be found here.
         protected (unimplemented)
         private (unimplemented) 
 
-***    (other chuck keywords)
+*** (other chuck keywords)
         function
         fun
         spork
         const
         new 
 
-***    (special values)
+*** (special values)
         now
         true
         false
@@ -1451,7 +1426,7 @@ ChucK unit analyzers can be found here.
         me
         pi 
 
-***    (special : default durations)
+*** (special : default durations)
         samp
         ms
         second
@@ -1460,9 +1435,11 @@ ChucK unit analyzers can be found here.
         day
         week 
 
-***    (special : global ugens)
+*** (special : global ugens)
         dac
         adc
         blackhole 
 
- 
+* Links
+http://chuck.cs.princeton.edu/doc/examples/
+http://chuck.cs.princeton.edu/doc/language/

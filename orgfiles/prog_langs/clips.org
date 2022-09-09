@@ -1,8 +1,11 @@
 #+TITLE: CLIPS Notes
-* Command line
+* Overview
+* Main
+** Command line
 Version 6.30 on sourceforge has a command line executable
 Versions 6.40+ do not.
-* Commands
+
+** Commands
 #+NAME: Clips Commands
 #+begin_src elisp :results value
 (assert (duck)) ;; Assert facts
@@ -26,7 +29,7 @@ Versions 6.40+ do not.
 (watch facts) (unwatch facts) ;; Print fact changes / turn off
 (exit) ;; Quit CLIPS
 #+end_src
-** Watch Targets
+*** Watch Targets
 facts
 instances
 slots
@@ -42,7 +45,7 @@ statistics
 globals
 focus
 all
-** Rule definition
+*** Rule definition
 #+NAME: Rule Definition
 #+begin_src elisp :results value
 (defrule rule-name
@@ -57,3 +60,5 @@ all
 #+begin_src elisp :results value
 (printout t "test" crlf) ;; Print to standard output ('t'), with line feed
 #+end_src
+
+* Links

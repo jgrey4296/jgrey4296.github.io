@@ -1,14 +1,18 @@
-* NetLogo Tutorial Notes
-** Interface Elements
+#+title: Netlogo
+
+* Overview
+* Main
+** NetLogo Tutorial Notes
+*** Interface Elements
    Buttons (blue): setup and start/stop model
    Sliders / Switches (green): alter model settings
    Monitors and plots (beige): display data
-** Components
+*** Components
    Patches : the world grid
    Turtles : The agents
    Links   : Connect two turtles
    Observer: Sees all, can effect all
-** Variables
+*** Variables
    globals [var1 var2]
    turtles-own [var1 var2]
    patches-own [var1 var2]
@@ -23,22 +27,22 @@
    ;;local variables use 'let':
    let lname [varname] of agent
 
-** Procedures
+*** Procedures
 Start with 'to', finish with 'end'.
 
 to something [var1 var2]
-	let something 
+	let something
 end
 
-** Creating agents
+*** Creating agents
    hatch ;;from an existing turtle
    sprout ;;from an existing patch
-   
-** Asking
+
+*** Asking
    ;; ask gives commands to all agents of a group
    ask turtles [ set color red ]
 
-** Agentset
+*** Agentset
    ;;excluding current agent:
    other turtles
    other turtles-here
@@ -49,19 +53,19 @@ end
    ;;nearby:
    turtles in-radius 3
    neighbors 4
-   
-*** Commands on agentsets
+
+**** Commands on agentsets
     ask
     any? ;; is empty?
     all? ;; check for all satisfying a condition
     count
     one-of ;; randomly pick
-    
-** Breeds
+
+*** Breeds
    ;;Simple agent type system
    ;; define agentset and individual
    breed [wolves wolf]
-   breed [sheep a-sheep] 
+   breed [sheep a-sheep]
 
    create-<breed>
    hatch-<breed>
@@ -74,10 +78,10 @@ end
    ;;define vars of a breed:
    <breed>-own
 
-** Links
+*** Links
 
 
-** Examples
+*** Examples
    ;;Map over all patches and turn them green
    foreach [list pxcor pycor ] of patches [ [coords] -> ask (patch (item 0 coords) (item 1 coords)) [ set pcolor green ] ]
 
@@ -89,7 +93,7 @@ end
 
    ask turtles [ foreach [self] of other turtles in-radius 10 [ [x]-> create-link-with x ] ]
 
-** Shapes
+*** Shapes
    default
    airplane
    arrow
@@ -129,17 +133,16 @@ end
    wolf
    x
 
+** Models
 
-* Models
-
-** Simple Norms
+*** Simple Norms
    Create N Groups of M Agents, distributed randomly.
 
    Each Agent has variables { Shape, Colour (RGB), distance to group centre }
 
    Model Norms of Colour and distance
 
-   Variants: 
+   Variants:
    Group based norm calculation,
    Distance based norms
    Distance-less based norms
@@ -148,32 +151,32 @@ end
    Norms as averaged values of applicable agents.
 
 
-** newsim
+*** newsim
    Modelling Bicchieri's account of littering
-   
-   
 
 
-** Aids
 
-*** Recorders
+
+*** Aids
+
+**** Recorders
 %infected
 populations - negative, positive, unknown
 
-*** Controls
+**** Controls
 initial-people
 average-coupling-tendency
 average-commitment
 average-condom-use
 average-test-frequency
 
-*** Data
+**** Data
 
-**** Globals
+***** Globals
 infection-chance   : x/100 of sex -> infection
 symptoms-show      : number of ticks before symtoms show
 
-**** Turtles
+***** Turtles
 :: turtle infection state
 infected?
 known?
@@ -189,7 +192,7 @@ test-frequency
 partner
 lefty/righty
 
-*** Processes
+**** Processes
 
 :: go
 if necessary, stop
@@ -203,3 +206,5 @@ test
 update-colourx
 
 
+
+* Links

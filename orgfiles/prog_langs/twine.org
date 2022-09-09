@@ -1,6 +1,6 @@
-* Twine notes
-[[https://twine2.neocities.org/2.html][Twine Reference]]
-
+#+title:  Twine notes
+* Overview
+* Main
 ** Basic syntax
    Links are of the form (\ to escape org mode, not twine)
    \[\[Description -> segmentName\]\]
@@ -18,13 +18,13 @@
 
    Can assign macros to variables:
    (set $aMacro to (font: "Skia"))
-   
+
 ** Variables
    $aVar
-   
+
    (num:) - make a number, eg: (if: (num: "5") > 2)
-   (a:)   - make an array, eg: (a: 2,3,4), 
-   
+   (a:)   - make an array, eg: (a: 2,3,4),
+
    (set: $aVar to 5)
    (set: $aVar to 5, $anotherVar to "bob")
 
@@ -35,8 +35,7 @@
 
 ** Strings
    String concat works with +
-   
-   
+
 ** Hooks
    [ This is a hook. ]. Essentially a *text closure*
 
@@ -49,11 +48,10 @@
 
    Remotely refer to and alter named hooks:
    (click:) eg: (click ?opener)[ aweg ]
-   (replace:) 
-   
+   (replace:)
 
-** Conditionals 
-   
+** Conditionals
+
    (if: $x is 2)[ Print this. ]
    (else:) [ Blahhh ]
 
@@ -74,7 +72,6 @@
    (shuffled:)
    (sorted:)
    (subarray:)
-
 
 ** Formatting:
    Bullet lists using *'s to mark the level of indenting
@@ -99,4 +96,7 @@
    }
 
    Force a line break\
+
+* Links
+[[https://twine2.neocities.org/2.html][Twine Reference]]
 

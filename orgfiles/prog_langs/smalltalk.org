@@ -1,7 +1,6 @@
-* SmallTalk
-** Links:
-   https://www.gnu.org/software/smalltalk/manual/html_node/Tutorial.html#Tutorial
-
+#+title:  SmallTalk
+* Overview
+* Main
 ** Syntax
 
 *** Allowable characters:
@@ -129,7 +128,6 @@
 
    #+end_src
 
-
 ** Arithmetic expressions:
    #+NAME:
    #+begin_src  :results value
@@ -189,7 +187,6 @@
 
    #+end_src
 
-
 ** Bitwise Manipulation:
    #+NAME:
    #+begin_src  :results value
@@ -209,7 +206,6 @@
 
 
 
-
 ** Conversion:
    #+NAME:
    #+begin_src  :results value
@@ -226,7 +222,6 @@
    x := 15 storeStringBase: 16.
 
    #+end_src
-
 
 
 ** Blocks:
@@ -439,7 +434,8 @@
    y := x asSet.                                               "convert to set collection"
    #+end_src
 
-** OrderedCollection: acts like an expandable array
+** OrderedCollection:
+acts like an expandable array
    #+begin_src smalltalk :results value
    | b x y sum max |
    x := OrderedCollection with: 4 with: 3 with: 2 with: 1.     "create collection with up to 4 elements"
@@ -631,7 +627,6 @@
    y := x value.
    #+end_src
 
-
 ** Dictionary:
    IdentityDictionary:   uses identity test (== rather than =)
    #+begin_src smalltalk :results value
@@ -697,7 +692,6 @@
    Smalltalk removeKey: #CMRDictionary ifAbsent: [].           "remove user dictionary from Smalltalk dictionary"
    #+end_src
 
-
 ** Internal Stream:
    #+begin_src smalltalk :results value
    | b x ios |
@@ -728,7 +722,6 @@
    b := ios atEnd.
    #+end_src
 
-
 ** FileStream:
    #+begin_src smalltalk :results value
    | b x ios |
@@ -749,7 +742,6 @@
    b := ios atEnd.
    ios close.
    #+end_src
-
 
 ** Date:
    #+begin_src smalltalk :results value
@@ -785,7 +777,6 @@
    b := (x <= Date today).                                     "comparison"
    #+end_src
 
-
 ** Time:
    #+begin_src smalltalk :results value
    | x y |
@@ -805,7 +796,6 @@
    1 to: 1000 do: [:index | y := 3.14 * index]].
    b := (x <= Time now).                                       "comparison"
    #+end_src
-
 
 ** Point:
    #+begin_src smalltalk :results value
@@ -831,7 +821,6 @@
    x := 200@100 min: 50@200.                                   "min x and y"
    x := 20@5 dotProduct: 10@2.                                 "sum of product (x1*x2 + y1*y2)"
    #+end_src
-
 
 ** Rectangle:
    #+begin_src smalltalk :results value
@@ -902,7 +891,6 @@
    sentTo: receiver.
    #+end_src
 
-
 ** class/meta-class:
    #+begin_src smalltalk :results value
    | b x |
@@ -936,7 +924,6 @@
    Object withAllSubclasses size.                              "get total number of class entries"
    #+end_src
 
-
 ** debugging:
    #+begin_src smalltalk :results value
    | a b x |
@@ -960,7 +947,6 @@
    Transcript show: a, b; cr.
    #+end_src
 
-
 ** Misc.
    #+begin_src smalltalk :results value
    | x |
@@ -968,3 +954,6 @@
    x := FillInTheBlank request: 'Prompt Me'.                   "prompt user for input"
    Utilities openCommandKeyHelp
    #+end_src
+* Links
+https://www.gnu.org/software/smalltalk/manual/html_node/Tutorial.html#Tutorial
+

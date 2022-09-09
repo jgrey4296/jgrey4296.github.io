@@ -1,3 +1,6 @@
+#+title: C++
+* Overview
+* Main
 #include "" is for local user defined headers
 #include <> is for system/sdl headers
 
@@ -10,3 +13,4 @@ To specify the actual library name, you use -l:
 To specify a directory to search for include files (different from libraries!) you use -I:
 -I/data[...]/lib
 
+* Links

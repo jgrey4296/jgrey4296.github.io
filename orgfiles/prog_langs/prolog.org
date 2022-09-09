@@ -1,8 +1,9 @@
-* Prolog Notes
-  #+STARTUP: hideblocks content
-  [[http://www.swi-prolog.org/][Swipl]] [[http://www.swi-prolog.org/pldoc/doc_for?object=manual][Swipl Manual]] [[http://lpn.swi-prolog.org/lpnpage.php?pagetype=html&pageid=lpn-html][Learn Prolog]]
-  [[http://www.cs.oswego.edu/~odendahl/coursework/notes/prolog/synopsis/con.html][Synopsis]]
-  TERMINAL: use "swipl -tty" in emacs
+#+title:  Prolog Notes
+
+* Overview
+* Main
+** TERMINAL:
+use "swipl -tty" in emacs
 ** Basic Patterns
 *** Accumulator
 **** +NAME: accumulator
@@ -483,3 +484,6 @@ main :- k(X), format("Result: ~a", X).
 
    #+RESULTS: test
    : test mia
+* Links
+[[http://www.swi-prolog.org/][Swipl]] [[http://www.swi-prolog.org/pldoc/doc_for?object=manual][Swipl Manual]] [[http://lpn.swi-prolog.org/lpnpage.php?pagetype=html&pageid=lpn-html][Learn Prolog]]
+[[http://www.cs.oswego.edu/~odendahl/coursework/notes/prolog/synopsis/con.html][Synopsis]]

@@ -1,15 +1,14 @@
+#+title: Grunt
+
+* Overview
+* Main
 To set up an npm package.json:
 npm init
 
 To install and add to dependency list:
 npm install <package> --save-dev
 
-
-
-Grunt:
-http://adrianmejia.com/blog/2014/10/07/grunt-js-tutorial-from-beginner-to-ninja/
-http://gruntjs.com/sample-gruntfile
-To add a task: 
+** General Use
 grunt.registerTask(name,description,function);
 
 If the function has parameters, they are passed in as part of the cla's.
@@ -34,9 +33,7 @@ Task internal Methods:
 this.requires([taksNames]);
 this.name() -> name of the task;
 this.args();
-
------ Plugins:
-
+** Plugins:
 to install a plugin:
 npm install grunt-contrib-**** --save-dev
 
@@ -51,4 +48,6 @@ clean
 concat
 connect
 concurrent
-
+* Links
+http://adrianmejia.com/blog/2014/10/07/grunt-js-tutorial-from-beginner-to-ninja/
+http://gruntjs.com/sample-gruntfile

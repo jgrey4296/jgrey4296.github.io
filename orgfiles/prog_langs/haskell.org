@@ -1,5 +1,6 @@
-* Haskell Notes
-  [[http://book.realworldhaskell.org/][Real World Haskell]]
+#+title:  Haskell Notes
+* Overview
+* Main
 ** CLI programs
    1) ghc    -   compiles programs
    2) runghc -   allows running of hs programs without compiling
@@ -22,7 +23,7 @@
 
    Target Set is locally available modules
    load sets to *just those modules*.
-   
+
    Eval Context is what is in scope.
 
 
@@ -30,7 +31,7 @@
     :module + Data.Ratio
     :info x
     :set +t --->  makes ghci print type information automatically
-    
+
     :browse[!] [[*]<mod>]       display the names defined by module <mod>
     (!: more details; *: all top-level names)
     :help, :?                   display this list of commands
@@ -38,7 +39,7 @@
     (!: do not filter instances)
     :kind[!] <type>             show the kind of <type>
     :module [+/-] [*]<mod> ...  set the context for expression evaluation
-    
+
     :show bindings              show the current bindings made at the prompt
     :show breaks                show the active breakpoints
     :show context               show the breakpoint context
@@ -53,34 +54,33 @@
     :showi language             show language flags for interactive evaluation
 
     Use ghc-paths: docdir, ghc, ghc_pkg, libdir
-    
+
 
 
 *** Gotchas
-    
+
 **** Let in Ghci Do block
      Needs to be wrapped in parens:
 #+begin_src haskell
   do { let { x = 5; y = 10 }; print $ x + y }
 #+end_src
 
-
 ** language
 *** Pragmas
     {-# LANGUAGE TypeSynonymInstances, OverlappingInstances, FlexibleInstances, GeneralizedNewtypeDeriving #-}
     type synonyms allows useful for typeclass instances for Strings (as strings are [Char],
     which are [a] )
-    overlapping instances allows for the most specific instance functions of typeclasses 
+    overlapping instances allows for the most specific instance functions of typeclasses
     FlexibleInstances goes beyond haskell98 typechecking, allowing eg: Functors on Either Int b
     gen newtype deriving to allow derivations of Monads
-    
+
     possible *MultiParamTypeClasses*
 
 *** Monads
     >>= , >>, return
     do notation: do { x <- func; return $ x + 2 }
-    
-    data that are instances of Monad are typically instances of Functor. 
+
+    data that are instances of Monad are typically instances of Functor.
     So instances need to implement >>, >>=, return, fail?, and fmap
 
 *** STATE MONAD
@@ -88,25 +88,25 @@
       import Control.Monad.State
       --Construct an initial state constructor:
       let initialState = state $ \x -> (0,x)
-    
+
       -- create a modifying function of the state:
       let stateMod oldValue = state $ \oldState-> (oldValue+1,oldState-1)
       let stateMod2 oldValue = state $ \oldState -> (oldValue-1,oldState+1)
-    
+
       -- or do syntax:
       let stateMod3 = \val -> do { state <- get; put (state-1); return (val+1) }
-    
+
       --run a sequence of actions on the state, starting with an initial value:
       let result = runState (initialState >>= stateMod >>= stateMod) 10
-    
+
       --can also do: (for lists/strings)
       let strMod v = do { st <- get; let (h:tl) = st in do put tl; return h; }
-    
+
       the value is passed in explicitly, while the state container is passed
       implicitly, to be modified with 'get' and 'put'
-    
-    
-      -- State >>= 
+
+
+      -- State >>=
       theMonad >>=  theFunction = \s -> (theFunction value) s'
 	  where (value,s') = theMonad s
 #+end_src
@@ -132,7 +132,7 @@
   let abs xs ys = [(x,y) | (x,y) <- zip xs ys, x+y < 60, x+y > 20]
 #+end_src
 
-*** Record Syntax 
+*** Record Syntax
 can copy and modify a record datatype:
 #+begin_src haskell
 data Test = Test { theInt :: Int, theString :: String }
@@ -149,7 +149,7 @@ see state monad for use case
 specify fixity type and priority thus:
 (+) :: a -> a -> a
 infixl 5 +
-or 
+or
 infixr 5 +
 *** Regex
 import Text.Regex.Posix
@@ -168,7 +168,7 @@ TODO: find a regex library that has meta characters
 import System.FilePath
 concat filepaths using </>
 
-*** qualified imports 
+*** qualified imports
 #+begin_src haskell
 import qualified Data.ByteString.Lazy as L
 import Mod -- imports everything, qualified and unqualified
@@ -200,7 +200,7 @@ foldl' --prefer foldl' to foldl due to thunk space issues
 
 
 *** Modules
-module *name* 
+module *name*
 (
    exportedValues
    , ExportedType(...) --adds constructors
@@ -243,7 +243,7 @@ let myFunc = \x -> case x of Something a b -> a + b
 *** Pattern Guards
 #+begin_src haskell
     guardTest :: Int -> Int
-    guardTest x 
+    guardTest x
 	  | x < 5 = 10
 	  | x > 5 = 5
 	  | otherwise = 0
@@ -271,7 +271,7 @@ let myFunc = \x -> case x of Something a b -> a + b
 
 
 *** Modules
-    Data.Map 
+    Data.Map
     Data.Text -- More efficient than string
     Data.Maybe -- has isJust, isNothing...
     Control.Monad (forM, liftM)
@@ -290,7 +290,7 @@ let myFunc = \x -> case x of Something a b -> a + b
 
 *** newtype wrapping
     Use a newtype to do similar to runReader, runWriter etc:
-    
+
     newtype MyApp a = MyA {
     runA :: ReaderT [Int] (WriterT [String] IO) Int
     } deriving (Monad, MonadIO) ...
@@ -325,9 +325,9 @@ let myFunc = \x -> case x of Something a b -> a + b
      a <- get
      b <- lift get
      return (a,b)
-    
+
      go3 = runIdentity $ evalStateT (evalStateT test3 0) "0"
-#+end_src    
+#+end_src
 
 **** State with IO
 #+begin_src haskell
@@ -340,13 +340,13 @@ let myFunc = \x -> case x of Something a b -> a + b
      let b = 10
      lift (print b)
      return $ a + b
-    
+
      go4 = evalStateT test4 "0"
 #+end_src
 **** State with data
 #+begin_src haskell
      data TestState = TestState { num :: Int, name :: String }
-    
+
      test5 :: StateT TestState IO (String, Int)
      test5 = do
      theState <- get;
@@ -357,7 +357,7 @@ let myFunc = \x -> case x of Something a b -> a + b
      put $ upState { num = 1 + num upState }
      finalState <- get
      return (name finalState, num finalState)
-    
+
      go5 = evalStateT test5 $ TestState 5 "awef"
 #+end_src
 **** Reader Monad
@@ -369,7 +369,7 @@ let myFunc = \x -> case x of Something a b -> a + b
      x <- lift $ ask
      put $ val + x
      return $ x + y
-     
+
      test7 :: ReaderT Int (StateT Int IO) Int
      test7 = do
      val <- ask
@@ -380,10 +380,10 @@ let myFunc = \x -> case x of Something a b -> a + b
      newVal <- lift get
      liftIO $ print newVal
      return newVal
-     
+
      go7 = evalStateT (runReaderT test7 10) 2
-     
-     
+
+
      test8 :: ReaderT [Int] (StateT Int IO) Int
      test8 = do
      otherVal <- test9
@@ -394,11 +394,11 @@ let myFunc = \x -> case x of Something a b -> a + b
      upVal <- lift $ get
      liftIO $ print upVal
      return $ upVal
-     
+
      test9 = do
      val <- ask
      return $ val !! 3
-     
+
      go8 = evalStateT (runReaderT test8 [1,2,3,4]) 2
 #+end_src
 **** Writer Monad
@@ -416,7 +416,7 @@ let myFunc = \x -> case x of Something a b -> a + b
      return "final"
 
      go10 = runWriterT (runReaderT test10 [1,2,3,4])
-     
+
      go11 = do
      result <- go10
      print $ snd result
@@ -473,13 +473,13 @@ shuffle xs gen = runST action
           gen' <- readSTRef g
           return (xs', gen')
 
-                            
+
 aShuffle = do
   gen <- newStdGen
   let xs = [1,2,3,4,5,6]
   let (ys, gen') = shuffle xs x
   print ys
-#+end_src 
+#+end_src
 
 *** File IO
 #+begin_src haskell
@@ -507,7 +507,7 @@ aShuffle = do
 *** Applicative
     Used with Maybe:
     #+begin_src haskell :results output
-      Just (+3) <*> Just 9 -- unwrap and combine 
+      Just (+3) <*> Just 9 -- unwrap and combine
       Just (+3) *> Just 9  -- unwrap and discard left
       Just 7 <* Just 8     -- unwrap and discard right
       (+3) <$> Just 9      -- unwrap right, combine
@@ -522,11 +522,10 @@ aShuffle = do
 
 
 
-
 ** Parsec Notes
    parsers as variables requires the flag -XFlexibleContexts
    use Text.Parsec, Text.Parsec.String, Text.Parsec.Char
-   Text.Parsec.Char and Text.Parsec.String simplify types   
+   Text.Parsec.Char and Text.Parsec.String simplify types
 
    *Simplest Parser*:
    #+begin_src haskell :results value
@@ -544,7 +543,7 @@ aShuffle = do
     words = many1 word <* spaces
     num = do { a <- many digit <* spaces; return $ (read a :: Int) }
 
-   Alternatives: 
+   Alternatives:
    let dogOrCat = (string "dog") <|> (string "cat")
 
    <|> consumes input without backtracking, so
@@ -558,19 +557,19 @@ aShuffle = do
 *** Other notes
     Satisfy performs tests of chars to accept
     satisfy :: (Char -> Bool) -> Parser Char
-   
+
     Standard Parsers:
     anyChar, space, newline, tab,
     upper, lower, alphaNum, letter, digit, hexDigit, octDigit
     string
 
     oneOf, noneOf, many, skipMany
-   
+
     to convert to numbers:
-    read "1234" :: Integer 
+    read "1234" :: Integer
 
     to ignore a parse:
-    void $ parser  
+    void $ parser
 
     ignore the second parser:
     x <- p <* whitespace
@@ -594,10 +593,9 @@ aShuffle = do
  #+end_src
 
 
-
 ** Profiling
    Three step process:
-   1) compile with -prof-auto option. 
+   1) compile with -prof-auto option.
       1a) possibly reinstall packages with profiling support. (install -p package --reinstall)
    2) run with '+RTS -p -RTS' flags (-p -P -pa -V -xc, for time; -h for heap)
 
@@ -605,7 +603,7 @@ aShuffle = do
    Control.Lens
    Allows for improved access to records.
    Typically creates the getters and setters using template haskell
-   
+
    #+begin_src haskell
      import Control.Lens
 
@@ -654,7 +652,6 @@ aShuffle = do
      -- theTest a == [3, 4, 5]
    #+end_src
 
-
 ** Continuation monad
    #+begin_src haskell
      import Control.Monad.Cont
@@ -674,7 +671,7 @@ aShuffle = do
 
 ** Timing
    in ghci, for timing info:
-   :set +s 
+   :set +s
 
 ** Debugging
    :abandon                    at a breakpoint, abandon current computation
@@ -698,3 +695,5 @@ aShuffle = do
    :stepmodule                 single-step restricted to the current module
    :trace                      trace after stopping at a breakpoint
    :trace <expr>               evaluate <expr> with tracing on (see :history)
+* Links
+[[http://book.realworldhaskell.org/][Real World Haskell]]

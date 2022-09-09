@@ -1,7 +1,7 @@
-* Coq Notes
-[[https://softwarefoundations.cis.upenn.edu/][Software Foundations]]
-[[https://coq.inria.fr/refman/proof-engine/tactics.html][Coq Manual]]
+#+title:  Coq Notes
 
+* Overview
+* Main
 ** Usage
 Use Proof-General
 Setup coq projects with _CoqProject file
@@ -82,7 +82,6 @@ Inductive nat : Type :=
 | S (n : nat).
 #+end_src
 
-
 *** Function Definition
 **** +NAME: Function Definition
 #+begin_src coq :results value
@@ -137,9 +136,6 @@ Notation "x && y" := (andb x y).
 Example test_notation: false && true = false.
 Proof. simpl. reflexivity. Qed.
 #+end_src
-
-    
-
 
 
 
@@ -595,5 +591,8 @@ Proof. intros n. induction n.
 Qed.
    #+end_src
 
-
 ** Sandbox
+* Links
+[[https://softwarefoundations.cis.upenn.edu/][Software Foundations]]
+[[https://coq.inria.fr/refman/proof-engine/tactics.html][Coq Manual]]
+

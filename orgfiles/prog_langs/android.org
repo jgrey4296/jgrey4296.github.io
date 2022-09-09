@@ -1,7 +1,6 @@
-* Android design notes
-https://developer.android.com/docs/
-https://developer.android.com/studio/build
-
+#+title: Android
+* Overview
+* Main
 ** Bibtext Tag Reader
 
 :Use:
@@ -31,7 +30,6 @@ ACTION_OPEN_DOCUMENT
 :END:
 
 ** Building
-
 *** Gradle
 use `gradlew` in project directory,
 especially `./gradlew tasks`
@@ -49,3 +47,7 @@ Can start a remote shell with:
 #+begin_src bash :results value
 adb shell
 #+end_src
+
+* Links
+https://developer.android.com/docs/
+https://developer.android.com/studio/build

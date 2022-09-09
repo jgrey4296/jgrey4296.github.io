@@ -1,6 +1,6 @@
-* Sqlite 3 (Mainly in Python) Notes
-  [[https://www.tutorialspoint.com/sqlite/][Reference]]
-  [[https://orgmode.org/worg/org-contrib/babel/languages/ob-doc-sqlite.html][ob-sqlite]]
+#+title:  Sqlite 3
+* Overview
+* Main
 ** Sqlite Syntax
    SQLite is *case insensitive* apart from GLOB and glob.
    Statement end is ';'
@@ -106,7 +106,6 @@
 
 *** JOINS
 ** Python wrapper
-
 ** Best Practices
 ** Org-Babel header args:
 
@@ -148,3 +147,6 @@
 
    #+RESULTS: test2
    | CREATE TABLE test (id int primary key not null | name text not null); |
+* Links
+[[https://www.tutorialspoint.com/sqlite/][Reference]]
+[[https://orgmode.org/worg/org-contrib/babel/languages/ob-doc-sqlite.html][ob-sqlite]]
