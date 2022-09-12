@@ -3,6 +3,9 @@
 * Overview
 
 * Main
+** ADB
+Tablet will periodically de-authorize adb,
+so re-pair with `adb pair`
 ** GPG Notes (v 2.2.11)
 *** *Short IDs*: Last 8 digits of fingerprint
 *** Basic Protocol
