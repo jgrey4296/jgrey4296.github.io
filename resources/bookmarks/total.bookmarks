@@ -3512,6 +3512,7 @@ http://www.damtp.cam.ac.uk/user/sje30/ess11/resources/emacs-refcard.pdf : emacs 
 http://www.dangermouse.net/esoteric/piet/samples.html : brainfuck : esoteric : programming_language
 http://www.danylkoweb.com/Blog/20-20-top-20-programming-lessons-ive-learned-in-20-years-FH : blog : education : programming : software_development
 http://www.darklegacycomics.com/196.html : MMO : comic : humour : quest : social_system
+http://www.darklyrics.com/lyrics/nineinchnails/thefragile.html#1 : NIN : lyrics : music : the_fragile
 http://www.darkshire.net/~jhkim/rpg/theory/ : RPG : game_design : game_mechanics : quest
 http://www.darpa.mil/our-research : DARPA : data_analysis : data_sets : research
 http://www.darwinawards.com/ : humour
@@ -6657,6 +6658,7 @@ https://devblogs.microsoft.com/oldnewthing/20190924-00/?p=102915 : floppy_disks 
 https://devblogs.microsoft.com/visualstudio/refactoring-made-easy-with-intellicode/ : best_practices : intellicode : microsoft : programming : refactoring
 https://devdocs.io/ : api : devdocs : documentation : javascript : library : python
 https://developer.android.com/ : android : software_development
+https://developer.android.com/studio/command-line/adb : adb : android
 https://developer.android.com/studio/workflow : android : software_engineering : workflow
 https://developer.android.com/training/basics/firstapp/creating-project.html : android
 https://developer.android.com/training/index.html : android
@@ -8042,6 +8044,7 @@ https://hackernoon.com/typeclass-instance-selection-fea1068920e6 : haskell : typ
 https://hackernoon.com/what-should-be-in-a-coders-toolbox-96674fc8fb74 : programming : recommendation : toolbox
 https://hacks.mozilla.org/2015/09/lets_write_a_webextension/ : bookmarks : extension : firefox : reference : software_development : tutorial
 https://haduonght.wordpress.com/2015/02/21/install-caffe-on-mac-os-x-10-10/ : OSX : blog : cuda : libraries : python : tutorial
+https://halisavakis.com/category/shaderquest/ : graphics : harry_alisavakis : programming : shader_quest : shaders
 https://halite.io/ : ai : game : programming_practice
 https://hansard.parliament.uk/  : UK : archive : hansard : parliament
 https://hardmath123.github.io/earley.html : parser
@@ -8504,6 +8507,8 @@ https://lareviewofbooks.org/article/the-blathering-superego-at-the-end-of-histor
 https://lareviewofbooks.org/article/thieves-of-experience-how-google-and-facebook-corrupted-capitalism/ : LA_review_of_books : book : capitalism : review : silicon_valley : technology
 https://lareviewofbooks.org/article/we-can-do-better-on-richard-rortys-pragmatism-as-anti-authoritarianism/ : la_review_of_books : la_review_of_books:richard_rorty:pragmatism : pragmatism : richard_rorty
 https://lasteventphoto.wordpress.com/ : architecture : art : farming : industrial : last_event : photography : piero_annoni
+https://latex-programming.fandom.com/wiki/Tabular_(LaTeX_environment) : latex : programming : wiki
+https://latex-tutorial.com/ : latex
 https://latex2e.org/ : latex : technical
 https://latexref.xyz/index.html#SEC_Contents : bibtex
 https://lauramcinerney.com/2017/06/25/journalists-dont-need-to-self-flagellate-about-corbyn-but-they-should-about-grenfell/ : grenfell : jeremy_corbyn : journalism : politics
@@ -9717,6 +9722,7 @@ https://teorth.github.io/QED/ : education : github : learning : logic : proof : 
 https://teropa.info/loop/ : explorable : generative : music : presentation : procedural_content
 https://terpconnect.umd.edu/~toh/spectrum/ : math : signal_processing : tutorial
 https://testdriven.io/part-one-docker-config/ : docker : software_development
+https://texample.net/tikz/examples/all/ : example : latex
 https://text.npr.org/s.php?sId=785672201 : GOP : NPR : gerrymandering : hansi_lo_wang : hofeller_files : journalism : npr : stephanie_hofeller
 https://theantlrguy.atlassian.net/wiki/display/ANTLR4/JavaScript+Target : antlr
 https://theappeal.org/black-mississippians-say-sheriffs-office-terrorize-the-community-like-a-gang-would/ : aaron_morrison : abuse_of_power : madison_county : mississippi : police : police_violence : racism : the_appeal : white_supremacy
@@ -9869,6 +9875,7 @@ https://thundercluck-blog.tumblr.com/post/178905711962/tutortuesdaycollection : 
 https://tidalcycles.org/ : haskell : music : patterns : tidal
 https://tidalcycles.org/functions.html : haskell : tidal
 https://tidymodels.github.io/tidyposterior/ : analysis : bayes : github : statistics : tidy_models
+https://tikz.dev/ : latex : tikz
 https://tim.blog/2020/02/02/reasons-to-not-become-famous/ : blog : fame : tim_ferris
 https://time.com/5624551/remain-mexico-asylum-doctors-borders/# : ICE : asylum : immigration : madeleine_joung : mexico : nuevo_laredo : time : trump
 https://time.com/5669816/beard-history/# : beard : facial_hair : history : style : time
@@ -10949,6 +10956,7 @@ https://www.haskell.org/documentation : documentation : haskell
 https://www.haskell.org/haddock/doc/html/index.html : haddock : haskell
 https://www.hastac.org/blogs/danicasavonick/2018/10/13/collaborative-close-reading : education : groups : hastac : paper : reading : study
 https://www.haujournal.org/index.php/hau/article/view/hau2.2.007/1013 : bureaucracy : ethnography : politics : social_system
+https://www.health.ny.gov/community/adults/women/task_force_maternal_mortality/ : healthcare : maternal_morality : new_york_state : report : task_force
 https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2018.05012 : consumption : health_affairs : health_care : patients
 https://www.heddels.com/2014/06/overview-guide-leather-grades/ : leather
 https://www.highlevelcomic.com/features : comic : high_level : rob_sheridan
@@ -12112,6 +12120,7 @@ https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/ : div
 https://www.scientificamerican.com/article/more-guns-do-not-stop-more-crimes-evidence-shows/ : crime : gun_violence : scientific_american : statistics
 https://www.scientificamerican.com/article/tetris-dreams/ : dreaming : neuro_science : tetris
 https://www.scipy.org/ : libraries : python : scipy : statistics
+https://www.scotusblog.com/ : USA : scotusblog : supreme_court
 https://www.scpr.org/news/2016/05/02/60085/hundreds-of-la-bus-shelters-go-unbuilt-millions-in/ : LA : SCPR : bus_shelters : graft : shade : urban_design
 https://www.seas.upenn.edu/~cis194/spring13/lectures.html : functional_programming : tutorial
 https://www.securityconference.de/en/publications/munich-security-report/ : foreign_policy : germany : international_security : munich : security
