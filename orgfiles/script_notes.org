@@ -3,6 +3,21 @@
 * Overview
 
 * Main
+** Emacs Straight Recipes
+https://github.com/radian-software/straight.el#the-recipe-format
+
+#+begin_src elisp
+;; Disable Byte Compilation
+(package! a-package :recipe (:build (:not compile)))
+;; Or disable byte compilation with
+;; -*- no-byte-compile: t; -*-
+
+;; Specify a local repo
+(package! a-package :recipe (:local-repo "~/.doom.d/packages/a-package"))
+
+
+#+end_src
+
 ** ADB
 Tablet will periodically de-authorize adb,
 so re-pair with `adb pair`
