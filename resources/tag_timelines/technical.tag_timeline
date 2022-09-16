@@ -1,6 +1,8 @@
 1996 stevens96_tcp_illus_volum_10
 1999 copeland99_gnu_privac_handb
+2004 mittelbach04_latex_compan
 2006 army06_soldier_manual_of_common_tasks
+2006 project06_latex
 2007 army07_soldier_manual_of_common_tasks
 2008 incorporated08_docum_manag_portab_docum_format_part
 2009 bengio09_learn_deep_archit_ai_2
@@ -16,14 +18,14 @@
 2010 kessenich10_openg_shadin_languag_1
 2010 oliphant10_guide_numpy_1
 2010 tutorial10_act_r_tutor_unit_
-2012 amd12_amd64_techn_amd64_archit_progr_1
+2012 amd12_amd64_1
 2012 anon12_exchan_
 2012 arm12_arm_instr_set_
 2012 edwards12_two_page_introd_to_antlr_
 2013 bressert13_scipy_numpy_
 2013 diaz13_gnu_prolog_
 2013 roberto13_progr_lua_third_edition_
-2015 mcgreggor15_master_
+2015 mcgreggor15_mastering
 2015 smith15_cython_
 2016 hagberg16_networ_refer_releas_
 2016 netlogo16_netlog_
@@ -35,7 +37,8 @@
 2020 thanh20
 2021 incorporated21_devel_acrob_applic_using_javas
 2021 incorporated21_javas_acrob_api_refer
-2021 macfarlane21_pandoc_users_guide_
+2021 macfarlane21_pandoc
+2021 tantau21_tikz_pgf_manual_version
 2022 anon22_latex
 2022 heiland22_sigil_user_guide
 2022 heinz22_creat_beaut_traceb_python_excep_hooks_

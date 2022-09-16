@@ -93,10 +93,10 @@
 2003 boella03_oblig_permis_mental_entit_
 2003 feferman03_kurt_goedel_4
 2003 feferman03_kurt_goedel_5
-2003 hitchcock03_explan_gener_part_ii_37
+2003 hitchcock03_explanator_37
 2003 ramos03_co3l_
 2003 shanker03_philos_9
-2003 woodward03_explan_gener_part_i_
+2003 woodward03_explanator
 2004 leite04_declar_agent_languag_techn_
 2004 arbab04_model_tempor_logic_timed_compon_connec_
 2004 ashby04_princ_self_organ_system_6
@@ -236,6 +236,7 @@
 2013 troquard13_simpl_logic_tool_manip_exten_abstr_80
 2013 tummolini13_190
 2013 weber13_from_
+2013 weiss13:_multiag_system
 2014 agotnes14_formal_method_coord_multi_agent_4
 2014 deng14_relat_reason_method_linear_logic_proces_algeb_26
 2014 gasquet14_kripk_world
@@ -263,7 +264,7 @@
 2016 padget16_instal_
 2016 pavese16_logic_infer_its_dynam_
 2016 peterson16_condit_normat_reason_with_subst_logic_
-2016 roy16_deont_logic_normat_system_
+2016 roy16_deont_logic_normat_system
 2016 sergot16_stabl_model_answer_sets
 2017 genesereth17_introd_to_logic_4
 2017 robaldo17_reified_input_logic_27
@@ -279,7 +280,7 @@
 2019 calimeri19_asp_core_input_languag_format_20
 2019 chlipala19_certif_progr_depen_types_
 2019 dunfield19_sound_compl_bidir_typec_higher_3
-2019 el-rouayheb19_devel_arabic_logic_
+2019 el-rouayheb19
 2019 gabbay19_journ_applied_logic_6
 2019 knapik19_timed_atl_66
 2019 larsen19_going_beyon_bdi_agent_based_simul_3
@@ -311,4 +312,4 @@
 2022 ernst22_hoare_logic_regul_behav_specif
 2022 guest22
 2022 hillerstroem22_found_progr_implem_effec_handl
-2022 mcnamara22_deont_logic_
+2022 mcnamara22_deontic

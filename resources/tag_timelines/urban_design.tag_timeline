@@ -11,13 +11,17 @@
 1985 booth85_munic_social_city_gover_refor_12
 1987 schivelbusch87_polic_street_light_
 1989 mckenna89_munic_subur_liver
+1991 software91:_simcit
+1994 software94:_simtow_users_manual
 1995 brand95_how_build_learn_
 1995 gibson95_postm_
 1996 kress96_readin
 1996 lefebvre96_writin_63
+1996 software96:_simcit
 1999 driver99_imper_cities
 2001 law01_shelt_from_storm_1753
 2001 parish01_proced_model_cities_
+2003 arts03:_simcit
 2003 blum03_imagin_struc_city_
 2003 greuter03_real_proced_gener_pseud_infin_cities_
 2003 lefebvre03_key_writin_edited_by_stuar_
@@ -55,7 +59,7 @@
 2010 wartman10_spatial_analy_ident_concen_urban_damag_
 2010 whitehead10_towar_procc_decor_ornam_games_
 2010 wood10_rethin_
-2011 alsayyad11_fundam_city
+2011 alsayyad11
 2012 ababsa12_popul_housin_urban_land_tenur_middl_east_
 2012 ball12_routl_handb_surveil_studies_
 2012 edensor12_urban_theor_beyon_west_
@@ -80,6 +84,7 @@
 2015 bustard15_patch_
 2015 coleman15_handb_
 2015 goldberg-miller15_polic_entrep_creat_city_
+2015 interactive15:_cities_skylin_manual
 2015 ulin15_sidew_
 2015 vogel15_think_
 2016 abbott16_imagin_urban_futur
@@ -125,7 +130,7 @@
 2019 sanchez19_futur_cities_readin_list_
 2019 slotwinski19_deter_effec_anti_minar_vote_
 2019 vidal19_oxfor_handb_karl_marx_
-2020 group20_housin_floor_plans_
+2020 group20
 2020 meagher20_routl_handb_philos_city_
 2020 okada20_alone_ancien_city_
 2020 yin20_urban_plann_dummies_
@@ -134,3 +139,4 @@
 2021 santos21_natur_space_
 2022 brault22_wastew_treat_reuse
 2022 padawangi22_urban_devel_south_asia
+2022 software22:_simcit_users_manual

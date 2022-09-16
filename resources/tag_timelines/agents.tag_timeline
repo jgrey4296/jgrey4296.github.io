@@ -64,7 +64,6 @@
 2003 castelfranchi03_from_autom_to_auton_
 2003 dastani03_role_
 2003 dix03_combin_agent_asp_plann_
-2003 gelfond03_causal_analy_event_occur_trajec_dynam_domain_
 2003 giorgini03_agent_orien_softw_engin_iv_
 2003 herrero03_introd_
 2003 jouvin03_role_deleg_dynam_archit_conver_
@@ -184,8 +183,8 @@
 2009 lungu09_rule_based_system_emotion_decis_makin_agent_
 2009 mascarenhas09_using_
 2009 mcburney09_dialog_games_agent_argum_
-2009 mccoy09_comme_faut_
-2009 mccoy09_comput_self_every_life_
+2009 mccoy09
+2009 mccoy09_comme
 2009 perini09_operat_seman_goal_model_adapt_
 2009 van09_empir_study_agent_progr_dynam_5925_LNAI
 2009 zargayouna09_agent_secur_inter_data_driven_languag_
@@ -220,7 +219,7 @@
 2011 balke11_normat_bdi_
 2011 barreteau11_using_social_simul_to_explor_14
 2011 bourgne11_towar_effic_multi_agent_abduc_protoc_
-2011 demazeau11_advan_pract_applic_agent_multiag_system_88
+2011 demazeau11_advances_88
 2011 esparcia11_artif_
 2011 everaere11_contin_2
 2011 falcone11_trust_relat_capit_17
@@ -300,6 +299,7 @@
 2018 brom18_curric_
 2018 ciortea18_repur_manuf_lines_fly_multi
 2018 dignum18_creat_dialog_using_argum_social_pract_
+2018 dimuro18_multi_agent_based_simul_xviii
 2018 eiben18_struc_approac_activ_selec_
 2018 ganian18_group_activ_selec_with_few_agent_types_
 2018 gaudl18_agile_behav_desig_
@@ -309,6 +309,7 @@
 2018 liao18_build_jimin_crick_
 2018 mininger18_inter_learn_blend_goal_based_proced_tasks_
 2018 testa18_distr_submod_minim_over_networ_
+2019 ahlbrecht19_explain_aggreg_behav_cognit_agent
 2019 kola19_what_
 2019 llobera19_tool_desig_inter_charac_based_embod_cognit_11
 2019 pietraszewski19_inter_proces_
@@ -320,6 +321,7 @@
 2020 canaan20_gener_adapt_to_diver_ad_
 2020 chernenkiy20_implem_metag_agent_based_funct_react_progr_
 2020 fadelli20_teach_ai_agent_to_commun_
+2020 gelfond20_causal
 2020 gero20_mental_model_ai_agent_cooper_game_settin_
 2020 hosseini20_fair_divis_time_
 2020 wettstein20_simul_hidden_dynam_2

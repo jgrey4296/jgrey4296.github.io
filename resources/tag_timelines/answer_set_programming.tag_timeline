@@ -1,5 +1,4 @@
 1993 gelfond93_repres_action_chang_by_logic_progr_17
-2003 gelfond03_causal_analy_event_occur_trajec_dynam_domain_
 2005 baral05_logic_progr_nonmon_reason_
 2005 buccafurri05_
 2006 cliffe06_answer
@@ -15,6 +14,7 @@
 2011 corapi11_normat_desig_using_induc_learn_11
 2011 smith11_answer_set_progr_proced_conten_gener_3
 2012 balke12_combin_instit_framew_agent_based_
+2012 calimeri12_asp_core_input_languag_format
 2012 costantini12_compl_react_with_prefer_rule_based_agent
 2012 gebser12_answer_set_solvin_pract
 2012 lee12_refor_action_languag_c_answer_set_progr
@@ -27,12 +27,15 @@
 2015 gebser15_potas_user_guide_
 2015 li15_debug_asp_ilp_1433
 2016 costantini16_query_answer_resour_based_answer_set_seman_16
+2016 liao16_prior_norms_defaul_formal_argum
 2016 shams16_implem_
 2017 franz17_logic_approac_to_model_nomen_chang_34
 2018 ciucci18_scalab_uncer_manag_
+2018 gebser18_multi_19
 2018 horswill18_catsat_
 2018 smith18_graph
 2019 gebser19_potas_user_guide
+2020 gelfond20_causal
 2021 aguado21_linear_time_tempor_answer_set_progr
 2021 hahn21_autom_techn_tempor_answer_set_progr
 2021 kaminski21_how_to_build_your_own

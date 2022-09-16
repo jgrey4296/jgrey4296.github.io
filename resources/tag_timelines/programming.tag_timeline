@@ -83,6 +83,7 @@
 2006 junker06_pro_ogre
 2006 ko06_baris
 2006 pohl06_java_dissec_
+2006 project06_latex
 2006 sierra06_norm_orien_progr_elect_instit_
 2006 uustalu06_essen_dataf_progr_
 2006 widijk06_seven_prover_world_3600
@@ -154,7 +155,7 @@
 2011 schrijvers11_monad_46
 2011 siu11_progr_model_boss_encoun_action_games_12
 2011 weissman11_best_edw51_hacker_news_top_
-2012 amd12_amd64_techn_amd64_archit_progr_1
+2012 amd12_amd64_1
 2012 anon12_optim_c_
 2012 dennis12_progr_multi_agent_system_
 2012 edwards12_two_page_introd_to_antlr_
@@ -176,7 +177,7 @@
 2013 broberg13_parag_pract_progr_infor_flow_contr_
 2013 cox13_speak_code_codin_aesth_polit_expres_
 2013 de13_progr_instit_facts_multi_agent_system_7756_LNAI
-2013 evans13_praxis_manual_
+2013 evans13
 2013 felleisen13_realm_racket_
 2013 ghorbani13_maia_16
 2013 gibbons13_monad_behav_298
@@ -193,6 +194,7 @@
 2013 shipman13_pypar_
 2013 soares13_live_feedb_behav_chang_
 2013 stefik13_empir_inves_into_progr_languag_syntax_13
+2013 weiss13:_multiag_system
 2013 zaytsev13_microp_8225_LNCS
 2013 zorn13_explor_minec_as_conduit_increas_inter_progr_
 2014 c.14_princ_of_objec_orien_javas_
@@ -228,7 +230,7 @@
 2015 lerner15_polym_block_
 2015 maclean15_d3_tips_trick_inter_data_
 2015 martens15_progr_inter_world_linear_logic_
-2015 mcgreggor15_master_
+2015 mcgreggor15_mastering
 2015 sarkar15
 2015 sewell15_bluep_visual_scrip_unreal_engin_
 2015 smith15_cython_
@@ -330,6 +332,7 @@
 2021 diapoulis21_creat_act_live_codin_pract_music_perfor
 2021 mullaney21_your_comput_fire_
 2021 russell21_artif_intel_
+2021 tantau21_tikz_pgf_manual_version
 2022 bjoerner22_progr_z3
 2022 heinz22_creat_beaut_traceb_python_excep_hooks_
 2022 pajankar22_hands_matpl_
