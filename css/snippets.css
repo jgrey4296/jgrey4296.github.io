@@ -1,0 +1,47 @@
+/* from https://www.codecademy.com/resources/blog/30-css-snippets/ */
+
+.shadow {
+  box-shadow: 0px 5px 5px rgba(0,0,0,0.4);
+  -moz-box-shadow: 0px 5px 5px rgba(0,0,0,0.4);
+  -webkit-box-shadow: 0px 5px 5px rgba(0,0,0,0.4);
+}
+
+
+.text-with-shadow { text-shadow: 4px 4px 8px #000; }
+
+
+.pull-quote {
+    width: 300px;
+    float: right;
+    margin: 10px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font: italic bold #777777 ;
+    }
+
+/* columns */
+.columns-three {
+    text-align: justify;
+    column-count: 3;
+    column-rule: 1px solid black;
+    }
+
+.column-span {
+    column-span: all
+    }
+
+/* centering things: */
+.h-wrapper { width: 1024px; margin: auto; }
+.v-wrapper { min-height: 10px; display: table-cell; vertical-align: middle; }
+
+/* page break for printing */
+.new-page { page-break-before:always; }
+
+
+.sticky-footer {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    /* or top:0px for header */
+    height:32px;
+    width:100%;
+}
