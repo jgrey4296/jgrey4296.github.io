@@ -6557,6 +6557,7 @@ https://csound.com/get-started.html : csound : github : music : tutorial
 https://csound.github.io/docs/manual/index.html : github
 https://css-center.stanford.edu/research-0 : edu
 https://css-tricks.com/almanac/ : CSS : reference : tutorial : web_design
+https://css-tricks.com/snippets/css/drop-caps/ : css : drop_caps
 https://cstack.github.io/db_tutorial/ : database : software_development : tutorial
 https://cstheory.stackexchange.com/questions/1539/whats-new-in-purely-functional-data-structures-since-okasaki : data_structure : functional_programming : reference : stack_overflow
 https://ctan.org/pkg/newspaper : latex : newspaper : template
@@ -6683,6 +6684,7 @@ https://developer.mozilla.org/en-US/docs/Web/Events#Standard_events : api : java
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript : javascript : programming : technical : tutorial
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export : MDN : es2015 : es6 : export : javascript
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import : es6 : javascript : reference
+https://developer.mozilla.org/en-US/docs/Web/XPath : xpath
 https://developer.nvidia.com/content/basics-gpu-voxelization : GPU : graphics : nvidia : voxelization
 https://developer.twitter.com/en/docs/accounts-and-users/follow-search-get-users/api-reference/get-users-lookup : api : libraries : python : twitter
 https://developer.valvesoftware.com/wiki/Command_Line_Options#Steam_.28Windows.29 : api : valve
@@ -6870,6 +6872,7 @@ https://emacs.stackexchange.com/questions/21739/why-is-this-custom-spacemacs-maj
 https://emacs.stackexchange.com/questions/51470/define-advice-vs-advice-add-vs-other : define-advice : emacs : lisp
 https://emily.st/category/writing/ : test_driven_writing
 https://emilygorcenski.com/ : emily_gorcenski
+https://emmet.io/ : emacs : emmet : web_development
 https://emshort.blog/ : emily_short : interactive_fiction : narrative
 https://emshort.blog/2011/05/03/an-alternative-taxonomy-for-interactive-stories/ : blog : design : emily_short : gns : interactive_fiction : taxonomy
 https://emshort.blog/2014/11/18/procedural-text-generation-in-if/ : emily_short : narrative : procedural_content : text : text_generation
@@ -7478,6 +7481,7 @@ https://github.com/FinNLP/en-inflectors : NLP : github : javascript : libraries 
 https://github.com/GOFAI/glasstone : analysis : github : nuclear : python
 https://github.com/GamesDoneQuick/agdq19-layouts : agdq : github : graphics : libraries
 https://github.com/GuiltyDolphin/inform7-mode : emacs : github : inform : lisp
+https://github.com/IDPF/epub3-samples : epub : example : github : technical_standards
 https://github.com/Idnan/trending-guides : github : guide : programming
 https://github.com/Interrupt/delverengine : delver : game_development : github : programming : source
 https://github.com/JakeWheat/intro_to_parsing : github : haskell : parsec
@@ -7715,6 +7719,7 @@ https://github.com/jwasham/google-interview-university : github : interview : so
 https://github.com/jwiegley/use-package : emacs : github : libraries : lisp : package_manager
 https://github.com/kamranahmedse/developer-roadmap : github : learning : resource : tutorial : web_development
 https://github.com/karan/Projects : github : practice : project
+https://github.com/karlicoss/orgparse : github : library : org-mode : python
 https://github.com/keendreams/keen : assembly : c_lang : commander_keen : dos : game : game_design : github : source
 https://github.com/keijiro/Cloner : c_sharp : mesh : unity
 https://github.com/keijiro/GVoxelizer : github : unity : voxels
@@ -7747,6 +7752,7 @@ https://github.com/mbostock/d3/wiki/Transitions : github
 https://github.com/mbostock/d3/wiki/Transitions#d3_ease : github
 https://github.com/memoiry/Snaky : ai : github : python : snake
 https://github.com/mewo2/pronouncingpy : github : libraries : pronunciation : python
+https://github.com/miku/xmlcutty : cli : github : xml : xmlcutty
 https://github.com/miloyip/game-programmer : education : game_development : infographic : tutorial
 https://github.com/minimaxir/big-list-of-naughty-strings : data_sets : github : software_development : test
 https://github.com/ml4a/ml4a-guides/blob/master/notebooks/transfer-learning.ipynb : deep_learning : github : tensorflow
@@ -7802,6 +7808,7 @@ https://github.com/python-rope/rope : github : python : refactoring
 https://github.com/python-rope/ropemacs : emacs : github : python : refactoring : rope
 https://github.com/pytoolz/toolz : functional_programming : iteration : python : reference : toolz
 https://github.com/quchen/articles/tree/master/hindley-milner#readme : haskell : hindley_milner : programming : tutorial : type_inference : type_system
+https://github.com/radian-software/straight.el#the-recipe-format : byte_compilation : emacs : recipe_format : straight.el
 https://github.com/radiatoryang/hedera : c_sharp : foliage : github : ivy : procedural_content : robert_yang : shader : unity
 https://github.com/radiatoryang/merino : YARN : __important : c_sharp : github : interactive_fiction : narrative : twine : unity
 https://github.com/reactjs/redux : javascript : react : redux : web_development
@@ -8046,6 +8053,7 @@ https://hacks.mozilla.org/2015/09/lets_write_a_webextension/ : bookmarks : exten
 https://haduonght.wordpress.com/2015/02/21/install-caffe-on-mac-os-x-10-10/ : OSX : blog : cuda : libraries : python : tutorial
 https://halisavakis.com/category/shaderquest/ : graphics : harry_alisavakis : programming : shader_quest : shaders
 https://halite.io/ : ai : game : programming_practice
+https://haml.info/ : emacs : haml : html : markup : web_development
 https://hansard.parliament.uk/  : UK : archive : hansard : parliament
 https://hardmath123.github.io/earley.html : parser
 https://hardsci.wordpress.com/2016/08/11/everything-is-fucked-the-syllabus/ : blog : humour : psychology
@@ -8362,6 +8370,7 @@ https://journals.plos.org/plosone/article : bias : corpora : data_analysis : dat
 https://journals.sagepub.com/doi/10.1177/019263654102510024 : __come_back_to
 https://journals.sagepub.com/doi/10.1177/13548565221079157 : __come_back_to
 https://journals.sagepub.com/doi/abs/10.1177/0306312714562103 : jeffrey_epstein : nick_seaver : paper : pdf : phallometric_test : social_studies : tom_waidzunas
+https://journals.sagepub.com/loi/AUT : autism : journal
 https://journals.sagepub.com/toc/ossa/0/ja : __come_back_to : journal : organization_studies
 https://journals.uair.arizona.edu/index.php/arizanthro/article/viewFile/18504/18155 : michel_foucault
 https://jp.itch.io/mr-friendly : animal_crossing : doom : friend : itch_io : jp_le_breton : mod : non_violence
@@ -8506,6 +8515,7 @@ https://lareviewofbooks.org/article/public-sphere-dark-times/ : LA_review_of_boo
 https://lareviewofbooks.org/article/the-blathering-superego-at-the-end-of-history/ : criticism : liberalism : policy : politics : trump
 https://lareviewofbooks.org/article/thieves-of-experience-how-google-and-facebook-corrupted-capitalism/ : LA_review_of_books : book : capitalism : review : silicon_valley : technology
 https://lareviewofbooks.org/article/we-can-do-better-on-richard-rortys-pragmatism-as-anti-authoritarianism/ : la_review_of_books : la_review_of_books:richard_rorty:pragmatism : pragmatism : richard_rorty
+https://larsenwork.com/monoid/ : font : monoid : programming
 https://lasteventphoto.wordpress.com/ : architecture : art : farming : industrial : last_event : photography : piero_annoni
 https://latex-programming.fandom.com/wiki/Tabular_(LaTeX_environment) : latex : programming : wiki
 https://latex-tutorial.com/ : latex
@@ -8522,6 +8532,7 @@ https://lazystone.github.io//programming/time/2017/03/13/time-matters.html : UTC
 https://leanpub.com/D3-Tips-and-Tricks/ : book : d3 : javascript : tutorial
 https://leanpub.com/progalgs/read : algorithms : book : lisp : programming
 https://learn.adafruit.com/hacking-the-kinect/determine-the-descriptors : kinect : reverse_engineering
+https://learnbyexample.gitbooks.io/command-line-text-processing/content/gnu_sed.html : cli : sed
 https://learnche.org/pid/least-squares-modelling/multiple-linear-regression : math : multiple_regression
 https://learningmusic.ableton.com/ : ableton : learning : music : music_theory
 https://learningmusic.ableton.com/index.html : ableton : learning : music
@@ -9258,7 +9269,7 @@ https://pysmt.readthedocs.io/en/latest/tutorials.html : FSM : boolean_logic : bo
 https://python-3-patterns-idioms-test.readthedocs.io/en/latest/PythonDecorators.html : decorator : meta : programming : python : tutorial
 https://python-gtk-3-tutorial.readthedocs.io/en/latest/unicode.html : gtk : libraries : python : reference
 https://python-jsonschema.readthedocs.io/en/stable/ : json : jsonschema : library : programming : python
-https://python-poetry.org/ : __come_back_to : package_management : poetry : python
+https://python-poetry.org/ : __come_back_to : dependency_management : package_management : poetry : python
 https://python.libhunt.com/ : libraries : programming : python : recommendation : technical
 https://python.plainenglish.io/10-tools-to-help-claw-your-way-back-to-sanity-while-coding-python-df0af160c33e : flake8 : python : venv
 https://python.plainenglish.io/creating-beautiful-tracebacks-with-pythons-exception-hooks-c8a79e13558d : __important : exception_handling : python : software_engineering
@@ -9575,6 +9586,7 @@ https://stackoverflow.com/questions/1986152/why-doesnt-python-have-a-sign-functi
 https://stackoverflow.com/questions/2039904/what-statistics-should-a-programmer-or-computer-scientist-know : math : stack_overflow : statistics
 https://stackoverflow.com/questions/21025504/sweet-js-expand-token-as-a-string : question : stack_overflow
 https://stackoverflow.com/questions/2158395/flatten-an-irregular-list-of-lists : flatten : python
+https://stackoverflow.com/questions/22214071/xpath-how-to-select-a-range-of-nodes-in-the-node-set : semantics : xpath
 https://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js : question : stack_overflow
 https://stackoverflow.com/questions/24398041/build-android-studio-app-via-command-line : android : gradle : stackoverflow
 https://stackoverflow.com/questions/24565068/emacs-text-is-read-only : emacs : lisp : read_only
@@ -10031,6 +10043,7 @@ https://waypoint.vice.com/en_us/article/tropico-was-the-game-that-taught-me-abou
 https://waypoint.vice.com/en_us/topic/at-play-in-the-carceral-state : incarceration : prison
 https://waypoint.vice.com/en_us/topic/at-play-in-the-carceral-state?topic_id=5973cb6ae1b199797b8f4cb4 : incarceration : police : police_violence : prison : waypoint
 https://wcbs880.radio.com/articles/ny-archdiocese-releases-list-120-clergy-accused-sex-abuse-other-acts : 120 : archdiocese : catholic : clergy : new_york : scandal : sex_abuse : sexual_abuse : wcbs880
+https://web-mode.org/ : emacs : web_development : web_mode
 https://web.archive.org/web/20030207035636/http://voteview.uh.edu/gates.htm : economics : history
 https://web.archive.org/web/20030309101607/http://www.press.jhu.edu/press/books/titles/s01/s01mate.htm : feminism : history : orgasm : sex
 https://web.archive.org/web/20031008091310/http://www.businessweek.com/smallbiz/content/sep2003/sb20030917_4388.htm : design : technology
@@ -11644,6 +11657,7 @@ https://www.openthegovernment.org/node/5713 : DHS : child : kirstjen_nielsen : m
 https://www.opm.gov/policy-data-oversight/data-analysis-documentation/federal-employment-reports/reports-publications/full-time-permanent-age-distributions/ : USA : employment : opm : statistics
 https://www.oregonlive.com/education/2020/02/concordia-universitys-online-vision-hid-grim-reality.html : USA : concordia : covid19 : education : oregon : technology : university
 https://www.oreilly.com/ideas/visualizing-convolutional-neural-networks : machine_learning : neural_network : tensorboard : tensorflow : visualisation
+https://www.oreilly.com/library/view/xml-hacks/0596007116/ch03s06.html : cli : programming : xmllint
 https://www.osti.gov/biblio/4455031 : FOIA : US_office_of_science_and_technology : shelter
 https://www.out.com/health/2019/10/30/facebook-wont-ban-fake-news-they-will-ban-prep-ads : HIV : LGBTQ : censorship : facebook : health_care : matt_baume : out : prep : prevention
 https://www.out.com/out-exclusives/2019/2/12/our-march-cover-stars-mothers-and-daughters-movement : activism : african_american : alicia_garza : barbara_smith : black : charlene_carruthers : family : feminism : history : miss_major : out_magazine : tourmaline : womens_history
@@ -13087,6 +13101,7 @@ https://www.vice.com/en_us/article/wjvxk5/project-hospital-is-a-great-way-to-und
 https://www.vice.com/en_us/article/ywaj4w/world-of-warcraft-changed-video-games-and-wrecked-lives?utm_source=vicetwitterus : games : oral_history : patrick_klepek : vice : world_of_warcraft
 https://www.vice.com/en_us/article/z45g5e/nyc-cabaret-law-racism-discrimination-history : dance : history : new_york : racism : vice
 https://www.vice.com/en_us/topic/dancing-vs-the-state : dance : government : law : vice
+https://www.videlibri.de/xidel.html : command_line : xidel : xml
 https://www.villagevoice.com/2018/06/22/james-baldwin-on-being-gay-in-america/ : 1984 : LGBTQ : james_baldwin : village_voice
 https://www.vincit.fi/en/blog/software-development-450-words-per-minute/ : blind : screen_reader : software_development
 https://www.visualcapitalist.com/visualizing-the-accumulation-of-human-made-mass-on-earth/ : anthropogenic_mass : biomass : bruno_venditti : pollution : visual_capitalist : visualisation
@@ -13137,10 +13152,12 @@ https://www.vqronline.org/vqr-congratulates-2018-prize-winners : 2018 : awards :
 https://www.w3.org/2000/10/swap/doc/rule-systems : production_system : rule_engine
 https://www.w3.org/RDF/ : RDF : meta : resource_description_framework
 https://www.w3.org/TR/2014/REC-trig-20140225/  : RDF : data : specification : w3c
+https://www.w3.org/TR/epub/#abstract : epub : reference : technical_standards
 https://www.w3.org/TR/owl2-overview/ : OWL : ontology : standards : w3
 https://www.w3.org/TR/rdf-syntax-grammar/ : RDF : standards : syntax : xml
 https://www.w3.org/TR/rdf11-concepts/ : RDF : resource_description_framework : standards : syntax : w3
 https://www.w3.org/TR/vocab-org/ : __important : ontology : organisation : schema : standards : w3
+https://www.w3.org/publishing/epub32/epub-contentdocs.html#sec-introduction : epub : epub3 : technical_specification
 https://www.wafb.com/2019/07/13/year-old-woman-found-dead-trunk-car/ : baton_rouge : louisiana : murder : sadie_roberts_joseph : wafb
 https://www.walb.com/2019/05/27/overturning-roe-v-wade-wouldnt-turn-back-clock/ : abortion : forced_birth : roe_v_wade : walb
 https://www.walter-benjamin.online/ : data_sets : resource : walter_benjamin : writing
