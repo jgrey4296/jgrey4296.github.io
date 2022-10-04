@@ -3,6 +3,8 @@
 * Overview
 https://en.m.wikipedia.org/wiki/List_of_Latin_legal_terms
 https://en.m.wikipedia.org/wiki/Kill_chain
+https://wiki.haskell.org/Pointfree
+https://wiring.readthedocs.io/en/latest/rationale.html
 * Main
 ** General
 *** Modalities

@@ -3,6 +3,7 @@
 * Overview
 
 * Main
+
 ** Emacs Straight Recipes
 https://github.com/radian-software/straight.el#the-recipe-format
 
@@ -133,6 +134,60 @@ pdftk file.pdf dump_data_utf8 > file.info
 pdftk file.pdf update_info_utf8 file.info output file2.pdf
 #+end_src
 
+** File encoding
+file -I {}
+iconv -f {enc} -t {enc} {} > conv-{}
+
+** Wordnet
+`wn`
+
+#+begin_src bash
+# For Nouns
+-hypen		Hypernyms
+-hypon, -treen	Hyponyms & Hyponym Tree
+-synsn		Synonyms (ordered by estimated frequency)
+-derin		Derived Forms
+-famln		Familiarity & Polysemy Count
+-coorn		Coordinate Terms (sisters)
+-grepn		List of Compound Words
+-over		Overview of Senses
+#+end_src
+
+#+begin_src bash
+# For verbs
+-hypev		Hypernyms
+-hypov, -treev	Hyponyms & Hyponym Tree
+-synsv		Synonyms (ordered by estimated frequency)
+-deriv		Derived Forms
+-famlv		Familiarity & Polysemy Count
+-framv		Verb Frames
+-coorv		Coordinate Terms (sisters)
+-simsv		Synonyms (grouped by similarity of meaning)
+-grepv		List of Compound Words
+-over		Overview of Senses
+#+end_src
+
+#+begin_src bash
+# Adjectives
+-antsa		Antonyms
+-synsa		Synonyms (ordered by estimated frequency)
+-attra		Attributes
+-deria		Derived Forms
+-domna		Domain
+-famla		Familiarity & Polysemy Count
+-grepa		List of Compound Words
+-over		Overview of Senses
+#+end_src
+
+#+begin_src bash
+# Adverbs
+-antsr		Antonyms
+-synsr		Synonyms (ordered by estimated frequency)
+-pertr		Pertainyms
+-famlr		Familiarity & Polysemy Count
+-grepr		List of Compound Words
+-over		Overview of Senses
+#+end_src
 * Links
 [[https://www.futureboy.us/pgp.html][GPG General Howto]]
 https://pandoc.org/

@@ -659,5 +659,25 @@ Time         : 0.002s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
 CPU Time     : 0.002s
 #+end_example
 
+** Patterns
+Patterns found in various asp files:
+
+*** Instal
+Event Observation and Recognition
+
+Time
+
+Fluent logic: inertial / transient fluents + holdsat
+
+*** Hakan Jkellerstrand
+graphs: nodes, edges, adjecency, cycles
+role assignment
+task dependency
+
+symmetry breaking
+matrix
+
+irreflexivity
+
 * Links
 [[https://potassco.org/][Potassco]]
