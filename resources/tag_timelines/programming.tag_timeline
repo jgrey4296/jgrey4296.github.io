@@ -14,7 +14,7 @@
 1990 cardelli90
 1990 holub90_compil_desig_c
 1991 meyer91_using_contr_exper_layout_21
-1992 goguen92_instit_39
+1992 goguen92:_instit_39
 1992 jefferson92_simpl_reflec_inter_
 1993 nardi93_small_matter_progr
 1994 bunkenburg94
@@ -83,7 +83,7 @@
 2006 junker06_pro_ogre
 2006 ko06_baris
 2006 pohl06_java_dissec_
-2006 project06_latex
+2006 project06:_latex
 2006 sierra06_norm_orien_progr_elect_instit_
 2006 uustalu06_essen_dataf_progr_
 2006 widijk06_seven_prover_world_3600
@@ -335,4 +335,5 @@
 2021 tantau21_tikz_pgf_manual_version
 2022 bjoerner22_progr_z3
 2022 heinz22_creat_beaut_traceb_python_excep_hooks_
+2022 muratori22:_turns_radian
 2022 pajankar22_hands_matpl_
