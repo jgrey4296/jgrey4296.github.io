@@ -3,7 +3,6 @@
 * Overview
 
 * Main
-
 ** Emacs Straight Recipes
 https://github.com/radian-software/straight.el#the-recipe-format
 
@@ -188,6 +187,17 @@ iconv -f {enc} -t {enc} {} > conv-{}
 -grepr		List of Compound Words
 -over		Overview of Senses
 #+end_src
+
+** Sed
+Filter lines with:
+'/pattern/d'
+
+Print Matching lines with:
+'/pattern/p'
+
+case Invariant:
+'/pattern/I'
+
 * Links
 [[https://www.futureboy.us/pgp.html][GPG General Howto]]
 https://pandoc.org/
