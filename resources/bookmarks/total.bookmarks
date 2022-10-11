@@ -3512,7 +3512,7 @@ http://www.damtp.cam.ac.uk/user/sje30/ess11/resources/emacs-refcard.pdf : emacs 
 http://www.dangermouse.net/esoteric/piet/samples.html : brainfuck : esoteric : programming_language
 http://www.danylkoweb.com/Blog/20-20-top-20-programming-lessons-ive-learned-in-20-years-FH : blog : education : programming : software_development
 http://www.darklegacycomics.com/196.html : MMO : comic : humour : quest : social_system
-http://www.darklyrics.com/lyrics/nineinchnails/thefragile.html#1 : NIN : lyrics : music : the_fragile
+http://www.darklyrics.com/lyrics/nineinchnails/thefragile.html#1 : NIN : lyrics : music : nin : the_fragile
 http://www.darkshire.net/~jhkim/rpg/theory/ : RPG : game_design : game_mechanics : quest
 http://www.darpa.mil/our-research : DARPA : data_analysis : data_sets : research
 http://www.darwinawards.com/ : humour
@@ -4819,6 +4819,8 @@ http://www.rmt.ucla.edu/ : __come_back_to : economics : edu : social_system
 http://www.robophot.com/ : assets : image : reference
 http://www.robot-hugs.com/privacy/ : comic : privacy
 http://www.robot-hugs.com/sad-python/ : depression : humour : psychology : python
+http://www.robotstxt.org/faq/what.html : best_practices : web_crawling : web_robot
+http://www.robotstxt.org/guidelines.html : best_practices : web_crawling : web_robot
 http://www.rocketaware.com/perl/perlfaq8/How_do_I_start_a_process_in_the_.htm : bash : cli : perl
 http://www.rockpapershotgun.com/ : game : game_criticism : rock_paper_shotgun
 http://www.rockpapershotgun.com/2008/01/16/rps-exclusive-raph-koster-on-the-mmo/#more-914 : MMO : everquest : game : game_criticism : quest : raph_koster : rock_paper_shotgun
@@ -5543,6 +5545,7 @@ https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html : 
 https://12factor.net/ : best_practices : design : software_design : software_development
 https://200wordrpg.github.io/2016/rpg/finalist/2016/04/15/DrinkTeaForget.html : 200_word_rpg : RPG : game_design : github
 https://2016.splashcon.org/event/meta2016-a-model-for-reflection-in-rule-based-languages : RETE : reflection : rule
+https://2020pb.com/ : 2020 : george_floyd : police_violence : protest
 https://70sscifiart.tumblr.com/post/184695051497/uncredited-cover-art-1970 : art : sci_fi : science_fiction : tumblr
 https://80.lv/articles/cascadeur-physics-based-character-animation/ : 80_level : animation : art : cascadeur : game_development : physics : programming
 https://8values.github.io/ : political_compass : politics
@@ -7461,6 +7464,7 @@ https://gist.github.com/eashish93/3eca6a90fef1ea6e586b7ec211ff72a5 : cheat_sheet
 https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83 : GLSL : github : noise
 https://git-scm.com/book/en/v2 : git
 https://github.blog/2021-12-09-introducing-stack-graphs/ : __come_back_to : blog : code_navigation : github : rewrite_rules : stack_graphs
+https://github.com/2020PB/police-brutality : dataset : george_floyd : github : police_violence : protest
 https://github.com/AlexEne/CCrush-Bot : ai : bot : github
 https://github.com/AlexPof/colubridae : category_theory : github : python
 https://github.com/AlexPof/opycleid : github : python : transformational_music_theory
@@ -7550,6 +7554,7 @@ https://github.com/Unity-Technologies/Unity.Mathematics : c_sharp : github : mat
 https://github.com/Unity-Technologies/UnityCsReference : c_sharp : reference : source : unity
 https://github.com/WhitestormJS/whitestorm-typescript-boilerplate : github : react : redux : starter : three_js : web_GL
 https://github.com/Wilfred/remacs : emacs : github : rust
+https://github.com/Z3Prover/z3 : SMT : github : python : solver : theorem_proving : z3
 https://github.com/aalhour/C-Sharp-Algorithms : algorithm : c_sharp
 https://github.com/abo-abo/hydra : UI : emacs : github : hydra : libraries : lisp
 https://github.com/active-logic/activelogic-cs : __come_back_to : behaviour_tree : c_sharp : github
@@ -7814,12 +7819,14 @@ https://github.com/pim-book/programmers-introduction-to-mathematics : jeremy_kun
 https://github.com/pixlpa/Unity-Synth-Experiments : c_sharp : github : music : programming : sound : synthesiser : unity
 https://github.com/pmaupin/pdfrw/ : github : pdf : pdfrw : programming : python
 https://github.com/ponyorm/pony/ : SQL : database : databases : github : library : object_relation_mapper : object_relational_mapper : pony : python
+https://github.com/ppareit/graphviz-dot-mode : dot : emacs : github : graphviz
 https://github.com/prabhath6/theguardian-api-python : api : github : guardian : python
 https://github.com/prathyvsh/models-of-interaction : HCI : UI : __important : github : history : models_of_interaction
 https://github.com/praw-dev/praw : github : libraries : python : reddit
 https://github.com/psf/black : formatting : github : python
 https://github.com/puolival/multipy : __important : github : hypothesis_testing : libraries : python
 https://github.com/purcell/disable-mouse : emacs : github : libraries : lisp : mouse
+https://github.com/pydot/pydot : github : graphviz : pydot : python
 https://github.com/pyexcel/pyexcel : excel : github : library : python : spreadsheets
 https://github.com/pymc-devs/pymc : libraries : machine_learning : python
 https://github.com/pysmt/pysmt : SMT : github : library : python : smt
@@ -7878,6 +7885,7 @@ https://github.com/supercollider/sc3-plugins : supercollider
 https://github.com/syl20bnr/spacemacs/pull/7564/files : bug : emacs : fringe_mode : lisp : spacemacs
 https://github.com/sylefeb/VoxModSynth : 3D : design : github : wave_function_collapse
 https://github.com/synekdok/SurveillanceMusic : github : music : python : supercollider : surveillance
+https://github.com/tabatkins/railroad-diagrams : github : parsing : python : railroad_diagram : visualisation
 https://github.com/taolei87/sru : deep_learning : github : machine_learning : neural_network
 https://github.com/tartley/colorama : color : colorama : github : libraries : python
 https://github.com/tchajed/ltac2-tutorial : coq : dsl : github : ltac2 : proof_language
@@ -8045,6 +8053,7 @@ https://graphics.stanford.edu/courses/cs348c-96-fall/resources.html : __importan
 https://graphics.stanford.edu/~seander/bithacks.html : bithack : logic : programming
 https://graphtheory.tumblr.com/ : explorable : graph_theory : tumblr
 https://graphviz.org/ : dot_dsl : graphs : graphviz : visualisation
+https://graphviz.readthedocs.io/en/stable/ : graphviz : python
 https://grayzoneproject.com/2018/10/23/facebook-censorship-of-alternative-media-just-the-beginning-says-top-neocon-insider/ : censorship : facebook : gray_zone : media : surveillance
 https://greatersurbiton.wordpress.com/2015/07/27/bosnia-and-herzegovina-genocide-justice-and-denial/ : bosnia : genocide : history
 https://greensdictofslang.com/ : slang : social_system
@@ -9229,6 +9238,7 @@ https://popula.com/2019/02/11/white-words/ : 2019 : aaron_bady : eskimo : first_
 https://possiblebodies.constantvzw.org/inventory/ : __come_back_to : anthropology : culture : possible_bodies : space
 https://possiblebodies.constantvzw.org/somatopologies/ : anthropology : art : body : nick_seaver : somatopolgies : space
 https://postmoderndelver.wordpress.com/tag/northernlion/ : northern_lion:humour:heidi_mckee:digital_rhetoric
+https://potassco.org/ : ASP : clingo : github : potassco
 https://practicalphd.net/ : __important : blog : phd : practical_phd : research : resource
 https://preactjs.com/ : javascript : libraries : preact : web_design
 https://press.princeton.edu/titles/13318.html : book : debt : economics : jerome_roos : recommendation : why_not_default
@@ -9494,7 +9504,7 @@ https://sites.google.com/site/rmyeid/projects/polyglot : NLP : libraries : polyg
 https://sites.google.com/site/satishgoda/blender/learningblender25/introduction-to-blender-python-api : blender : graphics : python
 https://sites.google.com/site/williamhuber/ : game_criticism : media : people : william_huber
 https://sites.sas.upenn.edu/sites/default/files/behav-ethics/files/norms_and_beliefs-_how_change_occurs_copy.pdf : edu : norms : pdf : social_system
-https://sites.ualberta.ca/~urban/Projects/English/Motif_Index.htm : classification : fantasy : folk_literature : mythology : reference : social_system
+https://sites.ualberta.ca/~urban/Projects/English/Motif_Index.htm : TMI : classification : fantasy : folk_literature : folklore : folktales : mythology : reference : social_system : taxonomy : thompson
 https://skepticalscience.com/ : climate_change : global_warming : science : skeptical_science
 https://sketchfab.com/3d-models/lowpoly-people-waldo-9ec7a14729aa490fa712e51c217db0f5 : assets : low_poly : resource : sketchfab
 https://slashdot.org/story/12/09/25/2118207/microsoft-pollutes-to-avoid-fines : data : insane : microsoft : pollution : slashdot
@@ -9765,6 +9775,7 @@ https://teorth.github.io/QED/ : education : github : learning : logic : proof : 
 https://teropa.info/loop/ : explorable : generative : music : presentation : procedural_content
 https://terpconnect.umd.edu/~toh/spectrum/ : math : signal_processing : tutorial
 https://testdriven.io/part-one-docker-config/ : docker : software_development
+https://tex.stackexchange.com/questions/297004/tlmgr-open-documentation-for-package-basictex : cli : latex : texdoc : tlmgr
 https://texample.net/tikz/examples/all/ : example : latex
 https://text.npr.org/s.php?sId=785672201 : GOP : NPR : gerrymandering : hansi_lo_wang : hofeller_files : journalism : npr : stephanie_hofeller
 https://theantlrguy.atlassian.net/wiki/display/ANTLR4/JavaScript+Target : antlr
@@ -10862,7 +10873,7 @@ https://www.forbes.com/sites/meganbruneau/2016/08/31/4-strategies-for-lowering-a
 https://www.forbes.com/sites/melissabrinks/2018/10/02/a-year-of-playing-the-world-showcases-game-developments-diversity-and-culture/ : culture : forbes : game : games : johanna_pirker : melissa_brinks : playing_the_world
 https://www.forbes.com/sites/sarahjeong/2014/10/28/surveillance-begins-at-home/#611572c07f41 : forbes : privacy : sarah_jeong : surveillance
 https://www.forbes.com/sites/startswithabang/2018/09/21/the-physics-of-why-timekeeping-first-failed-in-the-americas/ : forbes : history : physics : time
-https://www.fordeinquiry.org/ : forde_inquiry : labour : politics : uk
+https://www.fordeinquiry.org/ : UK : forde_inquiry : labour : politics : uk
 https://www.foreignaffairs.com/articles/2018-09-30/committee-save-world-order : 2018 : america : foreign_affairs : foreign_policy : global_institutions : international_security : ivo_daalder : james_lindsay : politics : trump
 https://www.foreignaffairs.com/articles/2019-11-11/real-immigration-crisis : charles_kenny : foreign_affairs : immigration
 https://www.forestlivelihoods.org/ifri-dataset/ : IFRI : dataset : elinor_ostrom
@@ -11007,7 +11018,7 @@ https://www.haskell.org/documentation : documentation : haskell
 https://www.haskell.org/haddock/doc/html/index.html : haddock : haskell
 https://www.hastac.org/blogs/danicasavonick/2018/10/13/collaborative-close-reading : education : groups : hastac : paper : reading : study
 https://www.haujournal.org/index.php/hau/article/view/hau2.2.007/1013 : bureaucracy : ethnography : politics : social_system
-https://www.health.ny.gov/community/adults/women/task_force_maternal_mortality/ : healthcare : maternal_mortality : new_york_state : report : task_force
+https://www.health.ny.gov/community/adults/women/task_force_maternal_mortality/ : healthcare : maternal_morality : maternal_mortality : new_york_state : report : task_force
 https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2018.05012 : consumption : health_affairs : health_care : patients
 https://www.heddels.com/2014/06/overview-guide-leather-grades/ : leather
 https://www.highlevelcomic.com/features : comic : high_level : rob_sheridan
@@ -11125,6 +11136,7 @@ https://www.instagram.com/stoptheroc/ : architecture : instagram
 https://www.instagram.com/urban__rocks/ : instagram : streets : tokyo : urban_design : urban_rocks
 https://www.instituteforgovernment.org.uk/blog/ministers-should-not-forget-human-side-rearranging-departments : bureaucracy : government : government_departments : inhabited_institutions : institute_for_government : tim_durrant
 https://www.instituteforgovernment.org.uk/blog/problems-universal-credit : criticism : government : politics : universal_credit
+https://www.instituteforgovernment.org.uk/publications : UK : institute_for_government : politics : reports
 https://www.intel.ai/ai-ethics-toolkits/ : ai : ethics : intelligence
 https://www.intelligent-artifice.com/ : Jurie_Horneman : ai : blog : game_ai : intelligent_artifice : research
 https://www.intomore.com/impact/openly-gay-congressional-candidates-home-targeted-by-white-supremacist-groups : LGBTQ : intomore : ohio : politics : white_supremacy
@@ -11451,6 +11463,7 @@ https://www.nhs.uk/  : UK : healthcare : nhs
 https://www.nhs.uk/conditions/ : NHS : atlas_of_risk : data : health_care : medical_conditions : medicine
 https://www.nice.org.uk/guidance : UK : best_practices : guidelines : health_care : nice_guidelines
 https://www.nih.gov/news-events/news-releases/mandatory-masking-schools-reduced-covid-19-cases-during-delta-surge : covid : masking : nih
+https://www.nin.wiki/Nine_Inch_Nails : nin : nine_inch_nails : trent_reznor : wiki
 https://www.nixonlibrary.gov/ : history : nixon : presidential_library
 https://www.nixonlibrary.gov/index.php/december-9-2010-materials-release : USA : __come_back_to : archive : document : libraries : library : politics : richard_nixon
 https://www.nngroup.com/articles/flat-ui-less-attention-cause-uncertainty/ : UI : UX : anti_patterns : flat_design : nielson
@@ -11743,7 +11756,7 @@ https://www.pewglobal.org/2019/04/29/publics-satisfied-with-free-speech-ability-
 https://www.pewinternet.org/2018/11/07/many-turn-to-youtube-for-childrens-content-news-how-to-lessons/ : pew : polling : radicalisation : recommendation : research : youtube
 https://www.pewresearch.org/fact-tank/2014/02/20/for-american-unions-membership-trails-far-behind-public-support/ : drew_desilver : history : pew : unions
 https://www.pewresearch.org/religion/religious-landscape-study/ : USA : demographics : pew : religion : statistics
-https://www.philipzucker.com/ : blog : category_theory : logic : philip_zucker : smt : z3
+https://www.philipzucker.com/ : SMT : blog : category_theory : logic : philip_zucker : smt : z3
 https://www.philipzucker.com/z3-rise4fun/guide.html : __come_back_to : guide : z3
 https://www.phillymag.com/news/2018/04/14/philadelphia-starbucks-arrest-video/?amp=1 : police_violence : racism : starbucks
 https://www.phoenixnewtimes.com/news/phoenix-shoplifting-video-brutality-family-files-claim-11312081 : arizona : meg_oconnor : phoenix : phoenix_new_times : police_violence
@@ -11754,6 +11767,7 @@ https://www.playnightingale.com/post/realm-cards-endless-adventures-across-the-f
 https://www.ploggingdev.com/2017/01/multiprocessing-and-multithreading-in-python-3/ : multi_processing : multi_threading : programming : python : thread : tutorial
 https://www.pluralsight.com/blog/tutorials/how-to-create-your-first-character-rig-in-blender-part-1 : blender : bones : rigging : tutorial
 https://www.pnas.org/content/116/6/2158 : genetics : paywall : research
+https://www.policescorecard.org/about : metrics : police_scorecard : police_violence
 https://www.politicalcompass.org/ : measurement : politics : quiz
 https://www.politico.com/amp/story/2018/01/28/trump-russia-sanctions-deadline-373106 : politico : russia : sanctions : trump
 https://www.politico.com/amp/story/2018/11/16/veteran-democrats-wary-leftward-push-climate-977988 : climate_change : democrats : ocasio_cortez : politico : politics
@@ -11833,6 +11847,7 @@ https://www.publicbooks.org/invisible-algorithms-invisible-politics/?utm_content
 https://www.publicmedievalist.com/race-fantasy-genre/ : analysis : criticism : fantasy : paul_sturtevant : public_medievalist : questionable : race : racism
 https://www.python-boilerplate.com/py3+executable/ : best_practices : boilerplate : python : reference
 https://www.pythoncentral.io/hashing-strings-with-python/ : MD5 : cryptography : hash : python
+https://www.qrg.northwestern.edu/BPS/readme.html : ai : building_problem_solvers : ken_forbus : lisp : logic
 https://www.quantamagazine.org/beyond-the-bell-curve-a-new-universal-law-20141015/ : math : natalie_wolchover : physics : quanta : statistics
 https://www.quantamagazine.org/computer-scientists-close-in-on-unique-games-conjecture-proof-20180424/ : quanta : unique_games_conjecture
 https://www.quantamagazine.org/math-proof-finds-all-change-is-mix-of-order-and-randomness-20190327/ : __come_back_to : complex_systems : dynamic_systems : kevin_hartnett : quanta : random : randomness

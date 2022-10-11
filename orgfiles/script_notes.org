@@ -133,6 +133,18 @@ pdftk file.pdf dump_data_utf8 > file.info
 pdftk file.pdf update_info_utf8 file.info output file2.pdf
 #+end_src
 
+# From https://askubuntu.com/questions/1264322
+#+begin_src bash
+# For Creating Bookmarks/TOC in pdfs:
+# BookmarkBegin
+# BookmarkTitle:
+# BookmarkLevel: 1
+# BookmarkPageNumber:
+pdftk ? dump_data > info.txt
+# -- Add bookmarks
+pdftk ? update_info info.txt output updated.pdf
+#+end_src
+
 ** File encoding
 file -I {}
 iconv -f {enc} -t {enc} {} > conv-{}
