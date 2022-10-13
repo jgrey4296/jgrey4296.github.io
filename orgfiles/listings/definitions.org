@@ -5,6 +5,10 @@ https://en.m.wikipedia.org/wiki/List_of_Latin_legal_terms
 https://en.m.wikipedia.org/wiki/Kill_chain
 https://wiki.haskell.org/Pointfree
 https://wiring.readthedocs.io/en/latest/rationale.html
+https://en.m.wikipedia.org/wiki/Glossary_of_fencing
+https://zampaniosim.fandom.com/wiki/Cognitohazard
+https://scp-fanon.fandom.com/wiki/Category:Cognitohazard
+https://en.wikipedia.org/wiki/Information_hazard
 * Main
 ** General
 *** Modalities
@@ -1205,6 +1209,16 @@ Time Displacement       -
 Woozle effect           -
 Chicago School          -
 *** Linguistics
+Synonym  - words of the same language with nearly the same meaning in some or all senses
+Antonym  - words with opposite meaning
+Homonym  - words with similar spelling or pronounciation but with different meanings.
+Hypernym - a more abstract word which includes the meaning of a specific word.
+Hyponym  - a more specific word which includes the meaning of a more general word.
+Troponym - a more specific verb for describing action
+Metonymy - figure of speech replacing one thing with an attribute of it. eg: "the crown"
+Meronym  - a word that names a part of a larger whole.
+
+
 **** Parts of Speech
 Noun                    -
 Pronoun                 -
