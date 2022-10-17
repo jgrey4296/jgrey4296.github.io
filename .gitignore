@@ -5,7 +5,7 @@ old/
 to_clean/
 years/auto/
 *cron_reports/
-*tex
+**/bibliography/tex
 _ignored
 *.auctex-auto/
 resources/urls/no_git
