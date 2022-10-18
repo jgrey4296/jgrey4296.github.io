@@ -6918,7 +6918,7 @@ https://en.m.wikipedia.org/wiki/Design_Patterns : design_patterns : wiki
 https://en.m.wikipedia.org/wiki/Dialectical_behavior_therapy : dialectical_behavior_therapy : psychology : therapy : wiki
 https://en.m.wikipedia.org/wiki/Dot_product : dot_product : math : vector_math : wiki
 https://en.m.wikipedia.org/wiki/Dred_Scott : SCOTUS : dred_scott : history : slavery : wiki
-https://en.m.wikipedia.org/wiki/Dril : online_culture : internet : wiki : dril : twitter
+https://en.m.wikipedia.org/wiki/Dril : dril : internet : online_culture : twitter : wiki
 https://en.m.wikipedia.org/wiki/Dystopia : dystopia : wiki
 https://en.m.wikipedia.org/wiki/EastEnders : soap : social_system : tv_show
 https://en.m.wikipedia.org/wiki/Economy_of_the_United_States : america : economy : wiki
@@ -6948,7 +6948,7 @@ https://en.m.wikipedia.org/wiki/List_of_logic_symbols : logic : wiki
 https://en.m.wikipedia.org/wiki/List_of_pioneers_in_computer_science  : computer_science : wiki
 https://en.m.wikipedia.org/wiki/List_of_sausages : food : sausage : wiki
 https://en.m.wikipedia.org/wiki/List_of_youngest_birth_mothers : abortion : birth : history : wiki
-https://en.m.wikipedia.org/wiki/Marsha_Rhea_Williams : marsha_rhea_williams : race : history : wiki : __important : computer_science
+https://en.m.wikipedia.org/wiki/Marsha_Rhea_Williams : __important : computer_science : history : marsha_rhea_williams : race : wiki
 https://en.m.wikipedia.org/wiki/Mass_shootings_in_the_United_States : america : mass_shooting : wiki
 https://en.m.wikipedia.org/wiki/Maximal_and_minimal_elements : math : order_theory : sets : wiki
 https://en.m.wikipedia.org/wiki/Model_checking : model_checking : wiki
@@ -7415,7 +7415,7 @@ https://gamedaily.biz/article/728/value-pithiness-over-lushness-weather-factorys
 https://gamehistory.org/simcity/ : 8_bit : game_history : history : sim_city
 https://gameraboy1.tumblr.com/post/178619671301/behind-the-scenes-of-battlestar-galactica-1978 : battlestar_galactica : tumblr
 https://gameraboy1.tumblr.com/post/179028559146/one-eye-viewed-the-room-briefly-before : art : science_fiction : tumblr
-https://gamerant.com/video-games-nemesis-system/ : game_criticism : shadow_of_mordor : nemesis_system : game_dev
+https://gamerant.com/video-games-nemesis-system/ : game_criticism : game_dev : nemesis_system : shadow_of_mordor
 https://games.slashdot.org/story/12/06/30/1933259/the-everyone-gets-the-source-code-donations-get-you-binaries-software-model : business_model : economics : pricing : slashdot : software_development
 https://games.slashdot.org/story/12/08/01/2057224/how-much-detail-is-too-much-for-games : criticism : gamasutra : game : game_design : graphics : realism : simulation : slashdot
 https://games.slashdot.org/story/12/08/06/2211237/free-software-ps2-emulator-pcsx2-hits-10 : emulation : slashdot
@@ -7463,6 +7463,7 @@ https://gist.github.com/bpierre/1341808 : github : javascript : make
 https://gist.github.com/eashish93/3eca6a90fef1ea6e586b7ec211ff72a5 : cheat_sheet : git
 https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83 : GLSL : github : noise
 https://git-scm.com/book/en/v2 : git
+https://git-scm.com/docs/gitignore : git : gitignore : reference
 https://github.blog/2021-12-09-introducing-stack-graphs/ : __come_back_to : blog : code_navigation : github : rewrite_rules : stack_graphs
 https://github.com/2020PB/police-brutality : dataset : george_floyd : github : police_violence : protest
 https://github.com/AlexEne/CCrush-Bot : ai : bot : github
@@ -7557,6 +7558,7 @@ https://github.com/Wilfred/remacs : emacs : github : rust
 https://github.com/Z3Prover/z3 : SMT : github : python : solver : theorem_proving : z3
 https://github.com/aalhour/C-Sharp-Algorithms : algorithm : c_sharp
 https://github.com/abo-abo/hydra : UI : emacs : github : hydra : libraries : lisp
+https://github.com/abo-abo/hydra/wiki/Nesting-Hydras : emacs : hydra : lisp : nesting
 https://github.com/active-logic/activelogic-cs : __come_back_to : behaviour_tree : c_sharp : github
 https://github.com/adonaac/blog : ai : behaviour_tree : blog : dungeon_generation : github : procedural_content : technical
 https://github.com/adonaac/blog/issues/7 : blog : github
@@ -7684,6 +7686,7 @@ https://github.com/gothinkster/realworld : backend : frontend : full_stack : git
 https://github.com/graknlabs/grakn : ai : github : grakn : hypergraph
 https://github.com/grappa-py/grappa : assert : github : grappa : python : unit_testing
 https://github.com/gregmalcolm/python_koans : education : github : koan : learning : libraries : practice : python
+https://github.com/gromnitsky/wordnut : emacs : github : lisp : wordnet
 https://github.com/gtk2hs/gtk2hs/blob/master/cairo/demo/gtk3/Drawing.hs : cairo : haskell
 https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md : github
 https://github.com/harthur/brain : github
@@ -7821,6 +7824,7 @@ https://github.com/pmaupin/pdfrw/ : github : pdf : pdfrw : programming : python
 https://github.com/ponyorm/pony/ : SQL : database : databases : github : library : object_relation_mapper : object_relational_mapper : pony : python
 https://github.com/ppareit/graphviz-dot-mode : dot : emacs : github : graphviz
 https://github.com/prabhath6/theguardian-api-python : api : github : guardian : python
+https://github.com/pradyunsg/furo : documentation : furo : github : python : sphinx
 https://github.com/prathyvsh/models-of-interaction : HCI : UI : __important : github : history : models_of_interaction
 https://github.com/praw-dev/praw : github : libraries : python : reddit
 https://github.com/psf/black : formatting : github : python
@@ -7837,6 +7841,7 @@ https://github.com/quchen/articles/tree/master/hindley-milner#readme : haskell :
 https://github.com/radian-software/straight.el#the-recipe-format : byte_compilation : emacs : recipe_format : straight.el
 https://github.com/radiatoryang/hedera : c_sharp : foliage : github : ivy : procedural_content : robert_yang : shader : unity
 https://github.com/radiatoryang/merino : YARN : __important : c_sharp : github : interactive_fiction : narrative : twine : unity
+https://github.com/raghavgautam/helm-wordnet : emacs : github : helm : wordnet
 https://github.com/reactjs/redux : javascript : react : redux : web_development
 https://github.com/reiinakano/scikit-plot : github : graph : libraries : plot : python : scikit
 https://github.com/renpy/renpy : github : python : renpy : visual_novel
@@ -8040,6 +8045,7 @@ https://going-medieval.com/2019/08/16/thats-not-what-sodomy-is-but-ok/ : bible :
 https://golang.org/ : go_lang : programming_language
 https://golang.org/doc/ : documentation : go : go_lang : programming : tutorial
 https://googlebooks.byu.edu/x.asp : BYU : corpora : data_sets : google : mark_davies : ngram : search
+https://gorillasun.de/blog/an-algorithm-for-polygon-intersections : algorithms : axis_alignment : game_programming : graphics : intersection : polygon
 https://gothamist.com/news/armored-ice-vehicle-sparks-panic-queens-during-firearms-bust : ICE : gothamist : immigration : militarisation : new_york : queens : racism
 https://gothamist.com/news/red-hook-boys-spent-halloween-night-handcuffed-carroll-gardens-police-precinct?utm_medium=social&utm_source=twitter&utm_campaign=shared_twitter : NYPD : gothamist : halloween : racism : yasmeen_khan
 https://goto.ucsd.edu/~nvazou/presentations/cufp16/05-refinement-reflection.html : SMT : liquidhaskell : refinement_types : smt : type_inference
@@ -8378,7 +8384,7 @@ https://jeremykun.com/2017/02/27/the-reasonable-effectiveness-of-the-multiplicat
 https://jessicabaker.co.uk/2018/03/11/tests-and-testability/  : jessica_baker : software_engineering : testing
 https://jessicabaker.co.uk/2018/05/15/code-hazards-and-how-to-avoid-them/  : code_hazards : jessica_baker : software_engineering
 https://jessicabaker.co.uk/2018/09/10/comment-free-coding/  : comments : jessica_baker : software_engineering
-https://jessicabaker.co.uk/2020/10/19/how-to-write-great-unit-tests/ : unit_tests : testing : software_engineering : jessica_baker
+https://jessicabaker.co.uk/2020/10/19/how-to-write-great-unit-tests/ : jessica_baker : software_engineering : testing : unit_tests
 https://jewishcurrents.org/a-springtime-of-erasure/ : art : eli_valley : erasure : jewish_currents : politics : satire : trump
 https://jezebel.com/private-messages-reveal-the-cis-journalist-groupthink-b-1827041764 : bigotry : harron_walker : jesse_singal : jezebel : politics : transgender
 https://jezebel.com/the-team-of-men-behind-rachel-brewson-the-fake-woman-w-1787270300 : ad_tech : anna_merlan : bot : fraud : impersonation : iral : jezebel : marketing : rachel_brewson
@@ -9215,7 +9221,7 @@ https://plotagainstimmigrants.com/network/ : journalism : plot_against_immigrant
 https://plotagon.com/ : animation : procedural_content : software
 https://plotly.com/python/ : plotly : python : visualisation
 https://pluggy.readthedocs.io/en/stable/index.html : __important : hooks : pluggy : python : software_engineering
-https://pluralistic.net/ : cory_doctorow : pluralistic : blog
+https://pluralistic.net/ : blog : cory_doctorow : pluralistic
 https://pmneila.github.io/jsexp/grayscott/ : diffusion : gray_scott : procedural_content : programming : project : tutorial : web_GL
 https://pocgamer.com/category/racism-2/racism-in-games/ : africa : analysis : criticism : fantasy : g_a_barber : poc_gamer : race : science_fiction
 https://podcasts.apple.com/gb/podcast/failed-architecture/id1384867713?i=1000431616321 : failed_architecture : podcast : qatar
@@ -9237,7 +9243,7 @@ https://popehat.com/2016/10/17/lawsplainer-the-ninth-circuit-and-compelled-speec
 https://popula.com/2019/02/11/white-words/ : 2019 : aaron_bady : eskimo : first_nations : indigenous_cultures : language : popula : racism
 https://possiblebodies.constantvzw.org/inventory/ : __come_back_to : anthropology : culture : possible_bodies : space
 https://possiblebodies.constantvzw.org/somatopologies/ : anthropology : art : body : nick_seaver : somatopolgies : space
-https://postmoderndelver.wordpress.com/tag/northernlion/ : northern_lion : humour : heidi_mckee : digital_rhetoric
+https://postmoderndelver.wordpress.com/tag/northernlion/ : digital_rhetoric : heidi_mckee : humour : northern_lion
 https://potassco.org/ : ASP : clingo : github : potassco
 https://practicalphd.net/ : __important : blog : phd : practical_phd : research : resource
 https://preactjs.com/ : javascript : libraries : preact : web_design
@@ -9290,6 +9296,7 @@ https://pycairo.readthedocs.io/en/latest/reference/context.html : cairo : librar
 https://pycodestyle.pycqa.org/en/latest/index.html : pep8 : programming : pycodestyle : python
 https://pygraphviz.github.io/documentation/pygraphviz-1.4rc1/reference/agraph.html : pygraphviz
 https://pygraphviz.github.io/documentation/pygraphviz-1.5/reference/agraph.html : library : pygraphviz : python : visualisation
+https://pylint.pycqa.org/en/latest/ : linter : pylint : python
 https://pymotw.com/3/abc/ : python : software_design
 https://pymupdf.readthedocs.io/en/latest/tutorial.html#pdf-maintenance : pymupdf
 https://pypa-build.readthedocs.io/en/latest/ : build : build_lib : distribution : module : programming : python : software_engineering
@@ -9543,6 +9550,7 @@ https://slate.com/technology/2019/08/mario-maker-ii-game-language-nintendo.html?
 https://slate.com/technology/2020/02/algorithmic-bias-people-with-disabilities.html : alexandra_reeve_givens : algorithmic_bias : bias : disability : slate
 https://slate.com/technology/2020/02/kim-stanley-robinson-californias-trilogy-utopia.html?via=rss_socialflow_twitter : interview : isaac_butler : kim_stanley_robinson : science_fiction : slate : three_californias
 https://slaveryandjusticereport.brown.edu/  : brown_university : history : justice : report : slavery
+https://slimemoldtimemold.com/2022/10/05/say-no-to-neurotypification/ : neurodiversity : neurotypification
 https://sluggerotoole.com/2018/05/06/you-get-less-holidays-than-a-medieval-peasant/ : holiday : medieval : peasants : sluggerotoole : work
 https://smallpondscience.com/2014/12/29/dead-grandmothers-no-more-the-equal-accommodation-classroom/ : blog : education
 https://smittenkitchen.com/2014/10/better-chocolate-babka/ : babka : chocolate : recipe : smitten_kitchen
@@ -10183,7 +10191,7 @@ https://web.archive.org/web/20210616165739/https://developer.mozilla.org/en-US/d
 https://web.cs.wpi.edu/~rich/aipaint/BecroftEtAl2011_AIPaint.pdf : ai : authoring : behaviour_tree : tool
 https://web.eecs.umich.edu/~comar/courses/ui-for-pl/ : UI : __important : programming_langauges : programming_languages : scourse : syllabus : user_interface
 https://web.eecs.umich.edu/~cpeikert/pubs/lattice-survey.pdf : cryptography : lattice : paper : pdf
-https://web.media.mit.edu/~minsky/ : marvin_minsky : archive
+https://web.media.mit.edu/~minsky/ : archive : marvin_minsky
 https://web.stanford.edu/class/cs224n/reports/2762063.pdf : NLP : deep_learning : poetry
 https://web.stanford.edu/~jurafsky/ws97/manual.august1.html : DAMSL
 https://webassembly.org/specs/ : internet : programming : technical_specifications : web_assembly
@@ -10590,7 +10598,7 @@ https://www.cbc.ca/radio/thecurrent/the-current-for-november-13-2018-1.4902679/i
 https://www.cbinsights.com/research/corporate-innovation-product-fails/ : cbinsights : corporations : failure : innovation : product
 https://www.cbpp.org/research/health/medicaid-block-grant-would-slash-federal-funding-shift-costs-to-states-and-leave : CBP : GOP : block_grants : edwin_park : medicaid : policy : trump
 https://www.cbsnews.com/amp/news/charles-kinsey-shooting-clears-officer-jonathan-aledda-on-1-count-deadlocks-on-others-today-2019-03-15/ : CBS : charles_kinsey : florida : news
-https://www.cc.gatech.edu/gvu/ii/softvis/ : georgia_tech : data_visualisation : research : academia : software_visualisation
+https://www.cc.gatech.edu/gvu/ii/softvis/ : academia : data_visualisation : georgia_tech : research : software_visualisation
 https://www.cc.gatech.edu/~isbell/pubs/  : academia : charles_isbell : georgia_tech : research
 https://www.cc.gatech.edu/~riedl/pubs/aaai-keg17.pdf : creativity : machine_learning : mark_riedel : paper : procedural_content
 https://www.cdc.gov/mmwr/volumes/67/ss/ss6713a1.htm : CDC : abortion : statistics
