@@ -1,19 +1,10 @@
 d3                                        : 28
-d_and_d                                   : 11 : dungeons_and_dragons
 d_lang                                    : 2
-d_n_d                                     : 1  : dungeons_and_dragons
-dACA                                      : 1  : DACA
-daca                                      : 1  : DACA
-DACA                                      : 4
 dachau                                    : 1
 daedelus                                  : 1
 daegu                                     : 1
-DAG                                       : 1
 dagger                                    : 1
-DAGS                                      : 1  : DAGs
-DAGs                                      : 2
 dagstuhl                                  : 7
-DAI                                       : 1
 daily_activity                            : 3
 daily_beast                               : 5
 daily_briefing                            : 1
@@ -47,12 +38,9 @@ damage recovery                           : 1 : damage_recovery
 damascus                                  : 1
 dambulla                                  : 1
 dame_dev                                  : 1  : game_dev
-DAML                                      : 1
 damnation                                 : 1
 damnsmalllinux                            : 1
 dams                                      : 2
-damsl                                     : 10 : DAMSL
-DAMSL                                     : 3
 dance                                     : 12
 dance_dance_revolution                    : 1
 dancing                                   : 1
@@ -62,8 +50,6 @@ dancing_plague                            : 1
 dandong                                   : 1
 dangerous_jobs                            : 1
 danish                                    : 1
-DAPL                                      : 1
-DAR                                       : 1
 dark                                      : 1
 dark_ads                                  : 1
 dark_age_of_camelot                       : 1
@@ -79,15 +65,11 @@ dark_value                                : 1
 darklands                                 : 1
 darksiders                                : 1
 darkwood                                  : 1
-darpa                                     : 2  : DARPA
-DARPA                                     : 4
 dart                                      : 1
 dartmouth                                 : 1
-DARVO                                     : 2
 dasein                                    : 1
 dasharezone                               : 1
 dask                                      : 1
-DASSIE                                    : 1
 dassur                                    : 1
 Data                                      : 1 : data
 data                                      : 82
@@ -167,7 +149,6 @@ dating_sims                               : 1  : dating_simulation
 dating_simulation                         : 2
 davidad                                   : 1
 davitmasia                                : 1
-DAW                                       : 1
 dawn_of_man                               : 1
 dawn_of_war                               : 3
 daycare                                   : 1
@@ -175,20 +156,8 @@ daytime_tv                                : 1
 dayton                                    : 1
 dayton_shooting                           : 1
 DayZ                                      : 1
-DBMS                                      : 1
-DBR                                       : 1
-dc                                        : 1  : DC
-DC                                        : 3
-DCGAN                                     : 1
-DDA                                       : 3
-DDE                                       : 1
-DDLA                                      : 1
-DDOS                                      : 1
-DDoS                                      : 2  : DDOS
 de_facto                                  : 1
 de_jure                                   : 1
-dea                                       : 4  : DEA
-DEA                                       : 9
 dead_children                             : 1
 dead_sea_scrolls                          : 1
 dead_space                                : 2
@@ -244,7 +213,6 @@ decentralization                          : 2  : decentralisation
 decentralized_systems                     : 4  : decentralised_systems
 deception                                 : 7
 deceptive_communication                   : 1
-DECERNS                                   : 1
 decision                                  : 10 : decisions
 decision_analysis                         : 1
 decision_based_design                     : 1
@@ -304,11 +272,9 @@ deep_web                                  : 1
 deep_work                                 : 1
 deepmind                                  : 4
 deepTools                                 : 1
-DEF                                       : 1
 defamation                                : 3
 default                                   : 1
 defaults                                  : 1  : default
-DEFCON                                    : 2
 defeasibility                             : 2
 defeasible_logic                          : 10
 defeasible_reasoning                      : 3
@@ -346,9 +312,7 @@ dehumanization                            : 5  : dehumanisation
 deictic                                   : 1
 deictic_representation                    : 1
 deinstitutionalization                    : 1
-DEIOS                                     : 1
 deitic_representation                     : 1  : deictic_representation
-DEL                                       : 1
 delaratives                               : 1
 delaunay                                  : 1
 delaware                                  : 1
@@ -367,7 +331,6 @@ delivery                                  : 1
 delta_v                                   : 2
 deltarune                                 : 1
 delver                                    : 2
-DEMAIS                                    : 1
 demand                                    : 1
 demand_driven                             : 1
 dementia                                  : 1
@@ -429,13 +392,11 @@ deprivation                               : 2
 dept_of_education                         : 4
 dept_of_work                              : 1
 depth_hub                                 : 2
-DER                                       : 1
 deradicalisation                          : 1
 derbyshire                                : 1
 deregulation                              : 6
 dermatitis                                : 1
 DeRool                                    : 1
-DERRIC                                    : 1
 des_moines                                : 1
 des_moines_register                       : 1
 descartes                                 : 1
@@ -473,11 +434,9 @@ design_thinking                           : 1
 designed_ethical_systems                  : 1
 designed_experience                       : 1
 designer_notes                            : 1
-DESIRE                                    : 1
 desire                                    : 3
 desires                                   : 1  : desire
 desks                                     : 1
-DESMON                                    : 1
 despair                                   : 1
 despotic_power                            : 1
 despotism                                 : 1
@@ -498,7 +457,6 @@ deterrence                                : 3
 deterrent                                 : 1  : deterrence
 detransition                              : 1
 detroit                                   : 12
-DETT                                      : 1
 deus_ex                                   : 6
 deus_vult                                 : 2
 deutsche_bank                             : 1
@@ -507,8 +465,6 @@ dev.to                                    : 2  : dev_to
 dev_blog                                  : 1
 dev_diary                                 : 1
 dev_to                                    : 2
-devarea                                   : 1
-devdocs                                   : 1
 developer_experience                      : 1
 developer_manifesto                       : 1
 developers                                : 1
@@ -523,14 +479,9 @@ develper_experience                       : 1  : developer_experience
 deviance                                  : 1
 deviant_art                               : 3
 deviantart                                : 3  : deviant_art
-devops                                    : 2
 deza_ratio                                : 1
 dezeen                                    : 1
-df-9                                      : 1  : DF_9
-DF_9                                      : 1
 dhaka                                     : 1
-dhs                                       : 3  : DHS
-DHS                                       : 4
 diabetes                                  : 6
 diabetic                                  : 1
 diablo                                    : 4
@@ -566,7 +517,6 @@ diaries                                   : 1  : diary
 diarrhea_rule                             : 1
 diary                                     : 3
 diaspora                                  : 1
-DICE                                      : 1
 dice                                      : 2
 dice_mechanics                            : 1
 dicey_dungeons                            : 1
@@ -638,15 +588,10 @@ digital_signal_processing                 : 13
 digital_sts                               : 1
 digital_studies                           : 1
 digital_technology                        : 1
-DIGITEL                                   : 1
 digitisation                              : 2
 digitization                              : 2  : digitisation
 digitized_manuscripts                     : 1  : digitisation
-DIGMA                                     : 1
 dignity                                   : 1
-DIGRA                                     : 1
-DiGRA                                     : 1
-digra                                     : 1  : DIGRA
 dildo                                     : 2
 dilemma                                   : 3
 dilemmas                                  : 3  : dilemma
@@ -654,25 +599,21 @@ dimension_reduction                       : 1
 dimensions                                : 2
 dimensions_of_dialogue                    : 1
 dimorphism                                : 1
-DINA                                      : 1
 diner                                     : 1
 dining                                    : 3
 dining_philosophers                       : 1
-DINO                                      : 1
 dinosaur                                  : 1
 diogenes                                  : 1
 dionysos                                  : 1
 dior                                      : 1
 diphthong                                 : 1
 diplomacy                                 : 5
-DiPRA                                     : 1
 direchlet                                 : 1
 direct_action                             : 1
 direction                                 : 2
 dired                                     : 2
 dirty_water                               : 1
 dirty_work                                : 1
-DIS                                       : 1
 disabilities                              : 1  : disability
 disability                                : 100
 disability_studies                        : 1
@@ -803,25 +744,14 @@ division_of_labor                         : 1  : division_of_labour
 division_of_labour                        : 9
 divorce                                   : 2
 dixiecrats                                : 5
-DIY                                       : 4
-diy                                       : 4  : DIY
 django                                    : 1
 djerba                                    : 2
-DJIA                                      : 1
 djibouti                                  : 1
 djinn                                     : 1
-DLA                                       : 1
 dlaf                                      : 2
-DLC                                       : 2
-DMCA                                      : 16
-DMV                                       : 4
-dna                                       : 1  : DNA
-DNA                                       : 14
 DNA_computing                             : 1
 DNA_testing                               : 2
-DND                                       : 3
 do_calculus                               : 1
-DOC                                       : 1
 doc_gen                                   : 1
 docile_bodies                             : 1
 docker                                    : 3
@@ -840,8 +770,6 @@ documentary                               : 5
 Documentation                             : 1 : documentation
 documentation                             : 33
 documents                                 : 5  : document
-DoD                                       : 1
-DODM                                      : 1
 dog                                       : 10
 dog_hunts                                 : 1
 dog_mom                                   : 1
@@ -851,15 +779,11 @@ dogma                                     : 1
 dogma_95                                  : 1
 dogs                                      : 2  : dog
 dogwhistles                               : 1  : dog_whistle
-DOI                                       : 1
 doi.org/10.1101/818138                    : 1
-DOJ                                       : 13
-doj                                       : 2  : DOJ
 doll                                      : 1
 dollhouse                                 : 2
 dolls                                     : 1  : doll
 dolmetsch                                 : 1
-DOMA                                      : 2
 domain                                    : 1
 domain_driven_design                      : 1
 domain_elaboration_framework              : 1
@@ -872,7 +796,6 @@ Domain_specific_modeling                  : 1  : domain_specific_modeling
 domain_specific_software                  : 1
 domain_warning                            : 1
 domains                                   : 6  : domain
-DOME                                      : 1
 domestic_abuse                            : 11
 domestic_ideology                         : 1
 domestic_terrorism                        : 9
@@ -901,13 +824,9 @@ dopamine                                  : 5
 doral                                     : 2
 doroedoro                                 : 1
 dorr_brothers                             : 1
-dos                                       : 2
 dosbox                                    : 2
-DOSS                                      : 1
 dot_eating                                : 1
 dot_product                               : 4
-DOTA                                      : 1
-dota                                      : 5  : DOTA
 dotgraph                                  : 1
 double_entry_accounting                   : 1
 double_entry_bookkeeping                  : 2
@@ -917,8 +836,6 @@ doublefine                                : 4
 doubt                                     : 1
 douglas_county                            : 1
 dove                                      : 1
-DOW                                       : 1
-dow                                       : 1  : DOW
 download                                  : 1
 downs_syndrome                            : 3
 downsizing                                : 1
@@ -932,9 +849,6 @@ doxastic_closure                          : 1
 doxastic_logic                            : 1
 doxing                                    : 2
 doxygen                                   : 6
-DPL2019                                   : 1
-DPRK                                      : 1
-DQN                                       : 2
 dr_dolittle                               : 1  : doctor_dolittle
 dr_who                                    : 6  : doctor_who
 dracula                                   : 2
@@ -961,10 +875,7 @@ DrammarOCC                                : 1
 dravidian_movement                        : 1
 drawing                                   : 35
 drawings                                  : 1  : drawing
-DRC                                       : 2
-DReAM                                     : 1
 dream                                     : 2
-DREAM_act                                 : 1
 dream_apart                               : 1
 dream_askew                               : 3
 dream_hack                                : 1
@@ -989,19 +900,16 @@ driver                                    : 1
 drivers_licenses                          : 1
 driving                                   : 9
 driving_license                           : 1
-DRM                                       : 43
 drone                                     : 1
 drone_strike                              : 2
 drone_warfare                             : 1
 drones                                    : 6  : drone
-DROOLS                                    : 1
 Drools                                    : 2  : drools
 drools                                    : 5
 drosophilia                               : 1  : drosophila
 drought                                   : 1
 drowning                                  : 2
 drowsiness                                : 2
-DRT                                       : 1
 drug                                      : 43 : drugs
 drug_addiction                            : 1
 drug_court                                : 1
@@ -1018,23 +926,7 @@ drumming                                  : 2
 drums                                     : 2
 drunk_driving                             : 1
 dry                                       : 2
-ds9                                       : 2  : DS9
-DS9                                       : 3
 dsitrbuted                                : 1  : distributed
-dsl                                       : 2  : DSL
-DSL                                       : 48
-DSLR                                      : 1
-dslr                                      : 1  : DSLR
-DSLs                                      : 3  : DSL
-DSM                                       : 2
-dsm5                                      : 1 : DSMV
-DSML                                      : 1
-DSMLs                                     : 1
-DSMV                                      : 2
-DSP                                       : 1
-dsp                                       : 5  : DSP
-DTA                                       : 1
-DTMC                                      : 1
 du_pont                                   : 1
 dual_process                              : 1
 dualism                                   : 1
@@ -1064,7 +956,6 @@ dungon                                    : 1  : dungeon
 dungons_and_dragons                       : 1  : dungeons_and_dragons
 dunning_kruger                            : 2
 Dunyazad                                  : 1
-DUP                                       : 2
 duration                                  : 1
 durative_activities                       : 1
 durham                                    : 1
@@ -1077,8 +968,6 @@ dutee_chand                               : 1
 duties                                    : 2  : duty
 duty                                      : 1
 duty_of_care                              : 1
-DVD                                       : 1
-dw                                        : 1
 dwarf                                     : 1
 Dwarf                                     : 1  : dwarf
 dwarf_corp                                : 1
@@ -1087,8 +976,6 @@ dwarfcorp                                 : 1  : dwarf_corp
 dwarfism                                  : 1
 dwarves                                   : 1  : dwarf
 dwelling                                  : 1
-dwp                                       : 1  : DWP
-DWP                                       : 12
 dyadic                                    : 1
 dyadic_deontic_logic                      : 1
 dyck_extended_language                    : 1

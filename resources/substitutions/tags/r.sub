@@ -1,4 +1,3 @@
-R                                    : 1
 r_street_institute                   : 2
 rabbit                               : 2
 race                                 : 133
@@ -69,7 +68,6 @@ radiological_weapons_testing         : 1
 radiophonic_workshop                 : 1
 radius                               : 1
 rae_science                          : 1      : race_science
-Raft                                 : 1      : raft
 raft                                 : 2
 ragnarok                             : 1
 raids                                : 1
@@ -87,8 +85,6 @@ rainbow_coalition                    : 1
 rainbow_six                          : 1
 rainbox_color_maps                   : 2
 rainforests                          : 1
-RAINN                                : 2
-rainn                                : 2      : RAINN
 rajasthan                            : 1
 raleigh                              : 2
 rallys                               : 2
@@ -97,8 +93,6 @@ ramanujan_machine                    : 1
 ramification_problem                 : 1
 ramnagar                             : 1
 ranching                             : 1
-RAND                                 : 1
-rand                                 : 4      : RAND
 random                               : 18
 random_encounters                    : 1
 random_facts                         : 1
@@ -128,13 +122,7 @@ rapid_prototyping                    : 1
 rapport                              : 1
 rapture                              : 2
 rare_earth                           : 1
-RASC                                 : 1
-RASCAL                               : 2
-Rascal                               : 2      : RASCAL
-rascal                               : 2      : RASCAL
-RASE                                 : 1
 raspberry_pi                         : 3
-RAT                                  : 1
 rat                                  : 2
 ratchet_effect                       : 1
 rate_beer                            : 1
@@ -163,19 +151,10 @@ raw_story                            : 2
 raytheon                             : 2
 razor                                : 1
 razor_blades                         : 1
-RBox                                 : 1
-RBS                                  : 1
-RCMP                                 : 1
-RCT                                  : 1
-RCTs                                 : 1 : RCT
-RDF                                  : 1
-rdf                                  : 3      : RDF
-RDoC                                 : 1
 re_organization                      : 1
 re_reading                           : 1
 reach                                : 1
 reachability                         : 1
-REACT                                : 1
 react                                : 18
 reaction_diffusion                   : 1
 reactionary_mind                     : 1
@@ -230,7 +209,6 @@ rebirth                              : 1
 reboot                               : 2
 rebordering                          : 1
 rebus_community                      : 1
-RECALL                               : 1
 recall                               : 3
 recap                                : 1
 recategorisation                     : 1
@@ -296,7 +274,6 @@ red_storm                            : 1
 red_summer                           : 1
 red_vs_blue                          : 1
 redaction                            : 1
-REDD                                 : 1
 reddit                               : 80
 redirection                          : 1
 redistribution                       : 3
@@ -345,8 +322,6 @@ refuse                               : 1
 refutation                           : 1
 regency                              : 1
 regensis                             : 1
-regex                                : 1      : regexp
-regexp                               : 18
 regime                               : 4
 regime_change                        : 3
 regimentation                        : 1
@@ -366,13 +341,11 @@ regulations                          : 3      : regulation
 regulative                           : 1
 regulatory_categorization            : 1
 regulatory_regions                   : 1
-rehab                                : 1      : rehabilitation
 rehabilitation                       : 2
 reification                          : 1
 reified                              : 1      : reification
 reigns                               : 5
 reimagining                          : 1
-REINFORCE                            : 1
 reinforcement                        : 21
 reinforcement_learning               : 26
 reinforcemnt                         : 1      : reinforcement
@@ -445,10 +418,8 @@ rent_seeking                         : 4
 rental                               : 5      : rent
 renters                              : 1      : rent
 renting                              : 3      : rent
-Reo                                  : 2      : reo
 reo                                  : 4
 reorganization                       : 1
-REPAGE                               : 1
 repair_strategy                      : 1
 reparation                           : 1      : reparations
 reparations                          : 16
@@ -469,7 +440,6 @@ replicated_state_machines            : 1
 replication                          : 24
 replication_crisis                   : 10
 reply_guys                           : 1
-repo                                 : 2
 report                               : 101
 reporting                            : 2
 reporting_guidelines                 : 1
@@ -531,7 +501,6 @@ resistance                           : 18
 resistane                            : 1      : resistance
 resistence                           : 1      : resistance
 resisting_militarism                 : 1
-ReSkii                               : 1
 resolution                           : 8
 resolutions                          : 1      : resolution
 resonance                            : 1
@@ -557,13 +526,11 @@ responsibility                       : 23
 responsible_ai                       : 1
 responsive                           : 1
 responsive_instruments               : 1
-REST                                 : 2
 restaurant                           : 6
 restaurants                          : 1      : restaurant
 restitution                          : 1
 restorative_justice                  : 1
 restorative_justie                   : 1      : restorative_justice
-RESTORE                              : 1
 restraint                            : 1
 restraints                           : 1
 restricted_entailment                : 1
@@ -574,11 +541,8 @@ resumable                            : 1
 resumes                              : 2
 retail                               : 3
 retaliation                          : 1
-RETE                                 : 1
-rete                                 : 28     : RETE
 retention                            : 1
 retirement                           : 1
-RETORCH                              : 1
 retraction                           : 1
 retraction_watch                     : 1
 retreat                              : 1
@@ -619,7 +583,6 @@ revision                             : 1
 revisionism                          : 1
 revisionists                         : 1      : revisionism
 revocation                           : 1
-REVOLT                               : 1
 revolt                               : 1
 revolution                           : 22
 revolutionary_warfare                : 1
@@ -628,21 +591,15 @@ reward                               : 2
 reward_functions                     : 1
 reward_systems                       : 1
 rewards                              : 1
-REWE                                 : 1
 rewire                               : 3
 rewriting                            : 5
 rezk_types                           : 1
 rezoner                              : 1
-rfc                                  : 1
-RFC_1                                : 1
-RFID                                 : 3
-rgb                                  : 2
 rhetoric                             : 24
 rhetorical_structure                 : 1
 rhinos                               : 1
 rhizomatiks                          : 1
 rhizome                              : 1
-RHO_calculus                         : 1
 rhode_island                         : 1
 rhodes                               : 1
 rhodesia                             : 1
@@ -652,7 +609,6 @@ rhyme                                : 1
 rhythm                               : 14
 rhythmanalysis                       : 1
 rhythms                              : 2      : rhythm
-RIAA                                 : 10
 ribbonfarm                           : 2
 rice                                 : 5
 rich                                 : 2
@@ -667,8 +623,6 @@ riddles                              : 1
 ridgewood                            : 1
 riding                               : 2
 riemann                              : 1
-RIF_RPD                              : 1
-RIFTS                                : 1
 rigging                              : 5
 right_of_way                         : 1
 right_to_be_forgotten                : 1
@@ -696,7 +650,6 @@ riots                                : 7
 rippl_down_rules                     : 1 : ripple_down_rules
 ripple_down                          : 1
 ripple_down_rules                    : 1
-RISC                                 : 1
 risk                                 : 30
 risk_analysis                        : 1
 risk_assessment                      : 5      : risk_analysis
@@ -704,7 +657,6 @@ risk_aversion                        : 2
 risk_management                      : 3
 risk_perception                      : 1
 risk_society                         : 1
-RISLA                                : 1
 rite_of_passage                      : 1
 rites                                : 2
 ritman_library                       : 1
@@ -715,11 +667,9 @@ ritual_performance                   : 1
 rituals                              : 2      : ritual
 river                                : 1
 riviere                              : 1
-ROA                                  : 1
 road_rage                            : 1
 road_salt                            : 1
 road_trips                           : 1
-ROADMAP                              : 1
 roadmap                              : 2
 roads                                : 4
 roam                                 : 4
@@ -741,7 +691,6 @@ robotics                             : 84
 robotis                              : 2      : robotics
 robots                               : 2 : robot
 robustness                           : 3
-ROCIC                                : 1
 rock                                 : 1
 rock_fortress                        : 1
 rock_music                           : 1
@@ -776,7 +725,6 @@ roll_call                            : 2
 rollcall                             : 1      : roll_call
 rolling_out                          : 1
 rollingstone                         : 6
-rom                                  : 1      : roms
 roma                                 : 1
 roman                                : 1
 roman_constitution                   : 1
@@ -793,20 +741,17 @@ romans                               : 2
 romantic_period                      : 1
 romanticism                          : 2
 rome                                 : 7
-roms                                 : 2
 roof                                 : 1
 roofing                              : 1
 roofman                              : 1
 root_cause                           : 1
 ropposum                             : 1
 Roraima                              : 1
-ROS                                  : 1
 rosaries                             : 1
 rosemarys_baby                       : 1
 rosetta_code                         : 3
 rosetta_stone                        : 1
 Rosette                              : 1
-ROSI                                 : 1
 rostam_cycle                         : 1
 rotation                             : 1
 round_city                           : 1
@@ -826,19 +771,8 @@ royal_observatory                    : 1
 royal_society                        : 5
 royalties                            : 2
 royalty                              : 3
-RPB                                  : 1
-rpg                                  : 116    : RPG
-RPG                                  : 166
 rpg_maker                            : 1
-RPGs                                 : 2      : RPG
-rpgs                                 : 46     : RPG
-rps                                  : 4 : rock_paper_shotgun
-RSA                                  : 1
-RSS                                  : 1
-rss                                  : 1      : RSS
-RST                                  : 1
 rstreet                              : 1
-RTS                                  : 9
 rubbish                              : 3
 rubbish_theory                       : 1
 rubiks_code                          : 1
@@ -869,13 +803,9 @@ rule_system                          : 3
 rule_systems                         : 4      : rule_system
 rule_template                        : 1
 rulelog                              : 3
-ruleml                               : 1      : RuleML
-RuleML                               : 3
-ruleML                               : 8      : RuleML
 ruleness                             : 1
 rulers                               : 1
 rules                                : 154    : rule
-RUM                                  : 1
 rumi                                 : 1
 rumor                                : 1      : rumour
 rumour                               : 1

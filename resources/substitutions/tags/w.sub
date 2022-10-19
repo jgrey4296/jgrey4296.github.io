@@ -1,8 +1,5 @@
-w3                               : 3
 wabi_sabi                        : 1
 waco                             : 1
-WADE                             : 1
-wafb                             : 1
 waffle_house                     : 1
 waffle_house_shooting            : 3
 wage_growth                      : 1
@@ -36,7 +33,6 @@ walls                            : 1 : wall
 walmart                          : 3
 walsall_council                  : 1
 Wampum                           : 1
-wapo                             : 52  : washington_post
 war                              : 9
 war_crimes                       : 10
 war_declaration                  : 1
@@ -72,14 +68,11 @@ washington_post                  : 120
 washington_state                 : 4
 washington_times                 : 2
 wasilla                          : 1
-WASPs                            : 1
-wasps                            : 1   : WASPs
 waste                            : 4
 waste_isolation                  : 1
 waste_water_management           : 1
 wasteland                        : 1
 wastewater                       : 1
-WAT                              : 1
 watabou                          : 2
 watch                            : 1
 watch_dogs                       : 2
@@ -110,12 +103,8 @@ wave_patterns                    : 1
 waveform                         : 1
 wavenet                          : 2
 waves                            : 1
-WAVES                            : 1   : waves
 wayback                          : 13
 waypoint                         : 18
-wbez                             : 2
-wcbs880                          : 1
-wcd_fyi                          : 1
 we_are_the_caretakers            : 1
 weak_ai                          : 1
 weak_emergence                   : 1
@@ -140,7 +129,6 @@ weather                          : 7
 weather_report                   : 1
 weather_service                  : 1
 weaving                          : 1
-WEB                              : 1
 web                              : 49
 web_bloat                        : 1
 web_browser                      : 2
@@ -152,7 +140,6 @@ web_design                       : 48
 web_dev                          : 1   : web_development
 web_development                  : 41
 web_filter                       : 1
-web_GL                           : 10
 web_history                      : 1
 web_pack                         : 9
 web_page                         : 1
@@ -165,13 +152,8 @@ web_workers                      : 1
 webby                            : 1
 webcam                           : 1
 webcomic                         : 1
-WebDAV                           : 1
 webdev                           : 2   : web_development
-WebDSL                           : 1
-webGL                            : 1   : web_GL
-webgl                            : 9   : web_GL
 webpack                          : 9   : web_pack
-WEBQUESTIONSSP                   : 1
 website                          : 1
 website_design                   : 2
 websites                         : 1   : website
@@ -233,8 +215,6 @@ what_monkey_says                 : 1
 whataboutism                     : 1
 whatmonkeysays                   : 1   : what_monkey_says
 whatsapp                         : 1
-WHCD                             : 1
-whcd                             : 1   : WHCD
 wheat                            : 1
 wheelchair                       : 1
 wheelchairs                      : 5   : wheelchair
@@ -280,8 +260,6 @@ whites                           : 4   : white
 whitespace                       : 1   : white_space
 whitewashing                     : 1   : white_washing
 whitney_plantation               : 2
-WHO                              : 2
-who                              : 2 : WHO
 whores                           : 1
 whores_of_yore                   : 2
 whtie_feminism                   : 1   : white_feminism
@@ -294,9 +272,7 @@ widening                         : 1
 widowhood                        : 1
 widows                           : 1
 wife_guys                        : 1
-wifi                             : 3
 wii                              : 4
-wiki                             : 18
 wiki_abstinence                  : 1
 wiki_book                        : 12
 wiki_leaks                       : 3
@@ -348,7 +324,6 @@ winter_olympics                  : 1
 winzip                           : 1
 wipeout                          : 1
 wipeout_omega                    : 1
-WIPO                             : 2
 wired                            : 103
 wireframe                        : 4
 wireframe_mag                    : 1
@@ -376,16 +351,11 @@ witness_narrator                 : 1
 wives                            : 1
 wizard_of_oz                     : 2
 wizard_zines                     : 1
-WIZARDABSS                       : 1
 wmagazine                        : 1
-wmmna                            : 1
-WOC                              : 1
-woc                              : 1   : WOC
 wodaabe                          : 2
 woggles                          : 2
 woke                             : 1
 woke_gaming                      : 1
-wol                              : 1
 wolf_among_us                    : 1
 wolfenstein                      : 3
 wolfram                          : 3
@@ -474,11 +444,7 @@ worlds                           : 1   : world
 worries                          : 1
 worse_sense                      : 1
 worship                          : 1
-WOSPP                            : 1
 wounds                           : 3
-WoW                              : 25 : world_of_warcraft
-WOZ                              : 1
-wreg                             : 1
 wrestling                        : 1
 writer                           : 2
 writers                          : 3
@@ -498,17 +464,6 @@ wrongdoing                       : 1
 wrongful_arrests                 : 1
 wrongful_convictions             : 1
 wrongful_detainment              : 1
-wsbt                             : 1
-wsbtv                            : 1
-WSJ                              : 5
-wsj                              : 5   : WSJ
-WSM                              : 1
-WSTS                             : 1
-wtf                              : 1
 wuhan                            : 1
 wuxia                            : 1
-WW1                              : 2 : world_war_1
-ww2                              : 1   : world_war_2
-WW2                              : 2 : world_war_2
-www                              : 1   : web
 wyoming                          : 1

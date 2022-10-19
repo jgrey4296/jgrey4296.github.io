@@ -1,13 +1,3 @@
-p-log                                : 1 : p_log
-p3                                   : 1
-p_hacking                            : 7
-p_k_metric                           : 1
-p_log                                : 1
-p_np                                 : 1  : p_vs_np
-p_values                             : 4
-p_vs_np                              : 1
-PaaS                                 : 1
-PAC                                  : 1
 pac_man                              : 1
 pace                                 : 1
 pacific                              : 1
@@ -23,7 +13,6 @@ packaging                            : 5  : packages
 packets_please                       : 1
 packrat_parser                       : 1
 packrattle                           : 1
-PACs                                 : 1
 pagan                                : 1  : paganism
 paganism                             : 1
 page_rank                            : 1
@@ -91,7 +80,6 @@ paperwork                            : 2  : paper_work
 papes                                : 1
 papo_and_yo                          : 1
 papua_new_guinea                     : 1
-PAR                                  : 2
 para                                 : 1
 para_military                        : 1
 parable_of_the_sower                 : 1
@@ -106,7 +94,6 @@ paradise_circus                      : 1
 paradise_fire                        : 1
 paradise_lost                        : 1
 paradox                              : 5
-PARAGon                              : 1
 paraguay                             : 1
 parallel                             : 1
 parallel_computation                 : 1
@@ -128,7 +115,6 @@ parasite                             : 2
 paratext                             : 1
 paratopic                            : 1
 paratropic                           : 1  : paratopic
-PARC                                 : 1
 pardon                               : 1
 pardons                              : 2  : pardon
 parental_rights                      : 2
@@ -165,7 +151,6 @@ parser_combinators                   : 3  : parser_combinator
 parsers                              : 1  : parser
 parsimmon                            : 1
 parsing                              : 22 : parser
-parsl                                : 1
 part_of_speech                       : 3
 partial_dependence_plots             : 1
 partial_differential_equations       : 1
@@ -209,8 +194,6 @@ party_games                          : 1
 party_politics                       : 1
 party_realignment                    : 1
 pascal                               : 1
-PASHAMAMA                            : 1
-PaSSAGE                              : 1
 passage                              : 1
 passing                              : 1
 passive_engagement                   : 2
@@ -273,8 +256,8 @@ patterned_meaning                    : 1
 patterns                             : 64
 pauper_apprenticeship                : 1
 pawfal                               : 1
-paxos                                : 1
 Paxos                                : 1  : paxos
+paxos                                : 1 : PAXOS
 pay                                  : 4
 paychecks                            : 1
 payment                              : 1
@@ -282,27 +265,11 @@ payments                             : 1
 payoffs                              : 1
 paypal                               : 1
 paywall                              : 5
-pbs                                  : 1  : PBS
-PBS                                  : 3
-PBT                                  : 1
 pc_gamer                             : 11
 pc_games                             : 1
 pc_zone                              : 2
-PCA                                  : 3
-PCB                                  : 2
 pcgamer                              : 1  : pc_gamer
-PCM                                  : 1
-PCMAT                                : 1
-PDDL                                 : 3
-pdf                                  : 197
 pdf_cheat_sheets                     : 5
-pdfrw                                : 1
-PDI                                  : 1
-PDL                                  : 3
-PDP                                  : 1
-PDPs                                 : 1
-PDT                                  : 1
-PE                                   : 1
 peacekeeping                         : 1
 peach_pit                            : 1
 peachpit                             : 1  : peach_pit
@@ -315,7 +282,6 @@ peasant_protest                      : 1
 peasantness                          : 1 : peasants
 peasantry                            : 1 : peasants
 peasants                             : 1
-PECS                                 : 1
 pedagogical_agents                   : 1
 pedagogy                             : 48
 pedestrian                           : 1  : pedestrians
@@ -328,9 +294,6 @@ peer_pressure                        : 2
 peer_review                          : 5
 peer_to_peer                         : 1
 peer_to_peer_communication           : 1
-peerj                                : 1
-PEG                                  : 1
-PEGI                                 : 1
 pen_and_paper                        : 8
 pen_pal                              : 1
 pen_plotter                          : 2
@@ -358,8 +321,6 @@ people_of_color                      : 1  : people_of_colour
 people_of_colour                     : 10
 peoplemetered_audience               : 1 : people_metered_audience
 peoples_history                      : 1
-pep8                                 : 2 : pep_8
-pep_8                                : 1
 pepper_spray                         : 1
 pepsi                                : 2
 per_effects                          : 1
@@ -404,8 +365,6 @@ persistence_studies                  : 1
 persistent_world                     : 1
 person                               : 2
 persona                              : 1
-PERSONAGE                            : 1
-personage                            : 1  : PERSONAGE
 personal                             : 3
 personal_choice                      : 1
 personal_experience                  : 1
@@ -446,14 +405,11 @@ pervasive_games                      : 4  : pervasive_game
 pervasive_technology                 : 1
 perversion                           : 1
 perversity                           : 1  : perversion
-PES                                  : 3
 pessimism                            : 1
 pest_control                         : 1
 pesticides                           : 1
-PESTLE                               : 1
 pestle_analysis                      : 1
 pet                                  : 1
-PET                                  : 4
 pet_insurance                        : 1
 pet_negro                            : 1
 petapixel                            : 1
@@ -461,21 +417,10 @@ petition                             : 5
 petri_net                            : 4
 petri_nets                           : 6  : petri_net
 petrie_multiplier                    : 1
-petro_violence                       : 1 : TO_CHECK
 petrol                               : 2  : petroleum
 petroleum                            : 1
 pets                                 : 4  : pet
-pew                                  : 15
-PFAS                                 : 1
-pfas                                 : 1  : PFAS
 pfizer                               : 2
-PFLP                                 : 1
-pfoa                                 : 1
-pfos                                 : 1
-pg&e                                 : 1  : pg_and_e
-pg_and_e                             : 6
-PGH                                  : 1
-PGP                                  : 1
 phallometric_test                    : 1
 pharisees                            : 2
 pharma                               : 6
@@ -559,7 +504,6 @@ Picat                                : 1
 piccadilly_line                      : 1
 piccadilly_tube_bombing              : 1
 pickpocketing                        : 1
-pico8                                : 2
 pictograms                           : 1
 pictures                             : 1  : photograhs
 pidgeon                              : 1
@@ -571,16 +515,11 @@ pig                                  : 1
 pig_farming                          : 1
 pigeons                              : 1
 pigs                                 : 1  : pig
-PIL                                  : 1
-pil                                  : 2  : PIL
 pilgramage                           : 1
 pilgrims                             : 1
 pillars_of_eternity                  : 1
 pillow                               : 2
-PILOps                               : 1
 pilots                               : 2
-PIM                                  : 13
-PIMM                                 : 1
 pimozide                             : 1
 pin                                  : 1
 pinball                              : 2
@@ -591,7 +530,6 @@ pinkertons                           : 3
 pinochet                             : 1
 pins                                 : 2
 pinterest                            : 1
-pip                                  : 1
 pipeline                             : 13
 pipes                                : 1
 piracy                               : 42
@@ -618,7 +556,6 @@ plague_doctors                       : 1
 plague_inc                           : 1
 plague_village                       : 1
 Plaid                                : 1
-plaidml                              : 1
 plain_clothes                        : 1
 plan                                 : 1
 plan_execution                       : 1
@@ -644,7 +581,6 @@ plant                                : 1
 plant_societies                      : 1
 plantations                          : 4
 plants                               : 13 : plant
-PLASMA                               : 1
 plastic                              : 3
 plastic_straws                       : 1
 plastic_surgery                      : 1
@@ -660,7 +596,6 @@ platform_power                       : 1
 platform_regulation                  : 1
 platformer                           : 2
 platforms                            : 15 : platform
-PLATO                                : 2
 platypus                             : 1
 plausability                         : 1
 play                                 : 74
@@ -704,10 +639,7 @@ pleadings_game                       : 1
 please_undo_this_hurt                : 2
 pleasure                             : 1
 pledge_of_allegiance                 : 1
-PLM                                  : 1
-PLOrk                                : 1
 plos_medicine                        : 1
-plos_one                             : 2
 plot                                 : 19
 plot_against_imigrants               : 1  : plot_against_immigrants
 plot_against_immigrants              : 1
@@ -724,12 +656,8 @@ plurality                            : 1
 pluriverse                           : 1
 Pluriverse                           : 1  : pluriverse
 plutocracy                           : 1
-ply                                  : 1
 plymouth                             : 1
-pnas                                 : 1
 poaching                             : 5
-POC                                  : 16
-poc                                  : 5  : POC
 poc_gamer                            : 1
 podcast                              : 36
 podcasting                           : 1
@@ -873,7 +801,6 @@ polysocial_reality                   : 1
 polytheistic_materialism             : 1
 polytopia                            : 1
 polytron                             : 1
-POMDP                                : 3
 pomegranate                          : 1
 pompeii                              : 1
 ponca_nation                         : 1
@@ -886,8 +813,6 @@ poor_countries                       : 1
 poor_law                             : 1
 poor_peoples_campaign                : 2
 pop_culture                          : 3
-POPL                                 : 1
-popl                                 : 1  : POPL
 poptop_software                      : 1
 popula                               : 1
 populace                             : 1
@@ -917,19 +842,14 @@ portrayal                            : 1
 ports                                : 1
 portugal                             : 6
 portuguese                           : 1
-pos                                  : 1
 pose                                 : 1
 pose_tracking                        : 1
-posh                                 : 1  : POSH
-POSH                                 : 8
-POSH_SHARP                           : 2
 positech                             : 3
 positioning                          : 2
 positive                             : 1
 positive_law                         : 1
 positive_politeness                  : 1
 positivism                           : 2
-POSL                                 : 1
 possibilities                        : 1
 possibility                          : 2
 possible_anthropology                : 1
@@ -1001,7 +921,6 @@ poverty_lines                        : 1
 poverty_of_attention                 : 1
 povery                               : 1  : poverty
 povrty                               : 1  : poverty
-pow                                  : 1
 powell_memo                          : 1
 power                                : 81
 Power-Law                            : 1  : power_law
@@ -1029,10 +948,6 @@ PowerLoom                            : 1  : power_loom
 powerpoint                           : 3  : power_point
 powers                               : 1
 poynter                              : 1
-PPC                                  : 1
-PPD                                  : 1
-PPE                                  : 2
-PR                                   : 1
 practical_consequences               : 1
 practical_phd                        : 1
 practical_reasoning                  : 1
@@ -1084,7 +999,6 @@ preferences                          : 4  : preference
 preferential_bias                    : 1
 preferred_outcome                    : 1
 preferred_semantics                  : 1
-PREFORMA                             : 1
 prefrences                           : 1  : preference
 pregnancy                            : 35
 prejudice                            : 8
@@ -1095,8 +1009,6 @@ prenatal_care                        : 1
 prenda                               : 11
 preorders                            : 1
 prep                                 : 1
-PreSage                              : 1
-Presage2                             : 1
 presbyterian                         : 1
 prescription                         : 2
 presence                             : 4
@@ -1126,7 +1038,6 @@ pressthink                           : 1
 pressure                             : 1
 prestige_class_generator             : 1
 prestige_games                       : 1
-PRESTO                               : 1
 presto_studios                       : 1
 pretense                             : 1
 pretty                               : 1
@@ -1134,12 +1045,9 @@ pretty_good_design                   : 1
 pretty_hate_machine                  : 1
 prevalence                           : 1
 prevent                              : 1
-PREVENT                              : 3
 prevention                           : 2
 preview                              : 13
 prey                                 : 1
-PRG                                  : 1
-pri                                  : 1
 price                                : 4
 price_dispersion                     : 1
 price_dynamics                       : 1
@@ -1161,7 +1069,6 @@ primates                             : 1
 prime_day                            : 1
 prime_ministers                      : 2
 prime_numbers                        : 3
-PRIMER                               : 1
 primer                               : 3
 priming                              : 2
 prince_george_county                 : 1
@@ -1217,8 +1124,6 @@ privatized_cities                    : 1  : privatised_cities
 privay                               : 1  : privacy
 privilege                            : 18
 prize                                : 1
-PRL                                  : 1
-PRM                                  : 1
 prmissions                           : 1  : permission
 pro_choice                           : 6
 pro_life                             : 10
@@ -1280,9 +1185,7 @@ process_theory                       : 1
 process_tracing                      : 1
 processing                           : 18
 procession                           : 1
-procjam                              : 1
 procrastination                      : 5
-PRODIGY                              : 1
 prodirect_manipulation               : 1
 product                              : 2
 product_development                  : 1
@@ -1297,7 +1200,6 @@ production_system                    : 66
 production_systems                   : 17
 productivity                         : 36
 products                             : 2  : product
-produsage                            : 1
 proedural_content                    : 1  : procedural_content
 profanity                            : 4
 profession                           : 6
@@ -1374,10 +1276,6 @@ projectional_editing                 : 1
 prolog                               : 34
 Prom_week                            : 1  : prom_week
 prom_week                            : 6
-PROMETHEE                            : 2
-PROMETHEUS                           : 1
-Prometheus                           : 4  : PROMETHEUS
-prometheus                           : 4  : PROMETHEUS
 promise                              : 1
 promises                             : 4 : promise
 promising_genomics                   : 1
@@ -1399,7 +1297,6 @@ proof_rules                          : 1
 proof_search                         : 2
 proof_theory                         : 1
 proofs                               : 17 : proof
-prop_8                               : 1
 propaganda                           : 53
 propagation                          : 1
 propagator                           : 4
@@ -1419,7 +1316,6 @@ propp                                : 2
 propriety                            : 1
 propublica                           : 36
 proquest                             : 1
-PROSE                                : 1
 prose                                : 1
 prosecution                          : 7
 prosecutor                           : 1
@@ -1441,7 +1337,6 @@ prosumption                          : 1
 protecting_the_vulnerable            : 2
 protectionism                        : 1
 protege                              : 1
-Protege                              : 1  : protege
 protest                              : 83
 protestant                           : 1
 protestant_ethic                     : 1
@@ -1457,7 +1352,6 @@ prototype                            : 92
 prototypes                           : 1  : prototype
 prototyping                          : 2
 proud_boys                           : 4
-PROVA                                : 1
 provability_logic                    : 1
 provenance_information               : 1
 prover                               : 1
@@ -1468,20 +1362,12 @@ proving                              : 2
 proxemics                            : 3
 proxies                              : 1
 proximity                            : 1
-PRS                                  : 5
 prude                                : 1
 pruning                              : 1
-PSA                                  : 1
 pseudepigrapha                       : 1
 pseudo_interactive                   : 1
 pseudo_science                       : 1
 pseudoscience                        : 3  : pseudo_science
-PSI                                  : 1
-PSOA                                 : 1
-PSP                                  : 1
-PSTN                                 : 1
-psx                                  : 1
-psyarxiv                             : 1
 psychedelia                          : 2
 psychedelics                         : 1
 psychiatric_hospitals                : 1
@@ -1502,10 +1388,6 @@ psychosexual_idenity                 : 1 : psychosexual_identity
 psychosexual_identity                : 1
 psychosis                            : 1
 psygnosis                            : 1
-PsyOps                               : 1
-PTSD                                 : 10
-ptsd                                 : 4  : PTSD
-pub_med                              : 2
 puberty_blockers                     : 3
 pubic_hair                           : 1
 public                               : 4
@@ -1626,25 +1508,11 @@ puzzle_games                         : 1  : puzzle_game
 puzzlees                             : 1  : puzzle
 puzzles                              : 8  : puzzle
 puzzls                               : 1  : puzzle
-py2                                  : 1
-py2exe                               : 1
-py_repr                              : 1
-py_str                               : 1
-pycon                                : 1
-pycx                                 : 1
-pycycle                              : 1
-pygraphviz                           : 7
-pylint                               : 1
 pylive                               : 1
 pylon                                : 1
-pymc                                 : 1
-pymc3                                : 1
 pyparsing                            : 2
 pyramid_scheme                       : 1
 pyramids                             : 1
-pyside                               : 1
-pystan                               : 1
 pythagoras                           : 1
 python                               : 303
 pytorch                              : 4
-pytq                                 : 1

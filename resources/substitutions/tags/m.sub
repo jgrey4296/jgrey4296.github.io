@@ -1,12 +1,9 @@
-
 M-rules                                  : 1 : m_rules
 m_health                                 : 1
 m_rules                                  : 1
-MAAD                                     : 1
 mac                                      : 3
 macaques                                 : 1
 macau                                    : 2
-MACBETH                                  : 1
 macbeth                                  : 1
 machiine_learning                        : 1  : machine_learning
 machin_learning                          : 3
@@ -25,7 +22,6 @@ machines                                 : 1
 maching_learning                         : 1
 machinima                                : 1
 macleans                                 : 1
-MACNET                                   : 1
 macondo                                  : 1
 macpherson_report                        : 1
 macquarie_university                     : 1
@@ -34,11 +30,7 @@ macro_foundations                        : 1
 macro_sociology                          : 1
 macros                                   : 15
 macrosociology                           : 1  : macro_sociology
-MACSDE                                   : 1
-MACSYMA                                  : 1
-macsyma                                  : 1  : MACSYMA
 mactex                                   : 2
-MAD                                      : 1
 mad_libs                                 : 1
 mad_magazine                             : 1
 mad_max                                  : 1
@@ -48,12 +40,9 @@ madagascar                               : 3
 madden                                   : 1
 madison                                  : 3
 madison_county                           : 2
-MADM                                     : 3
 madness                                  : 3
 madrid                                   : 1
 mafia                                    : 3
-MAGA                                     : 2
-MAGAbomber                               : 1
 magadan                                  : 1
 magazine                                 : 3
 magazine_covers                          : 1
@@ -76,9 +65,6 @@ magnetic_scrolls                         : 1
 magnetism                                : 2
 magnitogorsk                             : 1
 magnitude_estimation                     : 1
-maia                                     : 1  : MAIA
-MAIA                                     : 3
-MAID                                     : 1
 mail                                     : 2
 mail_and_guardian                        : 1
 mail_voting                              : 3
@@ -88,7 +74,6 @@ maintainability                          : 1
 maintenance                              : 3
 maintenance_art                          : 1
 maintenance_goals                        : 1
-MAJ                                      : 1
 major_mode                               : 2
 majority                                 : 2
 make                                     : 11
@@ -111,10 +96,8 @@ mali                                     : 2
 malignant_garden                         : 1
 mall                                     : 1
 mallows_model                            : 1
-MALM                                     : 1
 malta                                    : 1
 malware                                  : 4
-MAMID                                    : 1
 mamihlapinatapai                         : 1
 mammals                                  : 1
 mammogram                                : 1
@@ -137,7 +120,6 @@ mandatory_minimums                       : 2
 mandelbrot                               : 2
 mandingo                                 : 1
 mandolorian                              : 1
-MaNEA                                    : 2
 manga                                    : 4
 mangroves                                : 1
 manhattan                                : 2
@@ -174,21 +156,16 @@ mao                                      : 1
 maoists                                  : 1
 maori                                    : 1
 map                                      : 87
-MAP_Elites                               : 8
 map_generator                            : 1
 map_reduce                               : 1
-MAPC                                     : 1
-MAPL                                     : 1
 maple_leaf_foods                         : 1
 mappa                                    : 1
 mapping                                  : 2
 mapreduce                                : 3
 maps                                     : 37
-MAPSIM                                   : 1
 mar_a_largo                              : 1
 marae                                    : 1
 marathi                                  : 1
-MARC21                                   : 1
 march_against_violence                   : 1
 marches                                  : 1
 mardi_gras                               : 1
@@ -232,7 +209,6 @@ marriage                                 : 15
 marriage_equality                        : 1
 marriage_law                             : 1
 marriott                                 : 1
-MARS                                     : 1
 mars                                     : 10
 marseille                                : 1
 marshall_project                         : 2
@@ -243,23 +219,16 @@ marvel                                   : 11
 marxism                                  : 9
 marxist_urbanism                         : 1
 maryland                                 : 8
-mas                                      : 1  : MAS
-MAS                                      : 264
 mascots                                  : 2
 masculine                                : 1  : masculinity
 masculinity                              : 13
-MaSE                                     : 1
-MASELTOV                                 : 1
-MASFMMS                                  : 1
 masha                                    : 1
 masjid_al_aqsa                           : 1
 mask_of_sorrow                           : 1
 masking                                  : 1
 masks                                    : 2
-MASL                                     : 1
 masochism                                : 15
 mason                                    : 1
-MASON                                    : 4
 masquerades                              : 1
 masques_and_murder                       : 1
 mass_communication                       : 2
@@ -312,23 +281,17 @@ mathematical_notation                    : 1
 mathematical_sociology                   : 1
 mathematics                              : 6
 matklad                                  : 1
-MATLAB                                   : 1
-matlab                                   : 1  : MATLAB
 matplotlib                               : 7
 matriarchal_society                      : 1
 matrix                                   : 11
 mature_minor_doctrine                    : 1
 mauritius                                : 1
-MAUS                                     : 1
-MAUT                                     : 1
 max_msp                                  : 4
 maxim                                    : 1
 maximal_ideal_extension                  : 1
 maximalist_reading                       : 1
 maximum_entropy                          : 1
 maxis                                    : 1
-maxmsp                                   : 1  : max_msp
-MAXQDA                                   : 1
 Maya                                     : 1
 maya                                     : 1
 mayan                                    : 2  : maya
@@ -338,36 +301,13 @@ maze_generation                          : 3
 MazeGame                                 : 1
 mazes                                    : 1
 mbiras                                   : 1
-MBSE                                     : 1
 mbsync                                   : 1
-MCAT                                     : 1
-MCDA                                     : 4
-MCDM                                     : 9
 mcdonalds                                : 3
 mckeans_inversion                        : 1
 mcleod_plantation                        : 1
-MCRDR                                    : 1
 mcsweeneys                               : 1
 mcsweenys                                : 1  : mcsweeneys
-MCTS                                     : 3
-MCU                                      : 1
-mcu                                      : 1  : MCU
-MD5                                      : 2
-md5                                      : 2  : MD5
-mda                                      : 1  : MDA
-MDA                                      : 3
-MDA. framework                           : 1  : MDA
-MDE                                      : 15
 mdicaid                                  : 1  : medicaid
-MDMP                                     : 1
-MDN                                      : 1
-mdn                                      : 1  : MDN
-MDP                                      : 1
-MDPI                                     : 1
-mdpi                                     : 1  : MDPI
-MDPs                                     : 1  : MDP
-MDSO                                     : 1
-mdsp                                     : 1
 me_too                                   : 2
 mead                                     : 1
 meals                                    : 2
@@ -489,7 +429,6 @@ meme                                     : 65
 meme_economy                             : 2
 memes                                    : 6  : meme
 memetics                                 : 2  : meme
-memex                                    : 3
 memorandum                               : 1
 memorial                                 : 4
 memories                                 : 1
@@ -508,7 +447,6 @@ memory_safety                            : 5
 memos                                    : 1
 memphis                                  : 3
 men                                      : 7
-MENA                                     : 1
 menace                                   : 1
 mendeley                                 : 3
 menlo_park                               : 1
@@ -531,8 +469,6 @@ mentrification                           : 1
 mentrified                               : 1
 menus                                    : 1
 meowsic                                  : 1
-MEP                                      : 1
-mep                                      : 1  : MEP
 mercantile_capitalism                    : 1
 mercantile_note_taking                   : 1
 mercantilism                             : 1
@@ -611,7 +547,6 @@ metaphysics                              : 5
 metaplace                                : 1
 Metaplace                                : 1 : metaplace
 MetaPlex                                 : 1
-MetaPRL                                  : 1
 metascience                              : 1
 Metaview                                 : 1
 meteorology                              : 1
@@ -638,14 +573,6 @@ mexica                                   : 1
 mexican_restaurants                      : 1
 mexico                                   : 21
 mexico_city_policy                       : 3
-mfa                                      : 1
-MFLC                                     : 1
-MH17                                     : 1
-MHP                                      : 3
-MI5                                      : 1
-mi5                                      : 1  : MI5
-MI6                                      : 2
-MI_CC                                    : 1
 miami                                    : 8
 miami_dade                               : 1
 miami_herald                             : 3
@@ -706,7 +633,6 @@ middle_management                        : 1
 middle_school                            : 1
 middlement                               : 1
 middleware                               : 6
-MIDI                                     : 1
 midi                                     : 11
 midland                                  : 1
 midterm                                  : 3
@@ -742,10 +668,7 @@ mill                                     : 3
 millenial                                : 14
 millennium_triology                      : 1
 milwaukee                                : 4
-MiMaze                                   : 1
-mime                                     : 2
 mimesis                                  : 1
-Mimesis                                  : 4  : mimesis
 mimetic_experience                       : 1
 mimisbrunnur                             : 1
 minarets                                 : 1
@@ -783,17 +706,12 @@ minor_mode                               : 1
 minorities                               : 5
 minority                                 : 3  : minority
 minority_rights                          : 1
-MINSTREL                                 : 1
-minstrel                                 : 1  : MINSTREL
-MIPS                                     : 1
 miracles                                 : 3
 mirical                                  : 2
-MIRO                                     : 1
 mirror_worlds                            : 1
 mirrors_edge                             : 1
 mis_reporting                            : 1
 misbehaviour                             : 1
-misc                                     : 2
 miscarriage                              : 10
 miscegenation                            : 1
 miscellany_making                        : 1
@@ -828,8 +746,6 @@ mistranslation                           : 1
 misunderstanding                         : 4
 misunderstandings                        : 1  : misunderstanding
 misuse                                   : 2
-mit                                      : 33 : MIT
-MIT                                      : 6
 mit_tech_review                          : 3
 mitigation                               : 1
 mitsuda_lick                             : 1
@@ -839,23 +755,8 @@ mixed_initiative                         : 4
 mixed_methods                            : 1
 mixed_reality                            : 1
 mixins                                   : 1  : mix_ins
-MIXTAPE                                  : 1
-MKULTRA                                  : 1
-ml                                       : 1  : machine_learning
-mmo                                      : 49 : MMO
-MMO                                      : 5
-MMOGs                                    : 1  : MMO
-MMORPG                                   : 12
-mmorpg                                   : 3  : MMORPG
-MMORPGS                                  : 1  : MMORPG
-MMORPGs                                  : 12 : MMORPG
-MMOs                                     : 10 : MMO
-MMR                                      : 1
-mnist                                    : 2
 moands                                   : 1
 mob                                      : 1
-moba                                     : 1
-MOBA                                     : 2
 mobi_spy                                 : 1
 mobiispy                                 : 1
 mobile                                   : 6
@@ -866,7 +767,6 @@ mobiles                                  : 2  : mobile
 mobility                                 : 2
 mobs                                     : 1
 moby_dick                                : 1
-MOChA                                    : 1
 mocha                                    : 3
 moche                                    : 1
 mocking                                  : 3
@@ -937,8 +837,6 @@ modes_of_address                         : 1
 modest_proposal                          : 4
 modesty                                  : 3
 modification                             : 1
-MODM                                     : 1
-MODP                                     : 1
 mods                                     : 3
 modular                                  : 9
 modular_ai                               : 1
@@ -950,9 +848,6 @@ modularity                               : 26
 modules                                  : 3
 modulor                                  : 1
 mohanty                                  : 1
-Moise                                    : 1  : MOISE
-MOISE                                    : 10
-moise                                    : 3  : MOISE
 molars                                   : 1
 moldable_tools                           : 1
 molecular_biology                        : 1
@@ -961,7 +856,6 @@ molleindustria                           : 3  : molle_industria
 momentum                                 : 1
 momo                                     : 1
 mona_lisa                                : 1
-MONAD                                    : 1
 monad                                    : 71
 monad_transformers                       : 8
 monads                                   : 20
@@ -1015,9 +909,6 @@ montgomery_county                        : 1
 montreal                                 : 2
 monty_python                             : 3
 monument                                 : 3
-MOO                                      : 2
-MOOCs                                    : 1
-moocs                                    : 1  : MOOCs
 moon                                     : 2
 moores_law                               : 2
 moors                                    : 2
@@ -1044,7 +935,6 @@ moral_reasoning                          : 1
 moral_rights                             : 1
 moral_status                             : 1
 moral_weights                            : 1
-MoralDM                                  : 1
 morality                                 : 32
 morality_system                          : 1
 morals                                   : 17 : morality
@@ -1053,7 +943,6 @@ mormon                                   : 4
 morning_paper                            : 4
 morning_tv                               : 1
 morocco                                  : 3
-MorpheuS                                 : 1
 morphism                                 : 1
 morphogenisis                            : 1
 morphology                               : 1
@@ -1094,7 +983,6 @@ mourning                                 : 2
 mouse                                    : 3
 mouse_trap                               : 1
 movalis                                  : 1
-MOVE9                                    : 1
 movement                                 : 4
 movie                                    : 4
 movie_trailers                           : 1
@@ -1102,53 +990,18 @@ movies                                   : 1  : movie
 moving_company                           : 1
 moving_desks                             : 1
 moving_spaces                            : 1
-MovMote                                  : 1
 mozambique                               : 4
 mozart                                   : 1
 mozilla                                  : 3
-mp                                       : 2  : member_of_parliament
 mp3                                      : 1
-MPAA                                     : 14
-MPP                                      : 1
-MPs                                      : 1  : member_of_parliament
-mps                                      : 1  : member_of_parliament
-MPS                                      : 2  : member_of_parliament
 mr_men                                   : 1
-MRAs                                     : 1
-MRI                                      : 1
-mri                                      : 1  : MRI
-ms13                                     : 1
 ms_magazine                              : 1
-MSC                                      : 1
-MSC2019                                  : 2
-MSDO                                     : 1
-MSG                                      : 1
-msg                                      : 1  : MSG
-msnbc                                    : 11 : MSNBC
-MSNBC                                    : 13
-MSOS                                     : 1
 msprime                                  : 1
-MSS                                      : 1
-MTA                                      : 1
-mta                                      : 1  : MTA
-MTBD                                     : 1
-MTCS                                     : 1
-mtg                                      : 1  : MTG
-MTG                                      : 2
 mthods                                   : 2  : methods
-MTurk                                    : 1
-MTV                                      : 1
-mtv                                      : 1  : MTV
 mu                                       : 1
-mu4e                                     : 1
 mu_cartographer                          : 1
 mu_cartopgrapher                         : 1  : mu_cartographer
-MUC_4                                    : 1
 muckrock                                 : 2
-mud                                      : 1  : MUD
-MUD                                      : 7
-MUDs                                     : 1  : MUD
-muds                                     : 1  : MUD
 mueller_report                           : 5
 mughal_empire                            : 1
 mughal_law                               : 1
@@ -1207,7 +1060,6 @@ multiplication                           : 1
 multiplicative_weights                   : 1
 multiply                                 : 1
 multipy                                  : 1  : multiply
-MULTIS                                   : 1
 multiset                                 : 1
 multitasking                             : 2
 multitude                                : 1
@@ -1232,7 +1084,6 @@ murder_mystery                           : 1
 murderers                                : 2  : murder
 murfreesboro                             : 1
 murmuration                              : 1
-MUSA                                     : 1
 musak                                    : 1
 muscles                                  : 1
 muscovy                                  : 1
@@ -1258,7 +1109,6 @@ musical_tradition                        : 1
 musicless                                : 1
 musicology                               : 1
 musikdidatik                             : 1
-MusInk                                   : 1
 muslim                                   : 18
 muslim_ban                               : 1
 muslims                                  : 3  : muslim
@@ -1269,22 +1119,17 @@ mutable_data                             : 1
 mutable_rule_sets                        : 1
 mutants_in_the_night                     : 1
 mutation                                 : 1
-mutex                                    : 1
 mutiny                                   : 1
 mutual_exclusivity                       : 1
 mutual_learning                          : 1
 muzak                                    : 1  : musak
-mWater                                   : 1
-MXC                                      : 1
 my_left_foot                             : 1
 myanmar                                  : 4
 mycenaen                                 : 1
-MYCIN                                    : 2
 mycology                                 : 1
 myers                                    : 2
 myers_briggs                             : 2
 mylan                                    : 1
-mypy                                     : 1
 mysogyny                                 : 1  : misogyny
 myspace                                  : 1
 myst                                     : 5

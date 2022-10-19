@@ -1,5 +1,3 @@
-VA                              : 1
-va                              : 1 : VA
 vacancies                       : 1
 vacations                       : 1
 vaccination                     : 5
@@ -28,7 +26,6 @@ values                          : 10
 values_hierarchy                : 1
 valve                           : 14
 valves                          : 1
-VAM                             : 1
 vampire_the_masquerade          : 1
 vampires                        : 2
 van_der_torre                   : 1
@@ -51,12 +48,8 @@ variety                         : 3 : variation
 vasectomy                       : 3
 vatican                         : 3
 vault                           : 2
-VAWA                            : 1
 vaxjo                           : 1
-VC                              : 1
-VCS                             : 2
 veblen_goods                    : 1
-VECTOR                          : 1
 vector                          : 8
 vector_addition                 : 1
 vector_art                      : 1
@@ -104,14 +97,8 @@ veterans                        : 3
 veterans_affairs                : 4
 veterinary_behaviour            : 1
 vetting                         : 2
-VFX                             : 1
-VGDL                            : 1
-vhdl                            : 1
-vhs                             : 1  : VHS
-VHS                             : 2
 viability                       : 1
 viagra                          : 1
-VIATRA                          : 1
 vibrators                       : 1
 vice                            : 37
 vicious_circles                 : 1
@@ -128,7 +115,6 @@ victorians                      : 1  : victorian
 video                           : 317
 video_dante                     : 1
 video_game_culture              : 1
-video_game_description_language : 1 : VGDL
 video_game_tourism              : 1
 video_games                     : 7
 videodante                      : 1  : video_dante
@@ -165,7 +151,6 @@ violation                       : 6
 violence                        : 86
 violence_against_women          : 4
 violence_preventation           : 1
-violent_action                    : 1 : TO_CHECK
 violent_crime                   : 1
 violent_entrepreneurs           : 1
 violin                          : 2
@@ -175,7 +160,6 @@ virginia                        : 17
 virginia_tech_shooting          : 1
 virginia_valian                 : 1
 virginity                       : 1
-VIRIs                           : 1
 virtual-reality                 : 1  : virtual_reality
 virtual_cities                  : 3
 virtual_city                    : 1  : virtual_city
@@ -209,10 +193,8 @@ virtue_world                    : 1
 virtues                         : 1 : virtue
 virus                           : 7
 virutal_world                   : 1 : virtue_world
-visa                            : 3
 viscosity                       : 1
 visibility                      : 3
-VisiCalc                        : 1
 vision                          : 11
 visual                          : 2
 visual_analysis                 : 1
@@ -245,9 +227,6 @@ visuospatial                    : 1
 visuospatial_sketchpad          : 1
 vitalism                        : 1
 vitamins                        : 2
-viva                            : 10
-VLSI                            : 1
-vocab                           : 1  : vocabulary
 vocabulary                      : 1
 vocal_fry                       : 1
 vocal_music                     : 1
@@ -258,7 +237,6 @@ voice                           : 1
 voice_over                      : 1
 voice_recognition               : 1
 voice_work                      : 1
-VoIP                            : 1
 volcano                         : 1
 volcanoes                       : 1  : volcano
 volgodonsk                      : 1
@@ -267,7 +245,6 @@ volume_2                        : 1
 voluntary_servitude             : 1
 volunteering                    : 1  : volunteers
 volunteers                      : 2
-VOMAS                           : 1
 voodoo                          : 1
 voodoo_economics                : 1
 voronoi                         : 14
@@ -287,23 +264,14 @@ voting_machines                 : 9
 voting_rights                   : 5
 voting_rights_act               : 2
 vox                             : 39
-voxdev                          : 2
 voxels                          : 4
 voyager                         : 1
 voyager_elite_force             : 1
 voynich                         : 1
-VQR                             : 1
-vqronline                       : 6
-VR                              : 3
-VRA                             : 4
 vs_code                         : 1
-VTMB                            : 3
 vue_js                          : 4
 vulcan_materials                : 1
 vulgarity                       : 1
 vulnerability                   : 1
 vulnerable_communities          : 1
 vulnerable_populations          : 2
-vvvv                            : 1  : VVVVVVV
-vvvvv                           : 1  : VVVVVVV
-VVVVVVV                         : 3

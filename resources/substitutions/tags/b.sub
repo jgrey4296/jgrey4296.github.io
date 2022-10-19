@@ -26,7 +26,6 @@ backpropagation                    : 1
 backward_chaining                  : 2
 backward_induction                 : 1
 backward_reasoning                 : 1
-BACON                              : 1
 bacon                              : 1
 bacteria                           : 1
 bad_advice                         : 1
@@ -120,7 +119,6 @@ barter                             : 2
 base_based_reasoning               : 1   : case_based_reasoning
 baseball                           : 1
 bash                               : 11
-BASIC                              : 1
 basilica                           : 1
 basketball                         : 1
 bass                               : 1
@@ -157,20 +155,10 @@ bayesianism                        : 1 : bayesian
 baylor                             : 1
 bayonetta                          : 1
 bb_gun                             : 1
-bbai                               : 1
 bbc                                : 121 : BBC
-BBC                                : 123
 bbc_english                        : 1
-BBI                                : 1
-BC                                 : 1
 bdembu                             : 1
-bdi                                : 2   : BDI
-BDI                                : 43
 BDI_stit_logic                     : 1
-BDL                                : 1
-BDS                                : 1
-bdsm                               : 19  : BDSM
-BDSM                               : 4
 beach                              : 1
 beaches                            : 3   : beach
 BeadLoom                           : 2
@@ -209,7 +197,6 @@ begar                              : 2
 begging                            : 3
 beginners_guide                    : 1
 behance                            : 2
-BEHAVEngine                        : 2
 behavior_characterization          : 1
 behavior_trees                     : 1   : behaviour_tree
 behavioral_diversity               : 1
@@ -268,7 +255,6 @@ belle                              : 2
 belmont_report                     : 1
 belonging                          : 1
 belt_and_road_initiative           : 1
-BEN                                : 1
 benchmarks                         : 3
 bender                             : 2
 bender_economics                   : 2
@@ -289,7 +275,6 @@ berlin                             : 1
 berman                             : 1
 berne                              : 2
 bernie                             : 2
-BERT                               : 1
 bert_and_ernie                     : 1
 bespoke                            : 1
 best                               : 1
@@ -309,7 +294,6 @@ betting                            : 2
 beyoglu                            : 1
 beyond_a_boundary                  : 1
 bezier                             : 3
-BFA                                : 1
 bhaviour                           : 1   : behaviour
 bhopal                             : 4
 bhutan                             : 1
@@ -321,11 +305,10 @@ biblical_scholar                   : 1
 bibliographic_data                 : 1
 bibliography                       : 1
 bibliometric_analysis              : 1
-BIC                                : 2
 bicameralism                       : 1
 bicycle                            : 1
 bicycles                           : 2 : bicycle
-biddhism                           : 1
+biddhism                           : 1 : buddhism
 biden                              : 1
 bidirected_graphs                  : 1
 bidirectional                      : 3
@@ -352,14 +335,12 @@ bigotry                            : 46
 bijective_language                 : 1
 biker_gangs                        : 1
 bikers_for_trump                   : 1
-BiLAT                              : 1
 Bilbo                              : 1
 bill                               : 5
 bill_21                            : 1
 bill_of_rights                     : 2
 billionaires                       : 5
 bills                              : 2
-BIM                                : 1
 binary_space                       : 1
 binding                            : 1
 binding_of_isaac                   : 1
@@ -391,7 +372,6 @@ biomedical                         : 3
 biomes                             : 2   : biome
 biometric                          : 2
 biometrics                         : 2   : biometric
-bioNEAT                            : 1
 biopharma                          : 4
 biophysics                         : 1
 bioplastics                        : 1
@@ -411,7 +391,6 @@ bipartisanship                     : 1
 bipartite                          : 2
 biped                              : 1
 Biped                              : 1   : biped
-BIPOC                              : 1
 birds                              : 13
 birdsong                           : 2
 birman_ko_lee_generator            : 1
@@ -434,14 +413,12 @@ biseq2seq                          : 1
 bisexual                           : 1
 bishops                            : 1
 bison                              : 1
-BIT_CARE                           : 1
 bit_hacks                          : 6
 bit_twiddling                      : 1   : bit_hacks
 bitcoin                            : 2
 bithacking                         : 1   : bit_hacks
 bitter_lesson                      : 1
 bittorrent                         : 6
-BJS                                : 4
 bk-tree                            : 1   : bk_tree
 bk_tree                            : 1
 black                              : 11
@@ -537,7 +514,6 @@ blinking                           : 1
 blinking_caret                     : 1
 blitz                              : 1
 blizzard                           : 6
-BLM                                : 3
 bloch                              : 1
 block_grant                        : 1   : block_grants
 block_grants                       : 3
@@ -574,9 +550,6 @@ blue_sky                           : 1
 blue_zones                         : 1
 blueprints                         : 1
 blunt_headed_slug_snakes           : 1
-BME                                : 1
-BMI                                : 1
-bmi                                : 1   : BMI
 board_game                         : 21
 board_games                        : 11  : board_game
 board_of_trustees                  : 1
@@ -584,7 +557,6 @@ boardgames                         : 2   : board_game
 boasian_anthropology               : 1
 boat_club                          : 1
 bobs_burgers                       : 1
-BOD                                : 8
 bodies                             : 8   : body
 bodily_autonomy                    : 3
 bodily_fluids                      : 1
@@ -606,7 +578,6 @@ bodycam                            : 1
 boeing                             : 5
 bogota                             : 1
 bohemia_interactive                : 1
-BOID                               : 4
 boids                              : 2
 boilerplate                        : 1
 boingboing                         : 676
@@ -668,7 +639,6 @@ bored_humans                       : 1
 bored_panda                        : 1
 boredom                            : 5
 boredpanda                         : 2
-BORG                               : 1
 borrowing                          : 1
 bosnia                             : 4
 bosnian_genocide                   : 1
@@ -689,7 +659,6 @@ bots                               : 7   : bot
 botswana                           : 1
 bottled_water                      : 2
 bottlenecks                        : 3
-BotW                               : 1
 boundaries                         : 3
 boundary                           : 1
 boundary_construction              : 1
@@ -701,10 +670,6 @@ box_art                            : 1
 boy_scouts                         : 1
 boyer_moore_algorithm              : 1
 boyscouts                          : 1
-bpd                                : 1
-bpi                                : 1
-BPL                                : 1
-BPS                                : 1
 bra                                : 1   : bras
 brackeys                           : 1
 bradley_county_jail                : 1
@@ -759,7 +724,6 @@ bribery                            : 5
 bribes                             : 1   : bribery
 bricolage                          : 1
 bride_wealth                       : 1
-BRIDGE                             : 2
 bridge                             : 4
 bridge_institutions                : 1
 bridge_rules                       : 2
@@ -781,7 +745,6 @@ british_library                    : 9
 british_museum                     : 2
 brittlenes                         : 1   : brittleness
 brittleness                        : 2
-BRMS                               : 1
 broadband                          : 2
 broadly                            : 1
 broadway                           : 1
@@ -817,7 +780,6 @@ brutal_legend                      : 1
 brutalism                          : 1
 brxit                              : 1   : brexit
 bryson                             : 19  : joanna_bryson
-BTL                                : 1
 bubble                             : 1
 bubonic_plague                     : 1
 buchenwald                         : 2
@@ -835,7 +797,6 @@ buffy                              : 1
 bug                                : 9
 buglary                            : 1   : burglary
 bugs                               : 8
-BUILD_IT                           : 1
 build_system                       : 1
 building                           : 5
 building_blocks                    : 1
@@ -911,13 +872,10 @@ buttons                            : 1
 buzzefeed                          : 1   : buzzfeed
 buzzfeed                           : 29
 buzzkill                           : 1
-BWCs                               : 1
 bwstbooklist                       : 1   : best_book_list
 bystanders                         : 3
 byte-compile                       : 1   : byte_compile
 byte_compile                       : 1
-BYU                                : 1
-byu                                : 1   : BYU
 byzantine                          : 2
 byzantine_agreement                : 1
 byzantium                          : 2

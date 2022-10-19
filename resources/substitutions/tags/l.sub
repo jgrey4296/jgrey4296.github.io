@@ -1,15 +1,9 @@
 l_system                        : 2
 l_systems                       : 3  : l_system
-la                              : 2  : LA
-LA                              : 7
-LA_county                       : 1
 la_curbed                       : 1
 la_mettrie                      : 1
 la_molle_industria              : 2
-LA_noire                        : 1
-LA_review_of_books              : 6
 la_review_of_books              : 6  : LA_review_of_books
-LA_times                        : 14
 la_times                        : 14 : LA_times
 lab_rats                        : 1
 labeled_data                    : 1
@@ -35,7 +29,6 @@ labour_studies                  : 1
 labour_supply                   : 1
 labour_unions                   : 1
 labout                          : 1  : labour
-LabVIEW                         : 1
 lacunarity                      : 1
 ladera_heights                  : 1
 ladykiller                      : 2
@@ -53,7 +46,6 @@ lambdas                         : 1  : lambda
 lambs                           : 1
 lame_duck                       : 1
 lamps                           : 1
-LAN                             : 2
 lancashire                      : 1
 lancer                          : 1
 lancer_rpg                      : 1
@@ -98,20 +90,15 @@ languages                       : 1  : language
 lanugage                        : 2  : language
 lanugage_change                 : 1  : language_change
 lanyards                        : 1
-LAO                             : 2
 laos                            : 1
-LAPD                            : 3
 laphams_quarterly               : 1
 laplace_transforms              : 1
 lapland                         : 1
-LARA                            : 1
 large_graphs                    : 1
 large_sale                      : 1  : large_scale
 large_scale                     : 25
 large_scale_systems             : 1  : large_scale
 large_systems                   : 1  : large_scale
-larp                            : 1  : LARP
-LARP                            : 2
 las_vegas                       : 2
 las_vegas_review                : 1
 laser_pointers                  : 1
@@ -146,7 +133,6 @@ Latin_America                   : 1  : latin_america
 latin_america                   : 10
 latin_squares                   : 1
 latino                          : 1
-latinx                          : 1
 lattic                          : 1  : lattice
 Lattice                         : 1 : lattice
 lattice                         : 8
@@ -180,8 +166,6 @@ layout                          : 2
 lazaarsfeld                     : 1
 laziness                        : 4
 lbrary                          : 1  : library
-LDA                             : 3
-LDFI                            : 1
 leach                           : 1
 lead                            : 8
 lead_pipes                      : 1
@@ -195,7 +179,6 @@ league_of_legends               : 1
 leak                            : 2
 leaked_emails                   : 1
 leaks                           : 6
-LEAP                            : 1
 learnability                    : 1
 learnification                  : 2
 Learning                        : 1  : learning
@@ -255,7 +238,6 @@ legality                        : 3
 LegalRuleML                     : 1
 legend_of_grimrock              : 1
 leggings                        : 1
-LEGIS                           : 1
 legislation                     : 10
 legislative_intent              : 1
 legislative_power               : 1
@@ -266,8 +248,6 @@ legistative                     : 1
 legistative_powers              : 1
 legitimacy                      : 5
 legitimation                    : 3
-LEGO                            : 2
-lego                            : 7  : LEGO
 legume                          : 1  : legumes
 legumes                         : 1
 leicester                       : 1
@@ -313,15 +293,9 @@ lexical_scope                   : 1
 lexicography                    : 1
 lexicon                         : 1
 lexing                          : 1
-LGBAlliance                     : 1
-lgbtq                           : 35 : LGBTQ
-LGBTQ                           : 94
 lgbtq_media                     : 1
-lgtbq                           : 1  : LGBTQ
-LGTBQ                           : 2
 liability                       : 1
 liaoning                        : 1
-LIAR                            : 1
 lib                             : 1
 libcom                          : 1
 libel                           : 3
@@ -356,7 +330,6 @@ licensing                       : 5
 liceu_opera_house               : 1
 lichen                          : 1
 lichtenberg                     : 1
-LIDA                            : 1
 lies                            : 36
 life                            : 4
 life_and_death                  : 1
@@ -387,7 +360,6 @@ lighting                        : 4
 lightning                       : 1
 lightsaber                      : 1
 likelihood                      : 5
-LIKELIKE                        : 1  : likelike
 likelike                        : 2
 likes                           : 1
 liking                          : 1
@@ -445,10 +417,7 @@ links                           : 1
 links_awakening                 : 1
 lino_print                      : 1
 linocut                         : 1
-LINQ                            : 1
-linq                            : 1  : LINQ
 lint                            : 8
-LINUS                           : 1
 linux                           : 15
 linux_plans                     : 1
 linuxize                        : 1
@@ -467,7 +436,6 @@ Lisbon                          : 1  : lisbon
 lisbon_treat                    : 1
 lisbon_treaty                   : 1
 lisp                            : 102
-LISSA                           : 1
 lissajous_curves                : 1
 list                            : 14
 listening                       : 2
@@ -520,18 +488,11 @@ living_experience               : 1  : lived_experience
 living_standards                : 1
 living_while_black              : 1
 livvy                           : 1
-LIWC                            : 1
 lizards                         : 1
-LL_star                         : 1
-LLT                             : 1
-llvm                            : 8
-lmtonline                       : 1
-lo_fi                           : 1
 load_balancing                  : 1
 loafing                         : 1
 loal_government                 : 1
 loans                           : 4
-loaw                            : 1
 lobbying                        : 10
 local                           : 2
 local_clerks                    : 1
@@ -560,10 +521,7 @@ lockless_concurrency            : 1
 locomotion                      : 1
 locus_of_control                : 1
 locust                          : 1
-LOD                             : 1
-LOD_Trader                      : 1
 lodash                          : 2
-lofi                            : 1
 LoFi                            : 1  : lofi
 logarithm                       : 6
 logarithmic                     : 2  : logarithm
@@ -619,7 +577,6 @@ lore                            : 1
 lore_dump                       : 1
 lorem_ipsum                     : 1
 lorentz_attractor               : 1
-los_angeles                     : 10 : LA
 los_muertos                     : 1
 losing_my_gourd                 : 1
 loss                            : 2
@@ -628,7 +585,6 @@ lost                            : 2
 lost_cities                     : 2
 lost_found_art                  : 1
 lost_in_math                    : 1
-LOTR                            : 4
 lotte                           : 1
 lottery                         : 1
 louisiana                       : 17
@@ -644,17 +600,7 @@ low_pay                         : 1
 low_poly                        : 8
 low_wage_jobs                   : 1
 lp_norm                         : 1
-LPDModel                        : 1
-LRA                             : 1
-lrb                             : 1
 ls                              : 1
-LSA                             : 1
-LSD                             : 2
-lse                             : 1  : LSE
-LSE                             : 4
-LSTM                            : 5
-LTBTQ                           : 2
-LTL                             : 1
 lua                             : 8
 lucas_arts                      : 1
 lucasarts                       : 1  : lucas_arts
@@ -676,15 +622,12 @@ ludum_dare                      : 1
 Ludwig                          : 1
 lufia                           : 1
 luke                            : 1
-LULU                            : 1
 Lume                            : 1
 lunar_labs                      : 1
 lunarch                         : 1
 lunch_debt                      : 2
 lunch_shaming                   : 1
 luther                          : 1
-LVE                             : 1
-lwjgl                           : 2
 lyft                            : 3
 lying                           : 5
 lyme_disease                    : 3

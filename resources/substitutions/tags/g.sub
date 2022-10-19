@@ -1,17 +1,8 @@
-G3PARM                        : 1
-g7                            : 2
-GaaS                          : 1
-gaatw                         : 1
 gabfest                       : 1
 gabon                         : 1
 gadamer                       : 2
 gadget                        : 1
-GADIN                         : 1
-GADTs                         : 2
 gaelic                        : 1
-GAIA                          : 1
-gaia                          : 2   : GAIA
-Gaia                          : 3   : GAIA
 gain_weight_journal           : 1
 gainweightjournal             : 1   : gain_weight_journal
 gait                          : 1
@@ -26,11 +17,9 @@ gallup                        : 1
 galverston                    : 1
 galveston                     : 2
 gam                           : 1 : game
-GAMA                          : 1
 gamasutra                     : 173
 gamaustra                     : 1   : gamasutra
 gambia                        : 1
-GAMBIT                        : 1
 gamblers_fallacy              : 1
 gambling                      : 3
 game                          : 674
@@ -58,7 +47,6 @@ game_feel                     : 1
 game_for_health               : 1
 game_forge                    : 1
 Game_forge                    : 1   : game_forge
-GAME_FORGE                    : 1 : game_forge
 game_grammar                  : 2
 game_graph                    : 1
 game_history                  : 7
@@ -125,16 +113,9 @@ gamification                  : 7
 gaming                        : 62  : games
 gaming_literacy               : 1
 gaming_the_system             : 1
-GAMUT                         : 1
-GAN                           : 8
 gang                          : 9
 gangnam                       : 1
 gangs                         : 8   : gang
-GANs                          : 1   : GAN
-GANSynth                      : 1
-GAO                           : 1
-gao                           : 1   : GAO
-GAR                           : 3
 garbage                       : 2
 garbage_can_model             : 3
 garbage_collection            : 3
@@ -154,7 +135,6 @@ gaslamp_games                 : 1
 gaslight                      : 1   : gaslighting
 gaslighting                   : 8
 gasoline                      : 1
-GASP                          : 2
 gaston                        : 2
 gate_keeper                   : 1 : gate_keeping
 gate_keepers                  : 1   : gate_keeping
@@ -178,25 +158,10 @@ gay_liberation                : 1
 gaza                          : 7
 gaza_strip                    : 1
 gaze                          : 5
-gba                           : 1
-gcc                           : 1
-gchq                          : 1
-GCM                           : 1
-GDA                           : 2
-GDC                           : 1
-gdc                           : 12  : GDC
-GDC18                         : 3
-gdc19                         : 1   : GDC19
-GDC19                         : 6
-gdp                           : 3   : GDP
-GDP                           : 5
-gdpr                          : 2   : GDPR
-GDPR                          : 5
 Gear2D                        : 1
 gears_of_war                  : 1
 geek                          : 2
 geek_anthropologist           : 1
-GEMA                          : 1
 Gemini                        : 1
 gems                          : 1
 gen_x                         : 3
@@ -302,14 +267,10 @@ germanic                      : 1
 germany                       : 40
 gerrymandering                : 30
 gestalt                       : 1
-GESTER                        : 1
 gesture                       : 15
 getty                         : 1
-GFSS                          : 1
 ggplot                        : 2
 ghana                         : 4
-ghc                           : 1
-ghci                          : 1   : ghc
 ghent                         : 1
 ghetto                        : 1
 ghettos                       : 1   : ghetto
@@ -318,8 +279,6 @@ ghost_recon                   : 2
 ghosting                      : 1
 giant_sloth                   : 1
 gibson_v_collier              : 1
-gif                           : 13
-gifs                          : 3   : gif
 gift_economy                  : 1
 gift_giving                   : 1
 gifts                         : 3
@@ -328,23 +287,15 @@ gil                           : 1
 gilded_age                    : 1
 gillette                      : 3
 gimmicks                      : 1
-gimp                          : 1
-GIMP                          : 1
 gin                           : 1
 ginger                        : 1
 gini_coefficient              : 1
 giraffes                      : 1
-GIS                           : 5
-git                           : 21
 git_cheatsheet                : 1   : git   : cheat_sheet
 github                        : 399
 gitlab                        : 1
-gitmo                         : 1
 give_well                     : 1
 gizmodo                       : 8
-gjson                         : 1
-GLAAD                         : 1
-glaad                         : 1   : GLAAD
 glasgow                       : 1
 glasgow_university            : 2
 glass                         : 1
@@ -353,7 +304,6 @@ glass_box                     : 1
 glass_house_games             : 1
 glass_steagall                : 1
 glassbox                      : 1
-glChAoSP                      : 1
 glimpse                       : 2
 glitch                        : 5
 glitches                      : 1   : glitch
@@ -387,34 +337,19 @@ gloom                         : 1
 glossary                      : 4
 glove                         : 2
 gloves                        : 1
-GLR                           : 1
-GLSL                          : 2
-glsl                          : 2   : GLSL
-GLTF                          : 1
-glut                          : 2
 gluten                        : 1
 glyph                         : 1 : glyphs
 glyphs                        : 2
-GM                            : 1
-GM_crops                      : 1
 gmail                         : 1
-GME                           : 1
-GMM                           : 1
-GMO                           : 2
-gmo                           : 4   : GMO
 gmod                          : 1
 gnder                         : 1   : gender
 gnosis                        : 1
 gnosticism                    : 1
-gns                           : 1
-gnu                           : 21
-gnupg                         : 8
 go                            : 4
 Go_Explore                    : 1
 go_fund_me                    : 1
 go_lang                       : 6
 goal                          : 1
-GOAL                          : 2
 goal_based_behavior           : 1
 goal_based_tasks              : 1
 goal_decomposition            : 1
@@ -427,7 +362,6 @@ goal_re_activation            : 1
 goalposts                     : 1   : goal_posts
 goals                         : 24
 goap                          : 1   : GOAP
-GOAP                          : 4
 god_game                      : 3
 god_games                     : 1   : god_game
 god_of_war                    : 2
@@ -436,9 +370,7 @@ godot                         : 2
 gods                          : 1
 godus                         : 1
 godwins_law                   : 1
-GOFAI                         : 1
 gofundme                      : 1
-GOGAR                         : 2
 gold                          : 1
 gold_farming                  : 2
 gold_mine                     : 1
@@ -448,15 +380,11 @@ golden_flute                  : 1
 golden_gate_bridge            : 1
 goldfish                      : 1
 golem                         : 1
-GOLEM                         : 1
 golem_XIV                     : 1
 golf                          : 3
 golf_carts                    : 1
 golfing                       : 1
 golly                         : 1
-GOLOG                         : 1
-goms                          : 3   : GOMS
-GOMS                          : 7
 Gone_Home                     : 1   : gone_home
 gone_home                     : 2
 good_abstract                 : 1
@@ -488,16 +416,11 @@ google_searches               : 19
 google_translate              : 1
 googly_eyes                   : 1
 goose_game                    : 4
-GOP                           : 92
-gop                           : 95  : GOP
 gore                          : 2
 gorea                         : 1
 gorilla_experiment            : 1
 gorillas                      : 1
 Gorite                        : 1
-GORMAS                        : 3
-GOSP-MAS                      : 1   : GOSP_MAS
-GOSP_MAS                      : 1
 gossip                        : 8
 goth                          : 2
 gothamist                     : 2
@@ -529,16 +452,6 @@ governments                   : 1   : government
 governor                      : 1
 governors                     : 1   : governor
 govlab                        : 1
-gpg                           : 3
-GPL                           : 1
-gps                           : 1   : GPS
-GPS                           : 2
-gpt_2                         : 2
-gpt_3                         : 1
-gpu                           : 2   : GPU
-GPU                           : 3
-gq                            : 2
-GrACE                         : 1
 grace                         : 1
 grad_school                   : 4
 grad_student                  : 1
@@ -557,10 +470,7 @@ graduation_rates              : 1
 graffiti                      : 4
 graft                         : 1
 grail_framework               : 1
-grailGM                       : 1   : GrailGM
-GrailGM                       : 2
 grakn                         : 1
-GRAKN                         : 1
 grammar                       : 56
 grammar_of_an_ambivalence     : 1
 grammar_ware                  : 1
@@ -615,13 +525,11 @@ graphicine                    : 1
 graphics                      : 133
 graphit                       : 1
 graphplan                     : 1
-GraphQL                       : 1
 graphQL                       : 1 : GraphQL
 graphs                        : 78  : graph
 graphsynth                    : 1
 graphviz                      : 6
 grappa                        : 1
-GRASP                         : 1
 grass                         : 2
 grassroots_encounter          : 1
 gratitude                     : 1
@@ -630,8 +538,6 @@ gravity_model                 : 1
 gray                          : 1
 gray_hat                      : 1
 gray_zone                     : 2
-GRE                           : 2
-GReAT                         : 1
 great_barrier_reef            : 1
 great_britain                 : 1
 great_british_bake_off        : 1
@@ -691,10 +597,8 @@ grief                         : 8
 grim_dark                     : 1
 grimoirtua                    : 1
 grinding                      : 1
-GRIOT                         : 1
 grist                         : 1
 gritty                        : 1
-GRL                           : 2
 groceries                     : 4
 groceriess                    : 1   : groceries
 grocery_shopping              : 2   : groceries
@@ -726,16 +630,6 @@ growth_transforms             : 1
 grrlscientist                 : 1
 grudge                        : 1
 grumpy_gamer                  : 4
-GSS                           : 1
-GSTD                          : 1
-GTA                           : 1
-gta5                          : 1
-gtags                         : 1
-GTD                           : 1
-GTI                           : 1
-gtk                           : 3
-gtk2                          : 1
-GTP_2                         : 1
 guadian                       : 1   : guardian
 guantanamo                    : 1
 guanxi                        : 1
@@ -749,7 +643,6 @@ guernica                      : 1
 guerrilla_gardening           : 1
 guggenheim                    : 1
 gui                           : 15  : GUI
-GUI                           : 8
 guide                         : 39
 guided_meditation             : 1
 guideines                     : 1   : guidelines
@@ -787,12 +680,9 @@ guns_dont_kill_people         : 1
 gunshot                       : 1
 gunshot_wounds                : 3
 gurgaon                       : 1
-GURPS                         : 1
 gutar_tabs                    : 13  : guitar_tabs
 guttmacher                    : 3
 guyana                        : 1
-GVGAI                         : 1
-GWAP                          : 1
 gym                           : 1
 gym_culture                   : 1
 gymnastics                    : 1

@@ -1,6 +1,4 @@
 s ai                                        : 1      : ai
-SAAS                                        : 1      : SaaS
-SaaS                                        : 2
 sabotage                                    : 3
 sabotage_modal_logic                        : 1
 sac_bee                                     : 1      : sacramento_bee
@@ -23,16 +21,10 @@ safety_critical_systems                     : 5
 safety_drill                                : 1
 safety_frameworks                           : 1
 saffron                                     : 1
-SAFs                                        : 1
 saga_pattern                                : 1
 sagas                                       : 1
-SAGE                                        : 2
-sage                                        : 2
 sahara_desert                               : 1
-SAIBA                                       : 1
 said                                        : 1
-SAIL                                        : 1
-SAIMR                                       : 1
 sainbury                                    : 1      : sainsbury
 sainsbury                                   : 1
 sainsburys                                  : 1      : sainsbury
@@ -56,7 +48,6 @@ sales_tax                                   : 1
 salience                                    : 1
 saliency                                    : 1      : salience
 salon                                       : 13
-SALT                                        : 1
 salt                                        : 2
 salt_lake_city                              : 1
 salute                                      : 1
@@ -107,9 +98,7 @@ sarajevo                                    : 2
 sarasota                                    : 1
 saratov                                     : 1
 sarcasm                                     : 1
-SARSA                                       : 1
 sasquatch                                   : 1
-SAT                                         : 3
 sat_solving                                 : 11
 satan                                       : 2
 satanic_pregnancies                         : 1
@@ -119,7 +108,6 @@ satellite                                   : 1
 satellite_photography                       : 1
 satellites                                  : 1      : satellite
 sater                                       : 1
-sati                                        : 1
 satire                                      : 17
 satisfaction                                : 1
 satisfiability                              : 2
@@ -133,7 +121,6 @@ saved_to_disk                               : 1
 saving                                      : 1
 savings                                     : 1      : saving
 sbnation                                    : 1
-SBVR                                        : 1
 scaffolding                                 : 1
 scala                                       : 2
 Scalability                                 : 1      : scaling
@@ -144,7 +131,6 @@ scale_free                                  : 2
 scale_free_networks                         : 1
 scaling                                     : 3
 scallions                                   : 1
-SCAM                                        : 1
 scam                                        : 2
 scammers                                    : 1
 scandal                                     : 6
@@ -170,8 +156,6 @@ schedule                                    : 2
 scheduled_castes                            : 1
 scheduling                                  : 6
 scheduling_systems                          : 1
-SCHEHERAZADE                                : 1
-scheherazade                                : 2      : SCHEHERAZADE
 schema                                      : 13
 schema_mappings                             : 1
 schema_networks                             : 1
@@ -200,7 +184,6 @@ school_to_prison                            : 1      : school_to_prison_pipeline
 school_to_prison_pipeline                   : 2
 schooling                                   : 7      : education
 schooner_creek_farms                        : 1
-sci_fi                                      : 115
 science                                     : 224
 science_as_process                          : 1
 science_fiction                             : 140
@@ -223,11 +206,6 @@ scientific_revolution                       : 1
 scientific_writing                          : 1
 scientists                                  : 1      : science
 scientology                                 : 1
-SCIFF                                       : 1
-scifi                                       : 112    : sci_fi
-scikit                                      : 3
-scikit_learn                                : 7
-scipy                                       : 5
 scoll_in                                    : 1      : scroll_in
 scons                                       : 1
 scooby_doo                                  : 1
@@ -238,11 +216,7 @@ scores                                      : 2      : score
 scoresheet                                  : 1
 scoring                                     : 2      : score
 scotland                                    : 2
-scotus                                      : 31     : SCOTUS
-SCOTUS                                      : 56
 scourse                                     : 1
-SCPR                                        : 1
-scpr                                        : 1      : SCPR
 scrap_metal                                 : 1
 scraping                                    : 3
 screen_cast                                 : 1
@@ -273,15 +247,9 @@ scully                                      : 1
 sculpting                                   : 1
 sculptural_hypertext                        : 1
 sculpture                                   : 8      : sculpting
-SCXML                                       : 1
 scythe                                      : 1
 Scythe                                      : 1 : scythe
 scythians                                   : 1
-SDK                                         : 1
-sdk                                         : 1      : SDK
-SDL                                         : 1
-sdl                                         : 3      : SDL
-SDO                                         : 1
 sea                                         : 2
 sea_ice                                     : 1
 sea_level                                   : 1
@@ -334,11 +302,9 @@ security_council                            : 1
 security_state                              : 1
 security_theatre                            : 11
 security_vulnerability                      : 1
-sed                                         : 2
 sedaka                                      : 1
 seduction                                   : 2
 see_to_it_that                              : 2
-SEEDS                                       : 1
 seeds                                       : 4
 seedship                                    : 2
 seeing_like_a_state                         : 1
@@ -421,7 +387,6 @@ semiotic                                    : 1      : semiotics
 semiotic_technology                         : 1
 semiotics                                   : 34
 semninary                                   : 1 : seminary
-SeMoA                                       : 1
 senate                                      : 13
 senators                                    : 1
 seneca_village                              : 2
@@ -459,7 +424,6 @@ seoul                                       : 1
 separatism                                  : 1
 sephora                                     : 2
 sepoy_rebellion                             : 1
-SEPTA                                       : 3
 seq2seq                                     : 2
 sequence                                    : 9
 sequence_control                            : 1
@@ -501,14 +465,12 @@ service_triangle                            : 1
 services                                    : 7      : service
 servile_labour                              : 1
 servo_skull                                 : 1
-SES                                         : 2
 sesame_street                               : 3
 session_9                                   : 1
 set_analytic_methods                        : 1
 set_theory                                  : 5
 set_time                                    : 1
 setellites                                  : 1      : satellites
-SETI                                        : 1
 sets                                        : 13
 setswana                                    : 1
 settings                                    : 1
@@ -531,7 +493,6 @@ sex_abuse                                   : 1
 sex_bot                                     : 1
 sex_change_regret                           : 1
 sex_differences                             : 2
-sex_ed                                      : 1
 sex_education                               : 9
 sex_expression                              : 1
 sex_offender                                : 3
@@ -564,16 +525,7 @@ sexual_victimisation                        : 2
 sexual_violence                             : 10
 sexualisation                               : 3
 sexuality                                   : 24
-SF                                          : 1
-SF_chronicle                                : 1
-SF_gate                                     : 10
-sfamv                                       : 3
-sfchronicle                                 : 1      : SF_chronicle
-SFF                                         : 1
-sfgate                                      : 10     : SF_gate
-SFPD                                        : 1
 shacknews                                   : 2
-SHACL                                       : 1
 shade                                       : 7
 shader                                      : 26
 shaders                                     : 15     : shader
@@ -608,7 +560,6 @@ shariah                                     : 1 : sharia
 sharing                                     : 3
 sharing_economy                             : 1
 sharing_nicely                              : 2
-SHARK                                       : 1
 sharknado                                   : 2
 sharks                                      : 1
 shaving                                     : 1
@@ -629,7 +580,6 @@ shibboleth                                  : 2
 shift                                       : 1
 Shilluk                                     : 1
 shincheonji                                 : 1
-SHINE                                       : 1
 ship_of_theseus                             : 1
 shipbreaking                                : 2
 shizuoka                                    : 1
@@ -652,10 +602,7 @@ shotspotter                                 : 4      : ShotSpotter
 show                                        : 3
 show_dont_tell                              : 1
 shower_thoughts                             : 1
-shrdlu                                      : 1      : SHRDLU
-SHRDLU                                      : 2
 shreveport                                  : 1
-SHriMP                                      : 1
 shrine                                      : 1
 shutdown                                    : 1
 shutoff                                     : 1
@@ -707,26 +654,20 @@ silk                                        : 1
 silk_road                                   : 1
 silly_rules                                 : 1
 silver_shirts                               : 1
-sim                                         : 12     : simulation
 sim_city                                    : 24
 sim_city_effect                             : 1
 sim_refinery                                : 1
 sim_tower                                   : 1
 simcity                                     : 3      : sim_city
 simcity_effect                              : 1      : sim_city_effect
-SIMD                                        : 1
-SIMDEI                                      : 1
 similarity                                  : 1
-SIMON                                       : 1
 simon_fraser_university                     : 1
-SIMPLE                                      : 4
 simple_justice                              : 2
 simple_models                               : 1
 simplex                                     : 1
 simplex_noise                               : 1
 simplification                              : 2
 simpsons                                    : 1
-simpy                                       : 1
 sims                                        : 1      : the_sims
 sims_of_the_oppressed                       : 1
 SimScene                                    : 1
@@ -755,15 +696,10 @@ singletons                                  : 1
 singular_value_decomposition                : 1
 singularity                                 : 1
 sinn_fein                                   : 1
-SIP                                         : 1
-SIP agents                                  : 1  : SIP : agents
 siphonophore                                : 1
 sir_gawain                                  : 3
 sir_you_are_being_hunted                    : 4
-Siren                                       : 2
 siri                                        : 2
-SISCONFLUX                                  : 1
-SIT                                         : 1
 sit_ins                                     : 1
 sitcom                                      : 1
 site_reliability_engineering                : 2
@@ -788,16 +724,11 @@ situation_hierarchy                         : 1
 situational_calculus                        : 1      : situation_calculus
 situational_reassessment                    : 1
 situations                                  : 1      : situation
-Six4Three                                   : 1
-six4three                                   : 1      : Six4Three
 six_ages                                    : 3
 sixth_amendment                             : 2
 size                                        : 2
 sized_types                                 : 1
 sjuzhet                                     : 1
-sjw                                         : 1      : SJW
-SJW                                         : 2
-SKAD                                        : 1
 skald                                       : 2
 skara_brae                                  : 1
 skeleton                                    : 3
@@ -816,14 +747,12 @@ skills_gap                                  : 1
 skin_colour                                 : 1
 skip_lists                                  : 1
 skirts                                      : 1
-sklearn                                     : 1
 skull                                       : 1
 sky_news                                    : 1
 skylines                                    : 1
 skyrim                                      : 19
 slack                                       : 1
 slang                                       : 3
-SLAPP                                       : 1
 slash_fiction                               : 1
 slashdot                                    : 48
 slate                                       : 55
@@ -842,7 +771,6 @@ slicing                                     : 1
 slides                                      : 9
 slip_box_method                             : 1
 slip_slop_slap                              : 1
-SLO_county                                  : 1
 slo_county                                  : 1 : SLO_county
 sloan                                       : 1
 sloppy_programming                          : 1
@@ -867,7 +795,6 @@ small_world                                 : 3
 small_world_networks                        : 1
 smallpox                                    : 1
 smalltalk                                   : 7
-SMart                                       : 1
 smart_car                                   : 1
 smart_cities                                : 1      : smart_city
 smart_city                                  : 1
@@ -879,54 +806,35 @@ smart_locations                             : 1
 smart_objects                               : 2
 smart_phone                                 : 1
 smart_zones                                 : 1
-SMARTedit                                   : 1
 SmartGrids                                  : 1
 smartphones                                 : 1
-SmartRL                                     : 1
 SmartSpace                                  : 1
-smax                                        : 1
-smbc                                        : 1
-SMDE                                        : 1
 smear_tests                                 : 1
 smell                                       : 3
 smelting                                    : 1
-smh                                         : 3
 smithfield                                  : 1
 smithsonian                                 : 3
 smitten_kitchen                             : 1
 smoke                                       : 1
 smoking                                     : 5
 SmoothLife                                  : 1
-SMT                                         : 1
 smuggling                                   : 3
 smut                                        : 1
 snake                                       : 3
 snake_oil                                   : 2
 snakes                                      : 2
 snap                                        : 2
-SNAP                                        : 8
 snatch                                      : 1
-SNePS                                       : 1
-SNIF_ACT                                    : 1
 snipers                                     : 1
 snippets                                    : 2
-SNL                                         : 1
 snope                                       : 1      : snopes
 snopes                                      : 5
 snow                                        : 2
 snow_white                                  : 1
 snowflake                                   : 1
 snowpiercer                                 : 1
-SNSAT                                       : 1
-snuff                                       : 1
-snuff_film                                  : 1      : snuff
-SOA                                         : 1
 soap                                        : 3
 soap_opera                                  : 1
-soaps                                       : 1      : soap
-SOAR                                        : 10
-soar                                        : 7      : SOAR
-SOARS                                       : 1      : SOAR
 socal_science                               : 1
 soccer                                      : 1
 sociability                                 : 1
@@ -1205,7 +1113,6 @@ sociology_of_culture                        : 1
 sociology_of_gender                         : 1
 sociomaterial_agency                        : 1      : socio_material_agency
 sociomateriality                            : 1 : socio_material
-SOCIONICAL                                  : 1
 socionics                                   : 1
 sociopoiesis                                : 1
 sociopolitical_complexity                   : 1      : socio_political_complexity
@@ -1213,15 +1120,9 @@ sociotechnical                              : 1      : socio_technical
 sociotechnical_foresight                    : 1
 socities                                    : 2      : society
 sockets                                     : 4
-SocLab                                      : 1
-SOCRATE                                     : 1
 socratic_web                                : 1
-SoDA                                        : 1
-SODA                                        : 1      : SoDA
 soda                                        : 2
 sodomy                                      : 1
-soe                                         : 1
-sof                                         : 1
 sofa                                        : 1
 soft_body                                   : 1
 soft_city                                   : 1
@@ -1266,7 +1167,6 @@ solar_system                                : 1
 solarpunk                                   : 1      : solar_punk
 soldier_of_fortune                          : 1
 soldiers                                    : 1
-SOLID                                       : 1
 solid_waste                                 : 1
 solidarity                                  : 3
 solitare                                    : 1
@@ -1290,7 +1190,6 @@ Sonja                                       : 1
 sonoma_county                               : 1
 sons_of_liberty                             : 1
 sony                                        : 4
-SOPA                                        : 1
 sophism                                     : 1
 sophists                                    : 1
 sophocles                                   : 1
@@ -1300,12 +1199,9 @@ sorry                                       : 1
 sort                                        : 1
 sorting                                     : 7
 sortition                                   : 1
-SOS                                         : 1
 sos_math                                    : 1
 sosmath                                     : 1      : sos_math
-SOTA                                        : 1      : state_of_the_art
 soteriology                                 : 1
-SOTU                                        : 1
 souls                                       : 1
 sound                                       : 54
 sound_and_history                           : 1
@@ -1402,10 +1298,8 @@ spam_filter                                 : 1
 spanish                                     : 2      : spain
 spanish_flu                                 : 2
 spanking                                    : 2
-SPARC                                       : 1
 spark_of_life                               : 1
 sparkling_association                       : 1
-SPARQL                                      : 1
 sparse_information_labeling                 : 1
 sparse_information_labling                  : 1      : sparse_information_labeling
 sparta                                      : 1
@@ -1426,7 +1320,6 @@ spatiality                                  : 1
 spatio_temporal                             : 3
 spatio_temporality                          : 1      : spatio_temporal
 speaker_deck                                : 4
-spec_ops                                    : 3
 spech                                       : 1      : speech
 special_counsel                             : 4
 special_education                           : 1
@@ -1441,7 +1334,6 @@ specifiation                                : 1      : specification
 specific                                    : 12
 specification                               : 32
 specificity                                 : 2
-specs                                       : 1      : specification
 spectacle                                   : 1
 spectacle_of_labour                         : 1
 spectating                                  : 1      : spectatorship
@@ -1480,7 +1372,6 @@ spider_graphs                               : 1
 spiderman                                   : 2
 spiders                                     : 1      : spider
 spiderverse                                 : 2
-SPIM                                        : 1
 spinner                                     : 1
 spinnortality                               : 1
 spirit                                      : 1
@@ -1488,10 +1379,7 @@ spiritual_healer                            : 1
 spiritualism                                : 1      : spirituality
 spirituality                                : 2
 spitfires                                   : 1
-spl                                         : 1
 splattercat                                 : 1
-SPLC                                        : 2
-splc                                        : 2      : SPLC
 spline                                      : 2
 splines                                     : 1      : spline
 splinter                                    : 2
@@ -1508,53 +1396,36 @@ sport                                       : 18
 sports                                      : 1      : sport
 sports_illustrated                          : 1
 sportsmanship                               : 1
-SPOSH                                       : 1
 spot                                        : 1
 spotify                                     : 1
 sprawl                                      : 1
 spreading_processes                         : 1
 spreadsheet                                 : 13
 spreadsheets                                : 1      : spreadsheet
-SPRING                                      : 1
 spring                                      : 2
 springer                                    : 4
 sprite_stack                                : 1
 sprites                                     : 4
 sprytile                                    : 1
-SPSS                                        : 1
-spss                                        : 1      : SPSS
 spy                                         : 1
 spy_party                                   : 1
 spying                                      : 2
 spyro                                       : 1
 spyware                                     : 1
-sql                                         : 15     : SQL
-SQL                                         : 2
 squalid                                     : 1
 square_dance                                : 1
 square_enix                                 : 1
 squareplay_games                            : 1
 squash                                      : 1
 squatting                                   : 3
-SQUEGE                                      : 1
 squid                                       : 2
 squink                                      : 1
 squirrels                                   : 1
 squitten                                    : 1
-SRAT                                        : 1
-SRE                                         : 1
 sri_lanka                                   : 6
 sria                                        : 1
-SRN_SIC                                     : 1
-SRO                                         : 1
 sroop_sunar                                 : 1
 ssh                                         : 6
-SSI                                         : 2
-SSL                                         : 1
-ssl                                         : 1      : SSL
-SSRI                                        : 1
-ssri                                        : 1      : SSRI
-ssrn                                        : 1
 st_landry                                   : 1
 st_louis                                    : 2
 st_petersburg                               : 1
@@ -1574,7 +1445,6 @@ stakeholders                                : 2
 stalactites                                 : 1
 stalin                                      : 2
 stalker                                     : 1
-STALKER                                     : 1
 stalking                                    : 1
 stamp                                       : 4
 stamped_from_the_beginning                  : 1
@@ -1623,7 +1493,6 @@ starvation                                  : 4
 stasi                                       : 2
 stasis                                      : 1
 stat_news                                   : 1
-STATA                                       : 1
 state                                       : 4
 state_attorney                              : 2
 state_buiding                               : 1      : state_building
@@ -1645,8 +1514,6 @@ state_legislation                           : 2
 state_legislature                           : 1
 state_legislatures                          : 1 : state_legislature
 state_legistlatures                         : 1      : state_legislature
-state_machine                               : 1      : FSMs
-state_machines                              : 3      : FSMs
 state_norms                                 : 1
 state_of_exception                          : 1
 state_of_the_art                            : 1
@@ -1714,7 +1581,6 @@ steel                                       : 3
 steel_foundry                               : 1
 stellaris                                   : 3
 stellations                                 : 1
-STEM                                        : 7
 stem_cell                                   : 1
 stem_cells                                  : 1      : stem_cell
 stench_blossom                              : 1
@@ -1734,12 +1600,6 @@ stimulus                                    : 4
 stingray                                    : 1
 stink                                       : 1
 stipends                                    : 1
-stit                                        : 2      : STIT
-STIT                                        : 6
-STIT_logic                                  : 5
-stit_logic                                  : 5      : STIT_logic
-STL                                         : 1
-stl                                         : 1      : STL
 stochastic                                  : 8
 stochastic_optimisation                     : 1
 stochastic_parrots                          : 1
@@ -1865,7 +1725,6 @@ strip_club                                  : 1
 strip_search                                : 4
 stripe                                      : 1
 stripper                                    : 1
-STRIPS                                      : 5
 striptease                                  : 1
 strong_ai                                   : 1
 strong_inference                            : 1
@@ -1902,9 +1761,6 @@ structure_of_thought                        : 1
 structured_description                      : 1
 structures                                  : 2      : structure
 structuring                                 : 1      : structure
-STS                                         : 32
-sts                                         : 5      : STS
-STUDENT                                     : 1
 student                                     : 4
 student_arrests                             : 1
 student_debt                                : 15     : student_debt_crisis
@@ -1985,7 +1841,6 @@ SugarJ                                      : 1
 sugarscape                                  : 2
 suggested_search                            : 1
 suggestions                                 : 1
-SUGILITE                                    : 1
 suicide                                     : 18
 suicide_bombers                             : 1
 suit                                        : 1
@@ -2047,7 +1902,6 @@ support_networks                            : 1
 support_vector_machine                      : 2
 suppression                                 : 1
 suprematist_art                             : 1
-supreme_court                               : 1      : SCOTUS
 supsensorium                                : 1      : supersensorium
 surface_normal                              : 2
 surface_shaders                             : 1
@@ -2083,11 +1937,6 @@ suspension_of_disbelief                     : 1
 sustain                                     : 1
 sustainability                              : 8
 sustainable                                 : 1
-SVD                                         : 1
-svd                                         : 1      : SVD
-SVG                                         : 1
-SVM                                         : 8
-SVR                                         : 1
 swahili                                     : 1
 swarm                                       : 7      : swarms
 swarm_intelligence                          : 3
@@ -2095,8 +1944,6 @@ swarm_robotics                              : 1
 swarms                                      : 6
 swastika                                    : 1
 swastikas                                   : 1      : swastika
-swat                                        : 1      : SWAT
-SWAT                                        : 4
 swatting                                    : 2
 swazi                                       : 1
 swaziland                                   : 1
@@ -2105,7 +1952,6 @@ swearing                                    : 5
 sweden                                      : 8
 swedish_model                               : 2
 sweet_js                                    : 5
-swf                                         : 1
 swimming                                    : 5
 swine_flu                                   : 1
 swing_states                                : 1
@@ -2118,8 +1964,6 @@ sword                                       : 1
 sword_and_sworcery                          : 2
 swords                                      : 1
 swprs                                       : 1
-SWRL                                        : 1
-SWSD                                        : 1
 syallabus                                   : 1      : syllabus
 syllabi                                     : 1      : syllabus
 syllabus                                    : 48
@@ -2155,7 +1999,6 @@ symmetrical_processes                       : 1
 symmetry                                    : 1
 symptoms                                    : 1
 synagogue                                   : 3
-SYNAI                                       : 1
 synchronization                             : 1
 synchrony                                   : 1
 syncopation                                 : 1
@@ -2177,7 +2020,6 @@ synthetic_cultures                          : 6
 synthetic_experience                        : 1
 synthetic_method                            : 1
 synthetic_populations                       : 1
-SYNVIEW                                     : 1
 syria                                       : 16
 system                                      : 6      : systems
 system_design                               : 9

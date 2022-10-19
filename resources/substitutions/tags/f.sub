@@ -2,7 +2,6 @@ f#                                       : 1  : f_sharp
 f_logic                                  : 1
 F_logic                                  : 1 : f_logic
 f_sharp                                  : 9
-FAA                                      : 1
 fable                                    : 4
 fable_3                                  : 1
 fabled_lands                             : 1
@@ -113,7 +112,6 @@ fanaticism                               : 1
 fandom                                   : 1
 fanfiction                               : 1
 fanon                                    : 1
-FANs                                     : 1
 fantacism                                : 1 : fanaticism
 fantasy                                  : 39
 fantasy_console                          : 1
@@ -154,8 +152,6 @@ fat_phobia                               : 2  : fatphobia
 fatherhood                               : 1
 fathon                                   : 1
 fatigue                                  : 1
-FatiMA                                   : 1  : FAtiMA
-FAtiMA                                   : 3
 fatphobia                                : 5
 fault                                    : 3
 fault_detection                          : 1
@@ -171,19 +167,8 @@ favelas                                  : 1
 favouritism                              : 3
 fax                                      : 2  : fax_machine
 fax_machine                              : 2
-FBI                                      : 12
-fbi                                      : 12 : FBI
-fcc                                      : 1  : FCC
-FCC                                      : 2
-FCM                                      : 1
-FCP                                      : 1
-FDA                                      : 1
-fda                                      : 1  : FDA
-FDG                                      : 6
-fdg                                      : 6  : FDG
 fear                                     : 9
 fear_mongering                           : 1
-FearNot                                  : 3
 feast_of_odin                            : 1
 feasts                                   : 1
 feature_creep                            : 1
@@ -192,7 +177,6 @@ feature_extraction_join_query            : 1
 feature_factor_relationship              : 1
 feature_models                           : 1
 feature_space                            : 1
-FEC                                      : 2
 federal                                  : 3
 federal_agencies                         : 2  : federal_agency
 federal_agency                           : 1
@@ -223,8 +207,6 @@ felon_voting                             : 2
 felonies                                 : 1  : felony
 felons                                   : 3
 felony                                   : 1
-FEM                                      : 1
-FEMA                                     : 2
 Female                                   : 1  : female
 female                                   : 2
 female_gaze                              : 1
@@ -239,7 +221,6 @@ feminist_hulk                            : 1
 feminist_photography                     : 1
 fencing                                  : 1
 fentanyl                                 : 1
-FERC                                     : 1
 ferguson                                 : 4
 fermentation                             : 1
 fermi_paradox                            : 1
@@ -258,17 +239,8 @@ feudal_gynarchy                          : 1
 feudalism                                : 1
 feuds                                    : 1
 fez                                      : 1
-FF                                       : 1
-FFI                                      : 1
-FFIPS                                    : 1
-FFREADA                                  : 1
-FFT                                      : 1
-fft                                      : 3
-FGM                                      : 1
-FHIR                                     : 2
 fiat                                     : 1
 fibre                                    : 1
-FICO                                     : 1
 fiction                                  : 137
 fiduciary                                : 1
 field                                    : 6
@@ -327,7 +299,6 @@ financial_settlement                     : 1
 financial_terrorism                      : 1
 financialization                         : 1
 financy                                  : 1
-FinCEN                                   : 1
 find                                     : 1
 findability                              : 1
 fine                                     : 1
@@ -340,7 +311,6 @@ finite_state                             : 1
 finite_state_machine                     : 4  : FSMs
 finite_state_machines                    : 7  : FSMs
 finland                                  : 7
-FIPA                                     : 4
 fire                                     : 7
 fire_insurance                           : 1
 fire_sales                               : 1
@@ -364,7 +334,6 @@ first_responders                         : 1
 first_sale                               : 2
 first_things                             : 1
 first_world_war                          : 1
-FISA                                     : 3
 fiscal_credibility                       : 1
 fiscal_policy                            : 1
 fish                                     : 4
@@ -451,7 +420,6 @@ flower_men                               : 2
 flower_picking                           : 1
 flowers                                  : 3
 flowlines                                : 1
-FloWr                                    : 1
 flows                                    : 1
 flu                                      : 1
 fluents                                  : 1
@@ -461,16 +429,9 @@ flux                                     : 1
 fluxus                                   : 3
 flycheck                                 : 1
 flying                                   : 2
-FML                                      : 1
-fMRI                                     : 1
-fmri                                     : 1  : fMRI
-FOAI                                     : 1
 focus                                    : 1
 focus_of_attention                       : 1
-FODMAP                                   : 1
 fog                                      : 1
-FOIA                                     : 13
-foia                                     : 4  : FOIA
 folding_arguments                        : 1
 folding_ideas                            : 1
 Foldit                                   : 1
@@ -607,7 +568,6 @@ fox                                      : 9
 fox5dc                                   : 1
 fox_news                                 : 11
 foxus_context                            : 1
-FPS                                      : 13
 fps                                      : 3  : FPS
 fracking                                 : 4
 fractal                                  : 10
@@ -694,7 +654,6 @@ frontier_knowledge                       : 1
 frontline                                : 1
 frostpunk                                : 1
 frp                                      : 1  : FRP
-FRP                                      : 2
 fructure                                 : 1
 fruit                                    : 2
 fruit_flies                              : 1  : fruit_fly
@@ -702,14 +661,7 @@ fruit_fly                                : 1
 fruitvale_station                        : 1
 frustration                              : 1
 fsharp                                   : 1  : f_sharp
-FSM                                      : 25 : FSMs
-FSMs                                     : 11
 ft_bragg                                 : 1
-FTA                                      : 2
-FTC                                      : 1
-ftc                                      : 1  : FTC
-ftl                                      : 2
-ftp                                      : 1
 fuck                                     : 6
 fuel_efficiency                          : 1
 fugue_in_void                            : 1

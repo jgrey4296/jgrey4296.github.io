@@ -1,10 +1,5 @@
-e_books                             : 1  : ebook
 e_learning                          : 1
 e_sports                            : 2
-EA                                  : 1
-eacl                                : 1
-EAGLE                               : 1
-eAOP                                : 1
 ear                                 : 1
 ear_plugs                           : 1
 early                               : 1
@@ -30,9 +25,7 @@ easter_mass                         : 1
 easthetics                          : 1 : aesthetics
 eastshade                           : 2
 easy_mode                           : 1
-easyABMS                            : 2
 easygen                             : 2
-EAT                                 : 1
 eat24                               : 1
 eater                               : 1
 eathworms                           : 1  : earthworms
@@ -41,10 +34,8 @@ eating_disorder                     : 4
 eating_disorders                    : 1 : eating_disorder
 eating_habits                       : 1
 ebay                                : 2
-eBDI                                : 1
 ebola                               : 2
 ebony                               : 1
-ebook                               : 24
 ecclesiastes                        : 1
 ecclesiasty                         : 1
 echo                                : 2
@@ -92,9 +83,6 @@ ecosystems                          : 1  : ecosystem
 ecoterrorism                        : 1
 ectopic_pregnancy                   : 1
 ecuador                             : 1
-ecXML                               : 1
-ED                                  : 4 : eating_disorders
-ed_tech                             : 1
 edcuation                           : 1  : education
 edge_bundling                       : 1
 edge_cases                          : 1
@@ -105,11 +93,7 @@ editing                             : 3
 editor                              : 9
 editorial                           : 3
 editorial_process                   : 1
-EDM                                 : 1
-edm                                 : 2  : EDM
-edtech                              : 3  : education_tech
 edu                                 : 314
-edu_games                           : 1
 education                           : 514
 education_tech                      : 1
 educational_decree                  : 1
@@ -118,7 +102,6 @@ educational_software                : 1
 eduction                            : 1  : education
 eelections                          : 1  : elections
 eels                                : 1
-eff                                 : 5
 effect                              : 3
 effect_ordering                     : 1
 effect_size                         : 1
@@ -132,7 +115,6 @@ effort                              : 2
 egalitarianism                      : 1
 ego                                 : 2
 egypt                               : 14
-EHA2018                             : 1
 eHumanities                         : 1
 ei_eide                             : 1
 eichmann_trial                      : 1
@@ -140,7 +122,6 @@ eidolon                             : 1
 eiffel_tower                        : 1
 eigenvalues                         : 1
 eigenvectors                        : 1
-EIS                                 : 1
 el_centro                           : 1
 el_mozote_massacre                  : 3
 el_paso                             : 5
@@ -169,7 +150,6 @@ electoral+_systems                  : 1  : electoral_system
 electoral_college                   : 5
 electoral_system                    : 1
 electoral_weapons                   : 1
-ELECTRE                             : 2
 electrical_systems                  : 1
 electricity                         : 4
 electronic_arts                     : 1
@@ -184,14 +164,12 @@ elegant_coding                      : 1
 elegant_hack                        : 1
 eleksdraw                           : 2
 eleksmaker                          : 2
-ELEKTRA                             : 1
 elemental                           : 1
 elements                            : 1
 elephant                            : 1
 elevation_data                      : 1
 elevator_protocol                   : 1
 elevators                           : 2
-ELI5                                : 4
 eligibility                         : 1
 elimination                         : 1
 elisp                               : 5
@@ -199,17 +177,13 @@ elite                               : 1
 elite_dangerous                     : 2
 elites                              : 2
 elitism                             : 3
-ELIZA                               : 2
 eliza_effect                        : 1
 elliptic_curves                     : 1
 elm                                 : 1
-ELMS                                : 2
-elo                                 : 1
 elsevier                            : 1
 elvis                               : 1  : elvis_presley
 elysium                             : 1
 Em                                  : 1
-EMA                                 : 2
 emacs                               : 124
 emacs_mode                          : 1
 email                               : 11
@@ -220,7 +194,6 @@ email_scammers                      : 1
 emails                              : 3
 emal                                : 3  : email
 emancipated_player                  : 1
-EMASL                               : 1
 embarrassment                       : 1
 embarressment                       : 1  : embarrassment
 embedded                            : 2
@@ -238,8 +211,6 @@ embodied_institutions               : 1
 embodiment                          : 42
 embroidery                          : 1
 embryos                             : 1
-EMDR                                : 1
-EMERALD                             : 1
 emergence                           : 46
 emergency                           : 3
 emergency_department                : 1
@@ -251,10 +222,6 @@ emergent_gameplay                   : 1  : emergent_game_play
 emergent_narrative                  : 2
 emerging_logics                     : 1
 emerging_technology                 : 1
-EMF                                 : 1
-EMI                                 : 2
-EMIL                                : 1
-EmiL                                : 1  : EMIL
 emil                                : 2  : EMIL
 emissions                           : 3
 emohawk                             : 1
@@ -283,7 +250,6 @@ Emotions                            : 1 : emotion
 emotions                            : 8  : emotion
 emoulments                          : 1  : emoluments
 EmPath                              : 1  : EMPath
-EMPath                              : 2
 empathizing_systematizing           : 1
 empathy                             : 27
 empedocles                          : 1
@@ -302,12 +268,10 @@ employees                           : 1
 employment                          : 45
 empowerment                         : 5
 empty_wheel                         : 1
-emt                                 : 1
 emulation                           : 4
 emulator                            : 1
 Emulator                            : 1 : emulator
 en_banc                             : 1
-ENABL                               : 1
 enabling                            : 2
 enacted                             : 1
 enactment                           : 4
@@ -364,7 +328,6 @@ english_departments                 : 1
 english_empire                      : 1
 english_poetry                      : 1
 english_witchcraft_act              : 1
-ENGO                                : 1
 enigma                              : 1
 enigma_machine                      : 1
 enjoyment                           : 2
@@ -412,11 +375,7 @@ environmentalism                    : 3
 environments                        : 2  : environment
 eocnomics                           : 1  : economics
 eonomics                            : 3  : economics
-EOP                                 : 2
-EP_MAS                              : 1
-EPA                                 : 4
 epi                                 : 1
-EPI                                 : 1
 epic                                : 1
 epic_games                          : 2
 epic_records                        : 1
@@ -452,14 +411,10 @@ equitable_growth                    : 1
 equity                              : 2
 erasmus                             : 1
 erasure                             : 5
-ERCOT                               : 1
-ERGo                                : 1
-ErgoAI                              : 2
 ergodic_literature                  : 1
 ergodicity                          : 1
 ergonomic                           : 1
 ergonomics                          : 1  : ergonomic
-ERISA                               : 1
 erland                              : 1  : erlang
 erlang                              : 9
 erotic                              : 1
@@ -476,19 +431,11 @@ error_recovery                      : 2
 errorproofing                       : 2  : error_proofing
 errors                              : 6
 erwadi                              : 1
-es2015                              : 1
-es6                                 : 16
-ES_and_S                            : 2
-ESA                                 : 1
 escalation                          : 2
 escape                              : 1
 escape_from_trelleborg              : 1
 escapist                            : 65
-ESCHER                              : 1
 escort                              : 1
-ESG                                 : 1
-EShadow                             : 1
-ESI                                 : 1
 eskimo                              : 2
 eslint                              : 3
 esoteric                            : 2
@@ -515,7 +462,6 @@ etcher                              : 1
 eternal_castle                      : 1
 eternal_sunshine                    : 1
 eternalism                          : 2
-ETH                                 : 1
 ethical_ai                          : 1
 ethical_alternatives                : 1
 ethical_open_source                 : 1
@@ -550,12 +496,10 @@ etiquette                           : 6
 etsy                                : 2
 etudes                              : 1
 etymology                           : 2
-EU                                  : 30
 eu27                                : 1
 eu_human_rights                     : 1
 eucharist                           : 1
 euclid                              : 1
-EUCRT                               : 1
 eudaimonia                          : 1
 eugenics                            : 20
 eula                                : 1
@@ -626,8 +570,6 @@ evidence_chain                      : 1
 evidence_integration                : 1
 evidence_standards                  : 1
 evil                                : 5
-evo_bio                             : 1
-evo_psych                           : 2
 evoland                             : 1
 evolution                           : 93
 evolutionary robotics               : 1 : evolutionary_robotics
@@ -639,7 +581,6 @@ evolutionary_robotics               : 1
 EvoTanks                            : 1
 evoution                            : 1  : evolution
 evropa                              : 1
-ewg                                 : 1
 ex_gay                              : 1
 exaggeration                        : 1
 exam                                : 2
@@ -686,7 +627,6 @@ exoneration                         : 1
 exoplanets                          : 1
 expanding_our_sense_of_the_possible : 1
 expansive_learning                  : 1
-expats                              : 1
 expectancy                          : 1
 expectation                         : 3
 expectations                        : 1  : expectation

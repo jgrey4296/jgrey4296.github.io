@@ -1,6 +1,3 @@
-
-h1n1                           : 1
-h_r_4174                       : 2
 haaretz                        : 3
 habit                          : 4
 habit_formation                : 1
@@ -13,7 +10,6 @@ hachette                       : 1
 hachijojima                    : 1
 hack                           : 1
 hackathon                      : 1
-HACKER                         : 1
 hacker                         : 2
 hacker_news                    : 2
 hackernoon                     : 1
@@ -40,7 +36,6 @@ hairstyles                     : 2   : hair
 haiti                          : 6
 hakai_magazine                 : 1
 halakha                        : 1
-HALEF                          : 1
 half-life                      : 2   : half_life
 half_life                      : 4
 haliburton                     : 1
@@ -89,9 +84,7 @@ harm                           : 4
 harm_reduction                 : 2
 harmful_speech                 : 1
 harmlessness                   : 1
-HARMONIA                       : 1
 harmony                        : 1
-HARP                           : 1
 harpers_bazaar                 : 3
 harpers_letter                 : 1
 harris_county                  : 1
@@ -131,11 +124,6 @@ hazelnut                       : 1
 hazelnut_bastille              : 1
 hazing                         : 1
 hazmat                         : 1
-hb_1215                        : 1
-HBCU                           : 1
-hbo                            : 2
-hci                            : 26  : HCI
-HCI                            : 362
 hdrlicka                       : 1
 head_scarf                     : 3
 headdress                      : 1
@@ -197,7 +185,6 @@ hentai                         : 2
 hepaestus                      : 1   : hephaestus
 hepatitis                      : 1
 hephaestus                     : 1
-HERA                           : 2
 heraldry                       : 2
 herbrand_logic                 : 1
 herbs                          : 2
@@ -238,9 +225,6 @@ hexagon                        : 2
 hexagonal                      : 1   : hexagon
 hexapod_robot                  : 1
 hezbollah                      : 1
-HFSM                           : 1
-HHCR741                        : 1
-HHS                            : 4
 hicks_law                      : 1
 hidden                         : 1
 hidden_curriculum              : 2
@@ -298,9 +282,7 @@ hindu_nationalism              : 1
 hinduism                       : 3
 hindustan_times                : 1
 hip_hop                        : 2
-HIPAA                          : 5   : HIPPA
 hipcrime_vocab                 : 1
-HIPPA                          : 1
 hippcratic_license             : 1   : hippocratic_license
 hippocratic_license            : 1
 hippocratic_oath               : 1
@@ -338,18 +320,10 @@ hitchhikers_guide              : 4
 hitchikers_guide               : 8   : hitchhikers_guide
 hitchikers_guide_to_python     : 1
 hitman                         : 6
-HIV                            : 17
-hiv                            : 4   : HIV
 hives                          : 1
 hizbullah                      : 1
-HKB                            : 1
-HKBS                           : 1
-HLAI                           : 1
-HLBL                           : 1
-HLSL                           : 1
 hma_law                        : 1
 hmm_daily                      : 1
-HMV                            : 1
 hoarding                       : 1
 hoare                          : 2
 hoax                           : 3
@@ -362,7 +336,6 @@ hockey                         : 1
 hofeller_files                 : 1
 hohfeld                        : 1
 hokkaido                       : 1
-HOL                            : 2
 holborn_viaduct                : 1
 holiday                        : 2
 holistic                       : 1
@@ -430,7 +403,6 @@ HongKongProtests               : 2   : hong_kong_protests
 honour                         : 1
 honour_killings                : 1
 honourifics                    : 1
-HOOD                           : 1
 hood_biologist                 : 1
 hookers_for_jesus              : 2
 hooking_up                     : 1
@@ -498,38 +470,16 @@ how_we_get_to_next             : 2
 howls_moving_castle            : 1
 howmuch                        : 1   : how_much
 howwegettonext                 : 1   : how_we_get_to_next
-hp                             : 1
-hpe                            : 1
-hpoem                          : 1
-HPV                            : 1
-HR                             : 4
-HRA_office                     : 1
 hrdlicka_prize                 : 1
 hrishipara                     : 1
-HRW                            : 1
-hrw                            : 1   : HRW
-hsb                            : 1
-HSFM                           : 1
-hsfm                           : 1   : HSFM
 hsinchu                        : 1
-HSL                            : 2
-hsl                            : 2   : HSL
-HSP                            : 1
-HSPS                           : 1
-HSV                            : 1
-hsv                            : 1   : HSV
 html                           : 7
 html5                          : 2
-HTN                            : 4
-HTN_planning                   : 1
-HTNs                           : 1   : HTN
 http                           : 1
-HUAC                           : 1
 huamn_rights                   : 1 : human_rights
 hubble                         : 2
 hubris                         : 1
 hubs                           : 1
-hud                            : 1
 huffington_post                : 38
 huffpo                         : 12  : huffington_post
 hugo                           : 3
@@ -575,7 +525,6 @@ humble_bundle                  : 2
 humiliation                    : 1
 humiliation_game               : 1
 humility                       : 1
-HUMINT                         : 1
 humint                         : 1   : human_intelligence
 hummus                         : 1
 humour                         : 497
@@ -591,7 +540,6 @@ hybrid_cuckoo                  : 1
 hybrid_logics                  : 1
 hybrid_model_transformation    : 1
 hybrid_systems                 : 1
-HyDICE                         : 2
 hydra                          : 2
 hydra_patterns                 : 1
 hydraulics                     : 1
@@ -601,7 +549,6 @@ hydrology                      : 1
 hydroxycholoroquine            : 1
 hygiene                        : 3
 hygienic_transforms            : 1
-HyPED                          : 1
 hyper                          : 1
 Hyper                          : 1   : hyper
 hyper_heuristics               : 1

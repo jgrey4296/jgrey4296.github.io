@@ -1,18 +1,5 @@
-q_learning                       : 7
-QA                               : 4
-QAD                              : 1
-QAnon                            : 3
-qanon                            : 3      : QAnon
 qatar                            : 1
-QCA                              : 1
-QED                              : 1
 qingming                         : 1
-QList                            : 1
-QOC                              : 2
-QRCodes                          : 1
-QT                               : 3
-qt                               : 3      : QT
-quadtrees                        : 1
 quake                            : 7
 quakers                          : 2
 qualification_problem            : 1
@@ -66,13 +53,11 @@ queer_games                      : 1
 queer_politics                   : 1
 queer_theory                     : 1
 queeries                         : 1
-queerSTS                         : 1
 queerty                          : 1
 quel_solaar                      : 1
 queries                          : 1      : query
 query                            : 4
 query_language                   : 5
-QUEST                            : 1
 quest                            : 3
 quest_design                     : 3
 QuestGen                         : 1
@@ -111,4 +96,3 @@ quote_attribution                : 1
 quotes                           : 15     : quote
 quotidian                        : 1
 quran                            : 1
-qz                               : 1
