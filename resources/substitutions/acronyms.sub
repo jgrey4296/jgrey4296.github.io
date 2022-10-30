@@ -1744,6 +1744,7 @@ urwid                           : 1
 us                              : 11  : USA
 US                              : 18  : USA
 US Government                   : 1   : US_government
+US_Government                   : 2   : US_government
 usa                             : 14  : USA
 USA                             : 343
 USA_mexico_border               : 1   : US_mexico_border

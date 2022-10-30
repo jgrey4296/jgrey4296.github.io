@@ -9,6 +9,7 @@ https://en.m.wikipedia.org/wiki/Glossary_of_fencing
 https://zampaniosim.fandom.com/wiki/Cognitohazard
 https://scp-fanon.fandom.com/wiki/Category:Cognitohazard
 https://en.wikipedia.org/wiki/Information_hazard
+https://docutils.sourceforge.io/docs/ref/rst/introduction.html#goals
 * Main
 ** General
 *** Modalities
@@ -719,6 +720,35 @@ and thus are independent conditional on Z.
 :Counterfactuals:
 
 :END:
+*** Description Logic
+TBox -
+ABox -
+
+EL -
+ALC -
+SHIQ -
+
+:Extensions:
+H -
+R -
+O -
+I -
+N -
+Q -
+F -
+:END:
+
+
+
+
+
+*** Computational Complexity
+LogSpace -
+PTime -
+NP -
+PSpace -
+ExpTime -
+
 ** Misc
 Marxism                        - critique of capitalism, and understanding economic activity through class struggle
 dialectic                      - discourse between opposing points of view (people) to arrive at the truth
@@ -739,6 +769,28 @@ ontological priors             -
 sociological realism           -
 technological determinism      -
 cognito-hazard -
+:Condorcet_paradox:
+https://artint.info/2e/html/ArtInt2e.Ch11.S5.html
+
+Where:
+Alice : X > Y > Z
+Bob   : Y > Z > X
+Cory  : Z > X > Y
+
+In pairwise voting, 2/3 for (X > Y) and (Y > Z) and (Z > X),
+so preference is non-transitive.
+:END:
+:arrows_impossibility_theorem:
+If there are three or more outcomes, the following properties cannot simultaneously hold for any social preference function(SPF):
+
+- SPF is complete and transitive
+- every individual preference that is complete and transitive is allowed
+- if every individual prefers X to Y, the group prefers X to Y.
+- the group preference between X and Y depends only on the individual preferences of X and Y, and not on other preferences
+- no individual gets to unilaterally decide the outcome
+:END:
+
+
 *** Rights
 claim rights                 - entails obligations on others regarding the right holder.
 legal rights                 - rights bestowed by a given legal system, and so modifiable.

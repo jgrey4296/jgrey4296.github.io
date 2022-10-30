@@ -3,6 +3,22 @@
 * Overview
 
 * Main
+** ADB
+Tablet will periodically de-authorize adb,
+so re-pair with `adb pair`
+** Awk
+#+begin_src awk
+awk 'match($0, /HREF="(.+?)"/, a) {print a[1]}'
+
+#+end_src awk
+
+** Compiling Aseprite from source
+  Follow the instructions to install google depot_tools, then skia.
+  The missing instruction is to *unset python3 and anaconda in the path*
+  as depot_tools, and the setup script for skia uses *python 2*.
+  after that, compilation is straight forward, making sure to target the
+  OSX version you are actually on.
+
 ** Emacs Straight Recipes
 https://github.com/radian-software/straight.el#the-recipe-format
 
@@ -18,9 +34,19 @@ https://github.com/radian-software/straight.el#the-recipe-format
 
 #+end_src
 
-** ADB
-Tablet will periodically de-authorize adb,
-so re-pair with `adb pair`
+** File encoding
+file -I {}
+iconv -f {enc} -t {enc} {} > conv-{}
+
+** Firefox
+Get to configs with about:about
+Use: reader.parse-on-load.force-enabled
+for reader view force
+
+Set: browser.bookmarks.editDialog.firstEditField
+to: tagsField
+for a better bookmarking default
+
 ** GPG Notes (v 2.2.11)
 *** *Short IDs*: Last 8 digits of fingerprint
 *** Basic Protocol
@@ -83,26 +109,6 @@ so re-pair with `adb pair`
 
    then 'save'
 
-** Compiling Aseprite from source
-  Follow the instructions to install google depot_tools, then skia.
-  The missing instruction is to *unset python3 and anaconda in the path*
-  as depot_tools, and the setup script for skia uses *python 2*.
-  after that, compilation is straight forward, making sure to target the
-  OSX version you are actually on.
-
-** Firefox
-Get to configs with about:about
-Use: reader.parse-on-load.force-enabled
-for reader view force
-
-Set: browser.bookmarks.editDialog.firstEditField
-to: tagsField
-for a better bookmarking default
-
-** Markdown html export
-Add a local file to `markdown-css-paths`,
-can use npm package `generate-github-markdown-css` as a start
-
 ** Image Pdf calls
 #+NAME: image to pdf generation
 #+begin_src bash :results value
@@ -117,11 +123,9 @@ pdftk * cat output diagrams.pdf
 pandoc ? -o output.pdf
 #+end_src
 
-** Awk
-#+begin_src awk
-awk 'match($0, /HREF="(.+?)"/, a) {print a[1]}'
-
-#+end_src awk
+** Markdown html export
+Add a local file to `markdown-css-paths`,
+can use npm package `generate-github-markdown-css` as a start
 
 ** Pdf Metadata
 #+begin_src bash
@@ -145,9 +149,15 @@ pdftk ? dump_data > info.txt
 pdftk ? update_info info.txt output updated.pdf
 #+end_src
 
-** File encoding
-file -I {}
-iconv -f {enc} -t {enc} {} > conv-{}
+** Sed
+Filter lines with:
+'/pattern/d'
+
+Print Matching lines with:
+'/pattern/p'
+
+case Invariant:
+'/pattern/I'
 
 ** Wordnet
 `wn`
@@ -200,15 +210,89 @@ iconv -f {enc} -t {enc} {} > conv-{}
 -over		Overview of Senses
 #+end_src
 
-** Sed
-Filter lines with:
-'/pattern/d'
+** XML
+*** XPath
+#+NAME: Example Code
+#+begin_src xpath :results output
+# display the last names of all people in the doc
+//person/@last-name
 
-Print Matching lines with:
-'/pattern/p'
+# get the 2nd person node
+/people/person[2]
 
-case Invariant:
-'/pattern/I'
+# get all the person nodes that have addresses in denver
+//person[address/@city='denver']
+
+# get all the addresses that have "south" in the street name
+//address[contains(@street, 'south')]
+
+# reject certain nodes:
+//(* except script)
+//*[not(self::script)]
+
+# Extract an attribute value:
+//a/extract(@href, '.*')
+#+end_src
+
+#+begin_src xpath
+# Axes
+ancestor
+ancestor-or-self
+attribute / @
+child
+descendant
+descendantor-self
+following
+following-sibling
+parent
+preceding
+preceding-sibling
+self / .
+
+
+#+end_src
+
+*** [[https://www.videlibri.de/xidel.html][xidel]]
+#+begin_src bash
+# Extracts between table and footer
+xidel -s --output-format=xml --xpath "//table/following-sibling::*[//*[@id='printfooter']/preceding::node()]" `?`
+#+end_src
+*** [[http://xmlstar.sourceforge.net/][XML Starlet]]
+
+#+begin_src bash
+# query, -I(indenting output), -t(template:) -f(file name) -n(new line) -m(match xpath) //Trait -c(copy xpath) . -n -b(break nesting) file
+xml sel -I -t -f -n -m //Trait -c . -n -b ./facade_messy.xml
+
+# delete a path:
+xml ed -d "//div[@id='toc']" ? > mod-`?`
+#+end_src
+
+*** [[http://saxon.sourceforge.net/][Saxon]]
+
+** Gradle
+
+** Wget
+https://www.networkinghowtos.com/howto/change-the-user-agent-in-wget/
+https://www.networkinghowtos.com/howto/common-user-agent-list/
+
+wget --user-agent="Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"
+wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0"
+
+** Latex
+
+*** tlmgr
+
+:outdated_l3_layer:
+https://tex.stackexchange.com/questions/586467/
+
+sudo fmtutil-sys --all
+:END:
+
+
+*** texdoc
+https://tex.stackexchange.com/questions/297004/
+tlmgr option docfiles 1
+tlmgr install --reinstall $(tlmgr list --only-installed | sed -E 's/i (.*):.*$/\1/')
 
 * Links
 [[https://www.futureboy.us/pgp.html][GPG General Howto]]
