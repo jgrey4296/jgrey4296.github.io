@@ -294,6 +294,16 @@ https://tex.stackexchange.com/questions/297004/
 tlmgr option docfiles 1
 tlmgr install --reinstall $(tlmgr list --only-installed | sed -E 's/i (.*):.*$/\1/')
 
+*** mbsync and mu
+
+#+NAME: mu init
+#+begin_src bash :results output
+mu init --maildir ~/.mail --my-address {address}
+mu index
+#+end_src
+
+
+
 * Links
 [[https://www.futureboy.us/pgp.html][GPG General Howto]]
 https://pandoc.org/
