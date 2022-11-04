@@ -4745,6 +4745,10 @@ A Language is a dialect with an army and a navy.
 "He cannot conceive of a nation as anything but an absolute centralized authority, totalitarianism, for his rule is nothing less than that now."
 
 Ethiopia did not have the same problem [of corruption]. African leaders looked at us with envy.
+** Michael Genesereth
+On KIF: genesereth92:_knowl_inter_format_refer_manual
+The Language has declarative semantics. It is possible to understand the meaning
+of expressions in the language without appeal to an interpreter for manipulating those expressions.
 ** Michael Rosen
  "The data have landed.
 First they said they needed data about the childrern to find out what they're learning.

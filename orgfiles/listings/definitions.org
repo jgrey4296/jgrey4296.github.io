@@ -1,6 +1,8 @@
 #+TITLE: Definitions
 
 * Overview
+https://en.wikipedia.org/wiki/English_grammar
+https://en.wikipedia.org/wiki/Clause
 https://en.m.wikipedia.org/wiki/List_of_Latin_legal_terms
 https://en.m.wikipedia.org/wiki/Kill_chain
 https://wiki.haskell.org/Pointfree
@@ -1270,6 +1272,36 @@ Hyponym  - a more specific word which includes the meaning of a more general wor
 Troponym - a more specific verb for describing action
 Metonymy - figure of speech replacing one thing with an attribute of it. eg: "the crown"
 Meronym  - a word that names a part of a larger whole.
+
+:Gerund:
+Gerund - clause using a verb ending in -ing, the clause acting as a noun in the sentence.
+A   Subject                   | [Eating cakes] is pleasant.
+B   Extraposed subject        | It can be pleasant [eating cakes.]
+C   Subject Complement        | What I'm looking forward to is [eating cakes]
+D   Direct object             | I can't stop [eating cakes].
+E   Prepositional object      | I dreamt of [eating cakes].
+F   Adverbial                 | He walks the streets [eating cakes].
+G   Part of noun phrase       | It's a picture of a man [eating cakes].
+H   Part of adjective phrase  | They are all busy [eating cakes].
+I   Complement of preposition | She takes pleasure in [eating cakes].
+:END:
+
+non-finite clause - dependent/embedded clause independent of verb tense.
+Infinitive -
+
+:Verb_Tenses:
+Past, Present, Future
+(all with continuous, perfect, and perfect-continuous modalities)
+
+:END:
+
+:English_Clauses:
+Declarative
+Interrogative
+Imperative
+Exclamative
+
+:END:
 
 
 **** Parts of Speech
