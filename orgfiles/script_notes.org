@@ -118,6 +118,10 @@ img2pdf --output `?`.pdf --pagesize A4 --auto-orient ?
 pdftk * cat output diagrams.pdf
 #+end_src
 
+** pdftotext
+pdftotext [options] <PDF-file> [<text-file>]
+
+** Pandoc
 #+NAME: text to pdf generation
 #+begin_src bash :results value
 pandoc ? -o output.pdf

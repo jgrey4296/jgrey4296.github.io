@@ -9,7 +9,6 @@
 1992 wavish92_exploit_emerg_behav_multi_agent_system_13
 1993 fisher93_concur_metat
 1993 malone93_tools
-1993 shoham93_agent_orien_progr_60
 1994 finin94_kqml
 1994 maes94_agent_that_reduc_work_infor_overl_37
 1995 brazier95_formal_specif_multi_agent_system_
@@ -65,7 +64,6 @@
 2002 cossentino02_introd
 2002 esteva02_islan
 2002 huebner02_model_struc_funct_deont_specif_
-2002 huebner02_model_struc_funct_deont_specif_
 2002 mazouzi02_open_
 2002 raja02_meta_level_contr_multi_agent_system_
 2002 sierhuis02_model_17
@@ -108,7 +106,6 @@
 2005 braubach05_jadex_
 2005 buccafurri05_
 2005 dautenhahn05_aisb_5
-2005 dignum05_omni_
 2005 dix05_comput_logic_multi_agent_system_
 2005 garcia-camino05_implem_
 2005 guerra-hernandez05_learn_bdi_multi_system_
@@ -159,7 +156,6 @@
 2006 van06_model_emotion_situat_agent_2006
 2006 warnier06_organ_anony_agent_system_
 2006 weyns06_envir_as_first_class_abstr_multiag_system_14
-2006 weyns06_envir_as_first_class_abstr_multiag_system_14
 2006 weyns06_refer_archit_situat_multiag_system_
 2007 boella07_normat_multi_agent_system
 2007 boella07_ontol_proper_social_roles_multi_agent_system_15
@@ -181,7 +177,6 @@
 2007 ricci07_cartag_
 2007 sato07_dynam_social_simul_with_multi_
 2007 sierra07_desig_instit_multi_agent_system_4405
-2007 vieira07_formal_seman_speec_act_based_29
 2008 dastani08_16
 2008 fornara08_artif_instit_16
 2008 gascuena08_promet_ingen
@@ -467,7 +462,6 @@
 2020 anagnostopoulos20_biased_opinion_dynam_
 2020 ancona20_exploit_agent_ontol_type_meanin_
 2020 boissier20_multi_agent_orien_progr_
-2020 bourgais20_ben_23
 2020 calegari20_logic_35
 2020 chopra20_evaluat_commun_protoc_languag_engin_multiag_system_69
 2020 czechowski20_decen_mcts_learn_teamm_model_
@@ -483,7 +477,7 @@
 2021 lorini21_multi_agent_belief_base_revis_
 2021 nijs21_const_multiag_markov_decis_proces_70
 2021 oliehoek21_suffic_statis_influen_struc_multiag_envir_70
-2021 wagner21_dagst_repor_11
+2021 wagner21_dagst_repor_11_1_
 2021 winikoff21_why_bad_coffee_300
 2021 yadav21_distr_artif_intel
 2022 cornelisse22_neural_payof_machin

@@ -1,7 +1,7 @@
-1968 68_wizar_earth
-1970 70_tombs_atuan
+1968 le68:_wizar_earth
+1970 le70:_tombs_atuan
 1971 le71_tombs_atuan
-1972 72_farth_shore
+1972 le72:_farth_shore
 1980 bester80:_golem
 1983 pratchett83_colour_magic_
 1986 pratchett86_light_fantas
@@ -11,7 +11,7 @@
 1988 pratchett88_wyrd_sister
 1989 pratchett89_guard
 1989 pratchett89_pyram
-1990 90_tehan
+1990 le90:_tehan
 1990 pratchett90_eric
 1990 pratchett90_movin_pictur
 1991 pratchett91_reaper_man_

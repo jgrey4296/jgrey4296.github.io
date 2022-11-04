@@ -14,8 +14,8 @@
 1974 wittgenstein74_philos_gramm
 1977 heidegger77_phenom_inter_kants_critiq_pure_reason
 1980 reiter80_logic_defaul_reason_13
+1984 goguen84:_some_fundam_algeb_tools_seman_comput_31_a_
 1984 goguen84_introd_instit
-1984 goguen84_some_fundam_algeb_tools_seman_comput_31
 1985 alchourron85_logic_theor_chang_50
 1985 hoare85_commun_sequen_proces_
 1985 whalen85_alter_logic_approx_reason_exper_system_22
@@ -104,7 +104,6 @@
 2004 giere04_how_model_are_used_to_repres_realit_71
 2004 giunchiglia04_nonmon_causal_theor_153
 2004 goguen04_compos_hidden_infor_modul_over_inclus_instit_
-2004 goguen04_infor_integ_instit_
 2004 miller04_overv_linear_logic_progr_316
 2004 nirenburg04_ontol_seman_
 2004 potter04_set_theor_philos_
@@ -188,6 +187,7 @@
 2010 damasio10_declar
 2010 felty10_hybrid_48
 2010 horrocks10:_descr_logic
+2010 kent10:_instit_approac
 2010 norman10_logic_deleg_174
 2010 perrussel10_from_signed_infor_to_belief_
 2010 xu10_combin_stit_action_19
@@ -307,6 +307,7 @@
 2021 bueno21_routl_handb_of_modal_
 2021 castricato21_towar_model_theor_view_narrat_
 2021 copi21_essen_logic_
+2021 goguen21:_theor_provin_algeb
 2021 goguen21_algeb_semiot_
 2021 lindley21_handl
 2021 russell21_artif_intel_
