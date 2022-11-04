@@ -9,3 +9,4 @@ years/auto/
 _ignored
 *.auctex-auto/
 resources/urls/no_git
+resources/tag_timelines/
