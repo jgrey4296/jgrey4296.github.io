@@ -291,6 +291,11 @@ xml val -e -s ./test.xsd ./mytest.xml
 *** [[http://saxon.sourceforge.net/][Saxon]]
 
 *** [[https://relaxng.org/jclark/trang-manual.html][Trang]]
+trang [input.xmls] output.xsd
+
+*** [[https://github.com/tefra/xsdata-plantuml][xsdata plantuml]]
+xsdata samples/order.xsd --output plantuml --package uml_gen
+
 
 ** Gradle
 
