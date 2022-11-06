@@ -3,6 +3,10 @@
 * Overview
 
 * Main
+** Find
+To find files, but not search .git directories:
+find ? -type f -a -not -name "DS_Store" -print -o -type d -name ".git" -prune
+
 ** ADB
 Tablet will periodically de-authorize adb,
 so re-pair with `adb pair`
@@ -270,8 +274,23 @@ xml sel -I -t -f -n -m //Trait -c . -n -b ./facade_messy.xml
 # delete a path:
 xml ed -d "//div[@id='toc']" ? > mod-`?`
 #+end_src
+**** Validation
+
+#+NAME: DTD Validation
+#+begin_src bash :results output
+xml val -e -d ./test.dtd ./mytest.xml
+#+end_src
+
+#+NAME: XSD Validation
+#+begin_src bash :results output
+xml val -e -s ./test.xsd ./mytest.xml
+#+end_src
+
+
 
 *** [[http://saxon.sourceforge.net/][Saxon]]
+
+*** [[https://relaxng.org/jclark/trang-manual.html][Trang]]
 
 ** Gradle
 
