@@ -1,8 +1,9 @@
-*  Taxonomies                                                                   :taxonomies:
+#+title: Taxonomies
 https://en.m.wikipedia.org/wiki/Syslog
-** [[file:48laws.org::*48%20Laws%20of%20Power][48 Laws of Power]]                                                             :links:power:rules:
-** [[file:pirateShip.org::*A%20Pirate%20Ship%20as%20an%20Institutional%20example][A Pirate Ship as an Institutional example]]                                    :links:routine:sanctions:
-** A Taxonomy of Inference in Simulation Models                                 :simulation:model:inference:
+
+* [[file:48laws.org::*48%20Laws%20of%20Power][48 Laws of Power]]                                :links:power:rules:
+* [[file:pirateShip.org::*A%20Pirate%20Ship%20as%20an%20Institutional%20example][A Pirate Ship as an Institutional example]]       :links:routine:sanctions:
+* A Taxonomy of Inference in Simulation Models    :simulation:model:inference:
    Brenner and Werker
 
    | Approach         | Building                  | Conducting                | Usual                  | Possible          |
@@ -26,7 +27,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    |                  | as general as necessary   | (Monte-Carlo)             | characteristics study, |                   |
    |                  |                           |                           | categorisation         |                   |
    
-** A Taxonomy of model transformation                                           :transforms:rules:pipeline:model:
+* A Taxonomy of model transformation              :transforms:rules:pipeline:model:
    Mens and Van Gorp
 
    | Type                             | Description                                                                                   |
@@ -58,7 +59,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Endogenous | Refactoring        | Formal Refinement |
    | Exogenous  | Language Migration | Code Generation   |
    
-** Activity Theory                                                              :division_of_labour:social:activity:methodology:design:
+* Activity Theory                                 :division_of_labour:social:activity:methodology:design:
 
    | Type               | Description |
    |--------------------+-------------|
@@ -79,7 +80,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Task      |             |
    | Operation |             |
    
-** AI Based Game Design Patterns                                                :games:ai:
+* AI Based Game Design Patterns                   :games:ai:
    Treanor, Zook, Eladhari et al
 
    | Pattern          | What Players do            | Role of AI                     | Examples           |
@@ -94,7 +95,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | AI as Villain    | Combat the Villain         | Villain in game, NPC           | Alien Isolation    |
    | AI as Spectacle  | Observe                    | Enact simulated society        | Nowhere            |
 
-** An AI Pattern Language                                                       :patterns:ai:
+* An AI Pattern Language                          :patterns:ai:
    Elish and Hwang
 
    | Challenge                | Pattern                | Description |
@@ -136,7 +137,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    |                          |                        |             |
    |                          | Establish a baseline   |             |
 
-** Authoring an FSM                                                             :fsm:
+* Authoring an FSM                                :fsm:
 
    |                                             |   |
    |---------------------------------------------+---|
@@ -172,31 +173,31 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Numbers / Ranges / Distributions |   |
    | Rule Sets                        |   |
    
-** TODO Bodley - [[file:culturalAntroNotes.org::*Cultural%20Anthropology%20notes][Cultural Anthropology notes]]                                    :links:tribes:formula:
-*** Culture: A Scale and Power Perspective
-*** Native Amazonians: Villagers of the Rain Forest
-*** Australian Aborigines: Mobile Foragers for 50,000 Years
-*** African Cattle Peoples: Tribal Pastoralists
-*** Cross Cultural Perspectives of the Tribal World
-*** Pacific Islanders: From Leaders to Rulers
-*** Ancient Empires in Two Worlds: Mesopotamia and the Andes
-*** The Chinese Great Tradition
-*** Hinduism and Islam in South Asia
-*** The Capitalist World System
-*** The United States: An American Plutocracy
-*** An Unsustainable Global System
-*** Tribes to Nations: Progress of the Victims
-*** Small Nations Solving Global Problems
-*** Envisioning a Sustainable World
-** [[file:notecards.org::*Books][Books]]                                                                        :links:
-** TODO Bourdieu                                                                :power:rites:cultural_capital:language:field:
-*** Authorized Language
+* TODO Bodley - [[file:culturalAntroNotes.org::*Cultural%20Anthropology%20notes][Cultural Anthropology notes]]       :links:tribes:formula:
+** Culture: A Scale and Power Perspective
+** Native Amazonians: Villagers of the Rain Forest
+** Australian Aborigines: Mobile Foragers for 50,000 Years
+** African Cattle Peoples: Tribal Pastoralists
+** Cross Cultural Perspectives of the Tribal World
+** Pacific Islanders: From Leaders to Rulers
+** Ancient Empires in Two Worlds: Mesopotamia and the Andes
+** The Chinese Great Tradition
+** Hinduism and Islam in South Asia
+** The Capitalist World System
+** The United States: An American Plutocracy
+** An Unsustainable Global System
+** Tribes to Nations: Progress of the Victims
+** Small Nations Solving Global Problems
+** Envisioning a Sustainable World
+* [[file:notecards.org::*Books][Books]]                                           :links:
+* TODO Bourdieu                                   :power:rites:cultural_capital:language:field:
+** Authorized Language
     Symbolic Language, p107
 
-*** Rites of Institution
+** Rites of Institution
     Symbolic Language p117
 
-*** On Symbolic Power
+** On Symbolic Power
     Symbolic Power p163
 
     Symbolic Instruments
@@ -224,7 +225,7 @@ https://en.m.wikipedia.org/wiki/Syslog
     | as agreement between subjects | as a product of communication which |                                |
     |                               | is the condition of communication   |                                |
     
-** Building Problem solvers                                                     :life_cycle:ontology:architecture:
+* Building Problem solvers                        :life_cycle:ontology:architecture:
    Ken Forbus, J. Kleer
 
    | Type                | Description                                          |
@@ -251,7 +252,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    |                     |                                                                  |
    | Production          | Application as a module for others to use                      |
    
-** Castelfranchi's Taxonomy of Social Action                                    :interference:delegation:action:social:castelfranchi:
+* Castelfranchi's Taxonomy of Social Action       :interference:delegation:action:social:castelfranchi:
    in Modelling social action for AI Agents
 
    | Type                 | Description                                                                                   |
@@ -262,7 +263,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Strong Social Action | Action based on social goals. Cognitive delegation. Influencing, power, incentive engineering |
    | Social Goal Adoption | Changing an agent's goals. Goal Adhesion                                                      |
 
-*** Non-Social Action
+** Non-Social Action
     |          | To Adapt                | To Induce                   |
     |----------+-------------------------+-----------------------------|
     | Negative | Modify one's play to    | Induce the other to abandon |
@@ -274,7 +275,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    
     "Thus communication is not a necessary component of social action and interaction."
 
-*** Principles of Coordination
+** Principles of Coordination
     | Type          | Description                                              |
     |---------------+----------------------------------------------------------|
     | Reactive      |                                                          |
@@ -290,14 +291,14 @@ https://en.m.wikipedia.org/wiki/Syslog
     | Selfish       | Ego-centered                                             |
     | Collaborative | Adapting to favour another agent's actions               |
    
-*** Delegation
+** Delegation
     | Type                       | Description                                                 |
     |----------------------------+-------------------------------------------------------------|
     | Unilateral weak delegation | Neither awareness, nor agreement, needed from the delegatee |
     | Inductive delegation       | Actions to induce an action from the delegatee              |
     | Strong Delegation          | Delegation by acceptance from the delegatee                 |
 
-**** Levels of delegation
+*** Levels of delegation
      | Type                      | Description                                     |
      |---------------------------+-------------------------------------------------|
      | Executive                 | Completely specified task                       |
@@ -310,7 +311,7 @@ https://en.m.wikipedia.org/wiki/Syslog
      | Strong Dependence         | Ability, knowledge, resource, right, permission |
      | Weak Dependence           | Preference                                      |
    
-*** Levels of Collaboration
+** Levels of Collaboration
     | Type                | Description                                                                |
     |---------------------+----------------------------------------------------------------------------|
     | Literal Help        | Adoption of exactly what was delegated                                     |
@@ -319,13 +320,13 @@ https://en.m.wikipedia.org/wiki/Syslog
     | Overcritical help   | Overhelping by modification                                                |
     | Hyper-critical help | Adopting the goal, rather than adopting the plan or satisfying the results |
 
-*** Dependence Patterns
+** Dependence Patterns
     | Type       | Description              |
     |------------+--------------------------|
     | Mutual     | Realising a commong goal |
     | Reciprocal | Realising different goals |
    
-** Castelfranchi's Towards a Theory of Delegation for Agent Based Systems       :contract:action:social:delegation:castelfranchi:
+* Castelfranchi's Towards a Theory of Delegation for Agent Based Systems :contract:action:social:delegation:castelfranchi:
    Castelfranchi and Falcone
 
    | Type       | Description                                |
@@ -335,7 +336,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Contract   | Strict Delegation requires Strict Adoption |
    |            |                                            |
 
-*** Delegation:
+** Delegation:
     |                 | Unilateral          | Acceptance-based          |
     |-----------------+---------------------+---------------------------|
     |                 | (weak delegation)   |                           |
@@ -350,7 +351,7 @@ https://en.m.wikipedia.org/wiki/Syslog
     | by Agreement    |                     | mutual belief and         |
     |                 |                     | mutual active achievement |
 
-*** Adoption:
+** Adoption:
     |                | Unilateral          | Acceptance Based          |
     |----------------+---------------------+---------------------------|
     | by Spontaneous | (Weak Adoption)     |                           |
@@ -361,7 +362,7 @@ https://en.m.wikipedia.org/wiki/Syslog
     |                |                     | mutual belief             |
     |                |                     | mutual active achievement |
 
-*** By Specification of Task
+** By Specification of Task
     | Type                  | Description |
     |-----------------------+-------------|
     | Open                  |             |
@@ -377,7 +378,7 @@ https://en.m.wikipedia.org/wiki/Syslog
     |-----------------------+-------------|
     | Delegation of Control |             |
 
-*** Levels of Adoption of task
+** Levels of Adoption of task
     | Type                | Description |
     |---------------------+-------------|
     | Literal Help        |             |
@@ -386,14 +387,14 @@ https://en.m.wikipedia.org/wiki/Syslog
     | Critical Overhelp   |             |
     | Hyper-critical Help |             |
 
-*** Level of Agency
+** Level of Agency
     | Type        | Description |
     |-------------+-------------|
     | Performance |             |
     | Planning    |             |
     | Goal        |             |
 
-*** Agent Modeling
+** Agent Modeling
     | Type                             | Description                             |
     |----------------------------------+-----------------------------------------|
     | Ability                          | Class / Universal / Personal Competence |
@@ -403,7 +404,7 @@ https://en.m.wikipedia.org/wiki/Syslog
     | Attributions to category or role |                                         |
     | Trust                            |                                         |
 
-*** Conflict
+** Conflict
     | Type                                         | Description |
     |----------------------------------------------+-------------|
     | Due to contractors sub-help                  |             |
@@ -417,7 +418,7 @@ https://en.m.wikipedia.org/wiki/Syslog
     |----------------------------------------------+-------------|
     | Over Task Specification                      |             |
 
-** Chen Taxonomy of variation                                                   :leverage:variation:authorship:
+* Chen Taxonomy of variation                      :leverage:variation:authorship:
    in 'Evaluating Types of Variations in Interactive Story' Advancement
 
    | Type                            | Description                                       |
@@ -431,7 +432,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    
    Authorial Leverage = ( Quality * Quantity * Control ) / Effort
 
-** Classifying Sanctions                                                        :social:balke:sanctions:
+* Classifying Sanctions                           :social:balke:sanctions:
    Nardin, Balke-Visser, Ajmeri et al in "Classifying Sanctions and designing
    a conceptual sanctioning process model for socio-technical systems"
 
@@ -459,7 +460,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Discernibility | Noticeable     |                |             |
    |                | Unnoticeable   |                |             |
 
-** Continuous expansion of citizen participation                                :protest:digital:politics:
+* Continuous expansion of citizen participation   :protest:digital:politics:
    Theocharis, Van Deth
 
    | Type                | Description                                          |
@@ -485,7 +486,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    |                     | Donated money to a charitable organisation           |
    |---------------------+------------------------------------------------------|
    
-** [[https://casrai.org/credit/][CRediT Contributor Taxonomy]]                                                  :links:authorship:ontology:
+* [[https://casrai.org/credit/][CRediT Contributor Taxonomy]]                     :links:authorship:ontology:
 
    | Type                       | Description |
    |----------------------------+-------------|
@@ -504,7 +505,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Writing - Original Draft   |             |
    | Writing - Review & Editing |             |
    
-** Davidsson Taxonomy of Artificial Societies                                   :norms:simulation:society:
+* Davidsson Taxonomy of Artificial Societies      :norms:simulation:society:
    Mentioned in Sebastia "A Framework for Norm Monitoring on Dynamic
    Electronic Institutions"
 
@@ -515,7 +516,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Semi-Closed |             |
    | Semi-Open   |             |
 
-** Dennett's Intuition Pumps                                                    :argumentation:dennet:intuition_pump:critical_thinking:
+* Dennett's Intuition Pumps                       :argumentation:dennet:intuition_pump:critical_thinking:
 
    | Type                            | Description                                                                                 |
    |---------------------------------+---------------------------------------------------------------------------------------------|
@@ -579,11 +580,11 @@ https://en.m.wikipedia.org/wiki/Syslog
    to publish it whichever way it comes out. If we only publish results of a
    certain kind, we can make the argument look good. We must publish both kinds
    of results."
-** [[file:ds_9_episodes.org::*DS9%20Episodes][DS9 Episodes]]                                                                 :links:rules:tv_shows:
-** TODO [[http://erlang.org/doc/design_principles/des_princ.html#supervision-trees][Erlang Design Principles]]                                                :trees:division_of_labour:
+* [[file:ds_9_episodes.org::*DS9%20Episodes][DS9 Episodes]]                                    :links:rules:tv_shows:
+* TODO [[http://erlang.org/doc/design_principles/des_princ.html#supervision-trees][Erlang Design Principles]]                   :trees:division_of_labour:
    Supervision Trees / Workers with behaviours
-** [[file:examples_typology_notes.org::*Examples%20Typology][Examples Typology]]                                                            :links:examples:
-** Fligstein                                                                    :crisis:governance:field:
+* [[file:examples_typology_notes.org::*Examples%20Typology][Examples Typology]]                               :links:examples:
+* Fligstein                                       :crisis:governance:field:
 
    | Type                   | Description                        |
    |------------------------+------------------------------------|
@@ -605,7 +606,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Enforcement      |   |
    | Gatekeeping      |   |
    
-** Four Types of Moral Wriggle Room                                             :manipulation:norms:morals:
+* Four Types of Moral Wriggle Room                :manipulation:norms:morals:
    Spiekermann
 
    | Manipulate information | Target Own             | Target others'             |
@@ -615,10 +616,10 @@ https://en.m.wikipedia.org/wiki/Syslog
    |------------------------+------------------------+----------------------------|
    | norm-facts             | Biased Norm Perception | ?                          |
 
-** [[file:steamGames.org::*Games%20list%20and%20notes][Games list and notes]]                                                         :library:examples:games:links:
-** Genre Taxonomy of Organizational Communication                               :questions:ontology:
+* [[file:steamGames.org::*Games%20list%20and%20notes][Games list and notes]]                            :library:examples:games:links:
+* Genre Taxonomy of Organizational Communication  :questions:ontology:
    in Yoshioka and Herman: "Genre Taxonomy: A Knowledge Repository of Communicative Actions"
-*** 5W1H Questions
+** 5W1H Questions
 
     | Question | Description |
     |----------+-------------|
@@ -629,7 +630,7 @@ https://en.m.wikipedia.org/wiki/Syslog
     | Where    |             |
     | How      |             |
     
-** Graeber - Functions of Money                                                 :value:graeber:money:
+* Graeber - Functions of Money                    :value:graeber:money:
 
    | Function           |   |
    |--------------------+---|
@@ -639,7 +640,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    |                    |   |
    | Store of Value     |   |
    
-** Grammar Smells                                                               :programming:language:grammar:
+* Grammar Smells                                  :programming:language:grammar:
    In Stiljaart and Zaytsev: Towards a taxonomy of Grammar Smells
 
    | High level    | Mid level        | Description |
@@ -708,7 +709,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    |               | Greedy           |             |
    |               | Lazy             |             |
    |               | TooCoupled       |             |
-** Grimmelmann's Taxonomy of Moderation                                         :governance:rules:digital:moderation:sanctions:
+* Grimmelmann's Taxonomy of Moderation            :governance:rules:digital:moderation:sanctions:
    mentioned in Klonick : The New Governors: The people, rules and processes
    governing online speech
 
@@ -719,8 +720,8 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Ex Ante / Ex Post           |             |
    | Centralized / Decentralized |             |
 
-** TODO Grossi's Contextual Logic
-** Group Norm Taxonomy                                                          :agency:responsibility:social:individual:
+* TODO Grossi's Contextual Logic
+* Group Norm Taxonomy                             :agency:responsibility:social:individual:
    In Aldewereld, Dignum and Vasconcelos "Group Norms for Multi-Agent Organisations"
 
    |                | Individual                 | Representative               | Collective                     |
@@ -742,8 +743,8 @@ https://en.m.wikipedia.org/wiki/Syslog
    |                | to enter the shop          | for the move, or the         | whole class will miss morning  |
    |                | together"                  | supervisor will be blamed."  | break."                      |
 
-** [[https://wiki.haskell.org/Typeclassopedia#Comonad][haskell typeclassopedia]]                                                      :links:programming:types:
-** Hofstede Culture Theory                                                      :dimensions:norms:social:
+* [[https://wiki.haskell.org/Typeclassopedia#Comonad][haskell typeclassopedia]]                         :links:programming:types:
+* Hofstede Culture Theory                         :dimensions:norms:social:
    in Andrighetto, Castelfranchi, Mayor et al: "(Social) Norm Dynamics"
 
    | Type                       | Scale                             | Description |
@@ -755,9 +756,9 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Immutability vs Pragmatism | Short- vs Long-term orientation   |             |
    | Gratification of drives    | Indulgence vs Restraint           |             |
    
-** [[file:latest_institution_attempt.org][Institution Attempt]]                                                          :links:programming:rules:
-** [[file:institutionStructure.org::*Institution%20Structure][Institution Structure]]                                                        :links:castelfranchi:norms:activity:institutions:
-** Interactions
+* [[file:latest_institution_attempt.org][Institution Attempt]]                             :links:programming:rules:
+* [[file:institutionStructure.org::*Institution%20Structure][Institution Structure]]                           :links:castelfranchi:norms:activity:institutions:
+* Interactions
 
    Different people for roles:
    | Role A     | Role B      |
@@ -782,7 +783,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Officeworker | Husband |
    |              |         |
 
-** Jin and Dabbish's Typology of Task Interleaving
+* Jin and Dabbish's Typology of Task Interleaving
 
    | Type of Self-Interruption | Description                   | Positive                   | Negative                             |
    |                           |                               | Consequences               | Consequences                         |
@@ -808,7 +809,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Wait                      | Performing a different task   | Maximizes productivity     | Delays resumption of primary task    |
    |                           | due to a roadblock            | by multi-tasking           | if user overestimates wait time.   |
    
-** Judgment Aggregation Rules                                                   :norms:voting:judgement:
+* Judgment Aggregation Rules                      :norms:voting:judgement:
    In Lang, Pigozzi Slavkovik et al: "A Partial Taxonomy of Judgment aggregation
    rules and their properties"
 
@@ -835,9 +836,9 @@ https://en.m.wikipedia.org/wiki/Syslog
    |                               | Irreducible Entailment |             |
    |-------------------------------+------------------------+-------------|
 
-** [[https://web.stanford.edu/~jurafsky/ws97/manual.august1.html][Jurafsky's SWBD-DAMSL]]
+* [[https://web.stanford.edu/~jurafsky/ws97/manual.august1.html][Jurafsky's SWBD-DAMSL]]
    [[https://www.cs.rochester.edu/research/speech/damsl/RevisedManual/][DAMSL Manual]]
-*** Basic Components
+** Basic Components
     | Components of Speech Acts |   |
     |---------------------------+---|
     | Communicative Status      |   |
@@ -845,7 +846,7 @@ https://en.m.wikipedia.org/wiki/Syslog
     | Forward Looking Function  |   |
     | Backward Looking Function |   |
 
-*** SWBD-DAMSL Concise Tags
+** SWBD-DAMSL Concise Tags
 
     | SWBD-DAMSL                   | SWBD          | Example                                        |
     |------------------------------+---------------+------------------------------------------------|
@@ -893,9 +894,9 @@ https://en.m.wikipedia.org/wiki/Syslog
     | Apology                      | fa            | I'm sorry                                      |
     | Thanking                     | ft            | Hey thanks a lot                               |
 
-*** SWBD-DAMSL Full Tags
+** SWBD-DAMSL Full Tags
 
-** Lehnerts Plot Units                                                          :narrative:plot:
+* Lehnerts Plot Units                             :narrative:plot:
 
    | Plot unit | Type     |
    |-----------+----------|
@@ -924,7 +925,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | regrettable mistake                      |             |
    | sabotage                                 |             |
    
-** [[http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/][Leverage Points]]                                                              :change:systems:systems_thinking:
+* [[http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/][Leverage Points]]                                 :change:systems:systems_thinking:
    Donna Meadows
    (in increasing order of effectiveness)
 
@@ -940,7 +941,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    (3)  The *goals* of the system.
    (2)  The mindset or *paradigm* out of which the system — its goals, structure, rules, delays, parameters — arises.
    (1)  The power to *transcend paradigms*.
-** Levinson and Brown's Politeness
+* Levinson and Brown's Politeness
 
    | Direction  | Strategy basis              | Strategy                                | Details                                  |
    |------------+-----------------------------+-----------------------------------------+------------------------------------------|
@@ -1005,20 +1006,20 @@ https://en.m.wikipedia.org/wiki/Syslog
    |            |                             | Displace H                              |                                          |
    |            |                             | Be incomplete                           |                                          |
    
-*** Implications
+** Implications
 
 
-**** Phonology and Prosody
+*** Phonology and Prosody
 
-**** Indirect speech acts
+*** Indirect speech acts
 
-**** Hedges
+*** Hedges
 
-**** Impersonalization mechanisms
+*** Impersonalization mechanisms
 
-**** Honorifics
+*** Honorifics
 
-** Malaby's Categories of Indeterminacy                                         :chance:indeterminacy:
+* Malaby's Categories of Indeterminacy            :chance:indeterminacy:
    in Montfort et al: 10 Print
    TODO: game dev toolkit's input and output indeterminacy
    |                            |                                           |
@@ -1032,7 +1033,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Cosmological Indeterminacy | Suspicion over the rules                  |
    |                            |                                           |
    
-** Managing Conflicts between rules                                             :meta:rules:conflict:
+* Managing Conflicts between rules                :meta:rules:conflict:
    Jagadish, Mendelzon, Mumick
 
    Meta Rules
@@ -1043,7 +1044,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Preference Rules     | A < B                             |
    | Scheduling Rules     | A Comes before B                  |
    
-** McGrath's Typology of Tasks                                                  :action:tasks:
+* McGrath's Typology of Tasks                     :action:tasks:
    In Straus 'Testing a Typology of Tasks: An Empirical Validation of McGrath's
    Group Task Circumplex"
 
@@ -1060,7 +1061,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Judgement          | Cognitive   | Coordinate       | Choose-Negotiate  |
    | Intellective       | Cognitive   | Coordinate       | Choose-Generate   |
 
-** McLean Artist-Programmers                                                    :music:activity:patterns:
+* McLean Artist-Programmers                       :music:activity:patterns:
 
    Spiegel's "Manipulations of Musical Patterns"
    | Type          | Description                            |
@@ -1092,7 +1093,7 @@ https://en.m.wikipedia.org/wiki/Syslog
 
    Time as *Linear Change with Forward Order* or *Repeating Cycles* (Buzsaki  2006)
 
-** Meta-Heuristics
+* Meta-Heuristics
 
    |                        |   |
    |------------------------+---|
@@ -1108,7 +1109,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Time                   |   |
    |                        |   |
    
-** Modularity
+* Modularity
 
    |                          |              |
    |--------------------------+--------------|
@@ -1123,12 +1124,12 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Type System              | f:: a -> b   |
    | Monad                    | m f -> m g   |
    
-** [[file:Moise.org::*MOISE%20Notes][MOISE Notes]]                                                                  :links:organisation:
-** TODO [[https://sites.ualberta.ca/~urban/Projects/English/Motif_Index.htm][Mythology Types]]                                                         :links:mythology:
-** Normative Multi Agent Systems                                                :deontic:logic:norms:NorMAS:
+* [[file:Moise.org::*MOISE%20Notes][MOISE Notes]]                                     :links:organisation:
+* TODO [[https://sites.ualberta.ca/~urban/Projects/English/Motif_Index.htm][Mythology Types]]                            :links:mythology:
+* Normative Multi Agent Systems                   :deontic:logic:norms:NorMAS:
    Andrighetto, Governatori, Noriega, van der Torre. 
-*** Norms in MAS: Definitions and Related Concepts
-**** Norms
+** Norms in MAS: Definitions and Related Concepts
+*** Norms
 
      |                   |                     | Description                       |
      |-------------------+---------------------+-----------------------------------|
@@ -1213,7 +1214,7 @@ https://en.m.wikipedia.org/wiki/Syslog
      |                                  |                                                                                     |
      | Values                           |                                                                                   |
     
-**** Design Guidelines
+*** Design Guidelines
 
      | Guideline                                                  |                                 |
      |------------------------------------------------------------+---------------------------------|
@@ -1242,7 +1243,7 @@ https://en.m.wikipedia.org/wiki/Syslog
      | None                     |                                                                   |
      |                          |                                                                   |
     
-**** Identified Problems 
+*** Identified Problems
 
      | Problem                                    |                                                               |
      |--------------------------------------------+---------------------------------------------------------------|
@@ -1276,7 +1277,7 @@ https://en.m.wikipedia.org/wiki/Syslog
      | How do norms contribute to design agents'  |                                                               |
      | organisations?                             |                                                               |
     
-**** Open Questions
+*** Open Questions
 
      |                                            |                               |                                                                              |
      |--------------------------------------------+-------------------------------+------------------------------------------------------------------------------|
@@ -1311,7 +1312,7 @@ https://en.m.wikipedia.org/wiki/Syslog
      |                                            | burden of proof               | tools for supporting legal field verification of proof standards             |
      |                                            |                               |                                                                            |
 
-**** Definitions
+*** Definitions
 
      | nMAS Definition             |                                                                          |
      |-----------------------------+--------------------------------------------------------------------------|
@@ -1330,8 +1331,8 @@ https://en.m.wikipedia.org/wiki/Syslog
      |                             | norms, and mechanism to deliberate about norms and detect norm violation |
      |                             | and fulfillment."                                                        |
     
-*** Normative Reasoning and Consequence
-**** Trends in Deontic Logic
+** Normative Reasoning and Consequence
+*** Trends in Deontic Logic
 
      |                           |                                                                                                        |
      |---------------------------+--------------------------------------------------------------------------------------------------------|
@@ -1353,8 +1354,8 @@ https://en.m.wikipedia.org/wiki/Syslog
      |                           | (logical input/output nets)                                                                              |
      |                           |                                                                                                        |
     
-**** Trends in NorMAS
-***** Traditional Normative reasoning
+*** Trends in NorMAS
+**** Traditional Normative reasoning
       |                       |                                          |
       |-----------------------+------------------------------------------|
       | Von Wrights System KD | Distinguishes Good/Bad, Right/Wrong     |
@@ -1362,7 +1363,7 @@ https://en.m.wikipedia.org/wiki/Syslog
       | Hanson                | Preference based semantics               |
       | Makinson              | Iterative approach                       |
      
-***** Logics for NorMAS
+**** Logics for NorMAS
 
       | Acronym | Notes                                        |
       |---------+----------------------------------------------|
@@ -1375,7 +1376,7 @@ https://en.m.wikipedia.org/wiki/Syslog
       | STIT    | See To It That (embeds ATL)                  |
       | DLA     | Dynamic Logic of Agency (embeds CL and STIT) |
      
-***** Norm Change
+**** Norm Change
 
       |                |                                                                   |
       |----------------+-------------------------------------------------------------------|
@@ -1386,7 +1387,7 @@ https://en.m.wikipedia.org/wiki/Syslog
       | Legal Dynamics | Needs considerable defeasibility and temporal reasoning           |
       |                |                                                                   |
      
-***** Agreement process: Bolla and van der Torre (p.74)
+**** Agreement process: Bolla and van der Torre (p.74)
      
       |                                  |                                      |
       |----------------------------------+--------------------------------------|
@@ -1397,8 +1398,8 @@ https://en.m.wikipedia.org/wiki/Syslog
       | Judgment Aggregation             | Anchoring and Grounding              |
       | Individual Judgments             |                                      |
      
-*** Computational Models for Normative MAS
-**** Norm Spec and Verification
+** Computational Models for Normative MAS
+*** Norm Spec and Verification
      Focuses on *Coherence*. p84
 
      "As we descend the legal hierarchy we find everyday regulations having
@@ -1425,7 +1426,7 @@ https://en.m.wikipedia.org/wiki/Syslog
      | (Gorin, Mera, Schapachnik) | Doesn't have first class deontics.            |
      |                            |                                               |
 
-**** Computational Architectures
+*** Computational Architectures
 
      |                    | Middleware                   | Description                                                           |
      |--------------------+------------------------------+-----------------------------------------------------------------------|
@@ -1451,7 +1452,7 @@ https://en.m.wikipedia.org/wiki/Syslog
      |                    | (Esteva, De La Cruz, Sierra) | SIMDEI.                                                               |
      |                    |                              |                                                                       |
 
-**** Programming Languages
+*** Programming Languages
 
      | Approaches                               |   |
      |------------------------------------------+---|
@@ -1513,11 +1514,11 @@ https://en.m.wikipedia.org/wiki/Syslog
      |                                             |                                   |
      |                                             |                                   |
 
-*** TODO Regulated MAS: Social Perspective
-*** TODO Social Norm Dynamics
-*** TODO Simulation and NorMAS
-*** TODO The Uses of Norms
-** Ostrom ADICO                                                                 :institutions:sanctions:ostrom:rules:
+** TODO Regulated MAS: Social Perspective
+** TODO Social Norm Dynamics
+** TODO Simulation and NorMAS
+** TODO The Uses of Norms
+* Ostrom ADICO                                    :institutions:sanctions:ostrom:rules:
    [[file:traceryADICO.org::*Tracery%20norm%20grammars][Tracery norm grammars]]
 
    | Type       | Description |
@@ -1528,7 +1529,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Conditions |             |
    | Or Else    |             |
 
-** Ostrom Taxonomy of Rules                                                     :sanctions:rules:
+* Ostrom Taxonomy of Rules                        :sanctions:rules:
 
    | Rule Type       | Description                                                        |
    |-----------------+--------------------------------------------------------------------|
@@ -1540,7 +1541,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | payoff          | specify rewards and sanctions linked to actions and outcomes       |
    | Scope           | delimit outcomes                                                  |
 
-** Papers Please                                                                :artifacts:bureaucracy:examples:games:
+* Papers Please                                   :artifacts:bureaucracy:examples:games:
 
    |                                        |   |
    |----------------------------------------+---|
@@ -1585,7 +1586,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Neighbours reporting your wealth       |   |
    | Confiscation                           |   |
    
-** [[https://github.com/App-vNext/Polly][Polly Fault Handling]]                                                         :failure:faults:retry:
+* [[https://github.com/App-vNext/Polly][Polly Fault Handling]]                            :failure:faults:retry:
 
    (pause and resume? interleave?, fix issue, request maintenance...)
    (how does this compare to ABL?)
@@ -1616,7 +1617,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | PolicyWrap                     | "Defence in depth"                        | Allows any of the above policies to be combined flexibly.                 | Different faults require different strategies;                   |
    |                                |                                           |                                                                           | resilience means using a combination.                            |
    |--------------------------------+-------------------------------------------+---------------------------------------------------------------------------+------------------------------------------------------------------|
-** Procedural Content Generation in Games                                       :procedural_content:games:
+* Procedural Content Generation in Games          :procedural_content:games:
    Shaker, Togelius, Nelson
 
    | Type                                    | Description |
@@ -1629,8 +1630,8 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Constructive versus generate and test   |             |
    | Automatic generation v mixed authorship |             |
 
-** TODO [[https://sites.ualberta.ca/~urban/Projects/English/Content/Propp_Functions.htm][Propp's story functions]]                                                 :mythology:folklore:narrative:
-** Questions Options Criteria                                                   :methodology:design:
+* TODO [[https://sites.ualberta.ca/~urban/Projects/English/Content/Propp_Functions.htm][Propp's story functions]]                    :mythology:folklore:narrative:
+* Questions Options Criteria                      :methodology:design:
 
    | Type      | Description |
    |-----------+-------------|
@@ -1638,8 +1639,8 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Options   |             |
    | Criteria  |             |
    
-** [[file:workedExamples.org::*Racist%20Police%20Violence][Racist Police Violence]]                                                       :links:organisation:field:structure:systems:police:
-** Raph Kosters Social Mechanics                                                :competition:systems:games:multiplayer:
+* [[file:workedExamples.org::*Racist%20Police%20Violence][Racist Police Violence]]                          :links:organisation:field:structure:systems:police:
+* Raph Kosters Social Mechanics                   :competition:systems:games:multiplayer:
 
    | Multiplayer Type                 | Mechanics                      | Description                                             | Computational Notes      |
    |----------------------------------+--------------------------------+---------------------------------------------------------+--------------------------|
@@ -1759,7 +1760,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Economics   |   |
    | Sociology   |   |
    
-** Reaktor
+* Reaktor
    Also, path bar has memory
 
    | Components  |                   |
@@ -1787,8 +1788,8 @@ https://en.m.wikipedia.org/wiki/Syslog
    |             | Instrument        |
    |             | Ensemble          |
    
-** [[file:threeIdeas.org::*Real%20time,%20Functional%20AI%20authoring%20pipeline.][Real time, Functional AI authoring pipeline.]]                                 :links:pipeline:modality:
-** Reigns                                                                       :reigns:games:
+* [[file:threeIdeas.org::*Real%20time,%20Functional%20AI%20authoring%20pipeline.][Real time, Functional AI authoring pipeline.]]    :links:pipeline:modality:
+* Reigns                                          :reigns:games:
 
    | Beats                        |   |
    |------------------------------+---|
@@ -1819,7 +1820,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Coronation Ball              |   |
    | Burned at the Stake          |   |
    
-** Reputation System Taxonomy                                                   :judgement:norms:reputation:
+* Reputation System Taxonomy                      :judgement:norms:reputation:
    In Hendrikx, Bubendorfer, Chard "Reputation systems: A Survey and Taxonomy"
 
    | Type     | Structure        | SubStructure        | Description |
@@ -1869,7 +1870,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    |          |                  | Death of Old        |             |
    |          |                  | Death of Selected   |             |
 
-** Schechners performance theory                                                :clock:ritual:time:
+* Schechners performance theory                   :clock:ritual:time:
 
    :Qualtities_of_Ritual:
    P8: "Play, Games, Sports, Theater, and Ritual.
@@ -1966,7 +1967,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | lack of completion | both beginnings (intention element) |
    |                    | and ending (completion element)     |
    
-** Scotts Institutions                                                          :carriers:artifacts:norms:regulation:institutions:
+* Scotts Institutions                             :carriers:artifacts:norms:regulation:institutions:
 
    | 3 Pillars          |   |
    |--------------------+---|
@@ -2046,7 +2047,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    |                           |                                   |                                     |                             |
    | Organizational Subsystem  |                                   | Ethno-methodology                   |                             |
    
-** Searle Speech Acts                                                           :speech_acts:
+* Searle Speech Acts                              :speech_acts:
 
    | Type        | Description |
    |-------------+-------------|
@@ -2056,10 +2057,10 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Expressive  |             |
    | Declarative |             |
 
-** TODO [[file:SocialSituationNotes.org::*Social%20Situations][Social Situations]]                                                       :structure:
-** TODO [[file:structuredSocialSituations2.org::*Social%20Situations%20structured%20by%20institutional%20focus][Social Situations structured by institutional focus]]                     :time:fligstein:norms:
-** [[file:notebook_notes.org::*speech%20acts][speech acts]]                                                                  :links:speech_acts:
-** Stand on Zanzibar                                                            :society:
+* TODO [[file:SocialSituationNotes.org::*Social%20Situations][Social Situations]]                          :structure:
+* TODO [[file:structuredSocialSituations2.org::*Social%20Situations%20structured%20by%20institutional%20focus][Social Situations structured by institutional focus]] :time:fligstein:norms:
+* [[file:notebook_notes.org::*speech%20acts][speech acts]]                                     :links:speech_acts:
+* Stand on Zanzibar                               :society:
 
    The Innis Mode: "Innis makes no effort to 'spell out' the
    interrelations between the components in his galaxy. He offers no
@@ -2133,7 +2134,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    |                                                |                                     |                                         |
    |                                                |                                     |                                         |
    
-** Stevens Scales of Measurement
+* Stevens Scales of Measurement
 
    | Scale    | Measure Property           | Mathematical Operators | Advanced Operations | Central Tendency                         |
    |----------+----------------------------+------------------------+---------------------+------------------------------------------|
@@ -2147,13 +2148,13 @@ https://en.m.wikipedia.org/wiki/Syslog
    |          |                            |                        |                     |                                          |
    
 
-*** Mosteller and Tukey
+** Mosteller and Tukey
 
     Names, Grades, Ranks, Counted fractions, Counts, Amounts, Balances
 
-** TODO [[https://sites.ualberta.ca/~urban/Projects/English/Content/Structural_Analysis_2.htm][Structural Analysis Methods]]                                             :links:method:
-** TODO [[file:structured_social_situtations.org::*Structured%20Social%20Situations][Structured Social Situations]]                                            :sanctions:society:power:bureaucracy:norm_change:norms:
-** Suppression across different rule scenarios                                  :sanctions:rules:law:politics:
+* TODO [[https://sites.ualberta.ca/~urban/Projects/English/Content/Structural_Analysis_2.htm][Structural Analysis Methods]]                :links:method:
+* TODO [[file:structured_social_situtations.org::*Structured%20Social%20Situations][Structured Social Situations]]               :sanctions:society:power:bureaucracy:norm_change:norms:
+* Suppression across different rule scenarios     :sanctions:rules:law:politics:
    In "The Empiricists Insurgency", Bermand and Matanock
 
    | Opponent(Examples)     | Rule Scenario       | Information   | Government |
@@ -2163,7 +2164,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Taliban in Afghanistan | Rules of Engagement | Target        | Security   |
    | Gangs in US            | Rule of Law         | Prosecute     | Welfare    |
 
-** Systems Engineering (taxonomy of knowledge types)                            :activity:ontology:knowledge:systems:
+* Systems Engineering (taxonomy of knowledge types) :activity:ontology:knowledge:systems:
    Moser
 
    Andersons Taxonomy of Knowledge Types (modified)
@@ -2184,9 +2185,9 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Evaluate          |            |         |
    | Create            |            |         |
 
-*** TODO Return to for Activity Theory
+** TODO Return to for Activity Theory
 
-** Taxonomy of Autonomy in Holons                                               :action:social:agents:ai:holons:
+* Taxonomy of Autonomy in Holons                  :action:social:agents:ai:holons:
    M. Schillo and K. Fischer
 
    | Type of Autonomy   | Description                                                  |
@@ -2245,7 +2246,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    |                                    | Any member or any head member  |
 
 
-** Taxonomy of Database Sorting Algorithms                                      :layers:pipeline:sorting:query:questions:database:
+* Taxonomy of Database Sorting Algorithms         :layers:pipeline:sorting:query:questions:database:
    in Graefe "Query Evaluation Techniques for Large Databases"
 
    | Determinant              | Options                                             |
@@ -2273,7 +2274,7 @@ https://en.m.wikipedia.org/wiki/Syslog
 
    Hash Table Overflow: Avoidance and Resolution
 
-** Taxonomy of Embodied Actions                                                 :division_of_labour:cooperative:embodiment:action:
+* Taxonomy of Embodied Actions                    :division_of_labour:cooperative:embodiment:action:
    in Robertson "Cooperative work and lived cognition: A Taxonomy of embodied actions"
 
    | Type                        | In Relation to     |                                              | Description |
@@ -2302,7 +2303,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    |                             |                    | Seizing the moment                           |             |
    |                             |                    | Doing something else                         |             |
    
-** Taxonomy of Erroneous Planning                                               :slips:mistakes:
+* Taxonomy of Erroneous Planning                  :slips:mistakes:
    T Grant
 
    | Type      | Description                           |
@@ -2313,7 +2314,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Phenotype | How a mistake manifests               |
    | Genotype  | How a mistake is generated            |
 
-*** CNSI Taxonomy (Rasmussen)
+** CNSI Taxonomy (Rasmussen)
 
     | Type                       | Description |
     |----------------------------+-------------|
@@ -2323,7 +2324,7 @@ https://en.m.wikipedia.org/wiki/Syslog
     | Inferences                 |             |
     | Physical co-ordination     |             |
    
-*** Generic Error-Modelling System (Reason)
+** Generic Error-Modelling System (Reason)
     
     | Type            |                                       | Description |
     |-----------------+---------------------------------------+-------------|
@@ -2346,7 +2347,7 @@ https://en.m.wikipedia.org/wiki/Syslog
     |                 | Matching bias                         |             |
     |                 | Incomplete/incorrect mental model     |             |
     
-*** Hollnagel's linear plan phenotypes
+** Hollnagel's linear plan phenotypes
 
     | Category                     | Type                | Description |
     |------------------------------+---------------------+-------------|
@@ -2370,7 +2371,7 @@ https://en.m.wikipedia.org/wiki/Syslog
     |                              | Failure to Complete |             |
     |                              | Overshoot           |             |
     
-*** Operator Mutation
+** Operator Mutation
 
     | Type                 | Description |
     |----------------------+-------------|
@@ -2379,7 +2380,7 @@ https://en.m.wikipedia.org/wiki/Syslog
     | Predicate-list Level |             |
     |                      |             |
     
-** Taxonomy of layers in neural nets                                            :neural_nets:layers:
+* Taxonomy of layers in neural nets               :neural_nets:layers:
 
    | Library    | Layers                                     |
    |------------+--------------------------------------------|
@@ -2473,7 +2474,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | [[http://tflearn.org/layers/core/][Tensorflow]] |                                            |
    |------------+--------------------------------------------|
    
-** Taxonomy of Norms and Sanctions                                              :enforcement:agents:autonomy:sanctions:norms:
+* Taxonomy of Norms and Sanctions                 :enforcement:agents:autonomy:sanctions:norms:
    in Grossi, Aldewereld, Dignum: "Ubi Lex, Ibi Poena: Designing norm
    enforcement in E-institutions"
 
@@ -2497,7 +2498,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Direct            | Influence Agent immediately and are noticeable                  |
    | Indirect          | Non-observable sanction. Reputation and trust damage           |
    
-** Taxonomy of PCG                                                              :ai:games:procedural_content:
+* Taxonomy of PCG                                 :ai:games:procedural_content:
    In Yannakakis and Togelius: "Artificial Intelligence and Games"
 
    | Type    | Sub-Type                                 | Description |
@@ -2511,8 +2512,8 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Roles   | Autonomy vs Mixed-Initiative             |             |
    |         | Experience Agnostic vs Experience-driven |             |
 
-** [[file:book_notes.org::*The%20Grammar%20of%20Society%20-%20Cristina%20Bicchieri][The Grammar of Society - Cristina Bicchieri]]                                  :links:rules:norms:
-** The State of the Art in Visualising Group Structures in Graphs               :graphs:intuition_pump:visualisation:
+* [[file:book_notes.org::*The%20Grammar%20of%20Society%20-%20Cristina%20Bicchieri][The Grammar of Society - Cristina Bicchieri]]     :links:rules:norms:
+* The State of the Art in Visualising Group Structures in Graphs :graphs:intuition_pump:visualisation:
    Vehlow, Beck and Weiskopf
 
    | Type         | Description |
@@ -2526,11 +2527,11 @@ https://en.m.wikipedia.org/wiki/Syslog
    |              |             |
    | embedded     |             |
 
-** [[file:notecards.org::*Theory][Theory]]                                                                       :links:meta:rules:norms:structure:
-** [[file:tribeDescriptions.org::*Tribe%20Descriptions][Tribe Descriptions]]                                                           :links:structure:social:society:honourifics:tribes:
-** [[file:typewriter.org::*Typewritten%20Notes][Typewritten Notes]]                                                            :links:organisation:the_watch:rules:phenomenology:conversation:
-** [[file:behaviourErrors.org::*Typology%20of%20Behaviour%20Errors][Typology of Behaviour Errors]]                                                 :links:slips:mistakes:
-** Typology of Consumption Practices                                            :social:action:play:consumption:
+* [[file:notecards.org::*Theory][Theory]]                                          :links:meta:rules:norms:structure:
+* [[file:tribeDescriptions.org::*Tribe%20Descriptions][Tribe Descriptions]]                              :links:structure:social:society:honourifics:tribes:
+* [[file:typewriter.org::*Typewritten%20Notes][Typewritten Notes]]                               :links:organisation:the_watch:rules:phenomenology:conversation:
+* [[file:behaviourErrors.org::*Typology%20of%20Behaviour%20Errors][Typology of Behaviour Errors]]                    :links:slips:mistakes:
+* Typology of Consumption Practices               :social:action:play:consumption:
    Douglas Holt "How Consumers Consume: A Typology of Consumption Practices"
 
 
@@ -2541,7 +2542,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Structure | Object Actions        | Experience        | Integration          |
    | of Action | Interpersonal Actions | Play              | Classification       |
 
-** Typology of Pleasure (Leblanc)                                               :motivation:pleasure:
+* Typology of Pleasure (Leblanc)                  :motivation:pleasure:
 
    | Type       | Description |
    |------------+-------------|
@@ -2554,10 +2555,10 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Expression |             |
    | Submission |             |
    
-** TODO Typology of Sociotechnical Transition Pathways
+* TODO Typology of Sociotechnical Transition Pathways
    Geels and Schot
 
-** Usability Evaluation Taxonomy                                                :ui:evaluation:usability:
+* Usability Evaluation Taxonomy                   :ui:evaluation:usability:
    in Bowman, Gabbard and Hix: "A Survey of Usability Evaluation in Virtual
    Environments : Classification and Comparison of Methods 1 Introduction and
    motivation 2 Distinctive characteristics of VE evaluation"
@@ -2575,7 +2576,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | Interview/Demo                                     | Application Specific         | Qualitative              | Required     |
    | Cognitive Walkthrough                              | Application Specific         | Qualitative              | Not Required |
 
-** Versu
+* Versu
 
    | Praxis Files        |   |
    |---------------------+---|
@@ -2647,7 +2648,7 @@ https://en.m.wikipedia.org/wiki/Syslog
    | speech_act |   |
    | text       |   |
    | types      |   |
-** Weber's Types of Authority                                                   :leadership:authority:
+* Weber's Types of Authority                      :leadership:authority:
 
    | Type           | Description |
    |----------------+-------------|
@@ -2657,11 +2658,11 @@ https://en.m.wikipedia.org/wiki/Syslog
    |                |             |
    | Traditional    |             |
    
-** [[https://en.wikipedia.org/wiki/List_of_human_positions][Wiki Body Positions]]
+* [[https://en.wikipedia.org/wiki/List_of_human_positions][Wiki Body Positions]]
 
-** Wodak The Politics of Fear                                                   :society:social:law:argumentation:politics:
+* Wodak The Politics of Fear                      :society:social:law:argumentation:politics:
 
-*** The Political Field:
+** The Political Field:
     | Fields of Action                        | Political SubGenres                  | Description |
     |-----------------------------------------+--------------------------------------+-------------|
     | Lawmaking Procedure                     | Law                                  |             |
@@ -2705,7 +2706,7 @@ https://en.m.wikipedia.org/wiki/Syslog
     |                                         | Slogans                              |             |
     |                                         | Debates in Parliament etc            |             |
 
-*** Aristotle's Taxonomy of Argumentation
+** Aristotle's Taxonomy of Argumentation
     | Type          | Description |
     |---------------+-------------|
     | Definition    |             |
@@ -2724,7 +2725,7 @@ https://en.m.wikipedia.org/wiki/Syslog
     | Consequential |             |
     | Cause         |             |
 
-*** Topos of Right wing populist rhetoric
+** Topos of Right wing populist rhetoric
     | Type        | Warrant |
     |-------------+---------|
     | People      |         |
@@ -2738,7 +2739,7 @@ https://en.m.wikipedia.org/wiki/Syslog
     | Saviour     |         |
     | History     |         |
 
-** Ontologies of AI Failure
+* Ontologies of AI Failure
 schmill07_ontol_reason_failur_ai_system
 
 Brittleness can be countered by a metareasoner with:
@@ -2747,10 +2748,10 @@ Brittleness can be countered by a metareasoner with:
 3) able to monitor effectiveness of recommended change
 4) done in real time
 
-** Features of model transformation approaches
+* Features of model transformation approaches
 czarnecki06_featur_based_survey_model_trans_approac
 
-** Taxonomy of video game bugs
+* Taxonomy of video game bugs
 lewis10_what_went_wrong
 
 Specification / Implementation
@@ -2761,7 +2762,7 @@ Error: manifestation of a fault during execution
 
 Failure: user observable deviation from expected behaviour
 
-** Cognitive Dimensions of Notation                                            :cognition:language:notation:programming_langauges:
+* Cognitive Dimensions of Notation                :cognition:language:notation:programming_langauges:
 cite:blackwell01_cognit_dimen_notat,green89_cognit_dimen_notat
 
 |                        |                                                            |
@@ -2794,7 +2795,7 @@ cite:blackwell01_cognit_dimen_notat,green89_cognit_dimen_notat
 | Lability               | Notation changes shape easily                              |
 | Permissiveness         | Notation allows several ways of doing things               |
 
-** FIPA ACL Performatives
+* FIPA ACL Performatives
 | Performatives     |   |   |
 |-------------------+---+---|
 | Accept Proposal   |   |   |
@@ -2838,7 +2839,7 @@ cite:blackwell01_cognit_dimen_notat,green89_cognit_dimen_notat
 | reply-by          | control       |
 
 
-** KQML Performatives
+* KQML Performatives
 |                       |                                                 |   |
 |-----------------------+-------------------------------------------------+---|
 | Basic                 | Evaluate, ask-if, ask-in, ask-one, ask-all..    |   |
@@ -2854,3 +2855,13 @@ cite:blackwell01_cognit_dimen_notat,green89_cognit_dimen_notat
 | Capability-definition | advertise, subscribe, monitor, import, export   |   |
 |                       |                                                 |   |
 | Networking            | register, unregister, forward, broadcast, route |   |
+
+* Scheduling Types
+[[https://en.wikipedia.org/wiki/Scheduling_(computing)][Wiki]]
+- FIFO
+- Priority
+- Shortest Remaining Time
+- Fixed Priority Premptive
+- Round Robin
+- Multilevel queue
+- Work Conserving

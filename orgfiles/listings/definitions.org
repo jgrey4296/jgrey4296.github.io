@@ -792,6 +792,14 @@ If there are three or more outcomes, the following properties cannot simultaneou
 - no individual gets to unilaterally decide the outcome
 :END:
 
+[[https://en.wikipedia.org/wiki/Delphi_method][Delphi Method]] - Multi-Round Structured Interviews of experts with summary sharing.
+
+ergodic - a dynamic system which will eventually visit all parts of its domain space
+ergodic literature - [aaarseth97_cyber_ p1] requires nontrivial effort to allow the reader to traverse the text.
+
+entropy - [shannon] increase in amount of probable arrangements of a system
+
+hyperobject - [timothy morton] objects which resist knowability on a human scale
 
 *** Rights
 claim rights                 - entails obligations on others regarding the right holder.
