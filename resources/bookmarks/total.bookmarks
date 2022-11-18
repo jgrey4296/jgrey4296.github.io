@@ -2311,6 +2311,7 @@ http://pleated-jeans.com/2012/11/22/funny-pic-dump-11-22-12/ : humour : super_he
 http://pleated-jeans.com/2013/01/29/flowchart-what-tv-show-are-you-watching/ : flow_chart : humour : tv_show
 http://pleated-jeans.com/2013/02/17/weekend-pic-dump-2-17-13/ : comic : humour
 http://pleated-jeans.com/2013/03/14/21-pictures-that-have-a-lot-of-explaining-to-do/ : art : humour
+http://pmcruz.com/eco/ : politicians : visualisation
 http://pmihaylov.com/floating-point-numbers/ : digital : float : floating_point : numbers : programming : reference
 http://pocketcalculatorshow.com/boombox/cool.html : history : music
 http://pokepalettes.com/#scyther : colour : design : game_design : pokemon
@@ -2341,6 +2342,7 @@ http://prettydiff.com/guide/unrelated_diff.xhtml : algorithm : diff
 http://prettypanties.tumblr.com/post/36959388491 : art : design
 http://printingcode.runemadsen.com/lecture-repetition/ : design : programming : repetition : software_design : software_development
 http://prob140.org/textbook/content/Chapter_25/04_Multiple_Regression.html : multiple_regression
+http://proceedings.xcoax.org/ : academia : aesthetics : computation : conference : xCoaX
 http://processing.org/tutorials/eclipse/ : eclipse : java : learning : processing
 http://processingjs.org/ : graphics : javascript : processing : web_design
 http://profs.sci.univr.it/~giaco/paperi/lattices-for-CS.pdf : lattice : math : pdf : tutorial
@@ -7483,6 +7485,7 @@ https://garry.tv/2014/04/07/unity-viewmodels/ : garrys_mod : tutorial : unity
 https://gbracha.github.io/illiterateProgramming/out/illiterateProgramming.html : don_knuth : literate_programming : software_development
 https://gcc.gnu.org/onlinedocs/cpp/Macros.html : gnu
 https://gdaymath.com/lessons/gmp/part-i-lesson-1-welcome-to-garden-strolls/ : learning : math
+https://gdscript.com/ : gdscript : godot
 https://geekandsundry.com/how-and-why-miniature-wargame-companies-are-choosing-to-embrace-diversity/ : games_workshop : gender : representation
 https://gen.medium.com/the-lifespan-of-a-lie-d869212b1f62 : ben_blum : history : medium : philip_zimbardo : psychology : stanford_prison_experiment
 https://genderanalysis.net/2015/07/walt-heyer-and-sex-change-regret-gender-analysis-09/ : gender_analysis : sex_change_regret : walt_heyer
@@ -7504,6 +7507,7 @@ https://gespielt.hypotheses.org/2477 : __important : conference : game
 https://getpocket.com/explore/item/how-we-ll-forget-john-lennon : john_lennon : memory : mit
 https://getsharex.com/ : screen_recording : sharex : software : tools
 https://ghost.org/features/ : blog
+https://gibberlings3.github.io/iesdp/index.htm : bioware : iesdp : infinity_engine : planescape_torment : technical
 https://gist.github.com/Endi1/4e72a505d5baaf3029edf2520038faf2 : github : recommendation : software_development
 https://gist.github.com/JPLeBreton/cef18e516047db06df8d7f41bced8a7e : game_design : jp_le_breton : manifesto
 https://gist.github.com/TSiege/cbb0507082bb18ff7e4b : github
@@ -7555,6 +7559,7 @@ https://github.com/Idnan/trending-guides : github : guide : programming
 https://github.com/Interrupt/delverengine : delver : game_development : github : programming : source
 https://github.com/JakeWheat/intro_to_parsing : github : haskell : parsec
 https://github.com/Jam3/math-as-code : github : math : programming : tutorial
+https://github.com/Jamesong7822/Godot-Notes/blob/master/Godot%20Notes.md : github : godot : tips_and_tricks
 https://github.com/JasonKessler/scattertext : NLP : visualisation
 https://github.com/JeffLIrion/adb_shell : adb : android : python
 https://github.com/Kristories/awesome-guidelines : coding_standards : github : style_conventions
@@ -7575,6 +7580,7 @@ https://github.com/MissPixels/prospect-bot : __come_back_to : bot : github : ima
 https://github.com/MounicaNareddy/ExpertAcademicAdvisor_Artificial_Intelligence : CLIPS : github : production_system : rule_engine
 https://github.com/Murali-group/halp : algorithms : github : hypergraph : library : python
 https://github.com/NaturalNode/natural : github
+https://github.com/NearInfinityBrowser/NearInfinity : github : infinity_engine : java : planescape_torment
 https://github.com/NetLogo/NW-Extension : __important : analysis : github : libraries : netlogo
 https://github.com/NightDiveStudios/shockmac : game_programming : github : legacy_code : system_shock
 https://github.com/NoelFB/Celeste/blob/master/Source/Player.cs : c_sharp : celeste : example : github : movement : resource : tutorial
@@ -7608,6 +7614,7 @@ https://github.com/Themaister/libfmsynth : c_lang : github : libraries : synthes
 https://github.com/Traderain/WitcherScript : __come_back_to : documentation : game_development : github : library : scripting : witcher : witcher_script
 https://github.com/Unity-Technologies/Unity.Mathematics : c_sharp : github : math : unity
 https://github.com/Unity-Technologies/UnityCsReference : c_sharp : reference : source : unity
+https://github.com/WeiDUorg/weidu : bioware : github : infinity_engine : planescape_torment : weidu
 https://github.com/WhitestormJS/whitestorm-typescript-boilerplate : github : react : redux : starter : three_js : web_GL
 https://github.com/Wilfred/remacs : emacs : github : rust
 https://github.com/Z3Prover/z3 : SMT : github : python : solver : theorem_proving : z3
@@ -7730,13 +7737,18 @@ https://github.com/fgregg/tax_extension/tree/master#code-for-calculation-tax-ext
 https://github.com/fluhus/wordnet-to-json : NLP : github : json : python : word_net
 https://github.com/fogleman/dlaf : art : diffusion : dlaf : github : growth : michael_fogleman : procedural_content
 https://github.com/fonnesbeck/statistical-analysis-python-tutorial : github : python : statistics : tutorial
+https://github.com/francogarcia/company-godot-gdscript.el : company : emacs : github : godot
+https://github.com/francogarcia/yasnippet-godot-gdscript : github : godot : yasnippet
 https://github.com/fred-o/inform7-mode : emacs : github : inform : lisp
 https://github.com/fredcamps/lsp-jedi : emacs : lisp : lsp : python
 https://github.com/galaxykate/PCGTutorials/blob/master/js/libs/react.js : github
 https://github.com/garrynewman : garrys_mod : github
+https://github.com/gemrb/iesh : bioware : github : infinity_engine : planescape_torment : python
 https://github.com/gendx/pdf-cheat-sheets/blob/master/pdf-graphics.clean.pdf : pdf_cheat_sheets
 https://github.com/ghostinthewires/Azure-Readiness-Checklist/blob/master/README.md : azure : checklist : github : production : software_engineering
 https://github.com/gitonga123/CLIPS : CLIPS : github : production_system : rule_engine
+https://github.com/godotengine/awesome-godot : github : godot
+https://github.com/godotengine/emacs-gdscript-mode : emacs : github : godot
 https://github.com/golubitsky/algorithms-javascript : github
 https://github.com/google/deepdream/blob/master/dream.ipynb : deep_learning : github
 https://github.com/google/gson/blob/master/UserGuide.md : data_structure : gjson : json : programming
@@ -7831,6 +7843,7 @@ https://github.com/mbostock/d3/wiki/Requests : github
 https://github.com/mbostock/d3/wiki/Selections : github
 https://github.com/mbostock/d3/wiki/Transitions : github
 https://github.com/mbostock/d3/wiki/Transitions#d3_ease : github
+https://github.com/me2beats/godot-tips-and-tricks/issues : github : godot : tips_and_tricks
 https://github.com/memoiry/Snaky : ai : github : python : snake
 https://github.com/mewo2/pronouncingpy : github : libraries : pronunciation : python
 https://github.com/mikanbako/sphinx-gradle-plugin : build_tool : github : gradle : sphinx
@@ -8109,6 +8122,7 @@ https://glyphic.s3.amazonaws.com/ozone/mark/periodic/Periodic%20Table%20of%20the
 https://gnomestew.com/treasuretables/approaches-techniques/corners-in-battlestar-galactica-a-lesson-in-details/ : battlestar_galactica : corners : design : world_building
 https://go-dh.github.io/mincomp/thoughts/2016/10/02/minimal-definitions/ : github : minimal_computing : minimalism
 https://gobyexample.com/ : go : go_lang : programming : tutorial
+https://godotshaders.com/ : godot : shaders
 https://goelhardik.github.io/2016/10/04/fishers-lda/ : LDA : machine_learning : python : statistics : tutorial
 https://going-medieval.com/2019/06/06/on-qanon-and-systems-of-knowledge/ : QAnon : blog : elanor_janega : medieval : systems_of_knowledge
 https://going-medieval.com/2019/08/16/thats-not-what-sodomy-is-but-ok/ : bible : christianity : eleanor_janega : history : sex : sodomy
@@ -9210,6 +9224,7 @@ https://opensyllabus.org/result/field?id=Computer+Science : open_syllabus : refe
 https://ora.ox.ac.uk/objects/uuid:5635e8b7-994f-458e-b453-4666b46c1910 : T_M_O_framework : oxford : ventresca
 https://orbis.library.yale.edu/vwebv/holdingsInfo?bibId=12779400 : archive : cartography : catalog : harlem : library : maps : yale
 https://ordinary-times.com/2018/04/16/ben-shapiro-is-how-we-got-trump/ : GOP : adotsad : ben_shapiro : birtherism : kevin_williamson : ordinary_times : politics : trump
+https://oremacs.com/2014/12/24/light-it-up/ : emacs : lisp : pygments
 https://oremacs.com/swiper/#introduction : emacs : ivy : lisp : swiper
 https://orgmode.org/worg/org-contrib/org-depend.html : emacs : lisp : org
 https://osf.io/institutions/a2jlab/ : US_office_of_science_and_technology : __come_back_to : data_sets : dataset : osf
@@ -9585,10 +9600,12 @@ https://setosa.io/ev/principal-component-analysis/ : __come_back_to : machine_le
 https://severalbytes.itch.io/stationgen : procedural_content : space_station
 https://sgp.fas.org/crs/ : CRS : USA : congress : research_report
 https://sgp.fas.org/crs/terror/index.html : CRS : FAS : USA : congress : research_report : terrorism
+https://sharats.me/posts/shell-script-best-practices/ : bash : best_practices : shell
 https://shoelace.style/ : library : shoelace : web_design
 https://shoptalkshow.com/episodes/347/ : chris_coyier : dave_rupert : jason_miller : podcast : preact : shop_talk_show
 https://sidebarsblog.com/collusion-russians-influence-election-crime/ : collusion : election : law : russia : trump
 https://sigil-ebook.com/ : epub : sigil
+https://simassocc.org/ : ABM : agent_based_simulation : assocc : covid
 https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html : django : python : tutorial
 https://simpleit.rocks/ruby/jekyll/jekyll-basic-concepts/ : jekyll : reference : static_site : tutorial : web_design
 https://sims.fandom.com/wiki/The_Sims_4 : the_sims : wiki
@@ -10301,6 +10318,8 @@ https://web.stanford.edu/~jurafsky/ws97/manual.august1.html : DAMSL
 https://webassembly.org/specs/ : internet : programming : technical_specifications : web_assembly
 https://webpack.js.org/ : javascript : reference : web_development : web_pack
 https://webpack.js.org/guides/author-libraries/ : documentation : reference : web_pack
+https://weidu.org/main.html#weidu : infinity_engine : planescape_torment : weidu
+https://weidu.org/~thebigg/README-WeiDU.html : bioware : infinity_engine : planescape_torment : weidu
 https://weird-old-book-finder.glitch.me/ : __come_back_to : search_engine
 https://wellcomecollection.org/articles/WxEbjiIAAJUJZAs_ : 2018 : history : kate_lister : masturbation : sex : welcome_collection
 https://wh40k.lexicanum.com/wiki/Horus_Heresy_Series : 
@@ -10939,6 +10958,7 @@ https://www.etsy.com/uk/listing/501082832/otter-ring-holder-significant-otter?ga
 https://www.eurogamer.net/articles/2014-02-23-down-the-replay-rabbit-hole : eurogamer : game_design : replayable_narrative : richard_cobbett
 https://www.eurogamer.net/articles/2018-06-18-horror-shooter-overwhelm-earns-its-capital-letters : __come_back_to : christian_donlan : eurogamer : game : games : review
 https://www.eurogamer.net/articles/2019-02-12-the-impossible-architecture-of-video-games#comments : city_17 : eurogamer : ewan_wilson : games : impossible_architecture : valve
+https://www.eurogamer.net/the-story-behind-the-oblivion-mod-terry-pratchett-worked-on : cian_maher : discworld : elder_scrolls : eurogamer : oblivion : terry_pratchett
 https://www.eurozine.com/change-course-human-history/ : agricultural_revolution : david_graeber : eurozine : politics : social_inequality
 https://www.eventbrite.com/e/building-reliable-systems-tickets-75712673645 : eventbrite : lyft : reliable_systems : software_engineering
 https://www.ewg.org/research/update-mapping-expanding-pfas-crisis : PFAS : environment : ewg : toxins
