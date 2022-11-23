@@ -3,62 +3,40 @@
 * Overview
 
 * Main
-** Find
-To find files, but not search .git directories:
-find ? -type f -a -not -name "DS_Store" -print -o -type d -name ".git" -prune
-** Bash
-[[https://stackoverflow.com/questions/5917576/][line length sorting]]
-
-cat testfile | awk '{ print length, $0 }' | sort -n | cut -d" " -f2-
-
-** ADB
+** CLI
+*** ADB
 Tablet will periodically de-authorize adb,
 so re-pair with `adb pair`
-** Awk
-#+begin_src awk
+*** Awk
+#+begin_src bash
+# Getting subgroups
 awk 'match($0, /HREF="(.+?)"/, a) {print a[1]}'
 
+# checking length
 awk 'length < 10 {print $0}'
+
+# in place editing and printing at end of file
+gawk -i inplace '/if __name__ / {print "##-- ifmain" } {print $0} ENDFILE {print "##-- end ifmain"}'
 #+end_src awk
+*** Bash
+[[https://stackoverflow.com/questions/5917576/][line length sorting]]
 
-** Compiling Aseprite from source
-  Follow the instructions to install google depot_tools, then skia.
-  The missing instruction is to *unset python3 and anaconda in the path*
-  as depot_tools, and the setup script for skia uses *python 2*.
-  after that, compilation is straight forward, making sure to target the
-  OSX version you are actually on.
-
-** Emacs Straight Recipes
-https://github.com/radian-software/straight.el#the-recipe-format
-
-#+begin_src elisp
-;; Disable Byte Compilation
-(package! a-package :recipe (:build (:not compile)))
-;; Or disable byte compilation with
-;; -*- no-byte-compile: t; -*-
-
-;; Specify a local repo
-(package! a-package :recipe (:local-repo "~/.doom.d/packages/a-package"))
-
-
+#+begin_src bash
+cat testfile | awk '{ print length, $0 }' | sort -n | cut -d" " -f2-
 #+end_src
-
-** File encoding
+*** File encoding
 file -I {}
 iconv -f {enc} -t {enc} {} > conv-{}
 
-** Firefox
-Get to configs with about:about
-Use: reader.parse-on-load.force-enabled
-for reader view force
+*** Find
+To find files, but not search .git directories:
+#+begin_src bash
+find ? -type f -a -not -name "DS_Store" -print -o -type d -name ".git" -prune
+#+end_src
 
-Set: browser.bookmarks.editDialog.firstEditField
-to: tagsField
-for a better bookmarking default
-
-** GPG Notes (v 2.2.11)
-*** *Short IDs*: Last 8 digits of fingerprint
-*** Basic Protocol
+*** GPG Notes (v 2.2.11)
+**** *Short IDs*: Last 8 digits of fingerprint
+**** Basic Protocol
    Create Key
    Create Revocation Cert
    Create Fingerprint
@@ -74,42 +52,42 @@ for a better bookmarking default
    encrypt messages to them using their public key,
    or verify they sent a plaintext signature.
 
-*** Setup for Emacs
+**** Setup for Emacs
    To use, add "allow-emacs-pinentry" to "~/.gnupg/gpg-agent.conf",
    reload the configuration with "gpgconf --reload gpg-agent", and
    start the server with M-x pinentry-start. (or add (pinentry-start) to .emacs)
 
-*** List keys
+**** List keys
    gpg -k
    gpg --list-sigs
-*** Importing a key:
+**** Importing a key:
    Works for secret and public keys
    gpg --import [filename]
-*** Generating a key
+**** Generating a key
    gpg --gen-key
    gpg --gen-revoke --armor --output=RevocationCertificate.asc [email]
-*** Deleting a key:
+**** Deleting a key:
    gpg --delete-secret-keys
    gpg --delete-keys
-*** Get a fingerprint
+**** Get a fingerprint
    Fingerprints give a shorter to verify hash of public keys
    gpg --fingerprint [email]
-*** Sign a key
+**** Sign a key
    gpg --sign-key [email]
    or
    gpg --interactive --edit-key [email]
-*** Export keys
+**** Export keys
    gpg --armor --export[-secret-keys] [-o file] [-a ID | email]
-*** Encrypt
+**** Encrypt
    *Don't forget to add yourself to the recipients*
    gpg [-o output] --sign --armor [-r recipient] [-e file]
-*** Decrypt
+**** Decrypt
    gpg  -o output -d file
-*** Sign a plaintext message
+**** Sign a plaintext message
    gpg --clearsign file
-*** Verify a signature
+**** Verify a signature
    gpg --verify file
-*** Using Stronger Encrpytion
+**** Using Stronger Encryption
    gpg --interactive --edit-key [email]
    Then 'showpref' will show algorithm preferences
    from most - least.
@@ -118,7 +96,7 @@ for a better bookmarking default
 
    then 'save'
 
-** Image Pdf calls
+*** Image Pdf calls
 #+NAME: image to pdf generation
 #+begin_src bash :results value
 convert ? -alpha off ./temp/`?`
@@ -127,20 +105,41 @@ img2pdf --output `?`.pdf --pagesize A4 --auto-orient ?
 pdftk * cat output diagrams.pdf
 #+end_src
 
-** pdftotext
-pdftotext [options] <PDF-file> [<text-file>]
+*** Latex
 
-** Pandoc
+**** tlmgr
+
+:outdated_l3_layer:
+https://tex.stackexchange.com/questions/586467/
+
+sudo fmtutil-sys --all
+:END:
+
+
+**** texdoc
+https://tex.stackexchange.com/questions/297004/
+tlmgr option docfiles 1
+tlmgr install --reinstall $(tlmgr list --only-installed | sed -E 's/i (.*):.*$/\1/')
+
+**** mbsync and mu
+
+#+NAME: mu init
+#+begin_src bash :results output
+mu init --maildir ~/.mail --my-address {address}
+mu index
+#+end_src
+
+*** Markdown html export
+Add a local file to `markdown-css-paths`,
+can use npm package `generate-github-markdown-css` as a start
+
+*** Pandoc
 #+NAME: text to pdf generation
 #+begin_src bash :results value
 pandoc ? -o output.pdf
 #+end_src
 
-** Markdown html export
-Add a local file to `markdown-css-paths`,
-can use npm package `generate-github-markdown-css` as a start
-
-** Pdf Metadata
+*** Pdf Metadata
 #+begin_src bash
 exiftool file.pdf
 
@@ -162,7 +161,12 @@ pdftk ? dump_data > info.txt
 pdftk ? update_info info.txt output updated.pdf
 #+end_src
 
-** Sed
+*** pdftotext
+#+begin_src bash :results output
+pdftotext [options] <PDF-file> [<text-file>]
+#+end_src
+
+*** Sed
 Filter lines with:
 '/pattern/d'
 
@@ -172,7 +176,14 @@ Print Matching lines with:
 case Invariant:
 '/pattern/I'
 
-** Wordnet
+*** Wget
+https://www.networkinghowtos.com/howto/change-the-user-agent-in-wget/
+https://www.networkinghowtos.com/howto/common-user-agent-list/
+
+wget --user-agent="Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"
+wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0"
+
+*** Wordnet
 `wn`
 
 #+begin_src bash
@@ -223,8 +234,8 @@ case Invariant:
 -over		Overview of Senses
 #+end_src
 
-** XML
-*** XPath                                       :query_language:
+*** XML
+**** XPath                                      :query_language:
 #+NAME: Example Code
 #+begin_src xpath :results output
 # display the last names of all people in the doc
@@ -265,12 +276,12 @@ self / .
 
 #+end_src
 
-*** [[https://www.videlibri.de/xidel.html][xidel]]                                       :cli:query:
+**** [[https://www.videlibri.de/xidel.html][xidel]] :cli:query:
 #+begin_src bash
 # Extracts between table and footer
 xidel -s --output-format=xml --xpath "//table/following-sibling::*[//*[@id='printfooter']/preceding::node()]" `?`
 #+end_src
-*** [[http://xmlstar.sourceforge.net/][XML Starlet]]
+**** [[http://xmlstar.sourceforge.net/][XML Starlet]]
 #+NAME: commands
 #+begin_src bash :results output
 xml
@@ -307,7 +318,7 @@ XMLStarlet is a command line toolkit to query/edit/check/transform
 XML documents (for more information see http://xmlstar.sourceforge.net/)
 :END:
 
-**** element / structure
+***** element / structure
 :usage:
 XMLStarlet Toolkit: Display element structure of XML document
 Usage: xml el [<options>] <xml-file>
@@ -323,7 +334,7 @@ XMLStarlet is a command line toolkit to query/edit/check/transform
 XML documents (for more information see http://xmlstar.sourceforge.net/)
 :END:
 
-**** select
+***** select
 :usage:
 Usage: xml sel <global-options> {<template>} [ <xml-file> ... ]
 where
@@ -379,7 +390,7 @@ xml sel -t -c "xpath0" -m "xpath1" -m "xpath2" -v "xpath3" \
         -t -m "xpath4" -c "xpath5"
 :END:
 
-**** edit
+***** edit
 :usage:
 XMLStarlet Toolkit: Edit XML document(s)
 Usage: xml ed <global-options> {<action>} [ <xml-file-or-uri> ... ]
@@ -414,7 +425,7 @@ XMLStarlet is a command line toolkit to query/edit/check/transform
 XML documents (for more information see http://xmlstar.sourceforge.net/)
 :END:
 
-**** transform
+***** transform
 :usage:
 xml tr
 XMLStarlet Toolkit: Transform XML document(s) using XSLT
@@ -443,7 +454,7 @@ Current implementation uses libxslt from GNOME codebase as XSLT processor
 (see http://xmlsoft.org/ for more details)
 :END:
 
-**** validate
+***** validate
 :usage:
 xml val
 XMLStarlet Toolkit: Validate XML document(s)
@@ -468,7 +479,7 @@ XMLStarlet is a command line toolkit to query/edit/check/transform
 XML documents (for more information see http://xmlstar.sourceforge.net/)
 :END:
 
-**** format
+***** format
 :usage:
 XMLStarlet Toolkit: Format XML document
 Usage: xml fo [<options>] <xml-file>
@@ -489,7 +500,7 @@ XMLStarlet is a command line toolkit to query/edit/check/transform
 XML documents (for more information see http://xmlstar.sourceforge.net/)
 :END:
 
-**** canonic
+***** canonic
 :usage:
 XMLStarlet Toolkit: XML canonicalization
 Usage: xml c14n <mode> <xml-file> [<xpath-file>] [<inclusive-ns-list>]
@@ -517,14 +528,14 @@ XMLStarlet is a command line toolkit to query/edit/check/transform
 XML documents (for more information see http://xmlstar.sourceforge.net/)
 :END:
 
-**** list directory : ls
-**** (un)escape
+***** list directory : ls
+***** (un)escape
 :usage:
 feed strings in
 :END:
 
 
-**** examples
+***** examples
 #+begin_src bash
 # query, -I(indenting output), -t(template:) -f(file name) -n(new line) -m(match xpath) //Trait -c(copy xpath) . -n -b(break nesting) file
 xml sel -I -t -f -n -m //Trait -c . -n -b ./facade_messy.xml
@@ -543,51 +554,84 @@ xml val -e -d ./test.dtd ./mytest.xml
 xml val -e -s ./test.xsd ./mytest.xml
 #+end_src
 
-*** [[https://relaxng.org/jclark/trang-manual.html][Trang]]                                       :schema:
+**** [[https://relaxng.org/jclark/trang-manual.html][Trang]] :schema:
 trang [input.xmls] output.xsd
 
-*** [[https://github.com/tefra/xsdata-plantuml][xsdata plantuml]]
+**** [[https://github.com/tefra/xsdata-plantuml][xsdata plantuml]]
 xsdata samples/order.xsd --output plantuml --package uml_gen
 
-*** [[http://saxon.sourceforge.net/][Saxon]]
+**** [[http://saxon.sourceforge.net/][Saxon]]
 
-*** xmllint
+**** xmllint
 
-** Gradle
+** Build Systems
+*** Cargo                                       :rust:
+https://doc.rust-lang.org/cargo/
 
-** Wget
-https://www.networkinghowtos.com/howto/change-the-user-agent-in-wget/
-https://www.networkinghowtos.com/howto/common-user-agent-list/
+*** Compiling Aseprite from source              :asprite:
+  Follow the instructions to install google depot_tools, then skia.
+  The missing instruction is to *unset python3 and anaconda in the path*
+  as depot_tools, and the setup script for skia uses *python 2*.
+  after that, compilation is straight forward, making sure to target the
+  OSX version you are actually on.
 
-wget --user-agent="Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"
-wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0"
+*** Conda                                       :python:
+https://conda.io/projects/conda/en/latest/user-guide/index.html
+*** Doom                                        :emacs:
+https://github.com/doomemacs/doomemacs/blob/master/docs/index.org
 
-** Latex
+*** Emacs Straight Recipes                      :emacs:
+https://github.com/radian-software/straight.el#the-recipe-format
 
-*** tlmgr
+#+begin_src elisp
+;; Disable Byte Compilation
+(package! a-package :recipe (:build (:not compile)))
+;; Or disable byte compilation with
+;; -*- no-byte-compile: t; -*-
 
-:outdated_l3_layer:
-https://tex.stackexchange.com/questions/586467/
-
-sudo fmtutil-sys --all
-:END:
+;; Specify a local repo
+(package! a-package :recipe (:local-repo "~/.doom.d/packages/a-package"))
 
 
-*** texdoc
-https://tex.stackexchange.com/questions/297004/
-tlmgr option docfiles 1
-tlmgr install --reinstall $(tlmgr list --only-installed | sed -E 's/i (.*):.*$/\1/')
-
-*** mbsync and mu
-
-#+NAME: mu init
-#+begin_src bash :results output
-mu init --maildir ~/.mail --my-address {address}
-mu index
 #+end_src
 
-** Godot
-[[https://docs.godotengine.org/en/stable/tutorials/editor/command_line_tutorial.html][godot docs]]
+*** Github Pages / Jekyll                       :web:
+https://docs.github.com/en/pages
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
+https://jekyllrb.com/docs/
+*** Gradle                                      :java:
+https://docs.gradle.org/current/userguide/userguide.html
+
+*** Homebrew                                    :shell:
+https://brew.sh/
+https://docs.brew.sh/
+*** Make                                        :cli:
+https://www.gnu.org/software/make/manual/make.html
+https://www.gnu.org/software/automake/manual/automake.html#Autotools-Introduction
+*** Mix                                         :elixir:
+https://hexdocs.pm/mix/Mix.html
+*** Pip                                         :python:
+https://pip.pypa.io/en/stable/
+*** Poetry                                      :python:
+https://python-poetry.org/docs/master/
+*** Rebar                                       :erlang:
+https://rebar3.org/docs/
+
+*** RubyGems                                    :ruby:
+https://guides.rubygems.org/
+*** Scons                                       :python:
+https://scons.org/doc/production/HTML/scons-user.html
+** GUI Programs
+*** Firefox
+Get to configs with about:about
+Use: reader.parse-on-load.force-enabled
+for reader view force
+
+Set: browser.bookmarks.editDialog.firstEditField
+to: tagsField
+for a better bookmarking default
+
+*** Godot
 Godot Engine v3.4.4.stable.official.419e713a2 - https://godotengine.org
 Free and open source software under the terms of the MIT license.
 (c) 2007-2022 Juan Linietsky, Ariel Manzur.
@@ -670,3 +714,4 @@ Standalone tools:
 * Links
 [[https://www.futureboy.us/pgp.html][GPG General Howto]]
 https://pandoc.org/
+[[https://docs.godotengine.org/en/stable/tutorials/editor/command_line_tutorial.html][godot docs]]
