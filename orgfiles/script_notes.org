@@ -595,10 +595,6 @@ https://github.com/radian-software/straight.el#the-recipe-format
 
 #+end_src
 
-*** Github Pages / Jekyll                       :web:
-https://docs.github.com/en/pages
-https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
-https://jekyllrb.com/docs/
 *** Gradle                                      :java:
 https://docs.gradle.org/current/userguide/userguide.html
 
@@ -621,6 +617,19 @@ https://rebar3.org/docs/
 https://guides.rubygems.org/
 *** Scons                                       :python:
 https://scons.org/doc/production/HTML/scons-user.html
+
+** Text
+*** Github Pages / Jekyll                       :web:
+https://docs.github.com/en/pages
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
+https://jekyllrb.com/docs/
+*** Markdown
+https://help.github.com/articles/markdown-basics/
+
+*** RST / Sphinx
+https://www.sphinx-doc.org/en/master/contents.html
+https://restructuredtext.readthedocs.io/en/latest/
+
 ** GUI Programs
 *** Firefox
 Get to configs with about:about
