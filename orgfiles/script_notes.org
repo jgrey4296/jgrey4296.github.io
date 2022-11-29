@@ -567,6 +567,12 @@ xsdata samples/order.xsd --output plantuml --package uml_gen
 ** Build Systems
 *** Cargo                                       :rust:
 https://doc.rust-lang.org/cargo/
+*** rustup                                      :rust:
+https://rust-lang.github.io/rustup/
+
+#+begin_src bash
+rustup component add rustfmt-preview
+#+end_src
 
 *** Compiling Aseprite from source              :asprite:
   Follow the instructions to install google depot_tools, then skia.
