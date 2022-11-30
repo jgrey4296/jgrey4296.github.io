@@ -5851,6 +5851,7 @@ https://blog.jooq.org/2016/03/17/10-easy-steps-to-a-complete-understanding-of-sq
 https://blog.jooq.org/2016/12/09/a-beginners-guide-to-the-true-order-of-sql-operations/ : SQL : best_practices : database : reference
 https://blog.kabir.ml/posts/inside-wade.html : javascript : libraries : query
 https://blog.keras.io/building-autoencoders-in-keras.html : autoencoder : keras
+https://blog.logrocket.com/debugging-rust-apps-with-gdb/ : blog : debugging : gdb : rust
 https://blog.mapbox.com/mapping-57-million-agricultural-fields-with-ai-2f68e54df45a?gi=79d4ec82b54 : agriculture : ai : art : data_visualisation : map : rob_altenhaus
 https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xvi-full-text-search : flask : python : tutorial : web_development
 https://blog.mindorks.com/every-programmer-should-read-this-book-6755dedec78d#.hy1f5ydzj : book : recommendation : software_development
@@ -6833,6 +6834,8 @@ https://docs.rs/rustler/latest/rustler/ : NIF : erlang : interoperability : rust
 https://docs.rust-embedded.org/book/interoperability/c-with-rust.html : python : reference : rust : technical
 https://docs.scipy.org/doc/scipy/reference/tutorial/interpolate.html : interpolation : reference : scipy : spline
 https://docs.sympy.org/latest/guides/index.html : python : reference : symbolic_programming : sympy
+https://docs.talkamatic.se/for-dialog-designers/ : __come_back_to : api : dialog_design
+https://docs.talkamatic.se/for-dialog-designers/tutorial/#step-5-plan : dialog : dialog_domain_description : tutorial
 https://docs.unity3d.com/Manual/ExecutionOrder.html : awake : c_sharp : initialization : start : unity : update
 https://docs.unity3d.com/Manual/MecanimFAQ.html : animation : c_sharp : manual : unity
 https://docs.unity3d.com/Manual/gui-Basics.html : GUI : c_sharp : documentation : imgui : unity
@@ -7948,6 +7951,7 @@ https://github.com/rohinikar/Expert-Systems-Programs : CLIPS : github : producti
 https://github.com/rouseguy/intro2stats : github : python : statistics : tutorial
 https://github.com/roxxploxx/RimWorldModGuide : games : github : modding : rimwork
 https://github.com/rudyrucker/chaos : chaos : github : james_gleick
+https://github.com/rust-lang/rust/issues/33062 : debugging : lldb : rust
 https://github.com/ryanburge/sbc : github : southern_baptist_church
 https://github.com/ryanburge/trump_transcript : github : nlp : transcript : trump
 https://github.com/ryanmcdermott/clean-code-javascript : best_practices : github : javascript : programming
@@ -8133,6 +8137,7 @@ https://gnomestew.com/treasuretables/approaches-techniques/corners-in-battlestar
 https://go-dh.github.io/mincomp/thoughts/2016/10/02/minimal-definitions/ : github : minimal_computing : minimalism
 https://gobyexample.com/ : go : go_lang : programming : tutorial
 https://godot-rust.github.io/book/getting-started.html : godot : rust
+https://godotengine.org/article/importing-3d-assets-blender-gamedevtv : blender : godot
 https://godotshaders.com/ : godot : shaders
 https://godottutorials.com/courses/godot-basics-series : godot
 https://goelhardik.github.io/2016/10/04/fishers-lda/ : LDA : machine_learning : python : statistics : tutorial
@@ -8675,6 +8680,10 @@ https://leanpub.com/progalgs/read : algorithms : book : lisp : programming
 https://learn.adafruit.com/hacking-the-kinect/determine-the-descriptors : kinect : reverse_engineering
 https://learnbyexample.gitbooks.io/command-line-text-processing/content/ : awk : bash : grep : reference : sed
 https://learnbyexample.gitbooks.io/command-line-text-processing/content/gnu_sed.html : CLI : cli : sed
+https://learnbyexample.github.io/cli_text_processing_coreutils/ : cli : coreutils : gnu : text
+https://learnbyexample.github.io/learn_gnuawk/cover.html : awk : examples : github : reference
+https://learnbyexample.github.io/learn_gnugrep_ripgrep/ : cli : grep : reference : ripgrep : text
+https://learnbyexample.github.io/learn_gnused/ : cli : gsed : sed : text
 https://learnche.org/pid/least-squares-modelling/multiple-linear-regression : math : multiple_regression
 https://learningmusic.ableton.com/ : ableton : learning : music : music_theory
 https://learningmusic.ableton.com/index.html : ableton : learning : music
@@ -9534,6 +9543,8 @@ https://rrrrroseazerty.neocities.org/posts/2021-03-08-Defending-the-commons-the-
 https://rskupnik.github.io/docker_series_2_connecting_containers : docker : tutorial
 https://rubikscode.net/2019/05/06/mathematics-for-artificial-intelligence-probability/ : ai : blog : math : probability : rubiks_code
 https://ruslanspivak.com/lsbasi-part1/ : compiler : parser : tutorial
+https://rust-lang.github.io/rustup/index.html : build_tool : github : installation : programming : rust : rustup
+https://rustc-dev-guide.rust-lang.org/about-this-guide.html : compiler : programming_langauge_design : rust : rustc
 https://s-media-cache-ak0.pinimg.com/736x/f6/47/25/f64725af7a7fe99419b792cf86d5c79e.jpg : chernobyl : photographs
 https://s-usih.org/2018/11/listening-to-the-artists-for-a-change/ : __important
 https://s3.amazonaws.com/academia.edu.documents/43975639/Self-Organisation_Paradigms_and_Applicat20160321-10807-hnqldo.pdf : emergence : self_organisation
@@ -9681,6 +9692,7 @@ https://slaveryandjusticereport.brown.edu/  : brown_university : history : justi
 https://slimemoldtimemold.com/2022/10/05/say-no-to-neurotypification/ : neurodiversity : neurotypification
 https://sluggerotoole.com/2018/05/06/you-get-less-holidays-than-a-medieval-peasant/ : holiday : medieval : peasants : sluggerotoole : work
 https://smallpondscience.com/2014/12/29/dead-grandmothers-no-more-the-equal-accommodation-classroom/ : blog : education
+https://smartech.gatech.edu/handle/1853/3739 : academia : georgia_tech : library : thesis
 https://smittenkitchen.com/2014/10/better-chocolate-babka/ : babka : chocolate : recipe : smitten_kitchen
 https://snap.stanford.edu/data/web-Amazon.html : data_sets
 https://snikolov.wordpress.com/2014/07/31/rhythmic-composition-as-a-self-avoiding-random-walk/amp/ : music : search : sound : space_filling
@@ -10801,6 +10813,7 @@ https://www.cl.cam.ac.uk/~nk480/ : coq : logic : neel_krishnaswami : people : pr
 https://www.cleveland.com/entertainment/index.ssf/2018/06/clevelands_culinary_world_chan.html : anthony_bourdain : cleveland : nikki_delamotte : restaurant
 https://www.cleveland.com/opinion/index.ssf/2018/11/nikki_delamotte_1990-2018_a_jo.html : cleveland : journalist : murder : nikki_delamotte
 https://www.clickondetroit.com/news/national/seattle-man-who-stabbed-his-brother-to-death-with-4-foot-sword-thought-he-was-a-lizard-police-say : QAnon : brian_newlin : buckey_wolfe : click_on_detroit : detroit : fascism : insane : proud_boys : racism : seattle : sword
+https://www.clipsrules.net/ : CLIPS : expert_system : production_system : rule_engine : rules
 https://www.cmu.edu/cee/projects/PMbook/ : book : construction : project_management
 https://www.cnbc.com/2019/02/28/trumps-economic-policies-failed-to-deliver-promised-3percent-growth-in-2018.html : CNBC : barack_obama : economics : growth : john_harwood : trump
 https://www.cnet.com/news/apple-cant-protect-you-from-data-trackers-forever-no-one-can/ : ad_tech : alfred_ng : apple : cnet : data : futility : marketing : privacy : surveillance : tracker
@@ -11249,6 +11262,7 @@ https://www.ictj.org/resource-library?f%5B0%5D=issues%3A63&f%5B1%5D=publication_
 https://www.idlethumbs.net/designernotes/episodes/sid-meier-part-1 : designer_notes : sid_meier
 https://www.idlethumbs.net/tonecontrol : game_development : interview : podcast
 https://www.idrlabs.com/autism-spectrum/test.php : autism
+https://www.ietf.org/rfc/rfc2119.txt : deontic : standards
 https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_696146/lang--en/index.htm : ilo : international_labour_organization : labour : report : work
 https://www.imagetotext.info/ : image_to_text
 https://www.imperial-library.info/content/game-data  : archive : data : elder_scrolls : nlp
@@ -11337,6 +11351,7 @@ https://www.josephkirwin.com/2017/11/16/constraint-solver-tips/ : best_practices
 https://www.journaldev.com/23365/python-string-to-datetime-strptime : dates : datetime : libraries : python : time : tutorial
 https://www.journalofdemocracy.org/article/liberation-turmoil-social-media-and-democracy : democracy : journal : philosophy : social_media
 https://www.jsonline.com/story/news/local/milwaukee/2018/04/27/no-charges-against-west-milwaukee-officers-death-mentally-ill-man-hit-18-times-taser/552071002/ : milwaukee : police_violence
+https://www.jsonrpc.org/specification : jsonrpc : rpc : standard
 https://www.jstor.org/journal/sciefictstud : academia : jstor : science_fiction
 https://www.jstor.org/stable/10.7591/j.ctt21h4w2k?turn_away=true&Search=yes&resultItemClick=true&searchText=women&searchText=fitness&searchUri=%2Faction%2FdoBasicSearch%3FsearchType%3DfacetSearch%26amp%3Bsd%3D%26amp%3Bdisc_history-discipline_facet%3DaGlzdG9yeS1kaXNjaXBsaW5l%26amp%3BQuery%3Dwomen%2Bfitness%2B%26amp%3Bed%3D&ab_segments=0%2Fdefault-2%2Fcontrol&seq=1#metadata_info_tab_contents : __come_back_to : american_labyrinth : history : jstor
 https://www.jstor.org/stable/40489013#page_scan_tab_contents : article : conservation : green_new_deal : habitat : jstor : wildlife
@@ -11568,6 +11583,7 @@ https://www.nber.org/papers/w24003 : standard_errors : statistics
 https://www.nber.org/papers/w24303 : cash_transfer : economics : generational_wealth : mexico
 https://www.nber.org/papers/w24819 : black_youth : drug_war : economics
 https://www.nber.org/papers/w25863?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg6 : abortion : economics : research
+https://www.ncameron.org/blog/how-the-rls-works/ : __come_back_to : blog : language_server_protocol : lsp : rust
 https://www.ncbi.nlm.nih.gov/m/pubmed/11639423/ : anthropology : research : social_theory : topology
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1963310/ : dentistry : extraction : molars : public_health : research : wisdom_teeth
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2190741/ : fertility : genetics : ncbi : sexual_development : transgender
@@ -11938,6 +11954,7 @@ https://www.phillymag.com/news/2018/04/14/philadelphia-starbucks-arrest-video/?a
 https://www.phoenixnewtimes.com/news/phoenix-shoplifting-video-brutality-family-files-claim-11312081 : arizona : meg_oconnor : phoenix : phoenix_new_times : police_violence
 https://www.phylosoft.org/archaeopteryx/ : archaeopteryx : phylogenetic_trees : visualisation
 https://www.pinknews.co.uk/2021/02/15/britain-transphobia-uk-transphobic-history-gender-recognition-act-what-the-trans/ : UK : journalism : transphobia
+https://www.plagiarism.org/article/citation-styles : academia : citation_style : plagiarism
 https://www.plannedparenthood.org/learn/sexual-orientation-gender/gender-gender-identity/whats-intersex : intersex : planned_parenthood
 https://www.playnightingale.com/post/realm-cards-endless-adventures-across-the-fae-realms : game_design : nightinggale : rpg
 https://www.ploggingdev.com/2017/01/multiprocessing-and-multithreading-in-python-3/ : multi_processing : multi_threading : programming : python : thread : tutorial
@@ -12131,6 +12148,7 @@ https://www.researchgate.net/publication/265400819_Phenomenology_and_First-Order
 https://www.researchgate.net/publication/315970957_Social_Identity_Shapes_Social_Valuation_Evidence_from_Prosocial_Behavior_and_Vicarious_Reward : pdf : research : social_identity : social_norms : value
 https://www.researchgate.net/publication/323385171_Gaslighting_in_the_context_of_clinical_interactions_with_parents_of_transgender_children : gaslighting : health_care : transgender
 https://www.resetera.com/threads/religious-gamers-what-is-your-feeling-about-praying-to-deities-in-games.121708/ : forum : games : praying : religion : resetera
+https://www.resumebuilder.com/1-in-4-hiring-managers-say-they-are-less-likely-to-move-forward-with-jewish-applicants/ : HR : antisemitism : hiring
 https://www.reuters.com/article/us-afghanistan-attack-drones/u-s-drone-strike-kills-30-pine-nut-farm-workers-in-afghanistan-idUSKBN1W40NW : USA : US_military : afghanistan : civilian_casualties : drone : reuters : trump
 https://www.reuters.com/article/us-elsalvador-massacre/salvadoran-general-admits-army-carried-out-infamous-1981-massacre-idUSKBN1ZN2MJ : 1981 : civil_war : el_mozote_massacre : el_salvador : elliot_abrams : elliott_abrams : history : juan_rafael_bustillo : massacre : reuters
 https://www.reuters.com/article/us-israel-palestinians-protests-shooting-idUSKBN1HY205 : gaza : israel : palestine : reuters : war : warfare
@@ -12370,6 +12388,7 @@ https://www.scientificamerican.com/article/tetris-dreams/ : dreaming : neuro_sci
 https://www.scipy.org/ : libraries : python : scipy : statistics
 https://www.scotusblog.com/ : USA : scotusblog : supreme_court
 https://www.scpr.org/news/2016/05/02/60085/hundreds-of-la-bus-shelters-go-unbuilt-millions-in/ : LA : SCPR : bus_shelters : graft : shade : urban_design
+https://www.scribbr.com/citing-sources/citation-styles/ : citation_style : reference : scribbr
 https://www.seas.upenn.edu/~cis194/spring13/lectures.html : functional_programming : tutorial
 https://www.securityconference.de/en/publications/munich-security-report/ : foreign_policy : germany : international_security : munich : security
 https://www.sefaria.org/sheets/242996?lang=bi  : abortion : judaism : sefaria
@@ -12381,6 +12400,7 @@ https://www.sfchronicle.com/nation/article/More-than-14-000-immigrant-children-a
 https://www.shacknews.com/article/103473/beneath-a-starless-sky-pillars-of-eternity-and-the-infinity-engine-era-of-rpgs : RPG : __important : game : game_development : infinity_engine : long_read : pillars_of_eternity : shacknews
 https://www.shacknews.com/article/114982/world-on-fire-the-oral-history-of-fallout-and-fallout-2 : fallout : game_development : games : oral_history : shacknews
 https://www.shadertoy.com/ : c_plus_plus : graphics : programming : shader
+https://www.sherryturkle.com/life-on-the-screen : people : research : sherry_turkle
 https://www.shopify.ca/partners/shopify-cheat-sheet : jekyll : liquid : reference : web_design
 https://www.si.com/vault/issue/704435/11 : atheletes : athletes : body_types : diversity : leading_off : olympics : sports_illustrated : women
 https://www.sickchirpse.com/bristol-council-banning-cheese-toasties-order-stop-formation-motorbike-gangs/ : 2019 : bristol : cheese : insane : motorbike_gangs : questionable : sickchirpse : suspect : tim_brap : toasties

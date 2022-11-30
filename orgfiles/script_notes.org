@@ -7,6 +7,9 @@
 *** ADB
 Tablet will periodically de-authorize adb,
 so re-pair with `adb pair`
+*** GDB
+https://www.sourceware.org/gdb/
+
 *** Awk
 #+begin_src bash
 # Getting subgroups
@@ -571,7 +574,7 @@ https://doc.rust-lang.org/cargo/
 https://rust-lang.github.io/rustup/
 
 #+begin_src bash
-rustup component add rustfmt-preview
+rustup component add rustfmt-preview rustfix clippy rust-analyzer rust-gdb
 #+end_src
 
 *** Compiling Aseprite from source              :asprite:
