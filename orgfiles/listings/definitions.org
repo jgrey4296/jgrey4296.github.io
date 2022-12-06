@@ -1282,7 +1282,6 @@ Indian  -
 ***** Surrealism
 ***** Brutalism
 ***** Pop Art
-******
 
 *** Turns
 adaptive_turn       -
@@ -1307,6 +1306,16 @@ Rhizome                       -
 Structuralism                 -
 Post-Structuralism            -
 Diaspora                      -
+
+:from_quote:
+Ontology is the study of beings or their being - what is.
+Epistemology is the study of knowledge - how we know.
+Logic is the study of valid reasoning - how to reason.
+Ethics is the study of right and wrong - how we should act.
+Phenomenology is the study of our experience - how we experience.
+:END:
+
+
 *** Ontology
 *** Sociology
 double hermeneutic      - relationship between lay and social science interpretation of the world.
