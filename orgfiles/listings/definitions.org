@@ -1420,5 +1420,9 @@ Of John Haugeland, described by Brian Cantwell Smith in "The Promise of Artifici
 3) Perception is lower level than thought.
 4) The ontology of the world is formal, discrete well-defined objects.
 
+** Computer Science
+*** Args vs Params
+args   : expected
+params : actual
 
 * Links

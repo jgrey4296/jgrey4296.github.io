@@ -109,7 +109,6 @@ pdftk * cat output diagrams.pdf
 #+end_src
 
 *** Latex
-
 **** tlmgr
 
 :outdated_l3_layer:
@@ -117,7 +116,6 @@ https://tex.stackexchange.com/questions/586467/
 
 sudo fmtutil-sys --all
 :END:
-
 
 **** texdoc
 https://tex.stackexchange.com/questions/297004/
@@ -567,6 +565,7 @@ xsdata samples/order.xsd --output plantuml --package uml_gen
 
 **** xmllint
 
+
 ** Build Systems
 *** Cargo                                       :rust:
 https://doc.rust-lang.org/cargo/
@@ -626,6 +625,9 @@ https://rebar3.org/docs/
 https://guides.rubygems.org/
 *** Scons                                       :python:
 https://scons.org/doc/production/HTML/scons-user.html
+
+*** Grunt
+https://gruntjs.com/getting-started
 
 ** Text
 *** Github Pages / Jekyll                       :web:

@@ -13,3 +13,5 @@ fix
 config
 feature
 ignore
+increment
+update
