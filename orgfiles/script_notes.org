@@ -122,6 +122,7 @@ https://tex.stackexchange.com/questions/297004/
 tlmgr option docfiles 1
 tlmgr install --reinstall $(tlmgr list --only-installed | sed -E 's/i (.*):.*$/\1/')
 
+*** Mail
 **** mbsync and mu
 
 #+NAME: mu init
