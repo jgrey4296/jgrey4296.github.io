@@ -566,6 +566,18 @@ xsdata samples/order.xsd --output plantuml --package uml_gen
 
 **** xmllint
 
+*** Tesseract
+https://tesseract-ocr.github.io/tessdoc/Command-Line-Usage.html
+
+*** ffmpeg
+#+begin_bash options
+ffmpeg -i input.wav -vn -ar 44100 -ac 2 -b:a 192k output.mp3
+#+end_bash
+-i : set input
+-vn : no video
+-ar : audio rate
+-ac : audio channels
+-b:a : bitrate
 
 ** Build Systems
 *** Cargo                                       :rust:
@@ -731,6 +743,11 @@ Standalone tools:
 --gdnative-generate-json-api     Generate JSON dump of the Godot API for GDNative bindings.
 --test <test>                    Run a unit test ('string', 'math', 'basis', 'transform', 'physics', 'physics_2d', 'render', 'oa_hash_map', 'gui', 'shaderlang', 'gd_tokenizer', 'gd_parser', 'gd_compiler', 'gd_bytecode', 'ordered_hash_map', 'astar', 'xml_parser').
 :END:
+
+** Databases
+*** Postgresql
+https://stackoverflow.com/questions/6148421/
+
 
 * Links
 [[https://www.futureboy.us/pgp.html][GPG General Howto]]
