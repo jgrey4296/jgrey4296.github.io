@@ -1,0 +1,8 @@
+[project]
+name = "writing"
+
+##-- doit
+[tool.doit]
+verbosity = 2
+build_dir = "."
+
