@@ -7,6 +7,9 @@
 *** ADB
 Tablet will periodically de-authorize adb,
 so re-pair with `adb pair`
+*** Exiftool
+https://exiftool.org/
+
 *** GDB
 https://www.sourceware.org/gdb/
 
