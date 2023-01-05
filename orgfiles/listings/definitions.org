@@ -798,6 +798,11 @@ NP -
 PSpace -
 ExpTime -
 
+** Computer Science
+*** Args vs Params
+args   : expected
+params : actual
+
 ** Misc
 Marxism                        - critique of capitalism, and understanding economic activity through class struggle
 dialectic                      - discourse between opposing points of view (people) to arrive at the truth
@@ -818,6 +823,7 @@ ontological priors             -
 sociological realism           -
 technological determinism      -
 cognito-hazard -
+historical inferentialism -
 :Condorcet_paradox:
 https://artint.info/2e/html/ArtInt2e.Ch11.S5.html
 
@@ -1419,10 +1425,5 @@ Of John Haugeland, described by Brian Cantwell Smith in "The Promise of Artifici
 2) Logical Inference is an ideal model of thought.
 3) Perception is lower level than thought.
 4) The ontology of the world is formal, discrete well-defined objects.
-
-** Computer Science
-*** Args vs Params
-args   : expected
-params : actual
 
 * Links

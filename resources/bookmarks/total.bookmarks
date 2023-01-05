@@ -6635,6 +6635,7 @@ https://dave.cheney.net/2017/11/30/never-edit-a-method-always-rewrite-it : editi
 https://davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/ : blog : github
 https://dazzlepod.com/uniqpass/ : assets
 https://dbader.org/blog/python-ctypes-tutorial-part-2 : ctypes : cython : python : tutorial
+https://dbgate.org/ : brew : databse : dbgate
 https://dblp.org/ : bibliography : computer_science : dplp : reference
 https://dblp.uni-trier.de/ : academia : bibliography : computer_sciece : library
 https://dblp.uni-trier.de/xml/ : bibliography : data_set : database : dblp : xml
@@ -7541,6 +7542,7 @@ https://git-scm.com/docs/gitignore : git : gitignore : reference
 https://github.blog/2021-12-09-introducing-stack-graphs/ : __come_back_to : blog : code_navigation : github : rewrite_rules : stack_graphs
 https://github.com/2020PB/police-brutality : dataset : george_floyd : github : police_violence : protest
 https://github.com/AI-Planning/classical-domains : ai : github : pddl : planning
+https://github.com/AlexDarigan/WAT : github : godot : testing
 https://github.com/AlexEne/CCrush-Bot : ai : bot : github
 https://github.com/AlexPof/colubridae : category_theory : github : python
 https://github.com/AlexPof/opycleid : github : python : transformational_music_theory
@@ -7679,6 +7681,7 @@ https://github.com/bbaltaxe/wfc-piano-roll : github : music : python : wave_func
 https://github.com/bbatsov/emacs-lisp-style-guide : best_practices : emacs : lisp
 https://github.com/benhutchison/GettingWorkDoneWithExtensibleEffects : extensible_effects : functional_programming : github
 https://github.com/bgolus/Normal-Mapping-for-a-Triplanar-Shader : ben_golus : geometry : github : libraries : math : procedural_content : programming : shader : unity
+https://github.com/bitwes/Gut : github : godot : testing
 https://github.com/bloom-lang/bud/blob/v0.0.3/docs/getstarted.md : ai : bud : programming
 https://github.com/bndr/pycycle : github : imports : programming : pycycle : python : software_engineering
 https://github.com/bot-ai/bot-lang : bots : datasets : github : keywords
@@ -7766,6 +7769,7 @@ https://github.com/fgregg/tax_extension/tree/master#code-for-calculation-tax-ext
 https://github.com/fluhus/wordnet-to-json : NLP : github : json : python : word_net
 https://github.com/fogleman/dlaf : art : diffusion : dlaf : github : growth : michael_fogleman : procedural_content
 https://github.com/fonnesbeck/statistical-analysis-python-tutorial : github : python : statistics : tutorial
+https://github.com/fphilipe/psql2csv : csv : github : postgresql : psql
 https://github.com/francogarcia/company-godot-gdscript.el : company : emacs : github : godot
 https://github.com/francogarcia/yasnippet-godot-gdscript : github : godot : yasnippet
 https://github.com/fred-o/inform7-mode : emacs : github : inform : lisp
@@ -8871,6 +8875,7 @@ https://medium.com/@Elijah_Meeks/d3-is-not-a-data-visualization-library-67ba549e
 https://medium.com/@Francesco_AI/ai-knowledge-map-how-to-classify-ai-technologies-6c073b969020 : ai : artificial_intelligence : classification : francesco_corea : machine_learning : medium
 https://medium.com/@Francesco_AI/the-convergence-of-ai-and-blockchain-whats-the-deal-60c618e3accc : ai : blockchain : medium
 https://medium.com/@GrrlScientist/evolution-of-the-enigmatic-eclectus-parrot-grrlscientist-4d5813ba2512 : blog : eclectus : evolution : grrlscientist : medium : parrot
+https://medium.com/@JustAnotherRandomGuy/writing-tests-in-godot-a9a5ed279b2c : blog : godot : testing
 https://medium.com/@KondwaniFidel/how-a-young-boy-has-been-decaying-in-baltimore-since-age-10-a-death-note-98573c2e05cf : baltimore : child : kondwani_fidel : maryland : medium : politics : racism
 https://medium.com/@KonstantinosD/game-cities-those-handy-simplified-urban-structures-79465631d61c : city : game : game_design : urban_design
 https://medium.com/@LiterallyAKing/vintage-windows-guis-in-everything-is-going-to-be-ok-20b38b11bb4f : GUI : game : history : medium : windows
@@ -9212,6 +9217,7 @@ https://nickdesaulniers.github.io/blog/2016/11/20/static-and-dynamic-libraries/ 
 https://nickeldoodle.bigcartel.com/product/major-cat-arcana-deck : cats : nickeldoodle : tarot
 https://nickporcino.com/posts/last_mile_interchange.html : 3d : file_formats : last_mile : technical
 https://nicoleorchard.com/blog/compilers : clang : compiler : language : llvm
+https://nightblade9.github.io/godot-gamedev/2019/getting-started-with-unit-and-integration-testing-in-godot.html : blog : godot : testing
 https://niskanencenter.org/blog/black-liberty-matters/ : black_lives_matter : history : politics : racism
 https://niskanencenter.org/blog/libertarian-democracy-skepticism-infected-american-right/ : conservative : libertarian : politics : skepticism
 https://nlp.stanford.edu/projects/glove/ : NLP : deep_learning : glove : stanford
@@ -12073,6 +12079,8 @@ https://www.portsmouth.co.uk/news/politics/disabled-southsea-woman-left-to-die-a
 https://www.post-gazette.com/opinion/Op-Ed/2019/09/05/Vicki-Schieber-Pennsylvania-death-penalty-doesnt-serve-victims-like-me/stories/201909050024 : death_penalty : justice : pennsylvania : pittsburgh : post_gazette : vicki_schieber
 https://www.postandcourier.com/news/he-defended-the-confederate-flag-and-insulted-immigrants-now-he/article_fccd2722-1144-11ea-bf17-dbfc08c2afcb.html : joseph_cranney : judiciary : post_and_courier : racism : south_carolina : trans_phobia : trump
 https://www.postandcourier.com/news/these-sc-judges-can-have-less-training-than-barbers-but/article_deeac12e-eb6f-11e9-927b-5735a3edbaf1.html : joseph_cranney : judiciary : law : post_and_courier : south_carolina : training
+https://www.postgresql.org/docs/current/plpython.html : postgresql : python
+https://www.postgresql.org/docs/current/rules.html : postgresql : rules
 https://www.povertyactionlab.org/handbook-field-experiments : field_experiments : methods : research
 https://www.poynter.org/tech-tools/2016/ad-tech-is-broken-heres-how-newsrooms-can-fix-it/ : ad_tech : fraud : marketing : melody_kramer : news : online_advertising : poynter
 https://www.ppig.org/papers/ : PPIG : academia : conference : programming : psychology
@@ -13387,6 +13395,7 @@ https://www.trialbytech.org/2018/11/12/are-artificially-intelligent-digital-assi
 https://www.trunkclub.com/ : clothing : shopping
 https://www.truthorfiction.com/how-to-fight-disinformation-part-i-firehosing/ : brooke_binkowski : disinformation : education : pedagogy
 https://www.tug.org/texlive/doc/tlmgr.html : command_line : documentation : latex : reference : texlive : tlmgr
+https://www.tunefind.com/ : music : tunefind : tv
 https://www.tvguide.com/news/angel-anniversary-cordelia-chase/ : buffy : feminism : joss_whedon : tv_guide
 https://www.txcourts.gov/supreme/orders-opinions/2021/february/february-12-2021.aspx : judiciary : law : supreme_court : texas
 https://www.typemock.com/deadly-sins-of-unit-testing/ : best_practices : software_development : unit_testing
