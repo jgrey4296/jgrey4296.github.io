@@ -25,6 +25,7 @@ awk 'length < 10 {print $0}'
 gawk -i inplace '/if __name__ / {print "##-- ifmain" } {print $0} ENDFILE {print "##-- end ifmain"}'
 #+end_src awk
 *** Bash
+https://github.com/bahamas10/bash-style-guide
 [[https://stackoverflow.com/questions/5917576/][line length sorting]]
 
 #+begin_src bash
@@ -573,7 +574,10 @@ xsdata samples/order.xsd --output plantuml --package uml_gen
 https://tesseract-ocr.github.io/tessdoc/Command-Line-Usage.html
 
 *** ffmpeg
-#+begin_bash options
+https://ffmpeg.org/
+
+#+begin_bash
+# convert wav to mp3:
 ffmpeg -i input.wav -vn -ar 44100 -ac 2 -b:a 192k output.mp3
 #+end_bash
 -i : set input
@@ -581,6 +585,35 @@ ffmpeg -i input.wav -vn -ar 44100 -ac 2 -b:a 192k output.mp3
 -ar : audio rate
 -ac : audio channels
 -b:a : bitrate
+
+from https://superuser.com/questions/384073
+#+begin_bash
+# ffmpeg -i <INPUT FILE> -ss 10 -f image2 -r 25 <OUTPUT FILE>
+#+end_bash
+-i <INPUT FILE> Specifies the input file. E.g. movie.mp4.
+-ss <TIME> Specifies time position in seconds. "hh:mm:ss[.xxx]" is also supported.
+-f image2 Force/Set format.
+-r 25 Set frame rate (in Hz. Can either be a fraction or a number, default = 25).
+<OUTPUT FILE> Set output file. E.g. image1.jpg.
+
+https://stackoverflow.com/questions/10957412
+
+*** imagemagick
+https://imagemagick.org/script/command-line-tools.php
+#+begin_bash options
+magick animate   :: animate images when in x11
+magick compare   :: differences between images
+magick composite :: overlap images
+magick conjure   :: scripting language interpreter
+magick convert   :: between different formats
+magick display   :: display image when in x11
+magick identify  :: get format data
+magick import    :: screenshot x11
+magick mogrify   :: destructively modify
+magick montage   :: combine without overlapping
+magick stream    :: pixels at a time
+
+#+end_bash
 
 ** Build Systems
 *** Cargo                                       :rust:
