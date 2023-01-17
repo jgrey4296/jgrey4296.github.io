@@ -4,11 +4,10 @@
 
 * Main
 ** CLI
+
 *** ADB
 Tablet will periodically de-authorize adb,
 so re-pair with `adb pair`
-*** Exiftool
-https://exiftool.org/
 
 *** GDB
 https://www.sourceware.org/gdb/
@@ -24,6 +23,7 @@ awk 'length < 10 {print $0}'
 # in place editing and printing at end of file
 gawk -i inplace '/if __name__ / {print "##-- ifmain" } {print $0} ENDFILE {print "##-- end ifmain"}'
 #+end_src awk
+
 *** Bash
 https://github.com/bahamas10/bash-style-guide
 [[https://stackoverflow.com/questions/5917576/][line length sorting]]
@@ -31,6 +31,7 @@ https://github.com/bahamas10/bash-style-guide
 #+begin_src bash
 cat testfile | awk '{ print length, $0 }' | sort -n | cut -d" " -f2-
 #+end_src
+
 *** File encoding
 file -I {}
 iconv -f {enc} -t {enc} {} > conv-{}
@@ -43,6 +44,7 @@ find ? -type f -a -not -name "DS_Store" -print -o -type d -name ".git" -prune
 
 *** GPG Notes (v 2.2.11)
 **** *Short IDs*: Last 8 digits of fingerprint
+
 **** Basic Protocol
    Create Key
    Create Revocation Cert
@@ -67,33 +69,44 @@ find ? -type f -a -not -name "DS_Store" -print -o -type d -name ".git" -prune
 **** List keys
    gpg -k
    gpg --list-sigs
+
 **** Importing a key:
    Works for secret and public keys
    gpg --import [filename]
+
 **** Generating a key
    gpg --gen-key
    gpg --gen-revoke --armor --output=RevocationCertificate.asc [email]
+
 **** Deleting a key:
    gpg --delete-secret-keys
    gpg --delete-keys
+
 **** Get a fingerprint
    Fingerprints give a shorter to verify hash of public keys
    gpg --fingerprint [email]
+
 **** Sign a key
    gpg --sign-key [email]
    or
    gpg --interactive --edit-key [email]
+
 **** Export keys
    gpg --armor --export[-secret-keys] [-o file] [-a ID | email]
+
 **** Encrypt
    *Don't forget to add yourself to the recipients*
    gpg [-o output] --sign --armor [-r recipient] [-e file]
+
 **** Decrypt
    gpg  -o output -d file
+
 **** Sign a plaintext message
    gpg --clearsign file
+
 **** Verify a signature
    gpg --verify file
+
 **** Using Stronger Encryption
    gpg --interactive --edit-key [email]
    Then 'showpref' will show algorithm preferences
@@ -103,29 +116,6 @@ find ? -type f -a -not -name "DS_Store" -print -o -type d -name ".git" -prune
 
    then 'save'
 
-*** Image Pdf calls
-#+NAME: image to pdf generation
-#+begin_src bash :results value
-convert ? -alpha off ./temp/`?`
-mogrify -orient bottom-left ?
-img2pdf --output `?`.pdf --pagesize A4 --auto-orient ?
-pdftk * cat output diagrams.pdf
-#+end_src
-
-*** Latex
-**** tlmgr
-
-:outdated_l3_layer:
-https://tex.stackexchange.com/questions/586467/
-
-sudo fmtutil-sys --all
-:END:
-
-**** texdoc
-https://tex.stackexchange.com/questions/297004/
-tlmgr option docfiles 1
-tlmgr install --reinstall $(tlmgr list --only-installed | sed -E 's/i (.*):.*$/\1/')
-
 *** Mail
 **** mbsync and mu
 
@@ -133,43 +123,6 @@ tlmgr install --reinstall $(tlmgr list --only-installed | sed -E 's/i (.*):.*$/\
 #+begin_src bash :results output
 mu init --maildir ~/.mail --my-address {address}
 mu index
-#+end_src
-
-*** Markdown html export
-Add a local file to `markdown-css-paths`,
-can use npm package `generate-github-markdown-css` as a start
-
-*** Pandoc
-#+NAME: text to pdf generation
-#+begin_src bash :results value
-pandoc ? -o output.pdf
-#+end_src
-
-*** Pdf Metadata
-#+begin_src bash
-exiftool file.pdf
-
-# or:
-pdftk file.pdf dump_data_utf8 > file.info
-# edit
-pdftk file.pdf update_info_utf8 file.info output file2.pdf
-#+end_src
-
-# From https://askubuntu.com/questions/1264322
-#+begin_src bash
-# For Creating Bookmarks/TOC in pdfs:
-# BookmarkBegin
-# BookmarkTitle:
-# BookmarkLevel: 1
-# BookmarkPageNumber:
-pdftk ? dump_data > info.txt
-# -- Add bookmarks
-pdftk ? update_info info.txt output updated.pdf
-#+end_src
-
-*** pdftotext
-#+begin_src bash :results output
-pdftotext [options] <PDF-file> [<text-file>]
 #+end_src
 
 *** Sed
@@ -188,57 +141,6 @@ https://www.networkinghowtos.com/howto/common-user-agent-list/
 
 wget --user-agent="Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"
 wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0"
-
-*** Wordnet
-`wn`
-
-#+begin_src bash
-# For Nouns
--hypen		Hypernyms
--hypon, -treen	Hyponyms & Hyponym Tree
--synsn		Synonyms (ordered by estimated frequency)
--derin		Derived Forms
--famln		Familiarity & Polysemy Count
--coorn		Coordinate Terms (sisters)
--grepn		List of Compound Words
--over		Overview of Senses
-#+end_src
-
-#+begin_src bash
-# For verbs
--hypev		Hypernyms
--hypov, -treev	Hyponyms & Hyponym Tree
--synsv		Synonyms (ordered by estimated frequency)
--deriv		Derived Forms
--famlv		Familiarity & Polysemy Count
--framv		Verb Frames
--coorv		Coordinate Terms (sisters)
--simsv		Synonyms (grouped by similarity of meaning)
--grepv		List of Compound Words
--over		Overview of Senses
-#+end_src
-
-#+begin_src bash
-# Adjectives
--antsa		Antonyms
--synsa		Synonyms (ordered by estimated frequency)
--attra		Attributes
--deria		Derived Forms
--domna		Domain
--famla		Familiarity & Polysemy Count
--grepa		List of Compound Words
--over		Overview of Senses
-#+end_src
-
-#+begin_src bash
-# Adverbs
--antsr		Antonyms
--synsr		Synonyms (ordered by estimated frequency)
--pertr		Pertainyms
--famlr		Familiarity & Polysemy Count
--grepr		List of Compound Words
--over		Overview of Senses
-#+end_src
 
 *** XML
 **** XPath                                      :query_language:
@@ -279,7 +181,6 @@ preceding
 preceding-sibling
 self / .
 
-
 #+end_src
 
 **** [[https://www.videlibri.de/xidel.html][xidel]] :cli:query:
@@ -287,6 +188,7 @@ self / .
 # Extracts between table and footer
 xidel -s --output-format=xml --xpath "//table/following-sibling::*[//*[@id='printfooter']/preceding::node()]" `?`
 #+end_src
+
 **** [[http://xmlstar.sourceforge.net/][XML Starlet]]
 #+NAME: commands
 #+begin_src bash :results output
@@ -540,7 +442,6 @@ XML documents (for more information see http://xmlstar.sourceforge.net/)
 feed strings in
 :END:
 
-
 ***** examples
 #+begin_src bash
 # query, -I(indenting output), -t(template:) -f(file name) -n(new line) -m(match xpath) //Trait -c(copy xpath) . -n -b(break nesting) file
@@ -570,54 +471,10 @@ xsdata samples/order.xsd --output plantuml --package uml_gen
 
 **** xmllint
 
-*** Tesseract
-https://tesseract-ocr.github.io/tessdoc/Command-Line-Usage.html
-
-*** ffmpeg
-https://ffmpeg.org/
-
-#+begin_bash
-# convert wav to mp3:
-ffmpeg -i input.wav -vn -ar 44100 -ac 2 -b:a 192k output.mp3
-#+end_bash
--i : set input
--vn : no video
--ar : audio rate
--ac : audio channels
--b:a : bitrate
-
-from https://superuser.com/questions/384073
-#+begin_bash
-# ffmpeg -i <INPUT FILE> -ss 10 -f image2 -r 25 <OUTPUT FILE>
-#+end_bash
--i <INPUT FILE> Specifies the input file. E.g. movie.mp4.
--ss <TIME> Specifies time position in seconds. "hh:mm:ss[.xxx]" is also supported.
--f image2 Force/Set format.
--r 25 Set frame rate (in Hz. Can either be a fraction or a number, default = 25).
-<OUTPUT FILE> Set output file. E.g. image1.jpg.
-
-https://stackoverflow.com/questions/10957412
-
-*** imagemagick
-https://imagemagick.org/script/command-line-tools.php
-#+begin_bash options
-magick animate   :: animate images when in x11
-magick compare   :: differences between images
-magick composite :: overlap images
-magick conjure   :: scripting language interpreter
-magick convert   :: between different formats
-magick display   :: display image when in x11
-magick identify  :: get format data
-magick import    :: screenshot x11
-magick mogrify   :: destructively modify
-magick montage   :: combine without overlapping
-magick stream    :: pixels at a time
-
-#+end_bash
-
 ** Build Systems
 *** Cargo                                       :rust:
 https://doc.rust-lang.org/cargo/
+
 *** rustup                                      :rust:
 https://rust-lang.github.io/rustup/
 
@@ -634,6 +491,7 @@ rustup component add rustfmt-preview rustfix clippy rust-analyzer rust-gdb
 
 *** Conda                                       :python:
 https://conda.io/projects/conda/en/latest/user-guide/index.html
+
 *** Doom                                        :emacs:
 https://github.com/doomemacs/doomemacs/blob/master/docs/index.org
 
@@ -649,7 +507,6 @@ https://github.com/radian-software/straight.el#the-recipe-format
 ;; Specify a local repo
 (package! a-package :recipe (:local-repo "~/.doom.d/packages/a-package"))
 
-
 #+end_src
 
 *** Gradle                                      :java:
@@ -658,20 +515,26 @@ https://docs.gradle.org/current/userguide/userguide.html
 *** Homebrew                                    :shell:
 https://brew.sh/
 https://docs.brew.sh/
+
 *** Make                                        :cli:
 https://www.gnu.org/software/make/manual/make.html
 https://www.gnu.org/software/automake/manual/automake.html#Autotools-Introduction
+
 *** Mix                                         :elixir:
 https://hexdocs.pm/mix/Mix.html
+
 *** Pip                                         :python:
 https://pip.pypa.io/en/stable/
+
 *** Poetry                                      :python:
 https://python-poetry.org/docs/master/
+
 *** Rebar                                       :erlang:
 https://rebar3.org/docs/
 
 *** RubyGems                                    :ruby:
 https://guides.rubygems.org/
+
 *** Scons                                       :python:
 https://scons.org/doc/production/HTML/scons-user.html
 
@@ -679,16 +542,92 @@ https://scons.org/doc/production/HTML/scons-user.html
 https://gruntjs.com/getting-started
 
 ** Text
+*** Wordnet
+    `wn`
+
+    #+begin_src bash
+    # For Nouns
+    -hypen		Hypernyms
+    -hypon, -treen	Hyponyms & Hyponym Tree
+    -synsn		Synonyms (ordered by estimated frequency)
+    -derin		Derived Forms
+    -famln		Familiarity & Polysemy Count
+    -coorn		Coordinate Terms (sisters)
+    -grepn		List of Compound Words
+    -over		Overview of Senses
+    #+end_src
+
+    #+begin_src bash
+    # For verbs
+    -hypev		Hypernyms
+    -hypov, -treev	Hyponyms & Hyponym Tree
+    -synsv		Synonyms (ordered by estimated frequency)
+    -deriv		Derived Forms
+    -famlv		Familiarity & Polysemy Count
+    -framv		Verb Frames
+    -coorv		Coordinate Terms (sisters)
+    -simsv		Synonyms (grouped by similarity of meaning)
+    -grepv		List of Compound Words
+    -over		Overview of Senses
+    #+end_src
+
+    #+begin_src bash
+    # Adjectives
+    -antsa		Antonyms
+    -synsa		Synonyms (ordered by estimated frequency)
+    -attra		Attributes
+    -deria		Derived Forms
+    -domna		Domain
+    -famla		Familiarity & Polysemy Count
+    -grepa		List of Compound Words
+    -over		Overview of Senses
+    #+end_src
+
+    #+begin_src bash
+    # Adverbs
+    -antsr		Antonyms
+    -synsr		Synonyms (ordered by estimated frequency)
+    -pertr		Pertainyms
+    -famlr		Familiarity & Polysemy Count
+    -grepr		List of Compound Words
+    -over		Overview of Senses
+    #+end_src
+
 *** Github Pages / Jekyll                       :web:
 https://docs.github.com/en/pages
 https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
 https://jekyllrb.com/docs/
+
 *** Markdown
 https://help.github.com/articles/markdown-basics/
 
 *** RST / Sphinx
 https://www.sphinx-doc.org/en/master/contents.html
 https://restructuredtext.readthedocs.io/en/latest/
+
+*** Latex
+**** tlmgr
+
+:outdated_l3_layer:
+https://tex.stackexchange.com/questions/586467/
+
+sudo fmtutil-sys --all
+:END:
+
+**** texdoc
+https://tex.stackexchange.com/questions/297004/
+tlmgr option docfiles 1
+tlmgr install --reinstall $(tlmgr list --only-installed | sed -E 's/i (.*):.*$/\1/')
+
+*** Pandoc
+#+NAME: text to pdf generation
+#+begin_src bash :results value
+pandoc ? -o output.pdf
+#+end_src
+
+*** Markdown html export
+Add a local file to `markdown-css-paths`,
+can use npm package `generate-github-markdown-css` as a start
 
 ** GUI Programs
 *** Firefox
@@ -783,9 +722,11 @@ Standalone tools:
 ** Databases
 *** Postgresql
 https://stackoverflow.com/questions/6148421/
+
 *** Sqlite 3
   [[https://www.tutorialspoint.com/sqlite/][Reference]]
   [[https://orgmode.org/worg/org-contrib/babel/languages/ob-doc-sqlite.html][ob-sqlite]]
+
 **** Sqlite Syntax
    SQLite is *case insensitive* apart from GLOB and glob.
    Statement end is ';'
@@ -927,6 +868,111 @@ https://stackoverflow.com/questions/6148421/
    .schema test
    #+end_src
 
+** Pdf and Images
+*** Exiftool
+https://exiftool.org/
+
+*** Image Pdf calls
+#+NAME: image to pdf generation
+#+begin_src bash :results value
+convert ? -alpha off ./temp/`?`
+mogrify -orient bottom-left ?
+img2pdf --output `?`.pdf --pagesize A4 --auto-orient ?
+pdftk * cat output diagrams.pdf
+#+end_src
+
+*** pdftotext
+#+begin_src bash :results output
+pdftotext [options] <PDF-file> [<text-file>]
+#+end_src
+
+*** Pdf Metadata
+#+begin_src bash
+exiftool file.pdf
+
+# or:
+pdftk file.pdf dump_data_utf8 > file.info
+# edit
+pdftk file.pdf update_info_utf8 file.info output file2.pdf
+#+end_src
+
+# From https://askubuntu.com/questions/1264322
+#+begin_src bash
+# For Creating Bookmarks/TOC in pdfs:
+# BookmarkBegin
+# BookmarkTitle:
+# BookmarkLevel: 1
+# BookmarkPageNumber:
+pdftk ? dump_data > info.txt
+# -- Add bookmarks
+pdftk ? update_info info.txt output updated.pdf
+#+end_src
+
+*** Tesseract
+https://tesseract-ocr.github.io/tessdoc/Command-Line-Usage.html
+
+*** ffmpeg
+https://ffmpeg.org/
+
+#+begin_bash
+# convert wav to mp3:
+ffmpeg -i input.wav -vn -ar 44100 -ac 2 -b:a 192k output.mp3
+#+end_bash
+-i : set input
+-vn : no video
+-ar : audio rate
+-ac : audio channels
+-b:a : bitrate
+
+from https://superuser.com/questions/384073
+#+begin_bash
+# ffmpeg -i <INPUT FILE> -ss 10 -f image2 -r 25 <OUTPUT FILE>
+#+end_bash
+-i <INPUT FILE> Specifies the input file. E.g. movie.mp4.
+-ss <TIME> Specifies time position in seconds. "hh:mm:ss[.xxx]" is also supported.
+-f image2 Force/Set format.
+-r 25 Set frame rate (in Hz. Can either be a fraction or a number, default = 25).
+<OUTPUT FILE> Set output file. E.g. image1.jpg.
+
+https://stackoverflow.com/questions/10957412
+
+*** imagemagick
+https://imagemagick.org/script/command-line-tools.php
+#+begin_bash options
+magick animate   :: animate images when in x11
+magick compare   :: differences between images
+magick composite :: overlap images
+magick conjure   :: scripting language interpreter
+magick convert   :: between different formats
+magick display   :: display image when in x11
+magick identify  :: get format data
+magick import    :: screenshot x11
+magick mogrify   :: destructively modify
+magick montage   :: combine without overlapping
+magick stream    :: pixels at a time
+
+#+end_bash
+
+*** pdfimages
+
+pdfimages version 4.04 [www.xpdfreader.com]
+Copyright 1996-2022 Glyph & Cog, LLC
+Usage: pdfimages [options] <PDF-file> <image-root>
+  -f <int>         : first page to convert
+  -l <int>         : last page to convert
+  -j               : write JPEG images as JPEG files
+  -raw             : write raw data in PDF-native formats
+  -list            : write information to stdout for each image
+  -opw <string>    : owner password (for encrypted files)
+  -upw <string>    : user password (for encrypted files)
+  -verbose         : print per-page status information
+  -q               : don't print any messages or errors
+  -cfg <string>    : configuration file to use in place of .xpdfrc
+  -v               : print copyright and version info
+  -h               : print usage information
+  -help            : print usage information
+  --help           : print usage information
+  -?               : print usage information
 
 * Links
 [[https://www.futureboy.us/pgp.html][GPG General Howto]]

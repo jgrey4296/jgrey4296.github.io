@@ -800,8 +800,8 @@ ExpTime -
 
 ** Computer Science
 *** Args vs Params
-args   : expected
-params : actual
+params : expected, formal definition
+args   : actual
 
 ** Misc
 Marxism                        - critique of capitalism, and understanding economic activity through class struggle
