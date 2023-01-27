@@ -3,9 +3,21 @@ verbosity               = 2
 [tool.doot]
 
 [tool.doot.directories]
-src     = "."
-# codegen = "_codegen"
-temp    = ".temp"
-build   = "build"
-docs    = "."
-data    = "resources"
+temp           = ".temp"
+build          = "build"
+docs           = "orgfiles"
+data           = "resources"
+bibtex_library = "resources/bibliography"
+bookmarks      = "resources/bookmarks"
+completions    = "resources/completions"
+tags           = "resources/tags"
+urls           = "resources/urls"
+
+downloads      = "~/Downloads"
+desktop        = "~/Desktop"
+dropbox        = "~/Dropbox/docs"
+firefox        = "~/Library/ApplicationSupport/Firefox"
+bibtex_working = "/Volumes/documents/in_progress_pdfs/Current/"
+
+[tool.doot.files]
+bib_stub_file  = "resources/todo.bib"

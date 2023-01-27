@@ -33,7 +33,6 @@ from bkmkorg.doot_tasks import bibtex
 
 if __name__ == "dooter":
     # the equivalent of main
-    bib_locs = doot.locs.extend(name="bibtex", src="resources/bibliography")
-    cleaner = bibtex.BibtexClean(dirs=bib_locs)
-    report = bibtex.BibtexReport(dirs=bib_locs)
-    pass
+    cleaner  = bibtex.BibtexClean(locs=doot.locs)
+    report   = bibtex.BibtexReport(locs=doot.locs)
+    stubber  = bibtex.BibtexStub(locs=doot.locs)
