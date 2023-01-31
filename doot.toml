@@ -3,11 +3,12 @@ verbosity               = 2
 [tool.doot]
 
 [tool.doot.directories]
-src = "."
+src            = "."
 temp           = ".temp"
 build          = "build"
 docs           = "orgfiles"
 data           = "resources"
+
 bibtex         = "resources/bibliography"
 bookmarks      = "resources/bookmarks"
 completions    = "resources/completions"
@@ -23,4 +24,5 @@ firefox        = "~/Library/ApplicationSupport/Firefox"
 bibtex_working = "/Volumes/documents/in_progress_pdfs/Current/"
 
 [tool.doot.files]
-bib_stub_file  = "resources/todo.bib"
+bib_stub_file   = "resources/todo.bib"
+bookmarks_total = "resources/bookmarks/total.bookmarks"
