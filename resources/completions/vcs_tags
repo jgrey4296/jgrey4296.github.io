@@ -23,3 +23,6 @@ groups
 duplicate
 mode
 templates
+python
+erlang
+toml

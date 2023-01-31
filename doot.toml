@@ -3,16 +3,19 @@ verbosity               = 2
 [tool.doot]
 
 [tool.doot.directories]
+src = "."
 temp           = ".temp"
 build          = "build"
 docs           = "orgfiles"
 data           = "resources"
-bibtex_library = "resources/bibliography"
+bibtex         = "resources/bibliography"
 bookmarks      = "resources/bookmarks"
 completions    = "resources/completions"
 tags           = "resources/tags"
 urls           = "resources/urls"
 
+pdfs           = "/Volumes/documents/pdflibrary"
+orgs           = "/Volumes/documents/twitterthreads"
 downloads      = "~/Downloads"
 desktop        = "~/Desktop"
 dropbox        = "~/Dropbox/docs"

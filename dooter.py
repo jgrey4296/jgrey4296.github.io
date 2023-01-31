@@ -1,4 +1,4 @@
-# -*- mode:doit; -*-
+# -*- mode:doot; -*-
 """
 Stub dooter file for task authoring
 
@@ -29,10 +29,25 @@ DOIT_CONFIG = {
 # from doot.taskslib.groups_secondary import *
 ##-- end post-config doot imports
 
-from bkmkorg.doot_tasks import bibtex
+from bkmkorg.doot_tasks import basic, bibtex, bookmark, tags
 
 if __name__ == "dooter":
     # the equivalent of main
-    cleaner  = bibtex.BibtexClean(locs=doot.locs)
-    report   = bibtex.BibtexReport(locs=doot.locs)
-    stubber  = bibtex.BibtexStub(locs=doot.locs)
+    cleaner      = bibtex.BibtexClean(locs=doot.locs)
+    report       = bibtex.BibtexReport(locs=doot.locs)
+    stubber      = bibtex.BibtexStub(locs=doot.locs)
+    pdflib_clean = bibtex.LibDirClean(locs=doot.locs)
+
+    noscript     = basic.NoScriptMerge(locs=doot.locs)
+
+    # TODO report
+    bkmks_update = bookmark.BookmarksUpdate(locs=doot.locs)
+    bkmk_clean   = bookmark.BookmarksCleaner(locs=doot.locs)
+    bkmk_report  = bookmark.BookmarksReport(locs=doot.locs)
+
+    # TODO indexer
+    tags_clean   = tags.TagsCleaner(locs=doot.locs)
+    tags_report  = tags.TagsReport(locs=doot.locs)
+    tags_index   = tags.TagsIndexer(locs=doot.locs)
+
+    # TODO interface with jsekyll tasks
