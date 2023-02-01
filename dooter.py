@@ -13,21 +13,17 @@ from doit.action import CmdAction
 from doit import create_after
 from doit.tools import set_trace, Interactive, PythonInteractiveAction
 from doit.task import clean_targets
+import logging as logmod
 
 import doot
 ##-- end imports
 
-##-- config
-DOIT_CONFIG = {
-    "action_string_formatting" : "new"
-}
+##-- logging
+logging = logmod.getLogger(__name__)
+##-- end logging
 
-##-- end config
-
-##-- post-config doot imports
 # from doot.taskslib.groups import *
 # from doot.taskslib.groups_secondary import *
-##-- end post-config doot imports
 
 from bkmkorg.doot_tasks import basic, bibtex, bookmark, tags
 
@@ -40,7 +36,7 @@ if __name__ == "dooter":
 
     noscript     = basic.NoScriptMerge(locs=doot.locs)
 
-    # TODO report
+    # # TODO report
     bkmks_update = bookmark.BookmarksUpdate(locs=doot.locs)
     bkmk_clean   = bookmark.BookmarksCleaner(locs=doot.locs)
     bkmk_report  = bookmark.BookmarksReport(locs=doot.locs)
@@ -50,4 +46,6 @@ if __name__ == "dooter":
     tags_report  = tags.TagsReport(locs=doot.locs)
     tags_index   = tags.TagsIndexer(locs=doot.locs)
 
+    # breakpoint()
+    # pass
     # TODO interface with jsekyll tasks
