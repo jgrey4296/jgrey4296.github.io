@@ -27,3 +27,6 @@ python
 erlang
 toml
 bookmarks
+tasks
+parsers
+api
