@@ -2312,7 +2312,7 @@ http://pleated-jeans.com/2012/11/22/funny-pic-dump-11-22-12/ : humour : super_he
 http://pleated-jeans.com/2013/01/29/flowchart-what-tv-show-are-you-watching/ : flow_chart : humour : tv_show
 http://pleated-jeans.com/2013/02/17/weekend-pic-dump-2-17-13/ : comic : humour
 http://pleated-jeans.com/2013/03/14/21-pictures-that-have-a-lot-of-explaining-to-do/ : art : humour
-http://pmcruz.com/eco/ : politician : visualisation
+http://pmcruz.com/eco/ : politician : politicians : visualisation
 http://pmihaylov.com/floating-point-numbers/ : digital : float : floating_point : numbers : programming : reference
 http://pocketcalculatorshow.com/boombox/cool.html : history : music
 http://pokepalettes.com/#scyther : colour : design : game_design : pokemon
@@ -3527,6 +3527,7 @@ http://www.datascience.university/library/ : book : data_science : r_lang : stat
 http://www.datasciencecentral.com/m/blogpost : data_analysis : machine_learning : python : reference
 http://www.datasciencecentral.com/profiles/blogs/17-short-tutorials-all-data-scientists-should-read-and-practice : education : machine_learning
 http://www.datavis.ca/gallery/ : visualisation
+http://www.datoolset.net/wiki/Main_Page : __important : dragon_age : modding : toolset
 http://www.davidbowie.com/news/bowie-s-top-100-books-complete-list-52061 : book : david_bowie : recommendation
 http://www.davidstea.com/ : shopping : tea
 http://www.dbeat.com/28/ : productivity : sleep
@@ -5180,6 +5181,7 @@ http://www.tenthdimension.com/medialinks.php : physics
 http://www.tentonhammer.com/gw2/features/dynamic_questing_for_noobs : game_design : game_mechanics : procedural_content : quest
 http://www.terrorismanalysts.com/pt/index.php/pot/article/view/405 : cultural_anthropology : ethnography : gang : research : social_system : terrorism
 http://www.tf2sounds.com/ : humour : quote : sampling : transcript
+http://www.the-commodore-zone.com/articlelive/categories/Articles/Little-Computer-People/The-Archive/ : __come_back_to : archive : little_computer_people
 http://www.the-digital-reader.com/2014/02/03/adobe-require-new-epub-drm-july-expects-abandon-existing-users/#.UvFPu2SwITj : DRM : copyright : intellectual_property
 http://www.theadvocate.com/new_orleans/news/courts/article_d76e9496-c995-11e7-bd8b-4bb8d14cacbf.amp.html#click=https://t.co/8fIk0YStr1 : drugs : incarceration : louisiana : police
 http://www.theatlantic.com/business/archive/2014/02/why-writers-are-the-worst-procrastinators/283773/ : procrastination : the_atlantic : writing
@@ -5551,6 +5553,8 @@ http://zmotula.tumblr.com/post/1390385240/why-singletons-suck : singletons : sof
 http://zpbappi.com/jekyll-with-tags-archive-and-comments-in-github-pages/ : blog : jekyll : tag
 http://zsck.co/2016/03/31/the-design-and-implementation-of-software-systems/ : software_development
 https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html : analysis : assembly : kernal : linux
+https://123anime.to/watch/jojo-no-kimyou-na-bouken-diamond-wa-kudakenai-dub-episode-5 : 
+https://123anime.to/watch/jojo-no-kimyou-na-bouken-diamond-wa-kudakenai-dub-episode-5 : : 
 https://12factor.net/ : best_practices : design : software_design : software_development
 https://200wordrpg.github.io/2016/rpg/finalist/2016/04/15/DrinkTeaForget.html : 200_word_rpg : RPG : game_design : github
 https://2016.splashcon.org/event/meta2016-a-model-for-reflection-in-rule-based-languages : RETE : reflection : rule
@@ -5797,7 +5801,7 @@ https://big-breakfast-collective.itch.io/waldoio/devlog/94465/its-ok-to-lie-abou
 https://bigbrotherwatch.org.uk/ : UK : big_brother : politics : security : surveillance
 https://bilalakil.me/getting-started-and-productive-with-latex-basictex-on-os-x-terminal/ : command_line : latex : mactex
 https://billmoyers.com/story/charlottesville-confederate-legacy/#.XMWpjTy3lnc.twitter : bill_moyers : charlottesville : confederacy : keri_leigh_merrit : racism : violence
-https://bio.site/KatyMontgomerie : UK : katy_montgomerie : people
+https://bio.site/KatyMontgomerie : UK : katy_montgomerie : people : uk
 https://biorender.com/ : biorender : graphics
 https://bl.ocks.org/milkbread/11000965 : circle : intersection : line : math : voronoi
 https://blender.community/c/graphicall/gdbbbc/ : blender : extension : procedural_content
@@ -5888,7 +5892,7 @@ https://blogs.ncl.ac.uk/andreymokhov/an-algebra-of-graphs/ : graph_theory
 https://blogs.scientificamerican.com/context-and-variation/menstruation-blood-and-tissue/ : kate_clancy : menstruation : scientific_american
 https://blogs.scientificamerican.com/observations/preparing-for-coronavirus-to-strike-the-u-s/ : USA : covid_19 : health_care : scientific_american : zeynep_tufekci
 https://blogs.unity3d.com/2015/12/22/going-deep-with-imgui-and-editor-customization/ : GUI : blog : imgui : unity
-https://bnfplayground.pauliankline.com/ : BNF : authoring_tools : backus_naur_format : grammar : parser
+https://bnfplayground.pauliankline.com/ : BNF : authoring_tool : authoring_tools : backus_naur_format : grammar : grammars : parser : parsing
 https://boardgamegeek.com/boardgame/161880/quiet-year : __important : board_game : cartography : city : maps
 https://boardgamegeek.com/boardgame/60686/ethics-challenge-featuring-dilbert-and-dogbert : board_game : ethics : lockheed_martin
 https://boingboing.net/2008/11/14/the-manuscript-a-tec.html : boingboing : book : recommendation
@@ -6427,14 +6431,14 @@ https://bostonreview.net/forum/economics-after-neoliberalism/corey-robin-uninsta
 https://botwiki.org/ : botwiki : tracery
 https://botwiki.org/blog/most-popular-twitter-bots-most-followers/ : bot : popularity : twitter
 https://botwiki.org/resource/tutorial/random-image-tweet/ : NLP : automation : bot : bot_wiki : programming : wiki
-https://botwiki.org/resources/datasets/ : dataset
+https://botwiki.org/resources/datasets/ : dataset : datasets
 https://botwiki.org/resources/libraries-and-frameworks/#language-filter : bot : language : profanity : programming : word_filter
 https://brandonsanderson.com/sandersons-first-law/ : brian_sanderson : design : fiction : magic : systems
 https://breakerofloops.com/belief-systems-a-toy-belief-model/ : belief : complex_systems : generativist : social_system
 https://breakerofloops.com/belief-systems-why-simulate-belief-systems/ : __important : belief : complex_systems : generativist : simulation
 https://breakerofloops.com/datasci-on-disappearing-code/ : code_holes : disappearing_code : generativist
 https://breakingsmart.substack.com/p/against-waldenponding : digital_retreat : philosophy : venkatesh_rao : waldenponding
-https://brew.sh/ : cli : command_line : home_brew : macos : package_management
+https://brew.sh/ : cli : command_line : home_brew : homebrew : macos : package_management
 https://brightonruby.com/2017/livable-code-sarah-mei/ : best_practices : brighton_ruby : design : livable_code : sarah_mei : software_engineering
 https://brightonruby.com/2019/life-changing-magic-of-tidying-technical-debt-sroop-sunar/ : best_practices : brighton_ruby : design : software_engineering : sroop_sunar
 https://brilliant.org/ : brilliant : course : math : science
@@ -6523,7 +6527,7 @@ https://code.google.com/p/gama-platform/ : agent_based_modeling : google_code
 https://code.google.com/p/midiutil/ : google_code : python
 https://codeahoy.com/2017/08/19/yagni-cargo-cult-and-overengineering-the-planes-wont-land-just-because-you-built-a-runway-in-your-backyard/ : software_development
 https://codeandculture.wordpress.com/ : blog : social_system
-https://codebeautify.org/ : XML : beautify : html : json : procedural_content : web_tool
+https://codebeautify.org/ : XML : beautify : html : json : procedural_content : web_tool : xml
 https://codeburst.io/how-to-use-rust-to-extend-python-360174ee5819?gi=f1a56fa91873 : python : rust
 https://codeburst.io/on-writing-tech-specs-6404c9791159 : documentation : tech_specs : writing
 https://codeitdown.com/hsl-hsb-hsv-color/ : HSL : HSV : colour : colour_theory : hsb : math : rgb
@@ -6545,6 +6549,7 @@ https://colah.github.io/posts/2015-09-NN-Types-FP/ : functional_programming : gi
 https://collegepublications.co.uk/systems/ : __come_back_to : college_publications : journals
 https://communemag.com/coyote-commune/ : ICE : commune_mag : coyotes : immigration : police_violence
 https://components.ai/ : ai : art : components : components_ai : computational_design : design : explorable : modular : procedural_content : voronoi
+https://computerhistory.org/blog/early-digital-research-cpm-source-code/ : computer_history : cp_m
 https://computers-are-fast.github.io/ : github : hardware : performance : speed
 https://concentrationcrisis.openmarketsinstitute.org/ : concentration_crisis : data : monopoly : open_markets : political_science
 https://conda.io/projects/conda/en/latest/commands.html#conda-vs-pip-vs-virtualenv-commands : commands : conda : environment : programming : python : reference
@@ -6596,7 +6601,7 @@ https://culanth.org/fieldsights/series/speaking-volumes : __important : anthropo
 https://cultistsimulator.fandom.com/wiki/Cultist_Simulator_Wiki : cultist_simulator : games : wiki
 https://culturecog.blog/2019/07/31/types-of-claims-about-culture-and-cultura-phenomena/ : anthropology : culture : explanation : omar_lizardo : ontology : theory_building
 https://curiousprogrammer.wordpress.com/2009/08/16/elisp-keyword-params/ : elisp
-https://cwodtke.medium.com/a-unified-theory-for-designing-just-about-anything-b87f1e4f050b : 
+https://cwodtke.medium.com/a-unified-theory-for-designing-just-about-anything-b87f1e4f050b : :
 https://cyber.harvard.edu/events/2018-12-04/my-constellation-space-towards-theory-black-cyberculture : __come_back_to : andre_brock : berkman_klein : black : cyber_culture : cyberculture : democracy : georgia : media : public_discourse : video : youtube
 https://cyber.harvard.edu/publication/2020/principled-ai : ai : berkman_klein : ethics : jessica_fjeld : principles : visualisation
 https://cyborgunplug.com/ : hardware : privacy : surveillance
@@ -6626,7 +6631,7 @@ https://dave.cheney.net/2017/11/30/never-edit-a-method-always-rewrite-it : editi
 https://davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/ : blog : github
 https://dazzlepod.com/uniqpass/ : assets
 https://dbader.org/blog/python-ctypes-tutorial-part-2 : ctypes : cython : python : tutorial
-https://dbgate.org/ : brew : database : dbgate
+https://dbgate.org/ : brew : database : databse : dbgate
 https://dblp.org/ : bibliography : computer_science : dplp : reference
 https://dblp.uni-trier.de/ : academia : bibliography : computer_science : library
 https://dblp.uni-trier.de/xml/ : XML : bibliography : data_set : database : dblp
@@ -6796,7 +6801,7 @@ https://docs.google.com/presentation/d/1UeKXVgRvvxg9OUdh_UiC5G71UMscNPlvArsWER41
 https://docs.google.com/presentation/d/1UeKXVgRvvxg9OUdh_UiC5G71UMscNPlvArsWER41PsU/edit#slide=id.p : deep_learning : tutorial
 https://docs.google.com/presentation/d/1d_SM1-X4Z1x2XhS752Ts69TKFmnDQUK2ZysAAUjN0h8/mobilepresent#slide=id.p : design : fail_better : game_design : slides : sunless_sea : sunless_skies
 https://docs.google.com/spreadsheets/d/1PHlA7QglPpKRbOVEKc_0BCjRmZ8PWPLr3t_wMnggsAg/edit#gid=214254319 : __come_back_to : data : spreadsheet : trigger_warnings
-https://docs.google.com/spreadsheets/d/1V7XIjhQNWsdE5tNfUhm7vbWEwuInuL0V4870FpHiLt8/preview : dialogue : disco_elysium
+https://docs.google.com/spreadsheets/d/1V7XIjhQNWsdE5tNfUhm7vbWEwuInuL0V4870FpHiLt8/preview : diaglogue : dialogue : disco_elysium
 https://docs.google.com/spreadsheets/d/1jWIrA8jHz5fYAW4h9CkUD8gKS5V98PDJDymRf8d9vKI/htmlview : curriculum : ethics : spreadsheet : technology
 https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml : ai : creativity : games : learning
 https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vR_xmYt4ACPDZCDJcY12kCiMiH0ODyx3E1ZvgOHB8ae1tRcjXbs_yWBOA4j4uoCEADVfC1PS2jYO68B/pubhtml# : covid_19 : spreadsheet
@@ -6835,16 +6840,17 @@ https://docs.rust-embedded.org/book/interoperability/c-with-rust.html : python :
 https://docs.scipy.org/doc/scipy/reference/tutorial/interpolate.html : interpolation : reference : scipy : spline
 https://docs.sympy.org/latest/guides/index.html : python : reference : symbolic_programming : sympy
 https://docs.talkamatic.se/for-dialog-designers/ : __come_back_to : api : dialog_design
-https://docs.talkamatic.se/for-dialog-designers/tutorial/#step-5-plan : dialog_domain_description : dialogue : tutorial
+https://docs.talkamatic.se/for-dialog-designers/tutorial/#step-5-plan : dialog : dialog_domain_description : dialogue : tutorial
 https://docs.unity3d.com/Manual/ExecutionOrder.html : awake : c_sharp : initialization : start : unity : update
 https://docs.unity3d.com/Manual/MecanimFAQ.html : animation : c_sharp : manual : unity
 https://docs.unity3d.com/Manual/gui-Basics.html : GUI : c_sharp : documentation : imgui : unity
-https://documents.un.org/prod/ods.nsf/home.xsp : open_access : report : united_nations
+https://documents.un.org/prod/ods.nsf/home.xsp : open_access : report : reports : united_nations
 https://docutils.sourceforge.io/docs/user/rst/quickstart.html : restructured_text : rst : sphinx
 https://dotown.maeda-design-room.net/page/13/ : pixel_art
 https://downloads.haskell.org/~ghc/6.12.2/docs/html/users_guide/pragmas.html : haskell : pragmas
 https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/profiling.html : haskell : profiling
 https://dr-d-king.itch.io/tiny-islands : RPG : cards : drawing : games : itch_io : tiny_islands
+https://dragonage.fandom.com/wiki/Toolset : __important : bioware : dragon_age : modding : wiki
 https://dragonman225.js.org/curved-arrows.html : bezier_curve : drawing : javascript : programming : react : rendering
 https://drive.google.com/drive/folders/0Bz011IF2Pu9TUWIxVWxybGJ1Ync : __important : african_american : black_history : black_history_month : google_drive : paper : repo
 https://drive.google.com/file/d/0B2ZZQSkekmG-bk9jamRNTy0xNzQ/view : ceptre : chris_martens : game : game_ai : grammar : language
@@ -6975,7 +6981,7 @@ https://en.m.wikipedia.org/wiki/Glossary_of_nautical_terms_(A-L) : aft : glossar
 https://en.m.wikipedia.org/wiki/Government_of_India : bureaucracy : government : india : structure : wiki
 https://en.m.wikipedia.org/wiki/History_of_paper : history : paper : wiki
 https://en.m.wikipedia.org/wiki/IIT_Kanpur : computer_science : education : history : india : kanpur : wiki
-https://en.m.wikipedia.org/wiki/Into_the_Drowning_Deep : book_recommendation : science_fiction
+https://en.m.wikipedia.org/wiki/Into_the_Drowning_Deep : book_recommendation : book_recommendations : science_fiction
 https://en.m.wikipedia.org/wiki/It_Follows : film : horror : it_follows : wiki
 https://en.m.wikipedia.org/wiki/John_McCarthy_(computer_scientist) : john_mccarthy : wiki
 https://en.m.wikipedia.org/wiki/John_Money : history : john_money : wiki
@@ -7011,7 +7017,7 @@ https://en.m.wikipedia.org/wiki/Objectification : objectification : philosophy :
 https://en.m.wikipedia.org/wiki/Oklahoma_City_bombing : oklahoma_city : terrorism : tim_mcveigh : wiki
 https://en.m.wikipedia.org/wiki/Outer_product : outer_product : vector_math : wiki
 https://en.m.wikipedia.org/wiki/Overton_window : acceptability : norms : policy : politics : wiki
-https://en.m.wikipedia.org/wiki/Paddy_field : 
+https://en.m.wikipedia.org/wiki/Paddy_field : :
 https://en.m.wikipedia.org/wiki/Pandemonium_architecture?oldformat=true# : computer_science : pandemonium_architecture : pattern_recognition : template_matching : wiki
 https://en.m.wikipedia.org/wiki/Partially_ordered_set#Partial_order : partial_order : wiki
 https://en.m.wikipedia.org/wiki/Patient_Protection_and_Affordable_Care_Act#Medicaid_expansion : ACA : health_care : wiki
@@ -7334,7 +7340,7 @@ https://eu.detroitnews.com/story/news/local/michigan/2018/11/29/bill-would-allow
 https://eu.detroitnews.com/story/news/politics/2016/12/12/records-many-votes-detroits-precincts/95363314/ : 2016 : detroit : election : election_integrity : joel_kurth : jonathan_oosting
 https://eu.freep.com/story/money/cars/general-motors/2019/09/17/gm-strike-update-uaw/2350586001/ : employment : general_motors : health_care : health_insurance : unions : usa_today
 https://eu.freep.com/story/news/local/michigan/detroit/2020/01/23/tcf-bank-race-discrimination-case-sauntore-thomas/4546199002/ : banking : detroit : journalism : racism : sauntore_thomas : tresa_baldas
-https://eu.freep.com/story/news/local/michigan/oakland/2021/12/01/oxford-shooting-victims-honor-student-athletes-artist/8826375002/ : michigan : oxford_michigan : school_shootings
+https://eu.freep.com/story/news/local/michigan/oakland/2021/12/01/oxford-shooting-victims-honor-student-athletes-artist/8826375002/ : michigan : oxford_michigan : school_shooting : school_shootings
 https://eu.postcrescent.com/story/news/2018/11/20/before-nazi-salute-picture-baraboo-schools-racial-complaints-rise/2016640002/ : baraboo : eric_litke : keegan_kyle : nazis : post_cresent : racism : salute : school
 https://eu.usatoday.com/story/money/2019/02/12/government-shutdown-looms-federal-workers-still-hurting-financially/2840443002/ : 2019 : bills : debt : federal : furlough : government_shutdown : janna_herron : poverty : survey : usa_today
 https://eu.usatoday.com/story/money/2019/05/07/americans-spend-thousands-on-nonessentials/39450207/ : austerity_grooming : budget : usa_today
@@ -7376,9 +7382,10 @@ https://failedarchitecture.com/architectures-role-in-erasing-the-guggenheims-ong
 https://failedarchitecture.com/betraying-the-profession-design-labour-against-technocracy/ : bassem_saad : design : failed_architecture : labour : politics : technocracy : technology
 https://failedarchitecture.com/gamespace-urbanism-city-building-games-and-radical-simulations/ : __important : failed_architecture : game_space : magnasanti : sim_city : simulation : urbanism
 https://failedarchitecture.com/how-j-g-ballards-science-fiction-tells-the-future-of-our-privatized-cities/ : dystopia : failed_architecture : fiction : hettie_obrien : jg_ballard : privatised_cities : sci_fi : urban_design
-https://fallout.fandom.com/wiki/Category:Fallout:_New_Vegas_dialogue_files : dialogue : dialogue_tree : fallout
+https://fallout.fandom.com/wiki/Category:Fallout:_New_Vegas_dialogue_files : diaglogue : dialogue : dialogue_tree : fallout
 https://falloutmods.fandom.com/wiki/MSG_File_Format : dialogue_tree : fallout
-https://fancaps.net/ : 
+https://fancaps.net/ : :
+https://fancaps.net/ : : 
 https://fareskalaboud.github.io/LearnPDDL/ : pddl
 https://farkasdilemma.wordpress.com/2013/10/15/on-false-proofs-of-pnp-or-how-not-to-use-induction/ : article : blog : computation : computer_science : induction : p_vs_np
 https://faroutmagazine.co.uk/how-david-byrne-helped-to-change-public-perception-of-autism/ : autism : david_byrne : faroutmagazine
@@ -7389,7 +7396,7 @@ https://features.propublica.org/black-land-loss/heirs-property-rights-why-black-
 https://features.propublica.org/south-bend/wrongful-conviction-pardon-keith-cooper-christopher-parish-indiana-elkhart-police/ : corruption : law : propublica : prosecution : racism
 https://features.propublica.org/supported-housing/new-york-mentally-ill-housing-group-homes/ : homelessness : housing : jaoquin_sapien : mental_health : new_york : propublica : tom_jennings
 https://features.propublica.org/weirton/police-shooting-lethal-force-cop-fired-west-virginia/ : lethal_force : police_violence : propublica : racism : west_virginia
-https://federicoterzi.com/blog/12-rust-tips-and-tricks-you-might-not-know-yet/ : programming : rust : tipping
+https://federicoterzi.com/blog/12-rust-tips-and-tricks-you-might-not-know-yet/ : programming : rust : tipping : tips
 https://felixangell.com/blog/an-introduction-to-llvm-in-go : compiler : llvm : programming : tutorial
 https://feministfrequency.com/2018/03/30/the-past-the-present-and-the-absent-reflections-on-gdc-2018/ : GDC : feminist_frequency
 https://feministgiant.substack.com/p/essay-become-a-menace-to-your-enemies?r=50le : essay : feminism : menace : politics
@@ -7441,6 +7448,7 @@ https://forge.medium.com/how-to-change-a-mind-1774681b9369 : changing_minds : el
 https://forum.paradoxplaza.com/forum/index.php : blog : game_design : game_development : social_system : software_development : stellaris
 https://forum.paradoxplaza.com/forum/index.php?threads/the-obligatory-euiv-strange-screenshot-thread.706850/ : __come_back_to : archive : europa_universalis : forum : game : games : humour : paradox : screen_shot
 https://forum.unity3d.com/threads/shortcut-key-for-lock-inspector.95815/ : code_analysis : unity
+https://forums.nexusmods.com/index.php?/topic/460288-opening-pex-files/ : bethesda : modding : pex : sykrim
 https://forward.com/opinion/399738/american-jews-have-abandoned-gaza-and-the-truth/ : gaze : israel : palestine
 https://forward.com/opinion/416284/alice-walkers-conspiracy-theories-arent-just-anti-semitic-theyre-anti/ : alice_walker : anti_semitism : feminism : forward : jewish_culture : jewish_media : louis_farrakhan
 https://framenet.icsi.berkeley.edu/fndrupal/ : framenet
@@ -7501,7 +7509,7 @@ https://games.slashdot.org/story/12/12/07/231203/nintendo-puts-a-bedtime-on-wii-
 https://gameuidatabase.com/index.php : UI : database : game_design : game_ui
 https://ganelson.github.io/inform/index.html : __important : inform : interactive_narrative : literate_program : literate_programming : open_source
 https://gapingsilence.wordpress.com/2017/10/19/a-kind-of-solution/amp/ : UK : immigration : ukip
-https://garbageday.substack.com/p/down-so-bad-im-3rd-wheeling-an-e : 
+https://garbageday.substack.com/p/down-so-bad-im-3rd-wheeling-an-e : :
 https://garry.tv/2013/01/16/git-outa-hear/ : blog : garrys_mod : git
 https://garry.tv/2013/03/15/oil-your-brain/ : blog : creativity : garrys_mod : productivity
 https://garry.tv/2014/04/07/unity-viewmodels/ : garrys_mod : tutorial : unity
@@ -7567,7 +7575,7 @@ https://github.com/DesignEngrLab/GraphSynth : github : graphsynth : hypergraph
 https://github.com/Developer-Y/cs-video-courses/blob/master/README.md : computer_science : education : github : learning
 https://github.com/DimaSamoz/mezzo : composition : github : haskell : music
 https://github.com/DonatoMeoli/BeerEX : CLIPS : github : production_system : rule_engine
-https://github.com/DrSLDR/tracery-bots : bot : github : tracery
+https://github.com/DrSLDR/tracery-bots : bot : bots : github : tracery
 https://github.com/Droogans/unmaintainable-code : github : software_development
 https://github.com/Dvlv/Tkinter-By-Example : GUI : github : libraries : python : tkinter : tutorial
 https://github.com/EbTech/rust-algorithms : algorithm : github : reference : rust
@@ -7577,7 +7585,7 @@ https://github.com/FDSaussure/PySankey : data_visualisation : github : libraries
 https://github.com/FinNLP/en-inflectors : NLP : github : javascript : libraries : programming
 https://github.com/GOFAI/glasstone : analysis : github : nuclear : python
 https://github.com/GamesDoneQuick/agdq19-layouts : agdq : github : graphics : libraries
-https://github.com/Geal/nom : github : nom : parser : rust
+https://github.com/Geal/nom : github : nom : parser : parsing : rust
 https://github.com/GuiltyDolphin/inform7-mode : emacs : github : inform : lisp
 https://github.com/IDPF/epub3-samples : epub : example : github : technical_standards
 https://github.com/Idnan/trending-guides : github : guide : programming
@@ -7589,6 +7597,7 @@ https://github.com/JasonKessler/scattertext : NLP : visualisation
 https://github.com/JeffLIrion/adb_shell : adb : android : python
 https://github.com/Kristories/awesome-guidelines : coding_standards : github : style_conventions
 https://github.com/Kyubyong/wordvectors : NLP : python : word_vectors
+https://github.com/LeonBlade/xnbcli#readme : github : stardew_valley : xnb
 https://github.com/LibrePDF/OpenPDF : github : itext : java : metadata : openpdf : pdftk
 https://github.com/LingDong-/rrpl : chinese : font : github : javascript : libraries : library : typology
 https://github.com/LingDong-/shan-shui-inf : art : chinese : github : graphics : landscape : libraries : library : perlin_noise : procedural_content
@@ -7619,6 +7628,7 @@ https://github.com/Olde-Skuul/doom3do : github
 https://github.com/OpenMined/PySyft/tree/master/examples/tutorials : deep_learning : github : machine_learning : pytorch : tutorial
 https://github.com/OpenXcom/OpenXcom : github : open_source : programming : x_com
 https://github.com/PRFina/ICSE-NRES : CLIPS : github : production_system : rule_engine
+https://github.com/Pathoschild/StardewXnbHack : github : stardew_valley
 https://github.com/Perfare/AssetStudio : github : unity
 https://github.com/PhrozenByte/rmtrash : github : terminal : utility
 https://github.com/PixarAnimationStudios/USD : github : graphics : pixar
@@ -7674,7 +7684,7 @@ https://github.com/asaini/Apriori : a_priori : github : machine_learning : pytho
 https://github.com/attwad/python-osc/blob/master/pythonosc/osc_message.py : github : libraries : osc : python
 https://github.com/auto-complete/auto-complete : auto_complete : emacs : github
 https://github.com/auto-complete/auto-complete/blob/master/doc/manual.md#source : __important : auto_complete : emacs : github : lisp
-https://github.com/awesomedata/awesome-public-datasets : dataset : github
+https://github.com/awesomedata/awesome-public-datasets : dataset : datasets : github
 https://github.com/babb517/f2lp : ASP : clingo : github : sat_solving
 https://github.com/backspaces/agentscript : agent_based_modeling : github
 https://github.com/bahamas10/bash-style-guide : bash : cli : github : style_guide : tiktok
@@ -7686,7 +7696,7 @@ https://github.com/bgolus/Normal-Mapping-for-a-Triplanar-Shader : ben_golus : ge
 https://github.com/bitwes/Gut : github : godot : testing
 https://github.com/bloom-lang/bud/blob/v0.0.3/docs/getstarted.md : ai : bud : programming
 https://github.com/bndr/pycycle : github : import : programming : pycycle : python : software_engineering
-https://github.com/bot-ai/bot-lang : bot : dataset : github : keywords
+https://github.com/bot-ai/bot-lang : bot : bots : dataset : datasets : github : keywords
 https://github.com/braydie/HowToBeAProgrammer : github : guide : software_development
 https://github.com/buriburisuri/speech-to-text-wavenet : deep_learning : github : wavenet
 https://github.com/burtonsamograd/anser : github : propagator
@@ -7777,7 +7787,7 @@ https://github.com/francogarcia/yasnippet-godot-gdscript : github : godot : yasn
 https://github.com/fred-o/inform7-mode : emacs : github : inform : lisp
 https://github.com/fredcamps/lsp-jedi : emacs : lisp : lsp : python
 https://github.com/galaxykate/PCGTutorials/blob/master/js/libs/react.js : github
-https://github.com/garkimasera/rusted-ruins : github : rogue_like : rust
+https://github.com/garkimasera/rusted-ruins : github : rogue_like : roguelike : rust
 https://github.com/garrynewman : garrys_mod : github
 https://github.com/gemrb/iesh : bioware : github : infinity_engine : planescape_torment : python
 https://github.com/gendx/pdf-cheat-sheets/blob/master/pdf-graphics.clean.pdf : pdf_cheat_sheets
@@ -7986,8 +7996,8 @@ https://github.com/rouseguy/intro2stats : github : python : statistics : tutoria
 https://github.com/roxxploxx/RimWorldModGuide : games : github : modding : rimworld
 https://github.com/rudyrucker/chaos : chaos : github : james_gleick
 https://github.com/rust-lang/rust/issues/33062 : debugging : lldb : rust
-https://github.com/rust-unofficial/awesome-rust : github : recommendation : rust
-https://github.com/rust-unofficial/patterns : design_pattern : github : library : rust
+https://github.com/rust-unofficial/awesome-rust : github : recommendation : recommendations : rust
+https://github.com/rust-unofficial/patterns : design_pattern : design_patterns : github : library : rust
 https://github.com/ryanburge/sbc : github : southern_baptist_church
 https://github.com/ryanburge/trump_transcript : NLP : github : transcript : trump
 https://github.com/ryanmcdermott/clean-code-javascript : best_practices : github : javascript : programming
@@ -8182,14 +8192,14 @@ https://go-dh.github.io/mincomp/thoughts/2016/10/02/minimal-definitions/ : githu
 https://gobyexample.com/ : go : go_lang : programming : tutorial
 https://godot-rust.github.io/book/getting-started.html : godot : rust
 https://godotengine.org/article/importing-3d-assets-blender-gamedevtv : blender : godot
-https://godotshaders.com/ : godot : shader
+https://godotshaders.com/ : godot : shader : shaders
 https://godottutorials.com/courses/godot-basics-series : godot
 https://goelhardik.github.io/2016/10/04/fishers-lda/ : LDA : machine_learning : python : statistics : tutorial
 https://going-medieval.com/2019/06/06/on-qanon-and-systems-of-knowledge/ : QAnon : blog : elanor_janega : medieval : systems_of_knowledge
 https://going-medieval.com/2019/08/16/thats-not-what-sodomy-is-but-ok/ : bible : christianity : eleanor_janega : history : sex : sodomy
 https://golang.org/ : go_lang : programming_language
 https://golang.org/doc/ : documentation : go : go_lang : programming : tutorial
-https://goodlawproject.org/what-we-do/issues/ : UK : goodlaw : sex_work
+https://goodlawproject.org/what-we-do/issues/ : UK : goodlaw : sex_work : uk
 https://googlebooks.byu.edu/x.asp : BYU : corpora : data_sets : google : mark_davies : ngram : search
 https://gorillasun.de/blog/an-algorithm-for-polygon-intersections : algorithm : axis_alignment : game_programming : graphics : intersection : polygon
 https://gothamist.com/news/armored-ice-vehicle-sparks-panic-queens-during-firearms-bust : ICE : gothamist : immigration : militarisation : new_york : queens : racism
@@ -8269,11 +8279,11 @@ https://healthasahumanright.wordpress.com/2019/04/24/my-care-concerns-document/ 
 https://heated.world/p/trumps-epa-says-air-pollution-cant : EPA : air_pollution : heated : pollution : trump
 https://heeris.id.au/2013/this-is-why-you-shouldnt-interrupt-a-programmer/ : interruption : programming
 https://heinonline.org/HOL/LandingPage?handle=hein.journals%2Fgeojlap14&div=38 : behavioural_economics : ethics : georgetown : journal : law : nudge : paternalism : public_policy
-https://helios.hud.ac.uk/scommv/IPC-14/software.html : ai : archive : grammar : pddl : research
+https://helios.hud.ac.uk/scommv/IPC-14/software.html : ai : archive : grammar : grammars : pddl : research
 https://help.github.com/articles/markdown-basics/ : github : markdown : reference : tutorial
 https://help.shopify.com/en/themes/liquid : jekyll : liquid : reference : web_design
 https://help.ubuntu.com/community/SSH/OpenSSH/Configuring : security : ssh : ubuntu
-https://hermanradtke.com/2016/08/08/introduction-to-nom-rust-parsing-combinator-framework.html/ : nom : parser : rust
+https://hermanradtke.com/2016/08/08/introduction-to-nom-rust-parsing-combinator-framework.html/ : nom : parser : parsing : rust
 https://heterocephalusgabler.wordpress.com/2019/10/01/the-exploits-of-boris-johnson/ : UK : blog : boris_johnson : hetero_cephalus_gabler : politics
 https://heterogenoustasks.wordpress.com/2014/09/22/a-bestiary-of-player-agency/ : agency : choice : design : game_criticism : game_design : game_development : interactive_fiction : player : taxonomy
 https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/ : CYOA : blog : choice : choice_games : data_analysis : heterogenous_tasks : interactive_fiction : narrative : procedural_content : social_system : story_generation : taxonomy
@@ -8334,7 +8344,7 @@ https://idontgetoutmuch.wordpress.com/2017/06/02/1090/ : blog : haskell : math :
 https://idpf.org/epub/20/spec/OPF_2.0.1_draft.htm : epub : opf : technical_specification
 https://idpf.org/epub/30/ : epub : technical_specification
 https://idyll-lang.github.io/editor/ : explorable : idyll : interaction : tool
-https://igchicago.org/wp-content/uploads/2021/02/OIG-Report-on-Chicagos-Response-to-George-Floyd-Protests-and-Unrest.pdf : 
+https://igchicago.org/wp-content/uploads/2021/02/OIG-Report-on-Chicagos-Response-to-George-Floyd-Protests-and-Unrest.pdf : :
 https://iiif.lib.harvard.edu/manifests/view/drs:474447269$1i : archive : digitisation : harvard : library
 https://ilikeinterfaces.com/ : UI : data_visualisation : design : film : interface : interface_design : science_fiction
 https://imagemagick.org/script/command-line-tools.php : documentation : imagemagick
@@ -8597,7 +8607,7 @@ https://keras.io/layers/embeddings/ : __important : api : keras : layer : progra
 https://kevingal.com/blog/potter-puzzle.html : harry_potter : programming : puzzle
 https://khan.github.io/kotlin-for-python-developers/ : kotlin : programming : python
 https://khn.org/news/despite-federal-protections-rape-victims-still-get-billed-for-forensic-exams/ : debt_collection : kaiser_health_news : michelle_andrews : sexual_assault
-https://kidscancode.org/godot_recipes/3.x/recent/ : gdscript : godot : recipe
+https://kidscancode.org/godot_recipes/3.x/recent/ : gdscript : godot : recipe : recipes
 https://kieranhealy.org/blog/archives/2018/12/12/teaching-and-learning-materials-for-data-visualization/ : HCI : UI : UX : __come_back_to : book : data_visualisation : kieran_healy : resource : sociology : tutorial
 https://kieranhealy.org/blog/archives/2020/02/26/a-new-baby-boom-poster/ : baby_boom : data_science : generations : kieran_healy : programming : visualisation
 https://killscreen.com/articles/easy-level-life/ : black_lives_matter : game_design : game_development : police : racism : social_system
@@ -8708,7 +8718,7 @@ https://la.curbed.com/2019/4/25/18516026/homeless-sweeps-encampments-clean-stree
 https://la.curbed.com/maps/roadside-architecture-programmatic-mimetic : LA : architecture : programmatic_architecture : weird
 https://landersbenjamin.gitbooks.io/llvm-implementing-a-language/content/codegen.html : code_gen : language : llvm : parser : programming_language
 https://landersbenjamin.gitbooks.io/llvm-implementing-a-language/content/index.html : c_plus_plus : llvm : programming_language : reference : tutorial
-https://langui.sh/2015/07/24/osx-clang-include-lib-search-paths/ : OSX : clang : compiler : mac_os
+https://langui.sh/2015/07/24/osx-clang-include-lib-search-paths/ : OSX : clang : compiler : mac_os : osx
 https://lareviewofbooks.org/article/left-for-dead-on-the-philosophical-life-and-vocation-of-walter-kaufmann/ : LA_review_of_books : walter_kaufmann
 https://lareviewofbooks.org/article/no-follow-through/ : LA_review_of_books : review : series : star_trek : tv
 https://lareviewofbooks.org/article/piety-perversity-palms-los-angeles/ : LA_review_of_books : piety_and_perversity : shade : urban_design : victoria_dailey
@@ -8750,6 +8760,7 @@ https://learnxinyminutes.com/docs/css/ : CSS : learnXinY : reference : web_desig
 https://learnxinyminutes.com/docs/yaml/ : learnXinY : reference : yaml
 https://led.itch.io/tilemancer : art : assets : tilemancer : tiles
 https://led.itch.io/tilesetter : __important : art : assets : game_development : itch_io : software : tiles
+https://legacy.planetvampire.com/modules/bloodlines/modding.php : archive : modding : vampire_the_masquerade : vtmb
 https://legacy.tyt.com/2018/08/17/kobachs-kansas-victory-tainted-by-kobachs-election-system/ : election_integrity : jennifer_cohn : kansas : kris_kobach : tyt_network
 https://lfe.io/books/tutorial/index.html : __come_back_to : erlang : lfe : tutoral
 https://lh3.googleusercontent.com/-eV75iWGS9sY/UrsQgOpDhcI/AAAAAAAANwQ/e1_7Zp7b8aw/w426-h487/funny-chart-synonyms-words-fear-anger.jpg : emotion : infographic
@@ -8788,7 +8799,7 @@ https://lithub.com/brandon-taylor-when-to-protect-your-characters-and-when-to-pu
 https://lithub.com/the-straight-line-from-slavery-to-private-prisons/ : lithub : plantations : prison : racism : slavery : texas
 https://littleosbook.github.io/ : book : education : operating_system : reference
 https://livvy.itch.io/dollhouse : dollhouse : game : itch_io : livvy : toy
-https://lizengland.com/blog/game-design-library/ : book_recommendation : liz_england : person
+https://lizengland.com/blog/game-design-library/ : book_recommendation : book_recommendations : liz_england : person
 https://lldb.llvm.org/ : debugging : lldb : llvm
 https://lleksah.wordpress.com/2017/07/31/writing-my-first-web-browser-in-python-with-gtk/amp/ : UI : gtk : programming : python : tutorial
 https://llllllll.co/t/experimental-music-notation-resources/149 : __important : art : experimental_music : notation : patterns
@@ -8811,7 +8822,7 @@ https://longreads.com/2018/02/05/the-couple-who-turned-a-california-desert-into-
 https://longreads.com/2021/12/01/debt-demands-a-body/ : debt : health : longreads
 https://lordgrenville.github.io/posts/Emacs/ : doom : emacs
 https://lorenabarba.com/gallery/reproducibility-pi-manifesto/ : methodology : reproducibility : science
-https://lostgarden.home.blog/2021/03/13/the-chemistry-of-game-design-2/amp/ : 
+https://lostgarden.home.blog/2021/03/13/the-chemistry-of-game-design-2/amp/ : :
 https://love2d.org/ : game_development : game_engine : lua : programming
 https://lskitka.people.uic.edu/styled-3/index.html : academic : linda_j_skitka
 https://lucabolognese.wordpress.com/2013/01/04/functional-programming-in-c/ : blog : c_lang : functional_programming
@@ -8828,6 +8839,7 @@ https://m.youtube.com/watch?v=6UZqN6QExrk : video
 https://m.youtube.com/watch?v=DXB988kF3hI : humour : rick_and_morty : video
 https://m.youtube.com/watch?v=asw9M8RBcsU : video
 https://m.youtube.com/watch?v=kbyTOAlhRHk : video
+https://maartensap.com/publications.html : __come_back_to : academia : maarten_sap : person
 https://madison.com/wsj/news/local/govt-and-politics/expert-witness-latinos-voting-rights-significantly-diminished-under-redrawn-maps/article_963a9576-5e55-11e1-89e2-0019bb2963f4.html : latino : voter_suppression : voting_rights : wisconsin
 https://madison.com/wsj/news/local/health-med-fit/gov-scott-walker-s-medicaid-work-requirement-approved-drug-testing/article_8251b008-5bfa-5469-a0df-8c9ecf0de807.html : madison : medicaid : scott_walker : wisconsin
 https://magenta.tensorflow.org/gansynth : GANSynth : audio_generation : blog : deep_learning : magenta
@@ -8870,7 +8882,7 @@ https://matplotlib.org/api/index.html#the-object-oriented-api : matplotlib : pyt
 https://matt.sh/howto-c : best_practices : c_lang : reference
 https://matthewearl.github.io/2018/06/28/smb-level-extractor/ : blog : data_analysis : data_science : mario : python : tutorial
 https://mattsclancy.substack.com/ : blog : matt_clancy : research : substack
-https://maxima.sourceforge.io/ : MACSYMA : common_lisp : computer_algebra : lisp : maxima
+https://maxima.sourceforge.io/ : MACSYMA : common_lisp : computer_algebra : lisp : macsyma : maxima
 https://mbucc.blogspot.nl/2015/06/install-xmonad-on-osx-osx-10.html : haskell : x11 : xmonad
 https://meaningness.com/about-my-sites : blog : david_chapman
 https://meaningness.com/geeks-mops-sociopaths : __come_back_to : david_chapman : evolution : meaning : meaningness : subculture
@@ -9074,7 +9086,7 @@ https://medium.com/the-physics-of-finance/taxis-2-0-streamlining-city-transport-
 https://medium.com/the-polymath-project/programming-for-personal-growth-64052e407894 : medium : personal_growth : programming
 https://medium.com/the-shadow/the-discourse-of-immigration-politics-c1e667cef40e : UK : christoph_schuringa : immigration : medium : windrush
 https://medium.com/the-spike/your-cortex-contains-17-billion-computers-9034e42d34f2 : mark_humphries : medium : neural_network
-https://medium.com/thedevproject/how-to-setup-https-using-flask-for-local-development-b17ea906b231 : SSL : blog : flask : python
+https://medium.com/thedevproject/how-to-setup-https-using-flask-for-local-development-b17ea906b231 : SSL : blog : flask : python : ssl
 https://medium.com/this-political-woman/a-simplified-political-history-of-data-26935bdc5082#.b3dvxpd6z : big_data : history : political_history : politics : privacy
 https://medium.com/this-political-woman/when-white-fears-become-big-data-racist-emotions-and-the-populists-who-love-them-9ccf8e1ef1b2#.rl4929xdb : big_data : history : politics : racism
 https://medium.com/thoughts-and-reflections/future-oriented-design-c8b4a458a722 : __important : future_oriented_design : medium
@@ -9245,7 +9257,7 @@ https://nmbx.newmusicusa.org/a-tool-for-change-the-women-composers-database/ : c
 https://nnethercote.github.io/perf-book/title-page.html : ebook : performance : rust
 https://noclip.website/ : game : map : noclip : web_GL
 https://noobtuts.com/unity/ui : UI : c_sharp : noob_tuts : programming : tutorial : unity
-https://nora.zone/ : blog : bot : grammar : nora_reed : person : tracery
+https://nora.zone/ : blog : bot : bots : grammar : grammars : nora_reed : person : tracery
 https://notchesblog.com/2021/02/25/contraception-a-concise-history/ : contraception : donna_drucker : history : notches_blog : sexuality
 https://notes.variable.io/case-study-ibm-technology-garden-3a4f0b274de5?gi=c0dd94e4aa1 : IBM : case_study : medium : notes : sof : software_engineering : technology_garden : variable
 https://notes.variable.io/data-is-not-a-number-a6eb7110d943 : data : data_science : information : visualisation
@@ -9289,13 +9301,14 @@ https://onezero.medium.com/africa-is-building-an-a-i-industry-that-doesnt-look-l
 https://onezero.medium.com/chicago-cops-use-social-media-to-track-grieving-families-of-gunshot-victims-e68e5a6dc40c : chicago : elizabeth_king : medium : onezero : police_violence : privacy : surveillance
 https://onezero.medium.com/how-satan-was-disappeared-from-twitter-349a2a2bce32 : medium : onezero : satan : twitter : will_oremus
 https://onezero.medium.com/how-to-design-better-systems-in-a-world-overwhelmed-by-complexity-1841f7c33615 : complexity : ingrid_burrington : keller_easterling : medium : medium_design
-https://onezero.medium.com/science-fiction-is-a-luddite-literature-56ed9cfc5470  : cory_doctorow : labour : luddite : science_fiction : technology
+https://onezero.medium.com/science-fiction-is-a-luddite-literature-56ed9cfc5470 : cory_doctorow : labour : luddite : science_fiction : technology
 https://onezero.medium.com/the-racist-and-high-tech-origins-of-americas-modern-census-44ba984c28af : census : law : medium : onezero : racism : technology : yasha_levine
 https://onezero.medium.com/why-xhamster-is-so-much-better-at-content-moderation-than-facebook-ec318919b0e4 : facebook : lux_alptraum : moderation : social_media : xhamster
 https://onlinebooks.library.upenn.edu/webbin/book//lookupid?key=olbp77166 : archive : art : ceylon : history : photography : sri_lanka
 https://onlinelibrary.wiley.com/doi/abs/10.1002/pam.21954 : crime : prison : racism : school_to_prison_pipeline : study
 https://onlinelibrary.wiley.com/doi/pdf/10.1111/ajps.12410 : antoine_banks : heather_hicks : journal : political_science : racism
-https://onlyfans.com/ : 
+https://onlyfans.com/ : :
+https://onlyfans.com/ : : 
 https://onsen.io/blog/mocha-chaijs-unit-test-coverage-es6/ : babel : chai : istanbul : mocha : test : web_development
 https://open-platform.theguardian.com/documentation/ : api : guardian : journalism : programming
 https://open.library.ubc.ca/cIRcle/collections/ubctheses/831/items/1.0079748 : dissertation : open_university : tetris
@@ -9339,7 +9352,7 @@ https://oversight.house.gov/news/press-releases/new-staff-report-shows-administr
 https://owl.english.purdue.edu/owl/resource/621/01 : apostrophe : grammar
 https://owl.english.purdue.edu/owl/resource/621/01/ : apostrophe : edu : learning : writing
 https://packaging.python.org/en/latest/guides/ : package_management : python : python_packaging
-https://packaging.python.org/en/latest/tutorials/packaging-projects/ : best_practices : packages : python
+https://packaging.python.org/en/latest/tutorials/packaging-projects/ : best_practices : packages : packaging : python
 https://pages.gseis.ucla.edu/faculty/agre/ : archive : blog : phil_agre
 https://paleofuture.gizmodo.com/this-wired-article-from-2007-about-throwing-away-your-m-1840065976 : gizmodo : matt_novak : mobile_phones : wired
 https://pandas.pydata.org/docs/getting_started/10min.html : library : pandas : python
@@ -9353,8 +9366,8 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3075406 : 2016 : ACA : elect
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3123301 : corruption : paper : transparency
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3350508 : __come_back_to : ai : andrew_selbst : negligence : paper
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3359524 : __come_back_to : ssrn
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3767097 : 
-https://paperswithcode.com/ : __important : github : open_source : papers_with_code : research
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3767097 : :
+https://paperswithcode.com/ : __come_back_to : __important : github : open_source : papers_with_code : research
 https://parliamentsandlegislatures.wordpress.com/2017/10/25/design-of-legislative-chambers/ : blog : history : legislature : parliament : political_science
 https://pascalhertleif.de/artikel/good-practices-for-writing-rust-libraries/ : best_practices : rust
 https://patreonhq.com/new-round-funding-816d5a592477?gi=717cb7fcc0e1 : funding : jack_conte : patreon
@@ -9583,11 +9596,11 @@ https://redpaper.yellowheadinstitute.org/ : indigenous_jurisdiction : land : yel
 https://refactoring.guru/ : design_pattern : refactoring : reference : software_engineering
 https://reframehealthandjustice.medium.com/dreaming-a-new-anti-trafficking-movement-795fcd4328c7 : anti_trafficking : chris_ash
 https://regions.regionalstudies.org/ezine/issue/02/ : RSA : journal : research
-https://relaxng.org/jclark/ : XML : schema : trang : xsd
-https://relaxng.org/jclark/trang-manual.html : XML : manual : trang
+https://relaxng.org/jclark/ : XML : schema : trang : xml : xsd
+https://relaxng.org/jclark/trang-manual.html : XML : manual : trang : xml
 https://renegadeinc.com/he-died-for-our-debts-not-our-sins/ : bible : christianity : debt : economics : jesus : michael_hudson : renagade_inc : sin
 https://requester.mturk.com/pricing : __important : amazon : categories : mechanical_turk
-https://requests.readthedocs.io/en/latest/ : documentation : library : python : request
+https://requests.readthedocs.io/en/latest/ : documentation : library : python : request : requests
 https://research.googleblog.com/2017/08/transformer-novel-neural-network.html : NLP : attention : deep_learning : google : machine_learning : transform
 https://researchautism.org/1000-people-surveyed-survey-says/ : autism : research
 https://researchwhisperer.org/2022/12/06/how-to-run-an-asynchronous-online-event-that-isnt-horrible-part-1/ : brendan_keogh : covid : event_management : online_events : research_whisperer
@@ -9723,6 +9736,7 @@ https://simassocc.org/ : ABM : agent_based_simulation : assocc : covid
 https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html : django : python : tutorial
 https://simpleit.rocks/ruby/jekyll/jekyll-basic-concepts/ : jekyll : reference : static_site : tutorial : web_design
 https://sims.fandom.com/wiki/The_Sims_4 : the_sims : wiki
+https://simswiki.info/wiki.php?title=Sims_4:Main_Page : __come_back_to : the_sims : wiki
 https://sites.duke.edu/csedpodcast/2019/12/13/episode-2-dan-garcia/ : education : exam_design : pedagogy : podcast : programming : transcript
 https://sites.google.com/a/ncsu.edu/villanelle/ : NPC : __important : chris_martens : research : villanelle
 https://sites.google.com/a/udel.edu/winbladh/research : __to_fix : edu : people : search
@@ -9780,6 +9794,7 @@ https://smartech.gatech.edu/handle/1853/3739 : academia : georgia_tech : library
 https://smittenkitchen.com/2014/10/better-chocolate-babka/ : babka : chocolate : recipe : smitten_kitchen
 https://snap.stanford.edu/data/web-Amazon.html : data_sets
 https://snikolov.wordpress.com/2014/07/31/rhythmic-composition-as-a-self-avoiding-random-walk/amp/ : music : search : sound : space_filling
+https://snootysims.com/ : __come_back_to : games : mods : the_sims
 https://soar.eecs.umich.edu/articles/downloads/soar-suite : SOAR : ai : programming
 https://social-epistemology.com/2019/09/25/collaborative-review-part-1-on-being-an-interdisciplinary-academic-amanda-k-phillips-de-lucas/ : journal : social_epistemology
 https://socialequity.duke.edu/sites/socialequity.duke.edu/files/site-images/FINAL%20COMPLETE%20REPORT_.pdf : economics : presentation : race : racial_wealth_gap
@@ -9795,7 +9810,7 @@ https://sound-effects.bbcrewind.co.uk/ : BBC : UK : assets : sound : soundscape
 https://soundcloud.com/this-american-life/522-tarred-and-feathered-act-two-help-wanted : podcast : soundcloud
 https://soundcloud.com/user-375923363?utm_source=soundcloud&utm_campaign=share&utm_medium=twitter : gilles_deleuze : lecture : philosophy : recording : soundcloud
 https://sourceware.org/gdb/wiki/PermissionsDarwin : apple : code_signing : gdb
-https://sowcow.github.io/fallout-dialogs/ : dialogue_tree : falout
+https://sowcow.github.io/fallout-dialogs/ : dialogue_tree : fallout : falout
 https://soylentnews.org/article.pl : education : ohio : privacy : school : school_shootings : soylent : surveillance
 https://soylentnews.org/article.pl?sid=19/03/25/2036251&from=rss : education : ohio : privacy : school : school_shootings : soylent : surveillance
 https://spacy.io/ : NLP : libraries : python
@@ -9992,6 +10007,7 @@ https://taskandpurpose.com/homeless-veterans-work-living/amp/ : america : homele
 https://taylodl.wordpress.com/2013/06/07/functional-javascript-tail-call-optimization-and-trampolines/ : functional_programming : javascript
 https://tburne.net/article/designing_effective_unit_tests_part_1.html : unit_testing
 https://tcf.org/content/report/germanys-syrian-refugee-integration-experiment/ : germany : refugees : syria : tcf
+https://tcrf.net/Proto:The_Legend_of_Zelda:_Link%27s_Awakening_(Game_Boy)/Built_from_Source_Code#Other_Builds : game_boy : zelda
 https://teachinggamestudies.wordpress.com/ : game_studies
 https://tech-blog.capital-match.com/posts/3-anatomy-of-haskell-web-app.html : blog : design : haskell
 https://tech.grammarly.com/blog/building-browser-extensions-at-scale : browser_extensions : chrome : development : programming
@@ -10024,7 +10040,7 @@ https://tex.stackexchange.com/questions/297004/tlmgr-open-documentation-for-pack
 https://texample.net/tikz/examples/all/ : example : latex
 https://text.npr.org/s.php?sId=785672201 : GOP : NPR : gerrymandering : hansi_lo_wang : hofeller_files : journalism : stephanie_hofeller
 https://textbooks.math.gatech.edu/ila/ : interactive : linear_algebra : math : reference
-https://textstelle.0x0a.li/ : bot : corpora : language : textstelle
+https://textstelle.0x0a.li/ : bot : bots : corpora : language : textstelle
 https://theantlrguy.atlassian.net/wiki/display/ANTLR4/JavaScript+Target : antlr
 https://theappeal.org/black-mississippians-say-sheriffs-office-terrorize-the-community-like-a-gang-would/ : aaron_morrison : abuse_of_power : madison_county : mississippi : police : police_violence : racism : the_appeal : white_supremacy
 https://theappeal.org/georgia-man-executed-donnie-lance/ : crime : death_penalty : donnie_cleveland_lance : georgia : kyle_c_barry : the_appear
@@ -10033,7 +10049,7 @@ https://theappeal.org/meet-the-san-diego-da-who-seized-on-the-human-trafficking-
 https://theappeal.org/new-data-suggests-risk-assessment-tools-have-little-impact-on-pretrial-incarceration/ : algorithmic_bias : ethan_corey : incarceration : risk_analysis : the_appeal
 https://theappeal.org/virginia-teen-was-detained-and-prosecuted-for-saying-oink-oink-to-cop/#.XP7l2bjVdlL.twitter : kira_lerner : obstruction_of_justice : police_violence : the_appeal : theo_stamos : virginia
 https://theappeal.org/why-are-women-getting-stuck-in-rikers/ : jail : new_york : prison : rikers : the_appeal : women
-https://thearchitectureofinformation.com/ : 
+https://thearchitectureofinformation.com/ : :
 https://thebaffler.com/kate-takes/plant-parenthood-wagner : gardening : plant : the_baffler
 https://thebaffler.com/latest/behaviorism-education-watters : behaviourism : silicon_valley : the_baffler
 https://thebaffler.com/latest/busy-doing-nothing-marz : __come_back_to : __important : attention_economy : jenny_odell : megan_marz : productivity : resistance : the_baffler
@@ -10207,7 +10223,7 @@ https://towardsdatascience.com/understanding-the-mathematics-behind-gradient-des
 https://towardsdatascience.com/use-kaggle-to-start-and-guide-your-ml-data-science-journey-f09154baba35?gi=67279a870d21 : blog : data_analysis : data_science : data_sets : kaggle : learning : machine_learning : tutorial
 https://towardsdatascience.com/xpath-for-python-89f4423415e0 : XML : python : selenium : xpath
 https://townhall.com/columnists/benshapiro/2011/04/13/the-magic-of-donald-trump-n1395003 : GOP : ben_shapiro : politics : racism : townhall : trump
-https://tox.wiki/en/latest/ : python : tox : virtual_environment
+https://tox.wiki/en/latest/ : python : tox : virtual_environment : virtual_environments
 https://tox.wiki/en/stable/index.html : python : testing : tox
 https://trac.macports.org/wiki/TeXLivePackages : latex : writing
 https://trac.v2.nl/wiki/pyOSC : osc : python
@@ -10235,6 +10251,8 @@ https://two-wrongs.com/on-competing-with-c-using-haskell : c_lang : comparison :
 https://twocare.org/the-national-christian-foundation-anti-lgbt-funding-encyclopedia/ : 2014 : chick_fil_a : homophobia : national_christian_foundation : twocare
 https://typealias.com/guides/illustrated-guide-covariance-contravariance/ : __important : blog : contravariance : covariance : kotlin : programming
 https://typesetinthefuture.com/2016/06/19/bladerunner/ : analysis : blade_runner : typography
+https://tyranny.fandom.com/wiki/List_of_global_variables_in_Tyranny : __come_back_to : global_variables : tyranny : wiki
+https://tyranny.paradoxwikis.com/Tyranny_Wiki : game_development : tyranny : wiki
 https://tyt.com/stories/4vZLCHuQrYE4uKagy0oyMA/1r0wZS96Tu0sIY2e2o6SiK : GOP : ICE : america : restraints : trump : tyt
 https://tyt.com/stories/4vZLCHuQrYE4uKagy0oyMA/688s1LbTKvQKNCv2E9bu7h : ICE : death : immigration : police_violence : trump : tyt
 https://ucr.fbi.gov/crime-in-the-u.s/2015/crime-in-the-u.s.-2015/tables/expanded_homicide_data_table_6_murder_race_and_sex_of_vicitm_by_race_and_sex_of_offender_2015.xls : 2015 : FBI : crime : statistics
@@ -10561,7 +10579,7 @@ https://www.alanzucconi.com/2018/01/03/learning-shaders/ : alan_zucconi : progra
 https://www.alanzucconi.com/tutorials/ : alan_zucconi : c_sharp : programming : shader : unity
 https://www.alexirpan.com/2018/02/14/rl-hard.html : blog : deep_learning : machine_learning
 https://www.alexkras.com/reverse-engineering-one-line-of-javascript/ : javascript
-https://www.algorithmsilluminated.org/ : algorithm : book : computer_science : reference
+https://www.algorithmsilluminated.org/ : algorithm : algorithms : book : computer_science : reference
 https://www.alicemaz.com/writing/minecraft.html : economics : minecraft
 https://www.aljazeera.com/indepth/inpictures/child-soldiers-south-sudan-181024095844282.html : al_jazeera : andreea_campeanu : child : child_soldiers : civil_war : patricia_huon : photographs : sudan
 https://www.aljazeera.com/indepth/inpictures/flower-men-saudi-arabia-190312070357276.html : al_jazeera : aljazeera : arabia : asir : eric_lafforgue : flower_men : middle_east : saudi_arabia : tihama
@@ -10589,7 +10607,7 @@ https://www.amazon.co.uk/Technologies-Interactive-Digital-Storytelling-Entertain
 https://www.amazon.co.uk/gp/search : amazon : book : recommendation
 https://www.amazon.co.uk/gp/search?index=books&linkCode=qs&keywords=9781555878832 : africa : amazon : book : politics : warlord
 https://www.amazon.co.uk/hz/wishlist/ls/83NSFJOB26R5?filter=DEFAULT&viewType=list&lek=c56ceaf5-1d8b-48aa-be1c-c68dff0d6cd9&sort=default&type=wishlist : amazon : culture : wishlist
-https://www.amazon.co.uk/s?k=boxer+briefs&rh=n%3A1731031031&af=%7B%22quartzVehicle%22%3A%2288-1159%22%2C%22replacementKeywords%22%3A%22briefs%22%7D&dc : 
+https://www.amazon.co.uk/s?k=boxer+briefs&rh=n%3A1731031031&af=%7B%22quartzVehicle%22%3A%2288-1159%22%2C%22replacementKeywords%22%3A%22briefs%22%7D&dc : :
 https://www.amazon.com/Age-Abundance-Prosperity-Transformed-Americas/dp/0060747668%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduckduckgo-d-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0060747668 : abundance : book : economics : recommendation : scarcity
 https://www.amazon.com/Ask-Building-Consent-Kitty-Stryker/dp/1944934251 : amazon : book : consent : consent_culture : recommendation
 https://www.amazon.com/Body-Keeps-Score-Healing-Trauma/dp/0143127748/ref=sr_1_1 : bessel_van_der_kolk : book : recommendation : the_body_keeps_score
@@ -10672,7 +10690,7 @@ https://www.archdaily.com/912205/the-freehand-sketches-of-pritzker-prize-winners
 https://www.archives.gov/exhibits/featured-documents/dc-emancipation-act : emancipation : history : national_archives : racism : slavery
 https://www.archives.gov/federal-register/cfr/about.html : USA : archive : federal_regulations : law : national_archives
 https://www.areaware.com/products/gradient-puzzle : areaware : gradient_puzzle : jade : jigsaw : puzzle : shopping
-https://www.areweguiyet.com/ : GUI : library : rust
+https://www.areweguiyet.com/ : GUI : gui : library : rust
 https://www.artificiallawyer.com/2019/06/04/france-bans-judge-analytics-5-years-in-prison-for-rule-breakers/ : artificial_lawyer : france : judge : judiciary : law : statistical_analysis
 https://www.artstation.com/artwork/JlWZEa : 3D : art : artstation : tutorial
 https://www.artstation.com/ericsmack : artstation : beautiful : beauty : eric_smack : sci_fi : science_fiction
@@ -10708,11 +10726,11 @@ https://www.bath.ac.uk/announcements/retreat-to-win-how-to-sustain-an-online-cam
 https://www.bauhaus-bookshelf.org/ : bauhaus : design : download : history : interactive : reference
 https://www.bay12games.com/dwarves/mantisbt/view_all_bug_page.php : bugs : dwarf_fortress : software_engineering
 https://www.bbc.co.uk/bbcthree/article/183995d2-8d56-4028-9ca5-73394d695e10 : BBC : apocalypse : doomsday : trump : wealth_inequality
-https://www.bbc.co.uk/editorialguidelines/guidelines/foreword-tony-hall : BBC : censorship : editorial_standards : ethics : journalism : reference : technical_standards
-https://www.bbc.co.uk/food/recipes/master_cookie_dough_22386 : BBC : cookies : recipe
+https://www.bbc.co.uk/editorialguidelines/guidelines/foreword-tony-hall : BBC : bbc : censorship : editorial_standards : ethics : journalism : reference : technical_standards
+https://www.bbc.co.uk/food/recipes/master_cookie_dough_22386 : BBC : bbc : cookies : recipe
 https://www.bbc.co.uk/news/health-50215011 : BBC : asthma : climate_change : health_care
 https://www.bbc.co.uk/news/science-environment-49295051 : BBC : arctic : climate_change : environment : plastic : pollution : snow
-https://www.bbc.co.uk/news/stories-43754737 : BBC : MI5 : UK : alan_dawnay : censorship : cold_war : history : paul_reynolds : politics : vernon_kell
+https://www.bbc.co.uk/news/stories-43754737 : BBC : MI5 : UK : alan_dawnay : bbc : censorship : cold_war : history : mi5 : paul_reynolds : politics : uk : vernon_kell
 https://www.bbc.co.uk/news/technology-55497353 : BBC : adobe : chris_fox : flash : obsolescence : technology
 https://www.bbc.co.uk/news/uk-england-bristol-50180417 : bristol : history : olivette_otele : race : slavery : university
 https://www.bbc.co.uk/news/uk-england-essex-47720887 : BBC : essex : harlow : housing : julian_sturdy : london : matt_precey
@@ -10828,6 +10846,7 @@ https://www.buzzfeednews.com/article/mathonan/the-fires-are-a-before-and-after-c
 https://www.buzzfeednews.com/article/salvadorhernandez/coronavirus-kills-pregnant-federal-inmate : andrea_circle_bear : buzzfeed : covid_19 : death : incarceration : salvador_hernandez
 https://www.buzzfeednews.com/article/skbaer/california-doctor-girlfriend-rape-charges-dropped : buzzfeed : cerissa_riley : grant_w_robicheaux : injustice : law : prosecutorial_misconduct : sexual_assault : stephanie_k_baer : todd_spitzer : tony_rackauckas
 https://www.c-span.org/video/ : CSPAN : daily_briefing : jan_25 : sean_spicer
+https://www.c64-wiki.com/wiki/Little_Computer_People : archive : commodore_64 : little_computer_people
 https://www.c82.net/euclid/ : euclid : geometry : math : visualisation
 https://www.c82.net/iconography/ : art : asset : history : iconography : jg_heck
 https://www.cambridge.org/core/books/an-introduction-to-indian-philosophy/B9CD240194015F1D13BCDE7CA376CB86 : book : history : india : philosophy
@@ -10916,7 +10935,7 @@ https://www.cl.cam.ac.uk/~nk480/ : coq : logic : neel_krishnaswami : people : pr
 https://www.cleveland.com/entertainment/index.ssf/2018/06/clevelands_culinary_world_chan.html : anthony_bourdain : cleveland : nikki_delamotte : restaurant
 https://www.cleveland.com/opinion/index.ssf/2018/11/nikki_delamotte_1990-2018_a_jo.html : cleveland : journalist : murder : nikki_delamotte
 https://www.clickondetroit.com/news/national/seattle-man-who-stabbed-his-brother-to-death-with-4-foot-sword-thought-he-was-a-lizard-police-say : QAnon : brian_newlin : buckey_wolfe : click_on_detroit : detroit : fascism : insane : proud_boys : racism : seattle : sword
-https://www.clipsrules.net/ : CLIPS : expert_system : production_system : rule : rule_engine
+https://www.clipsrules.net/ : CLIPS : expert_system : production_system : rule : rule_engine : rules
 https://www.cmu.edu/cee/projects/PMbook/ : book : construction : project_management
 https://www.cnbc.com/2019/02/28/trumps-economic-policies-failed-to-deliver-promised-3percent-growth-in-2018.html : CNBC : barack_obama : economics : growth : john_harwood : trump
 https://www.cnet.com/news/apple-cant-protect-you-from-data-trackers-forever-no-one-can/ : ad_tech : alfred_ng : apple : cnet : data : futility : marketing : privacy : surveillance : tracker
@@ -10948,6 +10967,7 @@ https://www.counterpunch.org/2017/06/27/hershs-new-syria-revelations-buried-from
 https://www.courtlistener.com/opinion/137000/rasul-v-bush/ : SCOTUS : court_listener : law : rasul_v_bush
 https://www.cqse.eu/en/blog/how-not-to-write-git-hooks/ : git : productivity : software_development : tutorial
 https://www.crcpress.com/Level-Design-Processes-and-Experiences/Totten/p/book/9781498745055 : book : level_design : recommendation
+https://www.creationkit.com/index.php?title=Papyrus_Introduction : bethesda : modding : pex : psc : wiki
 https://www.creativereview.co.uk/how-i-work-game-urbanist-konstantinos-dimopoulos/ : city : creative_review : game_design : konstantinos_dimopoulos : paid_access : urbanism
 https://www.creativityandcognition.com/ : creativity : edu : media : technology
 https://www.creativitypost.com/article/evaluating_computational_creativity : anna_jourdanous : creativity
@@ -11043,7 +11063,7 @@ https://www.domesticshelters.org/wish-lists : charity : domestic_violence : shel
 https://www.donhopkins.com/home/micropolis/ : __come_back_to : history : micropolis : sim_city : software
 https://www.doodlersanonymous.com/post/2625/illustrations-of-creatures-from-russian-myths-and-fairy-tales/ : art : hugo_seijas : illustration : myths : russia
 https://www.doomworld.com/forum/topic/100569-level-progress-diagrams-%E2%80%93-final-doom-complete/ : data_analysis : doom : level_analysis : level_design : visualisation
-https://www.dotkam.com/2008/05/28/generate-xsd-from-xml/ : XML : blog : dotkam : trang : xsd
+https://www.dotkam.com/2008/05/28/generate-xsd-from-xml/ : XML : blog : dotkam : trang : xml : xsd
 https://www.douglas.co.us/community/food-assistance/ : colorado : douglas_county : food_stamps : government : government_assistance : policy
 https://www.draw.io/ : design : drawing : graphics
 https://www.dropbox.com/s/60rw1rp5s8p41g5/replicable_priming.pdf : behaviour : paper : research : social_system
@@ -11131,9 +11151,9 @@ https://www.fathommag.com/stories/when-the-church-listens-to-the-hard-of-hearing
 https://www.fbo.gov/index.php?s=opportunity&mode=list&tab=list&_nfound=1 : USA : business : federal_business_opportunities : federal_government
 https://www.federalregister.gov/ : USA : executive_orders : federal_register
 https://www.federalregister.gov/documents/2019/03/04/2019-02200/medicare-and-medicaid-programs-patient-protection-and-affordable-care-act-interoperability-and : assets : federal_register : law : medicaid : medicare : resource
-https://www.feynmanlectures.caltech.edu/III_toc.html : lecture : physics : richard_feynman
-https://www.feynmanlectures.caltech.edu/II_toc.html : lecture : physics : richard_feynman
-https://www.feynmanlectures.caltech.edu/I_toc.html : lecture : physics : richard_feynman
+https://www.feynmanlectures.caltech.edu/III_toc.html : feynman : lecture : physics : richard_feynman
+https://www.feynmanlectures.caltech.edu/II_toc.html : feynman : lecture : physics : richard_feynman
+https://www.feynmanlectures.caltech.edu/I_toc.html : feynman : lecture : physics : richard_feynman
 https://www.filfre.net/2019/03/darklands/ : RPG : darklands : digital_antiquarian : history
 https://www.filmsforaction.org/articles/names-and-locations-of-the-top-100-people-killing-the-planet/?fbclid=IwAR2Msu20kQ9-7hRZbPvYFy-vyudSDWxNvOjTlxsDejKAeMjT09KVIe45P5k#.XQZ_PeMGPF0.facebook : climate_change : films_for_action : jordan_engel : map
 https://www.firstthings.com/article/2018/11/the-bookish-life : book : first_things : philosophy : wisdom
@@ -11405,7 +11425,7 @@ https://www.informingscience.org/Publications/4113 : informing_science : phd : s
 https://www.inklestudios.com/2021/02/22/ink-version-1.html : ink : ink_library : inkle : interactive_fiction : library : programming
 https://www.inmaterialdesign.com/index.php/mag/article/view/27 : anthropology : body : inmaterial
 https://www.insidehighered.com/advice/2021/03/10/importance-injecting-fun-and-humor-classes-opinion : insider_higher_ed : ludic_pedagogy : pedagogy : sharon_lauricella : t_keith_edmunds
-https://www.insidehighered.com/blogs/just-visiting/our-system-higher-education-doesn%E2%80%99t-make-any-sense : 
+https://www.insidehighered.com/blogs/just-visiting/our-system-higher-education-doesn%E2%80%99t-make-any-sense : :
 https://www.insidehighered.com/news/2018/09/20/why-one-academic-spends-hours-week-putting-together-spreadsheet-documented : colleen_flaherty : education : harassment : inside_higher_ed : julie_libarkin : sexual_assault
 https://www.insidehighered.com/news/2019/01/31/homeland-security-creates-fake-university-lure-undocumented-immigrants-seeking-stay : ICE : education : fake : higher_education : immigration : inside_higher_ed : racism : trump
 https://www.insider.com/story-behind-viral-photo-of-rosaries-taken-from-migrants-at-us-border-2018-6 : immigration : insider : kieran_corcoran : rosaries : trump
@@ -11588,7 +11608,7 @@ https://www.makeareadme.com/ : best_practices : github : readme : software_devel
 https://www.manning.com/books/grokking-algorithms : algorithm : book : learning : reference : software_development : understanding
 https://www.manning.com/books/unity-in-action-second-edition : book : recommendation : unity
 https://www.marketwatch.com/story/how-sephora-became-a-mecca-for-female-tech-professionals-2017-10-09-10881354 : cosmetics : marketwatch : sephora : technology : women
-https://www.marketwatch.com/story/u-s-government-checks-constituted-40-of-farmers-income-in-2020-usda-01609444429?reflink=mw_share_twitter : 
+https://www.marketwatch.com/story/u-s-government-checks-constituted-40-of-farmers-income-in-2020-usda-01609444429?reflink=mw_share_twitter : :
 https://www.marxists.org/archive/index.htm : book : communism : library : marxism
 https://www.marxists.org/archive/marx/works/1845/condition-working-class/ch07.htm : friedrich_engels : karl_marx
 https://www.marxists.org/archive/marx/works/1867-c1/ : book : capital : economics : karl_marx : marxism
@@ -11785,7 +11805,7 @@ https://www.npr.org/2019/10/07/767850332/a-pioneering-columbus-courtroom-helps-t
 https://www.npr.org/2020/12/23/949679837/shock-and-dismay-after-trump-pardons-blackwater-guards-who-killed-14-iraqi-civil : NPR : blackwater : dustin_heard : evan_liberty : journalism : laurel_wamsley : nicholas_slatten : paul_slough : trump : war_crimes
 https://www.npr.org/2021/02/15/967783477/immigration-hard-liner-files-reveal-40-year-bid-behind-trumps-census-obsession?t=1615146790051 : NPR : census : hansi_lo_wang : immigration : racism : trump
 https://www.npr.org/2022/04/01/1090206447/dc-police-find-5-fetuses-lauren-handy : abortion : anti_abortion : lauren_handy : washington_dc
-https://www.npr.org/2023/01/06/1147392476/albuquerque-democrats-attacks-homes-offices-bernalillo-new-mexico : GOP : NPR : arizona : democrat : terrorism
+https://www.npr.org/2023/01/06/1147392476/albuquerque-democrats-attacks-homes-offices-bernalillo-new-mexico : GOP : NPR : arizona : democrat : npr : terrorism
 https://www.npr.org/sections/ed/2014/08/22/341898975/a-picture-of-language-the-fading-art-of-diagramming-sentences : NLP : NPR : diagram : language : part_of_speech
 https://www.npr.org/sections/ed/2018/04/04/590887226/persistent-disparities-in-school-discipline-says-government-watchdog : NPR : discipline : education : racism : school
 https://www.npr.org/sections/goatsandsoda/2018/02/03/579283921/chinas-toilet-revolution-is-flush-with-lavish-loos : NPR : china : sanitation : toilets
@@ -11955,8 +11975,8 @@ https://www.nytimes.com/2020/04/15/nyregion/coronavirus-nj-andover-nursing-home-
 https://www.nytimes.com/2020/08/27/technology/what-if-facebook-is-the-real-silent-majority.html#click=https://t.co/fD6MRkV55u : facebook : new_york_times : silent_majority : social_media : technology
 https://www.nytimes.com/2020/09/05/world/asia/india-economy-coronavirus.html : covid_19 : india : new_york_times
 https://www.nytimes.com/2021/01/02/opinion/letters/feminism.html?referringSource=articleShare : feminism : new_york_times : opinion
-https://www.nytimes.com/2022/08/08/us/elections/gerrymandering-maps-elections-republicans.html : USA : alabama : elections : georgia : gerrymandering : lousiana : new_york_times : ohio : racism
-https://www.nytimes.com/2022/08/14/us/politics/trump-classified-documents.html : classification : new_york_times : trump
+https://www.nytimes.com/2022/08/08/us/elections/gerrymandering-maps-elections-republicans.html : USA : alabama : elections : georgia : gerrymandering : lousiana : new_york_times : nytimes : ohio : racism
+https://www.nytimes.com/2022/08/14/us/politics/trump-classified-documents.html : classification : new_york_times : nytimes : trump
 https://www.nytimes.com/interactive/2015/07/08/us/census-race-map.html : map : segregation : social_system : visualisation
 https://www.nytimes.com/interactive/2016/01/28/upshot/donald-trump-twitter-insults.html : civility : insult : new_york_times : politics : trump
 https://www.nytimes.com/interactive/2017/11/11/climate/houston-flooding-climate.html : houston : hurricanes : new_york_times : politics
@@ -11978,7 +11998,7 @@ https://www.nytimes.com/interactive/2019/11/16/world/asia/china-xinjiang-documen
 https://www.nytimes.com/interactive/2019/climate/trump-environment-rollbacks.html : environment : kendra_pierre_louis : livia_albeck_ripka : nadja_popovich : politics : regulation : trump
 https://www.nytimes.com/interactive/2019/climate/trump-environment-rollbacks.html?smtyp=cur&smid=tw-nytpolitics : climate_change : environment : kendra_pierre_louis : livia_albeck_ripka : nadja_popovich : new_york_times : pollution : regulation
 https://www.nytimes.com/interactive/2019/obituaries/black-history-month-overlooked.html : USA : african_american : black_history : data : history : new_york_times : obituary : racism
-https://www.nytimes.com/interactive/2022/11/18/world/middleeast/extreme-heat.html?referringSource=articleShare : climate_change : heat : interactive : new_york_times : visualisation
+https://www.nytimes.com/interactive/2022/11/18/world/middleeast/extreme-heat.html?referringSource=articleShare : climate_change : heat : interactive : new_york_times : nytimes : visualisation
 https://www.nytimes.com/spotlight/financial-crisis-10-year-anniversary : 2008 : financial_crisis : mortgage_crisis : new_york_times
 https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12178217 : new_zealand : nzherald : police : prostitutes_collective
 https://www.oculusvr.com/order/ : oculus : shopping
@@ -12003,7 +12023,7 @@ https://www.opendemocracy.net/beyondslavery/nicola-mai-calogero-giametta-h-l-ne-
 https://www.opendemocracy.net/uk/ed-jones/five-reasons-why-we-don-t-have-free-and-independent-press-in-uk-and-what-we-can-do-about : UK : criticism : free_press : free_speech : politics
 https://www.opengl.org/sdk/docs/man2/ : c_plus_plus : graphics : open_gl : programming
 https://www.openphilanthropy.org/blog/reasonable-doubt-new-look-whether-prison-growth-cuts-crime : crime : politics : prison : study
-https://www.openpolicyagent.org/ : kubernetes : open_policy_agent : policy : programming_language : protocol
+https://www.openpolicyagent.org/ : kubernetes : open_policy_agent : policy : programming_langauge : programming_language : protocol
 https://www.opensecrets.org/news/2019/06/trump-foreign-business-interests/#utm_source=twitter&utm_medium=social&utm_campaign=twitt_trump-foreign-business-interests-060419 : anna_massoglia : business : corruption : karl_evers_hillstrom : open_secrets : trump
 https://www.opensocietyfoundations.org/ : george_soros : open_society_foundations
 https://www.openstarts.units.it/dspace/bitstream/10077/5211/1/Evans_E%26P_XI_2009_1.pdf : logic : pdf : richard_evans
@@ -12030,6 +12050,7 @@ https://www.parliament.uk/archives : archive : assets : data_analysis : data_set
 https://www.parliament.uk/biographies/commons/james-cartlidge/4519 : local : member_of_parliament : politics : sudbury
 https://www.parliament.uk/dcmscom : UK : disinformation : fake_news : law : parliament : policy : report
 https://www.pastemagazine.com/articles/2017/03/tom-clancys-ghost-recon-wildlands-is-a-frightening.html : design : game : game_criticism : ghost_recon
+https://www.patches-scrolls.de/ : __come_back_to : archive : games : patches
 https://www.patreon.com/ChrisCrawford : UI : __come_back_to : chris_crawford : editor : interactive_fiction : patreon
 https://www.patreon.com/Hood_Biologist : STS : __come_back_to : hood_biologist : patreon : shay_akil_maclean : sociology
 https://www.patreon.com/LotteMakesStuff : game_development : lotte : patreon : programming : unity
@@ -12111,11 +12132,11 @@ https://www.post-gazette.com/opinion/Op-Ed/2019/09/05/Vicki-Schieber-Pennsylvani
 https://www.postandcourier.com/news/he-defended-the-confederate-flag-and-insulted-immigrants-now-he/article_fccd2722-1144-11ea-bf17-dbfc08c2afcb.html : joseph_cranney : judiciary : post_and_courier : racism : south_carolina : trans_phobia : trump
 https://www.postandcourier.com/news/these-sc-judges-can-have-less-training-than-barbers-but/article_deeac12e-eb6f-11e9-927b-5735a3edbaf1.html : joseph_cranney : judiciary : law : post_and_courier : south_carolina : training
 https://www.postgresql.org/docs/current/plpython.html : postgresql : python
-https://www.postgresql.org/docs/current/rules.html : postgresql : rule
+https://www.postgresql.org/docs/current/rules.html : postgresql : rule : rules
 https://www.povertyactionlab.org/handbook-field-experiments : field_experiments : methods : research
 https://www.poynter.org/tech-tools/2016/ad-tech-is-broken-heres-how-newsrooms-can-fix-it/ : ad_tech : fraud : marketing : melody_kramer : news : online_advertising : poynter
 https://www.ppig.org/papers/ : PPIG : academia : conference : programming : psychology
-https://www.preceden.com/ : gantt_charts : timeline
+https://www.preceden.com/ : gantt_charts : timeline : timelines
 https://www.prettygooddesign.org/blog/Blog%20Post%20Title%20One-5new4?fbclid=IwAR1MfNmMK0FQnhWKQzzQfBAD2XXfvo2fNvqrnNaNuJ33_-5lOahvX2wrJ6E : children : discussion : education : pretty_good_design : racism : resource
 https://www.pri.org/stories/2017-08-14/three-ways-trump-administration-has-downplayed-white-supremacy : pri : trump : white_supremacy
 https://www.pri.org/stories/2017-10-03/why-oklahomas-female-incarceration-rate-so-high : incarceration : oklahoma : women
@@ -12268,7 +12289,7 @@ https://www.researchgate.net/publication/265400819_Phenomenology_and_First-Order
 https://www.researchgate.net/publication/315970957_Social_Identity_Shapes_Social_Valuation_Evidence_from_Prosocial_Behavior_and_Vicarious_Reward : pdf : research : social_identity : social_norms : value
 https://www.researchgate.net/publication/323385171_Gaslighting_in_the_context_of_clinical_interactions_with_parents_of_transgender_children : gaslighting : health_care : transgender
 https://www.resetera.com/threads/religious-gamers-what-is-your-feeling-about-praying-to-deities-in-games.121708/ : forum : games : praying : religion : resetera
-https://www.resumebuilder.com/1-in-4-hiring-managers-say-they-are-less-likely-to-move-forward-with-jewish-applicants/ : HR : anti_semitism : hiring
+https://www.resumebuilder.com/1-in-4-hiring-managers-say-they-are-less-likely-to-move-forward-with-jewish-applicants/ : HR : anti_semitism : antisemitism : hiring
 https://www.reuters.com/article/us-afghanistan-attack-drones/u-s-drone-strike-kills-30-pine-nut-farm-workers-in-afghanistan-idUSKBN1W40NW : USA : US_military : afghanistan : civilian_casualties : drone : reuters : trump
 https://www.reuters.com/article/us-elsalvador-massacre/salvadoran-general-admits-army-carried-out-infamous-1981-massacre-idUSKBN1ZN2MJ : 1981 : civil_war : el_mozote_massacre : el_salvador : elliott_abrams : history : juan_rafael_bustillo : massacre : reuters
 https://www.reuters.com/article/us-israel-palestinians-protests-shooting-idUSKBN1HY205 : gaza : israel : palestine : reuters : war : warfare
@@ -12515,7 +12536,7 @@ https://www.seas.upenn.edu/~cis194/spring13/lectures.html : functional_programmi
 https://www.securityconference.de/en/publications/munich-security-report/ : foreign_policy : germany : international_security : munich : security
 https://www.sefaria.org/sheets/242996?lang=bi : abortion : judaism : sefaria
 https://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?session=1&congress=111&vote=00061 : 2009 : GOP : democrats : record : roll_call : senate : voting
-https://www.senate.gov/legislative/rules_procedure.htm : USA : procedure : rule : senate
+https://www.senate.gov/legislative/rules_procedure.htm : USA : procedure : rule : rules : senate
 https://www.sendowl.com/orders/2267839/download/b13c8ad34d90bbca3014267aa859246a : game : rimworld
 https://www.sevendaysvt.com/vermont/madelyn-linsenmeir-1988-2018/Content?oid=21797604 : addiction : drug_addiction : obituary : opioid
 https://www.sfchronicle.com/nation/article/More-than-14-000-immigrant-children-are-in-U-S-13399510.php : ICE : SF_chronicle : border : child : custody : immigration : politics : trump
@@ -12529,7 +12550,7 @@ https://www.sickchirpse.com/bristol-council-banning-cheese-toasties-order-stop-f
 https://www.sims-shellcaster.com/#seed=182176 : design : games : procedural_content : shellcaster : the_sims
 https://www.skepticalscience.com/graphics.php?g=47 : climate_change : data_analysis : science : skepticism
 https://www.slashfilm.com/673162/heres-why-movie-dialogue-has-gotten-more-difficult-to-understand-and-three-ways-to-fix-it/ : audio : film : trends
-https://www.slavevoyages.org/ : database : history : slave_trade
+https://www.slavevoyages.org/ : database : databse : history : slave_trade
 https://www.slideshare.net/swadpasc/paschke-rule-ml2014keynote : RuleML : __important : presentation : production_rules : production_system : rule : rule_ml : slides
 https://www.slideshare.net/swadpasc/reaction-rule-mladrianpaschke20140109long : RuleML : __important : presentation : production_rules : production_system : rule : rule_ml : slides
 https://www.slideshare.net/swadpasc/reaction-ruleml-ruleml2012paschketutorial : RuleML : __important : presentation : production_rules : production_system : rule : rule_ml : slides
@@ -12558,7 +12579,7 @@ https://www.spiritrisingyoga.org/kundalini-info/breath-of-fire : breathing : med
 https://www.splcenter.org/fighting-hate/intelligence-report/2012/neo-nazi-builds-north-idaho-compound-replace-defunct-aryan-nations : 2012 : SPLC : aryan_nation : idaho : neo_nazi : racism : richard_butler : terrorism
 https://www.splcenter.org/hatewatch/2016/03/08/no-ku-klux-klan-has-never-ever-been-leftist-organization : CNN : KKK : SPLC : fake_news : history : jeffrey_lord : right_wing : trump
 https://www.springboard.com/blog/data-mining-python-tutorial/ : data_analysis : data_sets : python
-https://www.sslshopper.com/article-most-common-openssl-commands.html : SSL : reference
+https://www.sslshopper.com/article-most-common-openssl-commands.html : SSL : reference : ssl
 https://www.stackbuilders.com/tutorials/haskell/gui-application/ : GUI : haskell
 https://www.standard.co.uk/business/business-focus-why-your-boxfresh-train-is-being-replaced-by-a-brand-new-model-a3766501.html : UK : economics : evening_standard : trains
 https://www.standwithblaseyford.com/ : brett_kavanaugh
@@ -12579,7 +12600,7 @@ https://www.studica.com/blog/create-ui-unity-tutorial : GUI : UI : c_sharp : pro
 https://www.studica.com/blog/unity-ui-tutorial-scroll-grid : UI : c_sharp : programming : tutorial : unity
 https://www.stuff.co.nz/national/crime/108597453/woman-sentenced-for-online-posts-that-outed--sex-worker-to-her-family : law : new_zealand : sex_work : stuff_co_nz
 https://www.sup.org/books/title/ : __important : anthropology : book : culture : diagram : recommendation : stanford
-https://www.sup.org/books/title/?id=33010 : book : literary_mathematics : literature : quantitative
+https://www.sup.org/books/title/?id=33010 : book : literary_mathematics : literature : quantiative : quantitative
 https://www.swi-prolog.org/ : documentation : prolog : swipl
 https://www.swrh.co.uk/academic-articles/open-letter-from-the-sex-work-research-hub-to-the-conservative-party-human-rights-commission-on-the-global-sex-trade : conservative : research : science : sex_trafficking : sex_work
 https://www.syriamusicmap.org/en/home : map : music : syria : visualisation
@@ -13460,7 +13481,7 @@ https://www.vanityfair.com/news/2022/10/don-bolduc-calls-embryo-disposal-disgust
 https://www.vatican.va/archive/cod-iuris-canonici/cic_index_en.html : canon_law : law : religion : vatican
 https://www.vatican.va/content/vatican/en.html : religion : rome : vatican
 https://www.vera.org/blog/dispatches-from-germany/what-german-prisons-do-differently : germany : justice : prison : reform : vera
-https://www.versobooks.com/ : book : publisher : verso
+https://www.versobooks.com/ : book : books : publisher : verso
 https://www.vicarious.com/general-game-playing-with-schema-networks.html : game_ai : general_game_playing : schema_networks
 https://www.vice.com/amp/en_uk/article/9kqp43/uk-porn-is-about-to-change-in-a-way-youre-not-going-to-like : UK : government : pornography : privacy : surveillance : vice
 https://www.vice.com/amp/en_us/article/9bgdap/censorship-corruption-and-bias-a-video-game-about-newspaper-journalism-511 : __important : censorship : game : journalism : vice : westport_independent
@@ -13595,7 +13616,7 @@ https://www.washingtonpost.com/graphics/national/mass-shootings-in-america/ : ma
 https://www.washingtonpost.com/graphics/national/one-hundred-years-of-hurricanes/ : climate_change : florida : hurricans : visualisation : washington_post
 https://www.washingtonpost.com/graphics/politics/2016-election/swing-state-margins/ : election : swing_states : trump : washington_post
 https://www.washingtonpost.com/graphics/politics/trump-claims-database/ : lies : trump : washington_post
-https://www.washingtonpost.com/health/2022/10/27/coronavirus-boosters-omicron/ : bivalent_booster : covid : vaccination : washington_post
+https://www.washingtonpost.com/health/2022/10/27/coronavirus-boosters-omicron/ : bivalent_booster : covid : vaccination : vaccine : wapo : washington_post
 https://www.washingtonpost.com/home/2022/01/08/cats-took-vitamix-hostage/ : cats : humour : washington_post
 https://www.washingtonpost.com/investigations/76-billion-opioid-pills-newly-released-federal-data-unmasks-the-epidemic/2019/07/16/5f29fd62-a73e-11e9-86dd-d7f0e60391e9_story.html?_view=prod&utm_term=.36c912cd46f1&noredirect=on : DEA : database : opioid : statistics : washington_post
 https://www.washingtonpost.com/investigations/distributors-pharmacies-and-manufacturers-respond-to-previously-unreleased-dea-data-about-opioid-sales/2019/07/16/7406d378-a7f6-11e9-86dd-d7f0e60391e9_story.html : DEA : opioid : statistics : washington_post
