@@ -568,6 +568,17 @@ https://docs.gradle.org/current/userguide/userguide.html
 https://brew.sh/
 https://docs.brew.sh/
 
+- formula          : definition built from upstream sources
+- cask             : definition of macOS native applications
+- keg              : installation destination of formula version
+- rack             : directory versioned kegs
+- keg-only         : formula is not symlinked into Homebrew’s prefix
+- cellar           : directory of named racks
+- Caskroom         : directory of named casks
+- external command : brew subcommand
+- tap              : directory of formulae, casks and/or external commands
+- bottle           : pre-built keg poured into the cellar/rack
+
 *** Make                                       :cli:
 https://www.gnu.org/software/make/manual/make.html
 https://www.gnu.org/software/automake/manual/automake.html#Autotools-Introduction
