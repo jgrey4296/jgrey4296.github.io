@@ -1,4 +1,5 @@
 #+TITLE: Quotes
+
 * Abraham Lincoln
 But another class of reasoners hold the opinion that there is no such relation
 between capital and labor, as assumed; and that there is no such thing as a
@@ -40,8 +41,10 @@ overthrow the Constitution but to overthrow the men who pervert the Constitution
 We here highly resolve... that government of the people, by the people, for the people,
 shall not perish from the earth.
 - Gettysburg Address, 1863
+
 * Ada Lovelace                                    :education:
 The more I study the more insatiable do I feel my genius for it to be.
+
 * Alain De Botton
 "The fear of saying something stupid (which stupid people never have) has censored far more good ideas than bad ones."
 
@@ -51,6 +54,7 @@ OOP to me means only messaging, local retention and protection and
 hiding of state-process, and extreme late-binding of all things. It
 can be done in Smalltalk and in LISP. There are possibly other
 systems in which this is possible, but I'm not aware of them.
+
 * Alan Levinovitz
 "Natural: How Faith in Nature's Goodness Leads to Harmful Fads, Unjust Laws, and Flawed Science":
 
@@ -62,6 +66,7 @@ Seen differently, praise of naturalness can look like praise of the privileges t
 
 * Albert Einstein
 I have no special talents, I am only passionately curious.
+
 * Alexander Dumas
 One thing that humbles me deeply is to see that human genius has its limits while human stupidity does not.
 
@@ -70,16 +75,19 @@ The truth unquestionably is, that the only path to a subversion of the republica
 
 Those then, who resist a confirmation of public order, are the true Artificers of monarchy—not that this is the intention of the generality47 of them. Yet it would not be difficult to lay the finger upon some of their party who may justly be suspected. When a man unprincipled in private life desperate in his fortune, bold in his temper, possessed of considerable talents, having the advantage of military habits—despotic in his ordinary demeanour—known to have scoffed in private at the principles of liberty—when such a man is seen to mount the hobby horse of popularity—to join in the cry of danger to liberty—to take every opportunity of embarrassing the General Government & bringing it under suspicion—to flatter and fall in with all the non sense of the zealots of the day—It may justly be suspected that his object is to throw things into confusion that he may “ride the storm and direct the whirlwind.”
 - [[https://founders.archives.gov/documents/Hamilton/01-12-02-0184-0002#ARHN-01-12-02-0184-0002-fn-0005][Objections and Answers respecting the Administration of the Government]]
+
 * Alexander Stephens
 Our new government is founded... upon the great truth that the negro is not equal to the white man;
 that slavery subordination to the superior race is his natural and normal condition.
 This, our new government, is the first, in the history of the world, based upon this great physical,
 philosophical, and moral truth.
 - Cornerstone speech, March 21, 1861.
+
 * Alfred Hitchcock
 Interviewer: You've given a lot of audiences shock sitting in the stalls,
 you've frightened me to death with Psycho. What frightens you?
 Hitchcock: Policemen.
+
 * Alfred Marshall
 The Socialists were men who had felt intensely and knew something
 about the hidden springs of human action of which the economists took no account.
@@ -87,6 +95,7 @@ Buried among their wild rhapsodies there were shrewd observations
 and pregnant suggestions from which philosophers and economists ahd much to learn.
 
 - The present position of economics.
+
 * Alfred North Whitehead
 “It requires a very unusual mind to undertake the analysis of the obvious.”
 
@@ -102,6 +111,7 @@ better narrative.
 If you want to have a discussion about the injustices perpetuated against Irish immigrants, have at it.
 But don't use it as a way to diminish the oppression of Black people that has spanned over 400 years
 and covers five centuries of history.
+
 * Alvin Gouldner
 It follows that neither involvement suffices to sustain theorists’ efforts to develop understanding of the social totality, although ironically both Party theorists and University academicians agree that each of their (different) group environments already suffices for that very purpose. My own conclusion is to the contrary. I therefore believe that one of the central tasks of social theory in our time is to attempt to rethink the position of theory's own group involvements and to re-examine the conditions, social and organizational, requisite for the development of an effective community of theorists committed to the understanding of the social totality.
 
@@ -110,6 +120,7 @@ Gouldner, Alvin W. Against Fragmentation: The Origins of Marxism and the Sociolo
 * Alvin Toffler
 "The Literate of the 21st century will not be those who cannot read and write,
 but those who cannot learn, unlearn, and relearn."
+
 * Amine Mechaal                                   :language:muslim:names:
 "He's Ibn Sina, not Avicenna.
 He's Ibn Rushd, not Averroes.
@@ -117,15 +128,18 @@ He's Jabir Ibn Hayyan, not Geber.
 
 Stop Latinizing the names of Muslim scholars to conceal the fact that they were Muslims.
 You don't see us calling Shakespeares 'Sheikh Zubayr'".
+
 * Anatole France
 An education isn't how much you have committed to memory, or even how much you know.
 
 It's being able to differentiate between what you know and what you don't.
+
 * Andrew Bolt
 Why do elderly Australian men keep getting jail for raping young boys?
 In this day and age it's as if no one dares disbelieve anyone claiming to be a victim, for fear they
 may be accused of being cruel.
 - Herald Sun, Feb 7, 2021.
+
 * Andrew Dilts
 “The call to prison abolition is a call to think more broadly
 than a single institution or practice, but to recognize that
@@ -135,6 +149,7 @@ entire series of institutions and practices that are
 predicated on the massive elimination of populations, of
 the marginalization of persons, and of the exposure to
 premature death of the many for the sake of the few.”
+
 * Andy Hertzfeld
 https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt
 In early 1982, the Lisa software team was trying to buckle down for the big push to ship the software within the next six months. Some of the managers decided that it would be a good idea to track the progress of each individual engineer in terms of the amount of code that they wrote from week to week. They devised a form that each engineer was required to submit every Friday, which included a field for the number of lines of code that were written that week.
@@ -142,25 +157,28 @@ Bill Atkinson, the author of Quickdraw and the main user interface designer, who
 He recently was working on optimizing Quickdraw's region calculation machinery, and had completely rewritten the region engine using a simpler, more general algorithm which, after some tweaking, made region operations almost six times faster. As a by-product, the rewrite also saved around 2,000 lines of code.
 He was just putting the finishing touches on the optimization when it was time to fill out the management form for the first time. When he got to the lines of code part, he thought about it for a second, and then wrote in the number: -2000.
 I'm not sure how the managers reacted to that, but I do know that after a couple more weeks, they stopped asking Bill to fill out the form, and he gladly complied.
+
 * Angela Davis
 In a racist society, it is not enough to be non-racist,
 we must be antiracist.
+
 * Anne Herb
 Libraries will get you through times of no money better than money will get you through times of no libraries.
+
 * Anne Sexton
 I am a collection of dismantled almosts.
+
 * Annie Thebaud-Mony
 They didn't encourage people to get a lead concentration, they didn't close the schools,
 the Health Regional Agency didn't send any alert.
+
 * Anthony Bourdain
 “Once you’ve been to Cambodia, you’ll never stop wanting to beat Henry Kissinger to death with your bare hands. You will never again be able to open a newspaper and read about that treacherous, prevaricating, murderous scumbag sitting down for a nice chat with Charlie Rose or attending some black-tie affair for a new glossy magazine without choking. Witness what Henry did in Cambodia – the fruits of his genius for statesmanship – and you will never understand why he’s not sitting in the dock at The Hague next to Milošević.”
 - The Cook's Tour: Global Adventures in Extreme Cuisines
 
-
 “If I'm an advocate for anything, it's to move. As far as you can, as much as you can. Across the ocean, or simply across the river. The extent to which you can walk in someone else's shoes or at least eat their food, it's a plus for everybody.
 
 Open your mind, get up off the couch, move.”
-
 
 ‘You can always tell when a person has worked in a restaurant.
 There's an empathy that can only be cultivated by those who've
@@ -179,20 +197,18 @@ No matter how grouchy you're feeling,
 You'll find the smile more or less healing.
 It grows in a wreath All around the front teeth
 Thus presevering the face from congealing.
+
 * Anthony Robbins
 "Who have you decided to become? Make this decision consciously. Make it carefully. Make it powerfully"
 - Outstanding People of the World
+
 * Antonio Gramsci                                 :crisis:old_versus_young:
 The crisis consists precisely in the fact that the old is dying and the new cannot be born;
 in this interregnum a great variety of morbid symptoms appear.
+
 * Anwar Sadat                                     :democracy_africa:
 It is democracy I am really suffering from as much as I am suffering from the opposition.
-* Nathan Ewer
-No matter how grouchy you're feeling,
-You'll find the smile more or less healing.
-It grows in a wreath
-All around the front teeth
-Thus preserving the face from congealing.
+
 * April Rosenblum
 "How can antisemitism seem so invisible?"
 
@@ -211,6 +227,7 @@ you keep things clear when you describe accurately and speicifcally what you opp
 and critique actions and policy as unjust - not people or nations as evil.
 
 - [[https://www.aprilrosenblum.com/thepast][The Past Didn't Go Anywhere]]
+
 * Arthur C. Clarke                                :employment:futurism:labour:
 The goal of the future is full unemployment, so we can play.
 That's why we have to destroy the present politico-economic system.
@@ -225,13 +242,16 @@ Essays and Aphorisms:
 * Audre Lorde
 Caring for myself is not self-indulgence,
 it is self-preservation and that is an act of political warfare.
+
 * Barry Goldwater                                 :GOP:racism:
 “Mark my word, if and when these preachers get control of the [Republican] party, and they're sure trying to do so, it's going to be a terrible damn problem. Frankly, these people frighten me. Politics and governing demand compromise. But these Christians believe they are acting in the name of God, so they can't and won't compromise. I know, I've tried to deal with them.”
+
 * bell hooks
 Contrary to what we may have been taught to think,
 unnecessary and unchosen suffering wounds us but need not scar us for life.
 It does mark us.
 What we allow the mark of our suffering to become is in our own hands.
+
 * Bertolt Brecht
 Nowadays, anyone who wishes to combat lies and ignorance and to write the truth must overcome at least five difficulties. He must have the courage to write the truth when truth is everywhere opposed; the keenness to recognize it, although it is everywhere concealed; the skill to manipulate it as a weapon; the judgment to select those in whose hands it will be effective; and the cunning to spread the truth among such persons. These are formidable problems for writers living under Fascism, but they exist also for those writers who have fled or been exiled; they exist even for writers working in countries where civil liberty prevails.
 
@@ -244,12 +264,14 @@ For the complete text, see: [[http://grace.evergreen.edu/%7Earunc/texts/theater/
 
 * Bertrand Russell
 "Everything is vague to a degree you do not realize till you have tried to make it precise."
+
 * Bessel van der Kolk
 Beneath the surface of the protective parts of trauma survivors there exists an
 undamaged essence, a self that is confident, curious, and calm, a self that has
 been sheltered from destruction by the various protectors that have emerged in their efforts to ensure survival.
 Once those protectors trust that it is safe to separate, the self will spontaneously emerge,
 and the parts can be enlisted in the healing process.
+
 * Brianna Wiest
 I think there's a point in your healing journey where you stop trying to convince other people
 to do the right thing, you just observe their choices, understand their character,
@@ -269,11 +291,14 @@ https://belledejour.substack.com/p/leisure-time
  ellipse. To begin with some primordial identity implies at the origin a
  prodigiously unlikely singularity, or else the obscure mystery of one simple
  being then dividing for no special reason.' (idem p. 73).
+
 * Bryan Patrick Wood
 Don't use anything you can't take the time to learn well.
+
 * C.S. Lewis
 If we let ourselves, we shall always be waiting for some distraction or other to end before we can really get down to our work. The only people who achieve much are those who want knowledge so badly that they seek it while the conditions are still unfavorable. Favorable conditions never come.”
 - Learning in War-Time.
+
 * Carl Sagan
 "We've arranged a global civilization in which most crucial elements profoundly depend on science and technology.
 We have also arranged things so that almost no one understands science and technology.
@@ -289,21 +314,26 @@ give a charlatan power over you, you almost never get it back.
 * Carter G. Woodson
 It is strange ,then, that the friends of truth and the promoters of freedom
 have not risen up against the present propaganda in the schools and crushed it.
+
 * Casey Fiesler
 Software engineers continue to treat safety and ethics as specialties rather
 than as the foundation of all design.
+
 * Charles Darwin
 One day, on tearing off some old bark, I saw two rare beetles and seized one in each hand;
 then I saw a third and new kind, which I could not bear to lose, so that I popped the one
 which I held in my right hand into my mouth.
 Alas it ejected some intensely acrid fluid, which burnt my tongue so that I was
 forced to spit the beetle out, which was lost, as well as the third one.
+
 * Charles Dickens
  "No one is useless in this world who lightens the burden of another"
+
 * Charles Eliot
 What is the plural of rhinoceros? Well, Liddell and Scott seem to authorize "rhinocerotes", which is
 pedantic, but "rhinoceroses" is not euphonious.
 - The East Africa Protectorate. 1905
+
 * Chien-Shiung Wu
 It is shameful that there are so few women in science in China.
 There are many many women in physics.
@@ -311,6 +341,7 @@ There is a misconception in America that women scientists are all dowdy spinster
 This is the fault of men.
 In Chinese society, a woman is valued for what she is, and men encourage her to accomplishments
 yet she remains eternally feminine.
+
 * Chomsky
 The effect of the concentration of wealth is to yield concentration of power.
 
@@ -327,6 +358,7 @@ who look at handicapped parking spaces and say "Why don't I get something like t
 They don't care why it exists,
 They don't care that they get the whole parking lot,
 They're just mad that there's 4 spaces in front of the walmart that aren't just for them.
+
 * Clara Barton
 
 "It irritates me to be told how things have always been done. I defy the tyranny of precedent.
@@ -334,13 +366,16 @@ I cannot afford the luxury of a closed mind."
 
 * Clarence Darrow
 I have never killed any one, but I have read some obituary notices with great satisfaction.
+
 * Clement Attlee
 "Charity is a cold grey loveless thing.
 If a rich man wants to help the poor, he should pay his taxes gladly, not dole out money at a whim."
+
 * Cliff Bleszinski
 Nice young guy asks me if we have controller support and I immediately go into my pre canned
 response that we are PC first and that keyboard mouse are pretty easy to learn
 at which point he holds up his lack of a hand and shrugs.
+
 * Clint Smith
 
 When people say,
@@ -372,8 +407,10 @@ live to see it. | have grown weary of telling myself lies
 that I might one day begin to believe. We are not all left
 standing after the war has ended. Some of us have
 become ghosts by the time the dust has settled.
+
 * Coco Chanel
 The most couragous act is still to think for yourself, aloud.
+
 * Count Dooku
 "It is an honor to stand before you, for you represent the freedom and the
 future of our galaxy. The once-great Republic and Jedi Order have become victims
@@ -389,14 +426,13 @@ daughters, who fight not because they were grown and designed to do so, but
 because they know in their hearts that they are fighting for a just and noble
 cause!"
 
-
-
 The jedi order's problem is Yoda. No being can wield that kind of power for centuries without
 becoming complacent at best or corrupt at worst. He has no idea that it's overtaken him;
 he no longer sees all the little cumulative evils that the Republic tolerates and fosters,
 from slavery to endless wars, and he never asks, "Why are we not acting to stop this?"
 Live alongside corruption for too long, and you no longer notice the stench.
 The Jedi cannot help the slaves of Tatooine, but they can help the slavemasters.
+
 * Dalton Trumbo
 I responded to your first letter out of
 courtesy. I ignored the second as a hint that I did
@@ -421,6 +457,7 @@ returned to you unopened.
 Dalton Trumbo
 Letter to ‘Mr. K-
 12 January 1948
+
 * Dan Miller
 Aetna: Claim rejected because diagnosis code doesn't match gener.
 Me: I have breast canceer, is that causing confusion?
@@ -457,14 +494,17 @@ economically positioned, affect whether it’s integrated (or not) into our live
 and even what kind of music might come into existence in the future. Capitalism
 tends toward the creation of passive consumers, and in many ways this tendency
 is counterproductive.”
+
 * David Cameron
 For too long, we have been a passively tolerant society, saying to our citizens:
 As long as you obey the law, we will leave you alone.
+
 * David Dunning
 An ignorant mind is precisely not a spotless, empty vessel, but one that's filled with the clutter of
 irrelevant or misleading life experiences, theories, facts, intuitions, strategies,
 algorithms, heuristics, metaphors and hunches that regrettably have the look and feel of
 useful and accurate knowledge.
+
 * David Evans
 Prior to the Pell Grant, the aid went to institutions to give to students.
 With the Pell Grant, the dynamic changed.
@@ -472,6 +512,7 @@ With the Pell Grant, the dynamic changed.
 * David Graeber
 idea: Structures are made up of actions, not concepts,
 conceptual systems are just reflexive abstractions from the coordination of activity.
+
 * David Gunkel
 PREFACE
 Ian Bogost (2007) Famously Changed The Direction Of Video Game studies by focusing attention not on narratives or the logics of play but on the mode of argumentation that is contained, produced, and advanced within the operational procedures of the game.
@@ -503,8 +544,10 @@ And this effort falls squarely within the proper purview and domain of what is c
 As Daniel Dennett (1996, vii) once explained (and in the first lines of the preface to one of his books): "I am a philosopher, not a scientist, and we philosophers are better at questions than answers.
 I haven't begun by insulting myself and my discipline, in spite of first appearances.
 Finding better questions to ask, and breaking old habits and traditions of asking, is a very difficult part of the grand human project of understanding ourselves and our world."
+
 * Deb Chachra
 Any Sufficiently advanced neglect is indistinguishable from malice.
+
 * Denise Ivanoff
 I think everyone whose response to the financial struggles of an artist is
 "well, you should have gone into tech or something useful"
@@ -514,24 +557,27 @@ no music in restaurants, at sporting events, bars, stores, nothing.
 No audio books or podcasts or music on their commute.
 After 30 days deprived of all contributions of artists, I would be interested
 to know if anyone would still say artists were drains on society and unworthy of life.
+
 * Desmond Tutu
 We need to stop just pulling people out of the river.
 We need to go upstream and find out why they're falling in.
 
-
 Forgiveness does not mean condoning what has been done.
 Forgiving means abandoning your right to pay back the perpetrator in his own coin.
+
 * Dietrich Bonhoeffer
 Silence in the face of evil is evil itself.
 God will not hold us guiltless.
 Not to Speak is to Speak.
 Not to Act is to Act.
+
 * Dinesh D'souza
 The stakes could not be higher - we're talking about the fate of the greatest nation on Earth.
 Who are the real fascists?
 Who are the real racists?
 We must learn the Truth.
 - Death of a Nation
+
 * Donna Haraway
 Furthermore, communications sciences and modern biologies are constructed by a
 common move - the translation of the world into a problem of coding, a search
@@ -539,16 +585,20 @@ for a common language in which all resistence to instrumental control disappears
 and all heterogenity can be submitted to disassembly, reassembly, investment,
 and exchange.
 - A Manifesto for Cyborgs
+
 * Doris Lessing
 Ideally, what should be said to every child, repeatedly, throughout his or her school life is something like this:
 
 'You are in the process of being indoctrinated. We have not yet evolved a system of education that is not a system of indoctrination. We are sorry, but it is the best we can do. What you are being taught here is an amalgam of current prejudice and the choices of this particular culture. The slightest look at history will show how impermanent these must be. You are being taught by people who have been able to accommodate themselves to a regime of thought laid down by their predecessors. It is a self-perpetuating system. Those of you who are more robust and individual than others will be encouraged to leave and find ways of educating yourself — educating your own judgements. Those that stay must remember, always, and all the time, that they are being moulded and patterned to fit into the narrow and particular needs of this particular society.
+
 * Dr Seuss
 A Person is a person no matter how small.
+
 * Dran
 We didn't set anything up knowing that at any point with no warning NPCs would materialize and blow everything up.
 NPCs don't sleep, they don't get tired, they don't have to wake people up or take off work to show up for a timer.
 - [[https://www.pcgamer.com/uk/eve-online-is-in-chaos-after-an-unprecedented-alien-invasion/][Eve online alien invasion]]
+
 * Duane Kearns Puryear.
 [[/Volumes/documents/DCIM/Quotes/EMP7dpxW4AAHAND.jpg]]
 My name is Duane Kearns Puryear.
@@ -559,19 +609,27 @@ Sometimes it makes me very sad.
 I made this panel myself.
 If you are reading it, I Am Dead.
 
+* Duncan E. Astle
+[astle21:_annual_resear_review_63_]
+diagnostic taxonomies that classify individuals in terms of discrete categories are ill-suited.
+
 * E. L. Doctorow                                  :documentation:libraries:
 "The three most important documents a free society gives are a birth
 certificate, a passport, and a library card."
+
 * Ed Glaeser
 40 years of Harvard transportation economics can be boiled down to 4 words: "Bus good, train bad".
+
 * Edmund Burke
 Your representative owes you,
 not his industry only,
 but his judgement;
 and he betrays, instead of serving you,
 if he sacrifices it to your opinion.
+
 * Edsger Dijkstra
 The question of whether a computer can think is no more interesting than the question of whether a submarine can swim.
+
 * Edward Abbey                                    :capitalism:
 Growth for the sake of growth is the ideology of the cancer cell.
 
@@ -597,17 +655,21 @@ differentiate them from other forms."
 
 * Elanor Crumblehulme                             :libraries:
 Cutting libraries in a recession is like cutting hospitals in a plague.
+
 * Elisabeth Kubler-Ross
 The ultimate lessons is learning how to love and be loved unconditionally.
+
 * Elizabeth Bishop
 After being so social... I don't feel like myself at all.
 I'm exhausted all over but particularly the face, which I suppose comes
 from wearing a horrible fixed grin for so long.
 - to Carley Dawson, 10 Nov 1948
+
 * Ella Baker
 Until the killing of Black men, Black Mothers' sons, becomes as important
 to the rest of the country as the killing of a white mother's son,
 we who believe in freedom cannot rest until this happens.
+
 * Elle Maruska
 The Places We Go When We Leave
 
@@ -626,6 +688,7 @@ but don't hurt for us long, nor imagine us gone
 though we've slipped into beauty unseen:
 we're waiting right here for when you finally appear
 & we can both go where we go when we leave.
+
 * Ellen Johnson Sirleaf                           :democracy_africa:
 "Ebola is not just a health crisis. Across West Africa, a generation of young people risks being lost to an economic catastrophe"
 
@@ -634,6 +697,7 @@ we're waiting right here for when you finally appear
 "We are here because we share a fundamental belief: that poverty, illiteracy, disease and inequality do not belong in the twenty-first century. We share a common purpose: to eradicate these ills for the benefit of all."
 
 I beg you I no magician. I can't just wave a magic wand.
+
 * Emma Thompson
 I think books are like people in the sense that they'll turn up in your life when you most need them.
 
@@ -641,6 +705,7 @@ I think books are like people in the sense that they'll turn up in your life whe
 In the Mahalah Flower Men Market, an old man wears traditional shoes made of palm leaves.
 Things started to change with their construction of a cable car track in the 1990's that allowed access
 to the remote villages of the Flower Men. But traditions remain strong with the elders.
+
 * Ernest Hemingway
 A cat has absolute emotional honesty: human beings, for one reason or
 another, may hide their feelings, but a cat does not..
@@ -649,26 +714,29 @@ another, may hide their feelings, but a cat does not..
 "What is the precise moment, in the life of a country, when tyranny takes
 hold? It rarely happens in an instant; it arrives like twilight, and, at
 first, the eyes adjust."
+
 * F. A. Hayek                                     :economics:knowledge:
 "The curious task of economics is to demonstrate to men how little they
 really know about what they imagine they can design."
+
 * Fleur Adcock
 There are worse things than having behaved foolishly in public.
 There are worse things than these miniature betrayals, committed or endured or suspected;
 there are worse things than not being able to sleep for thinking about them.
 It is 5am. All the worse things come stalking in and stand icily about the bed looking worse and
 worse and worse.
+
 * Frank Lantz                                     :game_design:
 Making games combines everything that's hard about building a bridge with everything that's hard
 about composing an opera. Games are operas made out of bridges.
 - Hearts and Minds, GDC 2014.
+
 * Frank Zappa                                     :GOP:evil:politics:
 Republicans stand for Raw, Unbridled Evil and Greed and Ignorance smothered in balloons and ribbons.
 
 * Franklin D. Roosevelt
 Human kindness has never weakened the stamina or softened the fiber of a free people.
 A Nation does not have to be cruel to be tough.
-
 
 * Frantz Fanon
 “Sometimes people hold a core belief that is very strong. When they are
@@ -678,6 +746,7 @@ extremely uncomfortable, called cognitive dissonance. And because it
 is so important to protect the core belief, they will rationalize,
 ignore and even deny anything that doesn't fit in with the core belief.”
 - Black Skin, White Masks.
+
 * Fred Hampton
 I'm not going to die on no airplane.
 I'm not going to die slipping on no ice.
@@ -685,7 +754,6 @@ I'm going to die for the people because
 I'm going to live for the people.
 I'm going to live for the people
 because I love the people.
-
 
 You don't fight fire with fire.
 You fight fire with water.
@@ -705,37 +773,46 @@ To love someone is to strive to accept that person exactly the way he or she is,
 We deal with such things as - as inner drama of childhood. We don't have to bop somebody over the head to make drama on the screen.
 We deal with such things as getting a haircut, or the feelings about brothers and sisters,
 and the kind of anger that arises in simple family situations.
+
 * Frederick Douglass
 “I assert most unhesitatingly, that the religion of the south is a mere covering for the most horrid crimes, - a justifier of the most appalling barbarity, - a sanctifier of the most hateful frauds, - and a dark shelter under, which the darkest, foulest, grossest, and most infernal deeds of the slaveholders find the strongest protection. Were I to be again reduced to the chains of slavery, next to enslavement, I should regard being the slave of a religious master the greatest calamity that could befall me. For of all slaveholders with whom I have ever met, religious slaveholders are the worst. I have ever found them the meanest and basest, the most cruel and cowardly, of all others.”
 
  “I love the pure, peaceable, and impartial Christianity of Christ; I therefore hatethe corrupt, slaveholding, women-whipping, cradle-plundering, partial, and hypocritical Christianity of this land. Indeed, I can see no reason, but the most deceitful one, for calling the religion of this land Christianity. I look upon it as the climax of all misnomers, the boldest of all frauds, and the grossest of all libels.”
+
 * Friedrich Engels
 "When society places hundreds of proletarians in such a position that
 they inevitably meet a too early and an unnatural death, one which is quite
 as much a death by violence as that by the sword or bullet;
 its deed is murder just a s surely as the deed of the single individual."
 - The Condition of the Working Class in England, 1845.
+
 * Fyodor Dostoevsky
 I go scarely anywhere. Everything seems tiresome
 - to Maria Issayev, 4 Jun 1855
+
 * Gavin De Becker
 We must learn and then teach our children that niceness does not equal goodness.
 Niceness is a decision, a strategy of social interaction; it is not a character trait.
 People seeking to control others almost always present the image of a nice person in the beginning.
+
 * Georg C. Lichtenberg
 I ceased in the year 1764 to believe that one can convince one’s opponents with
 arguments printed in books. It is not to do that, therefore, that I have taken
 up my pen, but merely so as to annoy them, and to bestow strength and courage on
 those on our own side, and to make it known to the others that they have not
 convinced us.
+
 * George Box
 All models are wrong, but some are useful.
+
 * George Dei
 Inclusion is not Bringing People into what already exists;
 It is making a New Space, a Better Space for Everyone.
+
 * George Monbiot                                  :labour:wealth_inequality:
 If wealth was the inevitable result of hard work and enterprise, every woman in Africa would be
 a millionaire.
+
 * George Orwell
 But if thought corrupts langugage, language can also corrupt thought.
 "... putting them together again in new shapes of your own choosing."
@@ -746,8 +823,10 @@ and until after they have rebelled they cannot become conscious."
 
 * George W. Bush                                  :GOP:evil:
 People are poor because they are lazy.
+
 * Goethe
 "The century has run its course, but the single individual has to start all over again." - epigraph of georg simmel's dissertation
+
 * Goodhart
 when a metric becomes a target to be optimized, it risks no longer being a useful metric.
 
@@ -757,6 +836,7 @@ Any observed statistical regularity will tend to collapse once pressure is place
 * Gore Vidal
 There is only one party in the United States, the Property Party ... and it has two right wings: Republican and Democrat. Republicans are a bit stupider, more rigid, more doctrinaire in their laissez-faire capitalism than the Democrats, who are cuter, prettier, a bit more corrupt – until recently ... and more willing than the Republicans to make small adjustments when the poor, the black, the anti-imperialists get out of hand. But, essentially, there is no difference between the two parties.
 - [[https://archive.org/details/mattersoffactoff00vida/page/265][Archive.org Matters of Fact and Fiction]]
+
 * Graham Moomaw
 @gmoomaw 20 Nov @2017
 " State elections commisioner confirms that 83 voters in Fredericksburg were
@@ -766,15 +846,18 @@ the Republican leads by 82 votes.
 Basically an entire street in Fredericksburg may be screwed up.
 The former registrar who made the changes is dead. The new registrar doesn't
 know what happened."
+
 * Grant Morrison
 Kids understand that Real Crabs don't sing like the ones in The Little Mermaid.
 But you give an adult fiction, and the adult starts asking really fucking dumb questions like
 "How does Superman Fly? How do those eyebeams work? Who pumps the batmobile's tires?"
 It's a fucking made-up story, you idiot! Nobody Pumps the Tires!
+
 * H. L. Mencken
 The trouble with fighting for human freedom is that one spends most of one's time defending
 scoundrels. For it is against scoundrels that oppressive laws are first aimed, and
 oppression must be stopped at the beginning if it is to be stopped at all.
+
 * Hannah Arendt
 "You ask about the effect my work has on others.
 If I may speak ironicaly, that's a masculine question.
@@ -786,6 +869,7 @@ No, I want to understand."
 but people for whom the distinction between fact and fiction, true and false, no longer exists."
 
  “The trouble with Eichmann was precisely that so many were like him, and that the many were neither perverted nor sadistic, that they were, and still are, terribly and terrifyingly normal. From the viewpoint of our legal institutions and of our moral standards of judgment, this normality was much more terrifying than all the atrocities put together.”
+
 * Harry G. Frankfurt
 Bullshit is unavoidable whenever circumstances require someone to talk
 without knowing what he is talking about. Thus the production of bullshit is stimulated
@@ -793,14 +877,17 @@ whenever a person's obligations or opporunities to speak about some topic exceed
 knowledge of the facts that are relevant to the topic.
 
 - On Bullshit
+
 * Harry Leslie Smith
 Austerity, along with politics of fear, is being used in this country like an economic martial law.
 It has kept ordinary citizens in line because they are fearful of losing their jobs, being unable to make their rent,
 their credit card or mortgage payments.
+
 * Heidegger
 To philosophize means to be entirely and constantly troubled by
 and immediately sensitive to the complete enigma of things
 that commone sense considers self-evident and unquestionable.
+
 * Henri Bergson
 ‘Imagine a piece of music which expresses love. It is not love for any particular
 person. Another piece of music will express another love. Here we have two distinct
@@ -809,13 +896,16 @@ will depend upon its essence and not upon its object. Nevertheless, it is hard t
 a love which is, so to speak, at work, and yet applies to nothing.’
 
 Henri Bergson, 1932
+
 * Henry A. Wallace
 A Fascist is one who lust for money or power is combined with such an intensity of intolerance toward
 those of other races, parties, classes, religions, cultures, regions or nations as to make him
 ruthless in his use of deceit or violence to attain his ends.
 - American Fascism, NYT, 1944
+
 * Henry David Thoreau
 "Disobedience is the true foundation of liberty. The obedient must be slaves"
+
 * Henry Kissinger
 The emigration of Jews from the Soviet Union is not an objective of American foreign policy.
 And if they put Jews into gas chambers in the Soviet Union, it is not an American concern.
@@ -824,6 +914,7 @@ Maybe a humanitarian concern.
 * Herbert Simon
 "The design principle that attention is scarce and must be preserved is very
 different from a principle of 'the more information the better'."
+
 * Herophilus of Calcedone
 When health is absent, wisdom cannot reveal itself,
 art cannot become manifest, strength cannot fight,
@@ -832,6 +923,7 @@ wealth becomes useless, and intelligence cannot be applied.
 * Hitler                                          :lying:nazis:
 In this they [Jews] proceeded on the sound principle that the magnitude of a lie always contains a certain factor of credibility, since the great masses of the people in the very bottom of their hearts tend to be corrupted rather than consciously and purposely evil, and that, therefore, in view of the primitive simplicity of their minds they more easily fall a victim to a big lie than to a little one, since they themselves lie in little things, but would be ashamed of lies that were too big. Such a falsehood will never enter their heads and they will not be able to believe in the possibility of such monstrous effrontery and infamous misrepresentation in others; yes, even when enlightened on the subject, they will long doubt and waver, and continue to accept at least one of these causes as true. Therefore, something of even the most insolent lie will always remain and stick – a fact which all the great lie-virtuosi and lying-clubs in this world know only too well and also make the most treacherous use of.
 - Mein Kampf
+
 * Horacio Jones
 I like being alone. I have control over my
 own shit. Therefore, in order to win me
@@ -843,9 +935,11 @@ with my comfort zones.
 * Howard Zinn
 “Civil disobedience is not our problem. Our problem is civil obedience. Our problem is that people all over the world have obeyed the dictates of leaders…and millions have been killed because of this obedience…Our problem is that people are obedient allover the world in the face of poverty and starvation and stupidity, and war, and cruelty. Our problem is that people are obedient while the jails are full of petty thieves… (and) the grand thieves are running the country. That’s our problem.”
 - [[https://www.howardzinn.org/state-of-nature-zinn-civil-disobedience/][Zinn on Civil Disobedience]]
+
 * Iain Banks                                      :UK:politics:tory:
 "I'm not arguing there are no decent people in the Tory Party, but they're like bits of sweetcorn in a turd;
 technically they've kept their integrity, but they're still embedded in shit."
+
 * Ian Bogost
 "Computing is one of the most ahistorical disciplines in the sciences" which has
 emboldened the amnesiac in all of us as our culture becomes more digitally
@@ -853,8 +947,10 @@ oriented: an eternal "series of ongoing failed lessons, where instead of
 building on knowledge of successes and failures past, we just trace the same
 steps in a kind of random walk with whatever is contemporary and thrust upon us
 by virtue of habit or some mighty deal that gets done at your institution."
+
 * Idea B. Wells                                   :voting:
 "With no sacredness of the ballot there can be no sacredness of human life itself. For if the strong can take a weak man’s ballot, when it suits his purpose to do so, he will take his life also."
+
 * Idi Amin                                        :democracy_africa:
 "My mission is to lead the country out of a bad situation of corruption, depression and slavery. After I rid the country of these vices, I will then organize and supervise a general election of a genuinely democratic civilian government."
 
@@ -863,18 +959,22 @@ by virtue of habit or some mighty deal that gets done at your institution."
 I am the hero of Africa.
 
 Politics is like boxing ó you try to knock out your opponents.
+
 * Immanuel Kant
 "What Can I Know? What should I do? What may I hope for?"
+
 * Imran Ahmed
 Highly visible abuse of public figures and celebrities acts as a warning
 - a proverbial head on a pike -
 to others...
 Just because someone isn't tagged doesn't mean that the meassage isn't heard
 loud and clear.
+
 * Inger Mewburn
 "PhD graduates should write to influence the communities they live in, as well
 as other academics."
 - https://thesiswhisperer.com/2020/06/10/why-academic-writing-sucks-and-how-we-can-fix-it/
+
 * Ira Glass
  “Nobody tells this to people who are beginners, I wish someone told me. All of
  us who do creative work, we get into it because we have good taste. But there
@@ -891,6 +991,7 @@ as other academics."
  close that gap, and your work will be as good as your ambitions. And I took
  longer to figure out how to do this than anyone I’ve ever met. It’s gonna take
  awhile. It’s normal to take awhile. You’ve just gotta fight your way through.”
+
 * Ivan Ilich
 Present research is overwhelmingly concentrated in two directions: research and development for breakthroughs to
 the better production of better wares and general systems analysis concerned with protecting man for further consumption.
@@ -899,6 +1000,7 @@ Counterfoil research also has two major tasks: to provide guidelines fro detecti
 in a tool; and to devise tools and tool systems that optimize the balance of life, thereby maximizing liberty for all.
 
     (tools for a convivial society)
+
 * Jakaya Kikwete                                  :democracy_africa:
 My government is going to deal with all forms of corruption. White-collar corruption will be high on the list and we are going to plug all gaps that are being used by corrupt leaders (and) business people.
 
@@ -907,10 +1009,12 @@ Roads are the blood vessels of the economy.
 The presidency is not an office job.
 
 We cannot continue to mourn about our country being poor while our minerals are lying untapped.
+
 * James Baldwin                                   :reading:
 "You think your pain and your heartbreak are unprecedented in the history of the world, but then you read."
 
 "I can't believe what you say because I see what you do"
+
 * James Cameron
 "The Terminator films are not really about the human race getting killed off by future machines.
 They're about us losing touch with our own humanity and becoming machines, which
@@ -926,12 +1030,15 @@ In all social systems there must be a class to do the menial duties, to perform 
 
 The Senator from New York said yesterday that the whole world had abolished slavery. Aye, the name, but not the thing; all the powers of the earth cannot abolish that. God only can do it when he repeals the fiat, "the poor ye always have with you;" for the man who lives by daily labor, and scarcely lives at that, and who has to put out his labor in the market, and take the best he can get for it; in short, your whole hireling class of manual laborers and "operatives," as you call them, are essentially slaves. The difference between us is, that our slaves are hired for life and well compensated; there is no starvation, no begging, no want of employment among our people, and not too much employment either. Yours are hired by the day, not cared for, and scantily compensated, which may be proved in the most painful manner, at any hour in any street in any of your large towns. Why, you meet more beggars in one day, in any single street of the city of New York, than you would meet in a lifetime in the whole South. We do not think that whites should be slaves either by law or necessity. Our slaves are black, of another and inferior race. The status in which we have placed them is an elevation. They are elevated from the condition in which God first created them, by being made our slaves. None of that race on the whole face of the globe can be compared with the slaves of the South. They are happy, content, unaspiring, and utterly incapable, from intellectual weakness, ever to give us any trouble by their aspirations. Yours are white, of your own race; you are brothers of one blood. They are your equals in natural endowment of intellect, and they feel galled by their degradation. Our slaves do not vote. We give them no political power. Yours do vote, and, being the majority, they are the depositories of all your political power. If they knew the tremendous secret, that the ballot-box is stronger than "an army with banners," and could combine, where would you be? Your society would be reconstructed, your government overthrown, your property divided, not as they have mistakenly attempted to initiate such proceedings by meeting in parks, with arms in their hands, but by the quiet process of the ballot-box. You have been making war upon us to our very hearthstones. How would you like for us to send lecturers and agitators North, to teach these people this, to aid in combining, and to lead them?
 - Speech to the US Senate, March 4, 1858.
+
 * James Tiptree Jr
 Being, I imagine, must be very simple.
 It is Becoming which is so messy and which I am all for.
+
 * Janaya Khan
 (co-founder of BLM Toronto)
 Privilege isn't about what you've gone through, it's about what you haven't had to go through.
+
 * Jason Nelson
 Protesters don't block traffic to gain your support. They do it so you can see what it feels
 like to be stuck in a powerless situation.
@@ -942,6 +1049,7 @@ Nope, you want to run those protesters over, kill them, kill them all.
 If you want to kill protesters who have you stuck in traffic, imagine what you would want to do
 to a system that patrols, harasses and kills you.
 The sooner you learn perspective the sooner you won't have to be stuck in traffic.
+
 * Jean Baudrillard
 Live your life in real time -- live and suffer directly on-screen.
 Think in real time -- your thought is immediately encoded by the computer.
@@ -961,6 +1069,7 @@ There was a time when we would have considered this a form of police surveillanc
 Today, we regard it as advertising.
 
 —Baudrillard, "The Perfect Crime"
+
 * Jeanie S. McCoy
 Around 1650, Johann Gerdes accidentally discovered a method of surface preparation
 that permitted easy drawing of steel wire.
@@ -972,16 +1081,20 @@ By about 1850 it was discovered that water worked just as well.
 
 from:
 https://doi.org/10.1201/9781420017731
+
 * Jerome B. Weisner
 "Some Problems are just too complicated for rational, logical solutions.
 They admit of insights, not answers."
+
 * JFK
 What do our opponents mean when they apply to us the label, "Liberal"? If by "Liberal" they mean, as they want people to believe, someone who is soft in his policies abroad, who is against local government, and who is unconcerned with the taxpayer's dollar, then the record of this party and its members demonstrate that we are not that kind of "Liberal." But, if by a "Liberal," they mean someone who looks ahead and not behind, someone who welcomes new ideas without rigid reactions, someone who cares about the welfare of the people - their health, their housing, their schools, their jobs, their civil rights, and their civil liberties - someone who believes that we can break through the stalemate and suspicions that grip us in our policies abroad, if that is what they mean by a "Liberal," then I'm proud to say that I'm a "Liberal."
 - [[https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/liberal-party-nomination-nyc-19600914][Accepting the Liberal Party Nomination for President, New York, New York, September 14, 1960]]
 
 Our country can't afford to continue losing our best and brightest to gun violence.
+
 * Jim Jarmusch
 “Nothing is original. Steal from anywhere that resonates with inspiration or fuels your imagination. Devour old films, new films, music, books, paintings, photographs, poems, dreams, random conversations, architecture, bridges, street signs, trees, clouds, bodies of water, light and shadows. Select only things to steal from that speak directly to your soul. If you do this, your work (and theft) will be authentic. Authenticity is invaluable; originality is non-existent. And don’t bother concealing your thievery - celebrate it if you feel like it. In any case, always remember what Jean-Luc Godard said: “It’s not where you take things from - it’s where you take them to."
+
 * Joanna Bryson
 While I have no problem with the use of artificial intelligence to compliment and improve human decision making,
 suggesting that the AI itself *makes* the decision is a problem.
@@ -1001,6 +1114,7 @@ We should never be talking about machines taking ethical decisions, but rather m
 
 * Jodi Picoult
 You can always edit a bad page. You can't edit a blank page.
+
 * Joe Wintergreen                                 :ai:game_design:
 Randomly started thinking about AI and started making a system where like, each type of action
 (take cover/flank/shoot target/throw grenade/wander/move to target) is kept in an object with a
@@ -1008,30 +1122,36 @@ CanExecute function (which returns wheter i'ts a good idea to do that thing righ
 and then on tick the ai goes through a list of actions and executes the first one that CanExecute.
 So theoretically you can have like, a Combat row on a data table that has a list of objects with the thing you
 really want the AI to do at the top and fallbacks under that like this.
+
 * John Allen Paulos
 It's harder to be a politican than it is to be a scientist, and less fun.
 In science, you have to suspend belief, and it has to be shown to you, whereas
 politicans have to always be certain.
 The problem is that most things aren't very certain, and that's not a way to inspire voters,
 to say, 'maybe'.
+
 * John Brown
 I believe to have interfered as I have done... on behalf of His despised poor, was not wrong,
 but right. Now, if it be deemed necesssary that I should forfeit my life for the
 furtherance of the ends of justice, and mingle my blood further with the blood of my children,
 and with the blood of millions in this slave country whose rights are disregarded by wicked, cruel and unjust
 enactments, I submit: so leet it be done.
+
 * John G. Self
 Authenticity is important. If you are authentic it means you are staying true to who you are,
 what you do and to those you serve.
+
 * John Green
 Let me explain why I like to pay taxes for schools even though I don't personally have a kid
 in school:
 I don't like living in a country with a bunch of stupid people.
+
 * John Henrik Clarke
 History is not everything, but it is a starting point.
 History is a clock that people use to thell their political & cultural time of day.
 It is a compass they use to find themselves on the map of human geography.
 It tells them where they are but, more importantly, what they must be.
+
 * John Rawls
 "Inequalities are permissible when they maximize, or at least all contribute to, the long term expectations of the least fortunate group in society."
 
@@ -1042,13 +1162,16 @@ Sir, Thank you very much for the helpful article about hoarding (Time 2, Aug 20)
 I've put it with the others.
 John Scrivens,
 Lorton, Cumbria.
+
 * John Tanton
 I've come to the point of view that for European-American society and culture to persist
 requires a European-American majority, and a clear one at that.
+
 * Jomo Kenyatta                                   :democracy_africa:
 "The basis of any independent government is a national language, and we can no longer continue aping our former colonizers ... those who feel they cannot do without English can as well pack up and go."
 
 "You and I must work together to develop our country, to get education for our children, to have doctors, to build roads, to improve or provide all day-to-day essentials."
+
 * Jon Stewart
 I think I'm beginning to get it.
 If it's a policy that benefits the rich, it doesn't have to be paid for, should
@@ -1062,6 +1185,7 @@ Your job is to look out the fucking window and find out which is true.
 
 * Joseph Goebbels                                 :lying:nazis:
 A lie told once remains a lie but a lie told a thousand times becomes the truth.
+
 * Joseph Weizenbaum
 "The artificial intelligence project was a fraud that played on the trusting
 instincts of people" - from @noamcohen The Know-It-Alls
@@ -1114,10 +1238,12 @@ wherein nonvoluntary confinement that lasted for longer than 10 days failed to
 result in negative psychological effects.”  Id. at 566 (internal quotation
 marks, brackets, and citations omitted). That these scars may not be visible
 makes them no less agonizing.
+
 * Julia Roberts
 Women, you are not rehabilitation centers for badly raised men.
 It is not your job to fix him, change him, parent him or raise him.
 You want a partner not a project.
+
 * Julius Nyerere                                  :democracy_africa:
 "Education is not a way to escape poverty, it is a way of fighting it."
 
@@ -1130,10 +1256,13 @@ You want a partner not a project.
 The greatest contraceptive one can have in the developing world is the knowledge that your children will live
 
 You cannot develop people. You must allow people to develop themselves.
+
 * K. Gibran                                       :labour:
 They deem me mad because I will not sell my days for gold and I deem them mad because they think my days have a price.
+
 * Kabira Namit
 I did not mess up the syntax. I just found 100 ways to specify it incorrectly.
+
 * Karl Marx
 "The science which compels the inanimate limbs of the machinery, by
 their construction, to act purposefully, as an automaton, does not exist in
@@ -1147,6 +1276,7 @@ The point, however, is to change it.
 "Always remember that it is impossible to speak in such a way that you cannot be misunderstood: there will always be some who misunderstand you."
 - Karl Popper
   https://en.wikiquote.org/wiki/Karl_Popper
+
 * Kate Lister
 The idea of sexual shame shifts all over the world, which is refreshing for us because that
 shame is not set in stone.
@@ -1162,10 +1292,12 @@ relied—on universal agreement that what is patently unjust is unjust indeed”
 
 "The question thus becomes: Why, and how, do we regard many men's potentially hurt feelings as so important,
 so sacrosant? And, relatedly, why do we regard women as so responsible for protecting and ministering to them?"
+
 * Kate Raworth
 “For over 70 years economics has been fixated on GDP as its primary measure of
 progress. That fixation has been used to justify extreme inequalities of income
 and wealth coupled with unprecedented destruction of the living world."
+
 * Katherin McKittrick
 It is a process typical to what we already know:
 A Biocentric system is mathematically confirmed;
@@ -1176,9 +1308,11 @@ and the math and coding behind The Algorithm provide an alibi for racism because
 Black Life is not relevant to the "Things People Care About".
 
 - Dear Science and Other Stories (Errantries)
+
 * Katherine Jjohnson                              :imagination:women:
 Girls are capable of doing everything men are capable of doing.
 Sometimes they have more imagination than men.
+
 * Keith Gaddie
 But, words are the currency of our humanity.
 They make actions.
@@ -1188,16 +1322,20 @@ They are democracy's greatest asset.
 They build the record of our actions,
 and signal our intentions.
 And, as such, are the most important thing protected in a free society.
+
 * Kevin Plaxco
 The goal of good writing is straightforward: to make your reader's job as easy as possible.
+
 * Kim Stanley Robinson                            :libertarian:
 Thats libertarians for you - anarchists who want police protection from their slaves.
 - Green Mars.
+
 * Kimberlé Crenshaw
 You introduced intersectionality more than 30 years ago. How do you explain what it means today?
 
 These days, I start with what it’s not, because there has been distortion. It’s not identity politics on steroids. It is not a mechanism to turn white men into the new pariahs. It’s basically a lens, a prism, for seeing the way in which various forms of inequality often operate together and exacerbate each other. We tend to talk about race inequality as separate from inequality based on gender, class, sexuality or immigrant status. What’s often missing is how some people are subject to all of these, and the experience is not just the sum of its parts.
 - [[https://time.com/5786710/kimberle-crenshaw-intersectionality/][Interview]]
+
 * Kofi Annan                                      :democracy_africa:
 "Education is, quite simply, peace-building by another name. It is the most effective form of defense spending there is."
 
@@ -1218,6 +1356,7 @@ He's just so stupid.
 
 He's so breathtakingly stupid that the above statement is all it takes for every person reading this
 to know exactly who I'm talking about.
+
 * Kurt Vonnegutt
 "We are what we pretend to be, so we must be careful about what we pretend to be."
 
@@ -1226,6 +1365,7 @@ It was like a laser beam.
 We were all aimed in the same direction.
 The Power of this weapon turns out to be that of a custard pie dropped from a
 stepladder six feet high."
+
 * Kwame Ture
  "The job of a revolutionary is, of course, to overthorw unjust systems and replace them with just systems
 because a revolutionary understands this can only be done by the masses of the people."
@@ -1234,7 +1374,6 @@ because a revolutionary understands this can only be done by the masses of the p
 The United states has none, has none."
 
 “If a white man wants to lynch me, that's his problem. If he's got the power to lynch me, that's my problem. Racism is not a question of attitude; it's a question of power. Racism gets its power from capitalism. Thus, if you're anti-racist, whether you know it or not, you must be anti-capitalist. The power for racism, the power for sexism, comes from capitalism, not an attitude.”
-
 
 “This country is a nation of thieves. It stole everything it has, beginning with black people. The U.S. cannot justify its existence as the policeman of the world any longer. I do not want to be a part of the American pie. The American pie means raping South Africa, beating Vietnam, beating South America, raping the Philippines, raping every country you’ve been in. I don’t want any of your blood money. I don’t want to be part of that system. We must question whether or not we want this country to continue being the wealthiest country in the world at the price of raping everybody else.”
 
@@ -1276,7 +1415,6 @@ And be ashamed --
 I, too, am America.
 :END:
 
-
 * Lee Atwater                                     :GOP:politics:racism:
 Atwater: Y'all don't quote me on this. You start out in 1954 by saying, "Nigger, nigger, nigger". By 1968 you can't say "nigger"—that hurts you. Backfires. So you say stuff like forced busing, states' rights and all that stuff. You're getting so abstract now [that] you're talking about cutting taxes, and all these things you're talking about are totally economic things and a byproduct of them is [that] blacks get hurt worse than whites. And subconsciously maybe that is part of it. I'm not saying that. But I'm saying that if it is getting that abstract, and that coded, that we are doing away with the racial problem one way or the other. You follow me—because obviously sitting around saying, "We want to cut this", is much more abstract than even the busing thing, and a hell of a lot more abstract than "Nigger, nigger". So, any way you look at it, race is coming on the back-burner.
 - [[https://www.thenation.com/article/archive/exclusive-lee-atwaters-infamous-1981-interview-southern-strategy/][Southern Strategy interview]]
@@ -1294,6 +1432,7 @@ the basis of this connection directly in words. It can only be expressed indirec
 words describing characters, actions and situations.
 
 in an 1876 letter to Nikolai Strakhov
+
 * Leon Whipple
 '... the most extensive and frequent losses of liberty are not due either to court or executive,
 but to the failure of the force of the government to protect men from violence and mobs.
@@ -1302,6 +1441,7 @@ The history of liberty could almost be written in terms of mobs that "got away w
 
   - Leon Whipple, Our Ancient Liberties (1927), p. 144.
     [[https://twitter.com/KevinMKruse/status/1390659200251047937][via Kevin Kruse]]
+
 * Lesley Lokko
 "My decision to leave Spitzer after less than a year is fairly straightforward:
 I was not able to build enough support to be able to deliver on either my
@@ -1320,9 +1460,11 @@ tools to both process and deflect it. The lack of respect and empathy for Black
 people, especially Black women, caught me off guard, although it's by no means
 unique to Spitzer. I suppose I'd say in the end that my resignation was a
 profound act of self-preservation."
+
 * Linda B. Buck
 As a woman in science, I sincerely hope that my receiving a Nobel Prize will send a message to
 young women everywhere that the doors are open to them and that they should follow their dreams.
+
 * Londa Schiebinger
 The project to uncover gender in science is not and should not be viewed as
 antiscientific.  It is no longer fashionable to argue that science is value
@@ -1342,20 +1484,23 @@ methods.
 
 * Louise Mushikiwabo                              :democracy_africa:
 "As long as countries wave chequebooks over our heads, we can never be equal."
+
 * Lucy Parsons                                    :democracy:wealth_inequality:
 Never be decieved that the rich will allow you to vote away their wealth.
+
 * Lyndon B. Johnson
 If you can convince the lowest white man he's better than the best colored man,
 he won't notice you're picking his pocket. Hell, give him somebody to look down on and
 he'll empty his pockets for you.
+
 * Malcolm X
 ."We, the Black masses, don't want these leaders who seek our support coming to us representing a certain political party. They must come to us today as Black Leaders representing the welfare of Black people. We won't follow any leader today who comes on the basis of political party. Both parties (Democrat and Republican) are controlled by the same people who have abused our rights, and who have deceived us with false promises every time an election rolls around."
 - [[https://malcolm-x.org/quotes.htm][Malcolm X Quotes]]
 
-
 The most disrespected person in America is the Black Woman.
 The most unprotected person in America is the Black Woman.
 The most neglected person in the America is the Black Woman.
+
 * Mallory Ortberg                                 :board_games:games:rules:
 Q: Hate the house rules: What are your thoughts on people who have “house rules” for commonly played board or card games? My in-laws have some for Gin Rummy that are terribly irritating, and people all seem to have their own rules for Monopoly. Am I allowed to insist on the real rules being played at my own house? I hate to be a stickler, but who just makes up rules for board games?
 
@@ -1376,7 +1521,6 @@ The *encoding* of institutional principles in behavioral scripts used in work ac
 the *enactment* of these encoded scripts (consciously or otherwise);
 the *revision or replication* of scripts;
 and the *objectification and externalization* of work activities such that they become taken-for-granted and, in turn, shape future actions.
-
 
 There are dozens of variations and independent formulations of “meaning”
 does not have a single meaning to the readers of this journal. There is no
@@ -1408,11 +1552,14 @@ As an American, I condemn a Republican "Fascist" just as much I condemn a Democr
 They are equally dangerous to you and me and to our country.
 As an American, I want to see our nation recapture the strength and unity it once had when we fought
 the enemy instead of ourselves.
+
 * Mariame Kaba
 Changing everything may sound daunting,
 but it means there are many places to start.
+
 * Marie Curie
 I am among those who think that science has great beauty.
+
 * Marissa Mayer
 People ask me all the time "What is it like to be a woman at Google?"
 I'm not a women at Google; I'm a Geek at Google.
@@ -1461,10 +1608,10 @@ Not to despair; if the end is come, it too will pass.
 
 * Mark Twain                                      :democracy:voting:
 If voting made any difference They wouldn't let us do it.
+
 * Marshall McLuhan
 New technological environments are commonly cast in the molds of the
 preceding technology out of the sheer unawareness of their designers.
-
 
 The older, traidtional ideas of private, isolated thoughts and actions -
 the patterns of mechanistic technologies -
@@ -1472,6 +1619,7 @@ are very seriously threatened by new methods of instantaneous electric informati
 retrieval, by the electrically computerized dossier -
 that one big gossip column that is unforgiving, unforgetful and from which
 there is no redemption, no erasure of early mistakes.
+
 * Martin Baron
 This special section is dedicated to them and to their families and friends.
 Our purpose is to ensure that none of us forgets what all of us, as a nation, have lost.
@@ -1481,6 +1629,7 @@ Our purpose is to ensure that none of us forgets what all of us, as a nation, ha
 (Executive Editor, Washington Post)
 This special section is dedicated to them and to their families and friends.
 Our purpose is to ensure that none of us forgets what all of us, as a nation, have lost.
+
 * Martin Luther King
 "Power without love is reckless and abusive, and love without power is sentimental and anemic.
 Power at its best is love implementing the demands of justice, and justice at its best is
@@ -1491,25 +1640,31 @@ The time is always right to do what is right.
 I have almost reached the regrettable conclusion that the Negro's great stumbling block in his
 stride toward freedom is not the Ku Klux Klanner, but the white moderate, who is more
 devoted to 'order' than to justice.
+
 * Martin Niemoller
 First they came for the socialists, and I did not speak out- Because I was not a socialist.
 Then they came for the trade unionists, and I did not speak out- Because I was not a trade unionist.
 Then they came for the Jews, and I did not speak out- Because I was not a Jew.
 Then they came for me- and there was no one left to speak for me.
+
 * Matthew Salesses
 'It has somehow become common to praise setting for being "a character" of its own,
 but let's face it: setting is not character. The Settings most typically said to be characters are settings
 that are underrepresented in the dominant fiction tradition.
 *Setting as character* is often a veiled way of praising work from or, even more so, *about*
 minority communities, if that work is considered evocative by a white audience.'
+
 * Matthew Schultz
 “You’re allowed to believe in a god. You’re allowed to believe unicorns live in your shoes for all I care. But the day you start telling me how to wear my shoes so I don’t upset the unicorns, I have a problem with you. The day you start involving the unicorns in making decisions for this country, I have a BIG problem with you.”
+
 * Maurice Merleau-Ponty
 Each one of us knows for his own part that the world as it is, is unacceptable.
+
 * Maurice Mitchell
 "When you hear moderate Democrats pin their losses on 'defund' or the movement for Black lives...
 it shows how little they care about police violence actually and how little they care about
 Black death."
+
 * Maurizio Ferrari Dacrema et al
 "out of 18 neural net recommendation algos from top-level
 conferences only 7 could be reproduced... and 6 of those could often be
@@ -1519,12 +1674,14 @@ outperformed with simple heuristic methods"
   Neural Recommendation Approaches"
   Maurizio Ferrari Dacrema, Paolo Cremonesi, Dietmar Jannach
       [[https://arxiv.org/pdf/1907.06902v1.pdf][https://arxiv.org/pdf/1907.06902v1.pdf]]
+
 * Max Liboiron
 (Pollution is colonialism)
 There are colonial ways to be in the world,
 whether intentionally or otherwise,
 and there are less colonial and anticolonial ways to be in the world.
 This includes science.
+
 * Max Planck
 Science progresses one funeral at a time.
 
@@ -1533,14 +1690,17 @@ A Language is a dialect with an army and a navy.
 
 * MC Hammer
 "When you measure, include the measurer."
+
 * Mengistu Haile Mariam                           :democracy_africa:
 "He cannot conceive of a nation as anything but an absolute centralized authority, totalitarianism, for his rule is nothing less than that now."
 
 Ethiopia did not have the same problem [of corruption]. African leaders looked at us with envy.
+
 * Michael Genesereth
 On KIF: genesereth92:_knowl_inter_format_refer_manual
 The Language has declarative semantics. It is possible to understand the meaning
 of expressions in the language without appeal to an interpreter for manipulating those expressions.
+
 * Michael Rosen
  "The data have landed.
 First they said they needed data about the childrern to find out what they're learning.
@@ -1550,14 +1710,18 @@ Then they said they needed data about the children to make sure they are learnin
 Then the children only learnt what could be turned into data.
 
 Then the Children became data".
+
 * Michael Tubbs
 There's nothing inherently dignifying about working 14-hr days and still being stressed and having anxiety.
+
 * Mike Pompeo
 If any good comes out of ignorance, then I'll take the ignorance.
+
 * Mireille Hildebrandt
 "Computer science concerns code that decides the behavior of a system, depending on specified inputs;
 legal research concerns a specific type of norms that decide what legal effect follows when certain
 conditions apply." - ACM Communications Magazine. Doi: 10.1145/3425779
+
 * Model correlations
 Just because a model correlates with brain and behaviour data,
 it is not sufficient for us to infer that the model is performing cognition:
@@ -1569,10 +1733,12 @@ so he can get the chance to help others.
 
 * Mohammed Morsi                                  :democracy_africa:
 "I am the first Egyptian civilian president elected democratically, freely, following a great, peaceful revolution."
+
 * Mohandas Gandhi
 I like your Christ,
 I do not like your Christians.
 Your Christians are so unlike your Christ.
+
 * Montesquieu
 I as ka favour which I fear will not be granted me: it is that I not be judged for twenty year's work by a reading that
 takes one minute; and that the whole book, not a few sentences, be approved or condemned.
@@ -1588,18 +1754,22 @@ the poot got only 'No' 'No' 'No'.
 There is no state with a democracy except Libya on the whole planet.
 
 We put our fingers in the eyes of those who doubt that Libya is ruled by anyone other than its people.
+
 * Mueller Report
 "... the evidence doees indicate that a thorough FBI investigation would uncover facts about the campaign and
 the president personallty that the president could have understood to be crimes or that would give rise to
 personal and political concerns."
 - Vol 2, page 76.
+
 * Muna Abdi
 Instead of praising people for being 'resilient',
 change the systems that are making them vulnerable.
+
 * Munroe Bergdorf
 "White supremacy, and Racism is a structure, it's a power structure,
 and it places whiteness at the top and people of color at the bottom.
 If you're not helping to dismantle racism then you are part of the problem."
+
 * Murray Bookchin
 The Belief that what currently exists must necessarily exist is the acid that corrodes all visionary thinking.
 
@@ -1608,11 +1778,20 @@ People don't leave Christianity because they stop believing in the teachings of 
 People leave Christianity because they believe in the teachings of Jesus so much,
 they can't stomach being part of an institution that claims to be about that and clearly
 isn't.
+
 * Nancy Fraser
 "The free-rider worry, incidentally, is typically defined androcentrically as a worry
 about shirking paid employment.
 Little attention is paid, in contrast, to a far more widespread problem, namely,
 men's free riding on women's unpaid domestic labour."
+
+* Nathan Ewer
+No matter how grouchy you're feeling,
+You'll find the smile more or less healing.
+It grows in a wreath
+All around the front teeth
+Thus preserving the face from congealing.
+
 * Nelson Mandela                                  :democracy_africa:
 "If you want to change the world, help the women."
 
@@ -1627,27 +1806,33 @@ men's free riding on women's unpaid domestic labour."
 It only seems impossible until it's done.
 
 The true character of a society is revealed in how it treats its children.
+
 * Nick Morgan
 "You can tell when rhetoric is empty ... because it would never be possible to
 say the alternative."
+
 * Nick Seaver
 "Context is that unquantified remainder that haunts mathematical models,
 making numbers that appear to be identical actually different from each
 other."
+
 * Nigel Warburton
 Some people feel guilty about buying more books than they'll get round to
 reading. But if you buy books by living authors, you make it possible for us to
 keep writing. Think of it as an investment in the kind of writing that interests
 you
+
 * Nikki Jones
 UC Berkley
 All American Institutions hold the remnants of origins in racism,
 anti-Blackness, and white supremacy;
 this remains reflected in institutional practices, policies and precedent.
+
 * Nikola Tesla
 Man, like the universe, is a machine.
 Nothing enters our minds or determines our actions which is not
 directly or indirectly a response to stimuli beating upon our sense organs from without.
+
 * Noam Chomsky
 In my own professional work I have touched on a variety of different fields. I've done my work in mathematical linguistics, for example, without any professional credentials in mathematics; in this subject I am completely self-taught, and not very well taught. But I've often been invited by universities to speak on mathematical linguistics at mathematics seminars and colloquia. No one has ever asked me whether I have the appropriate credentials to speak on these subjects; the mathematicians couldn't care less. What they want to know is what I have to say. No one has ever objected to my right to speak, asking whether I have a doctor's degree in mathematics, or whether I have taken advanced courses in the subject. That would never have entered their minds. They want to know whether I am right or wrong, whether the subject is interesting or not, whether better approaches are possible - the discussion dealt with the subject, not with my right to discuss it.
 
@@ -1686,6 +1871,7 @@ It is a thesis of this chapter that this aspiration for a human state based on t
 of the ant and the nature of man.
 
 - From Human Use of Human Beings, ch 3
+
 * Norman Macrae
 On John von Neumann:
 He never argued with people who said anything
@@ -1701,15 +1887,16 @@ than whined at it. He shied away from those who
 had adopted any ideology that blinded them to
 either mathematical fact or real events.
 
-
 John von Neumann: The Scientific Genius Who Pioneered the
 Modern Computer, Game Theory, Nuclear Deterrence, and
 Much More
+
 * Odo of Cluny
 "You gave me a wonderful master who, made by me, teaches me, and teaching me,
 knows nothing himself".
 - in Edmund A. Bowles "Computers in Humanistic Research", 1967
   [[file:/Volumes/documents/MEGA/AutoSync/twitterthreads/group_s/scott_bot.org::*scott_bot's Threads][scott_bot's Threads]]
+
 * Owen Jones
 Clearly, these new jobs would not replace the old ones, and nor should they.
 Get rid of all the cleaners, rubbish collectors, bus drivers, supermarket
@@ -1725,11 +1912,14 @@ conditions of low-paid jobs must be improved in order to reflect the importance
 they have in all of our lives.
 
 - Chavs: The Demonisation of the Working Class
+
 * Ozy Aloziem
 White Privilege is your history being part of the core curriculum and mine
 being taught as an elective.
+
 * P. W. Anderson
 “The state of a really big system does not at all have to have the symmetry of the laws which govern it. In fact, it usually has less symmetry.”
+
 * P.C. Hodgell
 (often misattributed to Carl Sagan)
 Original: That which can be destroyed by the truth, should be.
@@ -1746,6 +1936,7 @@ If it can be destroyed by the truth, it deserves to be destroyed by the truth.
 "Infrastructure is key, but also how it's used, and that's political."
 
 Aid leads to more aid and more aid and more aid and less independence of the people that are receiving aid.
+
 * Paul S. Ryan
 The right recognizes something that few on the left recognize: That campaign finance law
 underlies all other substantive law.
@@ -1753,6 +1944,7 @@ underlies all other substantive law.
 In other words, no matter what you care about - climate, women's rights, abortion, taxes, healthcare,
 it all comes back to who pays for elections.
 - How to sweep dark money out of politics.
+
 * Paul Virilio
 The accident is an inverted miracle, a secular miracle, a revelation.
 When you invent the ship, you also invent the shipwreck;
@@ -1760,6 +1952,7 @@ when you invent the plane you also invent the plane crash;
 and when you invent electricity, you invent electrocution...
 Every technology carries its own negativity, which is invented at the same time as technical progress.
 - Politics of the Very Worst.
+
 * Paulo Freire
 If the structure does not permit dialogue the structure must be changed.
 
@@ -1772,6 +1965,7 @@ the transformation of their world.
 The one opinion, which I think is extreme, is represented by the NGOs, who bang on about declaring water
 a public right. That means as a human being you should have a right to water.
 That's an extreme solution.
+
 * Philip Graham
 Journalism is the first rough draft of history.
 
@@ -1784,6 +1978,7 @@ object, who thereby becomes an absolute subject, without an exterior (being his
 own Other), fully justified in existing, legitimated.
 
 (Bourdieu, Distinction, p.208).
+
 * Plato
 Good people don't need laws to tell them to act responsibly... and bad people will find a way around
 the laws.
@@ -1803,6 +1998,7 @@ the soul has no gender.
 
 * R.h Sin
 Its ok to forgive people, and still deny them access to you.
+
 * Rabbi Danya Ruttenberg
 
 Don't let people who like the
@@ -1816,6 +2012,7 @@ the orchard.
 The seeds.
 The soil in which they were sown.
 And who did the planting.
+
 * Rachel Carson
 "A truly extraordinary variety of alternatives to the chemical control of insects is available.
 Some are already in use and have achieved brilliant success. Others are in the stage of
@@ -1831,10 +2028,12 @@ all pouring their knowledge and their creative inspirations into the formation o
 "At independence Kenya's economic indicators were equal to those of South Korea, but 45 years down the road, Korea's economy is 40 times that of Kenya. The mediocrity of leadership is across the continent."
 
 The mediocrity with which Africa has been ruled is responsible for its underdevelopment.
+
 * Rand Paul
 23 June 2016
 Quoting @judgenap: Why do we have a second amendment? It's not to shoot deer.
 It's to shoot at the government when it becomes tyrannical.
+
 * Randall Terry
 "Our goal must be simple. We must have a Christian nation built on God's law, on the ten Commandments. No apologies."
 
@@ -1843,6 +2042,7 @@ It's to shoot at the government when it becomes tyrannical.
 "When I, or people like me, are running the country, you'd better flee, because we will find you, we will try you, and we will execute you. I mean every word of it. I will make it part of my mission to see to it that they are tried and executed... If we're going to have true reformation in America, it is because men once again, if I may use a worn out expression, have righteous testoserone flowing through their veins. They are not afraid of contempt for their contemporaries. They are not even here to get along. They are here to take over... Somebody like Susan Smith should be dead. She should be dead now. Some people will go, "Well how do you know God doesn't have a wonderful plan for her life?" He does, it's listed in the Bible. His plan for her is that she should be dead."
 
 I want you to just let a wave of intolerance wash over you. I want you to let a wave of hatred wash over you. Yes, hate is good. … Our goal is a Christian nation. We have a Biblical duty, we are called by God, to conquer this country. We don't want equal time. We don't want pluralism.
+
 * Raquel D'Apice
 I'd do really well with a "Choose your own adventure!" cookbook,
 where it's like "if you choose to add a teaspon of oregano, turn to page 21.
@@ -1864,8 +2064,10 @@ It is now highly feasible to take care of everybody on Earth at a ‘higher stan
 
 You never change things by fighting the existing reality. To change something, build a new model that
 makes the existing model obsolete.
+
 * Richard Hamming
 You Get what you Measure.
+
 * Richard Littler
 At the centre of Daniel's claims is a dangerous cult obsessed by staionary and office supplies.
 Like the Freemasons, the Officists have as their symbols of religious ower the simple tools of
@@ -1890,12 +2092,14 @@ Make it personal. Do as much damage as you can. Get your message across. That wa
 Players they will make deals with. Little people they liquidate. And time and again they cream your liquidation, your displacement, your torture and brutal execution with the ultimate insult that it’s just business, it’s politics, it’s the way of the world, it’s a tough life and that it’s nothing personal. Well, fuck them.
 
 Make it personal.”
+
 * Robert F Kennedy
 Every time we turn our heads the other way when we see the law flouted,
 when we tolerate what we know to be wrong,
 when we close our eyes and ears to the corrupt because we are too busy or too frightened,
 when we fail to speak up and speak out,
 we strike a blow against freedom, decency and justice.
+
 * Roger Fisher
 My favorite activity is inventing.  An early arms control proposal
 dealt with the problem of distancing that the President would
@@ -1924,27 +2128,34 @@ What I suggested this to friends in the Pentagon, they said,
 the President's judgment.  He might never push the button."
 
 - [[https://www.tandfonline.com/doi/abs/10.1080/00963402.1981.11458828][Bulletin of the Atomic Scientists]]
+
 * Roland Freisler
 This jurisprudence would suit us perfectly, with a single exception.
 Over there they have in mind, practically speaking, only coloreds and half-coloreds, which includes
 mestizos and mulattoes; but the jews, who are also of interest to us, are not reckoned among the coloreds.
 - Nazi judge talking about the USA.
+
 * Ronald Reagan
 She has 80 names, 30 addresses, 12 social security cards and is collecting veteran's benefits on four non-existing deceased husbands. And she is collecting social security on her cards. She's got medicaid, getting food stamps, and she is collecting welfare under each of her names.
 - 1976 on the 'welfare queen'.
 
 There is no more essential ingredient than a free, strong, and independent press to our continued
 success in what the Founding Fathers called our 'noble experiment' in self-government.
+
 * Rosa Parks
 People always say that I didn't give up my seat because i was tired, but that isn't true...
 No, the only tired I was, was tired of giving in.
+
 * Rosie Cappuccino
 She should not apologise for the trauma that formed her.
+
 * Roy Moore
 These women have had 30 years to come forward, and the one and only reason they're speaking out now is because they
 suddenly have less fear that their lives will be utterly destroyed.
+
 * Saidiya Hartman
 So much of the work of oppression is about policing the imagination.
+
 * Salvador Dali
 It is not necessary for the public to know whether I am joking or whether I am serious,
 just as it is not necessary for me to know it myself.
@@ -1954,12 +2165,14 @@ I am not strange. I am just not normal.
 The Sole difference between myself and a madman is the fact that I am not mad!
 
 I don't do drugs. I am drugs.
+
 * Sam Haskins
 A photographer went to a socialite party in New York.
 As he entered the front door, the host said 'I love your pictures - they're wonderful;
 you must have a fantastic camera.'
 He said nothing until dinner was finished, then: 'That was a wonderful dinner, you must have
 a terrific stove.'
+
 * Sankara
 "Sankara: Yes. You cannot carry out fundamental change without a certain amount of madness.
 In this case, it comes from noncomformity, the courage to turn your back on the old formulas,
@@ -1967,19 +2180,31 @@ the courage to invent the future. Besides, it took the madmen of yesterday for u
 extreme clarity today. I want to be one of those madmen.
 Rapp: To Invent the future?
 Sankara: Yes. We must dare to invent the future."
+
 * Sarah Kendzior
 When wealth is passed off as merit, bad luck is seen as bad character.
 This is how ideologues justify punishing the sick and the poor.
 But poverity is neither a crime not a character flaw.
 Stigmatise those who let people die, not those who struggle to live.
+
 * Scott McCloud
 I’ve heard it’s good when writing fiction to avoid “and then” connections and
 look for “but” and “therefore” connections.
 
 I think it’s good when writing histories too. Which is why the current frenzy to
 erase five centuries of “but” and “therefore” in the U.S. is so dangerous.
+
 * Sean Lee
 "The concept of disability as a political identity is still really fresh and new"
+
+* Simon Williams
+Sleep, I will argue and demonstrate, is political through and through.
+Political, that is to say, in the sense that sleep is clearly implicated and
+imbricated in relations of power, authority and expertise as a site and source
+of claims-making, if not crisis, contestation, controversy and critique.
+
+- the politics of sleep
+
 * Simone de Beauvoir
 Never forget that a political, economic or religious crisis is enough to cast doubt on women's rights.
 These rights will never be vested. You have to stay vigilant your whole life.
@@ -2026,10 +2251,12 @@ Authority.
 * Susan Wojcicki
 Though we do need more women to graduate with technical degrees, I always like to remind women
 that you don't need to have science or technology degrees to build a career in tech.
+
 * T.R.G Green
 "System = Notation + Environment"
 
 cite:green89_cognit_dimen_notat
+
 * T.S Eliot
 I am glad you have a Cat, but I do not believe it is So remarkable a cat as
 My Cat. My Cat is a Lilliecat Hubvously.
@@ -2040,6 +2267,7 @@ are used with different meanings, when every one knows a little about a great ma
 it becomes increasibly difficult for anyone to know whether he knows what he is talking about or not.
 And when we do not know, or when we do not know enough, we tend always to substitute emotions for thoughts."
 - The Perfect Critic, in Athenaeum, 1920.
+
 * Ta-Nehisi Coates
 https://www.theatlantic.com/politics/archive/2015/04/nonviolence-as-compliance/391640/
 
@@ -2062,6 +2290,7 @@ about being murdered. But I worked on an operating principle of not letting thes
 right to speak out of fear, and that's how I'm continuing to operate. On the balance of things
 I'd prefer not to be murdered, but if I have to go somehow, I guess standing up against Nazis in
 2020 America isn't the worst reason.
+
 * Tarn Adams
 https://www.pcgamer.com/dwarf-fortress-creator-on-how-hes-42-towards-simulating-existence/
 
@@ -2106,6 +2335,7 @@ no reason."
 
 * The Onion
 "What part of 'stand back and stand by' did these idiots not understand?"
+
 * The Sunday Times
 Statistic of the week:
 A mother with two children at nursery needs to earn at least £40,000 a year
@@ -2113,6 +2343,7 @@ to make any profit from going to work (after deducting the costs of chlidcare,
 travel, and pension contributions).
 A salary of £60,000 would leave her with £36 a day after deductions.
 The average woman in a full-time job earns £24,202.
+
 * Theodor Adorno
 It is ironic that philosophy so easily arouses the fury of common sense by being mistaken for the very abstractness it struggles against. It is certainly better—as in prephilosophical knowledge so in philosophy—not to proceed without a measure of autonomy of thought in relation to its subject matter. The logical apparatus owes its immeasurable improvement beyond primitive consciousness to this autonomy. It contains, intensified, at the level of content, the force of enlightenment that marks the historical development of philosophy. Yet as it became autonomous and developed into an apparatus, thinking also became the prey of reification and congealed into a high-handed method. Cybernetic machines are a crude example of this. They graphically demonstrate to people the nullity of formalized thinking abstracted from its contents insofar as such machines perform better than thinking subjects much of what used to be the proud achievement of the method of subjective reason. Should thinking subjects passively transform themselves into the instruments of such formalization, then they virtually cease being subjects. They approach the machine in the guise of its imperfect replica. Philosophical thinking begins as soon as it ceases to content itself with cognitions that are predictable and from which nothing more emerges than what had been placed there beforehand. The humane significance of computers would be to unburden the thinking of living beings to the extent that thought would gain the freedom to attain a knowledge that is not already implicit.
 
@@ -2120,7 +2351,6 @@ SOURCE: Theodor W. Adorno, “Notes on Philosophical Thinking,” in Critical Mo
 
 * Theodore Roosevelt
 Patriotism means to stand by the country. It does not mean to stand by the president.
-
 
 "It is not the critic who counts; not the man who points out how the strong man
 stumbles, or where the doer of deeds could have done them better. The credit
@@ -2138,15 +2368,18 @@ timid souls who know neither victory nor defeat."
 * Thomas Davenport
 "Never make the mistake of assuming that the results will speak for themselves"
 - https://hbr.org/2013/06/data-is-worthless-if-you-dont
+
 * Tommy Douglas
  "Once more, let me remind you what fascism is. I need not wear a brown shirt or a green shirt.
 Fascism begins the moment a ruling class, fearing the people may use their political democracy to gain
 economic democracy, begins to destroy political democracy in order to retains its power of exploitation
 and special privilege."
+
 * Toni Cade Bambara
 This society has rewards for those who demonstrate skills in nimble avoidance of
 uncomfortable realities that threaten the bogus peace. But no mercy for those
 who dare penetrate the social garments and speak out on the emperor's clothes.
+
 * Toni Morrison
 "And fantasy it was, for we were not strong, only aggressive;
 we were not free, merely licensed;
@@ -2164,13 +2397,14 @@ I Tell my students, "When you get these jobsthat you have been so brilliantly tr
 your real job is that if you are free, you need to free somebody else.
 If you have some power, then your job is to empower somebody else.
 This is not just a grab-bag candy game."
+
 * Tony Benn
 The way a government treats refugees is very instructive because it shows you how they would treat
 the rest of us if they thought they could get away with it.
 
-
 I expect that the House has heard of the little document, which is circulating, about the boat race between the NHS and a Japanese crew. Both sides tried hard to do well, but the Japanese won by a mile. The NHS was very discouraged and set up a consultancy. The consultancy came to the conclusion that the Japanese had eight people rowing and one steering, whereas the NHS had eight people steering and one rowing. The NHS appointed people to look at the problem and decided to reorganise the structure of the team so that there were three steering managers, three assistant steering managers and a director of steering services, and an incentive was offered to the rower to row harder. When the NHS lost a second race, it laid off the rower for poor performance and sold the boat. It gave the money it got from selling the boat to provide higher than average pay awards for the director of steering services.
 - [[https://publications.parliament.uk/pa/cm199596/cmhansrd/vo951122/debtext/51122-36.htm][Hansard Archive]]
+
 * Trent Reznor
 How are you tonight?
 Having a good time?
@@ -2181,6 +2415,7 @@ Wrong fucking band.
 
 We're here to have a bad time.
 (synthesizer playing)
+
 * Tressie McMillan Cottom
 If Hannah Arendt is the definitive voice on fascism among our intellectual classes,
 then surely black women who have lived under fascists US policies here and abroad can
@@ -2190,6 +2425,7 @@ shed light on our cultural moment.
 "public goods do not survive when we let the privileged opt out, and if we
 make them racially inclusive, the pressure for opt-outs intensifies."
 - http://bostonreview.net/education-opportunity/marshall-steinbaum-brown-v-board-higher-ed
+
 * Tucker Carlson
 How'd we get to a place where it's normal that two parts of the country despise each other?
 That you can imagine the other side encouraging terror?
@@ -2197,6 +2433,7 @@ Our thinking changed.
 We stopped debating politics & ideas & started attacking others for things we can't change,
 for who we are.
 - Carlson, 11.09.18
+
 * Tukey
  https://doi.org/10.2307/2683137
 
@@ -2209,6 +2446,7 @@ for who we are.
 as a consequence of the implementation of e-government systems.
 It affirmed that the validity and integrity of any legal and judicial records of Israel should
 be deemed dubious at best.
+
 * Vilna Bashi Treitler
 "how an ethnic group comes to be recognized as such"
 
@@ -2217,13 +2455,16 @@ First, societal recognition is available only to those groups that are socially 
 1) persons present on the land well before the current nation was even a thought, for whom the land offered food to eat and a place to call home
 2) persons who arrived voluntarily to labor and find their way in a new land; and
 3) persons who arrived involuntarily.
+
 * Virginia Woolf
 Tomorrow I shall go back to London, and there already awaits me a string of
 inevitable experiences - what is called "seeing people".
 You don't know what that means - it means one can't get out of it.
 - to Gerald Brenan, 4 Oct 1929.
+
 * Vivan Washington Filer
 There is so much we know that others won't because our stories are dying with us.
+
 * Václav Havel
 (Former Czech Republic president)
 Keep the company of those who seek the truth, and run away from those who have found it.
@@ -2231,34 +2472,41 @@ Keep the company of those who seek the truth, and run away from those who have f
 * W. R. Halliday
 It will perhaps appear but as an ill-starred attempt to break butter­ flies of fragile irridescent beauty upon the cumbrous wheel of pedantry.
 - Indo-European folktales and Greek legend. 1933
+
 * W.E.B Du Bois
 "Disfranchisement is the deliberate theft and robbery of the only protection of poor against rich and black against white. The land that disfranchises its citizens and calls itself a democracy lies and knows it lies."
-
 
 We should meaure the prosperity of a nation not by the number of millionaires,
 but by the absence of poverty, the prevalence of health, the efficiency of the public schools,
 and the number of people who can and do read worthwhile books.
+
 * Wangari Maathai                                 :democracy_africa:
 "Recognizing that sustainable development, democracy and peace are indivisible is an idea whose time has come"
 
 Human rights are not things that are put on the table for people to enjoy. These are things you fight for and then you protect.
+
 * Weed man Lue
 Due to the coronavirus I will no longer be accepting cash or hand to hand transactions.
 Please continue to use cashapp or Venmo.
 
 Please also designate a safe place where I can Leave your order so that we do not have to make contact
 Thanks
+
 * Werner Herzog
 Dear America:
 You are waking up, as Germany once did, to the awareness that
 1/3 of your people would kill another 1/3, while 1/3 watches.
+
 * William Blake
 He who would do good to another must do it in Minute Particulars: general Good
 is the plea of the scoundrel, hypocrite, and flatterer.
+
 * William James
 A great many people think they are thinking when they are merely rearranging their prejudices.
+
 * William Stafford
 There is no such thing as writer's block for writers whose standard are low enough.
+
 * Yeats
 The Choice
 
@@ -2270,23 +2518,16 @@ When all that story's finished, what's the news?
 In luck or out the toil has left its mark:
 That old perpelxity an empty purse,
 Or the day's vanity, the night's remorse.
+
 * Zach Galifianakis
 Destroy the idea that you have to be constantly working or grinding in order to be successful.
 Embrace the concept that rest, recovery, reflection are essential parts of the progress towards
 a successful and happy life.
+
 * Zora Neale Hurston
 If you are silent about your pain, they'll kill you and say you enjoyed it.
-
 
 Being under my own roof, and my personality not invaded by others makes
 a lot of difference in my outlook on life  and everything.
 Oh, to be once more alone in a house!
 - to Jean Waterbury, 6 Mar 1951.
-
-* Simon Williams
-Sleep, I will argue and demonstrate, is political through and through.
-Political, that is to say, in the sense that sleep is clearly implicated and
-imbricated in relations of power, authority and expertise as a site and source
-of claims-making, if not crisis, contestation, controversy and critique.
-
-- the politics of sleep
