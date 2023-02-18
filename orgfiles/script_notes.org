@@ -111,9 +111,16 @@ find ? -type f -a -not -name "DS_Store" -print -o -type d -name ".git" -prune
    or verify they sent a plaintext signature.
 
 **** Setup for Emacs
-   To use, add "allow-emacs-pinentry" to "~/.gnupg/gpg-agent.conf",
-   reload the configuration with "gpgconf --reload gpg-agent", and
-   start the server with M-x pinentry-start. (or add (pinentry-start) to .emacs)
+https://emacs.stackexchange.com/questions/32881
+
+use epg package,
+set epg-pinentry-mode to 'loopback
+
+add "allow-emacs-pinentry" to "~/.gnupg/gpg-agent.conf",
+and set pinentry-program to pinentry-mac's path in gpg-agent.conf
+
+reload the configuration with "gpgconf --reload gpg-agent", and
+
 
 **** List keys
    gpg -k
