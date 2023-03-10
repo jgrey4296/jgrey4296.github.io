@@ -1,10 +1,10 @@
 #+TITLE: Script Notes
 
-
 * Overview
 
 * Main
 https://construct.readthedocs.io/en/latest/
+https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly
 ** CLI
 
 ** OPA
@@ -120,7 +120,6 @@ add "allow-emacs-pinentry" to "~/.gnupg/gpg-agent.conf",
 and set pinentry-program to pinentry-mac's path in gpg-agent.conf
 
 reload the configuration with "gpgconf --reload gpg-agent", and
-
 
 **** List keys
    gpg -k
@@ -610,6 +609,42 @@ https://scons.org/doc/production/HTML/scons-user.html
 
 *** Grunt
 https://gruntjs.com/getting-started
+http://adrianmejia.com/blog/2014/10/07/grunt-js-tutorial-from-beginner-to-ninja/
+
+**** tasks
+grunt.registerTask(name,description,function);
+grunt.registerTask(name,[taskNames]);
+
+If the function has parameters:
+grunt testTask:someParameter
+
+grunt.fail.warn()
+grunt.fail.fatal
+grunt.log.[writeln,write,subhead,error,ok]();
+
+grunt.file.[write,read,readJSON,delete,copy,mkdir]();
+grunt.file.expand(); -> returns an array with all files matching a pattern (use
+grunt.file.recurse(); -> expand path, return a callback???
+
+this.requires([taksNames]);
+this.name() -> name of the task;
+this.args();
+
+**** Plugins:
+to install a plugin:
+npm install grunt-contrib-**** --save-dev
+
+load the plugin in the gruntfile:
+grunt.loadNpmTasks('grunt-contrib-****');
+
+Top Plugins:
+jshint (use .jshintrc for settings)
+watch  (to run tasks when files change)
+uglify
+clean
+concat
+connect
+concurrent
 
 ** Text
 *** Wordnet
@@ -710,6 +745,7 @@ to: tagsField
 for a better bookmarking default
 
 [Netscape bookmark file format](https://msdn.microsoft.com/en-us/library/aa753582(v=vs.85).aspx).
+
 *** Godot
 Godot Engine v3.4.4.stable.official.419e713a2 - https://godotengine.org
 Free and open source software under the terms of the MIT license.
@@ -986,7 +1022,6 @@ pdftk ? dump_data > info.txt
 pdftk ? update_info info.txt output updated.pdf
 #+end_src
 
-
 pdftk ? attach_files
 pdftk ? dump_data_annots
 
@@ -1060,6 +1095,14 @@ Usage: pdfimages [options] <PDF-file> <image-root>
   -help            : print usage information
   --help           : print usage information
   -?               : print usage information
+
+** Man
+adding MANPATH adds a custom location
+
+Pandoc creates man pages from markdown:
+`pandoc ms.1.md -s -t man -o ms.1`
+
+Man expects pages to be gzipped
 
 * Links
 [[https://www.futureboy.us/pgp.html][GPG General Howto]]

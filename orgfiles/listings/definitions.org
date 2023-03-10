@@ -130,6 +130,48 @@ n! - factorial(n)
 18) publish the intellectual contributions of research software.
 19) distinguish the intellectual contribution of software from its service contribution.
 20) examine the source code of academic software contributions and encourage others to do so as well.
+*** Types of Error
+Type 1: False Positive
+Type 2: False Negative
+
+*** Types of Bias
+https://en.wikipedia.org/wiki/Bias#Types_of_bias
+
+**** Cognitive
+***** Confirmation Bias
+
+***** Attribution Bias
+
+***** Gamblers Fallacy
+
+***** Anchoring
+
+***** Framing
+
+***** Halo Effect / Horn Effect
+
+***** Self-Serving Bias
+
+***** Status quo bias
+
+***** Availability bias
+
+***** Survivorship bias
+
+***** Confirmation bias
+
+***** Base Rate Fallacy
+
+**** Statistical
+
+***** Forecast
+
+***** Observer expectancy effect
+
+***** Reporting Bias
+
+***** Selection Bias
+
 
 ** Math
 *** Number Systems
@@ -802,6 +844,20 @@ ExpTime -
 *** Args vs Params
 params : expected, formal definition
 args   : actual
+
+*** Binary Sizes
+Bit: 0 or 1
+Byte: 8 bits
+Word: 2 Bytes
+DWord: 2 words
+
+*** Little v Big Endian
+lowest address <-------------> highest address
+least sig      <little endian>        most sig
+most sig       <big    endian>       least sig
+
+little end first versus big end first
+
 
 ** Misc
 Marxism                        - critique of capitalism, and understanding economic activity through class struggle
