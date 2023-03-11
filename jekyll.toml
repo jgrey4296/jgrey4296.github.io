@@ -1,0 +1,7 @@
+name        = "John Grey"
+markdown    = "kramdown"
+permalink   = "/posts/:year/:month/:day/:title"
+source      = "site"
+destination = "build/jekyll"
+
+include     = ["_generated"]

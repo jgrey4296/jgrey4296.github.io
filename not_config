@@ -1,3 +1,5 @@
 name : John Grey
 markdown: kramdown
 permalink: /posts/:year/:month/:day/:title
+source: docs/site
+destination: build/jekyll
