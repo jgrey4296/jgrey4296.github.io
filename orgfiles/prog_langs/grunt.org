@@ -1,0 +1,53 @@
+#+title: Grunt
+
+* Overview
+* Main
+To set up an npm package.json:
+npm init
+
+To install and add to dependency list:
+npm install <package> --save-dev
+
+** General Use
+grunt.registerTask(name,description,function);
+
+If the function has parameters, they are passed in as part of the cla's.
+is: grunt testTask:someParameter
+
+Or:
+grunt.registerTask(name,[taskNames]);
+
+Warnings and errors:
+grunt.fail.warn()
+grunt.fail.fatal
+
+Logs:
+grunt.log.[writeln,write,subhead,error,ok]();
+
+Files:
+grunt.file.[write,read,readJSON,delete,copy,mkdir]();
+grunt.file.expand(); -> returns an array with all files matching a pattern (use ! to exclude)
+grunt.file.recurse(); -> expand path, return a callback???
+
+Task internal Methods:
+this.requires([taksNames]);
+this.name() -> name of the task;
+this.args();
+** Plugins:
+to install a plugin:
+npm install grunt-contrib-**** --save-dev
+
+load the plugin in the gruntfile:
+grunt.loadNpmTasks('grunt-contrib-****');
+
+Top Plugins:
+jshint (use .jshintrc for settings)
+watch  (to run tasks when files change)
+uglify
+clean
+concat
+connect
+concurrent
+* Links
+http://adrianmejia.com/blog/2014/10/07/grunt-js-tutorial-from-beginner-to-ninja/
+http://gruntjs.com/sample-gruntfile

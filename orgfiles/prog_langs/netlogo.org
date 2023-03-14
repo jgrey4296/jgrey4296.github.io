@@ -1,0 +1,210 @@
+#+title: Netlogo
+
+* Overview
+* Main
+** NetLogo Tutorial Notes
+*** Interface Elements
+   Buttons (blue): setup and start/stop model
+   Sliders / Switches (green): alter model settings
+   Monitors and plots (beige): display data
+*** Components
+   Patches : the world grid
+   Turtles : The agents
+   Links   : Connect two turtles
+   Observer: Sees all, can effect all
+*** Variables
+   globals [var1 var2]
+   turtles-own [var1 var2]
+   patches-own [var1 var2]
+   links-own [var1]
+
+   ;;set them with:
+   set var val
+
+   ;;get them with:
+   [var] of agent ident
+
+   ;;local variables use 'let':
+   let lname [varname] of agent
+
+*** Procedures
+Start with 'to', finish with 'end'.
+
+to something [var1 var2]
+	let something
+end
+
+*** Creating agents
+   hatch ;;from an existing turtle
+   sprout ;;from an existing patch
+
+*** Asking
+   ;; ask gives commands to all agents of a group
+   ask turtles [ set color red ]
+
+*** Agentset
+   ;;excluding current agent:
+   other turtles
+   other turtles-here
+   ;;filtering:
+   turtles with [color = red]
+   ;;on the same patch:
+   turtles-here with [color = red]
+   ;;nearby:
+   turtles in-radius 3
+   neighbors 4
+
+**** Commands on agentsets
+    ask
+    any? ;; is empty?
+    all? ;; check for all satisfying a condition
+    count
+    one-of ;; randomly pick
+
+*** Breeds
+   ;;Simple agent type system
+   ;; define agentset and individual
+   breed [wolves wolf]
+   breed [sheep a-sheep]
+
+   create-<breed>
+   hatch-<breed>
+   sprout-<breed>
+   <breed>-here
+   <breed>-at
+   <breed>-on
+   is-a-<breed>?
+
+   ;;define vars of a breed:
+   <breed>-own
+
+*** Links
+
+
+*** Examples
+   ;;Map over all patches and turn them green
+   foreach [list pxcor pycor ] of patches [ [coords] -> ask (patch (item 0 coords) (item 1 coords)) [ set pcolor green ] ]
+
+   ;;map over all turtles and put them somewhere
+   foreach [who] of turtles [ [x] -> ask turtle x [ set xcor 25 set ycor 25 ] ]
+   foreach [who] of turtles [ [x] -> ask turtle x [ setxy random-xcor random-ycor ]]
+   foreach [who] of turtles [ [x] -> ask turtle x [ set shape "circle" ]]
+   foreach [who] of turtles [ [x] -> ask turtle x [ set size 5 ]]
+
+   ask turtles [ foreach [self] of other turtles in-radius 10 [ [x]-> create-link-with x ] ]
+
+*** Shapes
+   default
+   airplane
+   arrow
+   box
+   bug
+   butterfly
+   car
+   circle
+   circle 2
+   cow
+   cylinder
+   dot
+   face happy
+   face neutral
+   face sad
+   fish
+   flag
+   flower
+   house
+   leaf
+   line
+   line half
+   pentagon
+   person
+   plant
+   sheep
+   square
+   square 2
+   star
+   target
+   tree
+   triangle
+   triangle 2
+   truck
+   turtle
+   wheel
+   wolf
+   x
+
+** Models
+
+*** Simple Norms
+   Create N Groups of M Agents, distributed randomly.
+
+   Each Agent has variables { Shape, Colour (RGB), distance to group centre }
+
+   Model Norms of Colour and distance
+
+   Variants:
+   Group based norm calculation,
+   Distance based norms
+   Distance-less based norms
+   similarity norms
+
+   Norms as averaged values of applicable agents.
+
+
+*** newsim
+   Modelling Bicchieri's account of littering
+
+
+
+
+*** Aids
+
+**** Recorders
+%infected
+populations - negative, positive, unknown
+
+**** Controls
+initial-people
+average-coupling-tendency
+average-commitment
+average-condom-use
+average-test-frequency
+
+**** Data
+
+***** Globals
+infection-chance   : x/100 of sex -> infection
+symptoms-show      : number of ticks before symtoms show
+
+***** Turtles
+:: turtle infection state
+infected?
+known?
+infection-length
+:: turtle couple state
+coupled?
+couple-length?
+:: individual differences
+commitment
+coupling-tendency
+condom-use
+test-frequency
+partner
+lefty/righty
+
+**** Processes
+
+:: go
+if necessary, stop
+incremement infection and coupling lengths
+if uncoupled, move
+if uncoupled and righty, randomly couple
+
+uncouple
+infect
+test
+update-colourx
+
+
+
+* Links

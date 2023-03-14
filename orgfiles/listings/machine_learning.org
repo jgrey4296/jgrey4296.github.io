@@ -1,0 +1,429 @@
+* Machine Learning Notes
+** Algorithms
+*** C4.5                                                                        :supervised:classifier:decision_tree:
+    Constructs a *decision tree* classifier.
+    Uses Information gain/entropy.
+    Single-pass pruning. 
+    *Continuous* and *discrete*.
+    Human Readable. 
+
+*** K-means                                                                     :unsupervised:cluster:
+    Operates on *continuous* data
+    Weakness: sensitivity to *outliers* and *initial choice of centroids*
+    
+*** Support Vector Machines                                                     :classifier:supervised:
+    Learns Hyper planes, divides data into *2 classes*.
+    *Margins*: distance between the hyperplane and 2 closest data points from each class.
+    Attempts to maximize margins.
+    
+*** Apriori                                                                     :classifier:unsupervised:
+    Learns *association rules* of a database of transactions.
+    Works using *size* of itemset (associations of 2,3,n), 
+    *support*: number of transactions containing itemset / total transactions
+    *confidence*: conditional probability of an item given other items in itemset.
+    
+    Approach: *join* -> *prune* -> repeat
+    (So a bottom up approach)    
+
+    see [[https://github.com/asaini/Apriori][Asaini's Apriori]] and [[https://github.com/arturhoo/apriori/blob/master/apriori.py][Aturhoo's apriori]]
+
+*** EM                                                                          :cluster:unsupervised:
+    *Expectation-maximization*
+    Process: *E-step* -> *M-step* -> repeat
+    E-Step calculates probabilities for assignments of each data point to a cluster
+    M-Step updates model parameters based on cluster assignments
+    Weaknesses: *slows down in later iterations*, *gets stuck in local optima*.
+    
+*** PageRank                                                                    :link_analysis:unsupervised:
+    Determines relative importance of some object within a network of objects.
+    Has a *networkx* implementation.
+    
+*** AdaBoost                                                                    :classifier:supervised:
+    Multiple round learning of multiple classifiers
+    Uses folds of training data on separate classifiers, weighting data that did 
+    that was hard on the previous round.
+    Implemented in *scikit-learn*.
+
+*** kNN                                                                         :supervised:classifier:
+    K-Nearest Neighbours. Lazy, only labels new data after training.
+    Uses distance metrics, like Euclidean distance. 
+    Transform discrete data into continuous (such as hamming distance, binary features).
+    Weakenesses: *expensive on large datasets*, *weak on noisy data*, 
+    *large ranges can dominate distance metric*, *storage requirements*,
+    *importance of a good distance metric*.
+
+    Implemented in *scikit-learn*.
+
+*** Naive Bayes                                                                 :classifier:supervised:
+    Implemented in *scikit-learn*.
+    
+*** CART                                                                        :classifier:regression:decision_tree:supervised:
+    Uses *Gini Impurity*. (A measure of how often a random element would be incorrectly labelled).
+    *Cost-complexity* pruning.
+    Decision nodes can only be binary.
+    Uses surrogates (pseudo data that resembles test features that send 
+    				data to the left or right node appropriately)
+                    
+    Implemented in *scikit-learn*.
+
+*** Principal Component Analysis                                                :unsupervised:
+*** Independent Component Analysis
+** Libraries
+*** SK-Learn                                                                    :sklearn:
+    Mainly implements *estimators* that can do:
+    1) Classification - assign to finite labels
+    2) Regression - predict continuous target variable
+    3) clustering
+    4) transformation (from raw data, ie: PCA)
+
+    Estimators have *.fit( array_2d )* and *.score()*
+    Score values: bigger is better
+    *.predict to use the classifier
+**** Datasets
+     Sklearn datasets, loaded with 'from sklearn import datsets'
+     Located in .data member of the dataset loaded, with n_samples and n_features.
+     Description of characteristics are in .DESCR
+**** Choosing parameters
+     Can be set manually, or found using *grid search* and *cross validation*
+**** Conventions
+     Inputs will be cast by default to *float64* Classifiers will
+     preserve the output type used as target (or target names)
+     *.fit()* will overwrite a learned model
+     *.set_params()* allows hyper-param modification *without* overwriting
+     Multiclass classifiers are dependent on the format of target data.
+     (ie: *LabelBinarizer* can convert to one-hot encoding)
+     (While *MultiLabelBinarizer* converts to multiple labels in array)
+     Estimators with 'CV' at the end will set their parameters by
+     cross validation.
+**** Classification
+***** Nearest Neighbour
+      Given a new observation, find in the training set the closest
+      feature vector.
+      Uses *sklearn.neighbors.kNeighborsClassifier*
+***** Logistic
+      To fit to binary output, for classification
+      *linear_model.LogisticRegression(C=1e5)*
+***** SVMs
+      Linear SVMS:
+      *sklearn.svm.SVC(kernel=linear)* 
+      kernel can also be 'poly' and 'rbf' (radial basis function)
+***** Naive Bayes
+      sklearn.naive_bayes.MultinomialNB
+**** Regression
+***** Linear
+      Fits a model of the form:
+      *y = X B + e*
+      Where:
+      *X = Data, y = target variable, B = coefficients, e = noise*
+      Example: 
+      *sklearn.linear_model*
+      Includes LinearRegression, and RidgeRegression, and Lasso
+      Ridge is for situations with high variance, performing
+      bias/variance tradeoff.
+      *Lasso* is Least absolute shrinkage and selection operator, setting
+      some coefficients to zero for high dimensional sparse data. 
+      Lasso is efficient for large datsets.
+      *LassoLars* is efficient for problems where the weight vector is sparse.
+**** Clustering
+     from sklearn import cluster
+     for clustering an nx.graph, use nx.to_numpy_matrix...
+***** KMeans
+      km = KMeans(n_clusters=n)
+      km.fit(data)
+      To see the clustered groups:
+      km.labels_
+***** Hierarchical clustering
+****** Agglomerative : Bottom up
+       sklearn.cluster.AgglomerativeClustering
+****** Divisive : Top down
+       sklearn.cluster...
+***** Spectral
+      cluster.SpectralClustering
+***** Affinity
+      cluster.affinity_propagation.
+      *Doesnt* use the fit pattern.
+**** PCA
+     Can reduced dimensionality
+     sklearn.decomposition.pca
+     sklearn.manifold.Isomap is similar
+**** ICA
+     Independent component analysis
+**** Pipelines
+     sklearn.pipeline.Pipeline
+     Can chain estimators together
+     p = Pipeline(steps=[('stepname',estimator)...])
+     Variables of steps can be set using '__' separated param names.
+     eg: stepname__alpha = x
+
+**** Validation
+     sklearn.metrics
+***** Folds
+****** K-Folds
+       use *sklearn.model_selection.KFold*
+       KFold(n_splits=n, random_state=None, shuffle=False)
+       Creates a generator to loop through, providing
+       training and testing indices to apply to datasets
+****** StratifiedKFold
+       Preserves class distribution within folds
+****** GroupKFold
+       Ensures groups aren't duplicated between training and testing sets
+****** ShuffleSplit
+       Random permutation
+****** StratifiedShuffleSplit
+       Preserves class distribution
+****** GroupShuffleSplit
+       Stops duplications
+****** LeaveOneGroupOut
+****** LeavePGroupsOut
+****** LeaveOneOut
+****** LeavePOut
+****** PredefinedSplit
+***** cross_val_score
+      sklearn.model_selection.cross_val_score
+      cvs(estimator,X,y,cv=fold_instance)
+***** Grid Search
+      sklearn.model_selection.GridSearchCV
+      clf = GridSearchCV(estimator=svc,param_grid=dict(param=poss_value_list))
+      clf.fit...
+      clf.best_score_
+      clf.best_estimator_.param
+      clf.score(x,y)
+***** Reports
+      sklearn.metrics.classification_report
+      sklearn.metrics.confusion_matrix
+      
+      used for clustering:
+      sklearn.metrics.normalized_mutual_info_score
+      sklearn.metrics.adjusted_rand_score
+**** Text Processing
+     sklearn.feature_extraction.text.CountVectorizer
+     can transform text into tokens/bags of words.
+
+***** Term-Frequency times Inverse Document Frequency
+      sklearn.feature_extraction.text.TfidfTransformer
+      Can transform bags of words. 
+
+*** Matplotlib
+    Two apis: OO and State based.
+    *Seaborn* is a modern overlaying api.
+    To show a matrix as an image:
+    plt.imshow(image, cmap=plt.cm.gray_r)
+    import matplotlib
+    import matplotlib.pyplot as plt
+
+**** Format
+    Specify only a marker for scatter plots.
+    -             solid line style
+    --            dashed line style
+    -.            dash-dot line style
+    :             dotted line style
+    .             point marker
+    ,             pixel marker
+    o             circle marker
+    v             triangle_down marker
+    ^             triangle_up marker
+    bgrcmyakw     blue green red cyan...
+    1234sp*hH+xDd|_ are all additional markers
+
+    Additional:
+
+    agg_filter: unknown
+    alpha: float (0.0 transparent through 1.0 opaque) 
+    animated: [True | False] 
+    antialiased or aa: [True | False] 
+    axes: an :class:`~matplotlib.axes.Axes` instance 
+    clip_box: a :class:`matplotlib.transforms.Bbox` instance 
+    clip_on: [True | False] 
+    clip_path: [ (:class:`~matplotlib.path.Path`, :class:`~matplotlib.transforms.Transform`) | :class:`~matplotlib.patches.Patch` | None ] 
+    color or c: any matplotlib color 
+    contains: a callable function 
+    dash_capstyle: ['butt' | 'round' | 'projecting'] 
+    dash_joinstyle: ['miter' | 'round' | 'bevel'] 
+    dashes: sequence of on/off ink in points 
+    drawstyle: ['default' | 'steps' | 'steps-pre' | 'steps-mid' | 'steps-post'] 
+    figure: a :class:`matplotlib.figure.Figure` instance 
+    fillstyle: ['full' | 'left' | 'right' | 'bottom' | 'top' | 'none'] 
+    gid: an id string 
+    label: string or anything printable with '%s' conversion. 
+    linestyle or ls: ['solid' | 'dashed', 'dashdot', 'dotted' | (offset, on-off-dash-seq) | ``'-'`` | ``'--'`` | ``'-.'`` | ``':'`` | ``'None'`` | ``' '`` | ``''``]
+    linewidth or lw: float value in points 
+    marker: :mod:`A valid marker style <matplotlib.markers>`
+    markeredgecolor or mec: any matplotlib color 
+    markeredgewidth or mew: float value in points 
+    markerfacecolor or mfc: any matplotlib color 
+    markerfacecoloralt or mfcalt: any matplotlib color 
+    markersize or ms: float 
+    markevery: [None | int | length-2 tuple of int | slice | list/array of int | float | length-2 tuple of float]
+    path_effects: unknown
+    picker: float distance in points or callable pick function ``fn(artist, event)`` 
+    pickradius: float distance in points 
+    rasterized: [True | False | None] 
+    sketch_params: unknown
+    snap: unknown
+    solid_capstyle: ['butt' | 'round' |  'projecting'] 
+    solid_joinstyle: ['miter' | 'round' | 'bevel'] 
+    transform: a :class:`matplotlib.transforms.Transform` instance 
+    url: a url string 
+    visible: [True | False] 
+    xdata: 1D array 
+    ydata: 1D array 
+    zorder: any number 
+
+**** Colour maps
+     see *plt.cm* for various options 
+**** Styles
+     plt.style.use(...)
+     Available include: seaborn, bmh, fivetheiryeight, seaborn-muted...
+
+**** Object Oriented API
+     Best way to create:
+     figure, axes = plt.subplots(2,M?)
+     For more complex arrangements, see *plt.GridSpec*
+
+     Figure Manipulations:
+     .saveFig(filename), .subtitle
+
+     Axes Manipulations:
+     .clear(), .axhspan, .axvspan, .set_{}/.set()
+     .plot(x,y,format,label=LABEL)
+     .legend()
+
+**** Bar Charts
+     bars = {'a':2,'b':4,'c':15,'d':1}
+     barPositions = np.arange(len(bars))
+     axes.bar(barPositions,bars.values(),align='center')
+     axes.set_xticks(barPositions)
+     axes.set_xticklabels(bars.keys())
+
+**** ErrorBars
+     fig,ax = plt.subplots(1)
+     ax.errorbar(x, y, yerr=AMNT, xerr=AMNT2, fmt=FORMAT)
+
+***** Continuous error
+      Use some form of interpolator between points 
+      (eg: sklearn.gaussian_process)
+      Then:
+      axes.plot(x,y)
+      axes.fill_between(x,y-error,y+error,alpha=0.2)
+      
+**** Scatter plots
+     axes.scatter(X,Y,s=sizes,c=colours,params...)
+
+**** contour plots
+     axes.contour(X,Y,Z,params...)
+     For filled version:
+     axes.contourf(....)
+     use different values of the *cmap* param for different colours.
+     See *plt.cm* for various cmaps
+     Use *plt.colorbar* to vis the colour map
+
+**** Image display
+     *plt.imshow(X)*
+     X of shape (n,m,[3,4]?)
+     Origin is *upper left*
+
+**** Histograms
+     axes.hist(x)
+     axes.hist2d...
+     axes.hexbin...
+     With bins, range, normed, weights, cumulative params
+
+*** Graphviz
+    import graphviz
+    #check graphviz.ENGINES
+    G = graphviz.Digraph(engine='fdp')
+    G.node(NAME,LABEL)
+    G.edge(TAIL,HEAD)
+    G.render(FILENAME,view=True)
+
+*** Numpy
+    Get the unique values in an array with *np.unique(array)*
+    Get a linear space with *np.linspace*
+    Get a log space with *np.logspace*
+    Reshape with np.reshape(tuple),
+    Reshape can take a single -1, which will be inferred from other args.
+    Create 2d grids using 1d arrays using *np.meshgrid*
+
+*** spacy
+*** Scipy
+    has scipy.sparse matrices.
+**** Stats
+     Has probability distributions
+     #+begin_src python
+       import numpy as np
+       import scipy.stats as stats
+       x = np.linspace(0, 1, 1000)
+       #loc = mean, scale = stddev
+       y = stats.norm.pdf(x, loc=0.5, scale=0.5)
+     #+end_src
+
+*** Pandas
+*** statsmodels
+*** TensorFlow
+*** nltk
+*** Gensim
+** Practices
+*** Preprocessing
+    Typically to reshape data into a n*m shape
+*** Supervised Learning
+*** Unsupervised Learning
+*** Training and Test Sets
+*** Sigmoid Functions
+    Functions to fit values to binary outputs
+    *y = sigmoid(X * B - offset) + e*
+    is:
+    *(1 / (1 + exp( - X * B + offset))) + e*
+*** Metrics
+**** Precision
+**** Recall
+**** Accuracy
+**** f1?
+**** support?
+*** Estimator selection:
+    [[http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html][Flow Chart of Estimators]]
+*** Streaming
+    Use generators / yield for streaming large documents
+*** Boosting
+    Using multiple algorithms and combining the results. Using multiple weak learners
+    to create a single strong learner.
+*** Bootstrapping
+    In statistics: metrics that rely on random sampling with replacement.
+    In machine learning: Creates training sets through uniform sampling with replacement.
+*** Decision Trees
+*** Ordinary Least Squares Regression
+*** Logistic Regression
+*** Ensemble Methods
+*** Clustering Algorithms
+*** Singular Value Decomposition
+
+** TODO Possible uses
+*** Association learning from rulesets
+    Both CiF and Versu, potentially even from game data, all have rules
+    that could be encoded for association learning.
+
+*** Naive Bayes / Association learning in a live simulation
+    As a means to identify norms?
+    
+*** Clustering of Social Modes / Pageranking
+    Operating on datasets (social physics ones),
+    or on character occurrences in texts, 
+    bookmarks.
+
+*** Regression of rule weights from microtheories
+    There are a few thousand rules for CiF, it would be interesting
+    to try to train a regression (Adaboost) for determining likely weights.
+
+*** Clustering rulesets
+    Extracting implicit structure from the rulesets would be interesting
+
+*** Character extraction
+    Training custom NER's for discworld / horus heresy
+
+*** Speech quote extraction
+    From texts, to link characters with.
+
+*** Generative Language Model
+    N-gram based to start? 
+    Possibly training on Speech acts?
+
+

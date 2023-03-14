@@ -1,0 +1,152 @@
+#+title:  Sqlite 3
+* Overview
+* Main
+** Sqlite Syntax
+   SQLite is *case insensitive* apart from GLOB and glob.
+   Statement end is ';'
+
+*** Main commands
+**** CREATE
+     #+begin_src  :results value
+     sqlite3 my_new_database.db
+     #+end_src
+
+**** ATTACH | DETACH
+     For databases in separate files.
+     #+begin_src sqlite :results value
+     attach database 'test.db' as 'TEST';
+     detach database 'TEST';
+     #+end_src
+
+**** CREATE | DROP table
+     #+begin_src sqlite  :results value
+     -- create table $dbname.$tablename ( columnN, datatypeN constraints, );
+     create table main.test (id int primary key not null, name text not null);
+     drop table main.test;
+     #+end_src
+
+***** Column Constraints
+
+      |                    |                                |
+      |--------------------+--------------------------------|
+      | not null           |                                |
+      | default $X         |                                |
+      | unique             |                                |
+      | primary key        |                                |
+      | check($CONDITIONS) |                                |
+      | autoincrement      | only on integers, must be last |
+
+**** INSERT | DELETE
+     #+begin_src sqlite :results value
+     -- insert into $tablename (columns) values (values);
+     -- insert into $tablename values (values) (values) (values)...;
+     insert into test (id, name) values (1, "bob"), (2, "bill");
+
+     -- delete from $tablename where $conditions;
+     delete from test where id = 1;
+
+     -- DELETE ALL RECORDS:
+     -- delete from $tablename;
+
+     -- where primary key is autoincrement:
+     insert into test (name) values ("bob"), ("bill"), ("jill");
+     #+end_src
+
+**** SELECT
+     #+begin_src sqlite  :results value
+     -- select * from test where condition;
+     -- select * from test where limit $no_of_rows offset $row_num;
+     -- select * from test order by column asc/desc;
+     #+end_src
+
+**** UPDATE
+     #+begin_src sqlite  :results value
+     -- update $tablename set $column = $value, $column2 = $value2 where $conditions;
+     update test set name = 'taweg' where id = 2;
+     #+end_src
+
+
+*** Data Types
+    |         |   |
+    |---------+---|
+    | NULL    |   |
+    | INTEGER |   |
+    | REAL    |   |
+    | TEXT    |   |
+    | BLOB    |   |
+
+*** Useful commands:
+    |                    |                                              |                                                  |
+    |--------------------+----------------------------------------------+--------------------------------------------------|
+    | .show              | List settings                                |                                                  |
+    | .mode              | Set output formatting mode                   | csv, column, html, insert, line, list, tabs, tcl |
+    | .nullvalue $STRING | set a default string in place of null values |                                                  |
+    | .schema $TABLE     | show the setup of a table                    |                                                  |
+    | .tables            | list all tables in the file                  |                                                  |
+    | .dump $TABLE       | output the table in SQL format               |                                                  |
+    | .headers on/off    | display headers on output                    |                                                  |
+    | .backup main $FILE | backup db main to a file                     |                                                  |
+
+*** Operators
+    #+begin_src sqlite  :results value
+    -- Arithmetic: + 0 * / %
+
+    -- Comparison: == !=, <, <=, >, >=
+    -- <> : equality test
+    -- !<, >! : not greater/lesser
+
+    -- and, between exists, in, not in, not, or, is null, is, is not
+    -- unique
+    -- || : string concat
+    -- like, GLOB : compare values using wildcards
+
+    -- avg(), sum(), count()
+    -- select count(*) as "value name" from test;
+    #+end_src
+
+*** JOINS
+** Python wrapper
+** Best Practices
+** Org-Babel header args:
+
+   | db        | a string with the name of the file that                                     |
+   |           | holds the SQLite database. Babel requires this header argument.             |
+   | header    | if present, turn on headers in the output format.                           |
+   |           | Headers are also output with the header argument :colnames yes.             |
+   | echo      | if present, set the SQLite dot command .echo to ON.                         |
+   |           |                                                                             |
+   | bail      | if present, set the SQLite dot command .bail to ON.                         |
+   |           |                                                                             |
+   | csv       | the default SQLite output format for Babel SQLite source code blocks.       |
+   |           |                                                                             |
+   | column    | an SQLite output format that outputs a table-like form with                 |
+   |           | whitespace between columns.                                                 |
+   | html      | an SQLite output format that outputs query results as simple HTML tables.   |
+   |           |                                                                             |
+   | line      | an SQLite output format that outputs query results with one value per line. |
+   |           |                                                                             |
+   | list      | an SQLite output format that outputs query results with the separator       |
+   |           | character between fields.                                                   |
+   | separator | a string that specifies the separator character used by the SQLite          |
+   |           | `list' output mode and by the SQLite dot command .import.                   |
+   | nullvalue | a string to use in place of NULL values.                                    |
+
+** Sandbox
+
+   #+NAME:Test
+   #+begin_src sqlite :results value :db test.db
+   create table test (id int primary key not null, name text not null);
+   #+end_src
+
+   #+RESULTS: Test
+
+   #+NAME: test2
+   #+begin_src sqlite  :results value :db test.db
+   .schema test
+   #+end_src
+
+   #+RESULTS: test2
+   | CREATE TABLE test (id int primary key not null | name text not null); |
+* Links
+[[https://www.tutorialspoint.com/sqlite/][Reference]]
+[[https://orgmode.org/worg/org-contrib/babel/languages/ob-doc-sqlite.html][ob-sqlite]]

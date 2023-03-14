@@ -1,0 +1,1110 @@
+#+TITLE: Script Notes
+
+* Overview
+
+* Main
+https://construct.readthedocs.io/en/latest/
+https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly
+** CLI
+
+** OPA
+https://www.openpolicyagent.org/docs/latest/
+https://www.openpolicyagent.org/docs/latest/#running-opa
+https://www.openpolicyagent.org/docs/latest/policy-language/
+https://www.openpolicyagent.org/docs/latest/policy-reference/
+
+** ADB
+Tablet will periodically de-authorize adb,
+so re-pair with `adb pair`
+
+#+begin_src python
+from adb_shell.adb_device import AdbDeviceTcp
+from adb_shell.auth.sign_pythonrsa import PythonRSASigner
+from ppadb.client import Client
+# Load the public and private keys
+adbkey = expander(config['ADB']['keyloc'])
+with open(adbkey) as f:
+    priv = f.read()
+with open(adbkey + '.pub') as f:
+    pub = f.read()
+signer = PythonRSASigner(pub, priv)
+
+# Connect
+try:
+    shell_device = AdbDeviceTcp(config['ADB']['ipaddr'], 5555, default_transport_timeout_s=9.)
+    shell_device.connect(rsa_keys=[signer], auth_timeout_s=int(config['ADB']['auth_timeout']))
+except ConnectionRefusedError as err:
+    logging.info("Shell Connection Refused")
+    exit()
+
+try:
+    client = Client()
+    adb_device = client.device(config['ADB']['ipaddr'] + ":5555")
+except Exception as err:
+    logging.info("ppadb Connection Refused")
+    exit()
+
+logging.info("Connected")
+
+# Send a shell command
+response1 = shell_device.shell(f"ls {config['ADB']['sdcard']}")
+print(response1)
+
+# Find all pdf and epubs in the target
+instruction  = 'find {} -name "*.pdf"'.format(join(config['ADB']['sdcard'], args.target))
+logging.info("Find Instruction: %s", instruction)
+all_files = [x for x in shell_device.shell(instruction).split("\n") if x != ""]
+logging.info("Found %s files in %s", len(all_files), args.target)
+print(all_files)
+#+end_src
+
+*** GDB
+https://www.sourceware.org/gdb/
+
+*** Awk
+#+begin_src bash
+# Getting subgroups
+awk 'match($0, /HREF="(.+?)"/, a) {print a[1]}'
+
+# checking length
+awk 'length < 10 {print $0}'
+
+# in place editing and printing at end of file
+gawk -i inplace '/if __name__ / {print "##-- ifmain" } {print $0} ENDFILE {print "##-- end ifmain"}'
+#+end_src awk
+
+*** Bash
+https://github.com/bahamas10/bash-style-guide
+[[https://stackoverflow.com/questions/5917576/][line length sorting]]
+
+#+begin_src bash
+cat testfile | awk '{ print length, $0 }' | sort -n | cut -d" " -f2-
+#+end_src
+
+*** File encoding
+file -I {}
+iconv -f {enc} -t {enc} {} > conv-{}
+
+*** Find
+To find files, but not search .git directories:
+#+begin_src bash
+find ? -type f -a -not -name "DS_Store" -print -o -type d -name ".git" -prune
+#+end_src
+
+*** GPG Notes (v 2.2.11)
+**** *Short IDs*: Last 8 digits of fingerprint
+
+**** Basic Protocol
+   Create Key
+   Create Revocation Cert
+   Create Fingerprint
+   Export Public and Secret Keys
+   Backup [Public, Secret, Revocation]
+
+   Import other persons public key
+   Verify it against their fingerprint
+   Sign the Key
+   (optional, give the signed key back by exporting it)
+
+   Then decrypt messages sent to you,
+   encrypt messages to them using their public key,
+   or verify they sent a plaintext signature.
+
+**** Setup for Emacs
+https://emacs.stackexchange.com/questions/32881
+
+use epg package,
+set epg-pinentry-mode to 'loopback
+
+add "allow-emacs-pinentry" to "~/.gnupg/gpg-agent.conf",
+and set pinentry-program to pinentry-mac's path in gpg-agent.conf
+
+reload the configuration with "gpgconf --reload gpg-agent", and
+
+**** List keys
+   gpg -k
+   gpg --list-sigs
+
+**** Importing a key:
+   Works for secret and public keys
+   gpg --import [filename]
+
+**** Generating a key
+   gpg --gen-key
+   gpg --gen-revoke --armor --output=RevocationCertificate.asc [email]
+
+**** Deleting a key:
+   gpg --delete-secret-keys
+   gpg --delete-keys
+
+**** Get a fingerprint
+   Fingerprints give a shorter to verify hash of public keys
+   gpg --fingerprint [email]
+
+**** Sign a key
+   gpg --sign-key [email]
+   or
+   gpg --interactive --edit-key [email]
+
+**** Export keys
+   gpg --armor --export[-secret-keys] [-o file] [-a ID | email]
+
+**** Encrypt
+   *Don't forget to add yourself to the recipients*
+   gpg [-o output] --sign --armor [-r recipient] [-e file]
+
+**** Decrypt
+   gpg  -o output -d file
+
+**** Sign a plaintext message
+   gpg --clearsign file
+
+**** Verify a signature
+   gpg --verify file
+
+**** Using Stronger Encryption
+   gpg --interactive --edit-key [email]
+   Then 'showpref' will show algorithm preferences
+   from most - least.
+
+   modify using 'setpref [algorithms..]'
+
+   then 'save'
+
+*** Mail
+**** mbsync and mu
+
+#+NAME: mu init
+#+begin_src bash :results output
+mu init --maildir ~/.mail --my-address {address}
+mu index
+#+end_src
+
+*** Sed
+Filter lines with:
+'/pattern/d'
+
+Print Matching lines with:
+'/pattern/p'
+
+case Invariant:
+'/pattern/I'
+
+*** Wget
+https://www.networkinghowtos.com/howto/change-the-user-agent-in-wget/
+https://www.networkinghowtos.com/howto/common-user-agent-list/
+
+wget --user-agent="Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"
+wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0"
+
+*** XML
+**** XPath                                      :query_language:
+#+NAME: Example Code
+#+begin_src xpath :results output
+# display the last names of all people in the doc
+//person/@last-name
+
+# get the 2nd person node
+/people/person[2]
+
+# get all the person nodes that have addresses in denver
+//person[address/@city='denver']
+
+# get all the addresses that have "south" in the street name
+//address[contains(@street, 'south')]
+
+# reject certain nodes:
+//(* except script)
+//*[not(self::script)]
+
+# Extract an attribute value:
+//a/extract(@href, '.*')
+#+end_src
+
+#+begin_src xpath
+# Axes
+ancestor
+ancestor-or-self
+attribute / @
+child
+descendant
+descendantor-self
+following
+following-sibling
+parent
+preceding
+preceding-sibling
+self / .
+
+#+end_src
+
+**** [[https://www.videlibri.de/xidel.html][xidel]] :cli:query:
+#+begin_src bash
+# Extracts between table and footer
+xidel -s --output-format=xml --xpath "//table/following-sibling::*[//*[@id='printfooter']/preceding::node()]" `?`
+#+end_src
+
+**** [[http://xmlstar.sourceforge.net/][XML Starlet]]
+#+NAME: commands
+#+begin_src bash :results output
+xml
+#+end_src
+
+:xml_command:
+XMLStarlet Toolkit: Command line utilities for XML
+Usage: xml [<options>] <command> [<cmd-options>]
+where <command> is one of:
+  ed    (or edit)      - Edit/Update XML document(s)
+  sel   (or select)    - Select data or query XML document(s) (XPATH, etc)
+  tr    (or transform) - Transform XML document(s) using XSLT
+  val   (or validate)  - Validate XML document(s) (well-formed/DTD/XSD/RelaxNG)
+  fo    (or format)    - Format XML document(s)
+  el    (or elements)  - Display element structure of XML document
+  c14n  (or canonic)   - XML canonicalization
+  ls    (or list)      - List directory as XML
+  esc   (or escape)    - Escape special XML characters
+  unesc (or unescape)  - Unescape special XML characters
+  pyx   (or xmln)      - Convert XML into PYX format (based on ESIS - ISO 8879)
+  p2x   (or depyx)     - Convert PYX into XML
+<options> are:
+  -q or --quiet        - no error output
+  --doc-namespace      - extract namespace bindings from input doc (default)
+  --no-doc-namespace   - don't extract namespace bindings from input doc
+  --version            - show version
+  --help               - show help
+Wherever file name mentioned in command help it is assumed
+that URL can be used instead as well.
+
+Type: xml <command> --help <ENTER> for command help
+
+XMLStarlet is a command line toolkit to query/edit/check/transform
+XML documents (for more information see http://xmlstar.sourceforge.net/)
+:END:
+
+***** element / structure
+:usage:
+XMLStarlet Toolkit: Display element structure of XML document
+Usage: xml el [<options>] <xml-file>
+where
+  <xml-file> - input XML document file name (stdin is used if missing)
+  <options> is one of:
+  -a    - show attributes as well
+  -v    - show attributes and their values
+  -u    - print out sorted unique lines
+  -d<n> - print out sorted unique lines up to depth <n>
+
+XMLStarlet is a command line toolkit to query/edit/check/transform
+XML documents (for more information see http://xmlstar.sourceforge.net/)
+:END:
+
+***** select
+:usage:
+Usage: xml sel <global-options> {<template>} [ <xml-file> ... ]
+where
+  <global-options> - global options for selecting
+  <xml-file> - input XML document file name/uri (stdin is used if missing)
+  <template> - template for querying XML document with following syntax:
+
+<global-options> are:
+  -Q or --quiet             - do not write anything to standard output.
+  -C or --comp              - display generated XSLT
+  -R or --root              - print root element <xsl-select>
+  -T or --text              - output is text (default is XML)
+  -I or --indent            - indent output
+  -D or --xml-decl          - do not omit xml declaration line
+  -B or --noblanks          - remove insignificant spaces from XML tree
+  -E or --encode <encoding> - output in the given encoding (utf-8, unicode...)
+  -N <name>=<value>         - predefine namespaces (name without 'xmlns:')
+                              ex: xsql=urn:oracle-xsql
+                              Multiple -N options are allowed.
+  --net                     - allow fetch DTDs or entities over network
+  --help                    - display help
+
+Syntax for templates: -t|--template <options>
+where <options>
+  -c or --copy-of <xpath>   - print copy of XPATH expression
+  -v or --value-of <xpath>  - print value of XPATH expression
+  -o or --output <string>   - output string literal
+  -n or --nl                - print new line
+  -f or --inp-name          - print input file name (or URL)
+  -m or --match <xpath>     - match XPATH expression
+  --var <name> <value> --break or
+  --var <name>=<value>      - declare a variable (referenced by $name)
+  -i or --if <test-xpath>   - check condition <xsl:if test="test-xpath">
+  --elif <test-xpath>       - check condition if previous conditions failed
+  --else                    - check if previous conditions failed
+  -e or --elem <name>       - print out element <xsl:element name="name">
+  -a or --attr <name>       - add attribute <xsl:attribute name="name">
+  -b or --break             - break nesting
+  -s or --sort op xpath     - sort in order (used after -m) where
+  op is X:Y:Z,
+      X is A - for order="ascending"
+      X is D - for order="descending"
+      Y is N - for data-type="numeric"
+      Y is T - for data-type="text"
+      Z is U - for case-order="upper-first"
+      Z is L - for case-order="lower-first"
+
+There can be multiple --match, --copy-of, --value-of, etc options
+in a single template. The effect of applying command line templates
+can be illustrated with the following XSLT analogue
+
+xml sel -t -c "xpath0" -m "xpath1" -m "xpath2" -v "xpath3" \
+        -t -m "xpath4" -c "xpath5"
+:END:
+
+***** edit
+:usage:
+XMLStarlet Toolkit: Edit XML document(s)
+Usage: xml ed <global-options> {<action>} [ <xml-file-or-uri> ... ]
+where
+  <global-options>  - global options for editing
+  <xml-file-or-uri> - input XML document file name/uri (stdin otherwise)
+
+<global-options> are:
+  -P, or -S           - preserve whitespace nodes.
+     (or --pf, --ps)    Note that space between attributes is not preserved
+  -O (or --omit-decl) - omit XML declaration (<?xml ...?>)
+  -L (or --inplace)   - edit file inplace
+  -N <name>=<value>   - predefine namespaces (name without 'xmlns:')
+                        ex: xsql=urn:oracle-xsql
+                        Multiple -N options are allowed.
+                        -N options must be last global options.
+  --net               - allow network access
+  --help or -h        - display help
+
+where <action>
+  -d or --delete <xpath>
+  --var <name> <xpath>
+  -i or --insert <xpath> -t (--type) elem|text|attr -n <name> [-v (--value) <value>]
+  -a or --append <xpath> -t (--type) elem|text|attr -n <name> [-v (--value) <value>]
+  -s or --subnode <xpath> -t (--type) elem|text|attr -n <name> [-v (--value) <value>]
+  -m or --move <xpath1> <xpath2>
+  -r or --rename <xpath1> -v <new-name>
+  -u or --update <xpath> -v (--value) <value>
+                         -x (--expr) <xpath>
+
+XMLStarlet is a command line toolkit to query/edit/check/transform
+XML documents (for more information see http://xmlstar.sourceforge.net/)
+:END:
+
+***** transform
+:usage:
+xml tr
+XMLStarlet Toolkit: Transform XML document(s) using XSLT
+Usage: xml tr [<options>] <xsl-file> {-p|-s <name>=<value>} [<xml-file>...]
+where
+  <xsl-file>      - main XSLT stylesheet for transformation
+  <xml-file>      - input XML document file/URL (stdin is used if missing)
+  <name>=<value>  - name and value of the parameter passed to XSLT processor
+  -p              - parameter is XPATH expression ("'string'" to quote string)
+  -s              - parameter is a string literal
+<options> are:
+  --help or -h    - display help message
+  --omit-decl     - omit xml declaration <?xml version="1.0"?>
+  --embed or -E   - allow applying embedded stylesheet
+  --show-ext      - show list of extensions
+  --val           - allow validate against DTDs or schemas
+  --net           - allow fetch DTDs or entities over network
+  --xinclude      - do XInclude processing on document input
+  --maxdepth val  - increase the maximum depth
+  --html          - input document(s) is(are) in HTML format
+
+XMLStarlet is a command line toolkit to query/edit/check/transform
+XML documents (for more information see http://xmlstar.sourceforge.net/)
+
+Current implementation uses libxslt from GNOME codebase as XSLT processor
+(see http://xmlsoft.org/ for more details)
+:END:
+
+***** validate
+:usage:
+xml val
+XMLStarlet Toolkit: Validate XML document(s)
+Usage: xml val <options> [ <xml-file-or-uri> ... ]
+where <options>
+  -w or --well-formed        - validate well-formedness only (default)
+  -d or --dtd <dtd-file>     - validate against DTD
+  --net                      - allow network access
+  -s or --xsd <xsd-file>     - validate against XSD schema
+  -E or --embed              - validate using embedded DTD
+  -r or --relaxng <rng-file> - validate against Relax-NG schema
+  -e or --err                - print verbose error messages on stderr
+  -S or --stop               - stop on first error
+  -b or --list-bad           - list only files which do not validate
+  -g or --list-good          - list only files which validate
+  -q or --quiet              - do not list files (return result code only)
+
+NOTE: XML Schemas are not fully supported yet due to its incomplete
+      support in libxml2 (see http://xmlsoft.org)
+
+XMLStarlet is a command line toolkit to query/edit/check/transform
+XML documents (for more information see http://xmlstar.sourceforge.net/)
+:END:
+
+***** format
+:usage:
+XMLStarlet Toolkit: Format XML document
+Usage: xml fo [<options>] <xml-file>
+where <options> are
+   -n or --noindent            - do not indent
+   -t or --indent-tab          - indent output with tabulation
+   -s or --indent-spaces <num> - indent output with <num> spaces
+   -o or --omit-decl           - omit xml declaration <?xml version="1.0"?>
+   -R or --recover             - try to recover what is parsable
+   -D or --dropdtd             - remove the DOCTYPE of the input docs
+   -C or --nocdata             - replace cdata section with text nodes
+   -N or --nsclean             - remove redundant namespace declarations
+   -e or --encode <encoding>   - output in the given encoding (utf-8, unicode...)
+   -H or --html                - input is HTML
+   -h or --help                - print help
+
+XMLStarlet is a command line toolkit to query/edit/check/transform
+XML documents (for more information see http://xmlstar.sourceforge.net/)
+:END:
+
+***** canonic
+:usage:
+XMLStarlet Toolkit: XML canonicalization
+Usage: xml c14n <mode> <xml-file> [<xpath-file>] [<inclusive-ns-list>]
+where
+  <xml-file>   - input XML document file name (stdin is used if '-')
+  <xpath-file> - XML file containing XPath expression for
+                 c14n XML canonicalization
+    Example:
+    <?xml version="1.0"?>
+    <XPath xmlns:n0="http://a.example.com" xmlns:n1="http://b.example">
+    (//. | //@* | //namespace::*)[ancestor-or-self::n1:elem1]
+    </XPath>
+
+  <inclusive-ns-list> - the list of inclusive namespace prefixes
+                        (only for exclusive canonicalization)
+    Example: 'n1 n2'
+
+  <mode> is one of following:
+  --with-comments         XML file canonicalization w comments (default)
+  --without-comments      XML file canonicalization w/o comments
+  --exc-with-comments     Exclusive XML file canonicalization w comments
+  --exc-without-comments  Exclusive XML file canonicalization w/o comments
+
+XMLStarlet is a command line toolkit to query/edit/check/transform
+XML documents (for more information see http://xmlstar.sourceforge.net/)
+:END:
+
+***** list directory : ls
+***** (un)escape
+:usage:
+feed strings in
+:END:
+
+***** examples
+#+begin_src bash
+# query, -I(indenting output), -t(template:) -f(file name) -n(new line) -m(match xpath) //Trait -c(copy xpath) . -n -b(break nesting) file
+xml sel -I -t -f -n -m //Trait -c . -n -b ./facade_messy.xml
+
+# delete a path:
+xml ed -d "//div[@id='toc']" ? > mod-`?`
+#+end_src
+
+#+NAME: DTD Validation
+#+begin_src bash :results output
+xml val -e -d ./test.dtd ./mytest.xml
+#+end_src
+
+#+NAME: XSD Validation
+#+begin_src bash :results output
+xml val -e -s ./test.xsd ./mytest.xml
+#+end_src
+
+**** [[https://relaxng.org/jclark/trang-manual.html][Trang]] :schema:
+trang [input.xmls] output.xsd
+
+**** [[https://github.com/tefra/xsdata-plantuml][xsdata plantuml]]
+xsdata samples/order.xsd --output plantuml --package uml_gen
+
+**** [[http://saxon.sourceforge.net/][Saxon]]
+
+**** xmllint
+
+*** OpenSSL
+https://www.sslshopper.com/article-most-common-openssl-commands.html
+
+** Build Systems
+*** Cargo                                      :rust:
+https://doc.rust-lang.org/cargo/
+
+*** rustup                                     :rust:
+https://rust-lang.github.io/rustup/
+
+#+begin_src bash
+rustup component add rustfmt-preview rustfix clippy rust-analyzer rust-gdb
+#+end_src
+
+*** Compiling Aseprite from source             :asprite:
+  Follow the instructions to install google depot_tools, then skia.
+  The missing instruction is to *unset python3 and anaconda in the path*
+  as depot_tools, and the setup script for skia uses *python 2*.
+  after that, compilation is straight forward, making sure to target the
+  OSX version you are actually on.
+
+*** Conda                                      :python:
+https://conda.io/projects/conda/en/latest/user-guide/index.html
+
+*** Doom                                       :emacs:
+https://github.com/doomemacs/doomemacs/blob/master/docs/index.org
+
+*** Emacs Straight Recipes                     :emacs:
+https://github.com/radian-software/straight.el#the-recipe-format
+
+#+begin_src elisp
+;; Disable Byte Compilation
+(package! a-package :recipe (:build (:not compile)))
+;; Or disable byte compilation with
+;; -*- no-byte-compile: t; -*-
+
+;; Specify a local repo
+(package! a-package :recipe (:local-repo "~/.doom.d/packages/a-package"))
+
+#+end_src
+
+*** Gradle                                     :java:
+https://docs.gradle.org/current/userguide/userguide.html
+
+*** Homebrew                                   :shell:
+https://brew.sh/
+https://docs.brew.sh/
+
+- formula          : definition built from upstream sources
+- cask             : definition of macOS native applications
+- keg              : installation destination of formula version
+- rack             : directory versioned kegs
+- keg-only         : formula is not symlinked into Homebrew’s prefix
+- cellar           : directory of named racks
+- Caskroom         : directory of named casks
+- external command : brew subcommand
+- tap              : directory of formulae, casks and/or external commands
+- bottle           : pre-built keg poured into the cellar/rack
+
+*** Make                                       :cli:
+https://www.gnu.org/software/make/manual/make.html
+https://www.gnu.org/software/automake/manual/automake.html#Autotools-Introduction
+
+*** Mix                                        :elixir:
+https://hexdocs.pm/mix/Mix.html
+
+*** Pip                                        :python:
+https://pip.pypa.io/en/stable/
+
+*** Poetry                                     :python:
+https://python-poetry.org/docs/master/
+
+*** Rebar                                      :erlang:
+https://rebar3.org/docs/
+
+*** RubyGems                                   :ruby:
+https://guides.rubygems.org/
+
+*** Scons                                      :python:
+https://scons.org/doc/production/HTML/scons-user.html
+
+*** Grunt
+https://gruntjs.com/getting-started
+http://adrianmejia.com/blog/2014/10/07/grunt-js-tutorial-from-beginner-to-ninja/
+
+**** tasks
+grunt.registerTask(name,description,function);
+grunt.registerTask(name,[taskNames]);
+
+If the function has parameters:
+grunt testTask:someParameter
+
+grunt.fail.warn()
+grunt.fail.fatal
+grunt.log.[writeln,write,subhead,error,ok]();
+
+grunt.file.[write,read,readJSON,delete,copy,mkdir]();
+grunt.file.expand(); -> returns an array with all files matching a pattern (use
+grunt.file.recurse(); -> expand path, return a callback???
+
+this.requires([taksNames]);
+this.name() -> name of the task;
+this.args();
+
+**** Plugins:
+to install a plugin:
+npm install grunt-contrib-**** --save-dev
+
+load the plugin in the gruntfile:
+grunt.loadNpmTasks('grunt-contrib-****');
+
+Top Plugins:
+jshint (use .jshintrc for settings)
+watch  (to run tasks when files change)
+uglify
+clean
+concat
+connect
+concurrent
+
+** Text
+*** Wordnet
+    `wn`
+
+    #+begin_src bash
+    # For Nouns
+    -hypen		Hypernyms
+    -hypon, -treen	Hyponyms & Hyponym Tree
+    -synsn		Synonyms (ordered by estimated frequency)
+    -derin		Derived Forms
+    -famln		Familiarity & Polysemy Count
+    -coorn		Coordinate Terms (sisters)
+    -grepn		List of Compound Words
+    -over		Overview of Senses
+    #+end_src
+
+    #+begin_src bash
+    # For verbs
+    -hypev		Hypernyms
+    -hypov, -treev	Hyponyms & Hyponym Tree
+    -synsv		Synonyms (ordered by estimated frequency)
+    -deriv		Derived Forms
+    -famlv		Familiarity & Polysemy Count
+    -framv		Verb Frames
+    -coorv		Coordinate Terms (sisters)
+    -simsv		Synonyms (grouped by similarity of meaning)
+    -grepv		List of Compound Words
+    -over		Overview of Senses
+    #+end_src
+
+    #+begin_src bash
+    # Adjectives
+    -antsa		Antonyms
+    -synsa		Synonyms (ordered by estimated frequency)
+    -attra		Attributes
+    -deria		Derived Forms
+    -domna		Domain
+    -famla		Familiarity & Polysemy Count
+    -grepa		List of Compound Words
+    -over		Overview of Senses
+    #+end_src
+
+    #+begin_src bash
+    # Adverbs
+    -antsr		Antonyms
+    -synsr		Synonyms (ordered by estimated frequency)
+    -pertr		Pertainyms
+    -famlr		Familiarity & Polysemy Count
+    -grepr		List of Compound Words
+    -over		Overview of Senses
+    #+end_src
+
+*** Github Pages / Jekyll                       :web:
+https://docs.github.com/en/pages
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
+https://jekyllrb.com/docs/
+
+*** Markdown
+https://help.github.com/articles/markdown-basics/
+
+*** RST / Sphinx
+https://www.sphinx-doc.org/en/master/contents.html
+https://restructuredtext.readthedocs.io/en/latest/
+
+*** Latex
+**** tlmgr
+
+:outdated_l3_layer:
+https://tex.stackexchange.com/questions/586467/
+
+sudo fmtutil-sys --all
+:END:
+
+**** texdoc
+https://tex.stackexchange.com/questions/297004/
+tlmgr option docfiles 1
+tlmgr install --reinstall $(tlmgr list --only-installed | sed -E 's/i (.*):.*$/\1/')
+
+*** Pandoc
+#+NAME: text to pdf generation
+#+begin_src bash :results value
+pandoc ? -o output.pdf
+#+end_src
+
+*** Markdown html export
+Add a local file to `markdown-css-paths`,
+can use npm package `generate-github-markdown-css` as a start
+
+** GUI Programs
+*** Firefox
+Get to configs with about:about
+Use: reader.parse-on-load.force-enabled
+for reader view force
+
+Set: browser.bookmarks.editDialog.firstEditField
+to: tagsField
+for a better bookmarking default
+
+[Netscape bookmark file format](https://msdn.microsoft.com/en-us/library/aa753582(v=vs.85).aspx).
+
+*** Godot
+Godot Engine v3.4.4.stable.official.419e713a2 - https://godotengine.org
+Free and open source software under the terms of the MIT license.
+(c) 2007-2022 Juan Linietsky, Ariel Manzur.
+(c) 2014-2022 Godot Engine contributors.
+
+Usage: godot [options] [path to scene or 'project.godot' file]
+
+:general_options:
+General options:
+  -h, --help                       Display this help message.
+  --version                        Display the version string.
+  -v, --verbose                    Use verbose stdout mode.
+  --quiet                          Quiet mode, silences stdout messages. Errors are still displayed.
+:END:
+
+:run_options:
+Run options:
+  -e, --editor                     Start the editor instead of running the scene.
+  -p, --project-manager            Start the project manager, even if a project is auto-detected.
+  -q, --quit                       Quit after the first iteration.
+  -l, --language <locale>          Use a specific locale (<locale> being a two-letter code).
+  --path <directory>               Path to a project (<directory> must contain a 'project.godot' file).
+  -u, --upwards                    Scan folders upwards for project.godot file.
+  --main-pack <file>               Path to a pack (.pck) file to load.
+  --render-thread <mode>           Render thread mode ('unsafe', 'safe', 'separate').
+  --remote-fs <address>            Remote filesystem (<host/IP>[:<port>] address).
+  --remote-fs-password <password>  Password for remote filesystem.
+  --audio-driver <driver>          Audio driver ('CoreAudio', 'Dummy').
+  --video-driver <driver>          Video driver ('GLES3', 'GLES2').
+:END:
+
+:display_options:
+Display options:
+  -f, --fullscreen                 Request fullscreen mode.
+  -m, --maximized                  Request a maximized window.
+  -w, --windowed                   Request windowed mode.
+  -t, --always-on-top              Request an always-on-top window.
+  --resolution <W>x<H>             Request window resolution.
+  --position <X>,<Y>               Request window position.
+  --low-dpi                        Force low-DPI mode (macOS and Windows only).
+  --no-window                      Run with invisible window. Useful together with --script.
+  --enable-vsync-via-compositor    When vsync is enabled, vsync via the OS' window compositor (Windows only).
+  --disable-vsync-via-compositor   Disable vsync via the OS' window compositor (Windows only).
+  --enable-delta-smoothing         When vsync is enabled, enabled frame delta smoothing.
+  --disable-delta-smoothing        Disable frame delta smoothing.
+  --tablet-driver                  Tablet input driver () (Windows only).
+:END:
+
+:debug_options:
+Debug options:
+  -d, --debug                      Debug (local stdout debugger).
+  -b, --breakpoints                Breakpoint list as source::line comma-separated pairs, no spaces (use %20 instead).
+  --profiling                      Enable profiling in the script debugger.
+  --remote-debug <address>         Remote debug (<host/IP>:<port> address).
+  --debug-collisions               Show collision shapes when running the scene.
+  --debug-navigation               Show navigation polygons when running the scene.
+  --frame-delay <ms>               Simulate high CPU load (delay each frame by <ms> milliseconds).
+  --time-scale <scale>             Force time scale (higher values are faster, 1.0 is normal speed).
+  --disable-render-loop            Disable render loop so rendering only occurs when called explicitly from script.
+  --disable-crash-handler          Disable crash handler when supported by the platform code.
+  --fixed-fps <fps>                Force a fixed number of frames per second. This setting disables real-time synchronization.
+  --print-fps                      Print the frames per second to the stdout.
+:END:
+
+:standalone_tools:
+Standalone tools:
+-s, --script <script>            Run a script.
+--check-only                     Only parse for errors and quit (use with --script).
+--export <preset> <path>         Export the project using the given preset and matching release template. The preset name should match one defined in export_presets.cfg.
+<path> should be absolute or relative to the project directory, and include the filename for the binary (e.g. 'builds/game.exe'). The target directory should exist.
+--export-debug <preset> <path>   Same as --export, but using the debug template.
+--export-pack <preset> <path>    Same as --export, but only export the game pack for the given preset. The <path> extension determines whether it will be in PCK or ZIP format.
+--doctool [<path>]               Dump the engine API reference to the given <path> (defaults to current dir) in XML format, merging if existing files are found.
+--no-docbase                     Disallow dumping the base types (used with --doctool).
+--build-solutions                Build the scripting solutions (e.g. for C# projects). Implies --editor and requires a valid project to edit.
+--gdnative-generate-json-api     Generate JSON dump of the Godot API for GDNative bindings.
+--test <test>                    Run a unit test ('string', 'math', 'basis', 'transform', 'physics', 'physics_2d', 'render', 'oa_hash_map', 'gui', 'shaderlang', 'gd_tokenizer', 'gd_parser', 'gd_compiler', 'gd_bytecode', 'ordered_hash_map', 'astar', 'xml_parser').
+:END:
+
+** Databases
+*** Postgresql
+https://stackoverflow.com/questions/6148421/
+
+*** Sqlite 3
+  [[https://www.tutorialspoint.com/sqlite/][Reference]]
+  [[https://orgmode.org/worg/org-contrib/babel/languages/ob-doc-sqlite.html][ob-sqlite]]
+
+**** Sqlite Syntax
+   SQLite is *case insensitive* apart from GLOB and glob.
+   Statement end is ';'
+
+***** Main commands
+****** CREATE
+     #+begin_src  :results value
+     sqlite3 my_new_database.db
+     #+end_src
+
+****** ATTACH | DETACH
+     For databases in separate files.
+     #+begin_src sqlite :results value
+     attach database 'test.db' as 'TEST';
+     detach database 'TEST';
+     #+end_src
+
+****** CREATE | DROP table
+     #+begin_src sqlite  :results value
+     -- create table $dbname.$tablename ( columnN, datatypeN constraints, );
+     create table main.test (id int primary key not null, name text not null);
+     drop table main.test;
+     #+end_src
+
+******* Column Constraints
+
+      |                    |                                |
+      |--------------------+--------------------------------|
+      | not null           |                                |
+      | default $X         |                                |
+      | unique             |                                |
+      | primary key        |                                |
+      | check($CONDITIONS) |                                |
+      | autoincrement      | only on integers, must be last |
+
+****** INSERT | DELETE
+     #+begin_src sqlite :results value
+     -- insert into $tablename (columns) values (values);
+     -- insert into $tablename values (values) (values) (values)...;
+     insert into test (id, name) values (1, "bob"), (2, "bill");
+
+     -- delete from $tablename where $conditions;
+     delete from test where id = 1;
+
+     -- DELETE ALL RECORDS:
+     -- delete from $tablename;
+
+     -- where primary key is autoincrement:
+     insert into test (name) values ("bob"), ("bill"), ("jill");
+     #+end_src
+
+****** SELECT
+     #+begin_src sqlite  :results value
+     -- select * from test where condition;
+     -- select * from test where limit $no_of_rows offset $row_num;
+     -- select * from test order by column asc/desc;
+     #+end_src
+
+****** UPDATE
+     #+begin_src sqlite  :results value
+     -- update $tablename set $column = $value, $column2 = $value2 where $conditions;
+     update test set name = 'taweg' where id = 2;
+     #+end_src
+
+***** Data Types
+    |         |   |
+    |---------+---|
+    | NULL    |   |
+    | INTEGER |   |
+    | REAL    |   |
+    | TEXT    |   |
+    | BLOB    |   |
+
+***** Useful commands:
+    |                    |                                              |                                                  |
+    |--------------------+----------------------------------------------+--------------------------------------------------|
+    | .show              | List settings                                |                                                  |
+    | .mode              | Set output formatting mode                   | csv, column, html, insert, line, list, tabs, tcl |
+    | .nullvalue $STRING | set a default string in place of null values |                                                  |
+    | .schema $TABLE     | show the setup of a table                    |                                                  |
+    | .tables            | list all tables in the file                  |                                                  |
+    | .dump $TABLE       | output the table in SQL format               |                                                  |
+    | .headers on/off    | display headers on output                    |                                                  |
+    | .backup main $FILE | backup db main to a file                     |                                                  |
+
+***** Operators
+    #+begin_src sqlite  :results value
+    -- Arithmetic: + 0 * / %
+
+    -- Comparison: == !=, <, <=, >, >=
+    -- <> : equality test
+    -- !<, >! : not greater/lesser
+
+    -- and, between exists, in, not in, not, or, is null, is, is not
+    -- unique
+    -- || : string concat
+    -- like, GLOB : compare values using wildcards
+
+    -- avg(), sum(), count()
+    -- select count(*) as "value name" from test;
+    #+end_src
+
+***** JOINS
+**** Org-Babel header args:
+
+   | db        | a string with the name of the file that                                     |
+   |           | holds the SQLite database. Babel requires this header argument.             |
+   | header    | if present, turn on headers in the output format.                           |
+   |           | Headers are also output with the header argument :colnames yes.             |
+   | echo      | if present, set the SQLite dot command .echo to ON.                         |
+   |           |                                                                             |
+   | bail      | if present, set the SQLite dot command .bail to ON.                         |
+   |           |                                                                             |
+   | csv       | the default SQLite output format for Babel SQLite source code blocks.       |
+   |           |                                                                             |
+   | column    | an SQLite output format that outputs a table-like form with                 |
+   |           | whitespace between columns.                                                 |
+   | html      | an SQLite output format that outputs query results as simple HTML tables.   |
+   |           |                                                                             |
+   | line      | an SQLite output format that outputs query results with one value per line. |
+   |           |                                                                             |
+   | list      | an SQLite output format that outputs query results with the separator       |
+   |           | character between fields.                                                   |
+   | separator | a string that specifies the separator character used by the SQLite          |
+   |           | `list' output mode and by the SQLite dot command .import.                   |
+   | nullvalue | a string to use in place of NULL values.                                    |
+
+**** Sandbox
+
+   #+NAME:Test
+   #+begin_src sqlite :results value :db test.db
+   create table test (id int primary key not null, name text not null);
+   #+end_src
+
+   #+RESULTS: Test
+
+   #+NAME: test2
+   #+begin_src sqlite  :results value :db test.db
+   .schema test
+   #+end_src
+
+** Pdf and Images
+*** Exiftool
+https://exiftool.org/
+
+import exif
+with open(file, 'rb') as f:
+data = exif.Image(f)
+
+then delete the user_comment, set it,
+and write to a file using data.get_file()
+
+*** Image Pdf calls
+#+NAME: image to pdf generation
+#+begin_src bash :results value
+convert ? -alpha off ./temp/`?`
+mogrify -orient bottom-left ?
+img2pdf --output `?`.pdf --pagesize A4 --auto-orient ?
+pdftk * cat output diagrams.pdf
+#+end_src
+
+*** pdftotext
+#+begin_src bash :results output
+pdftotext [options] <PDF-file> [<text-file>]
+#+end_src
+
+*** Pdf Metadata
+#+begin_src bash
+exiftool file.pdf
+
+# or:
+pdftk file.pdf dump_data_utf8 > file.info
+# edit
+pdftk file.pdf update_info_utf8 file.info output file2.pdf
+#+end_src
+
+# From https://askubuntu.com/questions/1264322
+#+begin_src bash
+# For Creating Bookmarks/TOC in pdfs:
+# BookmarkBegin
+# BookmarkTitle:
+# BookmarkLevel: 1
+# BookmarkPageNumber:
+pdftk ? dump_data > info.txt
+# -- Add bookmarks
+pdftk ? update_info info.txt output updated.pdf
+#+end_src
+
+pdftk ? attach_files
+pdftk ? dump_data_annots
+
+pdftk ? update_info ./info output out3.pdf
+InfoBegin
+InfoKey: JGData
+InfoValue: Blah,Blee
+
+*** Tesseract
+https://tesseract-ocr.github.io/tessdoc/Command-Line-Usage.html
+
+*** ffmpeg
+https://ffmpeg.org/
+
+#+begin_bash
+# convert wav to mp3:
+ffmpeg -i input.wav -vn -ar 44100 -ac 2 -b:a 192k output.mp3
+#+end_bash
+-i : set input
+-vn : no video
+-ar : audio rate
+-ac : audio channels
+-b:a : bitrate
+
+from https://superuser.com/questions/384073
+#+begin_bash
+# ffmpeg -i <INPUT FILE> -ss 10 -f image2 -r 25 <OUTPUT FILE>
+#+end_bash
+-i <INPUT FILE> Specifies the input file. E.g. movie.mp4.
+-ss <TIME> Specifies time position in seconds. "hh:mm:ss[.xxx]" is also supported.
+-f image2 Force/Set format.
+-r 25 Set frame rate (in Hz. Can either be a fraction or a number, default = 25).
+<OUTPUT FILE> Set output file. E.g. image1.jpg.
+
+https://stackoverflow.com/questions/10957412
+
+*** imagemagick
+https://imagemagick.org/script/command-line-tools.php
+#+begin_bash options
+magick animate   :: animate images when in x11
+magick compare   :: differences between images
+magick composite :: overlap images
+magick conjure   :: scripting language interpreter
+magick convert   :: between different formats
+magick display   :: display image when in x11
+magick identify  :: get format data
+magick import    :: screenshot x11
+magick mogrify   :: destructively modify
+magick montage   :: combine without overlapping
+magick stream    :: pixels at a time
+
+#+end_bash
+
+*** pdfimages
+
+pdfimages version 4.04 [www.xpdfreader.com]
+Copyright 1996-2022 Glyph & Cog, LLC
+Usage: pdfimages [options] <PDF-file> <image-root>
+  -f <int>         : first page to convert
+  -l <int>         : last page to convert
+  -j               : write JPEG images as JPEG files
+  -raw             : write raw data in PDF-native formats
+  -list            : write information to stdout for each image
+  -opw <string>    : owner password (for encrypted files)
+  -upw <string>    : user password (for encrypted files)
+  -verbose         : print per-page status information
+  -q               : don't print any messages or errors
+  -cfg <string>    : configuration file to use in place of .xpdfrc
+  -v               : print copyright and version info
+  -h               : print usage information
+  -help            : print usage information
+  --help           : print usage information
+  -?               : print usage information
+
+** Man
+adding MANPATH adds a custom location
+
+Pandoc creates man pages from markdown:
+`pandoc ms.1.md -s -t man -o ms.1`
+
+Man expects pages to be gzipped
+
+* Links
+[[https://www.futureboy.us/pgp.html][GPG General Howto]]
+https://pandoc.org/
+[[https://docs.godotengine.org/en/stable/tutorials/editor/command_line_tutorial.html][godot docs]]

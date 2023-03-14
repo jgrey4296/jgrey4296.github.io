@@ -1,0 +1,465 @@
+* Probability
+  :Citations:
+  Lehman2017
+  Bird2005
+  Downey2013
+  DeGroot2002
+  Stroud2001
+  :END:
+
+  #+begin_src python :results value
+  from fractions import Fraction as f
+  p = f(1,12)
+  return (600 * p)
+  #+end_src
+
+** Axioms of Probability                                                        :law:axioms:
+
+   1) ∀ A, P(A) ≥ 0
+   2) P(S) = 1 where S is the sample space
+   3) For every infinite sequence of disjoint events A1, A2, ...
+      P( ∪ Aᵢ ) = Σ P(Aᵢ)
+
+
+   Definition of Probability:
+   A Probability measure on a sample space S is a specification of P(A)
+   for all events A that satisfy Axioms 1,2 and 3.
+
+** Laws
+*** Addition Law of Probability                                                 :or:law:
+    Two *mutually exclusive* events have the probability of occurring:
+    P(A) = x/n
+    P(B) = y/n
+    P(A ∨ B) = (x+y)/n = (x/n) + (y/n) = P(A) + P(B)
+    P(A ∪ B) = P(B) + P(A) - P(A ∩ B)
+
+    Two *non-exclusive* events have the probability of occurring:
+    P(A or B) = P(A) + P(B) - P(A and B)
+    P(A ∪ B)  = P(A) + P(B) - P(A ∩ B)
+    -P(A and B) so as to not count duplicates
+
+*** Multiplication Law of Probability                                           :and:law:
+    Independent Events:
+    P(A ∧ B) = P(A) * P(B)
+    P(A ∩ B) = P(A) * P(B)
+    P(A ∩ ¬B) = P(A) - P(A ∩ B)
+
+
+    Dependent Events:
+    P(A ∧ B) = P(A) * P(B|A)
+
+    If A ⊂ B then P(A ∩ B) = A
+
+*** Complements Sum to 1
+    P(A) + P(¬A) = 1
+
+*** Unordered sampling with replacement                                         :formula:
+    Of size k from n elements =  C(n+k-1, k)
+
+** Distributions
+*** Binomial Distribution                                                       :discrete:distribution:
+    Dealing with successes vs failures of an event happening.
+    eg: Rolling a 6 = Success
+
+    If  p = P(A)
+    and q = P(¬A)
+    In N trials, P(n q's) = q^n
+    P(r successes in n trials) = (n!/(n-r)!r!) q^(n-r) p^r
+    or:
+    P(r in n) = (n choose r) q^(n-r) p^r
+
+
+    So if P(A)  = 1/8 = p
+    and   P(¬A) = 7/8 = q
+    n = 6
+    Num Trials = 5000
+
+    | Num Sucesses: (x)  |      0 |           1 |              2 |              3 |              4 |         5 |      6 |
+    |--------------------+--------+-------------+----------------+----------------+----------------+-----------+--------|
+    | P                  |    q^6 |      6q^5 p |      15q^4 p^2 |      20q^3 p^3 |      15q^2 p^4 |  6q^1 p^5 |    p^6 |
+    |                    | 7^6/8^ | (6*7^5)/8^6 | (15 * 7^4)/8^6 | (20 * 7^3)/8^6 | (15 * 7^2)/8^6 | (6*7)/8^6 |  1/8^6 |
+    |                    |        |             |                |                |                |           |        |
+    |                    | 0.4488 |      0.3847 |         0.1374 |         0.0262 |         0.0028 |    0.0002 | 0.0000 |
+    | f (num trials * p) |   2244 |        1924 |            687 |            131 |             14 |         1 | 0     |
+
+
+    #+begin_src python :results value
+      from math import factorial as f
+      from math import pow as p
+      def binomial(a, b):
+          return f(a)/(f(a-b)*f(b))
+    #+end_src
+
+    #+begin_src python :results value
+      from math import factorial as f
+      from math import pow
+
+      def prob(a, b, c, p1, p2):
+          return a * pow(p1, b) * pow(p2, c)
+
+      return prob(6, 5, 1, 7/8, 1/8)
+    #+end_src
+
+    Theoretical Frequency from a distribution:
+    f = num_trials * p
+    Therefore P = f / num_trials
+
+*** Poisson Distribution                                                        :discrete:distribution:
+
+    P(x=r) = (e^-μ * μ^r) / r!
+
+    μ = mean
+    r = number of successes
+    Total Poisson P = 1
+
+    Useful for P(Success) is small and num_trials is large
+    For 50 <= n and p < 1/10: poisson approximates binomial
+
+    So for:
+    n = 60
+    p = 2/100 = 0.02
+    μ = np = 60 * 0.02 = 1.2
+    P(x=3) = 0.0867
+
+    #+begin_src python :results output
+      from math import e
+      from math import factorial as f
+      def poisson(mean, successes):
+          numerator = pow(e, -mean,) * pow(mean, successes)
+          denominator = f(successes)
+          return numerator / denominator
+
+      print(poisson(1.2, 3))
+    #+end_src
+
+    #+RESULTS:
+    : 0.0867439330307142
+
+*** Normal Distribution                                                         :continuous:distribution:
+    a = 1/(σ sqrt(2π))
+    b = -1/2 (x-μ)^2  / σ^2
+    y = a * e^b
+
+    Use *Standard Normal Variable*:
+    z = x-μ / σ
+
+    #+begin_src python :results value
+      def z(x, mu, sigma):
+          return (x-mu) / sigma
+    #+end_src
+
+
+    Convert to standard normal curve using
+    the probability density function Φ(z):
+    y = Φ(z) = 1/sqr(2π) * e^(-z^2 / 2)
+
+    (plotting standard normal curve is z horizontal, y vertical)
+    Properties:
+    1) μ = 0
+    2) z values are in standard deviation units
+    3) Total area under curve = 1 for infinite bounded z
+    4) Area between z=a and z=b is P(a<=z<=b)
+    5) P(-1<=z<=1) = 0.6827
+       P(-2<=z<=2) = 0.9545
+       P(-3<=z<=3) = 0.9973
+
+*** Mean and Standard Deviation of a Probability Distribution                   :statistics:
+    Empirical: m and s
+    Theoretical: μ and σ
+
+    μ = Σ(fx) / num_trials
+    ..= Σ((f / num trials) * x)
+    ..= Σ(Px)
+
+    #+begin_src python :results value
+      def mu(ps, xs):
+          return sum([p*x for p,x in zip(ps, xs)])
+
+      return mu([0.4488, 0.3847, 0.137, 0.0262, 0.0028, 0.0002, 0],
+                [0, 1, 2, 3, 4, 5, 6])
+    #+end_src
+
+    So the table above has μ = 0.750
+
+    μ = n * p
+    σ = sqr(npq)
+
+    For n = number possible outcomes in a single trial
+    ....p = probability of success in a single trial
+    ....q = probability of failure in any single trial
+
+    #+begin_src python :results output
+      from math import sqrt
+      def mu_alt(n, p):
+          return n * p
+
+      def sigma(n, p, q):
+          return sqrt(n*p*q)
+
+      print("Table μ = {}".format(mu_alt(6, 1/8)))
+      print("Table σ = {}".format(sigma(6, 1/8, 7/8)))
+    #+end_src
+
+** Background Math
+*** Permutations and Combinations                                               :combination:factorial:permutation:foundation:
+**** Permutations
+     Permutation of P(n,k) where *Order is Important*:
+     n! / (n-k)!
+
+     ^10P⌄4:
+     #+begin_src python :results value
+        from math import factorial as f
+        return (f(10) / f(10-4))
+     #+end_src
+***** Stirling's Formula                                                        :approximation:
+      When n is large in n!, it can be preferable to use:
+      n!/aₙ = e^(log(n!) - log(aₙ))
+
+      With the approximation:
+      sₙ = 1/2 * log(2π) + (n + 1/2) log(n) - n
+
+      Then as n->∞ | sₙ - log(n!) = 0
+
+      so: ((2π)^1/2 * n^(n+1/2) * e^(-n)) / n!  =  1
+
+      :Example:
+      70! = (2π)^1/2 * 70^70.5 * e^-70 = 3.940 * 10³⁵
+      ---   --------------------------
+      50!   (2π)^1/2 * 50^50.5 * e^-50
+      :END:
+
+**** Combinations                                                               :binomial_coefficient:
+     Combination of C(n,k) where *Order is Irrelevant^
+     Also as (N choose k)
+     n! / ((n-k)! * k!)
+
+     Permutations can be thought of as combinations in different orders of size k:
+     P(n,k) = C(n,k) * k!
+
+     Solved for C:
+     C(n,k) = P(n,k) / k! = n! / ((n-k)!k!)
+
+
+     (10 choose 6):
+     #+begin_src python :results value
+       from math import factorial as f
+       return f(10) / (f(10-6) * f(6))
+     #+end_src
+
+     #+RESULTS:
+     : 210.0
+
+***** Binomial Theorem
+      (x+y)ⁿ = Σ C(n,k) x^k * y^(n-k)
+
+*** Multinomial Coefficients                                                    :multinomial:math:
+    M(n, n₁n₂..nₙ) = n! / (n₁!n₂!...nₙ!)
+
+    Multinomial Theorem:
+    (x₁ + ... + xₖ)ⁿ = Σ M(n, n₁n₂...nₖ) x₁^n x₂^n₂ ... xₖ^nₖ
+
+
+    :Example:
+    20 members of an org to be divided into 3 committees A,B and C.
+    A and B have size 8.
+    C has size 4.
+
+    Can be represented as a two assignments combined:
+    C(20,8) for A,
+    C(12,8) for B and C.
+
+    So total is:
+    C(20,8) * C(12,8)
+    (20!/(8!12!)) * (12!/(8!4!))
+    The 12!'s cancel out so:
+    20! / 8!8!4!
+    62,355,150
+    :END:
+
+*** Set Theory                                                                  :foundation:set:
+    Containment: A ⊂ B, B ⊃ A. ∅ ⊂ A
+    Union: A ∪ B. All elements of A or B or (A and B).
+    Intersection: A ∩ B. Only elements belonging to A and B.
+
+    De Morgan's Laws:
+    ¬(A ∪ B) = ¬A ∩ ¬B.
+    ¬(A ∩ B) = ¬A ∪ ¬B
+
+** Conditional Probability                                                      :partition:bayes:conditions:
+
+   P(A|B) = P(A ∩ B ) / P(B)
+
+   eg: P(Rains | Cloudy) = P(Rains ∩ Cloudy) / P(Cloudy)
+
+   :Dice_Example:
+   Rolling 2 Dice and summing, get the probability the sum is < 8 and odd.
+   A = Sum < 8
+   B = Sum is Odd
+
+   S = 6 * 6 Outcomes
+   A ∩ B = {3, 5, 7}
+   P(A ∩ B) = (1,2) + (2,1) + (4,1) + (1,4) + (3,2) + (2,3) + (5,2)...
+   P(A ∩ B) = 2/36 + 4/36 + 6/36 = 12/36 = 1/3
+   P(B) = (1,1) + (1,2) + ... + (6,1)
+   P(B) = 2/36 + 4/36 + 6/36 + 4/36 + 2/36 = 18/36 = 1/2
+
+   ∴ P(A|B) = P(A ∩ B) / P(B) = (1/3) / (1/2) = 1/3 * 2/1 = 2/3
+   :END:
+   :Depression_Example:
+   P(A) = P(Relapse)
+   P(B) = P(Treated With Placebo) = 34/150
+   P(A ∩ B) = P(Placebo and Relapse) = 24/150
+   P(A|B) = (24/150) / (34/150) = 24 / 34 = 0.706
+
+   :END:
+
+*** Partitions
+    An S space where k events of B are disjoint and (∪ Bₖ) = S
+
+    :Bolts_Example:
+    Two Boxes containing long and short bolts.
+    B₁ has 60 Long, 40 Short.
+    B₂ has 10 Long, 20 Short.
+    Selecting a box at random, and a bolt from that box.
+    P(Long) = ?
+
+    By Law of Total Probability:
+    P(A) = ΣP(Bⱼ)*P(A|Bⱼ)
+
+    As the k events are disjoint:
+    P(A) = ΣP(Bⱼ ∩ A)
+
+    So:
+    P(Long) = P(B₁)*P(Long|B₁) + P(B₂)*P(Long|B₂)
+    P(Long) = (1/2 * 60/100) + (1/2 * 10/30)
+    P(Long) = 3/10 + 1/6 = 7/15 = 0.47
+    :END:
+** Cumulative Proportion
+   With a deck of cards:
+   1) Shuffle
+   2) Deal 12
+   3) Count Spades
+   4) Return
+   5) Repeat
+
+      | Trial | Spades | Cumulative | Running |           |
+      |       |        |     Spades | Average |           |
+      |-------+--------+------------+---------+-----------|
+      |     1 |      2 |          2 |     2.0 |         2 |
+      |     2 |      5 |          7 |     3.5 |       3.5 |
+      |     3 |      0 |          7 |    2.33 | 2.3333333 |
+      |   ... |    ... |        ... |     ... |           |
+      |       |        |            |         |           |
+      #+TBLFM: $5=$3 / $1
+
+      Running Average = Cumulative Spades  / Num Trials
+
+      With 13 spades in a deck, that makes the probability 13/52 = 1/4
+      So expectation in any 12 card sample is 12 * 1/4 = 3
+
+** Expectation || Likelihood                                                    :expectation:
+   E = N * P(A)
+   So comparing two different hypotheses:
+   E1 = N * P(A)
+   E2 = N * P(B)
+   N Cancels out in the ratio:
+   E1 / E2 = P(A) / P(B)
+
+   Empirical P(A) = num_A / num_trials
+   Expectation(A) = P(A) * num_trials
+
+** Interpretations of Probability
+*** Frequentist
+    Relative Frequency of an outcome in repeated trials
+*** Classical
+    Equally Likely Outcomes
+    P(A) = number of ways A can occur / total number of possible outcomes
+*** Subjective
+    A personal assignment of likelihood, rather than a 'true' probability
+** Independence
+   Two Events are independent it:
+   P(A ∩ B) = P(A)P(B)
+
+   ₖ events A₁,A₂...Aₖ are *Mutually Independent* if:
+   For every subset Aᵢ₁, ... Aᵢⱼ of j=2,3...ₖ):
+   P(Aᵢ₁ ∩ ... ∩ Aᵢⱼ) = P(Aᵢ₁) ... P(Aᵢⱼ)
+
+   So For A,B and C to be independent:
+   P(A ∩ B) = P(A)P(B)
+   P(A ∩ C) = P(A)P(C)
+   P(B ∩ C) = P(B)P(C)
+   P(A ∩ B ∩ C) = P(A)P(B)P(C)
+   All have to hold.
+
+   They are *Pairwise Independent* if all but the last equation hold.
+
+** Bayes' Theorem
+
+   For a set of events B₁..Bₖ that form a disjoint partition,
+   and an event A then:
+   P(Bᵢ|A) = P(Bᵢ)P(A|Bᵢ) / ΣP(Bⱼ)P(a|Bⱼ)
+
+   Which can be simplified by the definition  of conditional probability to:
+   P(Bᵢ|A) = P(Bᵢ ∩ A) / P(A)
+
+   Condiitonal Bayes:
+   P(Bᵢ | A ∩ C) = P(Bᵢ | C)(P(A | Bᵢ ∩ C) / ΣP(Bⱼ|C)P(A|Bⱼ ∩ C)
+
+*** Prior and Posterior Probability
+    Prior Probability is P(Bᵢ): probability of an event before knowledge.
+    Posterior Probability is P(Bᵢ | A): probability of an event after knowledge gained.
+
+*** Multi Stage Bayes
+    "If an Experiment is carried out in more than one stage,
+    then the posterior probability of every event can also be
+    calculated in more than one stage"
+
+    Uses Conditional Bayes, and updates priors to be the posteriors from the
+    previous state
+
+    Given event H₁, P(B₁ | H₁) = x
+    C ⇒ H₁
+    P(B₁|H₁) ⇒ x
+    P(B₂|H₁) ⇒ ¬P(B₁|H₁)
+
+    Thus:
+    P(B₁|H₁ ∩ H₂) = P(B₁|H₁)P(H₂|B₁ ∩ H₁) / P(B₁|H₁)P(H₂|B₁ ∩ H₁) + P(B₂|H₁)P(H₂|B₂ ∩ H₁)
+
+
+* Statistics
+
+  The Spearman correlation coefficient gives a number from -1.0 to 1.0 comparing two rankings.
+  A coefficient of 1.0 indicates identical rankings; -1.0 indicates exact opposite rankings.
+
+
+  True Positive   (TP)
+  True Negative   (TN)
+  False Positive  (FP)
+  False Negative  (FN)
+
+  sensitivity / True Positive Rate:
+  TPR = TP/P = TP/(TP + FN)
+
+  Specificity / True Negative Rate:
+  SPC = TN/N = TN/(FP+TN)
+
+  Precision/ Positive Predictive Value
+  PPV = TP/(TP+FP)
+
+  Negative Predictive Value:
+  NPV = TN/(TN+FN)
+
+  Fall-out / False Positive Rate:
+  FPR = FP/N = FP/(FP+TN)
+
+  False Discovery rate:
+  FDR = FP(FP+TP) = 1 - PPV
+
+  Miss Rate / False Negative Rate:
+  FNR = FN/(FN+TP)
+
+  Accuracy:
+  ACC = (TP + TN) / (P + N)
+
+  F1 score:
+  F1 = 2TP/(2TP + FP + FN)

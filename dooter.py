@@ -6,6 +6,7 @@ Stub dooter file for task authoring
 # https://pydoit.org/
 ##-- imports
 from __future__ import annotations
+<<<<<<< HEAD
 
 import logging as logmod
 import pathlib as pl
@@ -16,15 +17,48 @@ from doit.action import CmdAction
 from doit.task import clean_targets
 from doit.tools import Interactive, PythonInteractiveAction, set_trace
 
+=======
+import pathlib as pl
+import sys
+import shutil
+from doit.action import CmdAction
+from doit import create_after
+from doit.tools import set_trace, Interactive, PythonInteractiveAction
+from doit.task import clean_targets
+import logging as logmod
+
+import doot
+>>>>>>> writing/master
 ##-- end imports
 
 ##-- logging
 logging = logmod.getLogger(__name__)
 ##-- end logging
 
-from doot.tasks.groups import *
-from doot.tasks.groups_secondary import *
+# from doot.taskslib.groups import *
+# from doot.taskslib.groups_secondary import *
+
+from bkmkorg.doot_tasks import basic, bibtex, bookmark, tags
 
 if __name__ == "dooter":
     # the equivalent of main
-    pass
+    cleaner      = bibtex.BibtexClean(locs=doot.locs)
+    report       = bibtex.BibtexReport(locs=doot.locs)
+    stubber      = bibtex.BibtexStub(locs=doot.locs)
+    pdflib_clean = bibtex.LibDirClean(locs=doot.locs)
+
+    noscript     = basic.NoScriptMerge(locs=doot.locs)
+
+    # # TODO report
+    bkmks_update = bookmark.BookmarksUpdate(locs=doot.locs)
+    bkmk_clean   = bookmark.BookmarksCleaner(locs=doot.locs)
+    bkmk_report  = bookmark.BookmarksReport(locs=doot.locs)
+
+    # TODO indexer
+    tags_clean   = tags.TagsCleaner(locs=doot.locs)
+    tags_report  = tags.TagsReport(locs=doot.locs)
+    tags_index   = tags.TagsIndexer(locs=doot.locs)
+
+    # breakpoint()
+    # pass
+    # TODO interface with jsekyll tasks

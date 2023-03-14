@@ -1,0 +1,308 @@
+* Research Questions and related
+** Questions
+*** Questions to ask about institutions                                         :institutions:questions:
+**** Descriptive Questions
+     How are institutions structured? How do they change?
+     Who are the people in institutions? Do they always fulfill the same roles?
+     Where are institutions located? Physically? Mentally?
+     When do institutions form? When do they die? When do they change?
+     When are institutions 'activated' in a given situation?
+     What do institutions do?
+     What are individuals' relations to an institution
+     What size are institutions? What does size of an institution mean?
+     How do we model institutions? How do we describe their structure?
+     How do we describe the interactions between institutions?
+     How do similar institutions vary?
+
+**** Predictive Questions
+     How do they change when X occurs?
+     Which institution of a conflict set is preferred in a given situation?
+
+**** Explanatory Questions
+     Does an institution modeled by Fligsteins structure allow for similar behaviour to real institutions?
+     Why do institutions change? Why do they exist?
+     How do institutions operate?
+     How are institutions maintained?
+     How are institutions transmitted?
+
+**** Misc
+***** How are institutions formed?
+      Is this the question to ask at the moment? probably not. Institutions *exist*, the creation of them is rarer.
+      Possibly consider Facebook as an institution.
+***** How are the consequences of the changes experienced?
+***** How are those changes experienced?
+***** How can we describe institutions?
+***** How can we phenomenologically operationalise institutions?
+***** How do the variants of an institution change?
+***** How do you differentiate universally applicable institutions to individual/instrumental/situational institutions?
+***** How do you get from social rules to actions?
+***** How do you vary an institution?
+      feedback loop. resonance.
+***** What are examples of the ranges of:
+****** Institutions
+****** Inter-Institutional Variance (religion <-> disgust)
+****** How do institutions vary across time?
+****** Institutional Experiences
+****** Institutional Purposes
+       Do all institutions have purposes?
+****** Components of Institutions:
+******* Values
+******* Rules
+******* Roles
+******* Actions
+******* Timescales
+******* Agency
+******* Locations
+******* Events
+******* Means of individual variation / pure symbolics
+******* means of communication / semi-symbolics
+******* actions / non-symbolics
+***** What are Institutions?
+***** What are the variants and invariants of an institution?
+***** What does an Institutional Analysis of Games/AI Reveal?
+***** What does an Institutional Architecture Enable?
+***** What is important about our experience of institutions?
+***** What is the process by which an individual acts according to a multitude of institutions?
+***** What language would describe these changes?
+***** Why would we want to model Institutions?
+***** Related to Sociologically Inspired Computing Methodology
+      In Horseshoe:
+****** What Are Institutions?
+       Dynamic semi-specified fields of artificial persistent
+       stances about the world
+****** How can we talk about them?
+       Components, languages
+****** How can we reason about them?
+       Models, Stackable calculi
+****** How can we model them computationally?
+       Layers, DSLs, Meta Rules.
+****** How can we author them?
+       Emacs Authoring, DSL construction.
+       Tool assistance.
+****** How can we perform them?
+       Scopes and ways to demonstrate. 
+       Street level bureaucracy.
+***** What has come before?
+****** That is on this topic?
+****** That is applicable, but hasn't been?
+****** That takes a different approach from me?
+****** That supports my approach?
+****** That opposes this approach?
+****** That has been forgotten?
+****** That has not crossed discipline boundaries?
+***** What have I Done?
+***** What have I found out?
+***** What Worked?
+***** What did not work?
+*** Related to Cohen:
+    What will happen if you vary an institution?
+    Does an institution generated and varied in a procedural way model
+    real world institutions accurately?
+    Do Institutions explain the changes that can occur socially?
+    A number of research questions arise once the concept of SIA
+    has been brought to the fore, primarily:
+
+    How can we describe Socio-Institutional Actions?
+    Can we create dynamic societies within which SIA's can occur?
+    Can dynamic societies provide new media experiences?
+    How might we utilize dynamic societies in games?
+** Examples of Research Questions
+   #TODO: 2003 onwards
+*** Adams 2002
+    The main aims of the project are as follows: -
+    1) Find, or if necessary, create a general system to support the graph
+       grammar approach.
+    2) Create strategies that generate topological descriptions of levels.
+       These levels must:
+       1) Be random and vary greatly from other levels.
+       2) Have the difficulty and size that were input as parameters.
+    3) Develop algorithms to assess the size, difficulty and fun-value of a level.
+    4) Develop a rule set that allows interesting, fun to play and differing
+       levels to be generated by the Dungeon Generation System.
+    5) Investigate the power of context-free graph grammars with regard to
+       automatic level generation.
+
+    If time allows, the following will also be done: -
+    1) Develop a system to convert the topological level descriptions into
+       geometric level descriptions.
+    2) Create complete and playable levels for an actual dungeon game using
+       levels output by the Dungeon Generation System.
+*** Artikis 2003
+    A more detailed account of the contributions of this thesis is the following:
+    1) A critical analysis of existing frameworks for the representation of
+       multi-agent systems (with similar characteristics to open computational
+       societies) that:
+       1) defines a set of requirements for the specification of open computational societies
+       2) identifies the extent to which the existing frameworks in the literature
+          address these requirements, and
+       3) concludes with an outline of a set of conceptual assumptions and
+          criteria that need to be met for the specification of open computational
+          societies.
+    2) A theoretical framework for the specification of social constraints that govern the
+       behaviour of the members of societies. The specification of social constraints
+       maintains the standard, in the study of social and legal systems, long
+       established distinction between physical capability, institutionalised
+       power and permission. This specification provides:
+       1) An explicit representation of the institutionalised powers of the agents.
+          The representation of institutionalised power enables us to define what
+          kinds of actions ‘count as’ [85] valid (‘well-formed’, ‘effective’) actions.
+          Distinguishing between valid and in- valid actions enables the separation of
+          meaningful from meaningless activities (with respect to the society specification).
+       2) An explicit representation of the permissions, prohibitions and obligations of the
+          agents that enables the classification of their behaviour as ‘legal’
+          or ‘illegal’, ‘acceptable’ or ‘unacceptable’, and so on.
+       3) An explicit representation of the sanctions and enforcement policies
+          that deal with the ‘illegal’ (‘unacceptable’) behaviour of the agents.
+    3) A specification of social constraints by means of two action representation
+       languages with direct routes to implementation. More precisely, we provide:
+       1) A specification of social constraints by means of the C+ language, a
+          formalism with explicit transition systems semantics with support for
+          the effects (direct and indirect) of actions and default (‘inertia’)
+          persistence of fluents from state to state.
+       2) A specification of social constraints by means of EC, a formal,
+          intuitive and well studied action language.
+    4) A computational framework, consisting of two software implementations, the
+       Causal Calculator and the Society Visualiser, that:
+       1) executes the specifications of open computational societies, and
+       2) proves properties of the specifications of open computational societies.
+    5) A Description of the ways in which the computational framework may operate
+       in the context of simulations or actual executions of open computational
+       societies.
+    6) A demonstration of the utility of the theoretical and computational frameworks
+       by specifying and executing a contract-net protocol and an argumentation
+       protocol. An evaluation of both frameworks, in the light of the presented
+       case studies, that points out the strengths and weaknesses of these frameworks.
+
+*** Berger 2001
+    The purpose of this document is to substantiate the following assertion:
+    statistical machine learning represents a principled, viable framework upon
+    which to build high-performance information processing systems.
+
+*** Bryson 2001
+    The primary contributions of this dissertation are:
+    1) the BOD architecture, and
+    2) the BOD development process.
+*** Doorenbos 1995
+    The thesis of this research is that we can solve this problem in a broad
+    class of systems by improving the match algorithm they use.
+*** G Smith 2012
+    1. How can we design content generators that support a new paradigm for design?
+    2. How does the incorporation of procedural content enable the creation of a new game
+    genre?
+    3. How can we evaluate and understand a content generator’s expressive capabilities and
+    communicate them to designers?
+
+*** Hawes 2009
+    Our primary objective is to gain a clearer understanding of the role of the
+    conversational dynamics of Supreme Court justices. We aim to show that:
+    a) predictable high level patterns exist in the conversational dynamics of the
+    Supreme Court,
+    b) these patterns may be associated with other areas of interest to legal
+    scholars such as voting patterns of the justices,
+    c) this association between linguistic patterns and judicial patterns may be
+    utilized to provide both short term insights
+    (i.e. predicting the outcome of a particular case)
+    and deeper insights about the behavior of the Supreme Court.
+
+*** MacBeth 2014
+    1) A review of governance in participatory-sensing applications, identifying a
+       lack of governance consideration and user enfranchishment.
+    2) An analysis of participatory sensing as a knowledge commons, using the IAD
+       framework, in conjunction with a framework for self-organising electronic
+       institutions, which provides an architectural and algorithmic basis for
+       governance of a knowledge commons.
+    3) A general purpose simulation platform for agent-based simulation and
+       modelling, Presage2, suitable for the principled operationalisation of a
+       model of the participatory-sensing knowledge commons.
+    4) A method of manually translating Event Calculus into business rules, and
+       an implementation for the specification of electronic institutions,
+       Drools-EInst, along with a suite of modules, with which we can implement
+       a specification for a self-organising knowledge commons.
+    5) An experimental model of the management of participatory sensing as a
+       knowledge commons, with which we validate the problem of supply of
+       institutions, and identify that proper enfranchisement of users can be
+       used to counter greed and self-interest in participatory-sensing.
+
+*** Noriega 1997
+    I will organize my arguments along three lines:
+    1) from the point of view of agent interactions
+    2) from the point of view of agent-based applications, and
+    3) from the point of view of dialogical systems
+
+*** Recski 2006
+    1) How can interpersonal patterns of choice observed in the corpus of dissertation
+       defenses be represented in terms of the grammatical system as a whole
+       (ie: as subsystems of the system)? How may a paradigmatic grammar such
+       as SFG be enhanced if probabilities are ascribed to every feature of a system or
+       a system network? Can the incorporation of information on the actual patterns
+       of choice realized in the corpus be a motivation for working towards a
+       probabilistic modeling of language?
+    2) Given the very high frequency of occurrence of the mental process I Think
+       many questions emerge. Does I Think express lack of commitment to save
+       the speaker's face, or is it a device for avoiding straightforwardness and hence a device
+       for saving the hearer's face? Is it an expression of uncertainty and tentativeness?
+       Can it express authority, or lack of it? Can it be used to open up dialogic space,
+       or all of the enlisted functions depending on the situational context?
+    3) What is the most common interpersonal strategy employed by committee
+       members to ask questions and to give recommendations and/or suggestions
+       and how is it realized lexicogrammatically?
+
+*** Reilly 1996
+    Part 1:
+    1) A set of tools for creating believable emotional agents that includes:
+       1) a framework for building believable emotional agents,
+       2) a default set of emotional processes to provide reasonable default emotional behavior, and
+       3) discussions about how to create specific emotional characters within this framework.
+    2) A methodology for creating emotions within a broad set of capabilities
+       that allows artists to create emotionally rich characters. This methodology
+       also enabled me to create models of how to generate emotions that rely on
+       perception and motivation as well as cognition. These models can be simpler
+       and faster than purely cognitive models
+    3) Validation that the tools I have built can be used to create characters
+       that users find to be both emotional and believable.
+
+    Part 2:
+    1) A two-part methodology for creating believable social behaviors for spe- cific characters.
+       1) Part 1 of the methodology suggests a number of important elements of
+          personality that should be incorporated into social behaviors in order
+          to make them personality-rich.
+       2) Part 2 of the methodology prescribes using a minimal amount of
+          representation for modeling other agents in the environment.
+    2) A set of believable social behaviors that provide:
+       1) case studies for explaining the methodology in depth and how to apply
+          it in practice,
+       2) evidence for the breadth of behaviors the methodology can be used to create, and
+       3) examples of social behaviors for specific characters that use small
+          amounts of representation of other agents.
+    3) Validation that users find social characters build using this methodology can be good characters.
+
+*** Tidemann 2009
+    Goals:
+    1) Design and develop an architecture for musical imitation that is able to
+       model and imitate human expressiveness (ie: the groove) when playing the
+       drums.
+    2) Design and develop an architecture for motor control and learning that can
+       be used to imitate human movements.
+    3) Design and develop an architecture for imitation of human drum patterns
+       that capture the human expressiveness of playing.
+
+
+    Hypotheses:
+    1) Fusing high-level audio signals with visual signals improves the
+       performance of the motor system. TEST: Remove the audio signal, and
+       examine the performance of the system.
+    2) The Motor system will internalize motor knowledge regardless of the
+       sequence of movements that was used to train the system. TEST: Test the
+       motor system with random permutations of the sequence of movements that was
+       used to train the system, and compare the performance of the system when
+       testing with the original training sequence.
+    3) The musical output of the system should produce imitations that will be
+       perceived similar to the originals. TEST: Use human listeners to compare
+       the original audio with the imitated audio and classify which served as
+       training signal to the imitated audio.
+
+*** Treanor 2013
+    1. How do instantial assets interact with game rules to be about subjects?
+    2. How can complex systems of rules be about subjects?
+    3. Why do players understand games in different ways?
+

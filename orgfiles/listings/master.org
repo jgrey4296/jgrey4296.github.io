@@ -1,0 +1,226 @@
+* Master Reference File of notes
+** Research
+   Alpha House - Command Rape
+   [[file:culturalAntroNotes][Cultural Anthropology Notes]]
+*** Writing
+    [[file:siaWritings][Sia Writings]]
+*** Theory
+    [[http://qz.com/301150/this-is-the-proof-that-the-1-have-been-running-the-show-for-800-years/][Persistent status through centuries]]
+**** Main
+     Social Modeling +
+     Tribal Structures +
+     Higher Degree Social Action = Socio-Institutional Activity
+
+***** Social Modeling
+      Cif and Praxis enable charismatic and dialogue focused
+      interactions
+
+***** Tribal Structures
+      Generative collections of rules that structure behaviour
+      Fulfilling any number of purposes
+
+***** High Degree Social Action
+      Castelfranchi's orders of action rely on
+      intention, but intention can be encoded or
+      displayed in ritual.  Thus, giving ways to
+      interpret action, and work towards higher
+      social action.
+
+***** Socio-institutional activity
+      [[file:argumentOverview][Main Arguments]]
+
+***** Socio-Tribal Activity
+***** Socio-institutional Activity
+
+      [[file:research/sia][Socio Institutional Activity]]
+      [[file:48laws][The 48 Laws of Power]]
+      [[file:socialStructures][Social Structures Notes]]
+
+      [[file:research/extracts][Fiction Extracts 1]]
+      [[file:research/extracts2][Fiction Extracts 2]]
+      [[file:research/extractsDiscussion][Discussion of Fiction Extracts]]
+**** Related
+     [[file:research/compSocScience][Computational Social Science Notes]]
+     [[file:castelfranchi][Types of Social Actions, CastelFranchi]]
+*** Architecture
+    Modificaions/uses of CiF/Praxis
+*** Implementation
+    [[file:tribeDescriptions][Tribe Descriptions]]
+    Thought process during the vanishing of ethan carter: 'when's this
+    set again? oh, theres telephone wires so that puts me somewhere
+    around 1900'. This, but procedural.
+
+    [[file:research/gamesPrototypes][Game Prototype Ideas]]
+*** Obselete
+*** Links
+    [[http://en.wikipedia.org/wiki/Gossip][Gossip]]
+    [[http://www.gutenberg.org/files/14314/14314-h/14314-h.htm][Emily Post]]
+    [[http://en.wikipedia.org/wiki/Diplomacy][Diplomacy]]
+    [[http://en.wikipedia.org/wiki/Style_%2528manner_of_address%2529][Manner of Address]]
+    [[http://en.wikipedia.org/wiki/T%25E2%2580%2593V_distinction][T-V distinction]]
+    [[http://en.wikipedia.org/wiki/Honorifics_%2528linguistics%2529][Honourifics]]
+    [[http://en.wikipedia.org/wiki/Social_distance][Social Distance]]
+    [[http://en.wikipedia.org/wiki/Polite_fiction][Polite Fiction]]
+    [[http://en.wikipedia.org/wiki/Creole_language][Creole]]
+    [[http://en.wikipedia.org/wiki/Ali%25C3%25A9nor_de_Poitiers][Alienor De Poitiers]]
+    [[http://en.wikipedia.org/wiki/Court_%2528royal%2529][Royal Court]]
+
+
+    [[http://books.google.com/books?id%3Dddc9AAAAIAAJ&pg%3DPA47&lpg%3DPA47&dq%3DOn%2Bthe%2Bdynamics%2Bof%2Bsocial%2Bnorms%2BPier%2BLuigi%2BSacco&source%3Dbl&ots%3D0wbwLqDCY6&sig%3D7Kj3qx3mqy6-V6z_1TKkQiBrTXg&hl%3Den&sa%3DX&ei%3Df0F8VLKSKbSasQSUtYCQDQ&ved%3D0CCcQ6AEwAQ#v%3Donepage&q%3DOn%2520the%2520dynamics%2520of%2520social%2520norms%2520Pier%2520Luigi%2520Sacco&f%3Dfalse][On the Dynamics of Social Norms]]
+    [[http://www.cambridge.org/us/academic/subjects/philosophy/philosophy-science/dynamics-norms][Dynamics of Norms]]
+    [[http://sites.sas.upenn.edu/behav-ethics/files/norms_and_beliefs-_how_change_occurs_copy.pdf][Norm and Beliefs: How Change Occurs]]
+    [[http://sites.sas.upenn.edu/behav-ethics/publications][Behavioural Ethics Lab]]
+    [[http://en.wikipedia.org/wiki/Cristina_Bicchieri][Bicchieri]]
+    [[http://en.wikipedia.org/wiki/Linguistic_anthropology][Linguistic Anthropology]]
+    [[http://en.wikipedia.org/wiki/Social_anthropology][Social Anthro]]
+    [[http://en.wikipedia.org/wiki/Cultural_anthropology][Cultural Anthro]]
+    [[http://en.wikipedia.org/wiki/Ruth_Benedict#Patterns_of_Culture][Patterns of Culture]]
+
+** Programming
+*** Languages
+    [[http://www.dabeaz.com/ply/][PLY]]
+    [[https://theantlrguy.atlassian.net/wiki/display/ANTLR4/ANTLR%2B4%2BDocumentation][ANTLR]]
+
+*** Music
+    Supercollider or chuck,
+    or perl/python for that matter
+
+**** Define a scale
+
+**** Define chords
+
+**** Generate patterns
+
+***** Note Patterns
+
+***** Rhythm patterns
+
+**** Order operations
+     concat, mix.
+     combinations, reversals etc
+
+**** Classifiers
+
+*** Image
+    http://www.redblobgames.com/grids/hexagons/
+
+*** Web
+    Victoria and Albert Museum web api: http://www.vam.ac.uk/api/
+    https://www.flickr.com/services/api/
+    https://github.com/lizadaly/nanogenmo2014
+    http://jinja.pocoo.org/
+    https://github.com/galaxykate/PCGTutorials
+
+*** Dwarf Fortress
+*** NLP
+**** Supreme Court Parsing
+**** Abl Parsing
+**** Novels parsing
+
+*** Metasteam
+*** Social Simulation
+**** Tribes
+**** Institutions
+**** Resources
+**** Knowledge
+**** Time
+**** Conversation
+     Speech Acts
+     grammar generation
+
+*** TODO
+**** social Roguelike:
+***** camera follow
+***** working doors
+***** animation state machine
+***** melee
+***** pathfinding
+***** click to move
+***** Game Logic
+
+**** Traditional Roguelikes
+**** Social Play
+**** Space strategy
+**** Movement
+**** Building
+**** Combat
+**** Walking Simulator
+**** Thud
+***** Board
+      Generation of board tiles,
+      public access to tiles
+***** Tile
+      Tile has a stack of what units are on it
+***** Pieces
+      Move to any adjacent tile
+      decision procedures
+
+***** Movement
+      piece decides to move, gets the tile moving to from the board, updates the tile state
+***** Taking
+      two pieces, most likely on the same tile,
+***** Combination Attacks
+      for later
+***** Score keeping
+      for later
+
+** Languages
+*** Main Use Languages:
+
+    [[file:languages/javascript][Javascript]]
+    [[file:languages/csharp][C#]]
+    [[file:languages/unity][Unity]]
+    [[file:languages/perl][Perl]]
+    [[file:languages/python][Python]]
+
+    [[file:languages/shell][Shell]]
+    [[file:languages/docgen][Documentation Generation]]
+
+*** Specific Use Languages
+
+    [[file:languages/asp][ASP]]
+    [[file:languages/prolog][Prolog	]]
+    [[file:languages/chuck][Chuck]]
+    [[file:languages/supercollider][Supercollider]]
+    [[file:languages/scheme][Scheme]]
+    [[file:languages/lisp][Lisp]]
+    [[file:languages/haskell][Haskell]]
+
+*** Class Use Languages:
+
+    [[file:languages/cpp][C++]]
+    [[file:languages/smalltalk][Smalltalk]]
+    [[file:languages/ocaml][Ocaml]]
+    [[file:languages/erlang][Erlang]]
+
+*** Other:
+
+    TODO: yas for doxygen
+
+    [[file:languages/libraries][Interesting Libraries]]
+    [[file:lang-template][Language Template]]
+
+** Programs
+   [[file:programs/blender][Blender]]
+   [[file:programs/emacs][Emacs]]
+   [[file:programs/gimp][Gimp]]
+   [[file:programs/logic][Logic]]
+   [[file:programs/steamGames][Steam Game Notes]]
+   [[http://www.mactricksandtips.com/2008/07/convert-images-using-terminal.html][Sips (image processing)]]
+** Web
+   [[file:web/links][Unorganised Links]]
+   [[file:web/rpsNotes][Rock Paper Shotgun]]
+   [[file:web/usefulLinks][Misc Useful Links]]
+** Other
+   [[file:other/writing][Writing Notes]]
+   [[file:other/ai][AI]]
+   [[file:other/assets][Assets]]
+   [[file:other/algorithms][Algorithms Notes]]
+   [[file:other/patterns][Design Patterns]]
+   [[file:other/probability][Probability Notes]]
+   [[file:other/stats][Statistics notes]]
+   [[file:other/vectorMath][Vector Math Notes]]
+   [[file:other/nlp][NLP Notes]]
+   [[file:other/notebook_notes][Extracts from Physical Notebooks]]
+   [[file:other/imageComments][Comments on Images of Interest]]
+   [[file:other/scratch][Old Scratch Buffer]]

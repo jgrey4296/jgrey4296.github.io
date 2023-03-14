@@ -1,0 +1,643 @@
+#+title: CCalc
+* Overview
+* Main
+** Running
+   start swipl6 with ccal loaded:
+   swipl6 -f path/to/ccalc.pl
+
+** System Dependencies
+Needs swi-prolog < 7
+   So rebuild from the git ref 406202420c of [[https://github.com/SWI-Prolog/swipl][swipl]]
+   You need to update submodules first *before* going off HEAD.
+   Make sure to add the compiler flags *brew info readline* suggests.
+
+   Solvers need to be put in a *Darwin* solvers subdir.
+   For Solvers, use [[https://github.com/roberto-bayardo/relsat][relsat]].
+   [[https://gitlab.com/HenryKautz/Walksat][Walksat]] also compiles but doesn't output solutions.
+   [[https://stackoverflow.com/questions/3987683][Homebrew install specific version]]
+
+** Syntax
+*** Fluents and Actions
+    Types:
+
+    simpleFluent.
+    inertialFluent.
+    additiveFluent(type).
+
+    sdFluent
+    ? rigid
+
+    action.
+    exogenousAction.
+    attribute of Action.
+    additiveAction(type).
+    ? abAction
+
+****    #+NAME: Simple example
+    #+begin_src ccalc
+    :- constants
+    p :: inertialFluent(0..3);
+    a :: exogenousAction.
+    #+end_src
+
+*** Transitions
+    Define movements between states, using actions
+    underlying language is "caused X if Y"
+
+:Constraints:
+    constraint #1,#2 -> (constraint #1 ; constraint #2) ;
+    constraint #1 -> caused false if -(#1);
+:END:
+
+:Always:
+    always #1,#2 -> (always #1 ; always #2) ;
+    always #1 -> caused false after -(#1) ;  % or, constraint false after #1.
+:END:
+
+:Defaults:
+    default #1,#2 if #3 after #4 -> (default #1 if #3 after #4; default #2 if #3 after #4) ;
+    default #1 if #2 after #3 -> caused #1 if #1 & #2 after #3 ;
+    default #1,#2 after #3 -> (default #1 after #3 ; default #2 after #3) ;
+    default #1 after #2 -> (default #1 if true after #2) ;
+    default #1,#2 if #3 -> (default #1 if #3 ; default #2 if #3) ;
+    default #1 if #2 -> caused #1 if #1 & #2 ;
+    default #1,#2 -> default #1,#2 if true ;
+    default #1 -> default #1 if true ;
+:END:
+
+:exogenous:
+    exogenous #1,#2 if #3 -> (exogenous #1 if #3 ; exogenous #2 if #3) ;
+    exogenous #1 if #2 -> default #1 = var(sort(#1),-1) if #2 ;
+    exogenous #1,#2 -> (exogenous #1 ; exogenous #2) ;
+    exogenous #1 -> exogenous #1 if true .
+:END:
+
+:causation:
+    caused #1 after #3 -> caused #1 if true after #3 ;
+
+    possibly caused #1 if #2 after #3 -> default #1 if #2 after #3 ;
+    possibly caused #1 after #2 -> default #1 after #2;
+
+    #1 causes #2 if #3 -> caused #2 after #1 & #3
+    where action_formula(#1), simpleFluent_formula(#2) ;
+
+    #1 causes #2 if #3 -> caused #2 if #1 & #3
+    where action_formula(#1), action_formula(#2), fluent_formula(#3) ;
+
+    #1 causes #2 -> #1 causes #2 if true
+    where action_formula(#1);
+
+    #1 may cause #2 if #3 -> default #2 after #3 & #4
+    where tuple_to_conjunct(#1,#4) ;
+
+    #1 may cause #2 -> default #2 after #3
+    where tuple_to_conjunct(#1,#3) ;
+:END:
+
+:nonexecutable:
+    nonexecutable #1 if #2 -> always #2 ->> -(#3)
+    where tuple_to_conjunct(#1,#3);
+
+    nonexecutable #1 -> nonexecutable #1 if true;
+:END:
+
+:inertial:
+    inertial #1,#2 if #3 -> (inertial #1 if #3 ; inertial #2 if #3) ;
+    inertial #1 if #2 -> default #1 = var(sort(#1),-1)
+    after #1 = var(sort(#1),-1) & #2 ;
+
+    inertial #1,#2 -> (inertial #1 ; inertial #2) ;
+    inertial #1 -> inertial #1 if true ;
+:END:
+
+:rigid:
+    rigid #1,#2 -> (rigid #1 ; rigid #2) where is_constant(#1) ;
+    rigid #1 -> caused false if -(#1 = var(sort(#1),-1))
+    after #1 = var(sort(#1),-1) where is_constant(#1).
+:END:
+
+**** #+NAME: Simple Actions
+    #+begin_src prolog
+    a causes c.
+    a causes c=1 if c=0.
+    nonexecutable a if c=3.
+    #+end_src
+
+*** Variables
+    Uppercase as standard in prolog.
+
+**** #+NAME: Simple Variables
+    #+begin_src prolog
+    :- variables
+    I :: 0..2.
+
+    a causes c=I+1 if c=I.
+    #+end_src
+
+*** Macros
+
+**** #+NAME: Simple Macros
+    #+begin_src prolog
+    :- macros
+    n -> 3.
+
+    :- constants
+    p :: inertialFluent(0..n).
+    #+end_src
+
+*** Queries
+    Defined as paths of node -> action -> node of maxstep length.
+
+**** #+NAME: Simple Queries
+    #+begin_src prolog
+    %% Calls for finding paths of length 1.
+    :- query
+    maxstep :: 1.
+    #+end_src
+
+    Add requirements at particular nodes or edges.
+    #+begin_src prolog
+    :- query
+    maxstep :: 2;
+    0 : c=5; %% '& a'; or ', a;'
+    0 : a;
+    1 : a;
+    maxstep :: 1.
+    #+end_src
+
+*** Imports
+
+**** #+NAME: Import example
+#+begin_src ccalc :results value
+	:- include 'file.prolog'.
+  %% Any definitions in file are now usable
+#+end_src
+
+** Sandbox
+
+*** #+NAME: Non-Session Test
+   #+begin_src ccalc :results output :query 1
+     :- macros
+        n -> 10.
+
+     :- constants
+        c :: inertialFluent(0..n);
+        a ,
+        b :: exogenousAction.
+
+     :- variables
+        I :: 0..n-1.
+
+     a causes c=I+1 if c=I.
+     b causes c=I+2 if c=I, I+2 < n.
+
+     nonexecutable a if c >= n.
+     nonexecutable b if c >= n-2.
+
+     :- query          % prediction
+        label :: 1;
+        maxstep :: 2;
+        0: c=5;
+        0: a;
+        1: a.
+
+     :- query          % postdiction
+        label :: 2;
+        maxstep :: 2;
+        maxstep: c=5;
+        0: a;
+        1: a.
+
+     :- query          % planning
+        label :: 3;
+        maxstep :: 0..infinity;
+        0: c=4;
+        maxstep: c=10.
+   #+end_src
+
+   #+RESULTS:
+   #+begin_example
+   FALLBACK: 0
+
+
+
+   Causal Calculator: Version 2.0.
+   Type 'help.' for online help.
+
+
+   % loading file /Volumes/documents/github/otherlibs/ccalc/macros.std
+   % loading file /var/folders/gs/z_hwqrp941339_6ztds0h45c0000gn/T/babel-7DJl0a/ccalc-Gjcsss.pl
+   % in transition mode...
+   % 24 atoms, 48 rules, 149 clauses (28 new atoms)
+   % Grounding time: 0.02 seconds
+   % Completion time: 0.01 seconds
+   % Total time: 0.03 seconds
+   % Shifting atoms and clauses... done. (0.00 seconds)
+   % After shifting: 83 atoms (including new atoms), 257 clauses
+   % Writing input clauses... done.  (0.00 seconds)
+   % Calling relsat 2.0... done.
+   % Reading output file(s) from SAT solver... done.
+   % Solution time: 0 seconds (prep 0 seconds, search 0 seconds)
+
+   0:  c=5
+
+   ACTIONS:  a
+
+   1:  c=6
+
+   ACTIONS:  a
+
+   2:  c=7
+
+
+   #+end_example
+
+
+*** #+NAME: test inertial
+   #+begin_src ccalc :results output :query 1
+   :- macros
+      n -> 2.
+
+   :- sorts
+      object.
+
+   :- objects
+      first, second :: object.
+
+   :- constants
+      c             :: inertialFluent(0..n);
+      d             :: simpleFluent(object);
+      a             :: exogenousAction.
+
+   :- variables
+      I :: 0..n-1.
+
+   a causes c=I+1 if c=I.
+
+   default d=first after d=second.
+   default d=second after d=first.
+
+
+   :- query
+   label :: 1;
+   maxstep :: 2;
+   0 : c=0;
+   1 : a;
+   maxstep: c=2.
+
+   #+end_src
+
+
+*** #+NAME: test action
+   #+begin_src ccalc :results output :query 2
+   %% noconcurrency.
+
+   :- macros
+      n -> 15.
+
+   :- sorts
+      object.
+
+   :- objects
+      first, second:: object.
+
+   :- constants
+      c :: inertialFluent(0..n);
+      d :: simpleFluent(object);
+      g :: simpleFluent(boolean);
+      a, q :: exogenousAction;
+      b :: exogenousAction.
+
+   :- variables
+      I :: 0..n-1;
+      T :: integer;
+      Q :: exogenousAction.
+
+   a causes c=I+2 if c=I, I<n-2.
+   q causes c=I-1 if c=I, I>0.
+
+   a causes b.
+   b causes a.
+   b causes d=second.
+   q causes d=first.
+
+   % a and q are mutually exclusive:
+   nonexecutable a & q.
+   nonexecutable b & q.
+   nonexecutable b if not a.
+
+   % non-inertial tick tock
+   default d=first after d=second.
+   default d=second after d=first.
+
+   default g=false.
+   default g=true if c=9.
+   default g=true if c=3.
+
+   :- show
+   c; a; q; b; g.
+
+   :- query
+   label :: 1;
+   maxstep :: 8;
+   0 : c=0;
+   1 : a;
+   3 : c>4;
+   maxstep : g=true.
+
+:- query
+   label :: 2;
+   maxstep :: 3;
+   0 : c=0;
+   1 : a;
+   maxstep : g=true.
+
+   #+end_src
+
+   #+NAME: fruit_eating
+   #+begin_src ccalc :results output :query 1
+   %% noconcurrency.
+   :- macros
+      n -> 15;
+      all_fruit -> apple, pear.
+
+   :- sorts
+      fruit.
+
+   :- objects
+      all_fruit :: fruit.
+
+   :- constants
+      %% Inertial Fluents
+      fruit_count(fruit) :: inertialFluent(0..n);
+      bought_fruit :: inertialFluent.
+
+   :- constants
+      %% Simple Fluents
+      has_fruit :: simpleFluent;
+      no_fruit :: simpleFluent.
+
+   :- constants
+      %% Actions
+      eat(fruit) :: exogenousAction;
+      buy(fruit) :: exogenousAction.
+
+   :- variables
+      I,J :: integer;
+      F,G :: fruit.
+
+
+   eat(F) causes fruit_count(F)=I if fruit_count(F)=I+1, I+1<n.
+   buy(F) causes fruit_count(F)=I+1 if fruit_count(F)=I, I+1<n.
+   buy(F) causes bought_fruit.
+
+   nonexecutable eat(F) & eat(G) if F\=G.
+   nonexecutable eat(F) if fruit_count(F)=0.
+   nonexecutable buy(F) if fruit_count(F)=n.
+
+   default -has_fruit.
+   caused has_fruit if fruit_count(F)>0.
+
+   default -no_fruit.
+   caused no_fruit if -has_fruit.
+
+
+   :- show
+   apple; pear; fruit_count; eat; buy; bought_fruit; no_fruit; has_fruit; no_fruit.
+
+   :- query
+   label :: 1;
+   maxstep :: 5;
+   0 : fruit_count(apple)=1, fruit_count(pear)=1;
+   1 : eat(apple);
+   2 : eat(pear);
+   3 : buy(apple);
+   maxstep: no_fruit.
+
+
+   #+end_src
+
+
+*** #+NAME: additive
+   #+begin_src ccalc :results output :query 1
+   %% noconcurrency.
+
+:- maxAdditive :: 7.
+
+:- sorts
+   agent;
+   item.
+
+:- variables
+   It                          :: item;
+   M,N                         :: 0..maxAdditive.
+
+:- objects
+   buyer              :: agent;
+   newspaper,magazine :: item.
+
+:- constants
+   sold :: inertialFluent;
+   has(agent,item)             :: additiveFluent(0..maxAdditive);
+   buy(item)                   :: exogenousAction;
+   sell(item)                  :: exogenousAction.
+
+default -sold.
+sell(It) causes sold.
+
+buy(It) increments has(buyer,It) by 2.
+sell(It) decrements has(buyer,It) by 1.
+
+nonexecutable buy(It) if sell(It).
+nonexecutable sell(It) if buy(It).
+
+:- query
+   label :: 1;
+   maxstep :: 5;
+   0: has(buyer, newspaper)=4,
+      has(buyer, magazine)=2,
+      buy(newspaper),
+      buy(magazine);
+   maxstep: has(buyer, newspaper)=5, has(buyer, magazine)=3.
+
+#+end_src
+
+** Sandbox Session
+*** #+NAME: Basic example
+   #+begin_src ccalc :results output :session test :as-file
+     :- macros
+        n -> 10.
+
+     :- constants
+        c :: inertialFluent(0..n);
+        a ,
+        b :: exogenousAction.
+
+     :- variables
+        I :: 0..n-1.
+
+
+     a causes c=I+1 if c=I.
+     b causes c=I+2 if c=I, I+2 < n.
+
+     nonexecutable a if c >= n.
+     nonexecutable b if c >= n-2.
+
+     :- query          % prediction
+        label :: 1;
+        maxstep :: 2;
+        0: c=5;
+        0: a;
+        1: a.
+
+     :- query          % postdiction
+        label :: 2;
+        maxstep :: 2;
+        maxstep: c=5;
+        0: a;
+        1: a.
+
+     :- query          % planning
+        label :: 3;
+        maxstep :: 0..infinity;
+        0: c=4;
+        maxstep: c=10.
+   #+end_src
+
+*** #+NAME: Coins Session Test
+#+begin_src ccalc :results value :session test
+   loadf 'coins.prolog'.
+   #+end_src
+
+   #+begin_src ccalc :results output :session test
+   query 2.
+   #+end_src
+
+*** #+NAME: Mytest Session
+   #+begin_src ccalc :results output :session mytest :as-file
+   noconcurrency.
+
+   :- constants
+   a :: exogenousAction;
+   b :: exogenousAction;
+   q :: action;
+   c, d, e :: inertialFluent.
+
+   a causes c.
+   caused d if c.
+   b causes -d, -c.
+   caused q if d.
+   q causes e.
+   %% caused a if d.
+
+   nonexecutable a if c.
+   nonexecutable b if -c.
+
+   :- query
+   label :: 1;
+   maxstep :: 4;
+   0: a, -d, -c;
+   2: b.
+
+   #+end_src
+
+
+   #+begin_src ccalc :results output :session mytest
+   query 1.
+   #+end_src
+
+
+   #+begin_src ccalc :results output :session mytest :as-file
+   :- sorts
+    blah.
+
+    :- objects
+    h :: blah;
+    k :: blah.
+
+    :- variables
+    I :: 1..5;
+    J :: blah;
+    N :: 0..3.
+
+
+    :- constants
+    a :: inertialFluent;
+    c :: exogenousAction;
+    d :: inertialFluent.
+    %% b :: inertialFluent(blah);
+    %% d :: sdFluent;
+    %% e :: boolean;
+    %% f :: action;
+    %% g :: exogenousAction;
+    %% h :: attribute of g;
+    %% i :: additiveAction(integer).
+
+    %% default -a.
+    %% default b.
+    %% default b=h.
+    %% default a=0.
+
+    %% nonexecutable c(J) if a(J)=5.
+    c causes d.
+
+
+    :- query
+    label :: 1;
+    maxstep :: 2.
+
+   #+end_src
+
+   #+begin_src ccalc :results output :session mytest
+   query 1.
+   #+end_src
+
+   #+begin_src ccalc :results output :session mytest
+   show_rules.
+   show_clauses.
+   #+end_src
+
+** Zoo
+   [[https://www.cs.utexas.edu/users/tag/cc/examples/][Examples Source]]
+
+   Giunchiglia et al:
+   [[file:examples/monkeys.prolog][Monkeys]]
+   [[file:examples/prediction.prolog][Prediction and Postdiction]]
+   [[file:examples/defeasible_rules.prolog][Defeasible Rules]]
+   [[file:examples/turkeys.prolog][Shooting Turkey]]
+   [[file:examples/work.prolog][Going to Work]]
+   [[file:examples/lifting.prolog][Lifing The Table]]
+   [[file:examples/pendulum.prolog][Pendulum]]
+   [[file:examples/publishing.prolog][Publishing]]
+
+   Akman et al:
+   [[file:examples/zoo.prolog][Zoo]]
+   [[file:examples/zoo_landscape.prolog][Zoo Landscape]]
+   [[file:examples/animals.prolog][Zoo Animals]]
+   [[file:examples/movement.prolog][Zoo Movement]]
+   [[file:examples/actions.prolog][Zoo Actions]]
+   [[file:examples/little_zoo.prolog][Little Zoo]]
+
+   [[file:examples/traffic.prolog][Traffic]]
+
+   Lifschitz et al:
+   [[file:examples/airport-domain.prolog][Airport Domain]]
+   [[file:examples/airport-problem.prolog][Airport Problem]]
+
+   Lee and Lifschitz:
+   [[file:examples/spacecraft.prolog][Spacecraft Domain]]
+   [[file:examples/spacecraft-test.prolog][Spacecraft Example]]
+   [[file:examples/buying.prolog][Buying and Selling Domain]]
+   [[file:examples/buying-test.prolog][Buying Example]]
+   [[file:examples/mcp.prolog][Missionaries and Cannibals]]
+   [[file:examples/mcp-test.prolog][Missionaries and Cannibals Test]]
+
+   Other:
+   [[file:examples/hanoi.prolog][Hanoi]]
+   [[file:examples/bw.prolog][Blocks World Description]]
+   [[file:examples/bw-test.prolog][Blocks World Problem]]
+
+* Links
+[[https://www.cs.utexas.edu/users/tag/cc/][The Causal Calculator]]
+[[http://www.cs.utexas.edu/users/tag/mad/][MAD]]
+[[https://www.cs.utexas.edu/users/tag/cc/tutorial/toc.html][Online Tutorial]].

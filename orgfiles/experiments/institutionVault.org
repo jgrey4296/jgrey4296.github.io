@@ -1,0 +1,23 @@
+physical world : items, rooms
+
+people
+
+institutions : crime, punishment, religion, medicine, food, 
+production, wealth, storage, enforcement, admin, queueing, dancing,
+socialising, relaxation, lighting, sanitation, elevators,  {
+
+organisations : 
+
+encounters : 
+
+rules :
+
+conditions :
+
+transforms :
+
+actions :
+
+performances :
+
+}

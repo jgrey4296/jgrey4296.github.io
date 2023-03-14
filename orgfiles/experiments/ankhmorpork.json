@@ -1,0 +1,1077 @@
+[
+    {
+        "id": 0,
+        "name": "__root",
+        "relatedObjects": [],
+        "children": {
+            "3": "Ankh-Morpork"
+        },
+        "parents": {},
+        "values": {},
+        "tags": {
+            "type": "graphnode"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 3,
+        "name": "Ankh-Morpork",
+        "relatedObjects": [],
+        "children": {
+            "4": "Guilds",
+            "5": "Vetinari",
+            "6": "Wizards",
+            "7": "NightWatch",
+            "8": "Commerce",
+            "9": "Religion",
+            "31": "Currency",
+            "32": "Healthcare",
+            "35": "Lawyers"
+        },
+        "parents": {
+            "0": "__root"
+        },
+        "_originalParent": 0,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 4,
+        "name": "Guilds",
+        "relatedObjects": [],
+        "children": {
+            "10": "Assassins",
+            "11": "Cobblers",
+            "12": "Seamstresses",
+            "13": "Beggars",
+            "14": "Printing",
+            "15": "Musicians",
+            "36": "Thieves"
+        },
+        "parents": {
+            "3": "Ankh-Morpork"
+        },
+        "_originalParent": 3,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 5,
+        "name": "Vetinari",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "3": "Ankh-Morpork"
+        },
+        "_originalParent": 3,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 6,
+        "name": "Wizards",
+        "relatedObjects": [],
+        "children": {
+            "16": "Unseen",
+            "58": "faculty",
+            "59": "students",
+            "60": "policies"
+        },
+        "parents": {
+            "3": "Ankh-Morpork"
+        },
+        "_originalParent": 3,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 7,
+        "name": "NightWatch",
+        "relatedObjects": [],
+        "children": {
+            "10": "Assassins",
+            "17": "Vimes",
+            "18": "Policies",
+            "19": "Members",
+            "20": "Criminals",
+            "35": "Lawyers",
+            "36": "Thieves",
+            "44": "Transport"
+        },
+        "parents": {
+            "3": "Ankh-Morpork"
+        },
+        "_originalParent": 3,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 8,
+        "name": "Commerce",
+        "relatedObjects": [],
+        "children": {
+            "21": "Clacks",
+            "22": "Banking",
+            "23": "Tax",
+            "24": "Post Office",
+            "25": "Restaurants",
+            "26": "Artificers",
+            "50": "Accomodation"
+        },
+        "parents": {
+            "3": "Ankh-Morpork"
+        },
+        "_originalParent": 3,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 9,
+        "name": "Religion",
+        "relatedObjects": [],
+        "children": {
+            "27": "Small Gods",
+            "28": "Blind Io",
+            "29": "Offler",
+            "30": "The Lady"
+        },
+        "parents": {
+            "3": "Ankh-Morpork"
+        },
+        "_originalParent": 3,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 10,
+        "name": "Assassins",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "4": "Guilds"
+        },
+        "_originalParent": 4,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 11,
+        "name": "Cobblers",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "4": "Guilds"
+        },
+        "_originalParent": 4,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 12,
+        "name": "Seamstresses",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "4": "Guilds"
+        },
+        "_originalParent": 4,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 13,
+        "name": "Beggars",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "4": "Guilds"
+        },
+        "_originalParent": 4,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 14,
+        "name": "Printing",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "4": "Guilds"
+        },
+        "_originalParent": 4,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 15,
+        "name": "Musicians",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "4": "Guilds"
+        },
+        "_originalParent": 4,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 16,
+        "name": "Unseen University",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "6": "Wizards"
+        },
+        "_originalParent": 6,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 17,
+        "name": "Vimes",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "7": "NightWatch"
+        },
+        "_originalParent": 7,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 18,
+        "name": "Policies",
+        "relatedObjects": [],
+        "children": {
+            "37": "begging",
+            "38": "disorderly behaviour",
+            "39": "larceny",
+            "40": "murder",
+            "41": "mimes",
+            "42": "soliciting",
+            "43": "drugs"
+        },
+        "parents": {
+            "7": "NightWatch"
+        },
+        "_originalParent": 7,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 19,
+        "name": "Members",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "7": "NightWatch"
+        },
+        "_originalParent": 7,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 20,
+        "name": "Criminals",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "7": "NightWatch"
+        },
+        "_originalParent": 7,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 21,
+        "name": "Clacks",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "8": "Commerce"
+        },
+        "_originalParent": 8,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 22,
+        "name": "Banking",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "8": "Commerce"
+        },
+        "_originalParent": 8,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 23,
+        "name": "Tax",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "8": "Commerce"
+        },
+        "_originalParent": 8,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 24,
+        "name": "Post Office",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "8": "Commerce"
+        },
+        "_originalParent": 8,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 25,
+        "name": "Restaurants",
+        "relatedObjects": [],
+        "children": {
+            "55": "Dwarf Cuisine",
+            "56": "Troll Cuisine",
+            "57": "Human Cuisine"
+        },
+        "parents": {
+            "8": "Commerce"
+        },
+        "_originalParent": 8,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 26,
+        "name": "Artificers",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "8": "Commerce"
+        },
+        "_originalParent": 8,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 27,
+        "name": "Small Gods",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "9": "Religion"
+        },
+        "_originalParent": 9,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 28,
+        "name": "Blind Io",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "9": "Religion"
+        },
+        "_originalParent": 9,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 29,
+        "name": "Offler",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "9": "Religion"
+        },
+        "_originalParent": 9,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 30,
+        "name": "The Lady",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "9": "Religion"
+        },
+        "_originalParent": 9,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 31,
+        "name": "Currency",
+        "relatedObjects": [],
+        "children": {
+            "22": "Banking"
+        },
+        "parents": {
+            "3": "Ankh-Morpork"
+        },
+        "_originalParent": 3,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 32,
+        "name": "Healthcare",
+        "relatedObjects": [],
+        "children": {
+            "33": "Hospitals",
+            "34": "Doctors"
+        },
+        "parents": {
+            "3": "Ankh-Morpork"
+        },
+        "_originalParent": 3,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 33,
+        "name": "Hospitals",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "32": "Healthcare"
+        },
+        "_originalParent": 32,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 34,
+        "name": "Doctors",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "32": "Healthcare"
+        },
+        "_originalParent": 32,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 35,
+        "name": "Lawyers",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "3": "Ankh-Morpork"
+        },
+        "_originalParent": 3,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 36,
+        "name": "Thieves",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "4": "Guilds"
+        },
+        "_originalParent": 4,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 37,
+        "name": "begging",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "18": "Policies"
+        },
+        "_originalParent": 18,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 38,
+        "name": "disorderly behaviour",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "18": "Policies"
+        },
+        "_originalParent": 18,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 39,
+        "name": "larceny",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "18": "Policies"
+        },
+        "_originalParent": 18,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 40,
+        "name": "murder",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "18": "Policies"
+        },
+        "_originalParent": 18,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 41,
+        "name": "mimes",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "18": "Policies"
+        },
+        "_originalParent": 18,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 42,
+        "name": "soliciting",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "18": "Policies"
+        },
+        "_originalParent": 18,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 43,
+        "name": "drugs",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "18": "Policies"
+        },
+        "_originalParent": 18,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 44,
+        "name": "Transport",
+        "relatedObjects": [],
+        "children": {
+            "45": "Horse Buses",
+            "46": "Horse Cab",
+            "47": "Sedan Chairs",
+            "48": "Troll Taxis",
+            "49": "Livery Stables"
+        },
+        "parents": {
+            "7": "NightWatch"
+        },
+        "_originalParent": 7,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 45,
+        "name": "Horse Buses",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "44": "Transport"
+        },
+        "_originalParent": 44,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 46,
+        "name": "Horse Cab",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "44": "Transport"
+        },
+        "_originalParent": 44,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 47,
+        "name": "Sedan Chairs",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "44": "Transport"
+        },
+        "_originalParent": 44,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 48,
+        "name": "Troll Taxis",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "44": "Transport"
+        },
+        "_originalParent": 44,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 49,
+        "name": "Livery Stables",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "44": "Transport"
+        },
+        "_originalParent": 44,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 50,
+        "name": "Accomodation",
+        "relatedObjects": [],
+        "children": {
+            "51": "Boarding Hoses",
+            "52": "hotels",
+            "53": "inns",
+            "54": "taverns"
+        },
+        "parents": {
+            "8": "Commerce"
+        },
+        "_originalParent": 8,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 51,
+        "name": "Boarding Houses",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "50": "Accomodation"
+        },
+        "_originalParent": 50,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 52,
+        "name": "hotels",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "50": "Accomodation"
+        },
+        "_originalParent": 50,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 53,
+        "name": "inns",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "50": "Accomodation"
+        },
+        "_originalParent": 50,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 54,
+        "name": "taverns",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "50": "Accomodation"
+        },
+        "_originalParent": 50,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 55,
+        "name": "Dwarf Cuisine",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "25": "Restaurants"
+        },
+        "_originalParent": 25,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 56,
+        "name": "Troll Cuisine",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "25": "Restaurants"
+        },
+        "_originalParent": 25,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 57,
+        "name": "Human Cuisine",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "25": "Restaurants"
+        },
+        "_originalParent": 25,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 58,
+        "name": "faculty",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "6": "Wizards"
+        },
+        "_originalParent": 6,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 59,
+        "name": "students",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "6": "Wizards"
+        },
+        "_originalParent": 6,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    },
+    {
+        "id": 60,
+        "name": "policies",
+        "relatedObjects": [],
+        "children": {},
+        "parents": {
+            "6": "Wizards"
+        },
+        "_originalParent": 6,
+        "values": {},
+        "tags": {
+            "type": "node"
+        },
+        "annotations": {},
+        "expectedBy": {},
+        "producedBy": {}
+    }
+]

@@ -1,0 +1,12 @@
+web_pages
+from_desktop
+auto/
+old/
+to_clean/
+years/auto/
+*cron_reports/
+**/bibliography/tex
+_ignored
+*.auctex-auto/
+resources/urls/no_git
+resources/tag_timelines/

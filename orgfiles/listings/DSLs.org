@@ -1,0 +1,709 @@
+* DSLs and Logics
+** DSLs
+*** ABL                                                                       :behaviours:
+cite:anon15ABL
+
+initial_tree,
+acts, sensors
+sequential/parallel/joint behaviours
+preconditions,
+success/failure tests
+subgoals
+persistence,
+specificity
+
+*** ADICO                                                                     :rules:norms:
+cite:siddiki2019institutional
+cite:Frantz2014
+
+Attributes,
+Deontic
+Aims,
+Conditions
+Or Else
+
+*** AgentSpeak                                                                :behaviours:
+
+predicate logic + annotations for beliefs:
+busy(john)[expires(autumn)]
+
+datalog rules and plans:
+@label triggering_event : context <- body
+
+declarative goals: !achievement and ?test
+
+triggering events can be + or - beliefs, achievement or test goals
+
+*** Archipoff2016                                                             :frp:
+*** AspectJ                                                                   :aop:
+
+join points : standard points in code which can be latched on to
+pointcuts   : collections/queries of join points
+advice      : code to run around selected pointcut
+aspect      : collection of pointcuts and advice
+
+*** BDL (Gemrot2017)                                                          :FSM:behaviours:
+
+Decision point tree manipulation
+
+*** [[http://bloom-lang.net/features/][bloom]]                                                                     :concurrent:
+[[https://github.com/bloom-lang/bud/blob/master/docs/cheat.md][Bud Language Reference]]
+**** CALM: Consistency as Logical Monotonicity
+**** "Gray's Twelfth Challenge"
+DWIM : Do What I Mean
+Spec Language that:
+   1) Is Easy to express designs
+   2) Is Compilable
+   3) Can describe all applications
+
+      System should 'reason' about application:
+      Ask about exception cases
+      Ask about incomplete specification
+      Not be onerous
+
+**** Borges "A New Refutation of Time"
+"The Denial of time involves two negations: The negation of the succession
+of the terms of a series, negation of the synchronism of the terms in two
+different series"
+
+**** Disorderly programming and datastructures
+*** Bootstrapping (Konat2016)                                                 :meta:
+*** Buzz                                                                      :swarm:robotics:
+
+Dynamic Swarm management. Creation, leaving, tasks.
+Neighbour operations
+Iteration, Transformation/Filtering, Reduction
+Virtual Stigmergy - global data sharing
+
+*** C+                                                                        :logic:
+
+Actions, Fluents, InertialFluents
+
+*** Ceptre                                                                    :linear_logic:
+
+Datalog rules
+replacement semantics
+Linear Logic: conjoin predicates with *,
+replace with -o
+! indicates permanent state
+
+predicates can be resources. ie: multiple of the same predicate has meaning.
+(think resources in cultist simulator)
+
+uniform non-determinism.
+
+has stages of rule groups.
+
+*** ChucK                                                                     :time:music:
+Requirements for First Class Time (see Lee):
+   1) ability to express timing constraints
+   2) timed communication
+   3) enforcement of timing constraints
+   4) tolerance of violations and constraints
+   5) maintaining consistency in real time distributed systems
+   6) static timing verification
+
+      chuck operator =>
+      signal flow
+      controllable time progression
+
+      time and duration types.
+
+*** CLIPS                                                                     :rules:
+
+Standard Rule language with agendas.
+
+*** Converge (tratt2007evolving)                                              :embedding:
+
+DSL embedding with compile-time macros,
+ability to turn off variable hygiene
+
+*** COOL                                                                      :MAS:coordination:
+*** ELMS                                                                      :environment:MAS:
+*** Erlang                                                                    :FSM:concurrent:
+*** Exclusion Logic                                                           :exclusion:FSM:
+*** Grammar Zoo (Zaytsev2015)                                                 :review:
+*** Guidelines (Karsai2014)                                                   :guidelines:
+*** HLBL                                                                      :behaviours:
+*** Hyper                                                                     :types:
+*** Input/Ouput Logic                                                         :layers:
+*** InstAL                                                                    :logic:
+*** Language Workbench comparison (Erdweg2013)                                :meta:
+*** LARA                                                                      :aop:
+*** Petricek2017a                                                             :dot:context:
+*** POAPS (lin2016)                                                           :MDP:
+*** PROB (gordon2014probabilistic)                                            :probability:
+*** Rascal                                                                    :lisp:meta:
+*** Reo                                                                       :time:concurrent:
+*** SIMPLE                                                                    :protocol:
+*** Siren                                                                     :pattern:time:music:
+*** SOAR                                                                      :chunking:
+*** Stan                                                                      :probability:
+*** Tidal                                                                     :pattern:time:music:
+*** Tracery                                                                   :text:
+** Logics
+*** Abductive Logic
+*** Acceptance Logic
+*** Action Logic
+*** Adaptive Deontic Logic
+*** Adaptive Logic
+*** Agent Organization Logic
+*** Alternating Temporal Logic
+*** BDI STIT Logic
+*** Branching Time Logic
+*** CHBDO Logic
+*** Coalition Logic
+*** Combinatory Logic
+*** Computational Logic
+*** Connective Action Logic
+*** Context Logic
+*** CTL*
+Emerson and Halpern
+*** Cultural Logic
+*** Defeasible Logic
+**** [[http://defeasible.org/][Defeasible Logic]]
+*** Delegation Logic
+*** Deontic Logic
+*** Dependence Logic
+*** Description Logic
+*** Dialogue Logic
+*** Economic Logic
+*** Emerging Logic
+*** Epistemic Logic
+*** Exclusion Logic
+*** Failure Logic
+*** Fuzzy Logic
+*** General Awareness Logic
+*** Herbrand Logic
+*** Hybrid Logic
+*** Ignorance Logic
+*** Imperative Logic
+*** Inductive Logic
+*** Institutional Logic
+*** Interaction Logic
+*** Intuitionistic Logic
+*** IO Logic
+*** Linear Logic
+*** Linear Temporal Logic
+*** Logic for Contract Representation
+see [[*OperA][OperA]]
+
+CTL* -> Deontic -> Stit
+
+
+:CTL_Operators:
+A (Always in the future)
+S (Since)
+X (In the next state, on all paths)
+U (Until)
+<= (before)
+E (stit) ie: Eₐφ
+:END:
+
+Branching Time Structure:
+W : a set of worlds
+R ⊆ W x W : Successor relation on states.
+
+Controllable propositions:
+Cₐ : Controllable propositions for agent a.
+C*ₐ: Uncontrollable propositions for agent a.
+
+Deontics:
+Obligations,
+Violations
+
+*** Mathematical Logic
+*** Modal Logic
+*** Neighbourhood Logic
+*** Normative Logic
+*** Operational Logic
+*** Order Sorted Logic
+*** Ordered Choice Logic
+*** Procedural Logic
+*** Propositional Dynamic Logic
+*** Rational Agency Logic
+*** Social Logic
+*** Spatial Logic
+*** STIT Logic
+*** Temporal Logic
+*** Tool Logic
+** Calculi
+*** Coeffect Calculus
+*** Concurrent Layer Calculus
+*** Event Calculus
+*** Object Calculus
+*** Record Calculus
+*** Sequent Calculus
+*** Situation Calculus
+*** λ Calculus
+*** π Calculus
+*** ρ Calculus
+** Frameworks
+*** 2APL
+*** 2OPL
+*** 3APL
+*** ACT-IF
+*** ADICO
+*** ADICO
+*** AGRE
+*** ANTLR
+*** BDI
+*** BOD
+*** BOID
+*** BORG
+*** C Plus
+*** CADIA Populus
+*** CArtAgO
+*** CBR
+*** DESIRE
+Brazier 1997
+*** DETT
+*** DReAM
+*** FAtiMA
+*** FFIPS
+*** FIPA
+*** FSM
+*** GAIA
+Wooldridge 2000
+*** garbage can model
+*** HTN
+*** IAD
+*** KQML
+*** L.I.A.R
+*** MAPL
+*** Markov Models
+*** MASSIVE
+Lind 2001
+*** MHP
+*** MOISE
+cite:Hubner2002 (see for good diagram, page 2)
+    
+Multiple specifications:
+1) Organizational Structure
+2) Functional Structure
+   - Missions and plans
+   - Uses a social scheme / goal decomposition tree
+     -
+3) Deontic Structure
+   - Permissions
+   - Obligations
+   - Prohibitions
+4) Structural Specification
+   - Individual level roles
+   - Social level links
+   - Collective level compatibility constraints
+*** MONAD
+*** Netlogo
+*** OperA
+
+"An Opera model can be thought of as a kind of abstract protocol that
+governs how member agents should act according to social requirements."
+
+[[*Logic for Contract Representation][Logic for Contract Representation]]
+
+Distinguishes between mechanisms describing structure and global behaviour,
+and mechanisms for aims and behaviour of agents.
+
+
+Three main models:
+1) (OM) Organizational model
+   - (SS) Social Structure (Objectives, roles, coordination model)
+   - (IS) Interaction Structure (interaction moments, scripts, tasks, partial ordering of scene scripts)
+   - (NS) Normative Structure (role and interaction norms)
+   - (CS) Communicative Structure (domain and communication ontologies)
+2) (SM) Social model
+   - Social Contracts
+   - (REA) Role-Enacting Agent definitions
+3) (IM) Interaction model
+   - Concrete interaction scenes
+   - Dynamic instantiation
+
+
+
+Transitions:
+1) All Targets
+2) Some Targets
+3) One target
+4) New target
+5) All Sources
+6) Some Sources
+7) One Source
+
+   cite:Dignum2004 page 101 defines compatibility and consistency
+   page 111 has a model overview of Opera.
+
+   cite:Dignum2004 page 99:
+   |             | Role            | Role                  | Role              |
+   |             | Objectives      | Sub-Objectives        | Norms             |
+   |-------------+-----------------+-----------------------+-------------------|
+   | Agent Goals | obj < goals     | sub-obj support goals | norms limit goals |
+   |             | obj!            | sub-obj improve goals | norms add goals   |
+   |             | goals > obj     | sub-obj limit goals   |                   |
+   |             | goals!          |                       |                   |
+   |-------------+-----------------+-----------------------+-------------------|
+   | Agent Plans | plans help objs | sub-obj > plans       | norms alter plans |
+   |             |                 | sub-objs!             |                   |
+   |             |                 | plans > sub-obj       |                   |
+   |             |                 | plans!               |                   |
+
+   cite:Dignum2004 page 153 : contract lifecycle
+   Discovery -> Negotiation -> Execution -> Executed -> Fulfilled
+   -> Failure     -> Failure   -> Cancelled-> Rejected
+
+   cite:Dignum2004 page 162 : syntax of OperA
+
+   cite:Dignum2004 page 198 has *interaction* structures.
+*** ORA4MAS
+*** PDDL
+*** Petri Nets
+*** PIM
+*** Prometheus
+cite:padgham2002prometheus,padgham2005tool,abushark2016requirements,ionita2016using
+
+Three phase design methodology:
+1) System specification phase
+   - Focus on identifying basic functionality
+   - Inputs / Outputs
+   - shared data sources
+2) Architectural design phase
+   - Determine agents and interactions
+3) Detailed design phase
+   - Agent internals
+
+*** QUEST
+*** ROADMAP
+*** SCIFF
+*** Scythe
+*** SODA
+Omicini 2001
+*** STRIPS
+*** TOGA
+*** Tracery
+*** UML
+*** VIATRA
+** Systems
+*** AARON
+*** ACME
+*** ACT-R
+*** AESOP
+*** AKIRA
+*** ALEC
+*** ALLIANCE
+*** AMELI
+*** ATOMate
+*** AUDIOGRAPH
+*** BACON
+*** Bad News
+*** BEHAVEngine
+*** BRIDGE
+*** BUILD IT
+*** CCalc
+*** Ceptre
+*** CHARMS
+*** CHARON
+*** Chimeria
+*** CiF
+*** CLARION
+*** Click2Tag
+*** CLIPS
+*** CopyCat
+*** CRYSTAL ISLAND
+*** DEMAIS
+*** ELIZE
+*** EMIL
+*** EMPath
+*** Expressionist
+*** Fabulist
+*** Facade
+*** Fast Forward
+*** FearNot
+*** GAMUT
+*** Gemini
+*** GESTER
+*** GrACE
+*** GrailGM
+*** GRIOT
+*** HARMONIA
+
+Electronic organizations with four levels of abstraction:
+1) Abstract level
+   - Statues defined in high level
+   - abstract norms
+2) Concrete level
+   - Iterative concretization of abstract norms
+   - policies defined
+3) Rule level
+   - link norms and policies with means of ensuring them
+4) Procedure level
+   - all rules and policies implemented for agents
+*** Hennepin
+*** Ikon Flux
+*** IMMERSE
+*** INGENIAS
+*** InstAL
+*** ISLANDER
+*** Islanders
+*** JASON
+*** JESS
+*** LIDA
+*** LINUS
+*** MACSYMA
+*** MAIA
+*** MaNEA
+*** MAPSIM
+*** MASELTOV
+*** MetaPRL
+*** MINSTREL
+*** MULTIS
+*** MYCIN
+*** NAMS
+*** NARS
+*** NATYASASTRA
+*** NERO
+*** OBELIX
+*** ORIENT
+*** OSCAR
+*** PARAGon
+*** PaSSAGE
+*** PDT
+*** PECS
+*** PLASMA
+*** Prolog
+*** PRS
+*** RASCAL
+*** RECALL
+*** SAGE
+*** SCHEHERAZADE
+*** Sheldon County
+*** SHRDLU
+*** SOAR
+*** SQUEGE
+*** SugarScape
+*** TABASCO
+*** TACT
+*** Tale-Spin
+*** Talk of the Town
+*** Tanagra
+*** Tidal
+*** TLTS
+*** TOAST
+*** TRIPS
+*** TropICAL
+*** TROPOS
+*** Twig
+*** Versu
+*** Villanelle
+*** [[http://alumni.media.mit.edu/~kris/ymir.html][YMIR]]
+** Methods
+*** ABM
+*** Activity theory
+*** AOP
+*** BOD
+:citations:
+cite:Bryson2001
+:END:
+*** Case study theory development
+:citations:
+cite:George2002
+:END:
+
+*** Computational Social Science
+:citations:
+cite:Epstein1999,Conte2012,Bharathy2010,epstein1996growing,meyer2009,Axelrod2005,hamill2010agent,Helbing2011
+:END:
+*** Economics
+:citations:
+cite:Varian2009
+:END:
+*** Empirical Methods For AI notes
+:citations:
+cite:cohen1995empirical
+:END:
+
+*** Ethnography
+*** Formal Methods
+:citations:
+cite:Sun,agotnes_et_al:DR:2014:4797
+:END:
+*** Game Analysis
+:citations:
+cite:Aarseth2003,boellstorff2012ethnography
+:END:
+*** Generative Methods
+:citations:
+cite:Compton
+:END:
+
+*** GOMS
+*** GORMAS
+*** Grounded Theory
+:citations:
+cite:Corbin1990,Strauss1998,Charmaz2006,bryant2007sage,Charmaz2009,furniss2011confessions,Jr2013,Mordatch2017,Flick2009,Whittle2010
+:END:
+*** Hypothesis testing for complex agents
+:citations:
+cite:JoannaJ.
+:END:
+*** Literate Programming
+*** Live Coding
+:citations:
+cite:Sorenson2007,McLean2014
+:END:
+*** MAS
+**** MOISE
+**** PRESAGE
+**** ODD
+**** Prometheus
+
+*** MaSE
+*** MCDM
+:citations:
+cite:Zavadskas2014,Mabin2006,Hwang1979,Triantaphyllou1998,Figueria2005,Scirea2017
+:END:
+*** MCRDR
+*** MDE
+*** MODM
+*** Norm Analysis Method
+Stamper 1988, Salter and Liu 2002
+see page 193 cite:Dignum2004
+
+Involves:
+Responsibility Analysis
+Resource Analysis
+Trigger Analysis
+Norm Specification
+Sanction
+
+*** ODD
+*** Ostrom
+:citations:
+cite:Ostrom
+:END:
+
+*** Phenomenology
+:citations:
+cite:rubin1998phenomenology,Worthington2009,Mallon2005,Duffy2011,Breakwell2008,Agre1997a
+:END:
+*** Questions Options Criteria
+*** Sociologically Inspired Computing
+:citations:
+From cite:Macbeth2014
+Using cite:Jones2013
+and cite:Steels1995
+cite:Dautenhahn2005a
+:END:
+
+** TODO Authoring Tools
+1988 goodman88_compl_hyper_handb
+1999 sparks99_leap_author_tool
+2011 fischer11_evil
+2014 olsen14_author_tools_collab_intel_tutor_system_envir
+2015 murray15_coord_compl_tools_tasks_users
+2016 murray16_coord_compl_tools_tasks_users
+2016 poulakos16_evaluat_acces_graph_inter_build_story_world
+2016 ryan16_expres
+2017 crawford17_user_manual_encoun_editor
+2017 dermeval17_author_tools_desig_intel_tutor_system
+2018 green18_novel
+2018 stefnisson18_mimis
+2018 szilas18_tool_inter_visual_narrat_acts
+2019 garbe19_story
+2019 mason19_lume
+2019 short19_proced_story_game_desig
+2019 stephanie19_usabil_polic_author_tools
+2020 angele20_derool
+
+** TODO Tools
+1969 fuller69_operat
+1970 drucker11_techn_manag_societ
+2005 jenkins05_games_new_livel_art
+2005 padgham05_tool_promet
+2005 stoytchev05_behav
+2005 vazquez-salceda05_from_human_regul_to_regul
+2005 verbeek05_what
+2006 balasubramanian06
+2006 bloehdorn06_tagfs_tag_seman_hierar_file_system
+2006 brom06_posh_tools_game_agent_devel
+2006 chase06_model_user_inter_gramm_based_desig_system
+2006 jeffrey06_emerg_mis_behav_vs_compl_softw_system
+2006 rihoux06_innov
+2007 scheinfeld07_tattoos_relig
+2007 sierra07_desig_instit_multi_agent_system
+2008 bernstein08_infor_scrap
+2008 cia08_simpl_sabot_field_manual
+2008 kelly08_domain
+2008 levisohn08_beatb
+2008 padgham08_promet
+2009 mateas09_ai
+2009 nelson09_requir_analy_videog_desig_suppor_tools
+2009 nikolai09_tools_trade
+2009 perry09_david_perry
+2009 smith09_sprin
+2009 tsandilas09_mus
+2010 carlos10_comput_tools_applied_to_urban_engin
+2010 steenberg10_quel_solaar
+2010 wilson10_from_keywor_searc_to_explor
+2011 eladhari11_ai_based_game_desig
+2011 kleek11_finder
+2011 mooney11_framew_affor
+2011 motta11
+2011 ostrom11_craft_analy_tools_to_study_instit_chang
+2011 prinke11_psych_archit_choic_driven_narrat_games
+2011 vasudevan11_compar_study_dsl_tools
+2012 smith12_mechan_explor_game_desig
+2013 aylett13_intel_virtual_agent
+2013 borghi13
+2013 christoulakis13_eshad
+2013 dormans13_combin_explor_creat_proced_conten_gener
+2013 dragert13_scyth_ai
+2013 erdweg13
+2013 gemrot13_does_high_level_behav_specif
+2013 koenitz13_inter_story
+2013 liapis13_sentien_sketc
+2013 llanso13_tool_iterat_learn_compon_softw_archit_games
+2013 massip-bonet13_compl_persp_languag_commun_societ
+2013 nelson13_writin_versu
+2013 ronfard13_prose_story_languag
+2013 troquard13_simpl_logic_tool_manip_exten_abstr
+2014 kroes14
+2014 liapis14_chapt_mixed_initiat_conten_creat
+2014 mackerrow14
+2015 basten15_modul_languag_implem_rascal_exper_repor
+2015 freitas15
+2015 martens15_progr_inter_world_linear_logic
+2015 rorbech15_modul_sandb_desig
+2016 chiş16_moldab
+2016 kott16_decis_aids_adver_plann_milit_operat
+2016 murray16_coord_compl_tools_tasks_users
+2016 padget16_instal
+2016 prescott16_aisb_sympos_princ_robot
+2017 alexander17_deriv_quest_from_open_world_mechan
+2017 bicchieri17_norms_wild
+2017 bryson17_aisb
+2017 cassar17_eaop
+2017 crawford17_user_manual_encoun_editor
+2017 dunford17_digit_story
+2017 kalu17_agend_afric
+2017 koenitz17_three
+2017 llobera17_tool_to_desig_inter_charac
+2017 pinto17_lara
+2017 rein17_livin
+2017 short17_proced_gener_game_desig
+2018 gaudl18_agile_behav_desig
+2018 gaudl18_posh_sharp
+2018 green18_contem
+2018 isin18_bount_empir
+2018 jezic18_agent_multi_agent_system
+2018 kitromili18_how_do_writin_tools_shape_inter_stories
+2018 kuckartz18_analy_qualit_data_maxqd
+2018 martens18_villan
+2018 orangotango+18_this
+2018 publio18_shark
+2019 19_ai_based_digit_assis
+2019 card19_ceptr_editor
+2019 compton19_casual_creat
+2019 hamalainen19_api_first_desig_moder_tools
+2019 oldenburg19_fixed_it_for_you
+2019 qu19_explor_desig_memor_impair_depres
+2019 tonder19_light
+2019 ubisoft19_assas_creed_odyss

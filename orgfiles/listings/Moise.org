@@ -1,0 +1,306 @@
+* MOISE Notes
+** MAP-EASSS10.pdf notes
+*** *Moise*
+    Tag based language
+    OMI has dedicated organisational artifacts and agents.
+
+    Environment
+    Structural Specification (Groups, links, roles, compatibilities, inheritance)
+    Behaviours (Env/Org_spec/Func_spec/global constraints) + Normative Spec
+    Functional Specification (Goals, plans, missions, schemas, preferences)
+
+
+    Specifies structure along three levels:
+    1) Individual with Role
+    2) Social with Link
+    3) Collective with Group
+
+**** Role Specification
+     Id, inheritance
+
+**** Group Sepcification
+     Id, Roles + cardinality, links, subgroups + cardinality, formation constraints
+
+**** Link Specification
+     From/To Roles,
+     Type (authority, communication, acquaintance)
+     Scope (inter, intra)     *IMPORTANT*
+     validity (extends-sub-group)
+
+**** Formation Constraint Specification
+     Compatibility: from/to, scope, extends, bi-directional
+
+**** Functional Specification
+     Collective: Scheme
+     Individual: Mission
+
+     Goals (id, type: Achievement/maintenance, min_agents, plan). States:
+     waiting, ready, satisfied, impossible. Scheme (id, goal, missions)
+     Missions (id, cardinality, goals)
+
+**** Norm Specification
+     Norm (id, type: obligation/permission, conditions, role, mission,
+     time_constraint)
+
+**** Org Dynamics
+     Creation,
+     Agent adoption of roles
+     Group responsibility for schemes
+     Agents commit to missions
+     Agents fulfil goals
+     Agent leave schemes and groups
+     Scehems and group instances are destroyed
+
+**** Normative PRogramming Langauge (NPL: Hubner 2010)
+     Activation condition, consequence (regimentation/obligation)
+     Norm life cycle: start -> Active -> [fulfilled, unfulfilled,inactive] -> end
+     Has Count-as Rules (input)  and Enact Rules (output).
+**** Soccer Team Example
+     As EL:?
+     .soc.coach
+     .soc.player.[back, left, right, attacker, goalkeeper]
+
+     #all leaves: ..*, all children: .*
+     x <- .soc.player..*
+     #rest operator
+     .soc.team.[..x]
+     #then spread. bidirectal op.
+     x.links.coach <-> .soc.coach.links.x..
+
+     .soc.player.[leader, middle, attacker].group.attack
+     .soc.player.[leader, back, goalkeeper].group.defense
+
+     .people.dida.role.(.soc.player.goalkeeper)
+     .people.lucio.role.(.soc.player.back)
+     .people.juan.role.(.soc.player.back)
+     .people.cafu.role.(.soc.player.leader)
+
+*** AOSE: Agent-Oriented Software Development Methodology
+    Requirement -> Analysis -> Design -> Implementation -> Test
+    Abstractions:
+    1) Individual Agent Level
+       a) Cognitive concepts: BDI
+       b) Deliberation and decision: Sense/Reason/Act etc
+    2) Multi-Agent Level: Social and ORganizational Structures
+       1) Roles: Functionalities, activities, and responsibilities
+       2) Organizational Rules: Norms, Deadlines, Obligations
+       3) Organizational Structures: Topology of interaction patterns
+    3) Environment: Resources and Services that MAS can access and control
+
+    Agent Oriented Programming Proposed by *Shoham 1993*.
+    Separation of Concerns: Agents/Organisations/Enivronment
+    *Not a Mature Paradigm*
+*** The State of Multi-Agent Programming
+    Right way is to use an AOSE Methodology (Prometheus, Gaia)
+    *Shortfalls*: ides and debugging are not mature,
+    debugging more than 'mind tracing' is needed.
+    Combination with organisational models is only recent.
+    Declarative goals are not standard.
+    Large applications are lacking.
+
+    *Trends*: Modularity, Debugging, Logics,
+    Need to put everything together: Rational agents, environments,
+    organisations, normative systems, reputation system, economically inspired techniques.
+
+*** Json / AgentSpeak
+    *Rao 1996*
+    BDI language
+
+    Main Constructs: Beliefs, Goals, Plans, Events, Intentions
+    Architectural Components: Belief Base, Event Set, Plan Library, Intention Set
+
+    Interpreter Cycle: Perceive, update belief base, process messages, select event, select relevant plans,
+    select applicable plans, create/update intention, select intention to execute
+**** AgentSpeak Syntax
+     Annotated First order Logic
+     eg: red(box1)[source(percept)]
+     Percepts are updated automatically.
+
+     + and - can add and remove beliefs.
+     eg: +liar(alice)
+
+     can Tell other agents information:
+     eg: .send(tom,tell,liar(alice))
+
+     Goals:
+     Achievement Goals. things to do.
+     eg: !friends(bob,bill)
+
+     Test Goals, things to know.
+     eg: ?friendsOf(bob)
+
+     Goals are annotated with source(self), or the source of the agent who initiated the goals.
+     eg: bob.send(tom, achieve, write(book)) -> !write(book)[source(bob)]
+     eg: bob.send(tom,askOne,published(P), Answer) -> ?publisher(P)[source(bob)]
+
+     Events trigger plans, possible events being:
+     +b, -b, +!g, -!g, +?g, -?g
+
+     Plans look like:
+     triggering_event : context <- body
+
+     Plans can be initially defined, dynamically added by plans,
+     or told and untold by other agents.
+
+     Dynamically asking for plans:
+     -!G[error(no_relevant)] : teacher(T)
+     <- .send(T, askHow, { +!G }, Plans);
+     .add_plan(Plans);
+     !G.
+
+     Agents can perform internal actions, that do not change the environment.
+**** Related Projects
+     Speech act communication - Renata Vieria
+     Cooperative plan exchange - Viviana Mascardi
+     Plan Patterns - M. Wooldridge
+     Planning - Felipe Meneguzzi
+     Belief Revision - Natasha Alechina
+     Ontological Reasoning - Renata Vieira
+     JASDL - Tom Klapiscak
+     Goal-Plan Tree Problem - Thangarajah
+     Trust Reasoning (ForTrust project)
+     Agent Verification and model checking - M. Fisher
+
+     Normative Environments - A.C. Rocha Costa
+     MADeM - Francisco Grimaldo Moreno
+     Normative Integration - Felipe Meneguzzi
+     Cartago
+     Moise+
+
+*** Environment Oriented Programming
+    Structuring. Physical / communication / social
+    Embed resources / services
+    Encapsulate state / processes
+    Ruling and governing functions
+
+    Existing frameworks:
+    AGRE / AGREEN / MASQ
+
+    GOLEM
+
+    A&A, CArtAgO.
+
+    Simple taxonomy:
+    Individual/personal artifacts - functionality for single agent use
+    Social Artifacts - functionality for managing interactions / coordination
+    Boundary artifacts - external resources
+
+    Link interfaces
+
+*** Organisation Oriented Programming
+    Gasser, Malone, Bernoux, Morin.
+
+    Organisations are *supra-individual* phenomena.
+    Definition is by the designer/actors to achieve a purpose.
+    Have a pattern of predefined cooperation
+    Have a pattern of emergent cooperation.
+
+    Bernoux: Org characterised by:
+    1) Division of tasks,
+    2) Distribution of roles,
+    3) Authority systems
+    4) Communication systems
+    5) contribution-retribution systems
+
+    Distinction between organisation entity and organisation specification.
+    *Entity*: institution, social relations, commitments. Emergent and potential cooperation.
+    Local representations of agent mental states.
+
+    *Specification*: Predefined cooperation, structure, norms.
+    Partially/totally accessable.
+
+
+    Org as a *first class entity*
+    Distinction between org, agents, environment.
+
+**** Organisation Modelling Language
+     Declarative specification
+     Constraints, norms, cooperation patterns.
+     Specific anchors for situating orgs within environment
+     Examples:
+     AGR, TeamCore, Islander, Moise+.
+
+     Org Management Infrastructure:
+     Coordination mechanisms: MadKit, Karma
+     Regulation Mechanisms: Ameli, S-Mois+, ORA4MAS
+     Agent Integration Mechanisms: enter/exit/mod org, obedience/violation of norms, sanctions/rewards
+     Environment Integration Mechanisms: transformation/ org acting on environment. Env as org (count-as rules).
+
+     An Organisation helps agents cooperate by defining common cooperation schemes.
+     Tasks, protocols, groups, responsibilities.
+
+     Embedding norms within org constrains agents behaviour towards global purposes of the org.
+
+     AGR: Ferber and Gutknecht. Agent, Group, Role.
+     Structural Specification + Behaviour
+     Subsets of Behaviour:
+     1) Behaviours that lead to global purpose,
+     2) Behaviours constrained by environment
+     3) Behaviours structurally constrained by org
+
+     STEAM:
+     adds Functional specification and:
+     4a) Behaviours functionally constrained by org
+
+     ISLANDER:
+     Replaces functional spec with dialogical spec
+     4b) Behaviours possible/permitted/obliged interactionally
+
+**** 2OPL
+     Agents - Org.
+     Agents perform external actions,
+     Org Monitors norm transgressions, enforces sanctions, and regiments to prevent critical failure states.
+
+     Brute facts.
+     Effects of actions.
+     Norm / counts-as rules.
+     Sanction rules.
+
+*** Conclusion
+    Agents + Orgs + Environments + Interactions.
+    AOP, EP, OOP as orthogonal dimensions.
+    Beyond Orthogonality: *Synergetic Integration*
+
+    Ricci (2009): Externalization - (Seems similar to smart objects in the Sims)
+
+*** Examples
+
+**** Prometheus
+     Having Layers of System Specification, Architectural Design, and Detailed Design.
+
+**** Gaia
+     Requirements -> Analysis -> Architectural Design -> Detailed Design
+     Has initial Subdivisions of system into sub-organisations, flowing into
+     role models and interaction models, eventually into agent and service models.
+
+**** PRS (Georgeff, Lansky)
+
+** Thoughts
+   Repeated mentions of debugging being hard, and mind-traces not being enough.
+   What *is* needed to debug complex agent organisations?
+   Knowledge of:
+   1) External Environment state,
+   2) External Agent State
+   3) Internal Agent State (*Mind Traces Here*)
+   4) Identified problematic behaviour
+   5) Action / Action Sequence that is problematic
+   6) Causes of that Action Sequence
+   7) Related orgaizations / institutions to that sequence
+   8) Organizational structure
+   9) Relevant Norms, and their support (Norms assessed in a way similar to SVMs?)
+   10) Agent's location in organization
+   11) Agent's that specified the rule / goal
+** Moise notes from shell
+*** Organisational Spec
+    Description of components
+
+    Structural Spec - Roles, components etc
+    Deontic/Normative Spec - link roles to permissions/obligations,
+    Functional Spec - Action/Activity descriptions
+    Environment Spec - Physical interface
+
+    Translation of roles -> actions as intersection of sets based on permission, environment etc
+*** Organisation Entity
+    Instantiation of Spec.
+    Map Agents -> Roles
+    Track Agents -> Roles -> Activities

@@ -1,0 +1,34 @@
+* Cairo Pipeline
+** [[~/github/cairoCity][Cairo City Generator]]                                                         :cairo:graphical:image:generative:front_end:layers:city:python:
+*** DONE [#A] integrate with cairo_pipeline
+    CLOSED: [2019-02-10 Sun 13:16]
+*** TODO line -> street and space algorithm
+*** Alt: Moving Square filling
+*** TODO Return to [[file:~/github/cairoCity/citygen/City.py::class_City:][<Cairo City>]]
+*** City operators
+**** road
+**** building
+**** selection
+**** flow
+**** destroy
+**** deadend
+**** crossing
+**** clone
+**** bisect
+**** bezier river
+**** align
+**** heightmap
+**** intersection
+**** length
+**** merge
+**** move
+**** plant
+**** point
+**** rotate
+**** space
+**** wall
+**** water fill
+**** width
+**** zone completion
+** [[~/github/cairo_pipeline][Cairo Pipeline Architecture]]                                                  :cairo:graphical:active:layers:python:
+** [[~/github/cairo_utils][Cairo Utilities]]                                                              :graphical:active:dcel:voronoi:cairo:library:tool:

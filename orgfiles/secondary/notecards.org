@@ -1,0 +1,431 @@
+* TODO Note Cards
+** Papers
+   Scott, 85: "Weapons of the weak: Everyday forms of peasant resistance"
+** Games                                                              :games:
+*** Spore                                               :existingMedia:games:
+    Had pathways for tribes/societies but the variation was minimal.
+
+
+*** Democracy 3                                         :existingMedia:games:
+
+    Graph of:
+    1) Voter demographic nodes. *sinks*
+    2) Description Nodes (eg: GDP, literacy)
+    3) Policy nodes *sources*
+
+    Only policy nodes can be directly changed.
+
+
+**** Components
+     Voter Demographics
+     Public services
+     Law and order
+     Transportation
+     Foreign Policy
+     Welfare
+     Economy
+     Tax
+
+
+*** Pokemon                                             :games:existingMedia:
+
+** Books                                                              :books:
+*** Graeber                                                                     :economics:
+****  Debt                                   :constitutiveRules:norms:moiety:
+
+     Three functions of money:
+     1) Medium of Exchange
+     2) Unit of Account Example: p39 - Sumerian Temple Economy,
+        shekels and minas as a means to keep track of resources.
+     3) Store of Value
+
+     Pact of Umar - 720AD
+
+     'Dimis' acknowledge subservience to muslims.
+     Essentially religion based Jim Crow?
+
+     P36: Constitutive Rules.
+     Some way to establish X is equivalent to Y.
+     Gift economies have series of ranked categories.
+
+     Arab contexts:
+     You priase an item,
+     Person should offer it.
+     Or Person claims it was a gift.
+
+     Seneca Longhouse item acuisition.
+     Mention want to wift -> gets from storehouse -> makes
+     No Barter.
+
+     Gunwinggu. Moeity systems vs incestual/genetic.
+     Gunwinggu damalag ceremonial barter and copulation.
+
+     Middle eastern emphasis on Salt as measure of friendship.
+     Tale of the thief who tasts the salt of the man he is stealing from.
+
+     Dwarf fortress - isn't a barter economy, does have coinage, does
+     use if for inter-fortress trade.
+
+*** Fligstein                                                                   :institutions:
+    Institutional Entrepreneurs. p7.
+
+    "We likewise see the notions of culture that inform current work
+    in these subfields as generally impoverished"
+
+    "The problem is that these elements - collective action, social
+    space, culture, organization, the state, and mobilization - which
+    are present in all these literatures, have not been integrated
+    into any systematic theory in any of the subfields".
+
+    "Much of sociology posits that people are enmeshed in social
+    structures that are out of their control and operating at a level
+    that is above or outside of them".
+
+    "Everytime we go to work, for instance, we reproduce the part we
+    play in the system of labour relations."
+
+    "All are focused on the
+    emergence, stabilization/institutionalization, and transformation
+    of socially constructed arenas in which embedded actors compete
+    for material and status rewards."
+
+    Related Fields:
+    1) Social movement studies
+    2) organizational theory
+    3) economic sociology
+    4) historical institutionalism in political science
+
+    "All concerned with how organizations can control and effect change in their environments".
+
+    "Concern with stability and change in field level dynamics is
+    central to the work of a number of theorists".
+
+    Bordieu and Wacquant, 92 - invitation to reflexive sociology
+    Dimaggio and Powel, 83 - The iron cage revisited
+    Fligstein, 96, 01 - Markets as Politics
+    Martin, 03 - what is field theory?
+    Scott and Meyer, 83 - The organisation of societal sectors.
+
+    The core elements of institutions:
+    1) strategic action fields
+       2) incumbents, challengers, and governance units
+       3) social skill, and existential functions of the social
+       4) the broader field environment
+       5) exogenous shocks, mobilization and onset of contention
+       6) episodes of contention
+       7) settlement
+
+*** Bill Bryson                                                                 :norms:examples:
+
+    "The rest was just centuries and centuries of people quietly going
+    about their daily business - eating, sleeping, having sex,
+    endeavoring to be amused - and it occurred to me... that's really
+    what history mostly is: masses of people doing ordinary things."
+
+    "Henry Cole, whose other principle claim to history's attention is
+    as the inventor of the christmas card (as a way of encouraging
+    people to use the new penny post)"
+
+    The window tax and the glass tax "sufficiently punishing that
+    people really did avoid putting windows in buildings where they
+    could".
+    "Meant that many servants... were condemned to live in airless rooms".
+
+    Bulls eye window panes. Flawed, escaped the glass tax, and so became popular.
+
+    17,621 Anglican Clergymen in 1851.
+    Default career move along with joining the military.
+    Two types: Rectors and Vicars.
+    Different income sources: Great v small tithes.
+    Ordination required a degree, not piety.
+    "The effect was to create a class of well educated, wealthy people who had immense amounts of time".
+
+    Clergy Examples:
+    George Bayldon - Authoring in Linguistics
+    Lawrence Stern - Author
+    Edmund Cartwright - Invented the power loom.
+    Jack Russell - Dog Breeder
+    William Buckland - Authority on Coprolites
+    Robert Malthus - Political Economist
+    William Greenwell - Angler.
+    Octavius Picard-Cambridge - Authority on Spiders
+    William Shepard - History of dirty Jokes
+    John Clayton - Gas Lighting
+    George Garrett - invented the submarine
+    Adam Buddle - Botanist
+    Robert Hawker - Poet, opium, wore a pink fez.
+    Thomas Bayes - Mathematician.
+
+    Robert Marsham - inventor of phenology. The science of the
+    relation between climate and periodic biological events.
+
+    See *Bourdieu* and appropriate clergy behaviour.
+    Census records of church attendance.
+
+    "In twelve years, eight railway termini opened in London. The
+    scale of disruption - the trenches, tunnels, muddy excavations,
+    congestion of wagons, the smoke, the din, the clutter.  Meant that
+    Victorian London was... the nastiest, foulest, muddiest, busiest,
+    most choked and dug over place the world had ever seen."
+
+    "Elias Howe's sewing machine dazzled the ladies and held out the
+    impossible promise that one of the great druge pastimes of
+    domestic life could actually be made exciting and fun".
+
+    "The most popular feature at the great exhibition was not an
+    exhibition at all, but rather the elegant 'retiring rooms'"
+
+    "At the British Museum, up to 30,000 daily visitors had to share just two outside privies".
+
+    "The Great Exhibition offered a social breakthrough... for it was
+    the first time that people of all classes were brought together
+    and allowed to mingle in intimate proximity."
+
+    Rotten Boroughs - p24.
+
+    p24-25
+    The influence of undiagnosed illness (syphilitic dementia) and
+    weather ("an untimely downpour made retiring to a pub seem more
+    attractive") on potential revolution.
+
+    The Great Exhibition and low amount of crime
+    vs
+    Hyde Park and High amount of crime
+
+    "It is perhaps slightly surprising to reflect that nothing about
+    this house, or any house is inevitable"
+
+    "Ask Paxton" - arose for intractable problems.
+
+
+**** At Home
+
+*** John Brunner                                           :fiction:examples:
+**** Stand On Zanzibar
+     Be kind to your forfeited friends - P214
+
+     Contents and types of Guievere Steels home:
+     Contents: Permanent, transient, immobile, nonperishable
+     Transient, immobile, perishable
+     Guests
+
+     Components of conversations - P220
+
+     The Innis Mode: "Innis makes no effort to 'spell out' the
+     interrelations between the components in his galaxy. He offers no
+     consumer packages in his later work, but only do it yourself kits."
+
+     Come outside and Say that - P185
+     Lewis E. Richardson's "Statistics of Deadly Quarrels"
+     "War, like the weather, just happens".
+
+     The Grand Manor - P74
+     Chad Mulligan talking about Symbolic fights and escalation
+
+     Abstraction and territoriality: Privacy and Property:
+     a) Wealth effects
+     b) crime as poor retribution
+     c) gangs and the military
+
+     The Subject Matter - P39
+     Describes {Developed/Developing/UnderDeveloped} countries in terms of:
+     Governance Style
+     Currency Dynamics
+     Employment style,
+     media freedoms
+     diet,
+     healthcare,
+     military recruitment
+     housing
+     transport
+     communications
+     eugenic laws
+     fashion
+     sexual freedom
+     narcotics
+     vices
+     resources
+
+     General Technics help wanted ad.
+     Similar to newspaper: gives surface details to the world.
+
+     Bruce Sterling Forword: Shiggies: "Entire classes of women live
+     as literal tramps, trading random sex for a roof and a warm place
+     to sleep"
+
+     "American Black People have real careers with positions of authority"
+     Global corporations are deeply involved in third world tech development.
+     Easy international travel
+     Tolerance of homosexuality and interracial romance.
+     Tobacco is banned.
+
+     Three classes of prediction:
+     1) The mistakes
+     2) The plausible
+     3) the astonishing (fortelling Detroit techno squatters/ raves)
+
+*** Cohen                                               :methods:ai:research:
+    Three Basic Research Questions:
+    1) How will a change in agent structure affect behaviour?
+       (Given a task and environment)
+    2) How will a change in agent task affect behaviour?
+       (Given a particular environment)
+    3) How will a change in environment affect an agent's
+       behaviour on a task?
+
+    Not mentioned:
+    1) How will a change in {Behaviour/Task/Environment} affect structure?
+    2) How will achange in structure affect the {environment/task}?
+    3) How will a change in {task/environment/behaviour/structure} affect
+       {structure/environment/behaviour/structure} given {x} and {y}?
+
+    The virtues of theories in ill-defined behaviour. P379
+
+    Clancey's descriptions of 'heuristic classification' did not use a
+    precise definition, but with lots of examples.
+
+    "Its a waste of time to argue about a definition unless changing
+    it has ramifications".
+
+    Systems like X in three ways:
+    1) Listing systems with similar behaviours
+    2) Feature Characterization - subcomponents
+    3) Causal explanation - how features interact to produce behaviours
+
+    Generalization Strategy:
+    1) Find examples of behaviour of interest
+    2) Find out what the cases have in common
+    3) Build a causal explanation around the common features.
+
+    Doug Lenat - AM That discovered mathematical concepts through mutation
+    Eurisko exploring heuristics / heuretics.
+
+    Find Examples and couter examples of behaviours of interest, and
+    common and discriminating features of architectures. - P365
+
+
+    P366:
+    Theories are statements of the form:
+    A System with architectural feautres A1-An and
+    Task Features T1 - TM,
+    in an environment E1 - El,
+    will exhibit features B1 - Bp
+    because X.
+
+    Theories (P368):
+    1) Scope
+    2) Mechanism
+    3) Behaviour
+
+    P3: "AI Systems are simple compared with human cognition, their tasks
+    are rudimentary; and compared with everyday physical environments,
+    those in which our programs operate are extremely reduced.
+    Yet many are in many ways like chemical, biological, mechanical, and psychological processes."
+
+*** Varian                                       :economics:research:methods:
+    How to build an Economic model in your spare time:
+    1) Get an idea
+    2) Phrase it so a lay person can understand
+    3) Is it interesting?
+       What would follow from it?
+       Does it generate insight?
+    4) Don't look at the literature
+    5) Build the model
+       Work the simple examples
+    6) Generalise
+    7) Make errors
+    8) Search the literature
+
+** Topics of Interest                                              :concepts:
+*** Partial Ordering / Incomplete Pairwise Matrices                    :math:
+** Software and Simulations                    :existing:software:simulation:
+*** Netlogo                                                      :simulation:
+** Theory                                                                       :theory:
+*** Institutional Structure                   :structure:theory:institutions:
+
+    Simulation Base                  ->  Constitutive input
+    Imported Actions and Definitions ->  Constitutive Input
+    ->  Regulative Norms
+    ->  Constitutive Roles
+    Meta Norms                       <-> Meta Norms
+    Regulative Norms                 ->  Synthesising Output Norms
+    ->  Exported Actions + Definitions
+    ->  Value Hierarchy
+    Constitutive Roles               -> Exported Actions + Definitions
+    Synthesised Output Norms         -> Simulation Base
+
+**** Inputs
+     Simulation Base (Physical World)
+     Imported Actions
+     Imported Definitions
+     ->
+**** Internals
+     Constitutive Norms
+     Regulative Norms
+     Sanctions
+     Value hierarchy
+     Role Definitions
+
+     Meta -> Inputs
+     -> Outputs
+     ->
+**** Outputs
+     Simulation Base
+     Exported Action
+     Exported Definitions
+
+*** Institutions As AI
+    Assume that we cannot create something smarter than ourselves If
+    Institutions are AI, they are not Human-AI Complete If So, they
+    are potentially, (and in practice actually exist) in real world
+    computers already supplemented by our own intelligence.  They
+    should be able to be modelled in a human authorable system then.
+
+    Person of Interest is an example of this, AI's existing but
+    interacting and manipulating the world through human actors.
+
+*** Potential Systems                                               :systems:
+
+**** Existing
+     Versu / Exclusion Logic
+     Prom Week / CiF
+     Immerse / ABL
+     Sugarscape
+     MOISE
+
+     Democracy
+     Don't Starve
+     Spacebase DF-9
+     URR
+     Sims / Sims Medieval
+     Sim City
+
+**** To Model
+
+***** Abortion
+      Legality -> Means -> Consequences -> Judgements
+
+*** Behaviour Monad                                 :formal:math:monad:types:
+
+    Purpose: To allow descriptions of institutional data to be processed
+    by institutional forces to determine actions for agents at any given time.
+
+    Monads have specific rules enable sequencing of computation in an abstracted
+    form. Being able to describe data, and operations on that data, but wrap it in
+    a monad to enable other operations... would seem useful.
+
+*** Rete/ Rules                                     :architecture:rules:rete:
+
+    Rete separates into Alpha, beta networks, and actions.
+    Alpha and beta networks combine to create clauses
+
+    There are a similarity with CiF, Versu, and Neural Networks, and Democracy 3
+
+**** CiF
+     Volition Rules -> Volitions -> Selection -> Influence Rules -> Actions -> Trigger Rules
+**** Versu
+     Facts -> State Assessments...
+
+**** Neural Nets /Democracy
+     Every node of a layer connected to every node of the next layer,
+     Layer -> Layer -> Layer...

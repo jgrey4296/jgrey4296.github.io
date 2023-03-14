@@ -1,0 +1,318 @@
+<html>
+<head>
+<title>
+IS 240 Exercise for Week 9
+</title>
+</head>
+<body>
+<h3>
+IS 240 -- Information Systems Analysis and Design <p>
+
+Assignment for week 9: Information design <p>
+</h3>
+
+Information design concerns the visual display of structured information.
+It derives not from the technology world but from graphic design: people
+who design the visual appearance and organization of things like brochures,
+signage, museum displays, and expository illustrations for newspapers and
+textbooks.  We are emphasizing information design in this course because we
+believe that it is the future.  In particular, the ergonomically oriented
+field of user interface design is stuck in the single windows/menus/mouse
+paradigm, and the more general field of interaction design does not have
+adequate ideas about the organization of the information that one interacts
+with.  We do believe that these fields have their place, but that the best
+first step is to learn from the graphic designers about the visual display
+of information before revisiting the question of how to interact with it.
+So in asking you to conceptualize the information design of your service,
+we are not asking you to figure out what commands go in what menus.  Rather,
+we are asking you to figure out whether you want to use menus, or whether
+you want to draw on some other information design metaphor.  More generally,
+our focus is not on interaction but on the organizing principles of the
+things one interacts with. <p>
+
+Last week you worked out some of the internal structure of your information
+service.  Your assignment this week is to prototype the physical form and
+information design of your service.  The purpose of this document is not to
+explain what information design -- the readings and lectures will do that.
+Rather, this document will present a conceptual framework for understanding
+the full scope of the problem that information design solves.  Along the way
+we will also discuss issues of physical form, although that is a secondary
+focus. <p>
+
+The first priority of information design for electronic information services
+is that the whole design, inside and outside, should be unified by a single
+conception: a clear and powerful metaphor or symbol or ideology that provides
+guidance to every aspect of the design.  The most famous example of such a
+unified conception is the idea of individual liberation that informed the
+design of the Apple Macintosh.  The Macintosh was design in depth: not only
+was every aspect of the hardware, operating system, packaging, and company
+communications informed by the liberation ideology, but the designers also
+wrote a manual for the "look and feel" of Macintosh applications that were
+developed by third parties.  Another, closely related design principle of the
+Macintosh was a clear mapping between the internal workings of the machine
+and its outward behavior.  Entities of the data model became types of record
+structures, and they also became elements of the interface.  Visual elements
+(e.g., icons) and commands (e.g., menu items, behavior of the mouse) mapped
+cleanly onto the internal workings of the software.  The increased power of
+computer processors and the increased diversity of input and output devices
+and communications mechanisms have greatly multiplied the design space for
+interactions between people and machines, but these design principles still
+hold.  Of course, it may be impossible to achieve the idea of a unified
+conception that drives every aspect of a design.  But it is important to try,
+and every aspect of a design that diverges from the unifying conception is
+likely to be problematic in some way. <p>
+
+As the design space widens, it helps to have a conceptual framework with which
+to map the full range of potential information designs.  Among the dimensions
+to consider are these: <p>
+
+ * The framed image, independent of context and interaction.  Does it work
+aesthetically?  Does it make sense?  Is it illegible?  Cluttered?  Confusing?
+How does it work as a diagram?  A sign?  An advertisement?  A work of art?
+<p>
+
+ * Time.  How does the image change over time?  Does it change in response
+to actions that people take, and if so which ones?  We are accustomed to the
+personal computer model and the "user illusion", according to which almost
+all changes take place in response to specific commands by the person who is
+sitting at the keyboard.  But in a distributed system that interconnects many
+people who occupy several differentiated roles, the design space is obviously
+much larger. <p>
+
+ * Narrative.  If the information participates in telling a story, explaining
+something, simulating something, or showing how something works, then all
+of the categories of narrative apply.  A narrative has a beginning and end, a
+world with rules, an internal logic, characters and places, events and scenes,
+and so on.  It also has instructed seeing: not just the "showing" aspect
+of the story (facts, events, actions, and other concrete specifics) but the
+"telling" (what it meant, what was really happening, the pattern, what the
+character was thinking, what aspect of the events are to be significant, and
+so on).  Even when the information service or the people who are using it are
+not clearly telling a story, narrative concepts can be heuristically helpful
+in articulating the temporal dimension of its relationship to the people who
+use it. <p>
+
+ * Action.  Systems analysis produces, among other things, a repertoire of
+actions that people in various roles need to be able to take by using the
+service.  Examples of actions might be bidding on a product, signing off on
+an invoice, deleting a message, reclassifying a document, promoting someone
+to a new job title, or closing a case.  Notice that some of the actions are
+defined purely in terms of the service's workings (e.g., deleting a message),
+while others (bidding, signing off, reclassifying, promoting, closing) are
+also institutionally significant -- that is, they change the world and not
+just the machine.  The visual display of the service might make clear which
+actions are possible at a given juncture.  It might provide feedback about
+which action has been taken.  It might ask for reconfirmation.  It might
+suggest actions.  Although our focus here is primarily on the visual display
+of actions (e.g., with icons that can be clicked), one might also accomplish
+these purposes using sound (e.g., recognizing or speaking words) or touch
+(e.g., the "clicking" sensation of a key), and you are welcome to mix the
+various modalities if that's the direction the design process takes you.
+Observe that the visual representation of action is usually closely related
+to the visual display of everything else; this is particularly evident in the
+case of "direct manipulation" interfaces such as the dragging and dropping of
+icons in the Macintosh. <p>
+
+ * Linguistics.  Human language is the starting point of systems analysis,
+and in most information design human language is selected and associated with
+other meaning elements.  (Even when no words appear on display screens, you
+should be aware of the language that people will use in thinking and talking
+about your service.)  This language should be consistent in both the words
+you choose and the meanings you assign them; it should be appropriate to the
+people who are using the service; it should avoid trampling on other meanings
+that the same words might have in contexts that the people already know about;
+and it should be aligned in every possible way with the unifying conception
+of the design.  It should be easy to configure the service to use a different
+language or dialect.  Linguistic elements can be wildly misinterpreted, and
+they should always be tested with real members of the relevant communities --
+especially ones who are less familiar with services such as yours -- to see
+what misinterpretations your chosen words might inadvertently invite. <p>
+
+ * Design language.  A "design language" is not a set of words of natural
+language.  Rather, it is a set of design elements and design conventions that
+are used consistently in a range of contexts.  It is crucial to have a design
+language any time that more than one visual display of information is supposed
+to operate as a "family".  For example, all Macintosh applications are visibly
+and unmistakeably *Macintosh* applications.  Every page generated by a given
+Web site should likewise employ shared conventions.  The signs accompanying a
+museum display should be come in visually distinct categories (text explaining
+whole a room as opposed to an individual picture) while also clearly being
+part of the overall information design of the show.  The elements in a design
+language might include symbols (e.g., icons, logos, navigational devices),
+typefaces (e.g., Times Roman for everything, italics for captions, small type
+for legal boilerplate), colors (e.g., background, pull quotes, highlights,
+selected items, urgency), and vocabulary items.  The design conventions might
+include the layout of information on the screen (e.g., commands on the left,
+site map at the top, conventions from paper genres like spreadsheets), the set
+of actions that are available and how one performs them (e.g., drag and drop,
+"OK" button in the lower right corner), the use of titles and summaries (e.g.,
+automatically generated text abstracts set off in side-bars), and the spatial
+relationships among the design elements (e.g., text is always on the button
+rather than next to it). <p>
+
+ * Structure.  Most information designs will include both structured and
+unstructured elements of a document, and each poses its own design challenge.
+For structured information, the challenge is to make the structure visible,
+while also making visible the lesson or point that can be taken home from the
+structured information as a whole.  A tabular display of data, for example,
+does not make trends as visible as a graph does.  But at least structured
+information occupies a predictable amount of real estate on a visual display.
+Unstructured information such as free text can be less predictable, and you
+may need a style manual for writers that dictates the size of each textual
+element such as a caption.  Images are predictable in their spatial demands,
+but it can be very difficult to direct someone's attention within an image.
+Actions over structured information can be more complex than those defined
+over unstructured information. <p>
+
+ * Reference.  Every visual display is part of history, and it cannot help
+referring to culture, tradition, genre, and style.  Everybody who uses your
+service will already have mastered a staggering number and variety of visual
+codes, whether from technical diagrams, films, graphic design, cartoons, or
+computer interfaces, and the visual displays that your service generates will
+inevitably be interpreted with reference to those codes.  If your service is
+going to remind your community of a textbook, then you must either embrace
+that reference or revise your design to stop inviting it.  This principle
+applies on every level: from individual design elements, to conventions
+of spatial layout, to ways of telling a story, to ways of taking an action,
+to literary genres.  If your service resembles the Macintosh interface then
+you will have little choice but to uphold the conventions of that interface.
+If your service looks like a comic book or a Russian propaganda poster or
+a television screen or a Rand McNally road map, then you have to anticipate
+that interpretation and take a stand toward it. <p>
+
+ * Embedding.  Your visual display does not exist in a vacuum.  It is a
+physical object that stands in some physical and practical relationship to
+everything else that is going on around it.  Think, for example, of a display
+that is a sign that people walk past, or a display that is sensitive to the
+devices that might be present, or to environmental conditions.  People might
+look at the display from a variety of distances or angles, or they may notice
+changes in the display from the corner of their eye.  Lighting conditions may
+not be reliable.  Glare may be a problem. <p>
+
+ * Attention.  Closely related is the structure of the individuals' attention.
+What else is going on when people are looking at the display?  Is the display
+calling out for attention or competing for attention with other visual things?
+Is the individual focused on the display for the whole time that the service
+is telling some story, or does the service have no guarantee about the times
+that people might arrive or leave?  Is the individual's relationship to the
+display mainly exploratory or routine or what?  Are multiple individuals
+engaged in joint attention, for example with one person explaining something
+to another person by directing their attention within the display?  Will the
+individual's attention be directed by changes in the display that are caused
+by someone else at a remote location, for example in a distributed game or
+dialogue?  Will particular design elements within the display be inviting
+attention?  And so on. <p>
+
+ * Function.  What function does display play in the ongoing activity?
+The ongoing activity will probably be structured by an institution, a set
+of customs, a relationship among people, some rules, and so on, and the
+display will take on most of its significance within this context.  A menu,
+for example, serves a very stable function in the rituals of the restaurant.
+<p>
+
+We are also asking you to design and mock up the physical form of your design.
+This could include a keyboard on a destop, a flat screen display on a wall, a
+device that resembles a wristwatch or cell phone or palm pilot or credit card,
+something that is sewn into clothing or mounted on eyeglasses, installed in a
+car, carried on a belt or in a purse or backpack, or whatever you can imagine
+being built with the technology of ten years from now.  You are most welcome
+to presuppose the processing capacity and communications capabilities of 2010,
+and to assume the kind of spontaneous wireless interaction among devices that
+we discussed in week 5.  As with the information design of your service, the
+physical form should also express the overall conception of the design as a
+whole.  It can do this in an infinite variety of ways, including its shape,
+markings, colors, and plugs, or in the way that a person holds it, interacts
+with it, notices it, shares it with others, hides it, discards it, and so on.
+Its cost may be significant.  And just as the information design inevitably
+refers to a vast history, so the physical form will inevitably refer to a vast
+history of industrial design.  Furthermore, "information design" and "physical
+form" overlap, inasmuch as the object itself conveys information whether it
+changes outwardly or not.  Information design applies to simple LED's just
+as much as it applies to wall-sized bit-mapped displays, and it also applies
+to symbols and icons on the physical device, such as the ones that label the
+connectors, or that sit on the edge of the screen to show where the touch
+sensitive areas are.  All need to be designed in a coherent way. <p>
+
+We are concerned particularly with information design that supports shared
+work, and so it may help to reflect on a number of examples of such design:
+<p>
+
+ * "Local design" -- the design conventions evolved within a group, such as
+notation and vocabulary, whether wholly original or inflections or variations
+or additions upon conventional designs. <p>
+
+ * Being aware of one another, like those video space interfaces that include
+"postage stamp" video of each other's office so you can see who is in. <p>
+
+ * Planning and coordinating collaborative work, such as PERT charts -- in a
+networked world, those same displays can probably be continually updated to
+provide a running display of project status. <p>
+
+ * Information about individuals, such as contact information, skill set,
+resume, professional network, whereabouts, current actions, history of
+actions, etc. <p>
+
+ * Materials that individuals in the group prepare for one another, for
+example materials to review before a meeting. <p>
+
+ * Hand gestures and other symbols that synchronously accompany interaction.
+<p>
+
+ * Any representations the group members may be working together jointly to
+produce, and a wide range of annotations and suggestions etc about drafts of
+those deliverables. <p>
+
+ * Agendas and minutes of meetings, and representations of parliamentary-type
+procedures like voting, deciding who speaks next, moving along to the next
+topic, etc. <p>
+
+ * All sorts of speech acts -- even though these might be done with
+unstructured English in a face-to-face context, when done remotely or
+asynchronously they might require structure or design etc. <p>
+
+ * Instructions (e.g., judge to jury, manager to subordinates, manufacturer
+to repair person) that a team might jointly use to organize its work together.
+<p>
+
+ * To-do lists, lists of action items, and documentation of the work. <p>
+
+ * Progress reports, evaluation and feedback, queries to others outside the
+group, etc. <p>
+
+ * Representations of group work processes that are meant as advertising for
+the group and its work, or reports on the work in a journal. <p>
+
+There are probably many more categories of information design to support joint
+work, but that's a sampling anyway. <p>
+
+That brings us, finally, to the process you'll follow in your own information
+design work, and to the results you will show to the class.  Like every other
+sort of design, information design is iterative.  Do not get overly detailed
+in your first several iterations.  It is much more important to have a clear
+concept, and to explore the various dimensions of its consequences, than
+to spell out all of the details, especially at the beginning.  Just develop
+enough of the consequences of your concept to understand the problems and
+opportunities that arise from it, and then reconceptualize.  Rather than
+dwelling on one design concept, develop a number of them and explore them
+all, picking the one that seems to be going somewhere.  Remember, once again,
+that your information design concept needs to be aligned with the unifying
+concept of the whole design.  You may find that the unifying concept that you
+developed last week does not suggest a compelling information design, and that
+a new information design concept suggests a reconceptualization of the whole
+function and structure of the service.  This is a good thing, and you should
+embrace it. <p>
+
+In this assignment we are not emphasizing "user" participation.  What you
+are developing is an early mock-up that illustrates a concept, not a serious
+candidate for a implementation as a finished system.  You might think of
+your presentation to the class as a presentation to a community of practice
+that might use your service.  Experience shows that such presentations work
+best when they are relatively low-tech.  Slick PowerPoint demonstrations or
+carefully worked-out interfaces communicate your intention to implement just
+exactly what you designed.  By contrast, mockups with cardboard and colored
+pens are nonthreatening, and because they connote a low level of effort they
+communicate a willingness to iterate, or even to throw things out and start
+over if necessary.
+
+</body>
+</html>

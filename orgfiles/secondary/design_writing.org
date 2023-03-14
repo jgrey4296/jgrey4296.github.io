@@ -1,0 +1,989 @@
+* Design writing
+*** An authoring methodology                                                    :methodology:
+    BOD would have primitives described, then repeatedly refine each level.
+    Instead, have questions, work out from the middle to define inputs and
+    outputs.
+
+    Have a hypergraph of institutions of the form: inputs -> Institutional Spec ->
+    outputs
+
+    Described by repeatedly asking questions to refine the specification:
+
+    What is the name of the Institutions? What are the core values of {name}? What
+    are some Categories / Roles in {name} ? What is the role structure for {name}
+    ? What are the performable actions ? What are the goals? What are the jobs /
+    permissions ? What can be delegated? What can be parallelised? What can be
+    split across sessions? What are the habits? What are the sanctions? What is
+    the weighting of values / roles/ categories / goals / jobs /sanctions ? ( use
+    heuristic weighting ) What are the physical laws? (unmodifiable rules of
+    physicality) What are the communicative acts? What are the regulative laws?
+    What are the normative expectations? What are the monitoring / sanctioning /
+    disrupting activities? What are the artifacts? What are the artifact
+    specification rules? What are the object standards? What are the symbolic
+    variations of artifacts? What are the artifacts functional uses? What is the
+    IGU in {name}? Person / Role / Group / Institution -> specify Who are the
+    incumbents of the institution? Who are the challengers of the institution? For
+    each activity, what is its object, what are the tools usable in the activity?
+    What community of individuals are involved with the task, what is the division
+    of labour? And What are the additional rules beyond that? What is the
+    time/space specification of the activities / jobs/ roles ...?
+
+
+    Carriers: Symbolic Systems, relational systems, activities, artifacts (for
+    scott) Pillars: Regulative, Normative, Cultural Cognitive With Institutional
+    Entrepreneurs
+*** Firefighting as a Game/Sci-fi concept                                       :concepts:
+    Mech suits (eg: X-Com) are typically combat focused. Also fire is rarely a
+    primary mechanic, but Far-Cry 2 had detailed models of fire spreading. Power
+    fantasies don't have to be combat oriented. The image of, after having played
+    for hours, finally obtaining a mech suit built for firefighting, making you able
+    to walk through walls and ignore fire, when you've been limited the entire game,
+    would give the same power fantasy achievement.
+
+    Narratives could easily include arsonists, terrorists, etc.
+*** Game Concepts                                                               :games:concepts:design:
+**** Institutional Modification                                                 :institution:
+***** Society Generator
+      See Red Mars / Galactica / Walking Dead / other Post-apocalyptic stories. A
+      linear set of challenges which define the rules of a society as it grows,
+      which is then simulated afterwards. Eg: The choices of whether to ban or
+      allow abortion, limit military control etc in Galactica set up a particular
+      society. The difference is obvious when comparing Galactica to Pegasus.
+***** Social Leaders
+      Designated individuals are Institutional Entrepreneurs, leading the way for
+      how others should behave. Trump is an example for bringing out blatant
+      racism.
+***** Reified Policy Maker
+      Red Mars. Democracy connected to the Sims. The King of Dragon Pass. Seeing
+      how prescribed, allowed, preferred behaviours shift general trends. Racially
+      focused policing, essentially BLM / Police. Modelling agents
+      knowing/anticipating the likelihood of positive or negative outcomes from
+      interactions with others. Knowledge of minimum and maximum outcomes. If you
+      know the worst a situation can get is only so much changes how you behave.
+      Polite to people who, in the rules of the system can cause negative
+      consequences. Rude to people who can't. Angry at someone going negative when
+      the expectation is positive.
+
+***** Observable Democracy
+      A Positech Democracy like simulation, but where actions are modelled,
+      possibly sims like, that *shows* the consequences of legalising drugs /
+      banning firearms / increase in crime etc.
+
+***** Judiciary / Activist Judge
+      Generate Criminal / Civil disputes, allow the player to set binding rulings,
+      punishments, fines, and restrictions. Define the hierarchy of values for a
+      society.
+
+      See also: Graeber: Accounting in defunct Roman coinage / Slaves / Cows /
+      Maidens.
+
+**** Situation Models                                                           :situations:
+***** Squad Dynamics
+      XCom doesn't include interactions between squad members. See MGS5's Diamond
+      Dogs, with some soldiers getting put in the brig. MGS's weakness however is
+      that the conflicts are left implicit, and aren't shown ever.
+
+      Soldiers joke, get nervous, shell-shocked, tired, and can hold grudges. As
+      they get injured, they can get particular scars and prosthetics. The is
+      similar to Elevator Conversations.
+***** Apartment Block Simulator
+      Simulate the interactions between individuals in an apartment block. Could
+      think of JG Ballard's High Rise, Dredd, The Grand Budapest Hotel.
+***** Elevator Simulator
+      Conversations between individuals in an elevator. Dungeon of the Endless.
+      Mad Men. The original thought I had from DotE was the awkward but character
+      building conversations had going from one level to another. Take that and
+      expand it to have connected conversations, interleaving: character, combat
+      event recollection and discussion, and vying for social position.
+***** Elevator Conversations
+      Dungeon of the Endless has conversations in the elevator, that hint at more
+      complex modeling. Distrust, blame, optimism etc could all come into play
+      during those elevator rides. Characters could refer back to events that
+      happened in the level just gone.
+
+      Conversations between individuals in an elevator. Dungeon of the Endless.
+      Mad Men. The original thought I had from DotE was the awkward but character
+      building conversations had going from one level to another. Take that and
+      expand it to have connected conversations, interleaving: character, combat
+      event recollection and discussion, and vying for social position.
+***** Organisational Promotion Simulator
+      Shadow of Mordor, Voyager. Gormenghast. The Night Watch
+
+***** Public Restroom simulator
+      Inspired by North Carolina. Simulate Norms related to Bathroom. Parallels
+      with Elevator simulator? Such as Design, Occupancy, Organising principle
+      (caste? gender? sexual orientation? organisational position? religion?
+
+***** Institution Play
+      American Psycho / The Office / Parks and Rec / *Suits* like office games.
+      Favours and grudges within bounds, reverting to working together when
+      dealing with outside threats.
+
+***** Office Politics
+      Similar to the Shadow of Mordor simulator. Inter office squabbles. Who likes
+      and dislikes whom.
+
+***** Space Colonies
+      2312-like Terraria / Off world Colonies. The fragility of space living, and
+      the influence of orbiting planets for travel and trade.
+
+***** Space Journey
+      Gateway, Red Mars initial journey.
+
+***** Social Lemmings
+**** Institutional Variation                                                    :institution:
+***** 'Go to the shops, I dare you'
+      Sliders. Bill Bryson - At Home. John Brunner - Stand on Zanzibar. Alfred
+      Bester. Rick and Morty take it to the extreme. The idea of life being put in
+      situations that are familiar, but which are varied in infinite ways. Some
+      major (Philip K Dick: TMITHC. Nazi's won the war), to the very minor (There
+      was no Elvis, someone else is 'The King'). Let Money be shells. Everyone
+      Greets in a strange formal way. Clothing Styles.
+***** Country Differences
+
+      Stand On Zanzibar compares broad descriptions of different countries. This
+      could work well in a Positech Democracy style game.
+***** Social Roguelike
+      Binding of Isaac / Dungeon of Dredmor style game. Generated maps, with
+      social predicaments in collections of rooms instead of violent enemies.
+      Binding of Isaac style combination of a wide variety of pickups would be
+      interesting. Queuing as an example? Very British Problems?
+
+      Games still prefer violence and combat to social interactions. Anne Sullivan
+      highlights it, but what does it really mean to have social gameplay instead
+      of combat focused gameply? We can look at game dseign, and the systems that
+      facilitate player to player social systems in games like Eve Online, and
+      what Raph Loster has written about the variety of social gameplay mechanics
+      that multiplayer games can use.
+
+      His focus has typically been multiplayer games, but such mechanics should be
+      able to be used for AI opponents as well.
+
+      We can also look at how Cif and Versu enable social narratives to be encoded
+      and reasoned about in computational systems.
+
+      Going further, we can look at narratives and real world structures that
+      describe the social gameplay that interests us.
+
+      Organizations, Institutions, and politics. Red Mars and Discworld. The real,
+      and fictional, worlds that exist in other media have no real equivalent as
+      yet, but have suh potential.
+
+      One important example is A Series of unfortunate events. A sequence of books
+      that are all very simiar, but which the social system that surrounds the
+      main characters changes dramatically each time.
+***** Newspaper Generator
+      A Dynamic form of Papers Please' Newspaper. Just front page, but with a
+      headline, a couple of subheadings, a few quotes, links to particular pages,
+      smaller topics. Exposes, corruption, scandals, celebrities, the front page
+      is definitional of what is 'newsworthy'. So model that society's
+      representation of it's own understanding.
+
+***** Censorship simulator.
+      Ministry of Truth in 1984, Censors in Media Positions today. The raw feed of
+      actual actions, and the ability to choose what, or how much, to let through.
+
+***** "Go Down to the Shops and Buy Some Milk"
+      Sliders-style world variation, where the player needs to survive for a
+      specified amount of time. Alt: Institutionalized / Normalized violence
+      against specific classes of people. Spawn as White / Black / Male / Female,
+      and see how behaviours towards you change.
+
+**** Institutionally Aware Design                                               :institution:
+***** Socially Responsive RPGs
+
+      Where players have to abide by the norms instead of looting peasants'
+      houses. Downton Abbey, Upstairs/Downstairs, and Gosford Park are good
+      examples. Social contracts of how a hierarcy behaves. Those upstairs have
+      rules to abide by just as those downstairs.
+
+***** At Home
+      The variations and peculiarities that Bill Bryson highlights, integrated
+      into the Sims.
+
+***** Guild Politics
+      Similar to Institution Play. Think Elder Scrolls, and Discworld's Night
+      Watch and Wizards. Wizards have rules on how they can assassinate others and
+      climb the ranks, Night watch covers the behaviour of the police, and who
+      supports whom.
+
+      Also of note: The Night Watch scene of the assassination of Lord Winder.
+      Birds eye view of supporters and opposition, with intended steering of
+      parties.
+
+      Elder Scroll's Guilds don't particularly get you to do anything. Tithes,
+      preferred / prohibited / obligated behaviours etc. See Graeber for the cycle
+      of debt that African trader institutions worked within.
+
+***** Monetary - Warfare - Slavery complex
+***** Post Invasion Occupation
+      Star Trek DS-9. Subjugated populations.
+
+***** Debt
+      ie : David Graeber, Debt.
+***** Daily Life
+      ie: Bill Bryson, Home.
+
+***** Civil Institutions
+      ie: Terry Pratchett: The Night Watch, Religion, Wizards, The Post
+      Office/Clacks/Bank/Tax Also African Tribes/Max Gluckman/Elias
+
+**** Accidents in Real Life                                                     :accidents:
+     The accidents of life. Tripping on the stairs, getting hit by a car, being
+     ill. Stubbing your toe, not getting enough sleep. The thousand and one ways
+     in which mood and behaviour is shifted tiny amounts by unrelated elements.
+
+     Games do not typically include concepts of accidents. Tripping, falling,
+     hitting yourself accidentally. Swallowing food badly. We often fail at being
+     human, or will accidentally break. Such events are what add uncertainty and
+     stress to our lives. Related: Douglas Adams pseudo fractures.
+
+*** Games Prototypes                                                            :design:
+**** Social Roguelike
+     [[file:research/socialRoguelike][Social Roguelike Notes]]
+
+
+     Binding of Isaac / Dungeon of the endless influence,
+
+**** Gormenghast Sim
+
+     Maze of rooms generator with rituals and tradition to match. Cif overlay of
+     individuals with power plays
+
+**** Kraken Wakes
+
+     Narrative focused apocalypse sim by John Wyndham.
+
+**** Veil of ignorance / Red Mars spaceship society generator
+
+     Galactica / Red Mars / Foundation inspired repeated crisis point and shift to
+     generate a society.
+
+**** Sol System
+
+     Possibly merge with the above, but Horus Heresy style ship to ship combat and
+     planet invasion House on haunted hill style reversal of allegiances.
+
+**** Thud
+
+     As close a translation as i can manage of the discworld game.
+
+**** Walking Sim
+
+     Something peaceful
+
+**** Titan
+
+     Dynamic LOD based game of scales, titans walking around with villages on top.
+     Zelda like story would work well here.
+
+**** Obselete
+
+***** People/Ant Farm
+
+      Similar to the sims, but where you have no control apart from given them
+      general AI behaviours.
+
+***** AI Hotel
+
+      Playing as the AI hotel from Altered Carbon
+
+***** City Gen
+
+      General attempt to make a city generator that can do blocks and english
+      organic growth styles. Possibly incorporate churches in to.
+
+***** Fencing
+
+      Transistor inspired turned based fluidic movement of foils, sabres, and
+      epee's. Possibly used as the combat for the social roguelike.
+
+***** Unnamed Horror
+
+      Ghost's Hinzerhaus inspired soldier management.
+
+***** American Psycho Sim
+
+      The social power plays of Patrick Bateman. Meeting cards, lunches at
+      restaurants, dynamic conversation, With a bit of going postal thrown in to.
+
+***** Boarding School Power Plays
+
+      Similar to above, possibly related to unnamed horror.
+
+***** Commander Keen Copy
+
+      Like the class, and RORC
+
+***** Risk of Rain Copy (RORC)
+
+      Narrative-lite, focus on generation of levels and shooting and wotnot
+
+***** DOW 2 / Last Stand Copy
+
+      Arena based semi rts/rpg class based play.
+**** General Ideas to Sort
+
+
+     the court politics of discworld's night watch, of the west wing and house of
+     cards, combined with the societal change due to decisions that result in a
+     red mars like society builder. If CiF and Praxis represent a
+     computationalised model of charismatic power, then it could be combined with
+     simplistic rule systems for the legal-rational and moral sides of power.
+
+     Conflict would arise from individuals assessments of how best to use
+     resources, what rules to enforce etc, and changes would be brought about by
+     making use of the three forms of power to get votes. Thus: computational
+     republic.
+
+     There are two sides to this plan. One the one hand is the individual
+     interactions that realise power, and on the other is the manifestations of
+     that power into societal structures. Games like Prom Week, Wolf Among us, and
+     Mass Effect are closer aligned with the former. You don't really need to
+     strategise about keeping people under your thumb, or the capabilities of an
+     individual you are going to blackmail.
+
+     Linked with this is the emphasis on *time*. in that time needs to progress,
+     slowly but steadily, as you manipulate. This is different from there being a
+     timer on things. The closest I can think of that gets to this is dead rising,
+     or majora's mask. The repeated pattern of days lets you plan things out, but
+     in those games only physically.
+
+     If you can daily schedules, then you can plan other actions, such as social
+     actions. Set in motion slow mentions of things, train individuals to respond
+     to particular cues. (in this way i'm getting towards hannibal style
+     gameplay).
+
+     So: Interpersonal Power interactions situated in cyclical time. Charismatic,
+     legal-rational, economic, and moralistic among others, as the basis for
+     manipulating the institutional structures to get what you want. Imperfect and
+     changing information is a must, as is the need for misunderstandings of
+     authority.
+
+     FTL crossed with under the dome, difficulties that make you rely on people
+     you can't trust, forming alliances for as long as you need.
+
+*** [[file:designDocNotes.org::*Generalised%20Design%20Document][Generalised Design Document]]                                                 :design:
+*** Network Layers, metaphors, and the DCEL
+
+    The dcel is a clear means of representing a 3-layer ladder of abstraction. Vertex <-> HalfEdge <-> Face
+    With Voronoi, and tensor based city gen as generators. 
+   
+    Society is a DCEL of many layers of abstraction.
+    CiF showed how to flatten the layers for interactions somewhat.
+    Versu showed a different layer structure, of greater range of interactions. 
+
+    I'm trying to get to an understanding of layer descriptions in a similar way to deep learning descriptions.
+    To describe particular structures, recombine and open particular transforms of outside data into internal data.
+   
+   
+    inputs --> (--> InputTransform --> (Selection, SelectAll, Gate, Parameterize, Compile, Delay, Store, Retrieve) -> OutputTransform) -> Actions
+
+    This is very like reaktor. Passing signals that carry information in various ways between instruments, voices, that can include standards like MIDI.
+   
+
+    Gameplay / Generation of Aletheiometer Output. Combinations of associations.
+*** Procedural Society Examples                                                 :examples:society:
+**** Streets
+     The way streets look, and the composition of them. The width, materials, and
+     buildings on the street. Police, homeless, and pedestrian presence.
+     Cleanliness, sanitation, parks. Level of technology, cars, lighting. Climate,
+     smog. Variation between night and day. Likeliness of terrorism and crime.
+     Behaviour of police, sexual harassment, racism, class tensions. Children
+     playing. Friendliness of strangers, styles of greeting, and clothing.
+     Grouping of individuals. What locations are popular.
+**** Newspapers
+     Headlines display the values, and ordering of values, of a society.
+     England/America: Different scales of scandals vs normal. Small scale spending
+     scandals vs massive and accepted 'campaign contributions'. What acts of
+     violence are major vs minor. Big headlines for domestic terrorism by
+     outsiders, minor headlines for foreign terrorism. Scale of reporting.
+     America: big deal out of small terrorist attacks while Iraq has massive
+     casualties, which are barely reported by American media. The statements of
+     political candidates. The rate of police abuse, and protests. Strange versus
+     normal stories. 'Aliens did X' versus 'Tax rates to increase' Calls for
+     violence and assassinations, admissions of wrong doing, micro vs macro
+     reporting
+**** Violence Escalation
+     The pathways and steps in which non-compliance is escalated to eventual
+     police violence. Ie: Graeber's notes on accessing a school library without a
+     student id. Library staff -> School police -> State police. What is the path
+     of escalation when you keep saying "No" to someone's demands.
+**** Bureaucracy
+     To do task X, how many committees, boards, and agencies must you contact,
+     forms filled out, licenses obtained, permits applied for, fees paid, studies
+     conducted Officials bribed, killed, owed,
+
+*** Prototype Ideas                                                             :prototype:
+**** Social Roguelike
+     [[file:research/socialRoguelike][Social Roguelike Notes]]
+     [[file:notes/research/socialRoguelike::*The%20Social%20Roguelike][The Social Roguelike]]
+
+     Binding of Isaac / Dungeon of the endless influence,
+
+**** Gormenghast Sim
+
+     Maze of rooms generator with rituals and tradition to match. Cif overlay of
+     individuals with power plays
+
+**** Kraken Wakes
+
+     Narrative focused apocalypse sim by John Wyndham.
+
+**** Veil of ignorance / Red Mars spaceship society generator
+
+     Galactica / Red Mars / Foundation inspired repeated crisis point and shift to
+     generate a society.
+
+**** Sol System
+
+     Possibly merge with the above, but Horus Heresy style ship to ship combat and
+     planet invasion House on haunted hill style reversal of allegiances.
+
+**** Thud
+
+     As close a translation as i can manage of the discworld game.
+
+**** Walking Sim
+
+     Something peaceful
+
+**** Titan
+
+     Dynamic LOD based game of scales, titans walking around with villages on top.
+     Zelda like story would work well here.
+
+**** Obselete
+
+***** People/Ant Farm
+
+      Similar to the sims, but where you have no control apart from given them
+      general AI behaviours.
+
+***** AI Hotel
+
+      Playing as the AI hotel from Altered Carbon
+
+***** City Gen
+
+      General attempt to make a city generator that can do blocks and english
+      organic growth styles. Possibly incorporate churches in to.
+
+***** Fencing
+
+      Transistor inspired turned based fluidic movement of foils, sabres, and
+      epee's. Possibly used as the combat for the social roguelike.
+
+***** Unnamed Horror
+
+      Ghost's Hinzerhaus inspired soldier management.
+
+***** American Psycho Sim
+
+      The social power plays of Patrick Bateman. Meeting cards, lunches at
+      restaurants, dynamic conversation, With a bit of going postal thrown in to.
+
+***** Boarding School Power Plays
+
+      Similar to above, possibly related to unnamed horror.
+
+***** Commander Keen Copy
+
+      Like the class, and RORC
+
+***** Risk of Rain Copy (RORC)
+
+      Narrative-lite, focus on generation of levels and shooting and wotnot
+
+***** DOW 2 / Last Stand Copy
+
+      Arena based semi rts/rpg class based play.
+**** General Ideas to Sort
+
+
+     the court politics of discworld's night watch, of the west wing and house of
+     cards, combined with the societal change due to decisions that result in a
+     red mars like society builder. If CiF and Praxis represent a
+     computationalised model of charismatic power, then it could be combined with
+     simplistic rule systems for the legal-rational and moral sides of power.
+
+     Conflict would arise from individuals assessments of how best to use
+     resources, what rules to enforce etc, and changes would be brought about by
+     making use of the three forms of power to get votes. Thus: computational
+     republic.
+
+     There are two sides to this plan. One the one hand is the individual
+     interactions that realise power, and on the other is the manifestations of
+     that power into societal structures. Games like Prom Week, Wolf Among us, and
+     Mass Effect are closer aligned with the former. You don't really need to
+     strategise about keeping people under your thumb, or the capabilities of an
+     individual you are going to blackmail.
+
+     Linked with this is the emphasis on *time*. in that time needs to progress,
+     slowly but steadily, as you manipulate. This is different from there being a
+     timer on things. The closest I can think of that gets to this is dead rising,
+     or majora's mask. The repeated pattern of days lets you plan things out, but
+     in those games only physically.
+
+     If you can daily schedules, then you can plan other actions, such as social
+     actions. Set in motion slow mentions of things, train individuals to respond
+     to particular cues. (in this way i'm getting towards hannibal style
+     gameplay).
+
+     So: Interpersonal Power interactions situated in cyclical time. Charismatic,
+     legal-rational, economic, and moralistic among others, as the basis for
+     manipulating the institutional structures to get what you want. Imperfect and
+     changing information is a must, as is the need for misunderstandings of
+     authority.
+
+     FTL crossed with under the dome, difficulties that make you rely on people
+     you can't trust, forming alliances for as long as you need.
+
+**** Rimworld thoughts
+     Rimworld, along with Prison architect, have a level of graphical interface
+     quit distinct from Dwarf Fortress, URR, the Sims, Versu, and Prom Week. It
+     defines a (relatively) small set of physical/viewable information, plus plain
+     textual descriptions for non-visually perceivable information. There is a
+     defined technical model of physical changes to the world, that characters
+     respond to and and interfere with, manipulating the world around them. They
+     also have perceptions of the non-visually represented aspects of the world,
+     and social concepts.
+
+     (Modal Opportunities: Similar to Sims Smart Objects) (Galactica related: A
+     system where you have a simulation running, that searches somewhat randomly
+     thought the state space for N number of turns, selects the most interesting,
+     and then presents options to the player, those decisions used to dramatically
+     influence the simulation, step by step society evolution, creating
+     institutions and patterns of behaviour)
+
+     (Sort of Ridcully/Science of Discworld-like: "I only stepped away for dinner,
+     the little buggers went all religious, imprisoned the unbelievers, had a
+     civil war and now have a memorial every year)
+
+     (Rule systems as layered semiotically? Iconic, Referential, Symbolic?
+     (Communicative as a separate category for simulation coherence?))
+
+     Symbolics with different types, consuming tags, rejecting others.
+
+     So:
+
+     Physical World (Searlian Brute Facts) -> Visual Representations (Colour,
+     Shape etc) -> Textual Representation (Temperature, Sound, Texture,
+     Characteristics, Causal Modal Opportunities from the Technical Model of the
+     world)
+
+     Phyiscal World(V+T) -> Causal Technical Model of the World (Brute Rules) ->
+     Individuals (Collections of Data)
+
+     Individuals -> Strategy for interaction with the Technical Model (Physical
+     Requirements: Eat, Sleep, Temperature) -> Strategies for causal improvement
+     of the Environment (Upgrade items, increase efficiency / output, -> Rules for
+     interpretation of the technical model into Semiotic/Institutional Facts
+     (Monadic Lifting functions of Brute -> Institutional) -> Rules for Pure
+     Symbolic rules (Institutional -> Institutional) -> Rules for Symbolic ->
+     Brute actions -> Rules for action on other rules (Permissions, Weightings,
+     Condition/Consequence modification) -> Known (Brute/Institutional) Facts ->
+     Social Influence
+
+     Social Influence -> bleed through of rules from others?
+
+
+     ----
+
+*** Rational Reconstructions                                                    :games:
+**** Dungeon of the Endless                                                     :mazeGen:
+     Generate a Maze, with a start point (the arriving elevator with crystal), and
+     destination point (the next elevator). Take moves exploring, randomly adding
+     power. Stream enemies spawned from unpowered rooms to the crystal. Then
+     transport the crystal to the destination when found. Activate elevator,
+     repeat.
+
+**** Shadow of Mordor / Redshirt                                                :individualisation:hierarchy:
+     [[https://www.rockpapershotgun.com/2013/07/29/hands-on-redshirt][redshirt review]] Hierarchical Organisation, with promotions, conflicts, removal,
+     alliances, and weaknessses.
+
+     With an Entity(Org,Agents,Norms) approach, formal specification can remain,
+     but change over time Two layers of Institutions. Two sides of armies, with
+     their own hierarchies, but different norms, Individuals in each army both
+     fight internally and externally, and have feuds etc.
+
+**** Papers Please                                                              :bureaucracy:institution:
+     Bureaucracy. Arbitrary Rules supplemented with further arbitrary rules.
+
+**** X-Com                                                                      :system:individualisation:combat:turnBased:institution:
+     Turn based movement around a map, based on sight lines. Minimal Health, DR,
+     fixed damage weapons, particular additional skills. Item Equips.
+
+**** Alien                                                                      :environment:institution:hunting:
+     Movement about a map, performing tasks, avoiding/being hunted by an
+     adversary.
+
+**** Stalker                                                                    :system:hierarchy:factions:
+     Rival factions fighting and raiding each other
+**** Democracy                                                                  :system:rules:network:
+     Support for particular high level policies
+**** Dota                                                                       :system:
+     Teams moving around a symmetrical map, flows of mobs, steady levelling up and
+     gain of stats, items paid for by goal
+**** DF / SBDF-9                                                                :factions:institution:environment:individualisation:simulation:
+     Individuals moving around a map, performing routine tasks. Growing food,
+     cleaning, building.
+**** Pokemon                                                                    :simulation:individualisation:system:rules:turnBased:combat:
+     Turn based combat, collection, movement around a map, interactional conflict.
+**** Borderlands                                                                :system:individualisation:factions:proceduralGeneration:
+     Generated weapons with individual characteristics, and also brand
+     characteristics.
+*** Social rule as a hierarchical graph                                         :architecture:design:socialRules:
+    In the way that a voronoi diagram sweeps down, differentiating between the beach
+    and sweep line, have recursive connections between layers of social rules.
+
+    Rules can describe a net of facts and other rules.
+
+    let:
+    F,G,H be distinct grammars of facts.
+
+    R be a set of rules comprised of a tuple r(I,O,S) where:
+    I is the input of the rule, as a string of facts in F.
+    O is the output of the rule, as a string of facts in G
+    S is the symbol string associated with the rule, providing
+    additional information about it in language H
+
+    F,G,H could equal, be a superset, or be disjoint from each other.
+
+    Layers can then be formed of distinct layers of rules L,L',L'' etc,
+    which are of the form L(R,F,G,H), L'(R',F',G',H').
+    such that F' and I' of L' are the same as S and H of L. That is, the output of
+    one layer is the input of another layer.
+
+    The first layer's input, F, would be the base facts of the simulating
+    system, as would the last layer, R^ that would trigger the simulating
+    system to perform actions.
+
+    This can imply the simulating system, the container typically, to be a
+    black box of rules itself, whatever they may be. This can imply
+    thinking of the super set L" (consisting of all layers) is a loop.
+
+    f(L") = f(L) -> F(L') -> F(L'') -> etc to f(L_last)
+
+    What if there were branches to previous loops:
+    F(L"") = f(L) <-> F(L') ...
+
+    With inverse ruleset R#, which would work in the opposite direction:
+    r#(O,I,S) = r(I,O,S)
+
+    And the rule engine has an order of sweeps to evaluate and update by:
+    Order = [L,L',L,L',L'',L_last]
+
+    CiF has a similar system: Volition rules -> Influence rules -> Actions -> Trigger
+    Rules.
+
+    let F_1, the input set for R_1 of L_1, be the set of brute facts, dependent
+    on the simulating system. this is also H_j of L_j, the triggering
+    layer out of L_n layers.
+
+    All other facts are social facts, but are they all equal? No.
+    Differentiate them into different types and further specified layers:
+
+    There can be representable facts F_rep, and silent facts F_sil, as
+    subsets of F_1,
+    things that present observable differences and unobservable
+    differences in the underlying system. The difference between knocking
+    on a door and firing radiation through a door.
+
+    There can rule types as well:
+    Physical->Physical Rules (Physical feedback, the Simulation blackbox layer)
+    Physical->Social Rules (Physically constitutive/definitional)
+    Social -> Social Rules (Social definitions, pure symbolic)
+    Social -> Social Rules(Transformational, communicative)
+    Social -> Physical Rules (Socially initiated actions)
+
+    Constitutive and Symbolic rules could change with only indirect,
+    meaning based changes to the behaviour of the system. Favourite
+    colours, or shouting when angry versus whispering when angry.
+
+    Communicative rules are distinct, because we rely on some level of
+    natural language to be able to understand. (Though James Ryan's
+    islanders didn't need that, using a bit mask description of language).
+
+    If there are transformative layers, such as aggregation, weighting,
+    or data assembly from multiple sources...
+
+**** Authoring for Layers.                                                      :authoring:
+     Be able to define inputs, and ouputs, for a layer, and orders of
+     assessment. Specify that inputs for L_1 are a,b,c,d,e.. and the
+     outputs are w,x,y,z.
+
+     Then move to L_2, that has w,x,y,z as inputs already, with the
+     inputs marked as unused. Any new inputs defined will be recursively added to L_1's output, and
+     marked as undefined.Outputs work similarly to L_3.
+
+     Have the system warn of used ouputs, be able to enforce/define types
+     of the outputs/inputs, and specify generics, and cross-layer
+     facts. Preferences, and recursive changes are also possible.
+
+     System keeps prompting till L_1 input == L_action output
+
+     Transformational layers could be standardised (eg: combine down inputs to
+     n [new/defined] super facts), select m from input options, weight
+     rules in a bell curve) could be varied in defined ways (curve changes,
+     selection number, reset). (Similar to Reaktor system components to
+     create a synth).
+
+     A Transformational layer could also be Societal / Individual based
+     calculation (ie: Specify the bracketed layers should be run on an
+     individual rather than societal, or statistical, or... normative?
+     basis).
+
+     A UI similar to Reaktor, wiring together an architecture graphically,
+     would be intersting. Or at least part of the system, modularly?
+     Treat individuals as 'voices' of the synth?
+*** Software Possibilities                                                      :software:
+**** Algorithms
+***** Partial Ordering
+      As Heuristic Red Black Tree Weighting, seems workable. Doesn't
+      have binning yet. Does sort and output the order based on user input.
+      Could allow for range and indeterminacy, using node ranges.
+      What would the values be of required number of specifications for particular depths?
+    
+***** Voronoi - island/city gen
+      Voronoi is written and works, island and city gen needs work.
+    
+***** Hexboard
+      Written, but accompanying AI needs reworking.
+***** Dungeon gen
+      Hyphae could cover dungeon gen.
+      Should try some graph growing with networkx. 
+      The problem is always translating a graph into a physical representation.
+***** Graph Algorithms
+      Usable in networkx
+      Links with network analysis, source code analysis etc.
+**** Games
+***** Platformer
+***** Roguelike
+***** RPG
+***** Interactive Fiction
+**** Simulations
+     In Netlogo?
+***** Disease and Healthcare?
+      Agents of two forms: Wealth and Vitality. 
+      Sources of Wealth, providing a % of what you alreday have.
+      Likelihood of disease.
+      Specific Agents that process Wealth + Disease -> Vitality
+      Different sources, individual, small groups, single large group
+***** Gatekeepers
+      Walled off area, Agents that only allow particular agents through.
+      Different rules of reject vs allow, require vs optional, etc.
+      Based on visual cues?
+
+***** Voting
+      Nick Case's voting sim. Look at that.
+
+**** Tools
+***** Authoring
+****** Shell
+       Shell rewrite progresses, edge types need some refinement.
+       Then FSM and Rete can be added in. 
+       Instances will take work.
+***** Describing
+****** iELPy
+       Queries are proving tricky.
+****** BTree
+       Needs work. EL.js needs updating.
+**** Exploration and Analysis
+***** Game Code.
+      code -> parsed -> JGShell. See the size and depth, number of children of calls etc.
+***** Game Data.
+      data -> parsed -> JGShell. See the structure of concepts.
+****** Democracy 3
+***** Deep Learning
+      Tensorflow, LSTMs, Pixel Art, FFTs. : interesting, but not important.
+***** Music
+      Supercollider, Ableton Live. Python Midi.
+***** Graphics
+      Cairo, Fluxus, Ogre, PIL, Unity.
+
+**** Concepts
+***** Conversation Maze
+      Pick a conversation:
+      Plan it on post it notes:
+      Generalise
+      Implement
+***** Solar System
+      Interesting but unimportant.
+***** Veil of Ignorance
+      Society Gen. Questions prior to newspaper/street gen?
+***** Pirate ship
+      FTL Expanded.
+***** Kraken Wakes
+      Interlocking system of: The Deeps, Governments, Journalists,
+      Civilians, Scientists. Its FTL without the war.
+
+***** Gormenghast
+      Ritual. The absurdity of ritual, and the leeway of action within it.
+
+**** Rational Reconstructions
+***** XCom - Strategy / Quad Dynamics
+***** MGS V - PMC running
+***** Stalker - Factions
+***** Borderlands - Weapon Gen
+***** Dins Curse - Quests
+***** Dota - Character variation
+***** Shadow of Mordor - Enemy Customisation, hierarchy
+***** Pokemon - Battle System
+***** Papers please - Bureaucratic system
+***** Redshirt - Career Progression
+***** Democracy - Law Network
+***** Spacebase - Simulation
+**** Generative System Grammars
+***** Guilds
+***** Violence Escalation
+***** Values
+***** Societies
+***** Sanctions
+***** Bureacracy
+***** Accidents
+***** Names
+**** System Expressions
+***** Streets
+***** Newspapers
+***** Clothing
+**** Misc
+     Have actions propose their preferred result, as subtext of the
+     expression.  Some agents take the initiative, while others are
+     Responding agents, and choose among preferred options, but can
+     venture out if they desire. Similar to versu approach, but broader?
+**** Tyranny notes
+     A Similarity with the horus heresy.  Conquest of Kyros vs Crusade
+     of the Emperor. Theres a similarity between the Archons of Tyranny
+     and the Primarchs of the HH. 
+   
+     The designation of fatebinder is similar to mass effect, The
+     *social* designation of power to decide others fates. Tyranny makes
+     it similar to Judge Dredd, making the player a walking embodiment
+     of the law, and your interpretation of it is part of the law.  What
+     *would* be interesting is having your judgement's influence how
+     other fatebinders judge, shifting the overall sense of justice and
+     behaviour be close to the players decisions.
+
+     The differences between the two armies contrast well. The rules of
+     induction and recruiting, magic use, leader temperament, trophies,
+     armor are all used. Gender Balance is actually uniform between them.
+   
+*** The Authoring Shell and Modal Systems
+**** A useful set of pieces to model a complex system:
+     That uses:
+     1) Static data nodes
+     2) Scoped and Global Rules
+        collections of rules that apply to categories of relations. [X,i] rules
+        get applied to instantiations, [Y,S] rules apply to defined scopes.
+        Global, local, descendents, ancestors..., things with a tag T
+     3) Instantiation rules
+        1 and 2 get towards describing a platonic item. IRs allow 'there are 25
+        apples, with the instId of 0-25, in play in the world'. String
+        instantiation and modification would fit here to.
+     4) FSMs
+        Enabling transition systems between states of the local world's
+        instantiations
+     5) Parameterised freedom
+
+     6) Layers, Gradient Descent, Evolution,
+        By Specifying layers and groups with parameterised freedom, be able to
+        treat them as nodes in a network, and have them learn, die, mate...
+
+
+     If you represent all of these with a level of abstraction to get them all
+     similar, authoring could become alot easier.
+**** A Modal editor, where a node can have the forms:
+
+     1) A Raw Node, with variables
+     2) A Node where Children are alternatives. Array/Set/Queue/Stack behaviour
+     3) A Node where variables are instantiations.
+        Ie: parent's are prototypes or components, and children are existing
+        instantiations. Instantiations can be existentially exclusive of a set of
+        options, mututally exclusive, complementary, inclusive, indexed.
+     4) A Node as a rule, where parents are conditions, children are actions, and the node body holds transforms of bound variables
+        Where nodes are the the fluents being tested and manipulated in
+        conditions, and actions. Rules would be instantiable themselves, able to
+        act in particular scopes, applicable only when attached to an instance
+        able to test for instances, and select them by index
+     5) A Node as a FSM, where the fsm has states, and conditions as modal children. (An FSM would also be instantiable)
+        Instiantiable, and then testable.`
+     6) A Node that collects a group of rules into a category, a variation on (2)
+     7) A Node that has a defined substructure
+        So a prototypical copy of another segment of the shell?
+     8) A Node where nodes have modification controlled
+        Either permanently, modifiably, depthly or shallowly. Down to specified
+        options, or freely.
+     9) A Node where change can view positively or negatively, and action taken accordingly?
+        Where there is a defined error assessment?
+
+
+     What does this result in as a semantics and structures for node, that will
+     cover everything else?
+***** Structure:
+      The node would need a unique id, and a dictionary of modes that it fulfills.
+      Categories being: Variable-value edges Value-node edges Parent-Child Edges
+      Condition-Rule-Action Edges Instantiation-Exclusion-Alternative edges
+      FSM-Event-State edges Local-Rule edges Instantiation-Rule edges
+
+**** On Learning Haskell, Monads and Parsers in the right way
+     While haskell is great, it is the wrong language to use to learn how to write
+     haskell. Javascript is the *right* way to learn haskell, then you add types.
+
+     Although Monads are a type theory concept, they are a *functional* construct.
+     By which I mean that although type theory describes and enables monads, they
+     only *require* the ability to do first class functional programming. They are
+     used as a means to solve a problem, namely, *code repetition*.
+
+     Parsers are the prime area to learn and use monads, and not in haskell. In
+     Haskell you get bogged down in the type system. In javascript, you have to
+     track it in your head, but also learn the underlying patterns.
+
+     Namely, the ability to pass a function in, and possibly use it, possibly do
+     something else, but still returning a result that can be used in a similarly
+     chained function. Text -> (Maybe Parse).
+
+     ... Here, follow the example out. expanding out what monads save in terms of
+     if tests and hard coding Show why 'return' is better seen as 'lift', to take
+     a value, and return the value the input wrapping function can use.
+
+     Parsing shows how to chain functions together. Also, Parsec shouldn't be
+     imported unqualified when learning. Everything should . Parsec.<|> etc
+
+**** Red-black heuristic ranking
+     Apply a Beachline style red-black tree to ranking/weighting. leaves will form
+     a (possibly bin'd) ordering of weights. Don't bother giving the value itself,
+     just its relation to neighbours. Red-black keeps it balanced so you don't
+     need too many pairings to determine a rank
+
+*** Vault Sim Design Doc                                                        :design:
+    A Fallout Shelter Simulation to bootstrap simulations and norms into
+**** Components
+***** Vault
+      A Stack of Floors
+****** Floor
+       A Row of Rooms
+******* Room
+        Each room holds actors and objects, and has a purpose.
+        Can be an elevator to another floor.
+******** Actor
+         Moves horizontally,
+         interacts with objects and other actors.
+         Moves between floors using elevators.
+******** Object
+         Existing in a room, can be picked up, manipulated, produced, consumed.
+**** Simulation Components
+     Actors, objects, sources, sinks.
+     Room purposes: Water, food, raw materials, produced materials.
+     Floors
+**** Norms
+**** Connection to underlying model
+     Network based to either: JS Rete, Python iElPy, Haskell FSM.
+**** Plan
+     Define rooms: Size, width, slots for items. - Fixed height and width for the moment.
+     Create Elevator room type.
+     Create floor controller: A Row of rooms, with elevators at specified points.
+     Create Actor: Move left and right
+     Create Vault Controller: A Stack of floors, with elevators aligned.
+     Create Simulation Controller: Central repo to hold food, water, power information
+     Create Item Generator and Sink.

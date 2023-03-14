@@ -1,0 +1,15 @@
+#-*- mode: timeline -*-
+# Timeline Format:
+# Ext: .timeline
+
+# For file global tags:
+:tags ....
+
+# Form One: Event
+year       event country person* :desc .... :tags ... :wiki ....
+
+# Form Two: Period:
+year -> year event country person_surname* :tags ... :wiki .... :desc ....
+
+1922 -> 1933 "event"      england blah_bloo bloo_blee :tags blah,blee,blah :link blah
+2003         "something"  usa     a_person            :tags politics       :link https://blah :desc
