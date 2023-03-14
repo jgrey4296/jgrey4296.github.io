@@ -6,29 +6,12 @@ Stub dooter file for task authoring
 # https://pydoit.org/
 ##-- imports
 from __future__ import annotations
-<<<<<<< HEAD
-
-import logging as logmod
-import pathlib as pl
-
-import doot
-from doit import create_after
-from doit.action import CmdAction
-from doit.task import clean_targets
-from doit.tools import Interactive, PythonInteractiveAction, set_trace
-
-=======
 import pathlib as pl
 import sys
 import shutil
-from doit.action import CmdAction
-from doit import create_after
-from doit.tools import set_trace, Interactive, PythonInteractiveAction
-from doit.task import clean_targets
 import logging as logmod
 
 import doot
->>>>>>> writing/master
 ##-- end imports
 
 ##-- logging
