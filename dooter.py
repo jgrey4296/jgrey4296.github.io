@@ -18,8 +18,8 @@ import doot
 logging = logmod.getLogger(__name__)
 ##-- end logging
 
-# from doot.taskslib.groups import *
-# from doot.taskslib.groups_secondary import *
+from doot.tasks.groups import *
+# from doot.tasks.groups_secondary import *
 
 from bkmkorg.doot_tasks import basic, bibtex, bookmark, tags
 
