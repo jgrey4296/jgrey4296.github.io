@@ -19,8 +19,8 @@ build   = "build"
 docs    = "orgfiles"
 res     = "resources"
 data    = "data"
-site    = "site"
-codegen = "site/_generated"
+site    = "site_src"
+codegen = "site_src/_generated"
 
 [[directories]] # libraries
 bibtex         = "resources/bibliography"
