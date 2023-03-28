@@ -23,7 +23,7 @@ data       = "data"
 [[directories]] # github pages
 site       = "site_src"
 codegen    = "site_src/_generated"
-site_build = "docs"
+site_build = ".site"
 
 [[directories]] # libraries
 bibtex         = "resources/bibliography"

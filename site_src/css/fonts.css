@@ -37,3 +37,7 @@
     font-variant    : normal;
     text-transform  : none;
 }
+
+.mono {
+    font-family         : monospace;
+}

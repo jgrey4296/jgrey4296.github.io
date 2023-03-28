@@ -15,6 +15,11 @@ https://www.howtogeek.com/671422/how-to-use-tmux-on-linux-and-why-its-better-tha
 https://construct.readthedocs.io/en/latest/
 https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly
 ** CLI
+*** Git
+https://stackoverflow.com/questions/45272492
+
+git pull origin master --allow-unrelated-histories
+git merge origin origin/master
 
 ** OPA
 https://www.openpolicyagent.org/docs/latest/
