@@ -1,109 +1,155 @@
-/* Main Container Stuff: */
+/* Main Container Stuff : */
 .container {
-    padding: 5%;
-    position: relative;
-    background : #DDD;
-    margin-left : 20%;
-    margin-right: 20%;
-    margin-top: 2%;
-    margin-bottom: 2%;
-    padding-left: 5%;
-    padding-right: 5%;
-    border-radius: 10px;
+    padding             : 5%;
+    position            : relative;
+    background          : #DDD;
+    margin-left         : 20%;
+    margin-right        : 20%;
+    margin-top          : 2%;
+    margin-bottom       : 2%;
+    padding-left        : 5%;
+    padding-right       : 5%;
+    border-radius       : 10px;
+}
+
+body nav {
+    font-size: 200%;
+}
+
+.container p:first-element:first-letter {
+    font-size      : 800%;
+    float          : left;
+    line-height : 200%;
 }
 
 .container h1 {
-    margin: auto;
-    text-align: left;
+    margin              : auto;
+    text-align          : center;
 }
-
-.container .post {
-    margin: auto;
-    text-align: left;
-}
-
 
 .container a {
-    color: #234;
+    color               : #234;
 }
 
 .mono {
-    font-family: monospace;
+    font-family         : monospace;
 }
 
 ul {
-    line-height: 1.5;
+    line-height         : 1.5;
 }
 
 h2 {
-    text-align: center;
+    text-align          : center;
 }
 
 h3 {
-    font-size: 15pt;
-    padding: 10px;
-    text-align: Left;
-    margin: 2px;
-    line-height: 1.4;
+    font-size           : 15pt;
+    padding             : 10px;
+    text-align          : Left;
+    margin              : 2px;
+    line-height         : 1.4;
 }
 
 h3 a {
-    color: blue;
+    color               : blue;
 }
 
-h3 a:hover {
-    background-color: #333;
-    color: grey;
+h3 a                    :hover {
+    background-color    : #333;
+    color               : grey;
 }
 
 .container img {
-    width: 80%;
-    height: auto;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-top:20px;
-    margin-bottom:20px;
+    width               : 80%;
+    height              : auto;
+    margin-left         : 10%;
+    margin-right        : 10%;
+    margin-top          :20px;
+    margin-bottom       :20px;
 }
 
 /* Post Date etc */
 .meta {
-    text-align: center;
-    margin: 5px;
+    text-align          : center;
+    margin              : 5px;
 }
 
 body {
-    margin: 40px auto;
-    background : #444;
-    line-height: 1.4;
-    font-size: 18px;
+    margin              : 40px auto;
+    background          : #444;
+    line-height         : 1.4;
+    font-size           : 18px;
 }
-
 
 /* Navigation bar */
 nav {
-    text-align: center;
-    margin-left : 20%;
-    margin-right: 20%;
-    background: #AAA;
-    padding: 20px;
-    border-radius: 10px;
-    list-style: none;
+    text-align          : center;
+    margin-left         : 20%;
+    margin-right        : 20%;
+    background          : #AAA;
+    padding             : 20px;
+    border-radius       : 10px;
+    list-style          : none;
 }
 
 nav a {
-    margin: 10px, 0;
-    height: 30px;
-    padding: 12px 10px;
-    color: #000;
+    margin              : 10px, 0;
+    height              : 30px;
+    padding             : 12px 10px;
+    color               : #000;
 }
 
-nav a:hover {
-    background-color: #234;
-    color: #DDD;
+nav a                   :hover {
+    background-color    : #234;
+    color               : #DDD;
 }
-
 
 code {
-    font-size: 15px;
+    font-size           : 15px;
 
+}
+
+.break {
+    page-break-after    : always;
+    }
+
+.centered {
+    display             : block;
+    text-align          : center;
+    margin              : 1em 0
+    }
+
+.right {
+    text-align          : right;
+    }
+
+/* Centered quote, as a box to allow */
+/* child text-aligning */
+.quote {
+    display             : table;
+    box-sizing          : content-box;
+    margin              : 1em auto;
+    width               : fit-content;
+    }
+
+.pic {
+    display             : block;
+    font-family         : serif;
+    font-size           : 1em;
+    line-height         : 133%;
+    text-indent         : 0;
+    margin              : 12pt 0 6pt;
+    padding             : 0;
+    }
+
+
+
+.sticky-footer {
+    position            :fixed;
+    left                :0px;
+    bottom              :0px;
+    /* or top           :0px for header */
+    height              :32px;
+    width               :100%;
 }

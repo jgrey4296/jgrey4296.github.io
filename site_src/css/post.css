@@ -1,0 +1,61 @@
+h2 {
+    text-align : center;
+    margin     : auto;
+}
+
+h3 {
+  text-align: left;
+}
+
+.container .post {
+    margin     : auto;
+    text-align : left;
+}
+
+/* from https://css-tricks.com/snippets/css/drop-caps/ */
+/* Larger Letter at start of chapter, using a span: */
+/* css3: */
+.css3-dropcap:first-letter {
+  float     : left;
+  font-size : 800%;
+}
+
+.dropcap:first-letter {
+    font-size      : 800%;
+    float          : left;
+    line-height : 200%;
+}
+
+.upcap:first-letter {
+    font-size      : 800%;
+    float          : none;
+    /* line-height : 200%; */
+}
+
+/* https://www.scottohara.me/blog/2017/04/14/inclusively-hidden.html */
+.sr-only:not(:focus):not(:active) {
+  clip        : rect(0 0 0 0);
+  clip-path   : inset(50%);
+  height      : 1px;
+  overflow    : hidden;
+  position    : absolute;
+  white-space : nowrap;
+  width       : 1px;
+}
+
+.pull-quote {
+    width       : 300px;
+    float       : right;
+    margin      : 10px;
+    font-family : Georgia, "Times New Roman", Times, serif;
+    font        : italic bold #777777 ;
+    }
+
+/* from https://www.codecademy.com/resources/blog/30-css-snippets/ */
+.shadow {
+  box-shadow         : 0px 5px 5px rgba(0,0,0,0.4);
+  -moz-box-shadow    : 0px 5px 5px rgba(0,0,0,0.4);
+  -webkit-box-shadow : 0px 5px 5px rgba(0,0,0,0.4);
+}
+
+.text-with-shadow { text-shadow: 4px 4px 8px #000; }
