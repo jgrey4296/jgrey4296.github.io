@@ -724,7 +724,7 @@ https://restructuredtext.readthedocs.io/en/latest/
 
 *** Latex
 **** tlmgr
-
+for installing packages, use --usermode after tlmgr init-usertree
 :outdated_l3_layer:
 https://tex.stackexchange.com/questions/586467/
 
