@@ -2,6 +2,6 @@ name        = "John Grey"
 markdown    = "kramdown"
 permalink   = "/posts/:year/:month/:day/:title"
 source      = "site_src"
-destination = "docs"
+destination = ".site"
 safe        = true
 include     = ["_generated"]
