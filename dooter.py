@@ -30,9 +30,9 @@ if __name__ == "dooter":
     stubber      = bibtex.BibtexStub(locs=doot.locs)
     pdflib_clean = bibtex.LibDirClean(locs=doot.locs)
 
-    noscript     = basic.NoScriptMerge(locs=doot.locs)
+    # noscript     = basic.NoScriptMerge(locs=doot.locs)
 
-    # # TODO report
+     # TODO report
     bkmks_update = bookmark.BookmarksUpdate(locs=doot.locs)
     bkmk_clean   = bookmark.BookmarksCleaner(locs=doot.locs)
     bkmk_report  = bookmark.BookmarksReport(locs=doot.locs)
@@ -43,5 +43,4 @@ if __name__ == "dooter":
     tags_index   = tags.TagsIndexer(locs=doot.locs)
 
     # breakpoint()
-    # pass
-    # TODO interface with jekyll tasks
+    pass

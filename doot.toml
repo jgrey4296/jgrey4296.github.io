@@ -13,17 +13,16 @@ file   = { level = "DEBUG", format = "{levelname:<8} : {message:<20} : ({module}
 ignores  = ['.git', '.DS_Store', "__pycache__"]
 
 [[directories]] # core
-src        = "_python_utils"
 temp       = ".temp"
 build      = "build"
 docs       = "orgfiles"
 res        = "resources"
-data       = "data"
+
 
 [[directories]] # github pages
-site       = "site_src"
-codegen    = "site_src/_generated"
-site_build = ".site"
+site       = "site"
+codegen    = "site/_generated"
+site_build = "build/site"
 
 [[directories]] # libraries
 bibtex         = "resources/bibliography"
@@ -31,12 +30,12 @@ bookmarks      = "resources/bookmarks"
 completions    = "resources/completions"
 tags           = "resources/tags"
 urls           = "resources/urls"
-pdfs           = "/Volumes/documents/pdflibrary"
 orgs           = "orgfiles"
+pdfs           = "/Volumes/documents/pdflibrary"
 bibtex_working = "/Volumes/documents/in_progress_pdfs/Current/"
 
 [[directories]] # Watch folders
-# orgs    = "/Volumes/documents/twitterthreads"
+threads   = "/Volumes/documents/twitterthreads"
 downloads = "~/Downloads"
 desktop   = "~/Desktop"
 dropbox   = "~/Dropbox/docs"
@@ -46,5 +45,3 @@ firefox   = "~/Library/ApplicationSupport/Firefox"
 bib_stub_file   = "resources/todo.bib"
 bookmarks_total = "resources/bookmarks/total.bookmarks"
 
-[group.jekyll]
-debug = true
