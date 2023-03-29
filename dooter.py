@@ -21,7 +21,7 @@ logging = logmod.getLogger(__name__)
 from doot.tasks.groups import *
 # from doot.tasks.groups_secondary import *
 
-from bkmkorg.doot_tasks import basic, bibtex, bookmark, tags
+from doot.tasks.bkmkorg import basic, bibtex, bookmark, tags
 
 if __name__ == "dooter":
     # the equivalent of main

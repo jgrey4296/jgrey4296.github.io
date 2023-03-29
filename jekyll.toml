@@ -1,7 +1,0 @@
-name        = "John Grey"
-markdown    = "kramdown"
-permalink   = "/posts/:year/:month/:day/:title"
-source      = "site_src"
-destination = "docs"
-safe        = true
-include     = ["_generated"]
