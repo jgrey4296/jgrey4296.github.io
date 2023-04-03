@@ -3,7 +3,9 @@
 {% block title %}{{ SITENAME }} - {{ period | reverse | join(' ') }} archives{% endblock %}
 
 {% block content %}
-<h1>Archives for {{ period | reverse | join(' ') }}</h1>
+    <header>
+        <h1>Archives for {{ period | reverse | join(' ') }}</h1>
+    </header>
 
 <dl>
 {% for article in dates %}

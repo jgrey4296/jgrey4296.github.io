@@ -41,3 +41,16 @@
 .mono {
     font-family         : monospace;
 }
+
+
+header {
+    font-family     : Georgia, serif;
+    letter-spacing  : 2px;
+    word-spacing    : 2px;
+    color           : #000000;
+    font-weight     : 400;
+    text-decoration : rgb(68, 68, 68);
+    font-style      : normal;
+    font-variant    : normal;
+    text-transform  : none;
+}

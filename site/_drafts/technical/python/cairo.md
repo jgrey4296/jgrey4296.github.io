@@ -1,10 +1,10 @@
 ---
-layout: post
 title: Cairo in Python
-date: <2022-10-29 Sat>
-tags: python,cairo,graphics
+status: draft
+date: 2022-10-29
+tags:  python,cairo,graphics 
 ---
-
+stub
 
 
 

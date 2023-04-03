@@ -1,8 +1,8 @@
 ---
-layout: post
 title: Quotes
+status: published
 date: 2020-11-28
-tags: [ethics]
+tags:  ethics 
 ---
 
 "I didn't see it on Tiktok. I saw it on Twitter.

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Resources
+template: resources
 ---
-# Resources

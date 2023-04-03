@@ -1,4 +1,5 @@
 # -*- mode:conf-toml; -*-
+# /opt/anaconda3/envs/bookmark/lib/python3.10/site-packages/pelican/writers.py
 [pelican]
 AUTHOR           = 'john grey'
 DEFAULT_METADATA = {}
@@ -26,12 +27,7 @@ SUMMARY_MAX_LENGTH                     =  50
 
 [site.pages]
 PAGE_PATHS                     =  ['about', 'cv', 'resources']
-PAGE_EXCLUDES                  =  ['_theme', '_layouts']
-
-[site.blogroll]
-LINKS                          = []
-SOCIAL                         = []
-TWITTER_USERNAME               = ""
+PAGE_EXCLUDES                  =  ['_theme']
 
 [theme]
 THEME                     = 'site/_theme'
@@ -45,7 +41,7 @@ TEMPLATE_EXTENSIONS       = ['.html']
 THEME_TEMPLATES_OVERRIDES = []
 DIRECT_TEMPLATES          = ['index', 'tags', 'categories', 'archives']
 PAGINATED_TEMPLATES       = {'index' = false, 'tag' = false, 'category' = false,  'author' = false}
-PAGINATION_PATTERNS       = [['1', '{name}{extension}', '{name}{extension}'], ['2', '{name}{number}{extension}', '{name}{number}{extension}']]
+# PAGINATION_PATTERNS       = [[1, '{name}{extension}', '{name}{extension}'], [2, '{name}{number}{extension}', '{name}{number}{extension}']]
 
 [rst]
 PYGMENTS_RST_OPTIONS           =  {}
@@ -85,16 +81,17 @@ TRANSLATION_FEED_ATOM = false
 AUTHOR_FEED_ATOM      = false
 AUTHOR_FEED_RSS       = false
 RELATIVE_URLS         = true
+# RSS_FEED_SUMMARY_ONLY          = true
 
-[[build.publish]]
-RELATIVE_URLS                  = false
-FEED_ALL_ATOM                  = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM             = 'feeds/{slug}.atom.xml'
-AUTHOR_FEED_ATOM               = 'feeds/{slug}.atom.xml'
-AUTHOR_FEED_RSS                = 'feeds/{slug}.rss.xml'
-TRANSLATION_FEED_ATOM          = 'feeds/all-{lang}.atom.xml'
-FEED_MAX_ITEMS                 = ''
-RSS_FEED_SUMMARY_ONLY          = true
+# [[build.publish]]
+# RELATIVE_URLS                  = false
+# FEED_ALL_ATOM                  = 'feeds/all.atom.xml'
+# CATEGORY_FEED_ATOM             = 'feeds/{slug}.atom.xml'
+# AUTHOR_FEED_ATOM               = 'feeds/{slug}.atom.xml'
+# AUTHOR_FEED_RSS                = 'feeds/{slug}.rss.xml'
+# TRANSLATION_FEED_ATOM          = 'feeds/all-{lang}.atom.xml'
+# FEED_MAX_ITEMS                 = ''
+# RSS_FEED_SUMMARY_ONLY          = true
 
 
 [jinja]
@@ -104,7 +101,7 @@ JINJA_TESTS                            =  {}
 
 [jinja.JINJA_ENVIRONMENT]
 trim_blocks  = true
-strip_blocks = true
+lstrip_blocks = true
 extensions   = []
 
 [logging]
@@ -121,12 +118,12 @@ TYPOGRIFY_IGNORE_TAGS                  =  []
 TYPOGRIFY_DASHES                       =  'default'
 
 [slugify]
-SLUG_REGEX_SUBSTITUTIONS               =  []
-# (r[^\w\s-], ''),  # remove non-alphabetical/whitespace/'-' chars
-# (r(?u)\A\s*, ''), # strip leading whitespace
-# (r(?u)\s*\Z, ''), # strip trailing whitespace
-# (r[-\s]+, '-'),   # reduce multiple whitespace or '-' to single '-'
-#
+SLUG_REGEX_SUBSTITUTIONS               =  [
+ ["[^\\w\\s-]", ''],  # remove non-alphabetical/whitespace/'-' chars
+ ["(?u)\\A\\s*", ''], # strip leading whitespace
+ ["(?u)\\s*\\Z", ''], # strip trailing whitespace
+ ["[-\\s]+",    '-'],   # reduce multiple whitespace or '-' to single '-'
+]
 INTRASITE_LINK_REGEX                   =  '[{|](?P<what>.*?)[|}]'
 SLUGIFY_SOURCE                         =  'title'
 SLUGIFY_USE_UNICODE                    =  false
@@ -145,8 +142,7 @@ ARTICLE_PERMALINK_STRUCTURE = ''
 ARTICLE_TRANSLATION_ID      = 'slug'
 DEFAULT_ORPHANS             = 0
 DEFAULT_PAGINATION          = false
-DISPLAY_CATEGORIES_ON_MENU  = true
-DISPLAY_PAGES_ON_MENU       = true
+DISPLAY_CATEGORIES_ON_MENU  = false
 DOCUTILS_SETTINGS           = {}
 EXTRA_PATH_METADATA         = {}
 FILENAME_METADATA           = '(?P<date>\d{4}-\d{2}-\d{2}).*'

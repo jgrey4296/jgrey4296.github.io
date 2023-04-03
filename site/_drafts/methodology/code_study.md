@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Code Study
-date: <2022-10-29 Sat>
-tags: [code_study,ai,source_code,statistics]
+status: draft
+date: 2022-10-29
+tags:  code_study,ai,source_code,statistics 
 ---
 
 
+stub

@@ -22,6 +22,7 @@ from doot.tasks.groups import *
 # from doot.tasks.groups_secondary import *
 
 from doot.tasks.bkmkorg import basic, bibtex, bookmark, tags
+from doot.tasks.builders.pelican import PelicanTasker, PelicanServer
 
 if __name__ == "dooter":
     # the equivalent of main
@@ -32,15 +33,18 @@ if __name__ == "dooter":
 
     # noscript     = basic.NoScriptMerge(locs=doot.locs)
 
-     # TODO report
     bkmks_update = bookmark.BookmarksUpdate(locs=doot.locs)
     bkmk_clean   = bookmark.BookmarksCleaner(locs=doot.locs)
     bkmk_report  = bookmark.BookmarksReport(locs=doot.locs)
 
-    # TODO indexer
     tags_clean   = tags.TagsCleaner(locs=doot.locs)
     tags_report  = tags.TagsReport(locs=doot.locs)
     tags_index   = tags.TagsIndexer(locs=doot.locs)
 
+    web_build    = PelicanTasker(locs=doot.locs)
+    web_serve    = PelicanServer(locs=doot.locs)
+
+    # TODO report
+    # TODO indexer
     # breakpoint()
     pass

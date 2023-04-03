@@ -1,8 +1,8 @@
 ---
-layout: post
 title: The bkmkorg library
-date:  <2022-10-29 Sat>
-tags: [python,bibtex,parsing,twitter,automation,bookmarks,utilities]
+status: draft
+date:  2022-10-29
+tags:  python,bibtex,parsing,twitter,automation,bookmarks,utilities 
 ---
-
+stub
 

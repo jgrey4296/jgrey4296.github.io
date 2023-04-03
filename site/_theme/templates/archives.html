@@ -3,7 +3,9 @@
 {% block title %}{{ SITENAME }} - Archives{% endblock %}
 
 {% block content %}
-<h1>Archives for {{ SITENAME }}</h1>
+    <header>
+        <h1>Archives for {{ SITENAME }}</h1>
+    </header>
 
 <dl>
 {% for article in dates %}

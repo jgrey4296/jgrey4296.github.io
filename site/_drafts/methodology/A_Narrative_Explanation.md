@@ -1,6 +1,6 @@
 ---
-layout: post
 title: A Narrative Explanation
+status: draft
 date: 2021-01-21
 tags: 
 ---

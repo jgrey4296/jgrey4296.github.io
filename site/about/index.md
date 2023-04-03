@@ -1,9 +1,5 @@
 ---
-layout: default
 title: About
-extra_css: [post.css, fonts.css]
+template: page
 ---
-
-<p class="dropcap basic-arial">
 Not Much
-</p>

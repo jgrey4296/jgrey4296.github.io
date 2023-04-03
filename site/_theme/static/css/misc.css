@@ -10,7 +10,7 @@ code {
 .centered {
     display             : block;
     text-align          : center;
-    margin              : 1em 0
+    margin              : 1em 0;
 }
 
 .right {
@@ -31,7 +31,7 @@ code {
     float       : right;
     margin      : 10px;
     font-family : Georgia, "Times New Roman", Times, serif;
-    font        : italic bold #777777 ;
+    /* font        : italic bold #777777; */
 }
 
 .sticky-footer {
@@ -46,7 +46,7 @@ code {
 /* from https://css-tricks.com/snippets/css/drop-caps/ */
 /* Larger Letter at start of chapter, using a span: */
 .dropcap:first-letter {
-    font-size      : 800%;
+    font-size      : 500%;
     float          : left;
     line-height : 200%;
 }

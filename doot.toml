@@ -7,7 +7,7 @@ verbosity                = 2
 
 [logging]
 stream = { level = "INFO", format  = "{levelname:<8} : {message}", filters = ["doot"] }
-file   = { level = "DEBUG", format = "{levelname:<8} : {message:<20} : ({module}.{lineno}.{funcName})", filters =  ["doot"] }
+file   = { level = "DEBUG", format = "{levelname:<8} : {message:<20} : ({module}.{lineno}.{funcName})", filters =  ["doot", "pelican"] }
 
 [globbing]
 ignores  = ['.git', '.DS_Store', "__pycache__"]
@@ -18,11 +18,11 @@ build      = "build"
 docs       = "orgfiles"
 res        = "resources"
 
-
 [[directories]] # github pages
-site       = "site"
-codegen    = "site/_generated"
-site_build = "build/site"
+site             = "site"
+codegen          = "site/_generated"
+site_build       = "build/site"
+pelican_settings = "pelican.toml"
 
 [[directories]] # libraries
 bibtex         = "resources/bibliography"
@@ -45,3 +45,5 @@ firefox   = "~/Library/ApplicationSupport/Firefox"
 bib_stub_file   = "resources/todo.bib"
 bookmarks_total = "resources/bookmarks/total.bookmarks"
 
+[bibtex]
+clean_in_place = true

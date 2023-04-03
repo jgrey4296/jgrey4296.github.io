@@ -1,0 +1,27 @@
+/* Post Date etc */
+.entry-meta {
+    text-align          : center;
+    margin              : 5px;
+    /* display : flex; */
+    /* flex-direction: row; */
+    /* justify-content: center; */
+
+}
+.entry-meta * {
+    /* padding-right : 1em; */
+}
+
+h2 {
+    text-align : center;
+    margin     : auto;
+}
+
+h3 {
+  text-align: left;
+}
+
+main p:first-child:first-letter {
+    font-size      : 800%;
+    float          : left;
+    line-height : 200%;
+}

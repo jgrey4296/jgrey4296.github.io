@@ -1,8 +1,7 @@
 ---
-layout: post
 title: Refactoring Instal
-date: <2022-10-29 Sat>
+status: draft
+date: 2022-10-29
 tags: python,pyparsing,instal
 ---
-
 

@@ -6,11 +6,11 @@ body {
 }
 
 /* Main Container Stuff : */
-.container {
+main{
     position       : relative;
     background     : #DDD;
-    margin-left    : 20%;
-    margin-right   : 20%;
+    margin-left    : 10%;
+    margin-right   : 10%;
     margin-top     : 2%;
     margin-bottom  : 2%;
     border-radius  : 10px;
@@ -20,20 +20,18 @@ body {
     padding-bottom : 5%;
 }
 
-.container p:first-element:first-letter {
-    font-size      : 800%;
-    float          : left;
-    line-height : 200%;
-}
-
-.container a {
+main a {
     color               : #234;
 }
 
 /* headers */
-.container h1 {
+header h1 {
     margin              : auto;
     text-align          : center;
+}
+
+.content-header h1 {
+    border-bottom: 5px solid #1C6EA4;
 }
 
 h2 {
@@ -53,7 +51,7 @@ h3 a {
 }
 
 /* image */
-.container img {
+main img {
     width               : 80%;
     height              : auto;
     margin-left         : 10%;
@@ -73,11 +71,8 @@ h3 a {
     }
 
 /* Navigation bar */
-body nav {
-    font-size: 150%;
-}
-
 nav {
+    font-size: 150%;
     text-align          : center;
     margin-left         : 20%;
     margin-right        : 20%;
@@ -88,7 +83,7 @@ nav {
 }
 
 nav a {
-    margin              : 10px, 0;
+    margin              : 10px 0;
     height              : 30px;
     padding             : 12px 10px;
     color               : #000;
@@ -100,13 +95,26 @@ nav a:hover {
     color               : #DDD;
 }
 
-
 h3 a:hover {
     background-color    : #333;
     color               : grey;
 }
 
-.container a:hover {
+a:hover {
     background-color : #333;
     color : grey;
+}
+
+
+.hentry {
+    background-color : #95392c;
+
+}
+
+#post-list li {
+    margin-bottom: 20px;
+}
+
+#tag-list {
+    column-count : 3;
 }

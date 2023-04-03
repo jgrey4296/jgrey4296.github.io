@@ -1,8 +1,7 @@
 ---
-layout: post
 title: Bibliography
-date: <2022-10-29 Sat>
-tags: [bibliography,bibtex,books,articles,papers,misc]
+status: draft
+date: 2022-10-29
+tags:  bibliography,bibtex,books,articles,papers,misc 
 ---
-
-
+stub

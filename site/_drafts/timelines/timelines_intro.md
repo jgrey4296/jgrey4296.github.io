@@ -1,8 +1,8 @@
 ---
-layout: post
 title: Timelines Introduction
-date: <2022-10-29 Sat>
-tags: [ethics]
+status: draft
+date: 2022-10-29
+tags:  ethics 
 ---
-
+stub
 

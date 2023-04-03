@@ -1,10 +1,7 @@
 ---
-layout: post
 title: The Joy of Cron
-date: <2022-10-29 Sat>
-tags: [cron,python,automation]
+status: draft
+date: 2022-10-29
+tags:  cron,python,automation 
 ---
-
-
-
-
+stub
