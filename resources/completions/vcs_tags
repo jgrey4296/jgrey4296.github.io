@@ -1,6 +1,7 @@
 android
 api
 bibliography
+binding
 bookmarks
 chore
 cleanup
@@ -16,6 +17,7 @@ groups
 ignore
 increment
 initial
+jekyll
 maintenance
 man
 mode
@@ -26,18 +28,16 @@ python
 quotes
 refactor
 shell
+site
 snippets
 stub
 tags
 tasks
 templates
 test
+tmux
+todo
 toml
 update
 urls
 util
-jekyll
-tmux
-
-todo
-binding
