@@ -4,8 +4,8 @@
 {% block title %}{{ SITENAME }} - {{ article.title|striptags  }}{% endblock %}
 
 {% block style %}
-{{ super() }}
-<link rel="stylesheet" href="theme/css/article.css">
+  {{ super() }}
+  <link rel="stylesheet" href="theme/css/article.css">
 {% endblock style %}
 
 {% block head %}
@@ -23,11 +23,11 @@
 
 {% block content %}
   <header class="content-header">
-    <h1 class="entry-title">
+    <h1>
       <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
          title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
     </h1>
-    <div class="entry-meta">
+    <div class="content-meta">
       <time class="published" datetime="{{ article.date.isoformat() }}">
         {{ article.locale_date }}
       </time>
@@ -44,10 +44,10 @@
           {% endfor %}
         </div>
       {% endif %}
-      </div>
+    </div>
   </header>
 
-  <article>
+  <article class="content-actual">
     {{ article.content }}
   </article>
 

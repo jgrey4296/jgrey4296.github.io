@@ -1,39 +1,43 @@
 # -*- mode:conf-toml; -*-
+
 # /opt/anaconda3/envs/bookmark/lib/python3.10/site-packages/pelican/writers.py
 [pelican]
-AUTHOR           = 'john grey'
-DEFAULT_METADATA = {}
-SITENAME         = 'Mostly Harmless'
-SITEURL          = 'jgrey4296.github.io'
-PATH             = 'site'
-STATIC_PATHS     =  ['images']
-TIMEZONE         = 'Europe/Rome'
-DEFAULT_LANG     = 'en'
-READERS          = {}
-FORMATTED_FIELDS =  ['summary']
+AUTHOR                 = 'john grey'
+DEFAULT_METADATA       = {}
+SITENAME               = 'Mostly Harmless'
+SITEURL                = 'jgrey4296.github.io'
+PATH                   = 'site'
+STATIC_PATHS           = ['images']
+TIMEZONE               = 'Europe/Rome'
+DEFAULT_LANG           = 'en'
+READERS                = {}
+FORMATTED_FIELDS       = ['summary']
+PORT                   =  8000
+BIND                   =  '127.0.0.1'
 
 [site.articles]
-ARTICLE_PATHS                  =  ["posts", "_drafts"]
-ARTICLE_EXCLUDES               =  []
-USE_FOLDER_AS_CATEGORY         =  true
-DEFAULT_CATEGORY               =  'misc'
-WITH_FUTURE_DATES              =  true
-NEWEST_FIRST_ARCHIVES          =  true
-REVERSE_CATEGORY_ORDER         =  false
+DEFAULT_CATEGORY       =  'misc'
+ARTICLE_PATHS          =  ["posts", "_drafts"]
+ARTICLE_EXCLUDES       =  []
+USE_FOLDER_AS_CATEGORY =  true
+WITH_FUTURE_DATES      =  true
+NEWEST_FIRST_ARCHIVES  =  true
+REVERSE_CATEGORY_ORDER =  false
 
 [site.articles.summary]
-SUMMARY_END_SUFFIX                     =  '…'
-SUMMARY_MAX_LENGTH                     =  50
+SUMMARY_END_SUFFIX     =  '…'
+SUMMARY_MAX_LENGTH     =  50
 
 [site.pages]
-PAGE_PATHS                     =  ['about', 'cv', 'resources']
-PAGE_EXCLUDES                  =  ['_theme']
+PAGE_PATHS             =  ['about', 'cv', 'resources']
+PAGE_EXCLUDES          =  ['_theme']
 
+##-- text and templates
 [theme]
-THEME                     = 'site/_theme'
-THEME_STATIC_DIR          = 'theme'
-THEME_STATIC_PATHS        = ['static']
-CSS_FILE                  = 'main.css'
+THEME                  = 'site/_theme'
+THEME_STATIC_DIR       = 'theme'
+THEME_STATIC_PATHS     = ['static']
+CSS_FILE               = 'main.css'
 
 [templates]
 TEMPLATE_PAGES            = {}
@@ -54,6 +58,9 @@ markdown.extensions.codehilite = {'css_class' = 'highlight'}
 markdown.extensions.extra      = {}
 markdown.extensions.meta       = {}
 
+##-- end text and templates
+
+##-- build.config
 [build]
 PELICAN_CLASS            = 'pelican.Pelican'
 OUTPUT_PATH              = 'build/site'
@@ -61,39 +68,41 @@ content_extensions       = [".md", ".rst"]
 static_extensions        = [".css", ".js"]
 OUTPUT_SOURCES           = false
 OUTPUT_SOURCES_EXTENSION = '.text'
-LOAD_CONTENT_CACHE       =  false
-STATIC_EXCLUDES           = []
-STATIC_EXCLUDE_SOURCES    = true
+LOAD_CONTENT_CACHE       = false
+STATIC_EXCLUDES          = []
+STATIC_EXCLUDE_SOURCES   = true
+DISQUS_SITENAME          = ""
+GOOGLE_ANALYTICS         = ""
+DELETE_OUTPUT_DIRECTORY  =  false
+OUTPUT_RETENTION         =  []
+IGNORE_FILES             =  ['.#*']
 
-[[build.default]]
-DISQUS_SITENAME                = ""
-GOOGLE_ANALYTICS               = ""
-DELETE_OUTPUT_DIRECTORY        =  false
-OUTPUT_RETENTION               =  []
-IGNORE_FILES                   =  ['.#*']
+[build.config.dev]
+FEED_ALL_ATOM            = false
+CATEGORY_FEED_ATOM       = false
+TRANSLATION_FEED_ATOM    = false
+AUTHOR_FEED_ATOM         = false
+AUTHOR_FEED_RSS          = false
+RELATIVE_URLS            = true
+RSS_FEED_SUMMARY_ONLY    = true
+STATIC_CHECK_IF_MODIFIED = false
+STATIC_CREATE_LINKS      = true
 
-[[build.dev]]
-PORT                  =  8000
-BIND                  =  '127.0.0.1'
-FEED_ALL_ATOM         = false
-CATEGORY_FEED_ATOM    = false
-TRANSLATION_FEED_ATOM = false
-AUTHOR_FEED_ATOM      = false
-AUTHOR_FEED_RSS       = false
-RELATIVE_URLS         = true
-# RSS_FEED_SUMMARY_ONLY          = true
+[build.config.publish]
+RELATIVE_URLS                  = false
+FEED_ALL_ATOM                  = 'feeds/all.atom.xml'
+CATEGORY_FEED_ATOM             = 'feeds/{slug}.atom.xml'
+AUTHOR_FEED_ATOM               = 'feeds/{slug}.atom.xml'
+AUTHOR_FEED_RSS                = 'feeds/{slug}.rss.xml'
+TRANSLATION_FEED_ATOM          = 'feeds/all-{lang}.atom.xml'
+FEED_MAX_ITEMS                 = ''
+RSS_FEED_SUMMARY_ONLY          = true
+STATIC_CHECK_IF_MODIFIED = false
+STATIC_CREATE_LINKS      = false
 
-# [[build.publish]]
-# RELATIVE_URLS                  = false
-# FEED_ALL_ATOM                  = 'feeds/all.atom.xml'
-# CATEGORY_FEED_ATOM             = 'feeds/{slug}.atom.xml'
-# AUTHOR_FEED_ATOM               = 'feeds/{slug}.atom.xml'
-# AUTHOR_FEED_RSS                = 'feeds/{slug}.rss.xml'
-# TRANSLATION_FEED_ATOM          = 'feeds/all-{lang}.atom.xml'
-# FEED_MAX_ITEMS                 = ''
-# RSS_FEED_SUMMARY_ONLY          = true
+##-- end build.config
 
-
+##-- jinja
 [jinja]
 JINJA_FILTERS                          =  {}
 JINJA_GLOBALS                          =  {}
@@ -104,9 +113,11 @@ trim_blocks  = true
 lstrip_blocks = true
 extensions   = []
 
+##-- end jinja
+
+##-- pelican settings
 [logging]
 LOG_FILTER                             =  []
-
 
 [plugins]
 PLUGIN_PATHS                           =  []
@@ -137,6 +148,10 @@ GZIP_CACHE                             =  true
 CHECK_MODIFIED_METHOD                  =  'mtime'
 WRITE_SELECTED                         =  []
 
+##-- end pelican settings
+
+##-- site.settings
+
 [site.settings]
 ARTICLE_PERMALINK_STRUCTURE = ''
 ARTICLE_TRANSLATION_ID      = 'slug'
@@ -150,13 +165,14 @@ INDEX_SAVE_AS               = 'index.html'
 LOCALE                      = []  # defaults to user locale
 PAGE_TRANSLATION_ID         = 'slug'
 PATH_METADATA               = ''
-STATIC_CHECK_IF_MODIFIED    = false
-STATIC_CREATE_LINKS         = false
 
 [site.settings.datetime]
 DATE_FORMATS                = {}
 DEFAULT_DATE_FORMAT         = '%a %d %B %Y'
 
+##-- end site.settings
+
+##-- urls
 [[site.urls]]
 ARTICLE_URL                            =  '{slug}.html'
 ARTICLE_SAVE_AS                        =  '{slug}.html'
@@ -204,3 +220,5 @@ MONTH_ARCHIVE_URL                      =  ''
 MONTH_ARCHIVE_SAVE_AS                  =  ''
 DAY_ARCHIVE_URL                        =  ''
 DAY_ARCHIVE_SAVE_AS                    =  ''
+
+##-- end urls
