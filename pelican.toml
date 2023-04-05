@@ -17,7 +17,7 @@ BIND                   =  '127.0.0.1'
 
 [site.articles]
 DEFAULT_CATEGORY       =  'misc'
-ARTICLE_PATHS          =  ["posts", "_drafts"]
+ARTICLE_PATHS          =  ["posts", "_posts"]
 ARTICLE_EXCLUDES       =  []
 USE_FOLDER_AS_CATEGORY =  true
 WITH_FUTURE_DATES      =  true

@@ -172,7 +172,6 @@ https://en.wikipedia.org/wiki/Bias#Types_of_bias
 
 ***** Selection Bias
 
-
 ** Math
 *** Number Systems
 N - Natural Numbers.             0?, 1, 2, 3...
@@ -265,7 +264,6 @@ Expressed in the same units as X.
 
 Measures association between two variables.
 
-
 Properties:
 Cov(aX, bY)   = a * b * Cov(X, Y)
 Cov(X + c, Y) = Cov(X, Y)
@@ -310,7 +308,6 @@ denom = Var(X₁)Var(X₂) - Cov(X₁X₂)²
 α  = E(Y)
 :END:
 
-
 Distribution                            -
 Joint Distribution                      -
 Partition                               - Exhaustive, mutually exclusive set of events
@@ -330,7 +327,6 @@ Surjective            - right-total.               ∀y ∈ Y,   ∃x ∈ X : xR
 Total                 - left-total.                ∀x ∈ X,   ∃y ∈ Y : f(x) = y
 Partial               - right-unique.              ∀x ∈ X, ∀y,z ∈ Y : xRy ∧ xRz ⇒ y = z
 Bijective             - A Function which is both injective and surjective.
-
 
 transpose             - X, Y and R ⊆ X ⨯ Y : (R^T) = y(R^T)x ⇔ xRy.
 involution            - f(f(x)) = x.
@@ -699,7 +695,6 @@ Cautious Reasoning       -
 Natural Transformation -
 :Morphisms:
 
-
 mono       -
 epi        -
 bi         -
@@ -829,10 +824,6 @@ Q -
 F -
 :END:
 
-
-
-
-
 *** Computational Complexity
 LogSpace -
 PTime -
@@ -857,7 +848,6 @@ least sig      <little endian>        most sig
 most sig       <big    endian>       least sig
 
 little end first versus big end first
-
 
 ** Misc
 Marxism                        - critique of capitalism, and understanding economic activity through class struggle
@@ -1077,7 +1067,6 @@ Louis XVI style
 Adam style
 Directoire style
 Picturesque
-
 
 **** 19th Century
     Academic, c. 16th century–20th century
@@ -1392,7 +1381,6 @@ Ethics is the study of right and wrong - how we should act.
 Phenomenology is the study of our experience - how we experience.
 :END:
 
-
 *** Ontology
 *** Sociology
 double hermeneutic      - relationship between lay and social science interpretation of the world.
@@ -1443,7 +1431,6 @@ Imperative
 Exclamative
 
 :END:
-
 
 **** Parts of Speech
 Noun                    -

@@ -41,3 +41,6 @@ toml
 update
 urls
 util
+
+checkers
+bash

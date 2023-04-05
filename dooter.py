@@ -1,9 +1,7 @@
 # -*- mode:doot; -*-
 """
-Stub dooter file for task authoring
 
 """
-# https://pydoit.org/
 ##-- imports
 from __future__ import annotations
 import pathlib as pl
@@ -25,13 +23,12 @@ from doot.tasks.bkmkorg import basic, bibtex, bookmark, tags
 from doot.tasks.builders.pelican import PelicanTasker, PelicanServer
 
 if __name__ == "dooter":
-    # the equivalent of main
+    # noscript     = basic.NoScriptMerge(locs=doot.locs)
+
     cleaner      = bibtex.BibtexClean(locs=doot.locs)
     report       = bibtex.BibtexReport(locs=doot.locs)
     stubber      = bibtex.BibtexStub(locs=doot.locs)
     pdflib_clean = bibtex.LibDirClean(locs=doot.locs)
-
-    # noscript     = basic.NoScriptMerge(locs=doot.locs)
 
     bkmks_update = bookmark.BookmarksUpdate(locs=doot.locs)
     bkmk_clean   = bookmark.BookmarksCleaner(locs=doot.locs)
