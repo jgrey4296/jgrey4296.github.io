@@ -18,7 +18,7 @@ build      = "build"
 docs       = "orgfiles"
 res        = "resources"
 
-[[directories]] # github pages
+[[directories]] # github pages / pelican
 site             = "site"
 codegen          = "site/_generated"
 site_build       = "build/site"
@@ -35,7 +35,7 @@ pdfs           = "/Volumes/documents/pdflibrary"
 bibtex_working = "/Volumes/documents/in_progress_pdfs/Current/"
 
 [[directories]] # Watch folders
-threads   = "/Volumes/documents/twitterthreads"
+threads   = "/Volumes/documents/twitter_threads"
 downloads = "~/Downloads"
 desktop   = "~/Desktop"
 dropbox   = "~/Dropbox/docs"
