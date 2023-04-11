@@ -31,7 +31,7 @@ completions    = "resources/completions"
 tags           = "resources/tags"
 urls           = "resources/urls"
 orgs           = "orgfiles"
-pdfs           = "/Volumes/documents/pdflibrary"
+pdfs           = "/Volumes/documents/pdf_library"
 bibtex_working = "/Volumes/documents/in_progress_pdfs/Current/"
 
 [[directories]] # Watch folders
