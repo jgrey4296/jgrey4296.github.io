@@ -21,21 +21,25 @@ from doot.tasks.groups import *
 
 from doot.tasks.bkmkorg import basic, bibtex, bookmark, tags
 from doot.tasks.builders.pelican import PelicanTasker, PelicanServer
+from doot.reporters.bibtex import BibtexReport
+from doot.reporters.bookmarks import BookmarksReport
+from doot.reporters.tags import TagsReport
 
 if __name__ == "dooter":
     # noscript     = basic.NoScriptMerge(locs=doot.locs)
 
+    bib_report   = BibtexReport(locs=doot.locs)
+    bkmk_report  = BookmarksReport(locs=doot.locs)
+    tags_report  = TagsReport(locs=doot.locs)
+
     cleaner      = bibtex.BibtexClean(locs=doot.locs)
-    report       = bibtex.BibtexReport(locs=doot.locs)
     stubber      = bibtex.BibtexStub(locs=doot.locs)
     pdflib_clean = bibtex.LibDirClean(locs=doot.locs)
 
     bkmks_update = bookmark.BookmarksUpdate(locs=doot.locs)
     bkmk_clean   = bookmark.BookmarksCleaner(locs=doot.locs)
-    bkmk_report  = bookmark.BookmarksReport(locs=doot.locs)
 
     tags_clean   = tags.TagsCleaner(locs=doot.locs)
-    tags_report  = tags.TagsReport(locs=doot.locs)
     tags_index   = tags.TagsIndexer(locs=doot.locs)
 
     web_build    = PelicanTasker(locs=doot.locs)
