@@ -1552,6 +1552,7 @@ statistical_language_models                 : 1
 statistical_mechanics                       : 2
 statistics                                  : 255
 Statistics - Machine Learning               : 1 : statistics : machine_learning
+Statistics_-_Machine Learning               : 1 : statistics : machine_learning
 statistics_of_deadly_quarrels               : 1
 statnews                                    : 1      : stat_news
 stats                                       : 2
