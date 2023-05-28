@@ -1,0 +1,689 @@
+#+TITLE: Notes
+
+* Overview
+Sections used in 40k rulebooks
+
+* Core Rules
+** 1st edition
+**** turn sequence
+  - movement
+  - shooting
+  - melee
+  - reserves
+  - psionics
+  - rallying
+**** Characteristics [M,WS,BS,S,T,W,I,A,Ld,Int,Cl,WP]
+  - movement
+  - weapon skill
+  - ballistic skill
+  - strength
+  - toughness
+  - wounds
+  - initiative
+  - attacks
+  - leadership
+  - intelligence
+  - cool
+  - will power
+**** field of battle
+**** troop characteristics
+**** movement
+  - encumberance
+  - difficult ground
+  - terrain
+  - splitting units
+  - direction
+  - turning
+  - obstacles
+**** shooting
+**** melee
+**** rout and pursuit
+**** reserves
+**** psychology
+**** buildings
+**** vehicles
+**** dreadnoughts
+**** robots
+**** aerial movement
+**** personalities
+**** psionics
+**** mutants
+**** points
+**** Equipment
+**** Named Rules
+** 2nd
+**** Mission Cards
+  - victory points
+  - winning the game
+  - game length
+**** Characteristics [M,WS,BS,S,T,W,I,A,Ld]
+**** turn sequence
+  - movement
+  - shooting
+  - melee
+  - psychic
+  - rally
+**** Squads
+  - coherency
+  - broken coherency
+**** cavalry
+**** movement
+  - charges
+  - compulsory moves
+  - terrain
+  - obstacles
+  - running
+  - hiding
+**** shooting
+  - facing
+  - line of sight
+  - cover
+    - soft
+    - hard
+  - choosing a target
+  - splitting fire
+  - range
+  - modifiers
+  - rapid fire
+  - damage
+  - saving throws
+  - save modifiers
+  - casualties
+  - melee shooting
+  - moving and firing
+  - blast markers
+  - scatter
+  - grenades
+  - template weapons
+  - sustained fire
+  - targeting the ground
+  - overwatch
+**** melee
+  - parrying
+  - fumbles
+  - modifiers
+  - damage
+  - saves
+  - multiple melees
+  - follow up
+  - squad coherency
+  - breaking off
+**** breaking and rallying
+  - the break test
+  - broken troops
+  - space marine shaken rule
+  - rallying
+  - insane bravery/cowardice
+**** psychology
+  - fear
+  - terror
+  - stupidity
+  - frenzy
+  - hatred
+**** heroes
+  - leaders
+  - squads
+  - commanders
+**** psionics
+  - psychic phase
+  - powers
+  - force weapons
+**** vehicles
+  - movement
+  - turning
+  - types
+  - boarding
+  - out of control
+  - collision
+  - shooting
+  - melee
+  - its gonna blow special rule
+  - special vehicle rules
+    - bikes
+    - skid turns
+    - mounting and dismounting
+    - dreadnoughts
+    - warwalkers
+    - skimmers
+  - buildings
+    - movement
+    - shooting
+    - blast markers
+    - melee
+    - destruction
+    - doors
+    - special rules
+** 3rd
+**** Characteristics [WS, BS, S, T, W, I, A, Ld, Sv]
+      - Vehicle characteristics [type, front/side/rear armour, BS]
+      
+**** Turn Sequence
+      - Move
+      - Shoot
+      - Melee
+**** First Turn
+**** Ending the battle
+**** Movement
+      - on foot
+      - unit coherency
+      - turning
+      - terrain
+**** shooting
+      - line of sight
+      - range
+      - roll to hit
+      - roll to wound
+      - casualties
+      - allocating hits
+      - saves
+      - morale
+      - wounds
+      - armour piercing
+      - cover
+      - invulnerable
+      - weapon types [blast, flame, rapid, pistol, heavy, barrage, linked]
+        - multiple shots
+        - blast weapons
+        - flame weapons
+        - rapid fire
+        - pistols
+        - heavy weapons
+        - assault weapons
+        - barrage weapons
+          - incoming special rule
+        - linked weapons
+      - special rules
+        - jamming
+        - meltas
+        - snipers
+        - missle and grenade launchers
+        - plasma
+        - fusion
+        - scatter lasers
+**** assault
+      - sequence
+        - move into
+        - fight
+        - determine results
+        - morale check
+        - advance or consolidate
+      - initiative
+      - cover
+      - rolls to hit
+      - allocating attacks
+      - rolling to wound
+      - saves
+      - special rules
+        - power fists
+        - power weapons
+        - dual wielding
+        - grenades
+        - monstrous creatures
+      - casualties
+      - tiebreaker
+      - advancing
+        - sweeping advance
+        - partial contact
+        - consolidate
+      - draws
+      - multiple combats
+      - shooting in melee
+**** Morale
+      - modifiers
+      - enemy fire
+      - assault
+      - tank shock
+      - falling back
+        - firing
+        - crossfire
+      - regrouping
+        - last chance
+**** characters
+      - independent characters
+      - psychic powers
+      - perils of the warp
+      - units
+      - shooting
+      - assault
+      - special characters
+**** vehicles
+      - open topped
+      - fast
+      - skimmers
+      - tanks
+      - walkers
+      - terrain
+      - troop carriers
+      - shooting
+      - ordnance
+      - ordnace barrages
+      - armour
+        - armour penetration
+      - special rules
+        - crew and passengers
+        - stun
+        - open topped
+        - skimmers moving fast
+        - hull down
+        - tank shock
+        - smoke launchers
+      - assaults
+        - monstrous creatures
+        - melta bombs
+        - krak grenades
+        - dreadnoughts
+        - morale
+**** jump packs
+**** cavalry
+**** bikes
+      - jet bikes
+**** Battles
+          
+** 4th
+**** Turn Sequence
+    - First Turn
+    - Ending
+    - Movement
+    - Shooting
+    - Assault
+**** Characteristics [WS, BS, S, T, W, I, A, Ld, Sv]
+    - Vehicle Characteristics [type, front/side/rear armour, BS]
+**** Movement
+- distance
+- unit coherency
+- turning
+- facing
+- terrain
+- verticality
+**** Shooting
+- targets
+- line of sight
+- hitting
+- wounding
+- saves
+  - modifiers
+  - armour piercing
+  - cover
+  - invulnerable saves
+- casualties
+  - morale
+  - multiple wounds
+  - instant death
+**** Weapons
+- characteristics [range, strength, AP, type]
+- types
+  - rapid fire
+  - pistols
+  - assault
+  - heavy
+  - ordnance
+  - blast
+  - linked
+  - gets hot
+  - melta
+  - template
+  - barrage
+  - pinning
+  - snipers
+  - rending
+  - lance
+**** Assault
+- charges
+- morale
+- breaking off / consolidation / sweeping advance
+- pile in
+- shooting
+- terrain
+- first strike
+- cover
+- grenades
+- attacks
+- hits
+- wounds
+- saves
+- wounds
+- casualties
+- special attacks
+  - melee weapons
+  - heavy melee weapons
+  - power weapons
+  - lightning claws
+  - force weapons
+  - power fists
+  - thunder hammers
+  - witchblades
+  - rending weapons
+  - poison
+**** Morale
+- modifiers
+- heroism
+- casualties
+- losing assaults
+- no retreat
+- tank shock
+- falling back
+- trapped
+- pinning
+- last man standing
+- regrouping
+- leaving the battle
+**** Characters
+- upgrade characers
+- independent characters
+- joining and leaving squads
+- retinues
+- special characters
+- psychic powers
+- perils of the warp
+**** Unit Types
+- bikes
+- jetbikes
+- monstrous creatures
+- jump infantry
+- artillery
+- beasts
+- cavalry
+- vehicles
+  - types
+  - passengers
+    - embarkation
+    - emergency disembarkation
+    - access points
+    - fire points
+  - squadrons
+  - movement
+    - fast vehicles
+    - terrain
+    - skimmers
+    - walkers
+    - roads
+  - shooting
+  - turning
+  - line of sight
+  - armour
+  - armour penetration
+  - ordnance
+  - damage
+    - shaken
+    - stunned
+    - armament destruction
+    - immobilisation
+    - vehicle destruction
+    - explosions
+    - annihilated
+    - wrecks
+    - open topped vehicles
+    - glancing hits
+    - skimmers
+    - smoke launchers
+  - assaults
+    - tank shock
+    - death or glory
+    - grenades
+    - walkers
+    - morale
+      
+**** Special Rules
+- and they shall know no fear
+- counter attack
+- fearless
+- feel no pain
+- fleet of X
+- furious charge
+- hit and run
+- infiltrate
+- move through cover
+- night vision
+- preferred enemy
+- scouts
+- skilled rider
+- slow and purposeful
+- small targets
+- stealth
+- stubborn
+- swarms
+- tank hunters
+- true grit
+- turbo-boosters
+- vulnerable to X
+- mixed armour
+**** Battles
+- points values
+- unit types
+  - HQ
+  - elites
+  - troops
+  - fast attack
+  - heavy support
+- force organisation
+- battlefields
+- deployment
+**** Missions
+    - types
+      - cleanse
+      - secure and control
+      - seek and destroy
+      - recon
+      - take and hold
+    - special rules
+      - concealment
+      - deep strike
+      - dusk and dawn
+      - escalation
+      - infiltrate
+      - night fighting
+      - random game length
+      - reserves
+    - victory points
+    - mission specific objectives
+**** Rule Extensions          
+***** special missions
+***** Kill Team
+***** Campaigns
+      - narrative
+      - tree
+      - map
+      - rolling
+      - node
+
+**** Model base and height rules
+
+** 5th
+**** Characteristics
+**** Turn Sequence
+**** Movement
+**** Shooting
+**** Weapons
+**** Assault
+**** Morale
+**** Characters
+**** Psykers
+**** Unit Types
+**** Vehicles
+**** Special Rules
+**** Buildings
+**** Battles
+
+** 6th
+**** Principles
+**** Turn Sequence
+**** Characteristics
+**** Movement
+**** Shooting
+**** Assault
+**** Morale
+**** Special Rules
+**** Unit Types
+**** Vehicles
+**** Weapons
+**** Characters
+**** Psykers
+**** Terrain
+**** Battles
+**** Eternal War / Missions
+**** Expansions
+**** Campaigns
+
+** 7th
+**** General Principles
+**** Turn Sequence
+**** Characteristics
+**** Movement
+**** Psychic
+**** Shooting
+**** Assault
+**** Weapons
+**** Unit Types
+**** Vehicles
+**** Terrain
+**** Detachments and Factions
+**** Battlefield roles
+**** Alliances
+**** Battles
+**** Eternal War Missions
+**** Maelstrom of War Missions
+**** Special Rules
+
+** 8th
+**** Play Types
+***** Open Play
+***** Narrative Play
+***** Matched Play
+**** Turn Sequence
+**** Characteristics
+**** Movement
+**** Psychic
+**** Shooting
+**** Charge
+**** Fight
+**** Morale
+**** Battles
+**** Battlefield roles
+**** Detachments
+**** Advanced Rules
+
+** 9th
+**** Characteristics
+**** Turn Sequence
+**** Command
+**** Movement
+**** Transports
+**** Aircraft
+**** Psychic
+**** Shooting
+**** Charging
+**** Melee
+**** Morale
+**** Missions
+**** Armies and Factions
+**** Detachments
+**** Command Points and Strategems
+**** Strategic Reserves
+**** Actions
+**** Terrain
+**** Open Play
+**** Matched Play
+**** Narrative Play
+**** Rare Rules
+* Factions
+** 1st
+** 2nd
+** 3rd
+** 4th
+** 5th
+** 6th
+** 7th
+** 8th
+** 9th
+
+* Unit Types
+** 1st
+** 2nd
+** 3rd
+** 4th
+** 5th
+** 6th
+** 7th
+** 8th
+** 9th
+
+* Weapons
+** 1st
+** 2nd
+** 3rd
+** 4th
+** 5th
+** 6th
+** 7th
+** 8th
+** 9th
+
+* Vehicles
+** 1st
+** 2nd
+** 3rd
+** 4th
+** 5th
+** 6th
+** 7th
+** 8th
+** 9th
+* Characters
+** 1st
+** 2nd
+** 3rd
+** 4th
+** 5th
+** 6th
+** 7th
+** 8th
+** 9th
+
+* Terrain
+** 1st
+** 2nd
+** 3rd
+** 4th
+** 5th
+** 6th
+** 7th
+** 8th
+** 9th
+
+* Force Composition
+** 1st
+** 2nd
+** 3rd
+** 4th
+** 5th
+** 6th
+** 7th
+** 8th
+** 9th
+
+* Missions
+** 1st
+** 2nd
+** 3rd
+** 4th
+** 5th
+** 6th
+** 7th
+** 8th
+** 9th
+
+* Campaigns
+** 1st
+** 2nd
+** 3rd
+** 4th
+** 5th
+** 6th
+** 7th
+** 8th
+** 9th
+
+* Errata
+* Designer Notes
+
+* Links
