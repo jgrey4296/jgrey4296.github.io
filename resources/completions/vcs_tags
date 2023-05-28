@@ -52,3 +52,5 @@ completion
 terminal
 modules
 implement
+hydra
+window-ring
