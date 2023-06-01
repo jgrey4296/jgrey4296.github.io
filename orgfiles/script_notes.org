@@ -667,6 +667,9 @@ concat
 connect
 concurrent
 
+*** Meson
+https://mesonbuild.com/
+
 ** Text
 *** Wordnet
     `wn`
