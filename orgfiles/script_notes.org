@@ -20,6 +20,13 @@ https://stackoverflow.com/questions/45272492
 
 git pull origin master --allow-unrelated-histories
 git merge origin origin/master
+*** ssh
+[[https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh]]
+[[https://stackoverflow.com/questions/47455300][ssh-config-bad-configuration-option-usekeychain-on-mac-os-sierra-10-12-6]]
+[[https://stackoverflow.com/questions/21095054][ssh-key-still-asking-for-password-and-passphrase]]
+
+when using ssh-add to add to keychain, don't use brew's openssl,
+use stock apple one: /usr/local/ssh-add -K ....
 
 ** OPA
 https://www.openpolicyagent.org/docs/latest/
@@ -660,6 +667,9 @@ concat
 connect
 concurrent
 
+*** Meson
+https://mesonbuild.com/
+
 ** Text
 *** Wordnet
     `wn`
@@ -750,6 +760,8 @@ pandoc ? -o output.pdf
 *** Markdown html export
 Add a local file to `markdown-css-paths`,
 can use npm package `generate-github-markdown-css` as a start
+
+*** [[https://difftastic.wilfred.me.uk/introduction.html][Difftastic]]
 
 ** GUI Programs
 *** Firefox
