@@ -3,14 +3,14 @@
 * Overview
 
 * Main
-** 1st
-** 2nd
-** 3rd
-** 4th
-** 5th
-** 6th
-** 7th
-** 8th
-** 9th
+- 1st: [M, WS, BS, S, T, W, I, A, Ld, Int, Cl, WP]
+- 2nd: [M, WS, BS, S, T, W, I, A, Ld]
+- 3rd: [WS, BS, S, T, W, I, A, Ld, Sv]
+- 4th: [WS, BS, S, T, W, I, A, Ld, Sv]
+- 5th: [WS, BS, S, T, W, I, A, Ld, Sv]
+- 6th: [WS, BS, S, T, W, I, A, Ld, Sv]
+- 7th: [WS, BS, S, T, W, I, A, Ld, Sv]
+- 8th: [M, WS, BS, S, T, W, A, Ld, Sv]
+- 9th: [M, WS, BS, S, T, W, A, Ld, Sv]
 
 * Links

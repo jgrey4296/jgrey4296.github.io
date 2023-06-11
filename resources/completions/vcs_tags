@@ -61,3 +61,6 @@ latex
 tree-sitter
 ibuffer
 neotree
+bibtex
+help
+markdown

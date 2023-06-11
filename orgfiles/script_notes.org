@@ -1,19 +1,8 @@
 #+TITLE: Script Notes
 
 * Overview
-https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html#simple-smart-contract
-https://nixos.org/manual/nix/stable/
-https://www.ledger-cli.org/index.html
-https://github.com/tmux/tmux/wiki/Getting-Started
-https://github.com/realgud/realgud/
-https://jblevins.org/projects/deft/
-https://github.com/pashky/restclient.el
-https://github.com/skeeto/elfeed
-https://www.howtogeek.com/671422/how-to-use-tmux-on-linux-and-why-its-better-than-screen/
 
 * Main
-https://construct.readthedocs.io/en/latest/
-https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly
 ** CLI
 *** Git
 https://stackoverflow.com/questions/45272492
@@ -27,6 +16,19 @@ git merge origin origin/master
 
 when using ssh-add to add to keychain, don't use brew's openssl,
 use stock apple one: /usr/local/ssh-add -K ....
+*** lskq
+for checking file watchers
+*** Launchd
+https://launchd.info/
+https://krypted.com/mac-security/disable-disk-arbitration/
+
+Locations:
+- ~/Library/LaunchAgents
+- /Library/LaunchAgents
+- /Library/LaunchDaemons
+- /System/Library/LaunchAgents
+- /System/Library/LaunchDaemons
+
 
 ** OPA
 https://www.openpolicyagent.org/docs/latest/
@@ -1063,6 +1065,7 @@ InfoValue: Blah,Blee
 *** Tesseract
 https://tesseract-ocr.github.io/tessdoc/Command-Line-Usage.html
 
+
 *** ffmpeg
 https://ffmpeg.org/
 
@@ -1138,3 +1141,15 @@ Man expects pages to be gzipped
 [[https://www.futureboy.us/pgp.html][GPG General Howto]]
 https://pandoc.org/
 [[https://docs.godotengine.org/en/stable/tutorials/editor/command_line_tutorial.html][godot docs]]
+
+https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html#simple-smart-contract
+https://nixos.org/manual/nix/stable/
+https://www.ledger-cli.org/index.html
+https://github.com/tmux/tmux/wiki/Getting-Started
+https://github.com/realgud/realgud/
+https://jblevins.org/projects/deft/
+https://github.com/pashky/restclient.el
+https://github.com/skeeto/elfeed
+https://www.howtogeek.com/671422/how-to-use-tmux-on-linux-and-why-its-better-than-screen/
+https://construct.readthedocs.io/en/latest/
+https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly

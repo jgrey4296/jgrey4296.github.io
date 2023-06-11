@@ -5,36 +5,8 @@ Sections used in 40k rulebooks
 
 * Core Rules
 ** 1st edition
-**** turn sequence
-  - movement
-  - shooting
-  - melee
-  - reserves
-  - psionics
-  - rallying
-**** Characteristics [M,WS,BS,S,T,W,I,A,Ld,Int,Cl,WP]
-  - movement
-  - weapon skill
-  - ballistic skill
-  - strength
-  - toughness
-  - wounds
-  - initiative
-  - attacks
-  - leadership
-  - intelligence
-  - cool
-  - will power
 **** field of battle
 **** troop characteristics
-**** movement
-  - encumberance
-  - difficult ground
-  - terrain
-  - splitting units
-  - direction
-  - turning
-  - obstacles
 **** shooting
 **** melee
 **** rout and pursuit
@@ -44,7 +16,6 @@ Sections used in 40k rulebooks
 **** vehicles
 **** dreadnoughts
 **** robots
-**** aerial movement
 **** personalities
 **** psionics
 **** mutants
@@ -57,23 +28,11 @@ Sections used in 40k rulebooks
   - winning the game
   - game length
 **** Characteristics [M,WS,BS,S,T,W,I,A,Ld]
-**** turn sequence
-  - movement
-  - shooting
-  - melee
-  - psychic
-  - rally
 **** Squads
   - coherency
   - broken coherency
 **** cavalry
 **** movement
-  - charges
-  - compulsory moves
-  - terrain
-  - obstacles
-  - running
-  - hiding
 **** shooting
   - facing
   - line of sight
@@ -129,7 +88,6 @@ Sections used in 40k rulebooks
   - powers
   - force weapons
 **** vehicles
-  - movement
   - turning
   - types
   - boarding
@@ -146,7 +104,6 @@ Sections used in 40k rulebooks
     - warwalkers
     - skimmers
   - buildings
-    - movement
     - shooting
     - blast markers
     - melee
@@ -157,17 +114,8 @@ Sections used in 40k rulebooks
 **** Characteristics [WS, BS, S, T, W, I, A, Ld, Sv]
       - Vehicle characteristics [type, front/side/rear armour, BS]
       
-**** Turn Sequence
-      - Move
-      - Shoot
-      - Melee
 **** First Turn
 **** Ending the battle
-**** Movement
-      - on foot
-      - unit coherency
-      - turning
-      - terrain
 **** shooting
       - line of sight
       - range
@@ -280,21 +228,8 @@ Sections used in 40k rulebooks
 **** Battles
           
 ** 4th
-**** Turn Sequence
-    - First Turn
-    - Ending
-    - Movement
-    - Shooting
-    - Assault
 **** Characteristics [WS, BS, S, T, W, I, A, Ld, Sv]
     - Vehicle Characteristics [type, front/side/rear armour, BS]
-**** Movement
-- distance
-- unit coherency
-- turning
-- facing
-- terrain
-- verticality
 **** Shooting
 - targets
 - line of sight
@@ -490,8 +425,6 @@ Sections used in 40k rulebooks
 
 ** 5th
 **** Characteristics
-**** Turn Sequence
-**** Movement
 **** Shooting
 **** Weapons
 **** Assault
@@ -506,9 +439,7 @@ Sections used in 40k rulebooks
 
 ** 6th
 **** Principles
-**** Turn Sequence
 **** Characteristics
-**** Movement
 **** Shooting
 **** Assault
 **** Morale
@@ -526,9 +457,7 @@ Sections used in 40k rulebooks
 
 ** 7th
 **** General Principles
-**** Turn Sequence
 **** Characteristics
-**** Movement
 **** Psychic
 **** Shooting
 **** Assault
@@ -549,9 +478,7 @@ Sections used in 40k rulebooks
 ***** Open Play
 ***** Narrative Play
 ***** Matched Play
-**** Turn Sequence
 **** Characteristics
-**** Movement
 **** Psychic
 **** Shooting
 **** Charge
@@ -564,9 +491,7 @@ Sections used in 40k rulebooks
 
 ** 9th
 **** Characteristics
-**** Turn Sequence
 **** Command
-**** Movement
 **** Transports
 **** Aircraft
 **** Psychic
