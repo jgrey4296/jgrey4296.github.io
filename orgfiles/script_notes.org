@@ -774,10 +774,20 @@ https://tex.stackexchange.com/questions/586467/
 sudo fmtutil-sys --all
 :END:
 
+for fonts install collection-fontsrecommended
+for russian: cyrillic, hyphen-russian, babel-russian, fontspec, collection-langcyrillic
+
 **** texdoc
 https://tex.stackexchange.com/questions/297004/
 tlmgr option docfiles 1
 tlmgr install --reinstall $(tlmgr list --only-installed | sed -E 's/i (.*):.*$/\1/')
+
+**** Installing fonts
+https://tug.org/fonts/fontinstall.html#fndb
+
+mktexlsr
+updmap
+fmtutil
 
 *** Pandoc
 #+NAME: text to pdf generation
@@ -1164,6 +1174,7 @@ Pandoc creates man pages from markdown:
 Man expects pages to be gzipped
 
 * Links
+https://www.whocanuse.com/
 [[https://www.futureboy.us/pgp.html][GPG General Howto]]
 https://pandoc.org/
 [[https://docs.godotengine.org/en/stable/tutorials/editor/command_line_tutorial.html][godot docs]]
