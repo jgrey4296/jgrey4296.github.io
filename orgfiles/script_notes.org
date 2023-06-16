@@ -4,11 +4,13 @@
 
 * Main
 ** CLI
+
 *** Git
 https://stackoverflow.com/questions/45272492
 
 git pull origin master --allow-unrelated-histories
 git merge origin origin/master
+
 *** ssh
 [[https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh]]
 [[https://stackoverflow.com/questions/47455300][ssh-config-bad-configuration-option-usekeychain-on-mac-os-sierra-10-12-6]]
@@ -16,8 +18,10 @@ git merge origin origin/master
 
 when using ssh-add to add to keychain, don't use brew's openssl,
 use stock apple one: /usr/local/ssh-add -K ....
+
 *** lskq
 for checking file watchers
+
 *** Launchd
 https://launchd.info/
 https://krypted.com/mac-security/disable-disk-arbitration/
@@ -29,6 +33,28 @@ Locations:
 - /System/Library/LaunchAgents
 - /System/Library/LaunchDaemons
 
+*** Emacs
+https://orgmode.org/manual/Exporting.html
+https://emacs.stackexchange.com/questions/10392
+https://stackoverflow.com/questions/22072773/
+https://emacs.stackexchange.com/questions/55654/
+
+
+#+begin_src bash
+emacs
+--batch # no init/ early-init
+[file]
+--script [file]
+-f [func]
+#+end_src
+
+#+RESULTS:
+
+#+begin_src bash
+emacs --batch /Volumes/documents/github/__configs/packages/ox-html-jg/tests/example.org  --script /Volumes/documents/github/__configs/packages/ox-html-jg/batch-run.el -f org-html-jg-export-to-html
+#+end_src
+
+#+RESULTS:
 
 ** OPA
 https://www.openpolicyagent.org/docs/latest/
@@ -778,6 +804,7 @@ for a better bookmarking default
 [Netscape bookmark file format](https://msdn.microsoft.com/en-us/library/aa753582(v=vs.85).aspx).
 
 https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly
+
 *** Godot
 Godot Engine v3.4.4.stable.official.419e713a2 - https://godotengine.org
 Free and open source software under the terms of the MIT license.
@@ -1064,7 +1091,6 @@ InfoValue: Blah,Blee
 
 *** Tesseract
 https://tesseract-ocr.github.io/tessdoc/Command-Line-Usage.html
-
 
 *** ffmpeg
 https://ffmpeg.org/
