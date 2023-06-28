@@ -3,7 +3,7 @@ digraph civ1 {
     irrigation;
     mining;
     pottery;
-    bronze_working_     ->_{currency;_iron_working};
+    bronze_working_     -> {currency;_iron_working};
     alphabet            -> {writing; code_of_laws};
     advanced_flight     -> {rocketry};
     astronomy           -> {theory_of_gravity; navigation};
