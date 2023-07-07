@@ -67,3 +67,5 @@ markdown
 lisp
 macros
 graphviz
+spec-handling
+package

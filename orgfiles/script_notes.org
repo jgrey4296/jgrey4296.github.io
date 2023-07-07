@@ -582,6 +582,9 @@ https://www.sslshopper.com/article-most-common-openssl-commands.html
 *** Cargo                                      :rust:
 https://doc.rust-lang.org/cargo/
 
+remove ~/.cargo/packages.cache if it locks
+https://github.com/rust-lang/cargo/issues/9742
+
 *** rustup                                     :rust:
 https://rust-lang.github.io/rustup/
 
@@ -619,10 +622,11 @@ https://github.com/radian-software/straight.el#the-recipe-format
 *** Gradle                                     :java:
 https://docs.gradle.org/current/userguide/userguide.html
 
-*** Homebrew                                   :shell:
+*** Homebrew                                    :shell:
 https://brew.sh/
 https://docs.brew.sh/
 
+:terminology:
 - formula          : definition built from upstream sources
 - cask             : definition of macOS native applications
 - keg              : installation destination of formula version
@@ -633,6 +637,55 @@ https://docs.brew.sh/
 - external command : brew subcommand
 - tap              : directory of formulae, casks and/or external commands
 - bottle           : pre-built keg poured into the cellar/rack
+:END:
+
+:locations:
+brew --cellar     : formula installation dir
+brew --prefix     : symlinked into here
+brew --caskroom   : installed osx apps
+brew --repository : brew's code
+brew --cache      : downloads location
+:END:
+
+When editing forumla:
+HOMEBREW_NO_INSTALL_FROM_API=1
+
+**** ignoring dependencies
+
+  https://stackoverflow.com/questions/55190888/how-to-prevent-homebrew-from-installing-a-certain-formula-dependency
+
+  get a tree view of dependencies: "brew deps --tree {}"
+  install specific deps
+  brew install --ignore-dependencies formula
+
+  :brew_deps:
+  Usage: brew deps [options] [formula|cask ...]
+  -n, --topological                Sort dependencies in topological order.
+  -1, --direct, --declared, --1    Show only the direct dependencies declared in the formula.
+      --union                      Show the union of dependencies for multiple formula, instead of the intersection.
+      --full-name                  List dependencies by their full name.
+      --include-build              Include :build dependencies for formula.
+      --include-optional           Include :optional dependencies for formula.
+      --include-test               Include :test dependencies for formula (non-recursive).
+      --skip-recommended           Skip :recommended dependencies for formula.
+      --include-requirements       Include requirements in addition to dependencies for formula.
+      --tree                       Show dependencies as a tree. When given multiple formula arguments, show individual trees for each formula.
+      --graph                      Show dependencies as a directed graph.
+      --dot                        Show text-based graph description in DOT format.
+      --annotate                   Mark any build, test, optional, or recommended dependencies as such in the output.
+      --installed                  List dependencies for formulae that are currently installed. If formula is specified, list only its dependencies that are currently installed.
+      --missing                    Show only missing dependencies.
+      --eval-all                   Evaluate all available formulae and casks, whether installed or not, to list their dependencies.
+      --for-each                   Switch into the mode used by the --all option, but only list dependencies for each provided formula, one formula per line. This is used for debugging the --installed/--all display mode.
+      --formula, --formulae        Treat all named arguments as formulae.
+      --cask, --casks              Treat all named arguments as casks.
+  -d, --debug                      Display any debugging information.
+  -q, --quiet                      Make some output more quiet.
+  -v, --verbose                    Make some output more verbose.
+  -h, --help                       Show this message.
+:END:
+
+
 
 *** Make                                       :cli:
 https://www.gnu.org/software/make/manual/make.html
@@ -640,6 +693,7 @@ https://www.gnu.org/software/automake/manual/automake.html#Autotools-Introductio
 
 *** Mix                                        :elixir:
 https://hexdocs.pm/mix/Mix.html
+https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html
 
 *** Pip                                        :python:
 https://pip.pypa.io/en/stable/
@@ -776,6 +830,10 @@ sudo fmtutil-sys --all
 
 for fonts install collection-fontsrecommended
 for russian: cyrillic, hyphen-russian, babel-russian, fontspec, collection-langcyrillic
+
+
+kpsewhich for seaching latex path
+https://www.overleaf.com/learn/latex/Articles/An_introduction_to_Kpathsea_and_how_TeX_engines_search_for_files
 
 **** texdoc
 https://tex.stackexchange.com/questions/297004/

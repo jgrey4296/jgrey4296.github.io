@@ -436,6 +436,7 @@ Bisimulation         -
 Sequent              -
 compactness property -
 first-order correspondence language -
+skolemization        - using second order logic (relations over quantifiers) replaces existential variables by functions on universal variables
 *** Modal Logic Definitions
 Kripke Model -
 □A = ~◇~A
@@ -670,9 +671,20 @@ From cropper22_induc_logic_progr_at_74
 - A substitution *θ* unifies atoms A and B in the case Aθ = Bθ. Note that atoms A and B need to have a distinct set of variables, i.e., they should not have a variable with the same name, for unification to work properly.
 
 (Procedural) Cut -
-Resolution       -
-Unification      -
+**** Resolution
 
+Production of a new clause implied by two clauses containing complementary literals.
+So:
+A = a \/ b \/ c
+B = d \/ e\/ ~c
+gives:
+C = a \/ b \/ d \/ e
+by mututally incompatible literals c and ~c
+
+If a set of formulas resolve to the empty clause, it is unsatisfiable.
+
+**** Unification
+bi-directional pattern matching. Both arguments can contain variables
 **** Prolog
 **** Answer Set Programming
 Herbrand Base            -
@@ -830,6 +842,16 @@ PTime -
 NP -
 PSpace -
 ExpTime -
+
+*** Coq Conversion Rules
+https://coq.inria.fr/refman/language/core/conversion.html#conversion
+α -
+β -
+δ -
+ι -
+ζ -
+η -
+
 
 ** Computer Science
 *** Args vs Params
