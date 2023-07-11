@@ -1,4 +1,33 @@
 digraph civ3 {
+    subgraph ancient {
+        bronze_working; iron_working; construction; masonry; mathematics;
+        currency; philosophy; alphabet; writing; code_of_laws;
+        republic; literature; map_making; pottery; wheel;
+        horseback_riding; warrior_code; ceremonial_burial; mysticism; polytheism;
+        monarchy;
+    }
+    subgraph middle {
+        monotheism; theology; printing_press; democracy; free_artistry;
+        chivalry; music_theory; economics;
+        education; banking; navigation;
+        feudalism; education; astronomy;
+        physics; theory_of_gravity;
+        invention; gunpowder; chemistry; magnetism;
+        metallurgy; military_tradition; engineering;
+    }
+    subgraph industrial {
+        nationalism; communism; fascism; espionage;
+        ironclads; flight; industrialization; refining; amphibious_war;
+        combustion; corporation; steam_power; advanced_flight;
+        mass_production; steel; electricity; medicine; scientific_method; sanitation; atomic_theory; replaceable_parts;
+        motorized_transportation; electronics;
+    }
+    subgraph modern {
+        ecology; recycling; synthetic_fibers; stealth;
+        rocketry; space_flight; superconductor; fission; satellites;
+        integrated_defense; nuclear_power; laser; smart_weapons;
+        computers; miniaturization; genetics; robotics;
+    }
     advanced_flight;
     alphabet                 -> {mathematics; writing};
     amphibious_war;

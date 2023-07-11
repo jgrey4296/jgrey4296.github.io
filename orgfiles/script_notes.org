@@ -3,15 +3,21 @@
 * Overview
 
 * Main
-** CLI
+** Network
 
-*** Git
+*** Bandwhich
+https://github.com/imsnif/bandwhich
+
+*** Sniffer
+https://github.com/chenjiandongx/sniffer
+
+** Git
 https://stackoverflow.com/questions/45272492
 
 git pull origin master --allow-unrelated-histories
 git merge origin origin/master
 
-*** ssh
+** ssh
 [[https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh]]
 [[https://stackoverflow.com/questions/47455300][ssh-config-bad-configuration-option-usekeychain-on-mac-os-sierra-10-12-6]]
 [[https://stackoverflow.com/questions/21095054][ssh-key-still-asking-for-password-and-passphrase]]
@@ -19,10 +25,10 @@ git merge origin origin/master
 when using ssh-add to add to keychain, don't use brew's openssl,
 use stock apple one: /usr/local/ssh-add -K ....
 
-*** lskq
+** lskq
 for checking file watchers
 
-*** Launchd
+** Launchd
 https://launchd.info/
 https://krypted.com/mac-security/disable-disk-arbitration/
 
@@ -33,7 +39,7 @@ Locations:
 - /System/Library/LaunchAgents
 - /System/Library/LaunchDaemons
 
-*** Emacs
+** Emacs
 https://orgmode.org/manual/Exporting.html
 https://emacs.stackexchange.com/questions/10392
 https://stackoverflow.com/questions/22072773/
@@ -107,21 +113,10 @@ logging.info("Found %s files in %s", len(all_files), args.target)
 print(all_files)
 #+end_src
 
-*** GDB
+** GDB
 https://www.sourceware.org/gdb/
 
-*** Awk
-#+begin_src bash
-# Getting subgroups
-awk 'match($0, /HREF="(.+?)"/, a) {print a[1]}'
-
-# checking length
-awk 'length < 10 {print $0}'
-
-# in place editing and printing at end of file
-gawk -i inplace '/if __name__ / {print "##-- ifmain" } {print $0} ENDFILE {print "##-- end ifmain"}'
-#+end_src awk
-
+** Shells
 *** Bash
 https://github.com/bahamas10/bash-style-guide
 [[https://stackoverflow.com/questions/5917576/][line length sorting]]
@@ -130,20 +125,23 @@ https://github.com/bahamas10/bash-style-guide
 cat testfile | awk '{ print length, $0 }' | sort -n | cut -d" " -f2-
 #+end_src
 
-*** File encoding
+*** Nushell
+https://www.nushell.sh/book/
+
+** File encoding
 file -I {}
 iconv -f {enc} -t {enc} {} > conv-{}
 
-*** Find
+** Find
 To find files, but not search .git directories:
 #+begin_src bash
 find ? -type f -a -not -name "DS_Store" -print -o -type d -name ".git" -prune
 #+end_src
 
-*** GPG Notes (v 2.2.11)
-**** *Short IDs*: Last 8 digits of fingerprint
+** GPG Notes (v 2.2.11)
+*** *Short IDs*: Last 8 digits of fingerprint
 
-**** Basic Protocol
+*** Basic Protocol
    Create Key
    Create Revocation Cert
    Create Fingerprint
@@ -159,7 +157,7 @@ find ? -type f -a -not -name "DS_Store" -print -o -type d -name ".git" -prune
    encrypt messages to them using their public key,
    or verify they sent a plaintext signature.
 
-**** Setup for Emacs
+*** Setup for Emacs
 https://emacs.stackexchange.com/questions/32881
 
 use epg package,
@@ -170,48 +168,48 @@ and set pinentry-program to pinentry-mac's path in gpg-agent.conf
 
 reload the configuration with "gpgconf --reload gpg-agent", and
 
-**** List keys
+*** List keys
    gpg -k
    gpg --list-sigs
 
-**** Importing a key:
+*** Importing a key:
    Works for secret and public keys
    gpg --import [filename]
 
-**** Generating a key
+*** Generating a key
    gpg --gen-key
    gpg --gen-revoke --armor --output=RevocationCertificate.asc [email]
 
-**** Deleting a key:
+*** Deleting a key:
    gpg --delete-secret-keys
    gpg --delete-keys
 
-**** Get a fingerprint
+*** Get a fingerprint
    Fingerprints give a shorter to verify hash of public keys
    gpg --fingerprint [email]
 
-**** Sign a key
+*** Sign a key
    gpg --sign-key [email]
    or
    gpg --interactive --edit-key [email]
 
-**** Export keys
+*** Export keys
    gpg --armor --export[-secret-keys] [-o file] [-a ID | email]
 
-**** Encrypt
+*** Encrypt
    *Don't forget to add yourself to the recipients*
    gpg [-o output] --sign --armor [-r recipient] [-e file]
 
-**** Decrypt
+*** Decrypt
    gpg  -o output -d file
 
-**** Sign a plaintext message
+*** Sign a plaintext message
    gpg --clearsign file
 
-**** Verify a signature
+*** Verify a signature
    gpg --verify file
 
-**** Using Stronger Encryption
+*** Using Stronger Encryption
    gpg --interactive --edit-key [email]
    Then 'showpref' will show algorithm preferences
    from most - least.
@@ -220,8 +218,8 @@ reload the configuration with "gpgconf --reload gpg-agent", and
 
    then 'save'
 
-*** Mail
-**** mbsync and mu
+** Mail
+*** mbsync and mu
 
 #+NAME: mu init
 #+begin_src bash :results output
@@ -229,7 +227,7 @@ mu init --maildir ~/.mail --my-address {address}
 mu index
 #+end_src
 
-*** Sed
+** Sed
 Filter lines with:
 '/pattern/d'
 
@@ -239,15 +237,15 @@ Print Matching lines with:
 case Invariant:
 '/pattern/I'
 
-*** Wget
+** Wget
 https://www.networkinghowtos.com/howto/change-the-user-agent-in-wget/
 https://www.networkinghowtos.com/howto/common-user-agent-list/
 
 wget --user-agent="Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"
 wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0"
 
-*** XML
-**** XPath                                      :query_language:
+** XML
+*** XPath                                       :query_language:
 #+NAME: Example Code
 #+begin_src xpath :results output
 # display the last names of all people in the doc
@@ -287,13 +285,13 @@ self / .
 
 #+end_src
 
-**** [[https://www.videlibri.de/xidel.html][xidel]] :cli:query:
+*** [[https://www.videlibri.de/xidel.html][xidel]]                                       :cli:query:
 #+begin_src bash
 # Extracts between table and footer
 xidel -s --output-format=xml --xpath "//table/following-sibling::*[//*[@id='printfooter']/preceding::node()]" `?`
 #+end_src
 
-**** [[http://xmlstar.sourceforge.net/][XML Starlet]]
+*** [[http://xmlstar.sourceforge.net/][XML Starlet]]
 #+NAME: commands
 #+begin_src bash :results output
 xml
@@ -330,7 +328,7 @@ XMLStarlet is a command line toolkit to query/edit/check/transform
 XML documents (for more information see http://xmlstar.sourceforge.net/)
 :END:
 
-***** element / structure
+**** element / structure
 :usage:
 XMLStarlet Toolkit: Display element structure of XML document
 Usage: xml el [<options>] <xml-file>
@@ -346,7 +344,7 @@ XMLStarlet is a command line toolkit to query/edit/check/transform
 XML documents (for more information see http://xmlstar.sourceforge.net/)
 :END:
 
-***** select
+**** select
 :usage:
 Usage: xml sel <global-options> {<template>} [ <xml-file> ... ]
 where
@@ -402,7 +400,7 @@ xml sel -t -c "xpath0" -m "xpath1" -m "xpath2" -v "xpath3" \
         -t -m "xpath4" -c "xpath5"
 :END:
 
-***** edit
+**** edit
 :usage:
 XMLStarlet Toolkit: Edit XML document(s)
 Usage: xml ed <global-options> {<action>} [ <xml-file-or-uri> ... ]
@@ -437,7 +435,7 @@ XMLStarlet is a command line toolkit to query/edit/check/transform
 XML documents (for more information see http://xmlstar.sourceforge.net/)
 :END:
 
-***** transform
+**** transform
 :usage:
 xml tr
 XMLStarlet Toolkit: Transform XML document(s) using XSLT
@@ -466,7 +464,7 @@ Current implementation uses libxslt from GNOME codebase as XSLT processor
 (see http://xmlsoft.org/ for more details)
 :END:
 
-***** validate
+**** validate
 :usage:
 xml val
 XMLStarlet Toolkit: Validate XML document(s)
@@ -491,7 +489,7 @@ XMLStarlet is a command line toolkit to query/edit/check/transform
 XML documents (for more information see http://xmlstar.sourceforge.net/)
 :END:
 
-***** format
+**** format
 :usage:
 XMLStarlet Toolkit: Format XML document
 Usage: xml fo [<options>] <xml-file>
@@ -512,7 +510,7 @@ XMLStarlet is a command line toolkit to query/edit/check/transform
 XML documents (for more information see http://xmlstar.sourceforge.net/)
 :END:
 
-***** canonic
+**** canonic
 :usage:
 XMLStarlet Toolkit: XML canonicalization
 Usage: xml c14n <mode> <xml-file> [<xpath-file>] [<inclusive-ns-list>]
@@ -540,13 +538,13 @@ XMLStarlet is a command line toolkit to query/edit/check/transform
 XML documents (for more information see http://xmlstar.sourceforge.net/)
 :END:
 
-***** list directory : ls
-***** (un)escape
+**** list directory : ls
+**** (un)escape
 :usage:
 feed strings in
 :END:
 
-***** examples
+**** examples
 #+begin_src bash
 # query, -I(indenting output), -t(template:) -f(file name) -n(new line) -m(match xpath) //Trait -c(copy xpath) . -n -b(break nesting) file
 xml sel -I -t -f -n -m //Trait -c . -n -b ./facade_messy.xml
@@ -565,20 +563,20 @@ xml val -e -d ./test.dtd ./mytest.xml
 xml val -e -s ./test.xsd ./mytest.xml
 #+end_src
 
-**** [[https://relaxng.org/jclark/trang-manual.html][Trang]] :schema:
+*** [[https://relaxng.org/jclark/trang-manual.html][Trang]]                                       :schema:
 trang [input.xmls] output.xsd
 
-**** [[https://github.com/tefra/xsdata-plantuml][xsdata plantuml]]
+*** [[https://github.com/tefra/xsdata-plantuml][xsdata plantuml]]
 xsdata samples/order.xsd --output plantuml --package uml_gen
 
-**** [[http://saxon.sourceforge.net/][Saxon]]
+*** [[http://saxon.sourceforge.net/][Saxon]]
 
-**** xmllint
+*** xmllint
 
-*** OpenSSL
+** OpenSSL
 https://www.sslshopper.com/article-most-common-openssl-commands.html
 
-** Build Systems
+** Build Systems and Package Management
 *** Cargo                                      :rust:
 https://doc.rust-lang.org/cargo/
 
@@ -686,7 +684,6 @@ HOMEBREW_NO_INSTALL_FROM_API=1
 :END:
 
 
-
 *** Make                                       :cli:
 https://www.gnu.org/software/make/manual/make.html
 https://www.gnu.org/software/automake/manual/automake.html#Autotools-Introduction
@@ -751,6 +748,15 @@ concurrent
 
 *** Meson
 https://mesonbuild.com/
+
+*** Nix
+https://nixos.org/manual/nix/stable/introduction.html
+
+*** Opam
+https://opam.ocaml.org/
+
+*** cookiecutter
+https://cookiecutter.readthedocs.io/en/2.2.3/README.html
 
 ** Text
 *** Wordnet
@@ -861,6 +867,18 @@ can use npm package `generate-github-markdown-css` as a start
 
 *** [[https://difftastic.wilfred.me.uk/introduction.html][Difftastic]]
 
+*** Awk
+#+begin_src bash
+# Getting subgroups
+awk 'match($0, /HREF="(.+?)"/, a) {print a[1]}'
+
+# checking length
+awk 'length < 10 {print $0}'
+
+# in place editing and printing at end of file
+gawk -i inplace '/if __name__ / {print "##-- ifmain" } {print $0} ENDFILE {print "##-- end ifmain"}'
+#+end_src awk
+
 ** GUI Programs
 *** Firefox
 Get to configs with about:about
@@ -954,6 +972,12 @@ Standalone tools:
 --gdnative-generate-json-api     Generate JSON dump of the Godot API for GDNative bindings.
 --test <test>                    Run a unit test ('string', 'math', 'basis', 'transform', 'physics', 'physics_2d', 'render', 'oa_hash_map', 'gui', 'shaderlang', 'gd_tokenizer', 'gd_parser', 'gd_compiler', 'gd_bytecode', 'ordered_hash_map', 'astar', 'xml_parser').
 :END:
+
+*** Iterm
+https://iterm2.com/
+
+*** TMux
+https://tmux.github.io/
 
 ** Databases
 *** Postgresql
@@ -1232,6 +1256,17 @@ Pandoc creates man pages from markdown:
 `pandoc ms.1.md -s -t man -o ms.1`
 
 Man expects pages to be gzipped
+
+** Performance
+
+*** top
+https://gitlab.com/procps-ng/procps
+
+*** btop
+https://github.com/aristocratos/btop
+
+*** htop
+https://htop.dev/
 
 * Links
 https://www.whocanuse.com/

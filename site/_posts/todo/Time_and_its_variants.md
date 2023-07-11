@@ -1,7 +1,0 @@
----
-title: Time and its variants
-status: draft
-date: 2021-01-03
-tags: 
----
-stub

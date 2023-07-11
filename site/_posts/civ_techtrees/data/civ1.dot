@@ -3,6 +3,7 @@ digraph civ1 {
     irrigation;
     mining;
     pottery;
+    bridge_building;
     bronze_working_     -> {currency;_iron_working};
     alphabet            -> {writing; code_of_laws};
     advanced_flight     -> {rocketry};
@@ -10,7 +11,7 @@ digraph civ1 {
     atomic_theory       -> {nuclear_fission};
     automobile          -> {mass_production};
     banking             -> {industrialization; corporation};
-    bridge_building     -> {railroad};
+     bridge_building  -> {railroad};
     ceremonial_burial   -> {mysticism; monarchy};
     chemistry           -> {explosives; refining};
     chivalry            -> {};

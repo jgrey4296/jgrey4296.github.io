@@ -1,4 +1,100 @@
 digraph alpha_centauri {
+    subgraph build {
+        industrial_base                 -> {superconductor; high_energy; chemistry; polymorphic_software; industrial_economics};
+        social_psych                    -> {doctrine_loyalty; ethical_calculus; secrets_of_the_human_brain};
+        industrial_economics            -> { industrial_automation; environmental_economics; adaptive_economics};
+        adaptive_economics              -> planetary_economics;
+        gene_splicing                   -> { synthetic_fossil_fuels; bio_engineering; ecological_engineering};
+        industrial_automation           -> {silksteel_alloys; doctrine_initiative; neural_grafting; industrial_nanorobotics};
+        cyberethics                     -> {superstring_theory; pre_sentient_algorithms};
+        silksteel_alloys                -> {monopole_magnets; photon_wave_mechanics};
+        bioengineering                  -> {retroviral_engineering};
+        environmental_economics         -> {advanced_ecological_engineering};
+        monopole_magnets                -> {unified_field_theory; nanominiaturization};
+        planetary_economics             -> {quantum_power; sentient_econometrics};
+        advanced_ecological_engineering -> {centauri_psi};
+        biomachinery                    -> {homo_superior; n_space_compression};
+        probability_mechanics           -> {nanometallurgy};
+        nanominiaturization             -> {matter_compression; industrial_nanorobotics};
+        industrial_nanorobotics         -> {frictionless_surfaces; digital_sentience};
+        super_tensile_solids            -> {matter_editation};
+        matter_editation                -> {matter_transmission};
+        quantum_machinery               -> {graviton_theory};
+        matter_transmission             -> {temporal_mechanics};
+        temporal_mechanics              -> {threshold_of_transcendence};
+    }
 
+    subgraph conquer {
+        applied_physics                 -> {nonlinear_mathematics; high_energy_chemistry; optical_computers};
+        doctrine_loyalty                -> {intellectual_integrity};
+        field_modulation                -> {bioadaptive_resonance};
+        high_energy_chemistry           -> {advanced_subatomic_theory; synthetic_fossil_fuels};
+        nonlinear_mathematics           -> {superstring_theory};
+        adaptive_doctrine               -> {advanced_military_algorithms};
+        advanced_military_algorithms    -> {pre_sentient_algorithms; retroviral_engineering};
+        bioadaptive_resonance           -> {sentient_resonance};
+        neural_grafting                 -> {mind_machine_interface; bio_engineering};
+        superconductor                  -> {applied_relativity; fusion_power};
+        superstring_theory              -> {monopole_magnets};
+        mind_machine_interface          -> {graviton_theory; digital_sentience; biomachinery};
+        photon_wave_mechanics           -> {probability_mechanics};
+        retroviral_engineering          -> {biomachinery; centauri_genetics};
+        organic_superlubricant          -> {nanominiaturization; advanced_spaceflight};
+        unified_field_theory            -> {frictionless_surfaces; secrets_of_creation};
+        n_space_compression             -> {self_aware_machines};
+        matter_compression              -> {super_tensile_solids};
+        sentient_resonance              -> {secrets_of_the_manifolds};
+        controlled_singularity          -> {string_resonance; transcendent_thought};
+        string_resonance;
+    }
 
+    subgraph discover {
+        biogenetics                     -> {secrets_of_the_human_brain; gene_splicing};
+        information_networks            -> {nonlinear_mathematics; polymorphic_software; planetary_networks};
+        planetary_networks              -> {industrial_automation; cyberethics};
+        polymorphic_software            -> {advanced_subatomic_theory; optical_computers; adaptive_doctrine};
+        secrets_of_the_human_brain      -> {neural_grafting; centauri_empathy};
+        advanced_subatomic_theory       -> {applied_relativity; silksteel_alloys};
+        optical_computers               -> {superconductor; advanced_military_algorithms};
+        applied_relativity              -> {unified_field_theory; photon_wave_mechanics};
+        pre_sentient_algorithms         -> {fusion_power; probability_mechanics; orbital_spaceflight};
+        fusion_power                    -> {advanced_ecological_engineering; organic_superlubricant};
+        orbital_spaceflight             -> {advanced_spaceflight; n_space_compression};
+        advanced_spaceflight            -> {super_tensile_solids};
+        digital_sentience               -> {applied_gravitonics; self_aware_machines; sentient_econometrics};
+        frictionless_surfaces           -> {quantum_power};
+        secrets_of_creation             -> {singularity_mechanics};
+        quantum_power                   -> {quantum_machinery};
+        self_aware_machines             -> {singularity_mechanics; matter_editation};
+        secrets_of_alpha_centauri       -> {matter_transmission; secrets_of_the_manifolds};
+        singularity_mechanics           -> {controlled_singularity};
+        secrets_of_the_manifolds        -> {threshold_of_transcendence; string_resonance};
+        transcendent_thought;
+
+    }
+
+    subgraph explore {
+        centauri_ecology                -> {centauri_empathy; ecological_engineering; field_modulation};
+        doctrine_mobility               -> {doctrine_flexibility; doctrine_loyalty};
+        progenitor_psych                -> {field_modulation; adaptive_economics};
+        doctrine_flexibility            -> {doctrine_initiative; doctrine_air_power; adaptive_doctrine};
+        ethical_calculus                -> {intellectual_integrity; gene_splicing};
+        centauri_empathy                -> {centauri_meditation; bioadaptive_resonance};
+        intellectual_integrity          -> {cyberethics; planetary_economics};
+        doctrine_initiative             -> {nanometallurgy; homo_superior};
+        ecological_engineering          -> {centauri_meditation; environmental_economics};
+        synthetic_fossil_fuels          -> {doctrine_air_power; organic_superlubricant};
+        centauri_meditation             -> {centauri_genetics};
+        doctrine_air_power              -> {mind_machine_interface; orbital_spaceflight};
+        centauri_genetics               -> {centauri_psi};
+        centauri_psi                    -> {the_will_to_power; secrets_of_alpha_centauri; sentient_resonance};
+        homo_superior                   -> {the_will_to_power};
+        nanometallurgy                  -> {matter_compression; quantum_machinery};
+        the_will_to_power               -> {eudaimonia; secrets_of_creation};
+        sentient_econometrics           -> {eudaimonia; secrets_of_alpha_centauri};
+        eudaimonia                      -> {temporal_mechanics};
+        graviton_theory                 -> {applied_gravitonics};
+        applied_gravitonics             -> {controlled_singularity};
+        threshold_of_transcendence      -> {transcendent_thought};
+    }
 }

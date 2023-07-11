@@ -1,71 +1,101 @@
 digraph civ4 {
-    fishing -> {sailing; pottery};
+    subgraph ancient     {
+        wheel; agriculture; animal_husbandry; fishing; hunting; mysticism; archery; pottery; writing; sailing; masonry; mining; priesthood; bronze_working; polytheism;
+        monotheism; meditation;
+    }
+    subgraph classical   {
+        monarchy; alphabet; mathematics; construction; code_of_laws; metal_casting; compass; currency; horseback_riding; drama;
+        calendar; iron_working; literature; aesthetics;
+    }
+    subgraph medieval    {
+        banking; engineering; guilds; feudalism; machinery; civil_service; philosophy;
+        optics; paper; music; divine_right;
+    }
+    subgraph renaissance {
+        economics; constitution; astronomy; democracy; education; chemistry;
+        corporation; replaceable_parts; gunpowder; rifling;
+        printing_press; nationalism; military_science; military_tradition;
+        liberalism;
+    }
+    subgraph industrial  {
+        railroad; electricity; assembly_line; steel; medicine; industrialism; communism; scientific_method; steam_power;
+        fission; combustion; biology; physics; fascism; artillery;
+    }
+    subgraph modern      {
+        radio; flight; mass_media; plastics; computers; ecology; refrigeration; rocketry;
+        robotics; satellites; fusion; laser; genetics; fiber_optics; advanced_flight; superconductors;
+    }
+    subgraph future      {
+        stealth; future_tech;
+    }
+
+    fishing           -> {sailing; pottery};
     wheel;
-    agriculture -> {pottery; animal_husbandry};
-    hunting -> {animal_husbandry; archery};
-    mysticism -> {meditation; polytheism; masonry};
-    mining -> {masonry; bronze_working};
-    pottery -> {writing};
-    animal_husbandry -> {writing; horseback_riding};
-    meditation -> {priesthood};
-    polytheism -> {priesthood; monotheism};
-    bronze_working -> {metal_casting; iron_working};
-    writing -> {aesthetics; mathematics; alphabet};
-    priesthood -> {writing; monarchy; code_of_laws};
-    monotheism -> {monarchy; theology};
-    metal_casting -> {machinery};
-    iron_working -> {compass};
-    aesthetics -> {literature; drama};
-    mathematics -> {calendar; construction; currency};
-    alphabet -> {currency};
-    currency -> {code_of_laws};
-    monarchy -> {feudalism};
-    machinery -> {guilds};
-    compass -> {optics};
-    literature -> {music};
-    drama -> {music; philosophy};
-    construction -> {engineering};
-    code_of_laws -> {philosophy; civil_service};
-    feudalism -> {civil_service};
-    philosophy -> {nationlism};
-    divine_right -> {nationlism};
-    civil_service -> {paper};
-    theology -> {paper};
-    guides -> {banking; gunpowder};
-    paper -> {printing_press; education};
-    printing_press -> {replaceable_parts};
-    nationalism -> {constitution; military_tradition};
-    education -> {liberalism; economics; gunpowder};
-    gunpowder -> {chemistry};
-    constitution -> {democracy};
+    agriculture       -> {pottery; animal_husbandry};
+    hunting           -> {animal_husbandry; archery};
+    mysticism         -> {meditation; polytheism; masonry};
+    mining            -> {masonry; bronze_working};
+    pottery           -> {writing};
+    animal_husbandry  -> {writing; horseback_riding};
+    meditation        -> {priesthood};
+    polytheism        -> {priesthood; monotheism};
+    bronze_working    -> {metal_casting; iron_working};
+    writing           -> {aesthetics; mathematics; alphabet};
+    priesthood        -> {writing; monarchy; code_of_laws};
+    monotheism        -> {monarchy; theology};
+    metal_casting     -> {machinery};
+    iron_working      -> {compass};
+    aesthetics        -> {literature; drama};
+    mathematics       -> {calendar; construction; currency};
+    alphabet          -> {currency};
+    currency          -> {code_of_laws};
+    monarchy          -> {feudalism};
+    machinery         -> {guilds};
+    compass           -> {optics};
+    literature        -> {music};
+    drama             -> {music; philosophy};
+    construction      -> {engineering};
+    code_of_laws      -> {philosophy; civil_service};
+    feudalism         -> {civil_service};
+    philosophy        -> {nationlism};
+    divine_right      -> {nationlism};
+    civil_service     -> {paper};
+    theology          -> {paper};
+    guides            -> {banking; gunpowder};
+    paper             -> {printing_press; education};
+    printing_press    -> {replaceable_parts};
+    nationalism       -> {constitution; military_tradition};
+    education         -> {liberalism; economics; gunpowder};
+    gunpowder         -> {chemistry};
+    constitution      -> {democracy};
     replaceable_parts -> {rifling; steam_power};
-    economics -> {corporation};
-    rifling -> {artillery};
-    steam_power -> {assembly_line};
-    astronomy -> {scientific_method};
-    chemistry -> {scientific_method; military_science; steel};
+    economics         -> {corporation};
+    rifling           -> {artillery};
+    steam_power       -> {assembly_line};
+    astronomy         -> {scientific_method};
+    chemistry         -> {scientific_method; military_science; steel};
     scientific_method -> {communism; physics; biology};
-    steel -> {railroad};
-    railroad -> {combustion};
-    biology -> {medicine};
-    physics -> {electricity};
-    assembly_line -> {fascism; industiralism};
-    artillery -> {rocketry};
-    flight -> {rocketry; advanced_flight};
-    electricity -> {fission; radio; refrigeration};
-    rocketry -> {satellites};
-    satellites -> {laser};
-    industiralism -> {plastics};
-    plastics -> {composites; ecology};
-    fission -> {ecology};
-    radio -> {mass_media; computers};
-    refrigeration -> {superconductors};
-    computers -> {superconductors; fiber_optics; robotics};
-    superconductors -> {genetics};
-    laser -> {fiber_optics};
-    advanced_flight -> {stealth};
-    fiber_optics -> {fusion};
-    genetics -> {future_tech};
+    steel             -> {railroad};
+    railroad          -> {combustion};
+    biology           -> {medicine};
+    physics           -> {electricity};
+    assembly_line     -> {fascism; industiralism};
+    artillery         -> {rocketry};
+    flight            -> {rocketry; advanced_flight};
+    electricity       -> {fission; radio; refrigeration};
+    rocketry          -> {satellites};
+    satellites        -> {laser};
+    industiralism     -> {plastics};
+    plastics          -> {composites; ecology};
+    fission           -> {ecology};
+    radio             -> {mass_media; computers};
+    refrigeration     -> {superconductors};
+    computers         -> {superconductors; fiber_optics; robotics};
+    superconductors   -> {genetics};
+    laser             -> {fiber_optics};
+    advanced_flight   -> {stealth};
+    fiber_optics      -> {fusion};
+    genetics          -> {future_tech};
 
 
 

@@ -1,82 +1,108 @@
 digraph civ5 {
-    agriculture -> {pottery; animal_husbandry; archery; mining};
-    pottery -> {sailing; calendar; writing};
-    animal_husbandry -> {trapping; wheel};
-    archery -> {wheel};
-    mining -> {masonry; bronze_working};
-    sailing -> {optics};
-    calendar -> {philosophy};
-    writing -> {philosophy; drama_and_poetry};
-    trapping -> {horseback_riding};
-    wheel -> {horseback_riding; mathematics; construction};
-    masonry -> {construction};
-    bronze_working -> {iron_working};
-    optics -> {compass};
-    philosophy -> {theology};
-    drama_and_poetry -> {theology; civil_service};
-    horseback_riding -> {civil_service};
-    mathematics -> {currency; engineering};
-    construction -> {engineering};
-    currency -> {civil_service; guilds};
-    engineering -> {metal_casting; machinery};
-    iron_working -> {metal_casting};
-    theology -> {compass; education};
-    civil_service -> {education; chivalry};
-    guilds -> {machinery};
-    metal_casting -> {physics; steel};
-    compass -> {astronomy};
-    education -> {astronomy; acoustics};
-    chivalry -> {printing_press; banking};
-    machinery -> {printing_press};
-    physics -> {printing_press; gunpowder};
-    steel -> {gunpowder};
-    astronomy -> {navigation};
-    acoustics -> {architecture};
-    banking -> {architecture; economics};
-    printing_press -> {economics; metallurgy};
-    gunpowder -> {metallurgy; chemistry};
-    navigation -> {archaeology};
-    architecture -> {scientific_theory; archaeology};
-    economics -> {industrialization; rifling};
-    metallurgy -> {rifling; military_science};
-    chemistry -> {military_science; fertilizer};
-    archaeology -> {biology};
-    scientific_theory -> {biology; electricity; steam_power};
-    industrialization -> {steam_power};
-    rifling -> {steam_power};
-    military_science -> {dynamite};
-    fertilizer -> {dynamite};
-    biology -> {refrigeration};
-    electricity -> {refrigeration; radio; replaceable_parts};
-    steam_power -> {replaceable_parts; flight; railroad};
-    dynamite -> {railroad};
-    refrigeration -> {penicillin};
-    radio -> {plasics};
-    replaceable_parts -> {plastics; electronics};
-    flight -> {electronics; ballistics};
-    railroad -> {ballistics; combustion};
-    plastics -> {penicillin; atomic_theory};
-    electronics -> {atomic_theory; radar};
-    ballistics -> {radar; combined_arms};
-    combustion -> {combined_arms};
-    penicillin -> {ecology};
-    atomic_theory -> {ecology; nuclear_fission};
-    radar -> {nuclear_fission; rocketry; computers};
-    combined_arms -> {computers};
-    ecology -> {telecommunications; mobile_tactics};
-    nuclear_fission -> {mobile_tactics; advanced_ballistics};
-    rocketry -> {advanced_ballistics; satellites; robotics};
-    computers -> {robotics; lasers};
-    telecommunications -> {the_internet; globalization; particle_physics};
-    mobile_tactics -> {particle_physics};
+    subgraph ancient     {
+        agriculture; animal_husbandry; archery; bronze_working; calendar; masonry; mining; pottery; sailing; wheel; trapping; writing;
+    }
+    subgraph classical   {
+        construction; currency; drama_and_poetry; engineering; horseback_riding; iron_working; mathematics; optics; philosophy;
+    }
+    subgraph medieval    {
+        chivalry; civil_service; compass; education; guilds; machinery; metal_casting; physics; steel; theology;
+    }
+    subgraph renaissance {
+        acoustics; architecture; astronomy; banking; chemistry; economics; gunpowder; metallurgy; navigation; printing_press;
+    }
+    subgraph industrial  {
+        archaeology; biology; dynamite; electricity; fertilizer; industrialization; military_science; rifling; scientific_theory; steam_power;
+    }
+    subgraph modern      {
+        ballistics; combustion; electronics; flight; mass_media; plastics; radio; railroad; refrigeration; replaceable_parts;
+    }
+    subgraph atomic      {
+        atomic_theory; combined_arms; computers; ecology; nuclear_fission; penicillin; radar; rocketry;
+    }
+    subgraph information {
+        advanced_ballistics; future_tech; globalization; lasers; mobile_tactics; nanotechnology; nuclear_fusion; particle_physics; robotics;
+        satellites; telecommunications; the_internet;
+    }
+
+    agriculture         -> {pottery; animal_husbandry; archery; mining};
+    pottery             -> {sailing; calendar; writing};
+    animal_husbandry    -> {trapping; wheel};
+    archery             -> {wheel};
+    mining              -> {masonry; bronze_working};
+    sailing             -> {optics};
+    calendar            -> {philosophy};
+    writing             -> {philosophy; drama_and_poetry};
+    trapping            -> {horseback_riding};
+    wheel               -> {horseback_riding; mathematics; construction};
+    masonry             -> {construction};
+    bronze_working      -> {iron_working};
+    optics              -> {compass};
+    philosophy          -> {theology};
+    drama_and_poetry    -> {theology; civil_service};
+    horseback_riding    -> {civil_service};
+    mathematics         -> {currency; engineering};
+    construction        -> {engineering};
+    currency            -> {civil_service; guilds};
+    engineering         -> {metal_casting; machinery};
+    iron_working        -> {metal_casting};
+    theology            -> {compass; education};
+    civil_service       -> {education; chivalry};
+    guilds              -> {machinery};
+    metal_casting       -> {physics; steel};
+    compass             -> {astronomy};
+    education           -> {astronomy; acoustics};
+    chivalry            -> {printing_press; banking};
+    machinery           -> {printing_press};
+    physics             -> {printing_press; gunpowder};
+    steel               -> {gunpowder};
+    astronomy           -> {navigation};
+    acoustics           -> {architecture};
+    banking             -> {architecture; economics};
+    printing_press      -> {economics; metallurgy};
+    gunpowder           -> {metallurgy; chemistry};
+    navigation          -> {archaeology};
+    architecture        -> {scientific_theory; archaeology};
+    economics           -> {industrialization; rifling};
+    metallurgy          -> {rifling; military_science};
+    chemistry           -> {military_science; fertilizer};
+    archaeology         -> {biology};
+    scientific_theory   -> {biology; electricity; steam_power};
+    industrialization   -> {steam_power};
+    rifling             -> {steam_power};
+    military_science    -> {dynamite};
+    fertilizer          -> {dynamite};
+    biology             -> {refrigeration};
+    electricity         -> {refrigeration; radio; replaceable_parts};
+    steam_power         -> {replaceable_parts; flight; railroad};
+    dynamite            -> {railroad};
+    refrigeration       -> {penicillin};
+    radio               -> {plasics};
+    replaceable_parts   -> {plastics; electronics};
+    flight              -> {electronics; ballistics};
+    railroad            -> {ballistics; combustion};
+    plastics            -> {penicillin; atomic_theory};
+    electronics         -> {atomic_theory; radar};
+    ballistics          -> {radar; combined_arms};
+    combustion          -> {combined_arms};
+    penicillin          -> {ecology};
+    atomic_theory       -> {ecology; nuclear_fission};
+    radar               -> {nuclear_fission; rocketry; computers};
+    combined_arms       -> {computers};
+    ecology             -> {telecommunications; mobile_tactics};
+    nuclear_fission     -> {mobile_tactics; advanced_ballistics};
+    rocketry            -> {advanced_ballistics; satellites; robotics};
+    computers           -> {robotics; lasers};
+    telecommunications  -> {the_internet; globalization; particle_physics};
+    mobile_tactics      -> {particle_physics};
     advanced_ballistics -> {particle_physics; nuclear_fusion};
-    satellites -> {nuclear_fusion};
-    robotics -> {nuclear_fusion; nanotechnology; stealth};
-    lasers -> {stealth};
-    the_internet -> {future_tech};
-    globalization -> {future_tech};
-    particle_physics -> {future_tech};
-    nuclear_fusion -> {future_tech};
-    nanotechnology -> {future_tech};
-    stealth -> {future_tech};
+    satellites          -> {nuclear_fusion};
+    robotics            -> {nuclear_fusion; nanotechnology; stealth};
+    lasers              -> {stealth};
+    the_internet        -> {future_tech};
+    globalization       -> {future_tech};
+    particle_physics    -> {future_tech};
+    nuclear_fusion      -> {future_tech};
+    nanotechnology      -> {future_tech};
+    stealth             -> {future_tech};
 }

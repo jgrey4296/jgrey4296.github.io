@@ -26,6 +26,21 @@ digraph civ2_tech {
         plastics; radio; recycling; refrigeration; robotics; rocketry; space_flight; stealth; superconductor
     }
 
+    subgraph applied { advanced_flight; automobile; bridge_building; bronze_working; combustion; computers; construction;
+        electricity; electronics; engineering; explosives; flight; invention; iron_working; machine_tools; masonry; miniaturization; plastics; radio; refining; steel; the_wheel
+    }
+    subgraph economic { banking; corporation; currency; economics; industrialization; map_making; medicine; navigation; pottery; railroad; refrigeration; sanitation; seafaring; trade;
+    }
+    subgraph academic { alphabet; astronomy; atomic_theory; chemistry; fusion_power; future_technology; genetic_engineering;
+        laser; literacy; magnetism; mathematics; nuclear_fission; nuclear_power physics; space_flight; steam_engine; superconductor; theory_of_gravity; university; writing;
+    }
+    subgraph military { amphibious_warfare; chivalry; combined_arms; conscription; espionage; feudalism; guerrilla_warfare; gunpowder; horseback_riding; leadership; metallurgy;
+        mobile_warfare; robotics; rocketry; stealth; tactics; warrior_code;
+    }
+    subgraph social { ceremonial_burial; code_of_laws; communism; democracy; environmentalism; fundamentalism; labor_union; monarchy; monotheism; mysticism; philosophy; polytheism;
+        recycling; republic; theology
+    }
+
     advanced_flight     -> {combined_arms; rocketry};
     alphabet            -> {code_of_laws; writing; map_making; mathematics};
     amphibious_warfare  -> {};
