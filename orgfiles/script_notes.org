@@ -115,6 +115,25 @@ print(all_files)
 
 ** GDB
 https://www.sourceware.org/gdb/
+https://blog.logrocket.com/debugging-rust-apps-with-gdb/
+https://rustc-dev-guide.rust-lang.org/debugging-support-in-rustc.html
+https://getdocs.org/Gdb/docs/latest/gdb/Rust
+https://tigercosmos.xyz/post/2020/09/system/debug-gdb/
+https://os.phil-opp.com/set-up-gdb/
+
+-    Linespecs (see Specify Location) are never relative to the current crate. Instead, they act as if there were a global namespace of crates, somewhat similar to the way extern crate behaves. That is, if GDB is stopped at a breakpoint in a function in crate ‘A’, module ‘B’, then break B::f will attempt to set a breakpoint in a function named ‘f’ in a crate named ‘B’. As a consequence of this approach, linespecs also cannot refer to items using ‘self::’ or ‘super::’.
+ -   Because GDB implements Rust name-lookup semantics in expressions, it will sometimes prepend the current crate to a name. For example, if GDB is stopped at a breakpoint in the crate ‘K’, then print ::x::y will try to find the symbol ‘K::x::y’. However, since it is useful to be able to refer to other crates when debugging, GDB provides the extern extension to circumvent this. To use the extension, just put extern before a path expression to refer to the otherwise unavailable “global” scope. In the above example, if you wanted to refer to the symbol ‘y’ in the crate ‘x’, you would use print extern x::y.
+-  The Rust expression evaluator does not support “statement-like” expressions such as if or match, or lambda expressions.
+-   Tuple expressions are not implemented.
+-   The Rust expression evaluator does not currently implement the Drop trait. Objects that may be created by the evaluator will never be destroyed.
+-   GDB does not implement type inference for generics. In order to call generic functions or otherwise refer to generic items, you will have to specify the type parameters manually.
+-  GDB currently uses the C++ demangler for Rust. In most cases this does not cause any problems. However, in an expression context, completing a generic function name will give syntactically invalid results. This happens because Rust requires the ‘::’ operator between the function name and its generic arguments. For example, GDB might provide a completion like crate::f<u32>, where the parser would require crate::f::<u32>.
+-  As of this writing, the Rust compiler (version 1.8) has a few holes in the debugging information it generates. These holes prevent certain features from being implemented by GDB: Method calls cannot be made via traits. Operator overloading is not implemented. When debugging in a monomorphized function, you cannot use the generic type names. The type Self is not available. use statements are not available, so some names may not be available in the crate.
+
+** LLDB
+https://lldb.llvm.org/
+
+
 
 ** Shells
 *** Bash
@@ -579,6 +598,7 @@ https://www.sslshopper.com/article-most-common-openssl-commands.html
 ** Build Systems and Package Management
 *** Cargo                                      :rust:
 https://doc.rust-lang.org/cargo/
+https://stackoverflow.com/questions/37586216/step-by-step-interactive-debugger-for-rust
 
 remove ~/.cargo/packages.cache if it locks
 https://github.com/rust-lang/cargo/issues/9742
@@ -757,6 +777,10 @@ https://opam.ocaml.org/
 
 *** cookiecutter
 https://cookiecutter.readthedocs.io/en/2.2.3/README.html
+*** jenv
+https://www.jenv.be/
+
+for java env management
 
 ** Text
 *** Wordnet
@@ -1267,6 +1291,19 @@ https://github.com/aristocratos/btop
 
 *** htop
 https://htop.dev/
+
+** Repls
+*** Elixir
+https://samuelmullen.com/articles/customizing_elixirs_iex
+https://itnext.io/a-collection-of-tips-for-elixirs-interactive-shell-iex-bff5e177405b?gi=3b2000b5d04b
+https://subscription.packtpub.com/book/programming/9781784397517/5/ch05lvl1sec59/connecting-nodes
+
+#+begin_src elixir
+# iex --name {name}@127.0.0.1
+Node.list
+
+Node.connect :"{name}@127.0.0.1"
+#+end_src
 
 * Links
 https://www.whocanuse.com/
