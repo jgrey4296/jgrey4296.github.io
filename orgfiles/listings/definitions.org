@@ -1,18 +1,9 @@
 #+TITLE: Definitions
 
+
 * Overview
-https://en.wikipedia.org/wiki/English_grammar
-https://en.wikipedia.org/wiki/Clause
-https://en.m.wikipedia.org/wiki/List_of_Latin_legal_terms
-https://en.m.wikipedia.org/wiki/Kill_chain
-https://wiki.haskell.org/Pointfree
-https://wiring.readthedocs.io/en/latest/rationale.html
-https://en.m.wikipedia.org/wiki/Glossary_of_fencing
-https://zampaniosim.fandom.com/wiki/Cognitohazard
-https://scp-fanon.fandom.com/wiki/Category:Cognitohazard
-https://en.wikipedia.org/wiki/Information_hazard
-https://docutils.sourceforge.io/docs/ref/rst/introduction.html#goals
 * Main
+
 ** General
 *** Modalities
 Alethic     - Possibility
@@ -22,6 +13,7 @@ Epistemic   - Knowledge
 Doxastic    - Belief
 Boulomaic   - Desire
 Temporal    - Time
+
 *** Greek
 α Α   - alpha
 β Β   - beta
@@ -308,6 +300,7 @@ denom = Var(X₁)Var(X₂) - Cov(X₁X₂)²
 α  = E(Y)
 :END:
 
+Cosine Similarity - n-dimensional vector similarity using (A . B) / (||A|| x ||B||) -> cos θ
 Distribution                            -
 Joint Distribution                      -
 Partition                               - Exhaustive, mutually exclusive set of events
@@ -410,6 +403,7 @@ l'hopitals rule -
 *** Graph Theory
 ** Logic
 *** Classical Logic Definitions
+Impredicativity      - Self-referential definition.
 Syntactic Entailment - P ⊢ Q : Q is derivable from P in system S by the transformation rules of S, independent of truth assignments.
 Semantic Entailment  - P ⊨ Q : Q is derivable from P in system S by the transformation rules of S if there *not* a model I where P ∈ I and Q ∉ I.
 Sound                - (⊢) ⇒ (⊨).
@@ -436,6 +430,7 @@ Bisimulation         -
 Sequent              -
 compactness property -
 first-order correspondence language -
+skolemization        - using second order logic (relations over quantifiers) replaces existential variables by functions on universal variables
 *** Modal Logic Definitions
 Kripke Model -
 □A = ~◇~A
@@ -456,14 +451,14 @@ Affirming the consequent     - *Fallacy* : (P → Q), Q ⊢ P.
 Denying the antecedent       - *Fallacy* : (P → Q), ¬P ⊢ ¬Q.
 
 import-export                - P → (Q → R) ⩭ (P ∧ Q) → R
-Strengthening                -
 
 law of excluded middle       - P ∨ ¬P
 double negation elimination  - ¬¬P ⇒ P.
 
 De Morgan's Laws 1           - not (A ∨ B) = (not A) ∧ (not B).
-De Morgan's Laws 1           - not (A ∧ B) = (not A) ∨ (not B).
+De Morgan's Laws 2           - not (A ∧ B) = (not A) ∨ (not B).
 *** Structural Rules
+Strengthening                - # TODO
 Weakening                           - Addition does not change the truth of the expression. (A ⊢ X) ⇒ (A, B ⊢ X), (A ⊢ X, Y)
 Contraction                         - Idempotence of entailment. (A, A, A ⊢ X) ⩭ (A ⊢ X) and  (A ⊢ X, X, X) ⩭ (A ⊢ X).
 Exchange                            - Permutation. (A, B ⊢ X) ⩭ (B, A ⊢ X) and (A ⊢ X, Y) ⩭ (A ⊢ Y, X)
@@ -670,9 +665,20 @@ From cropper22_induc_logic_progr_at_74
 - A substitution *θ* unifies atoms A and B in the case Aθ = Bθ. Note that atoms A and B need to have a distinct set of variables, i.e., they should not have a variable with the same name, for unification to work properly.
 
 (Procedural) Cut -
-Resolution       -
-Unification      -
+**** Resolution
 
+Production of a new clause implied by two clauses containing complementary literals.
+So:
+A = a \/ b \/ c
+B = d \/ e\/ ~c
+gives:
+C = a \/ b \/ d \/ e
+by mututally incompatible literals c and ~c
+
+If a set of formulas resolve to the empty clause, it is unsatisfiable.
+
+**** Unification
+bi-directional pattern matching. Both arguments can contain variables
 **** Prolog
 **** Answer Set Programming
 Herbrand Base            -
@@ -830,6 +836,20 @@ PTime -
 NP -
 PSpace -
 ExpTime -
+
+*** Coq Conversion Rules
+https://coq.inria.fr/refman/language/core/conversion.html#conversion
+α - Syntactically equal ignoring bound (internal) variable names
+β - Eliminates application. Reduction with global env of (λx.T)u -> T{x -> u}.
+δ - Replace variables or constants with definition. (only 'transparent' constants)
+ζ - Eliminate 'let' expressions. Removes the declaration entirely, unlike δ.
+η - Expand forall statements into fresh variable lambdas. ∀x:T, U with λx:T.(t x)
+
+match - eliminate match statements with exact path.
+fix   - replace 'fix' with beta-redex, and recursive calls of symbol with the 'fix' term.
+cofix - replace 'cofix' with beta-redex, and recursive calls of symbol with the 'cofix' term.
+
+ι - Applies destructors/match/fix/cofix to inductive objects.
 
 ** Computer Science
 *** Args vs Params
@@ -1485,3 +1505,18 @@ Of John Haugeland, described by Brian Cantwell Smith in "The Promise of Artifici
 4) The ontology of the world is formal, discrete well-defined objects.
 
 * Links
+https://www.studysmarter.us/explanations/math/calculus/manipulating-functions/
+https://reference.wolfram.com/language/tutorial/AlgebraicManipulationOverview.html
+
+
+https://en.wikipedia.org/wiki/English_grammar
+https://en.wikipedia.org/wiki/Clause
+https://en.m.wikipedia.org/wiki/List_of_Latin_legal_terms
+https://en.m.wikipedia.org/wiki/Kill_chain
+https://wiki.haskell.org/Pointfree
+https://wiring.readthedocs.io/en/latest/rationale.html
+https://en.m.wikipedia.org/wiki/Glossary_of_fencing
+https://zampaniosim.fandom.com/wiki/Cognitohazard
+https://scp-fanon.fandom.com/wiki/Category:Cognitohazard
+https://en.wikipedia.org/wiki/Information_hazard
+https://docutils.sourceforge.io/docs/ref/rst/introduction.html#goals

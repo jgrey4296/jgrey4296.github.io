@@ -1,32 +1,66 @@
 #+TITLE: Script Notes
 
 * Overview
-https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html#simple-smart-contract
-https://nixos.org/manual/nix/stable/
-https://www.ledger-cli.org/index.html
-https://github.com/tmux/tmux/wiki/Getting-Started
-https://github.com/realgud/realgud/
-https://jblevins.org/projects/deft/
-https://github.com/pashky/restclient.el
-https://github.com/skeeto/elfeed
-https://www.howtogeek.com/671422/how-to-use-tmux-on-linux-and-why-its-better-than-screen/
 
 * Main
-https://construct.readthedocs.io/en/latest/
-https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly
-** CLI
-*** Git
+** Network
+
+*** Bandwhich
+https://github.com/imsnif/bandwhich
+
+*** Sniffer
+https://github.com/chenjiandongx/sniffer
+
+** Git
 https://stackoverflow.com/questions/45272492
 
 git pull origin master --allow-unrelated-histories
 git merge origin origin/master
-*** ssh
+
+** ssh
 [[https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh]]
 [[https://stackoverflow.com/questions/47455300][ssh-config-bad-configuration-option-usekeychain-on-mac-os-sierra-10-12-6]]
 [[https://stackoverflow.com/questions/21095054][ssh-key-still-asking-for-password-and-passphrase]]
 
 when using ssh-add to add to keychain, don't use brew's openssl,
 use stock apple one: /usr/local/ssh-add -K ....
+
+** lskq
+for checking file watchers
+
+** Launchd
+https://launchd.info/
+https://krypted.com/mac-security/disable-disk-arbitration/
+
+Locations:
+- ~/Library/LaunchAgents
+- /Library/LaunchAgents
+- /Library/LaunchDaemons
+- /System/Library/LaunchAgents
+- /System/Library/LaunchDaemons
+
+** Emacs
+https://orgmode.org/manual/Exporting.html
+https://emacs.stackexchange.com/questions/10392
+https://stackoverflow.com/questions/22072773/
+https://emacs.stackexchange.com/questions/55654/
+
+
+#+begin_src bash
+emacs
+--batch # no init/ early-init
+[file]
+--script [file]
+-f [func]
+#+end_src
+
+#+RESULTS:
+
+#+begin_src bash
+emacs --batch /Volumes/documents/github/__configs/packages/ox-html-jg/tests/example.org  --script /Volumes/documents/github/__configs/packages/ox-html-jg/batch-run.el -f org-html-jg-export-to-html
+#+end_src
+
+#+RESULTS:
 
 ** OPA
 https://www.openpolicyagent.org/docs/latest/
@@ -79,21 +113,29 @@ logging.info("Found %s files in %s", len(all_files), args.target)
 print(all_files)
 #+end_src
 
-*** GDB
+** GDB
 https://www.sourceware.org/gdb/
+https://blog.logrocket.com/debugging-rust-apps-with-gdb/
+https://rustc-dev-guide.rust-lang.org/debugging-support-in-rustc.html
+https://getdocs.org/Gdb/docs/latest/gdb/Rust
+https://tigercosmos.xyz/post/2020/09/system/debug-gdb/
+https://os.phil-opp.com/set-up-gdb/
 
-*** Awk
-#+begin_src bash
-# Getting subgroups
-awk 'match($0, /HREF="(.+?)"/, a) {print a[1]}'
+-    Linespecs (see Specify Location) are never relative to the current crate. Instead, they act as if there were a global namespace of crates, somewhat similar to the way extern crate behaves. That is, if GDB is stopped at a breakpoint in a function in crate ‘A’, module ‘B’, then break B::f will attempt to set a breakpoint in a function named ‘f’ in a crate named ‘B’. As a consequence of this approach, linespecs also cannot refer to items using ‘self::’ or ‘super::’.
+ -   Because GDB implements Rust name-lookup semantics in expressions, it will sometimes prepend the current crate to a name. For example, if GDB is stopped at a breakpoint in the crate ‘K’, then print ::x::y will try to find the symbol ‘K::x::y’. However, since it is useful to be able to refer to other crates when debugging, GDB provides the extern extension to circumvent this. To use the extension, just put extern before a path expression to refer to the otherwise unavailable “global” scope. In the above example, if you wanted to refer to the symbol ‘y’ in the crate ‘x’, you would use print extern x::y.
+-  The Rust expression evaluator does not support “statement-like” expressions such as if or match, or lambda expressions.
+-   Tuple expressions are not implemented.
+-   The Rust expression evaluator does not currently implement the Drop trait. Objects that may be created by the evaluator will never be destroyed.
+-   GDB does not implement type inference for generics. In order to call generic functions or otherwise refer to generic items, you will have to specify the type parameters manually.
+-  GDB currently uses the C++ demangler for Rust. In most cases this does not cause any problems. However, in an expression context, completing a generic function name will give syntactically invalid results. This happens because Rust requires the ‘::’ operator between the function name and its generic arguments. For example, GDB might provide a completion like crate::f<u32>, where the parser would require crate::f::<u32>.
+-  As of this writing, the Rust compiler (version 1.8) has a few holes in the debugging information it generates. These holes prevent certain features from being implemented by GDB: Method calls cannot be made via traits. Operator overloading is not implemented. When debugging in a monomorphized function, you cannot use the generic type names. The type Self is not available. use statements are not available, so some names may not be available in the crate.
 
-# checking length
-awk 'length < 10 {print $0}'
+** LLDB
+https://lldb.llvm.org/
 
-# in place editing and printing at end of file
-gawk -i inplace '/if __name__ / {print "##-- ifmain" } {print $0} ENDFILE {print "##-- end ifmain"}'
-#+end_src awk
 
+
+** Shells
 *** Bash
 https://github.com/bahamas10/bash-style-guide
 [[https://stackoverflow.com/questions/5917576/][line length sorting]]
@@ -102,20 +144,23 @@ https://github.com/bahamas10/bash-style-guide
 cat testfile | awk '{ print length, $0 }' | sort -n | cut -d" " -f2-
 #+end_src
 
-*** File encoding
+*** Nushell
+https://www.nushell.sh/book/
+
+** File encoding
 file -I {}
 iconv -f {enc} -t {enc} {} > conv-{}
 
-*** Find
+** Find
 To find files, but not search .git directories:
 #+begin_src bash
 find ? -type f -a -not -name "DS_Store" -print -o -type d -name ".git" -prune
 #+end_src
 
-*** GPG Notes (v 2.2.11)
-**** *Short IDs*: Last 8 digits of fingerprint
+** GPG Notes (v 2.2.11)
+*** *Short IDs*: Last 8 digits of fingerprint
 
-**** Basic Protocol
+*** Basic Protocol
    Create Key
    Create Revocation Cert
    Create Fingerprint
@@ -131,7 +176,7 @@ find ? -type f -a -not -name "DS_Store" -print -o -type d -name ".git" -prune
    encrypt messages to them using their public key,
    or verify they sent a plaintext signature.
 
-**** Setup for Emacs
+*** Setup for Emacs
 https://emacs.stackexchange.com/questions/32881
 
 use epg package,
@@ -142,48 +187,48 @@ and set pinentry-program to pinentry-mac's path in gpg-agent.conf
 
 reload the configuration with "gpgconf --reload gpg-agent", and
 
-**** List keys
+*** List keys
    gpg -k
    gpg --list-sigs
 
-**** Importing a key:
+*** Importing a key:
    Works for secret and public keys
    gpg --import [filename]
 
-**** Generating a key
+*** Generating a key
    gpg --gen-key
    gpg --gen-revoke --armor --output=RevocationCertificate.asc [email]
 
-**** Deleting a key:
+*** Deleting a key:
    gpg --delete-secret-keys
    gpg --delete-keys
 
-**** Get a fingerprint
+*** Get a fingerprint
    Fingerprints give a shorter to verify hash of public keys
    gpg --fingerprint [email]
 
-**** Sign a key
+*** Sign a key
    gpg --sign-key [email]
    or
    gpg --interactive --edit-key [email]
 
-**** Export keys
+*** Export keys
    gpg --armor --export[-secret-keys] [-o file] [-a ID | email]
 
-**** Encrypt
+*** Encrypt
    *Don't forget to add yourself to the recipients*
    gpg [-o output] --sign --armor [-r recipient] [-e file]
 
-**** Decrypt
+*** Decrypt
    gpg  -o output -d file
 
-**** Sign a plaintext message
+*** Sign a plaintext message
    gpg --clearsign file
 
-**** Verify a signature
+*** Verify a signature
    gpg --verify file
 
-**** Using Stronger Encryption
+*** Using Stronger Encryption
    gpg --interactive --edit-key [email]
    Then 'showpref' will show algorithm preferences
    from most - least.
@@ -192,8 +237,8 @@ reload the configuration with "gpgconf --reload gpg-agent", and
 
    then 'save'
 
-*** Mail
-**** mbsync and mu
+** Mail
+*** mbsync and mu
 
 #+NAME: mu init
 #+begin_src bash :results output
@@ -201,7 +246,7 @@ mu init --maildir ~/.mail --my-address {address}
 mu index
 #+end_src
 
-*** Sed
+** Sed
 Filter lines with:
 '/pattern/d'
 
@@ -211,15 +256,15 @@ Print Matching lines with:
 case Invariant:
 '/pattern/I'
 
-*** Wget
+** Wget
 https://www.networkinghowtos.com/howto/change-the-user-agent-in-wget/
 https://www.networkinghowtos.com/howto/common-user-agent-list/
 
 wget --user-agent="Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"
 wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0"
 
-*** XML
-**** XPath                                      :query_language:
+** XML
+*** XPath                                       :query_language:
 #+NAME: Example Code
 #+begin_src xpath :results output
 # display the last names of all people in the doc
@@ -259,13 +304,13 @@ self / .
 
 #+end_src
 
-**** [[https://www.videlibri.de/xidel.html][xidel]] :cli:query:
+*** [[https://www.videlibri.de/xidel.html][xidel]]                                       :cli:query:
 #+begin_src bash
 # Extracts between table and footer
 xidel -s --output-format=xml --xpath "//table/following-sibling::*[//*[@id='printfooter']/preceding::node()]" `?`
 #+end_src
 
-**** [[http://xmlstar.sourceforge.net/][XML Starlet]]
+*** [[http://xmlstar.sourceforge.net/][XML Starlet]]
 #+NAME: commands
 #+begin_src bash :results output
 xml
@@ -302,7 +347,7 @@ XMLStarlet is a command line toolkit to query/edit/check/transform
 XML documents (for more information see http://xmlstar.sourceforge.net/)
 :END:
 
-***** element / structure
+**** element / structure
 :usage:
 XMLStarlet Toolkit: Display element structure of XML document
 Usage: xml el [<options>] <xml-file>
@@ -318,7 +363,7 @@ XMLStarlet is a command line toolkit to query/edit/check/transform
 XML documents (for more information see http://xmlstar.sourceforge.net/)
 :END:
 
-***** select
+**** select
 :usage:
 Usage: xml sel <global-options> {<template>} [ <xml-file> ... ]
 where
@@ -374,7 +419,7 @@ xml sel -t -c "xpath0" -m "xpath1" -m "xpath2" -v "xpath3" \
         -t -m "xpath4" -c "xpath5"
 :END:
 
-***** edit
+**** edit
 :usage:
 XMLStarlet Toolkit: Edit XML document(s)
 Usage: xml ed <global-options> {<action>} [ <xml-file-or-uri> ... ]
@@ -409,7 +454,7 @@ XMLStarlet is a command line toolkit to query/edit/check/transform
 XML documents (for more information see http://xmlstar.sourceforge.net/)
 :END:
 
-***** transform
+**** transform
 :usage:
 xml tr
 XMLStarlet Toolkit: Transform XML document(s) using XSLT
@@ -438,7 +483,7 @@ Current implementation uses libxslt from GNOME codebase as XSLT processor
 (see http://xmlsoft.org/ for more details)
 :END:
 
-***** validate
+**** validate
 :usage:
 xml val
 XMLStarlet Toolkit: Validate XML document(s)
@@ -463,7 +508,7 @@ XMLStarlet is a command line toolkit to query/edit/check/transform
 XML documents (for more information see http://xmlstar.sourceforge.net/)
 :END:
 
-***** format
+**** format
 :usage:
 XMLStarlet Toolkit: Format XML document
 Usage: xml fo [<options>] <xml-file>
@@ -484,7 +529,7 @@ XMLStarlet is a command line toolkit to query/edit/check/transform
 XML documents (for more information see http://xmlstar.sourceforge.net/)
 :END:
 
-***** canonic
+**** canonic
 :usage:
 XMLStarlet Toolkit: XML canonicalization
 Usage: xml c14n <mode> <xml-file> [<xpath-file>] [<inclusive-ns-list>]
@@ -512,13 +557,13 @@ XMLStarlet is a command line toolkit to query/edit/check/transform
 XML documents (for more information see http://xmlstar.sourceforge.net/)
 :END:
 
-***** list directory : ls
-***** (un)escape
+**** list directory : ls
+**** (un)escape
 :usage:
 feed strings in
 :END:
 
-***** examples
+**** examples
 #+begin_src bash
 # query, -I(indenting output), -t(template:) -f(file name) -n(new line) -m(match xpath) //Trait -c(copy xpath) . -n -b(break nesting) file
 xml sel -I -t -f -n -m //Trait -c . -n -b ./facade_messy.xml
@@ -537,22 +582,26 @@ xml val -e -d ./test.dtd ./mytest.xml
 xml val -e -s ./test.xsd ./mytest.xml
 #+end_src
 
-**** [[https://relaxng.org/jclark/trang-manual.html][Trang]] :schema:
+*** [[https://relaxng.org/jclark/trang-manual.html][Trang]]                                       :schema:
 trang [input.xmls] output.xsd
 
-**** [[https://github.com/tefra/xsdata-plantuml][xsdata plantuml]]
+*** [[https://github.com/tefra/xsdata-plantuml][xsdata plantuml]]
 xsdata samples/order.xsd --output plantuml --package uml_gen
 
-**** [[http://saxon.sourceforge.net/][Saxon]]
+*** [[http://saxon.sourceforge.net/][Saxon]]
 
-**** xmllint
+*** xmllint
 
-*** OpenSSL
+** OpenSSL
 https://www.sslshopper.com/article-most-common-openssl-commands.html
 
-** Build Systems
+** Build Systems and Package Management
 *** Cargo                                      :rust:
 https://doc.rust-lang.org/cargo/
+https://stackoverflow.com/questions/37586216/step-by-step-interactive-debugger-for-rust
+
+remove ~/.cargo/packages.cache if it locks
+https://github.com/rust-lang/cargo/issues/9742
 
 *** rustup                                     :rust:
 https://rust-lang.github.io/rustup/
@@ -591,10 +640,11 @@ https://github.com/radian-software/straight.el#the-recipe-format
 *** Gradle                                     :java:
 https://docs.gradle.org/current/userguide/userguide.html
 
-*** Homebrew                                   :shell:
+*** Homebrew                                    :shell:
 https://brew.sh/
 https://docs.brew.sh/
 
+:terminology:
 - formula          : definition built from upstream sources
 - cask             : definition of macOS native applications
 - keg              : installation destination of formula version
@@ -605,6 +655,54 @@ https://docs.brew.sh/
 - external command : brew subcommand
 - tap              : directory of formulae, casks and/or external commands
 - bottle           : pre-built keg poured into the cellar/rack
+:END:
+
+:locations:
+brew --cellar     : formula installation dir
+brew --prefix     : symlinked into here
+brew --caskroom   : installed osx apps
+brew --repository : brew's code
+brew --cache      : downloads location
+:END:
+
+When editing forumla:
+HOMEBREW_NO_INSTALL_FROM_API=1
+
+**** ignoring dependencies
+
+  https://stackoverflow.com/questions/55190888/how-to-prevent-homebrew-from-installing-a-certain-formula-dependency
+
+  get a tree view of dependencies: "brew deps --tree {}"
+  install specific deps
+  brew install --ignore-dependencies formula
+
+  :brew_deps:
+  Usage: brew deps [options] [formula|cask ...]
+  -n, --topological                Sort dependencies in topological order.
+  -1, --direct, --declared, --1    Show only the direct dependencies declared in the formula.
+      --union                      Show the union of dependencies for multiple formula, instead of the intersection.
+      --full-name                  List dependencies by their full name.
+      --include-build              Include :build dependencies for formula.
+      --include-optional           Include :optional dependencies for formula.
+      --include-test               Include :test dependencies for formula (non-recursive).
+      --skip-recommended           Skip :recommended dependencies for formula.
+      --include-requirements       Include requirements in addition to dependencies for formula.
+      --tree                       Show dependencies as a tree. When given multiple formula arguments, show individual trees for each formula.
+      --graph                      Show dependencies as a directed graph.
+      --dot                        Show text-based graph description in DOT format.
+      --annotate                   Mark any build, test, optional, or recommended dependencies as such in the output.
+      --installed                  List dependencies for formulae that are currently installed. If formula is specified, list only its dependencies that are currently installed.
+      --missing                    Show only missing dependencies.
+      --eval-all                   Evaluate all available formulae and casks, whether installed or not, to list their dependencies.
+      --for-each                   Switch into the mode used by the --all option, but only list dependencies for each provided formula, one formula per line. This is used for debugging the --installed/--all display mode.
+      --formula, --formulae        Treat all named arguments as formulae.
+      --cask, --casks              Treat all named arguments as casks.
+  -d, --debug                      Display any debugging information.
+  -q, --quiet                      Make some output more quiet.
+  -v, --verbose                    Make some output more verbose.
+  -h, --help                       Show this message.
+:END:
+
 
 *** Make                                       :cli:
 https://www.gnu.org/software/make/manual/make.html
@@ -612,6 +710,7 @@ https://www.gnu.org/software/automake/manual/automake.html#Autotools-Introductio
 
 *** Mix                                        :elixir:
 https://hexdocs.pm/mix/Mix.html
+https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html
 
 *** Pip                                        :python:
 https://pip.pypa.io/en/stable/
@@ -669,6 +768,19 @@ concurrent
 
 *** Meson
 https://mesonbuild.com/
+
+*** Nix
+https://nixos.org/manual/nix/stable/introduction.html
+
+*** Opam
+https://opam.ocaml.org/
+
+*** cookiecutter
+https://cookiecutter.readthedocs.io/en/2.2.3/README.html
+*** jenv
+https://www.jenv.be/
+
+for java env management
 
 ** Text
 *** Wordnet
@@ -739,6 +851,8 @@ https://restructuredtext.readthedocs.io/en/latest/
 
 *** Latex
 **** tlmgr
+to call bibtex, specify *local* aux file
+
 for installing packages, use --usermode after tlmgr init-usertree
 :outdated_l3_layer:
 https://tex.stackexchange.com/questions/586467/
@@ -746,10 +860,24 @@ https://tex.stackexchange.com/questions/586467/
 sudo fmtutil-sys --all
 :END:
 
+for fonts install collection-fontsrecommended
+for russian: cyrillic, hyphen-russian, babel-russian, fontspec, collection-langcyrillic
+
+
+kpsewhich for seaching latex path
+https://www.overleaf.com/learn/latex/Articles/An_introduction_to_Kpathsea_and_how_TeX_engines_search_for_files
+
 **** texdoc
 https://tex.stackexchange.com/questions/297004/
 tlmgr option docfiles 1
 tlmgr install --reinstall $(tlmgr list --only-installed | sed -E 's/i (.*):.*$/\1/')
+
+**** Installing fonts
+https://tug.org/fonts/fontinstall.html#fndb
+
+mktexlsr
+updmap
+fmtutil
 
 *** Pandoc
 #+NAME: text to pdf generation
@@ -763,6 +891,18 @@ can use npm package `generate-github-markdown-css` as a start
 
 *** [[https://difftastic.wilfred.me.uk/introduction.html][Difftastic]]
 
+*** Awk
+#+begin_src bash
+# Getting subgroups
+awk 'match($0, /HREF="(.+?)"/, a) {print a[1]}'
+
+# checking length
+awk 'length < 10 {print $0}'
+
+# in place editing and printing at end of file
+gawk -i inplace '/if __name__ / {print "##-- ifmain" } {print $0} ENDFILE {print "##-- end ifmain"}'
+#+end_src awk
+
 ** GUI Programs
 *** Firefox
 Get to configs with about:about
@@ -774,6 +914,8 @@ to: tagsField
 for a better bookmarking default
 
 [Netscape bookmark file format](https://msdn.microsoft.com/en-us/library/aa753582(v=vs.85).aspx).
+
+https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly
 
 *** Godot
 Godot Engine v3.4.4.stable.official.419e713a2 - https://godotengine.org
@@ -854,6 +996,12 @@ Standalone tools:
 --gdnative-generate-json-api     Generate JSON dump of the Godot API for GDNative bindings.
 --test <test>                    Run a unit test ('string', 'math', 'basis', 'transform', 'physics', 'physics_2d', 'render', 'oa_hash_map', 'gui', 'shaderlang', 'gd_tokenizer', 'gd_parser', 'gd_compiler', 'gd_bytecode', 'ordered_hash_map', 'astar', 'xml_parser').
 :END:
+
+*** Iterm
+https://iterm2.com/
+
+*** TMux
+https://tmux.github.io/
 
 ** Databases
 *** Postgresql
@@ -1133,7 +1281,44 @@ Pandoc creates man pages from markdown:
 
 Man expects pages to be gzipped
 
+** Performance
+
+*** top
+https://gitlab.com/procps-ng/procps
+
+*** btop
+https://github.com/aristocratos/btop
+
+*** htop
+https://htop.dev/
+
+** Repls
+*** Elixir
+https://samuelmullen.com/articles/customizing_elixirs_iex
+https://itnext.io/a-collection-of-tips-for-elixirs-interactive-shell-iex-bff5e177405b?gi=3b2000b5d04b
+https://subscription.packtpub.com/book/programming/9781784397517/5/ch05lvl1sec59/connecting-nodes
+
+#+begin_src elixir
+# iex --name {name}@127.0.0.1
+Node.list
+
+Node.connect :"{name}@127.0.0.1"
+#+end_src
+
 * Links
+https://www.whocanuse.com/
 [[https://www.futureboy.us/pgp.html][GPG General Howto]]
 https://pandoc.org/
 [[https://docs.godotengine.org/en/stable/tutorials/editor/command_line_tutorial.html][godot docs]]
+
+https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html#simple-smart-contract
+https://nixos.org/manual/nix/stable/
+https://www.ledger-cli.org/index.html
+https://github.com/tmux/tmux/wiki/Getting-Started
+https://github.com/realgud/realgud/
+https://jblevins.org/projects/deft/
+https://github.com/pashky/restclient.el
+https://github.com/skeeto/elfeed
+https://www.howtogeek.com/671422/how-to-use-tmux-on-linux-and-why-its-better-than-screen/
+https://construct.readthedocs.io/en/latest/
+https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly
