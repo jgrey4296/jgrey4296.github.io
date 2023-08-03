@@ -39,10 +39,10 @@ Temporal    - Time
 ψ Ψ   - psi
 ω Ω   - omega
 *** Operators
-⟘ - bottom / false
-⟙ - Top / true
+⟘ - bottom / false. Latex: \bot
+⟙ - Top / true      Latex: \top
 
-∧ - and
+∧ - and             Latex:
 ∨ - or
 
 ∴ - therefore, qed.
