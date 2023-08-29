@@ -8171,6 +8171,7 @@ https://github.com/ssloy/tinyrenderer/wiki : github
 https://github.com/stanislaw/awesome-safety-critical : github : safety_critical
 https://github.com/stas-semeniuta/textvae : deep_learning : github : python : text_generation : theano
 https://github.com/stedolan/jq : command_line : github : jq : json
+https://jqlang.github.io/jq/ : command_line : jq : json
 https://github.com/stella3d/OscCore : c_sharp : github : osc : unity
 https://github.com/stevecooperorg/Canto34 : github
 https://github.com/struct/mms/blob/master/Modern_Memory_Safety_In_C_CPP.pdf : c_lang : c_plus_plus : github : memory_safety : pdf
@@ -10190,7 +10191,6 @@ https://steamcommunity.com/games/595690/announcements/detail/1611643799423800165
 https://steamcommunity.com/games/595690/announcements/detail/3177783990875957515 : __important : game_development : game_mechanics : institution : jason_rohrer : one_hour_one_life : rule : simulation : steam
 https://steamcommunity.com/groups/OnwardMarch/discussions/1/ : archive : humble_bundle : steam
 https://steamcommunity.com/sharedfiles/filedetails/?id=302750759 : executable : modding : stalker : steam
-https://stedolan.github.io/jq/ : command_line : github : jq : json
 https://stevenloria.com/wordnet-tutorial/ : NLP : python : text_blob : word_net
 https://stone-soup.ghost.io/archive/i-like-that-the-boat-is-stuck/amp/ : boat : ever_given : humour : sarah_gailey : stuck_boat
 https://storage.googleapis.com/deepmind-media/papers/multi-agent-rl-in-ssd.pdf : paper : pdf : reinforcement_learning : sequential_social_dilemmas

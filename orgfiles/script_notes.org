@@ -864,7 +864,7 @@ for fonts install collection-fontsrecommended
 for russian: cyrillic, hyphen-russian, babel-russian, fontspec, collection-langcyrillic
 
 
-kpsewhich for seaching latex path
+kpsewhich for searching latex path
 https://www.overleaf.com/learn/latex/Articles/An_introduction_to_Kpathsea_and_how_TeX_engines_search_for_files
 
 **** texdoc
@@ -878,6 +878,21 @@ https://tug.org/fonts/fontinstall.html#fndb
 mktexlsr
 updmap
 fmtutil
+**** Xetex
+https://www.tug.org/xetex/
+
+replace `babel` with `polyglossia`
+replace `lmodern` with `fontspec`
+replace `fancyhdr` with `scrlayer-scrpage`
+use `microtype`
+
+
+remove `inputenc`
+remove `fontenc`
+
+**** Lualatex
+http://www.luatex.org/
+
 
 *** Pandoc
 #+NAME: text to pdf generation
@@ -1304,6 +1319,14 @@ Node.list
 
 Node.connect :"{name}@127.0.0.1"
 #+end_src
+** System profiler
+mac os builtin
+
+`-xml`
+`-listDataTypes`
+`-detailLevel` mini/basic/full
+
+`SPFontsDataType` for listing fonts
 
 * Links
 https://www.whocanuse.com/

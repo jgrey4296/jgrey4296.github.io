@@ -1,3 +1,10 @@
+---
+documentclass: article
+classoption:
+- landscape
+---
+
+
 Dajana Dimovska, Patrick Jarnfelt, Sebbe Selvig, and Georgios N. Yannakakis. 2010. Towards procedural level generation for rehabilitation. In Proceedings of the 2010 Workshop on Procedural Content Generation in Games (PCGames '10). Association for Computing Machinery, New York, NY, USA, Article 7, 1–4. https://doi.org/10.1145/1814256.1814263
 
 Ruben Smelik, Tim Tutenel, Klaas Jan de Kraker, and Rafael Bidarra. 2010. Integrating procedural generation and manual editing of virtual worlds. In Proceedings of the 2010 Workshop on Procedural Content Generation in Games (PCGames '10). Association for Computing Machinery, New York, NY, USA, Article 2, 1–8. https://doi.org/10.1145/1814256.1814258

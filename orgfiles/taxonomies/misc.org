@@ -464,10 +464,6 @@ https://en.wikipedia.org/wiki/Algebraic_structure
 | jacobi identity     |   | x * (y * z) + z * (x * y) + y * (z * x) = 0 |
 | jordan identity     |   | (xy)(xx) = x(y(xx))                         |
 
-** De Morgans Laws
-not (A or B) = (not A) and (not B)
-not (A and B) = (not A) or (not B)
-
 ** Relations
 
 |                      |                                                        |

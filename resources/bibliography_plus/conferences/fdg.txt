@@ -1,3 +1,9 @@
+---
+documentclass: article
+classoption:
+- landscape
+---
+
 Tan Le. 2009. The Brain: revolutionary interface for next-generation digital media. In Proceedings of the 4th International Conference on Foundations of Digital Games (FDG '09). Association for Computing Machinery, New York, NY, USA, Article 1, xviii. https://doi.org/10.1145/1536513.1536515
 
 Matt MacLaurin. 2009. Kodu: end-user programming and design for games. In Proceedings of the 4th International Conference on Foundations of Digital Games (FDG '09). Association for Computing Machinery, New York, NY, USA, Article 2, xviii–xix. https://doi.org/10.1145/1536513.1536516
