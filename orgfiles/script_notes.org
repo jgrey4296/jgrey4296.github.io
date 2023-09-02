@@ -781,6 +781,30 @@ https://cookiecutter.readthedocs.io/en/2.2.3/README.html
 https://www.jenv.be/
 
 for java env management
+*** keytool                                     :android:java:
+for creating keystores to deploy on android
+#+begin_src bash
+keytool
+-keyalg RSA
+-genkeypair
+-alias androiddebugkey
+-keypass android
+-keystore debug.keystore
+-storepass android
+-dname "CN=Android Debug,O=Android,C=US"
+-validity 9999
+-deststoretype pkcs12
+#+end_src
+
+*** sdkmanager                                  :android:java:
+management of different jdks and android sdk's
+
+bootstrap with:
+brew install --cask android-studio
+brew install --cask android-commandlinetools
+then use that sdkmanager to install actual sdks etc in $android_home
+add installed java versions using jenv,
+activate as necessary
 
 ** Text
 *** Wordnet
