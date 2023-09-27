@@ -32,6 +32,8 @@ for checking file watchers
 https://launchd.info/
 https://krypted.com/mac-security/disable-disk-arbitration/
 
+launchctl stop com.apple.SafariBookmarksSyncAgent
+
 Locations:
 - ~/Library/LaunchAgents
 - /Library/LaunchAgents
