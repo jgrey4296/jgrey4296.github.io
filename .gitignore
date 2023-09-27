@@ -12,3 +12,7 @@ resources/urls/no_git
 resources/tag_timelines/
 /_drafts
 /_posts
+/docs
+/posts
+/.temp
+/resources/todo.bib

@@ -1,3 +1,10 @@
+---
+documentclass: article
+classoption:
+- landscape
+---
+
+
 H. C. van Vugt, E. A. Konijn, J. F. Hoorn, and J. Veldhuis. 2006. Why fat interface characters are better e-health advisors. In Proceedings of the 6th international conference on Intelligent Virtual Agents (IVA'06). Springer-Verlag, Berlin, Heidelberg, 1–13. https://doi.org/10.1007/11821830_1
 
 Jonathan Gratch, Anna Okhmatovskaia, Francois Lamothe, Stacy Marsella, Mathieu Morales, R. J. van der Werf, and Louis-Philippe Morency. 2006. Virtual rapport. In Proceedings of the 6th international conference on Intelligent Virtual Agents (IVA'06). Springer-Verlag, Berlin, Heidelberg, 14–27. https://doi.org/10.1007/11821830_2

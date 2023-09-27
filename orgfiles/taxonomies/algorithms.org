@@ -1,0 +1,280 @@
+#+TITLE: Algorithms
+
+* Overview
+
+* Main
+** Machine Learning
+*** C4.5                                                                        :supervised:classifier:decision_tree:
+    Constructs a *decision tree* classifier.
+    Uses Information gain/entropy.
+    Single-pass pruning. 
+    *Continuous* and *discrete*.
+    Human Readable. 
+
+*** K-means                                                                     :unsupervised:cluster:
+    Operates on *continuous* data
+    Weakness: sensitivity to *outliers* and *initial choice of centroids*
+    
+*** Support Vector Machines                                                     :classifier:supervised:
+    Learns Hyper planes, divides data into *2 classes*.
+    *Margins*: distance between the hyperplane and 2 closest data points from each class.
+    Attempts to maximize margins.
+    
+*** Apriori                                                                     :classifier:unsupervised:
+    Learns *association rules* of a database of transactions.
+    Works using *size* of itemset (associations of 2,3,n), 
+    *support*: number of transactions containing itemset / total transactions
+    *confidence*: conditional probability of an item given other items in itemset.
+    
+    Approach: *join* -> *prune* -> repeat
+    (So a bottom up approach)    
+
+    see [[https://github.com/asaini/Apriori][Asaini's Apriori]] and [[https://github.com/arturhoo/apriori/blob/master/apriori.py][Aturhoo's apriori]]
+
+*** EM                                                                          :cluster:unsupervised:
+    *Expectation-maximization*
+    Process: *E-step* -> *M-step* -> repeat
+    E-Step calculates probabilities for assignments of each data point to a cluster
+    M-Step updates model parameters based on cluster assignments
+    Weaknesses: *slows down in later iterations*, *gets stuck in local optima*.
+    
+*** PageRank                                                                    :link_analysis:unsupervised:
+    Determines relative importance of some object within a network of objects.
+    Has a *networkx* implementation.
+    
+*** AdaBoost                                                                    :classifier:supervised:
+    Multiple round learning of multiple classifiers
+    Uses folds of training data on separate classifiers, weighting data that did 
+    that was hard on the previous round.
+    Implemented in *scikit-learn*.
+
+*** kNN                                                                         :supervised:classifier:
+    K-Nearest Neighbours. Lazy, only labels new data after training.
+    Uses distance metrics, like Euclidean distance. 
+    Transform discrete data into continuous (such as hamming distance, binary features).
+    Weakenesses: *expensive on large datasets*, *weak on noisy data*, 
+    *large ranges can dominate distance metric*, *storage requirements*,
+    *importance of a good distance metric*.
+
+    Implemented in *scikit-learn*.
+
+*** Naive Bayes                                                                 :classifier:supervised:
+    Implemented in *scikit-learn*.
+    
+*** CART                                                                        :classifier:regression:decision_tree:supervised:
+    Uses *Gini Impurity*. (A measure of how often a random element would be incorrectly labelled).
+    *Cost-complexity* pruning.
+    Decision nodes can only be binary.
+    Uses surrogates (pseudo data that resembles test features that send 
+    				data to the left or right node appropriately)
+                    
+    Implemented in *scikit-learn*.
+
+*** Principal Component Analysis                                                :unsupervised:
+*** Independent Component Analysis
+
+** Games
+
+* Links
+http://www.redblobgames.com/grids/hexagons/
+http://togelius.blogspot.se/2015/07/revolutionary-algorithms.html
+
+** Wiki
+
+https://en.m.wikipedia.org/wiki/Computational_geometry
+https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions
+http://stackoverflow.com/questions/8368386/tree-visualization-algorithm
+http://stackoverflow.com/questions/9612065/breakpoint-convergence-in-fortunes-algorithm#9620879
+http://en.wikipedia.org/wiki/A*_search_algorithm
+http://en.wikipedia.org/wiki/DPLL_algorithm
+http://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+http://en.wikipedia.org/wiki/Dijkstra's_algorithm
+http://en.wikipedia.org/wiki/Rete_algorithm
+https://en.wikipedia.org/wiki/Bentley%E2%80%93Ottmann_algorithm
+https://en.wikipedia.org/wiki/Category:Search_algorithms
+https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+https://en.wikipedia.org/wiki/Fuzzy_logic
+https://en.wikipedia.org/wiki/List_of_algorithms#Graph_algorithms
+https://en.wikipedia.org/wiki/Lorenz_system
+https://en.wikipedia.org/wiki/Monte_Carlo_method
+https://en.wikipedia.org/wiki/Penrose_tiling
+https://en.wikipedia.org/wiki/Reservoir_sampling
+https://en.wikipedia.org/wiki/Rete_algorithm
+https://wikicoding.org/wiki/c/Tomohiko_Sakamoto%27s_Algorithm/
+
+** Books
+https://www.jjj.de/fxt/fxtpage.html#fxtbook
+https://nyupress.org/books/9781479837243/
+https://leanpub.com/progalgs/
+https://www.algorithmsilluminated.org/
+https://www.manning.com/books/grokking-algorithms
+
+** AI 
+http://intrinsicalgorithm.com/IAonAI/
+http://intrinsicalgorithm.com/IAonAI/2012/11/ai-architectures-a-culinary-guide-gdmag-article/
+http://intrinsicalgorithm.com/IAonAI/tag/richard-evans/
+
+** Machine Learning
+https://web.archive.org/web/20160309161751/https://numenta.com/assets/pdf/whitepapers/hierarchical-temporal-memory-cortical-learning-algorithm-0.2.1-en.pdf
+http://www.learndatasci.com/k-means-clustering-algorithms-python-intro/
+https://jeremykun.com/2017/02/27/the-reasonable-effectiveness-of-the-multiplicative-weights-update-algorithm/
+https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa?gi=4d857d2d5018#.zhgvlskgn
+https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
+http://adataanalyst.com/machine-learning/apriori-algorithm-python-3-0/
+https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-choice
+https://egghead.io/courses/introductory-machine-learning-algorithms-in-python-with-scikit-learn
+https://medium.freecodecamp.org/the-hitchhikers-guide-to-machine-learning-algorithms-in-python-bfad66adb378
+https://www.cs.princeton.edu/news/bias-machine-internet-algorithms-reinforce-harmful-stereotypes
+
+** Visual
+https://www.redblobgames.com/grids/line-drawing/
+https://www.redblobgames.com/grids/parts/
+https://www.redblobgames.com/grids/edges/
+https://redblobgames.github.io/circular-obstacle-pathfinding/
+https://mapbox.github.io/delaunator/
+https://www.redblobgames.com/maps/noisy-edges/
+https://www.redblobgames.com/grids/circle-drawing/
+https://www.redblobgames.com/pathfinding/all-pairs/
+https://www.redblobgames.com/articles/curved-paths/
+https://www.redblobgames.com/maps/terrain-from-noise/
+http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/
+https://www.redblobgames.com/articles/visibility/
+https://web.archive.org/web/20100325004444/http://www.diku.dk/hjemmesider/studerende/duff/Fortune/
+https://web.archive.org/web/20180214084047/https://www.siggraph.org/education/materials/HyperGraph/animation/rick_parent/Outline.html
+http://www.raymondhill.net/voronoi/rhill-voronoi.html
+https://web.archive.org/web/20110724054915/www.policyalmanac.org/games/aStarTutorial.htm
+https://web.archive.org/web/20110718153714/www.policyalmanac.org/games/aStarTutorial.htm
+http://inversed.ru/AIS.htm
+https://algorithm-visualizer.org/#path=number_theory/sieve_of_eratosthenes/basic
+http://alienryderflex.com/polygon/
+http://bost.ocks.org/mike/algorithms/
+http://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap
+https://www.gamedeveloper.com/programming/algorithms-for-making-more-interesting-mazes
+https://gorillasun.de/blog/an-algorithm-for-polygon-intersections
+http://algo-visualizer.jasonpark.me/#path=number_theory/sieve_of_eratosthenes/basic
+http://jasonpark.me/AlgorithmVisualizer/
+http://stackoverflow.com/questions/8368386/tree-visualization-algorithm
+http://visualgo.net/
+https://visualgo.net/en
+https://workshape.github.io/visual-graph-algorithms/
+https://www.publicbooks.org/invisible-algorithms-invisible-politics/?utm_content=buffer42bed&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+https://variable.io/sorting-algorithms/
+https://web.archive.org/web/20151123060628/webstaff.itn.liu.se/~stegu/circle/circlealgorithm.pdf
+https://prettydiff.com/2/guide/unrelated_diff.xhtml
+
+** Edu
+http://courses.csail.mit.edu/6.851/spring14/lectures/
+http://csillustrated.berkeley.edu/illustrations.php
+http://ic.ucsc.edu/~ptantalo/cmps101/Fall12/
+http://musicalgorithms.ewu.edu/
+http://people.duke.edu/~ccc14/sta-663-2017/10A_CodeOptimization.html#data-structures-and-algorithms
+http://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+http://www.ece.umd.edu/~blj/algorithmic_composition/icmc.95.html
+http://www.macalester.edu/~hutchinson/book/book.html
+https://mitpress.mit.edu/books/constitution-algorithms
+https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=1315&context=dltr
+
+** Games
+http://www-cs-students.stanford.edu/~amitp/gameprog.html
+http://theory.stanford.edu/~amitp/GameProgramming/
+https://www.redblobgames.com/pathfinding/grids/graphs.html
+http://fabiensanglard.net/
+https://www.redblobgames.com/pathfinding/a-star/introduction.html
+https://www.redblobgames.com/pathfinding/tower-defense/
+https://www.redblobgames.com/grids/hexagons/
+https://www.redblobgames.com/articles/probability/damage-rolls.html
+
+** PCG
+http://pcg.wikidot.com/category-pcg-algorithms
+
+** Comparison
+https://web.archive.org/web/20181204031021/http://liblb.com/study.html
+https://web.archive.org/web/20170912083146/matt.eifelle.com/2013/05/02/comparison-of-optimization-algorithms/
+
+** Blogs
+https://www.publicbooks.org/invisible-algorithms-invisible-politics/
+https://web.archive.org/web/20160308183811/http://1017.songtrellisopml.com/whatsbeenwroughtusingpiecetables
+https://www.niemanlab.org/2019/02/acing-the-algorithmic-beat-journalisms-next-frontier/
+http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
+http://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/
+https://www.drdobbs.com/architecture-and-design/the-rete-matching-algorithm/184405218
+http://outlace.com/Simple-Genetic-Algorithm-in-15-lines-of-Python/
+http://haleyai.com/wordpress/2008/03/11/goals-and-backward-chaining-using-the-rete-algorithm/
+http://algorithmtips.org/
+http://bravenewgeek.com/pain-driven-development-why-greedy-algorithms-are-bad-for-engineering-orgs/
+https://points.datasociety.net/systemic-algorithmic-harms-e00f99e72c42
+https://juliareda.eu/2017/09/when-filters-fail/
+https://medium.com/@UofCalifornia/how-a-matchmaking-algorithm-saved-lives-2a65ac448698#.wtkd7kwzc
+https://medium.com/@agafonkin/a-dive-into-spatial-search-algorithms-ebd0c5e39d2a
+https://medium.com/@gajus/parsing-absolutely-anything-in-javascript-using-earley-algorithm-886edcc31e5e#.6jo5zuga2
+https://medium.com/@gk_/text-classification-using-algorithms-e4d50dcba45#.ge2p15jwp
+https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9
+https://medium.com/technology-nineleaps/python-method-resolution-order-4fd41d2fcc
+https://medium.com/transmission-newsletter/fluid-smoke-simulation-with-deep-learning-evolutionary-algorithms-a-self-driving-car-from-the-77a45ba6f231#.x65xm4fkt
+https://medium.mybridge.co/algorithm-top-10-articles-in-september-8a0e6afb0807?gi=402f0e139e63#.jx9h6u5it
+https://www.ribbonfarm.com/2017/05/23/there-are-bots-look-around/
+https://www.abubalay.com/blog/2018/04/08/recursive-ascent
+http://bldgblog.blogspot.com/2009/08/procedural-destruction-and-algorithmic.html
+http://blog.demofox.org/2015/12/14/o1-data-lookups-with-minimal-perfect-hashing/
+http://blog.demofox.org/2016/06/16/synthesizing-a-pluked-string-sound-with-the-karplus-strong-algorithm/
+http://blog.robertelder.org/diff-algorithm/
+http://geomblog.blogspot.com/2014/02/on-reverse-engineering-algorithms.html
+https://blog.acolyer.org/2015/03/12/in-search-of-an-understandable-consensus-algorithm/
+https://blog.acolyer.org/2017/02/15/redqueen-an-online-algorithm-for-smart-broadcasting-in-social-networks/
+https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/
+
+** Reading Lists
+https://socialmediacollective.org/reading-lists/critical-algorithm-studies/
+
+** Github
+http://maartenfokkinga.github.io/utwente/mmf2008j.pdf
+https://github.com/EbTech/rust-algorithms
+https://github.com/MattVitelli/GRUV
+https://github.com/Murali-group/halp
+https://github.com/aalhour/C-Sharp-Algorithms
+https://github.com/colinbdclark/flocking
+https://github.com/golubitsky/algorithms-javascript
+https://github.com/iiitv/algos
+https://github.com/indy256/codelibrary
+https://github.com/jstray/lede-algorithms
+https://github.com/thejameskyle/itsy-bitsy-data-structures
+https://github.com/voidqk/sndfilter
+https://github.com/wh5a/Algorithm-W-Step-By-Step
+https://github.com/zenorogue/newconformist
+https://jeffreykegler.github.io/personal/timeline_v3
+https://quality-diversity.github.io/papers
+https://sadanand-singh.github.io/posts/treebasedmodels/#.WXT8Kli2pUw.hackernews
+https://workshape.github.io/visual-graph-algorithms/
+
+** Journalism
+
+https://theappeal.org/new-data-suggests-risk-assessment-tools-have-little-impact-on-pretrial-incarceration/
+https://www.algotransparency.org/
+http://www.slate.com/articles/technology/cover_story/2017/03/twitter_s_timeline_algorithm_and_its_effect_on_us_explained.html
+http://www.wired.com/2016/06/monstrous-alien-cities-built-computer-algorithm/
+http://www.slate.com/articles/technology/future_tense/2015/04/the_dangers_of_letting_algorithms_enforce_policy.single.html
+https://science.slashdot.org/story/12/09/21/1437253/when-the-hiring-boss-is-an-algorithm
+https://slate.com/technology/2020/02/algorithmic-bias-people-with-disabilities.html
+https://algorithmwatch.org/en/story/austrias-employment-agency-ams-rolls-out-discriminatory-algorithm/
+https://motherboard.vice.com/en_us/article/evk3kw/ice-modified-its-risk-assessment-software-so-it-automatically-recommends-detention
+
+https://gizmodo.com/5937981/ants-have-been-using-internet-algorithms-for-millions-of-years
+https://hardware.slashdot.org/story/12/12/01/1953200/one-cool-day-job-building-algorithms-for-elevators
+https://www.nytimes.com/2020/02/06/technology/predictive-algorithms-crime.html
+https://www.theregister.co.uk/AMP/2017/10/30/reg_analysis_the_data_protection_bill/
+https://www.theguardian.com/us-news/2018/sep/07/imprisoned-by-algorithms-the-dark-side-of-california-ending-cash-bail
+https://www.technologyreview.com/s/545606/how-an-ai-algorithm-learned-to-write-political-speeches/
+https://www.technologyreview.com/s/613508/ai-fairer-than-judge-criminal-risk-assessment-algorithm/
+https://www.technologyreview.com/s/613578/ai-algorithms-liability-human-blame/
+https://www.propublica.org/article/facebook-hate-speech-censorship-internal-documents-algorithms
+https://www.newyorker.com/humor/daily-shouts/i-am-the-algorithm/amp
+https://www.vice.com/en_us/article/pkekvb/cost-cutting-algorithms-are-making-your-job-search-a-living-hell?utm_campaign=sharebutton
+https://www.wired.com/story/how-recommendation-algorithms-run-the-world/
+https://www.wired.com/story/when-algorithms-think-you-want-to-die/
+https://yro.slashdot.org/story/12/10/04/1936208/youtube-alters-copyright-algorithms-will-manually-review-some-claims
+
+** Youtube
+https://www.youtube.com/watch?v=y_G9BkAm6B8&NR=1&feature=fvwp
+
+** Misc
+http://retiary.org/ls/writings/sonic_subsets.html
