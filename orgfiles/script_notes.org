@@ -4,7 +4,6 @@
 
 * Main
 ** Network
-
 *** Bandwhich
 https://github.com/imsnif/bandwhich
 
@@ -28,24 +27,16 @@ use stock apple one: /usr/local/ssh-add -K ....
 ** lskq
 for checking file watchers
 
-** Launchd
-https://launchd.info/
-https://krypted.com/mac-security/disable-disk-arbitration/
-
-launchctl stop com.apple.SafariBookmarksSyncAgent
-
-Locations:
-- ~/Library/LaunchAgents
-- /Library/LaunchAgents
-- /Library/LaunchDaemons
-- /System/Library/LaunchAgents
-- /System/Library/LaunchDaemons
-
 ** Emacs
 https://orgmode.org/manual/Exporting.html
 https://emacs.stackexchange.com/questions/10392
 https://stackoverflow.com/questions/22072773/
 https://emacs.stackexchange.com/questions/55654/
+
+:linux-fn-keys:
+Change this to 0:
+/sys/module/hid_apple/parameters/fnmode
+:END:
 
 
 #+begin_src bash
@@ -70,7 +61,8 @@ https://www.openpolicyagent.org/docs/latest/#running-opa
 https://www.openpolicyagent.org/docs/latest/policy-language/
 https://www.openpolicyagent.org/docs/latest/policy-reference/
 
-** ADB
+** Debuggers
+*** ADB
 Tablet will periodically de-authorize adb,
 so re-pair with `adb pair`
 
@@ -115,7 +107,8 @@ logging.info("Found %s files in %s", len(all_files), args.target)
 print(all_files)
 #+end_src
 
-** GDB
+
+*** GDB
 https://www.sourceware.org/gdb/
 https://blog.logrocket.com/debugging-rust-apps-with-gdb/
 https://rustc-dev-guide.rust-lang.org/debugging-support-in-rustc.html
@@ -131,11 +124,8 @@ https://os.phil-opp.com/set-up-gdb/
 -   GDB does not implement type inference for generics. In order to call generic functions or otherwise refer to generic items, you will have to specify the type parameters manually.
 -  GDB currently uses the C++ demangler for Rust. In most cases this does not cause any problems. However, in an expression context, completing a generic function name will give syntactically invalid results. This happens because Rust requires the ‘::’ operator between the function name and its generic arguments. For example, GDB might provide a completion like crate::f<u32>, where the parser would require crate::f::<u32>.
 -  As of this writing, the Rust compiler (version 1.8) has a few holes in the debugging information it generates. These holes prevent certain features from being implemented by GDB: Method calls cannot be made via traits. Operator overloading is not implemented. When debugging in a monomorphized function, you cannot use the generic type names. The type Self is not available. use statements are not available, so some names may not be available in the crate.
-
-** LLDB
+*** LLDB
 https://lldb.llvm.org/
-
-
 
 ** Shells
 *** Bash
@@ -145,6 +135,14 @@ https://github.com/bahamas10/bash-style-guide
 #+begin_src bash
 cat testfile | awk '{ print length, $0 }' | sort -n | cut -d" " -f2-
 #+end_src
+
+:redired_stderr:
+cmd 2> filename     # stderr to filename
+cmd > filename 2>&1 # stdout to file, stderr to where stdout goes
+cmd 2>&1 > filename # stdout to copy of stdout, stdout to filename
+
+:END:
+
 
 *** Nushell
 https://www.nushell.sh/book/
@@ -239,24 +237,24 @@ reload the configuration with "gpgconf --reload gpg-agent", and
 
    then 'save'
 
+** GPG Conf
+gpgconf to modify and update gpg-agent settings, restart the service etc
+
+gpgconf --kill gpg-agent
 ** Mail
 *** mbsync and mu
+https://isync.sourceforge.io/mbsync.html
+https://wiredspace.de/blog/mbsync/
+https://www.gnu.org/software/mailutils/manual/index.html.
+https://brian-thompson.medium.com/setting-up-isync-mbsync-on-linux-e9fe10c692c0
+https://www.ict4g.net/adolfo/notes/emacs/reading-imap-mail-with-emacs.html
+https://wiki.archlinux.org/title/Isync
 
 #+NAME: mu init
 #+begin_src bash :results output
 mu init --maildir ~/.mail --my-address {address}
 mu index
 #+end_src
-
-** Sed
-Filter lines with:
-'/pattern/d'
-
-Print Matching lines with:
-'/pattern/p'
-
-case Invariant:
-'/pattern/I'
 
 ** Wget
 https://www.networkinghowtos.com/howto/change-the-user-agent-in-wget/
@@ -597,6 +595,9 @@ xsdata samples/order.xsd --output plantuml --package uml_gen
 ** OpenSSL
 https://www.sslshopper.com/article-most-common-openssl-commands.html
 
+/etc/ssl/certs - linux
+/usr/local/etc/openssl/cert.pem -mac
+
 ** Build Systems and Package Management
 *** Cargo                                      :rust:
 https://doc.rust-lang.org/cargo/
@@ -641,70 +642,6 @@ https://github.com/radian-software/straight.el#the-recipe-format
 
 *** Gradle                                     :java:
 https://docs.gradle.org/current/userguide/userguide.html
-
-*** Homebrew                                    :shell:
-https://brew.sh/
-https://docs.brew.sh/
-
-:terminology:
-- formula          : definition built from upstream sources
-- cask             : definition of macOS native applications
-- keg              : installation destination of formula version
-- rack             : directory versioned kegs
-- keg-only         : formula is not symlinked into Homebrew’s prefix
-- cellar           : directory of named racks
-- Caskroom         : directory of named casks
-- external command : brew subcommand
-- tap              : directory of formulae, casks and/or external commands
-- bottle           : pre-built keg poured into the cellar/rack
-:END:
-
-:locations:
-brew --cellar     : formula installation dir
-brew --prefix     : symlinked into here
-brew --caskroom   : installed osx apps
-brew --repository : brew's code
-brew --cache      : downloads location
-:END:
-
-When editing forumla:
-HOMEBREW_NO_INSTALL_FROM_API=1
-
-**** ignoring dependencies
-
-  https://stackoverflow.com/questions/55190888/how-to-prevent-homebrew-from-installing-a-certain-formula-dependency
-
-  get a tree view of dependencies: "brew deps --tree {}"
-  install specific deps
-  brew install --ignore-dependencies formula
-
-  :brew_deps:
-  Usage: brew deps [options] [formula|cask ...]
-  -n, --topological                Sort dependencies in topological order.
-  -1, --direct, --declared, --1    Show only the direct dependencies declared in the formula.
-      --union                      Show the union of dependencies for multiple formula, instead of the intersection.
-      --full-name                  List dependencies by their full name.
-      --include-build              Include :build dependencies for formula.
-      --include-optional           Include :optional dependencies for formula.
-      --include-test               Include :test dependencies for formula (non-recursive).
-      --skip-recommended           Skip :recommended dependencies for formula.
-      --include-requirements       Include requirements in addition to dependencies for formula.
-      --tree                       Show dependencies as a tree. When given multiple formula arguments, show individual trees for each formula.
-      --graph                      Show dependencies as a directed graph.
-      --dot                        Show text-based graph description in DOT format.
-      --annotate                   Mark any build, test, optional, or recommended dependencies as such in the output.
-      --installed                  List dependencies for formulae that are currently installed. If formula is specified, list only its dependencies that are currently installed.
-      --missing                    Show only missing dependencies.
-      --eval-all                   Evaluate all available formulae and casks, whether installed or not, to list their dependencies.
-      --for-each                   Switch into the mode used by the --all option, but only list dependencies for each provided formula, one formula per line. This is used for debugging the --installed/--all display mode.
-      --formula, --formulae        Treat all named arguments as formulae.
-      --cask, --casks              Treat all named arguments as casks.
-  -d, --debug                      Display any debugging information.
-  -q, --quiet                      Make some output more quiet.
-  -v, --verbose                    Make some output more verbose.
-  -h, --help                       Show this message.
-:END:
-
 
 *** Make                                       :cli:
 https://www.gnu.org/software/make/manual/make.html
@@ -808,6 +745,7 @@ then use that sdkmanager to install actual sdks etc in $android_home
 add installed java versions using jenv,
 activate as necessary
 
+*** sdkman!
 ** Text
 *** Wordnet
     `wn`
@@ -901,6 +839,14 @@ tlmgr install --reinstall $(tlmgr list --only-installed | sed -E 's/i (.*):.*$/\
 **** Installing fonts
 https://tug.org/fonts/fontinstall.html#fndb
 
+https://design.tutsplus.com/articles/different-font-file-types-explained-ott-ttf-woff--cms-39047
+https://fontsarena.com/blog/font-formats-and-use/
+https://creativemarket.com/blog/the-missing-guide-to-font-formats
+
+OTF/TTF and WOFF are most supported.
+
+
+
 mktexlsr
 updmap
 fmtutil
@@ -918,7 +864,6 @@ remove `fontenc`
 
 **** Lualatex
 http://www.luatex.org/
-
 
 *** Pandoc
 #+NAME: text to pdf generation
@@ -943,6 +888,22 @@ awk 'length < 10 {print $0}'
 # in place editing and printing at end of file
 gawk -i inplace '/if __name__ / {print "##-- ifmain" } {print $0} ENDFILE {print "##-- end ifmain"}'
 #+end_src awk
+
+*** Sed
+extended regexs:
+sed -E 's/ / /'
+
+groups and subselection:
+echo "a test blah" | sed -n -E 's/a (.+) blah/\1/p'
+
+Filter lines with:
+'/pattern/d'
+
+Print Matching lines with:
+'/pattern/p'
+
+case Invariant:
+'/pattern/I'
 
 ** GUI Programs
 *** Firefox
@@ -1038,8 +999,11 @@ Standalone tools:
 --test <test>                    Run a unit test ('string', 'math', 'basis', 'transform', 'physics', 'physics_2d', 'render', 'oa_hash_map', 'gui', 'shaderlang', 'gd_tokenizer', 'gd_parser', 'gd_compiler', 'gd_bytecode', 'ordered_hash_map', 'astar', 'xml_parser').
 :END:
 
-*** Iterm
-https://iterm2.com/
+**** Android Export
+https://docs.godotengine.org/en/stable/tutorials/export/exporting_for_android.html
+https://developer.android.com/games/engines/godot/godot-export
+
+also see keytool
 
 *** TMux
 https://tmux.github.io/
@@ -1323,7 +1287,6 @@ Pandoc creates man pages from markdown:
 Man expects pages to be gzipped
 
 ** Performance
-
 *** top
 https://gitlab.com/procps-ng/procps
 
@@ -1345,7 +1308,107 @@ Node.list
 
 Node.connect :"{name}@127.0.0.1"
 #+end_src
-** System profiler
+* OS Specific
+** Linux / Ubuntu
+*** Snap
+https://www.freecodecamp.org/news/managing-ubuntu-snaps/
+
+snap services
+snap stop --disable %x
+
+*** Apt
+https://vitux.com/how-to-add-remove-ppa-repositories-in-ubuntu/
+
+Add sources to /etc/apt/sources.list.d/
+templates are in ~/.config/jg/templates/sources/
+
+
+:potassco:
+https://launchpad.net/~potassco
+:END:
+
+*** dpkg
+Use to find where apt puts stuff
+
+dpkg -L {}
+** Mac
+*** Homebrew                                    :shell:
+https://brew.sh/
+https://docs.brew.sh/
+
+:terminology:
+- formula          : definition built from upstream sources
+- cask             : definition of macOS native applications
+- keg              : installation destination of formula version
+- rack             : directory versioned kegs
+- keg-only         : formula is not symlinked into Homebrew’s prefix
+- cellar           : directory of named racks
+- Caskroom         : directory of named casks
+- external command : brew subcommand
+- tap              : directory of formulae, casks and/or external commands
+- bottle           : pre-built keg poured into the cellar/rack
+:END:
+
+:locations:
+brew --cellar     : formula installation dir
+brew --prefix     : symlinked into here
+brew --caskroom   : installed osx apps
+brew --repository : brew's code
+brew --cache      : downloads location
+:END:
+
+When editing forumla:
+HOMEBREW_NO_INSTALL_FROM_API=1
+
+**** ignoring dependencies
+
+  https://stackoverflow.com/questions/55190888/how-to-prevent-homebrew-from-installing-a-certain-formula-dependency
+
+  get a tree view of dependencies: "brew deps --tree {}"
+  install specific deps
+  brew install --ignore-dependencies formula
+
+  :brew_deps:
+  Usage: brew deps [options] [formula|cask ...]
+  -n, --topological                Sort dependencies in topological order.
+  -1, --direct, --declared, --1    Show only the direct dependencies declared in the formula.
+      --union                      Show the union of dependencies for multiple formula, instead of the intersection.
+      --full-name                  List dependencies by their full name.
+      --include-build              Include :build dependencies for formula.
+      --include-optional           Include :optional dependencies for formula.
+      --include-test               Include :test dependencies for formula (non-recursive).
+      --skip-recommended           Skip :recommended dependencies for formula.
+      --include-requirements       Include requirements in addition to dependencies for formula.
+      --tree                       Show dependencies as a tree. When given multiple formula arguments, show individual trees for each formula.
+      --graph                      Show dependencies as a directed graph.
+      --dot                        Show text-based graph description in DOT format.
+      --annotate                   Mark any build, test, optional, or recommended dependencies as such in the output.
+      --installed                  List dependencies for formulae that are currently installed. If formula is specified, list only its dependencies that are currently installed.
+      --missing                    Show only missing dependencies.
+      --eval-all                   Evaluate all available formulae and casks, whether installed or not, to list their dependencies.
+      --for-each                   Switch into the mode used by the --all option, but only list dependencies for each provided formula, one formula per line. This is used for debugging the --installed/--all display mode.
+      --formula, --formulae        Treat all named arguments as formulae.
+      --cask, --casks              Treat all named arguments as casks.
+  -d, --debug                      Display any debugging information.
+  -q, --quiet                      Make some output more quiet.
+  -v, --verbose                    Make some output more verbose.
+  -h, --help                       Show this message.
+:END:
+
+*** Launchd
+https://launchd.info/
+https://krypted.com/mac-security/disable-disk-arbitration/
+
+launchctl stop com.apple.SafariBookmarksSyncAgent
+
+Locations:
+- ~/Library/LaunchAgents
+- /Library/LaunchAgents
+- /Library/LaunchDaemons
+- /System/Library/LaunchAgents
+- /System/Library/LaunchDaemons
+
+*** System profiler
 mac os builtin
 
 `-xml`
@@ -1353,6 +1416,12 @@ mac os builtin
 `-detailLevel` mini/basic/full
 
 `SPFontsDataType` for listing fonts
+
+*** Iterm
+https://iterm2.com/
+
+** Windows
+
 
 * Links
 https://www.whocanuse.com/
