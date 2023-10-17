@@ -1,65 +1,334 @@
 #+TITLE: Script Notes
 
 * Overview
-
 * Main
-** Network
-*** Bandwhich
-https://github.com/imsnif/bandwhich
+** Build Systems and Package Management
+*** Cargo                                      :rust:
+https://doc.rust-lang.org/cargo/
+https://stackoverflow.com/questions/37586216/step-by-step-interactive-debugger-for-rust
 
-*** Sniffer
-https://github.com/chenjiandongx/sniffer
+remove ~/.cargo/packages.cache if it locks
+https://github.com/rust-lang/cargo/issues/9742
 
-** Git
-https://stackoverflow.com/questions/45272492
-
-git pull origin master --allow-unrelated-histories
-git merge origin origin/master
-
-** ssh
-[[https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh]]
-[[https://stackoverflow.com/questions/47455300][ssh-config-bad-configuration-option-usekeychain-on-mac-os-sierra-10-12-6]]
-[[https://stackoverflow.com/questions/21095054][ssh-key-still-asking-for-password-and-passphrase]]
-
-when using ssh-add to add to keychain, don't use brew's openssl,
-use stock apple one: /usr/local/ssh-add -K ....
-
-** lskq
-for checking file watchers
-
-** Emacs
-https://orgmode.org/manual/Exporting.html
-https://emacs.stackexchange.com/questions/10392
-https://stackoverflow.com/questions/22072773/
-https://emacs.stackexchange.com/questions/55654/
-
-:linux-fn-keys:
-Change this to 0:
-/sys/module/hid_apple/parameters/fnmode
-:END:
-
+*** rustup                                     :rust:
+https://rust-lang.github.io/rustup/
 
 #+begin_src bash
-emacs
---batch # no init/ early-init
-[file]
---script [file]
--f [func]
+rustup component add rustfmt-preview rustfix clippy rust-analyzer rust-gdb
 #+end_src
 
-#+RESULTS:
+*** Compiling Aseprite from source             :asprite:
+  Follow the instructions to install google depot_tools, then skia.
+  The missing instruction is to *unset python3 and anaconda in the path*
+  as depot_tools, and the setup script for skia uses *python 2*.
+  after that, compilation is straight forward, making sure to target the
+  OSX version you are actually on.
 
+*** Conda                                      :python:
+https://conda.io/projects/conda/en/latest/user-guide/index.html
+
+*** Doom                                       :emacs:
+https://github.com/doomemacs/doomemacs/blob/master/docs/index.org
+
+*** Emacs Straight Recipes                     :emacs:
+https://github.com/radian-software/straight.el#the-recipe-format
+
+#+begin_src elisp
+;; Disable Byte Compilation
+(package! a-package :recipe (:build (:not compile)))
+;; Or disable byte compilation with
+;; -*- no-byte-compile: t; -*-
+
+;; Specify a local repo
+(package! a-package :recipe (:local-repo "~/.doom.d/packages/a-package"))
+
+#+end_src
+
+*** Gradle                                     :java:
+https://docs.gradle.org/current/userguide/userguide.html
+https://docs.gradle.org/current/kotlin-dsl/index.html
+
+**** Startup
+***** gradle.properties
+https://docs.gradle.org/current/userguide/build_environment.html#sec:gradle_configuration_properties
+***** init.gradle.kts
+***** settings.gradle.kts
+creates Settings objects.
+
+adds libraries to build script classpath,
+defines which builds are participating.
+instantiates Project instances.
+***** build.gradle.kts
+evals task registration to build task hierarchy.
+
+hooks:
+gradle.beforeProject {}
+gradle.afterProject {}
+tasks.whenTaskAdded {}
+
+https://docs.gradle.org/current/kotlin-dsl/gradle/org.gradle.api/-task/index.html
+https://docs.gradle.org/current/kotlin-dsl/gradle/org.gradle.api/-project/index.html
+
+***** build.gradle.kts
+task actions (doFirst, doLast..)
+
+**** buildSrc
+https://docs.gradle.org/current/userguide/organizing_gradle_projects.html#sec:build_sources
+
+allows extraction of build logic into plugins.
+is essentially a subproject, so use a buildSrc/build.gradle.kts
+
+*** Make                                       :cli:
+https://www.gnu.org/software/make/manual/make.html
+https://www.gnu.org/software/automake/manual/automake.html#Autotools-Introduction
+
+*** Mix                                        :elixir:
+https://hexdocs.pm/mix/Mix.html
+https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html
+
+*** Pip                                        :python:
+https://pip.pypa.io/en/stable/
+
+*** Poetry                                     :python:
+https://python-poetry.org/docs/master/
+
+*** Rebar                                      :erlang:
+https://rebar3.org/docs/
+
+*** RubyGems                                   :ruby:
+https://guides.rubygems.org/
+
+*** Scons                                      :python:
+https://scons.org/doc/production/HTML/scons-user.html
+
+*** Grunt
+https://gruntjs.com/getting-started
+http://adrianmejia.com/blog/2014/10/07/grunt-js-tutorial-from-beginner-to-ninja/
+
+**** tasks
+grunt.registerTask(name,description,function);
+grunt.registerTask(name,[taskNames]);
+
+If the function has parameters:
+grunt testTask:someParameter
+
+grunt.fail.warn()
+grunt.fail.fatal
+grunt.log.[writeln,write,subhead,error,ok]();
+
+grunt.file.[write,read,readJSON,delete,copy,mkdir]();
+grunt.file.expand(); -> returns an array with all files matching a pattern (use
+grunt.file.recurse(); -> expand path, return a callback???
+
+this.requires([taksNames]);
+this.name() -> name of the task;
+this.args();
+
+**** Plugins:
+to install a plugin:
+npm install grunt-contrib-**** --save-dev
+
+load the plugin in the gruntfile:
+grunt.loadNpmTasks('grunt-contrib-****');
+
+Top Plugins:
+jshint (use .jshintrc for settings)
+watch  (to run tasks when files change)
+uglify
+clean
+concat
+connect
+concurrent
+
+*** Meson
+https://mesonbuild.com/
+
+*** Nix
+https://nixos.org/manual/nix/stable/introduction.html
+
+*** Opam
+https://opam.ocaml.org/
+
+*** cookiecutter
+https://cookiecutter.readthedocs.io/en/2.2.3/README.html
+*** jenv
+https://www.jenv.be/
+
+for java env management
+*** keytool                                     :android:java:
+for creating keystores to deploy on android
 #+begin_src bash
-emacs --batch /Volumes/documents/github/__configs/packages/ox-html-jg/tests/example.org  --script /Volumes/documents/github/__configs/packages/ox-html-jg/batch-run.el -f org-html-jg-export-to-html
+keytool
+-keyalg RSA
+-genkeypair
+-alias androiddebugkey
+-keypass android
+-keystore debug.keystore
+-storepass android
+-dname "CN=Android Debug,O=Android,C=US"
+-validity 9999
+-deststoretype pkcs12
 #+end_src
 
-#+RESULTS:
+*** sdkmanager                                  :android:java:
+management of different jdks and android sdk's
 
-** OPA
-https://www.openpolicyagent.org/docs/latest/
-https://www.openpolicyagent.org/docs/latest/#running-opa
-https://www.openpolicyagent.org/docs/latest/policy-language/
-https://www.openpolicyagent.org/docs/latest/policy-reference/
+bootstrap with:
+brew install --cask android-studio
+brew install --cask android-commandlinetools
+then use that sdkmanager to install actual sdks etc in $android_home
+add installed java versions using jenv,
+activate as necessary
+
+*** sdkman!
+** Databases
+*** Postgresql
+https://stackoverflow.com/questions/6148421/
+
+*** Sqlite 3
+  [[https://www.tutorialspoint.com/sqlite/][Reference]]
+  [[https://orgmode.org/worg/org-contrib/babel/languages/ob-doc-sqlite.html][ob-sqlite]]
+
+**** Sqlite Syntax
+   SQLite is *case insensitive* apart from GLOB and glob.
+   Statement end is ';'
+
+***** Main commands
+****** CREATE
+     #+begin_src  :results value
+     sqlite3 my_new_database.db
+     #+end_src
+
+****** ATTACH | DETACH
+     For databases in separate files.
+     #+begin_src sqlite :results value
+     attach database 'test.db' as 'TEST';
+     detach database 'TEST';
+     #+end_src
+
+****** CREATE | DROP table
+     #+begin_src sqlite  :results value
+     -- create table $dbname.$tablename ( columnN, datatypeN constraints, );
+     create table main.test (id int primary key not null, name text not null);
+     drop table main.test;
+     #+end_src
+
+******* Column Constraints
+
+      |                    |                                |
+      |--------------------+--------------------------------|
+      | not null           |                                |
+      | default $X         |                                |
+      | unique             |                                |
+      | primary key        |                                |
+      | check($CONDITIONS) |                                |
+      | autoincrement      | only on integers, must be last |
+
+****** INSERT | DELETE
+     #+begin_src sqlite :results value
+     -- insert into $tablename (columns) values (values);
+     -- insert into $tablename values (values) (values) (values)...;
+     insert into test (id, name) values (1, "bob"), (2, "bill");
+
+     -- delete from $tablename where $conditions;
+     delete from test where id = 1;
+
+     -- DELETE ALL RECORDS:
+     -- delete from $tablename;
+
+     -- where primary key is autoincrement:
+     insert into test (name) values ("bob"), ("bill"), ("jill");
+     #+end_src
+
+****** SELECT
+     #+begin_src sqlite  :results value
+     -- select * from test where condition;
+     -- select * from test where limit $no_of_rows offset $row_num;
+     -- select * from test order by column asc/desc;
+     #+end_src
+
+****** UPDATE
+     #+begin_src sqlite  :results value
+     -- update $tablename set $column = $value, $column2 = $value2 where $conditions;
+     update test set name = 'taweg' where id = 2;
+     #+end_src
+
+***** Data Types
+    |         |   |
+    |---------+---|
+    | NULL    |   |
+    | INTEGER |   |
+    | REAL    |   |
+    | TEXT    |   |
+    | BLOB    |   |
+
+***** Useful commands:
+    |                    |                                              |                                                  |
+    |--------------------+----------------------------------------------+--------------------------------------------------|
+    | .show              | List settings                                |                                                  |
+    | .mode              | Set output formatting mode                   | csv, column, html, insert, line, list, tabs, tcl |
+    | .nullvalue $STRING | set a default string in place of null values |                                                  |
+    | .schema $TABLE     | show the setup of a table                    |                                                  |
+    | .tables            | list all tables in the file                  |                                                  |
+    | .dump $TABLE       | output the table in SQL format               |                                                  |
+    | .headers on/off    | display headers on output                    |                                                  |
+    | .backup main $FILE | backup db main to a file                     |                                                  |
+
+***** Operators
+    #+begin_src sqlite  :results value
+    -- Arithmetic: + 0 * / %
+
+    -- Comparison: == !=, <, <=, >, >=
+    -- <> : equality test
+    -- !<, >! : not greater/lesser
+
+    -- and, between exists, in, not in, not, or, is null, is, is not
+    -- unique
+    -- || : string concat
+    -- like, GLOB : compare values using wildcards
+
+    -- avg(), sum(), count()
+    -- select count(*) as "value name" from test;
+    #+end_src
+
+***** JOINS
+**** Org-Babel header args:
+
+   | db        | a string with the name of the file that                                     |
+   |           | holds the SQLite database. Babel requires this header argument.             |
+   | header    | if present, turn on headers in the output format.                           |
+   |           | Headers are also output with the header argument :colnames yes.             |
+   | echo      | if present, set the SQLite dot command .echo to ON.                         |
+   |           |                                                                             |
+   | bail      | if present, set the SQLite dot command .bail to ON.                         |
+   |           |                                                                             |
+   | csv       | the default SQLite output format for Babel SQLite source code blocks.       |
+   |           |                                                                             |
+   | column    | an SQLite output format that outputs a table-like form with                 |
+   |           | whitespace between columns.                                                 |
+   | html      | an SQLite output format that outputs query results as simple HTML tables.   |
+   |           |                                                                             |
+   | line      | an SQLite output format that outputs query results with one value per line. |
+   |           |                                                                             |
+   | list      | an SQLite output format that outputs query results with the separator       |
+   |           | character between fields.                                                   |
+   | separator | a string that specifies the separator character used by the SQLite          |
+   |           | `list' output mode and by the SQLite dot command .import.                   |
+   | nullvalue | a string to use in place of NULL values.                                    |
+
+**** Sandbox
+
+   #+NAME:Test
+   #+begin_src sqlite :results value :db test.db
+   create table test (id int primary key not null, name text not null);
+   #+end_src
+
+   #+RESULTS: Test
+
+   #+NAME: test2
+   #+begin_src sqlite  :results value :db test.db
+   .schema test
+   #+end_src
 
 ** Debuggers
 *** ADB
@@ -127,25 +396,33 @@ https://os.phil-opp.com/set-up-gdb/
 *** LLDB
 https://lldb.llvm.org/
 
-** Shells
-*** Bash
-https://github.com/bahamas10/bash-style-guide
-[[https://stackoverflow.com/questions/5917576/][line length sorting]]
+** Emacs
+https://orgmode.org/manual/Exporting.html
+https://emacs.stackexchange.com/questions/10392
+https://stackoverflow.com/questions/22072773/
+https://emacs.stackexchange.com/questions/55654/
 
-#+begin_src bash
-cat testfile | awk '{ print length, $0 }' | sort -n | cut -d" " -f2-
-#+end_src
-
-:redired_stderr:
-cmd 2> filename     # stderr to filename
-cmd > filename 2>&1 # stdout to file, stderr to where stdout goes
-cmd 2>&1 > filename # stdout to copy of stdout, stdout to filename
-
+:linux-fn-keys:
+Change this to 0:
+/sys/module/hid_apple/parameters/fnmode
 :END:
 
 
-*** Nushell
-https://www.nushell.sh/book/
+#+begin_src bash
+emacs
+--batch # no init/ early-init
+[file]
+--script [file]
+-f [func]
+#+end_src
+
+#+RESULTS:
+
+#+begin_src bash
+emacs --batch /Volumes/documents/github/__configs/packages/ox-html-jg/tests/example.org  --script /Volumes/documents/github/__configs/packages/ox-html-jg/batch-run.el -f org-html-jg-export-to-html
+#+end_src
+
+#+RESULTS:
 
 ** File encoding
 file -I {}
@@ -157,6 +434,16 @@ To find files, but not search .git directories:
 find ? -type f -a -not -name "DS_Store" -print -o -type d -name ".git" -prune
 #+end_src
 
+** Git
+https://stackoverflow.com/questions/45272492
+
+git pull origin master --allow-unrelated-histories
+git merge origin origin/master
+
+** GPG Conf
+gpgconf to modify and update gpg-agent settings, restart the service etc
+
+gpgconf --kill gpg-agent
 ** GPG Notes (v 2.2.11)
 *** *Short IDs*: Last 8 digits of fingerprint
 
@@ -237,10 +524,115 @@ reload the configuration with "gpgconf --reload gpg-agent", and
 
    then 'save'
 
-** GPG Conf
-gpgconf to modify and update gpg-agent settings, restart the service etc
+** GUI Programs
+*** Firefox
+Get to configs with about:config
+"reader.parse-on-load.force-enabled" for reader view force
+"print.always_print_silent" for saving as pdf without a dialog
 
-gpgconf --kill gpg-agent
+Set: browser.bookmarks.editDialog.firstEditField
+to: tagsField
+for a better bookmarking default
+
+[Netscape bookmark file format](https://msdn.microsoft.com/en-us/library/aa753582(v=vs.85).aspx).
+
+https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly
+
+https://www.selenium.dev/documentation/
+https://developer.mozilla.org/en-US/docs/Web/WebDriver/Capabilities/firefoxOptions
+
+*** Godot
+Godot Engine v3.4.4.stable.official.419e713a2 - https://godotengine.org
+Free and open source software under the terms of the MIT license.
+(c) 2007-2022 Juan Linietsky, Ariel Manzur.
+(c) 2014-2022 Godot Engine contributors.
+
+Usage: godot [options] [path to scene or 'project.godot' file]
+
+:general_options:
+General options:
+  -h, --help                       Display this help message.
+  --version                        Display the version string.
+  -v, --verbose                    Use verbose stdout mode.
+  --quiet                          Quiet mode, silences stdout messages. Errors are still displayed.
+:END:
+
+:run_options:
+Run options:
+  -e, --editor                     Start the editor instead of running the scene.
+  -p, --project-manager            Start the project manager, even if a project is auto-detected.
+  -q, --quit                       Quit after the first iteration.
+  -l, --language <locale>          Use a specific locale (<locale> being a two-letter code).
+  --path <directory>               Path to a project (<directory> must contain a 'project.godot' file).
+  -u, --upwards                    Scan folders upwards for project.godot file.
+  --main-pack <file>               Path to a pack (.pck) file to load.
+  --render-thread <mode>           Render thread mode ('unsafe', 'safe', 'separate').
+  --remote-fs <address>            Remote filesystem (<host/IP>[:<port>] address).
+  --remote-fs-password <password>  Password for remote filesystem.
+  --audio-driver <driver>          Audio driver ('CoreAudio', 'Dummy').
+  --video-driver <driver>          Video driver ('GLES3', 'GLES2').
+:END:
+
+:display_options:
+Display options:
+  -f, --fullscreen                 Request fullscreen mode.
+  -m, --maximized                  Request a maximized window.
+  -w, --windowed                   Request windowed mode.
+  -t, --always-on-top              Request an always-on-top window.
+  --resolution <W>x<H>             Request window resolution.
+  --position <X>,<Y>               Request window position.
+  --low-dpi                        Force low-DPI mode (macOS and Windows only).
+  --no-window                      Run with invisible window. Useful together with --script.
+  --enable-vsync-via-compositor    When vsync is enabled, vsync via the OS' window compositor (Windows only).
+  --disable-vsync-via-compositor   Disable vsync via the OS' window compositor (Windows only).
+  --enable-delta-smoothing         When vsync is enabled, enabled frame delta smoothing.
+  --disable-delta-smoothing        Disable frame delta smoothing.
+  --tablet-driver                  Tablet input driver () (Windows only).
+:END:
+
+:debug_options:
+Debug options:
+  -d, --debug                      Debug (local stdout debugger).
+  -b, --breakpoints                Breakpoint list as source::line comma-separated pairs, no spaces (use %20 instead).
+  --profiling                      Enable profiling in the script debugger.
+  --remote-debug <address>         Remote debug (<host/IP>:<port> address).
+  --debug-collisions               Show collision shapes when running the scene.
+  --debug-navigation               Show navigation polygons when running the scene.
+  --frame-delay <ms>               Simulate high CPU load (delay each frame by <ms> milliseconds).
+  --time-scale <scale>             Force time scale (higher values are faster, 1.0 is normal speed).
+  --disable-render-loop            Disable render loop so rendering only occurs when called explicitly from script.
+  --disable-crash-handler          Disable crash handler when supported by the platform code.
+  --fixed-fps <fps>                Force a fixed number of frames per second. This setting disables real-time synchronization.
+  --print-fps                      Print the frames per second to the stdout.
+:END:
+
+:standalone_tools:
+Standalone tools:
+-s, --script <script>            Run a script.
+--check-only                     Only parse for errors and quit (use with --script).
+--export <preset> <path>         Export the project using the given preset and matching release template. The preset name should match one defined in export_presets.cfg.
+<path> should be absolute or relative to the project directory, and include the filename for the binary (e.g. 'builds/game.exe'). The target directory should exist.
+--export-debug <preset> <path>   Same as --export, but using the debug template.
+--export-pack <preset> <path>    Same as --export, but only export the game pack for the given preset. The <path> extension determines whether it will be in PCK or ZIP format.
+--doctool [<path>]               Dump the engine API reference to the given <path> (defaults to current dir) in XML format, merging if existing files are found.
+--no-docbase                     Disallow dumping the base types (used with --doctool).
+--build-solutions                Build the scripting solutions (e.g. for C# projects). Implies --editor and requires a valid project to edit.
+--gdnative-generate-json-api     Generate JSON dump of the Godot API for GDNative bindings.
+--test <test>                    Run a unit test ('string', 'math', 'basis', 'transform', 'physics', 'physics_2d', 'render', 'oa_hash_map', 'gui', 'shaderlang', 'gd_tokenizer', 'gd_parser', 'gd_compiler', 'gd_bytecode', 'ordered_hash_map', 'astar', 'xml_parser').
+:END:
+
+**** Android Export
+https://docs.godotengine.org/en/stable/tutorials/export/exporting_for_android.html
+https://developer.android.com/games/engines/godot/godot-export
+
+also see keytool
+
+*** TMux
+https://tmux.github.io/
+
+** lskq
+for checking file watchers
+
 ** Mail
 *** mbsync and mu
 https://isync.sourceforge.io/mbsync.html
@@ -255,6 +647,366 @@ https://wiki.archlinux.org/title/Isync
 mu init --maildir ~/.mail --my-address {address}
 mu index
 #+end_src
+
+** Man
+adding MANPATH adds a custom location
+
+Pandoc creates man pages from markdown:
+`pandoc ms.1.md -s -t man -o ms.1`
+
+Man expects pages to be gzipped
+
+** Network
+*** Bandwhich
+https://github.com/imsnif/bandwhich
+
+*** Sniffer
+https://github.com/chenjiandongx/sniffer
+
+** OPA
+https://www.openpolicyagent.org/docs/latest/
+https://www.openpolicyagent.org/docs/latest/#running-opa
+https://www.openpolicyagent.org/docs/latest/policy-language/
+https://www.openpolicyagent.org/docs/latest/policy-reference/
+
+** OpenSSL
+https://www.sslshopper.com/article-most-common-openssl-commands.html
+
+/etc/ssl/certs - linux
+/usr/local/etc/openssl/cert.pem -mac
+
+** Pdf and Images
+*** Exiftool
+https://exiftool.org/
+
+import exif
+with open(file, 'rb') as f:
+data = exif.Image(f)
+
+then delete the user_comment, set it,
+and write to a file using data.get_file()
+
+*** Image Pdf calls
+#+NAME: image to pdf generation
+#+begin_src bash :results value
+convert ? -alpha off ./temp/`?`
+mogrify -orient bottom-left ?
+img2pdf --output `?`.pdf --pagesize A4 --auto-orient ?
+pdftk * cat output diagrams.pdf
+#+end_src
+
+*** pdftotext
+#+begin_src bash :results output
+pdftotext [options] <PDF-file> [<text-file>]
+#+end_src
+
+*** Pdf Metadata
+#+begin_src bash
+exiftool file.pdf
+
+# or:
+pdftk file.pdf dump_data_utf8 > file.info
+# edit
+pdftk file.pdf update_info_utf8 file.info output file2.pdf
+#+end_src
+
+# From https://askubuntu.com/questions/1264322
+#+begin_src bash
+# For Creating Bookmarks/TOC in pdfs:
+# BookmarkBegin
+# BookmarkTitle:
+# BookmarkLevel: 1
+# BookmarkPageNumber:
+pdftk ? dump_data > info.txt
+# -- Add bookmarks
+pdftk ? update_info info.txt output updated.pdf
+#+end_src
+
+pdftk ? attach_files
+pdftk ? dump_data_annots
+
+pdftk ? update_info ./info output out3.pdf
+InfoBegin
+InfoKey: JGData
+InfoValue: Blah,Blee
+
+*** Tesseract
+https://tesseract-ocr.github.io/tessdoc/Command-Line-Usage.html
+
+*** ffmpeg
+https://ffmpeg.org/
+
+#+begin_bash
+# convert wav to mp3:
+ffmpeg -i input.wav -vn -ar 44100 -ac 2 -b:a 192k output.mp3
+#+end_bash
+-i : set input
+-vn : no video
+-ar : audio rate
+-ac : audio channels
+-b:a : bitrate
+
+from https://superuser.com/questions/384073
+#+begin_bash
+# ffmpeg -i <INPUT FILE> -ss 10 -f image2 -r 25 <OUTPUT FILE>
+#+end_bash
+-i <INPUT FILE> Specifies the input file. E.g. movie.mp4.
+-ss <TIME> Specifies time position in seconds. "hh:mm:ss[.xxx]" is also supported.
+-f image2 Force/Set format.
+-r 25 Set frame rate (in Hz. Can either be a fraction or a number, default = 25).
+<OUTPUT FILE> Set output file. E.g. image1.jpg.
+
+https://stackoverflow.com/questions/10957412
+
+*** imagemagick
+https://imagemagick.org/script/command-line-tools.php
+#+begin_bash options
+magick animate   :: animate images when in x11
+magick compare   :: differences between images
+magick composite :: overlap images
+magick conjure   :: scripting language interpreter
+magick convert   :: between different formats
+magick display   :: display image when in x11
+magick identify  :: get format data
+magick import    :: screenshot x11
+magick mogrify   :: destructively modify
+magick montage   :: combine without overlapping
+magick stream    :: pixels at a time
+
+#+end_bash
+
+*** pdfimages
+
+pdfimages version 4.04 [www.xpdfreader.com]
+Copyright 1996-2022 Glyph & Cog, LLC
+Usage: pdfimages [options] <PDF-file> <image-root>
+  -f <int>         : first page to convert
+  -l <int>         : last page to convert
+  -j               : write JPEG images as JPEG files
+  -raw             : write raw data in PDF-native formats
+  -list            : write information to stdout for each image
+  -opw <string>    : owner password (for encrypted files)
+  -upw <string>    : user password (for encrypted files)
+  -verbose         : print per-page status information
+  -q               : don't print any messages or errors
+  -cfg <string>    : configuration file to use in place of .xpdfrc
+  -v               : print copyright and version info
+  -h               : print usage information
+  -help            : print usage information
+  --help           : print usage information
+  -?               : print usage information
+
+** Performance
+*** top
+https://gitlab.com/procps-ng/procps
+
+*** btop
+https://github.com/aristocratos/btop
+
+*** htop
+https://htop.dev/
+
+** Repls
+*** Elixir
+https://samuelmullen.com/articles/customizing_elixirs_iex
+https://itnext.io/a-collection-of-tips-for-elixirs-interactive-shell-iex-bff5e177405b?gi=3b2000b5d04b
+https://subscription.packtpub.com/book/programming/9781784397517/5/ch05lvl1sec59/connecting-nodes
+
+#+begin_src elixir
+# iex --name {name}@127.0.0.1
+Node.list
+
+Node.connect :"{name}@127.0.0.1"
+#+end_src
+** Shells
+*** Bash
+https://github.com/bahamas10/bash-style-guide
+[[https://stackoverflow.com/questions/5917576/][line length sorting]]
+
+#+begin_src bash
+cat testfile | awk '{ print length, $0 }' | sort -n | cut -d" " -f2-
+#+end_src
+
+:redired_stderr:
+cmd 2> filename     # stderr to filename
+cmd > filename 2>&1 # stdout to file, stderr to where stdout goes
+cmd 2>&1 > filename # stdout to copy of stdout, stdout to filename
+
+:END:
+
+
+*** Nushell
+https://www.nushell.sh/book/
+
+** ssh
+[[https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh]]
+[[https://stackoverflow.com/questions/47455300][ssh-config-bad-configuration-option-usekeychain-on-mac-os-sierra-10-12-6]]
+[[https://stackoverflow.com/questions/21095054][ssh-key-still-asking-for-password-and-passphrase]]
+
+when using ssh-add to add to keychain, don't use brew's openssl,
+use stock apple one: /usr/local/ssh-add -K ....
+
+** Supercollider
+sclang
+scsynth
+** Text
+*** Wordnet
+    `wn`
+
+    #+begin_src bash
+    # For Nouns
+    -hypen		Hypernyms
+    -hypon, -treen	Hyponyms & Hyponym Tree
+    -synsn		Synonyms (ordered by estimated frequency)
+    -derin		Derived Forms
+    -famln		Familiarity & Polysemy Count
+    -coorn		Coordinate Terms (sisters)
+    -grepn		List of Compound Words
+    -over		Overview of Senses
+    #+end_src
+
+    #+begin_src bash
+    # For verbs
+    -hypev		Hypernyms
+    -hypov, -treev	Hyponyms & Hyponym Tree
+    -synsv		Synonyms (ordered by estimated frequency)
+    -deriv		Derived Forms
+    -famlv		Familiarity & Polysemy Count
+    -framv		Verb Frames
+    -coorv		Coordinate Terms (sisters)
+    -simsv		Synonyms (grouped by similarity of meaning)
+    -grepv		List of Compound Words
+    -over		Overview of Senses
+    #+end_src
+
+    #+begin_src bash
+    # Adjectives
+    -antsa		Antonyms
+    -synsa		Synonyms (ordered by estimated frequency)
+    -attra		Attributes
+    -deria		Derived Forms
+    -domna		Domain
+    -famla		Familiarity & Polysemy Count
+    -grepa		List of Compound Words
+    -over		Overview of Senses
+    #+end_src
+
+    #+begin_src bash
+    # Adverbs
+    -antsr		Antonyms
+    -synsr		Synonyms (ordered by estimated frequency)
+    -pertr		Pertainyms
+    -famlr		Familiarity & Polysemy Count
+    -grepr		List of Compound Words
+    -over		Overview of Senses
+    #+end_src
+
+*** Github Pages / Jekyll                       :web:
+https://docs.github.com/en/pages
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
+https://jekyllrb.com/docs/
+http://jmcglone.com/guides/github-pages/
+https://jekyllrb.com/docs/posts/
+https://simpleit.rocks/ruby/jekyll/jekyll-basic-concepts/
+
+*** Markdown
+https://help.github.com/articles/markdown-basics/
+
+*** RST / Sphinx
+https://www.sphinx-doc.org/en/master/contents.html
+https://restructuredtext.readthedocs.io/en/latest/
+
+*** Latex
+**** tlmgr
+to call bibtex, specify *local* aux file
+
+for installing packages, use --usermode after tlmgr init-usertree
+:outdated_l3_layer:
+https://tex.stackexchange.com/questions/586467/
+
+sudo fmtutil-sys --all
+:END:
+
+for fonts install collection-fontsrecommended
+for russian: cyrillic, hyphen-russian, babel-russian, fontspec, collection-langcyrillic
+
+
+kpsewhich for searching latex path
+https://www.overleaf.com/learn/latex/Articles/An_introduction_to_Kpathsea_and_how_TeX_engines_search_for_files
+
+**** texdoc
+https://tex.stackexchange.com/questions/297004/
+tlmgr option docfiles 1
+tlmgr install --reinstall $(tlmgr list --only-installed | sed -E 's/i (.*):.*$/\1/')
+
+**** Installing fonts
+https://tug.org/fonts/fontinstall.html#fndb
+
+https://design.tutsplus.com/articles/different-font-file-types-explained-ott-ttf-woff--cms-39047
+https://fontsarena.com/blog/font-formats-and-use/
+https://creativemarket.com/blog/the-missing-guide-to-font-formats
+
+OTF/TTF and WOFF are most supported.
+
+
+
+mktexlsr
+updmap
+fmtutil
+**** Xetex
+https://www.tug.org/xetex/
+
+replace `babel` with `polyglossia`
+replace `lmodern` with `fontspec`
+replace `fancyhdr` with `scrlayer-scrpage`
+use `microtype`
+
+
+remove `inputenc`
+remove `fontenc`
+
+**** Lualatex
+http://www.luatex.org/
+
+*** Pandoc
+#+NAME: text to pdf generation
+#+begin_src bash :results value
+pandoc ? -o output.pdf
+#+end_src
+
+*** Markdown html export
+Add a local file to `markdown-css-paths`,
+can use npm package `generate-github-markdown-css` as a start
+
+*** [[https://difftastic.wilfred.me.uk/introduction.html][Difftastic]]
+
+*** Awk
+#+begin_src bash
+# Getting subgroups
+awk 'match($0, /HREF="(.+?)"/, a) {print a[1]}'
+
+# checking length
+awk 'length < 10 {print $0}'
+
+# in place editing and printing at end of file
+gawk -i inplace '/if __name__ / {print "##-- ifmain" } {print $0} ENDFILE {print "##-- end ifmain"}'
+#+end_src awk
+
+*** Sed
+extended regexs:
+sed -E 's/ / /'
+
+groups and subselection:
+echo "a test blah" | sed -n -E 's/a (.+) blah/\1/p'
+
+Filter lines with:
+'/pattern/d'
+
+Print Matching lines with:
+'/pattern/p'
+
+case Invariant:
+'/pattern/I'
 
 ** Wget
 https://www.networkinghowtos.com/howto/change-the-user-agent-in-wget/
@@ -592,724 +1344,19 @@ xsdata samples/order.xsd --output plantuml --package uml_gen
 
 *** xmllint
 
-** OpenSSL
-https://www.sslshopper.com/article-most-common-openssl-commands.html
-
-/etc/ssl/certs - linux
-/usr/local/etc/openssl/cert.pem -mac
-
-** Build Systems and Package Management
-*** Cargo                                      :rust:
-https://doc.rust-lang.org/cargo/
-https://stackoverflow.com/questions/37586216/step-by-step-interactive-debugger-for-rust
-
-remove ~/.cargo/packages.cache if it locks
-https://github.com/rust-lang/cargo/issues/9742
-
-*** rustup                                     :rust:
-https://rust-lang.github.io/rustup/
-
-#+begin_src bash
-rustup component add rustfmt-preview rustfix clippy rust-analyzer rust-gdb
-#+end_src
-
-*** Compiling Aseprite from source             :asprite:
-  Follow the instructions to install google depot_tools, then skia.
-  The missing instruction is to *unset python3 and anaconda in the path*
-  as depot_tools, and the setup script for skia uses *python 2*.
-  after that, compilation is straight forward, making sure to target the
-  OSX version you are actually on.
-
-*** Conda                                      :python:
-https://conda.io/projects/conda/en/latest/user-guide/index.html
-
-*** Doom                                       :emacs:
-https://github.com/doomemacs/doomemacs/blob/master/docs/index.org
-
-*** Emacs Straight Recipes                     :emacs:
-https://github.com/radian-software/straight.el#the-recipe-format
-
-#+begin_src elisp
-;; Disable Byte Compilation
-(package! a-package :recipe (:build (:not compile)))
-;; Or disable byte compilation with
-;; -*- no-byte-compile: t; -*-
-
-;; Specify a local repo
-(package! a-package :recipe (:local-repo "~/.doom.d/packages/a-package"))
-
-#+end_src
-
-*** Gradle                                     :java:
-https://docs.gradle.org/current/userguide/userguide.html
-
-*** Make                                       :cli:
-https://www.gnu.org/software/make/manual/make.html
-https://www.gnu.org/software/automake/manual/automake.html#Autotools-Introduction
-
-*** Mix                                        :elixir:
-https://hexdocs.pm/mix/Mix.html
-https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html
-
-*** Pip                                        :python:
-https://pip.pypa.io/en/stable/
-
-*** Poetry                                     :python:
-https://python-poetry.org/docs/master/
-
-*** Rebar                                      :erlang:
-https://rebar3.org/docs/
-
-*** RubyGems                                   :ruby:
-https://guides.rubygems.org/
-
-*** Scons                                      :python:
-https://scons.org/doc/production/HTML/scons-user.html
-
-*** Grunt
-https://gruntjs.com/getting-started
-http://adrianmejia.com/blog/2014/10/07/grunt-js-tutorial-from-beginner-to-ninja/
-
-**** tasks
-grunt.registerTask(name,description,function);
-grunt.registerTask(name,[taskNames]);
-
-If the function has parameters:
-grunt testTask:someParameter
-
-grunt.fail.warn()
-grunt.fail.fatal
-grunt.log.[writeln,write,subhead,error,ok]();
-
-grunt.file.[write,read,readJSON,delete,copy,mkdir]();
-grunt.file.expand(); -> returns an array with all files matching a pattern (use
-grunt.file.recurse(); -> expand path, return a callback???
-
-this.requires([taksNames]);
-this.name() -> name of the task;
-this.args();
-
-**** Plugins:
-to install a plugin:
-npm install grunt-contrib-**** --save-dev
-
-load the plugin in the gruntfile:
-grunt.loadNpmTasks('grunt-contrib-****');
-
-Top Plugins:
-jshint (use .jshintrc for settings)
-watch  (to run tasks when files change)
-uglify
-clean
-concat
-connect
-concurrent
-
-*** Meson
-https://mesonbuild.com/
-
-*** Nix
-https://nixos.org/manual/nix/stable/introduction.html
-
-*** Opam
-https://opam.ocaml.org/
-
-*** cookiecutter
-https://cookiecutter.readthedocs.io/en/2.2.3/README.html
-*** jenv
-https://www.jenv.be/
-
-for java env management
-*** keytool                                     :android:java:
-for creating keystores to deploy on android
-#+begin_src bash
-keytool
--keyalg RSA
--genkeypair
--alias androiddebugkey
--keypass android
--keystore debug.keystore
--storepass android
--dname "CN=Android Debug,O=Android,C=US"
--validity 9999
--deststoretype pkcs12
-#+end_src
-
-*** sdkmanager                                  :android:java:
-management of different jdks and android sdk's
-
-bootstrap with:
-brew install --cask android-studio
-brew install --cask android-commandlinetools
-then use that sdkmanager to install actual sdks etc in $android_home
-add installed java versions using jenv,
-activate as necessary
-
-*** sdkman!
-** Text
-*** Wordnet
-    `wn`
-
-    #+begin_src bash
-    # For Nouns
-    -hypen		Hypernyms
-    -hypon, -treen	Hyponyms & Hyponym Tree
-    -synsn		Synonyms (ordered by estimated frequency)
-    -derin		Derived Forms
-    -famln		Familiarity & Polysemy Count
-    -coorn		Coordinate Terms (sisters)
-    -grepn		List of Compound Words
-    -over		Overview of Senses
-    #+end_src
-
-    #+begin_src bash
-    # For verbs
-    -hypev		Hypernyms
-    -hypov, -treev	Hyponyms & Hyponym Tree
-    -synsv		Synonyms (ordered by estimated frequency)
-    -deriv		Derived Forms
-    -famlv		Familiarity & Polysemy Count
-    -framv		Verb Frames
-    -coorv		Coordinate Terms (sisters)
-    -simsv		Synonyms (grouped by similarity of meaning)
-    -grepv		List of Compound Words
-    -over		Overview of Senses
-    #+end_src
-
-    #+begin_src bash
-    # Adjectives
-    -antsa		Antonyms
-    -synsa		Synonyms (ordered by estimated frequency)
-    -attra		Attributes
-    -deria		Derived Forms
-    -domna		Domain
-    -famla		Familiarity & Polysemy Count
-    -grepa		List of Compound Words
-    -over		Overview of Senses
-    #+end_src
-
-    #+begin_src bash
-    # Adverbs
-    -antsr		Antonyms
-    -synsr		Synonyms (ordered by estimated frequency)
-    -pertr		Pertainyms
-    -famlr		Familiarity & Polysemy Count
-    -grepr		List of Compound Words
-    -over		Overview of Senses
-    #+end_src
-
-*** Github Pages / Jekyll                       :web:
-https://docs.github.com/en/pages
-https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
-https://jekyllrb.com/docs/
-http://jmcglone.com/guides/github-pages/
-https://jekyllrb.com/docs/posts/
-https://simpleit.rocks/ruby/jekyll/jekyll-basic-concepts/
-
-*** Markdown
-https://help.github.com/articles/markdown-basics/
-
-*** RST / Sphinx
-https://www.sphinx-doc.org/en/master/contents.html
-https://restructuredtext.readthedocs.io/en/latest/
-
-*** Latex
-**** tlmgr
-to call bibtex, specify *local* aux file
-
-for installing packages, use --usermode after tlmgr init-usertree
-:outdated_l3_layer:
-https://tex.stackexchange.com/questions/586467/
-
-sudo fmtutil-sys --all
-:END:
-
-for fonts install collection-fontsrecommended
-for russian: cyrillic, hyphen-russian, babel-russian, fontspec, collection-langcyrillic
-
-
-kpsewhich for searching latex path
-https://www.overleaf.com/learn/latex/Articles/An_introduction_to_Kpathsea_and_how_TeX_engines_search_for_files
-
-**** texdoc
-https://tex.stackexchange.com/questions/297004/
-tlmgr option docfiles 1
-tlmgr install --reinstall $(tlmgr list --only-installed | sed -E 's/i (.*):.*$/\1/')
-
-**** Installing fonts
-https://tug.org/fonts/fontinstall.html#fndb
-
-https://design.tutsplus.com/articles/different-font-file-types-explained-ott-ttf-woff--cms-39047
-https://fontsarena.com/blog/font-formats-and-use/
-https://creativemarket.com/blog/the-missing-guide-to-font-formats
-
-OTF/TTF and WOFF are most supported.
-
-
-
-mktexlsr
-updmap
-fmtutil
-**** Xetex
-https://www.tug.org/xetex/
-
-replace `babel` with `polyglossia`
-replace `lmodern` with `fontspec`
-replace `fancyhdr` with `scrlayer-scrpage`
-use `microtype`
-
-
-remove `inputenc`
-remove `fontenc`
-
-**** Lualatex
-http://www.luatex.org/
-
-*** Pandoc
-#+NAME: text to pdf generation
-#+begin_src bash :results value
-pandoc ? -o output.pdf
-#+end_src
-
-*** Markdown html export
-Add a local file to `markdown-css-paths`,
-can use npm package `generate-github-markdown-css` as a start
-
-*** [[https://difftastic.wilfred.me.uk/introduction.html][Difftastic]]
-
-*** Awk
-#+begin_src bash
-# Getting subgroups
-awk 'match($0, /HREF="(.+?)"/, a) {print a[1]}'
-
-# checking length
-awk 'length < 10 {print $0}'
-
-# in place editing and printing at end of file
-gawk -i inplace '/if __name__ / {print "##-- ifmain" } {print $0} ENDFILE {print "##-- end ifmain"}'
-#+end_src awk
-
-*** Sed
-extended regexs:
-sed -E 's/ / /'
-
-groups and subselection:
-echo "a test blah" | sed -n -E 's/a (.+) blah/\1/p'
-
-Filter lines with:
-'/pattern/d'
-
-Print Matching lines with:
-'/pattern/p'
-
-case Invariant:
-'/pattern/I'
-
-** GUI Programs
-*** Firefox
-Get to configs with about:about
-Use: reader.parse-on-load.force-enabled
-for reader view force
-
-Set: browser.bookmarks.editDialog.firstEditField
-to: tagsField
-for a better bookmarking default
-
-[Netscape bookmark file format](https://msdn.microsoft.com/en-us/library/aa753582(v=vs.85).aspx).
-
-https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly
-
-*** Godot
-Godot Engine v3.4.4.stable.official.419e713a2 - https://godotengine.org
-Free and open source software under the terms of the MIT license.
-(c) 2007-2022 Juan Linietsky, Ariel Manzur.
-(c) 2014-2022 Godot Engine contributors.
-
-Usage: godot [options] [path to scene or 'project.godot' file]
-
-:general_options:
-General options:
-  -h, --help                       Display this help message.
-  --version                        Display the version string.
-  -v, --verbose                    Use verbose stdout mode.
-  --quiet                          Quiet mode, silences stdout messages. Errors are still displayed.
-:END:
-
-:run_options:
-Run options:
-  -e, --editor                     Start the editor instead of running the scene.
-  -p, --project-manager            Start the project manager, even if a project is auto-detected.
-  -q, --quit                       Quit after the first iteration.
-  -l, --language <locale>          Use a specific locale (<locale> being a two-letter code).
-  --path <directory>               Path to a project (<directory> must contain a 'project.godot' file).
-  -u, --upwards                    Scan folders upwards for project.godot file.
-  --main-pack <file>               Path to a pack (.pck) file to load.
-  --render-thread <mode>           Render thread mode ('unsafe', 'safe', 'separate').
-  --remote-fs <address>            Remote filesystem (<host/IP>[:<port>] address).
-  --remote-fs-password <password>  Password for remote filesystem.
-  --audio-driver <driver>          Audio driver ('CoreAudio', 'Dummy').
-  --video-driver <driver>          Video driver ('GLES3', 'GLES2').
-:END:
-
-:display_options:
-Display options:
-  -f, --fullscreen                 Request fullscreen mode.
-  -m, --maximized                  Request a maximized window.
-  -w, --windowed                   Request windowed mode.
-  -t, --always-on-top              Request an always-on-top window.
-  --resolution <W>x<H>             Request window resolution.
-  --position <X>,<Y>               Request window position.
-  --low-dpi                        Force low-DPI mode (macOS and Windows only).
-  --no-window                      Run with invisible window. Useful together with --script.
-  --enable-vsync-via-compositor    When vsync is enabled, vsync via the OS' window compositor (Windows only).
-  --disable-vsync-via-compositor   Disable vsync via the OS' window compositor (Windows only).
-  --enable-delta-smoothing         When vsync is enabled, enabled frame delta smoothing.
-  --disable-delta-smoothing        Disable frame delta smoothing.
-  --tablet-driver                  Tablet input driver () (Windows only).
-:END:
-
-:debug_options:
-Debug options:
-  -d, --debug                      Debug (local stdout debugger).
-  -b, --breakpoints                Breakpoint list as source::line comma-separated pairs, no spaces (use %20 instead).
-  --profiling                      Enable profiling in the script debugger.
-  --remote-debug <address>         Remote debug (<host/IP>:<port> address).
-  --debug-collisions               Show collision shapes when running the scene.
-  --debug-navigation               Show navigation polygons when running the scene.
-  --frame-delay <ms>               Simulate high CPU load (delay each frame by <ms> milliseconds).
-  --time-scale <scale>             Force time scale (higher values are faster, 1.0 is normal speed).
-  --disable-render-loop            Disable render loop so rendering only occurs when called explicitly from script.
-  --disable-crash-handler          Disable crash handler when supported by the platform code.
-  --fixed-fps <fps>                Force a fixed number of frames per second. This setting disables real-time synchronization.
-  --print-fps                      Print the frames per second to the stdout.
-:END:
-
-:standalone_tools:
-Standalone tools:
--s, --script <script>            Run a script.
---check-only                     Only parse for errors and quit (use with --script).
---export <preset> <path>         Export the project using the given preset and matching release template. The preset name should match one defined in export_presets.cfg.
-<path> should be absolute or relative to the project directory, and include the filename for the binary (e.g. 'builds/game.exe'). The target directory should exist.
---export-debug <preset> <path>   Same as --export, but using the debug template.
---export-pack <preset> <path>    Same as --export, but only export the game pack for the given preset. The <path> extension determines whether it will be in PCK or ZIP format.
---doctool [<path>]               Dump the engine API reference to the given <path> (defaults to current dir) in XML format, merging if existing files are found.
---no-docbase                     Disallow dumping the base types (used with --doctool).
---build-solutions                Build the scripting solutions (e.g. for C# projects). Implies --editor and requires a valid project to edit.
---gdnative-generate-json-api     Generate JSON dump of the Godot API for GDNative bindings.
---test <test>                    Run a unit test ('string', 'math', 'basis', 'transform', 'physics', 'physics_2d', 'render', 'oa_hash_map', 'gui', 'shaderlang', 'gd_tokenizer', 'gd_parser', 'gd_compiler', 'gd_bytecode', 'ordered_hash_map', 'astar', 'xml_parser').
-:END:
-
-**** Android Export
-https://docs.godotengine.org/en/stable/tutorials/export/exporting_for_android.html
-https://developer.android.com/games/engines/godot/godot-export
-
-also see keytool
-
-*** TMux
-https://tmux.github.io/
-
-** Databases
-*** Postgresql
-https://stackoverflow.com/questions/6148421/
-
-*** Sqlite 3
-  [[https://www.tutorialspoint.com/sqlite/][Reference]]
-  [[https://orgmode.org/worg/org-contrib/babel/languages/ob-doc-sqlite.html][ob-sqlite]]
-
-**** Sqlite Syntax
-   SQLite is *case insensitive* apart from GLOB and glob.
-   Statement end is ';'
-
-***** Main commands
-****** CREATE
-     #+begin_src  :results value
-     sqlite3 my_new_database.db
-     #+end_src
-
-****** ATTACH | DETACH
-     For databases in separate files.
-     #+begin_src sqlite :results value
-     attach database 'test.db' as 'TEST';
-     detach database 'TEST';
-     #+end_src
-
-****** CREATE | DROP table
-     #+begin_src sqlite  :results value
-     -- create table $dbname.$tablename ( columnN, datatypeN constraints, );
-     create table main.test (id int primary key not null, name text not null);
-     drop table main.test;
-     #+end_src
-
-******* Column Constraints
-
-      |                    |                                |
-      |--------------------+--------------------------------|
-      | not null           |                                |
-      | default $X         |                                |
-      | unique             |                                |
-      | primary key        |                                |
-      | check($CONDITIONS) |                                |
-      | autoincrement      | only on integers, must be last |
-
-****** INSERT | DELETE
-     #+begin_src sqlite :results value
-     -- insert into $tablename (columns) values (values);
-     -- insert into $tablename values (values) (values) (values)...;
-     insert into test (id, name) values (1, "bob"), (2, "bill");
-
-     -- delete from $tablename where $conditions;
-     delete from test where id = 1;
-
-     -- DELETE ALL RECORDS:
-     -- delete from $tablename;
-
-     -- where primary key is autoincrement:
-     insert into test (name) values ("bob"), ("bill"), ("jill");
-     #+end_src
-
-****** SELECT
-     #+begin_src sqlite  :results value
-     -- select * from test where condition;
-     -- select * from test where limit $no_of_rows offset $row_num;
-     -- select * from test order by column asc/desc;
-     #+end_src
-
-****** UPDATE
-     #+begin_src sqlite  :results value
-     -- update $tablename set $column = $value, $column2 = $value2 where $conditions;
-     update test set name = 'taweg' where id = 2;
-     #+end_src
-
-***** Data Types
-    |         |   |
-    |---------+---|
-    | NULL    |   |
-    | INTEGER |   |
-    | REAL    |   |
-    | TEXT    |   |
-    | BLOB    |   |
-
-***** Useful commands:
-    |                    |                                              |                                                  |
-    |--------------------+----------------------------------------------+--------------------------------------------------|
-    | .show              | List settings                                |                                                  |
-    | .mode              | Set output formatting mode                   | csv, column, html, insert, line, list, tabs, tcl |
-    | .nullvalue $STRING | set a default string in place of null values |                                                  |
-    | .schema $TABLE     | show the setup of a table                    |                                                  |
-    | .tables            | list all tables in the file                  |                                                  |
-    | .dump $TABLE       | output the table in SQL format               |                                                  |
-    | .headers on/off    | display headers on output                    |                                                  |
-    | .backup main $FILE | backup db main to a file                     |                                                  |
-
-***** Operators
-    #+begin_src sqlite  :results value
-    -- Arithmetic: + 0 * / %
-
-    -- Comparison: == !=, <, <=, >, >=
-    -- <> : equality test
-    -- !<, >! : not greater/lesser
-
-    -- and, between exists, in, not in, not, or, is null, is, is not
-    -- unique
-    -- || : string concat
-    -- like, GLOB : compare values using wildcards
-
-    -- avg(), sum(), count()
-    -- select count(*) as "value name" from test;
-    #+end_src
-
-***** JOINS
-**** Org-Babel header args:
-
-   | db        | a string with the name of the file that                                     |
-   |           | holds the SQLite database. Babel requires this header argument.             |
-   | header    | if present, turn on headers in the output format.                           |
-   |           | Headers are also output with the header argument :colnames yes.             |
-   | echo      | if present, set the SQLite dot command .echo to ON.                         |
-   |           |                                                                             |
-   | bail      | if present, set the SQLite dot command .bail to ON.                         |
-   |           |                                                                             |
-   | csv       | the default SQLite output format for Babel SQLite source code blocks.       |
-   |           |                                                                             |
-   | column    | an SQLite output format that outputs a table-like form with                 |
-   |           | whitespace between columns.                                                 |
-   | html      | an SQLite output format that outputs query results as simple HTML tables.   |
-   |           |                                                                             |
-   | line      | an SQLite output format that outputs query results with one value per line. |
-   |           |                                                                             |
-   | list      | an SQLite output format that outputs query results with the separator       |
-   |           | character between fields.                                                   |
-   | separator | a string that specifies the separator character used by the SQLite          |
-   |           | `list' output mode and by the SQLite dot command .import.                   |
-   | nullvalue | a string to use in place of NULL values.                                    |
-
-**** Sandbox
-
-   #+NAME:Test
-   #+begin_src sqlite :results value :db test.db
-   create table test (id int primary key not null, name text not null);
-   #+end_src
-
-   #+RESULTS: Test
-
-   #+NAME: test2
-   #+begin_src sqlite  :results value :db test.db
-   .schema test
-   #+end_src
-
-** Pdf and Images
-*** Exiftool
-https://exiftool.org/
-
-import exif
-with open(file, 'rb') as f:
-data = exif.Image(f)
-
-then delete the user_comment, set it,
-and write to a file using data.get_file()
-
-*** Image Pdf calls
-#+NAME: image to pdf generation
-#+begin_src bash :results value
-convert ? -alpha off ./temp/`?`
-mogrify -orient bottom-left ?
-img2pdf --output `?`.pdf --pagesize A4 --auto-orient ?
-pdftk * cat output diagrams.pdf
-#+end_src
-
-*** pdftotext
-#+begin_src bash :results output
-pdftotext [options] <PDF-file> [<text-file>]
-#+end_src
-
-*** Pdf Metadata
-#+begin_src bash
-exiftool file.pdf
-
-# or:
-pdftk file.pdf dump_data_utf8 > file.info
-# edit
-pdftk file.pdf update_info_utf8 file.info output file2.pdf
-#+end_src
-
-# From https://askubuntu.com/questions/1264322
-#+begin_src bash
-# For Creating Bookmarks/TOC in pdfs:
-# BookmarkBegin
-# BookmarkTitle:
-# BookmarkLevel: 1
-# BookmarkPageNumber:
-pdftk ? dump_data > info.txt
-# -- Add bookmarks
-pdftk ? update_info info.txt output updated.pdf
-#+end_src
-
-pdftk ? attach_files
-pdftk ? dump_data_annots
-
-pdftk ? update_info ./info output out3.pdf
-InfoBegin
-InfoKey: JGData
-InfoValue: Blah,Blee
-
-*** Tesseract
-https://tesseract-ocr.github.io/tessdoc/Command-Line-Usage.html
-
-*** ffmpeg
-https://ffmpeg.org/
-
-#+begin_bash
-# convert wav to mp3:
-ffmpeg -i input.wav -vn -ar 44100 -ac 2 -b:a 192k output.mp3
-#+end_bash
--i : set input
--vn : no video
--ar : audio rate
--ac : audio channels
--b:a : bitrate
-
-from https://superuser.com/questions/384073
-#+begin_bash
-# ffmpeg -i <INPUT FILE> -ss 10 -f image2 -r 25 <OUTPUT FILE>
-#+end_bash
--i <INPUT FILE> Specifies the input file. E.g. movie.mp4.
--ss <TIME> Specifies time position in seconds. "hh:mm:ss[.xxx]" is also supported.
--f image2 Force/Set format.
--r 25 Set frame rate (in Hz. Can either be a fraction or a number, default = 25).
-<OUTPUT FILE> Set output file. E.g. image1.jpg.
-
-https://stackoverflow.com/questions/10957412
-
-*** imagemagick
-https://imagemagick.org/script/command-line-tools.php
-#+begin_bash options
-magick animate   :: animate images when in x11
-magick compare   :: differences between images
-magick composite :: overlap images
-magick conjure   :: scripting language interpreter
-magick convert   :: between different formats
-magick display   :: display image when in x11
-magick identify  :: get format data
-magick import    :: screenshot x11
-magick mogrify   :: destructively modify
-magick montage   :: combine without overlapping
-magick stream    :: pixels at a time
-
-#+end_bash
-
-*** pdfimages
-
-pdfimages version 4.04 [www.xpdfreader.com]
-Copyright 1996-2022 Glyph & Cog, LLC
-Usage: pdfimages [options] <PDF-file> <image-root>
-  -f <int>         : first page to convert
-  -l <int>         : last page to convert
-  -j               : write JPEG images as JPEG files
-  -raw             : write raw data in PDF-native formats
-  -list            : write information to stdout for each image
-  -opw <string>    : owner password (for encrypted files)
-  -upw <string>    : user password (for encrypted files)
-  -verbose         : print per-page status information
-  -q               : don't print any messages or errors
-  -cfg <string>    : configuration file to use in place of .xpdfrc
-  -v               : print copyright and version info
-  -h               : print usage information
-  -help            : print usage information
-  --help           : print usage information
-  -?               : print usage information
-
-** Man
-adding MANPATH adds a custom location
-
-Pandoc creates man pages from markdown:
-`pandoc ms.1.md -s -t man -o ms.1`
-
-Man expects pages to be gzipped
-
-** Performance
-*** top
-https://gitlab.com/procps-ng/procps
-
-*** btop
-https://github.com/aristocratos/btop
-
-*** htop
-https://htop.dev/
-
-** Repls
-*** Elixir
-https://samuelmullen.com/articles/customizing_elixirs_iex
-https://itnext.io/a-collection-of-tips-for-elixirs-interactive-shell-iex-bff5e177405b?gi=3b2000b5d04b
-https://subscription.packtpub.com/book/programming/9781784397517/5/ch05lvl1sec59/connecting-nodes
-
-#+begin_src elixir
-# iex --name {name}@127.0.0.1
-Node.list
-
-Node.connect :"{name}@127.0.0.1"
-#+end_src
 * OS Specific
 ** Linux / Ubuntu
+*** Startup
+"journalctl -b" to inspect boot log
+in /etc/default/grub remove "quiet splash" then run "sudo update-grub2"
+
+/etc/fstab for mounting drives.
+
+https://askubuntu.com/questions/818413/how-can-i-toggle-the-fn-function-key
+https://unix.stackexchange.com/questions/407501/make-apple-keyboard-settings-persistent-in-hid-apple-parameters
+https://help.ubuntu.com/community/AppleKeyboard#Change_Function_Key_behavior
+https://wiki.linuxquestions.org/wiki/Altering_or_Creating_Keyboard_Maps
+
 *** Snap
 https://www.freecodecamp.org/news/managing-ubuntu-snaps/
 
@@ -1332,6 +1379,8 @@ Use to find where apt puts stuff
 
 dpkg -L {}
 ** Mac
+launchctl stop com.apple.SafariBookmarksSyncAgent
+
 *** Homebrew                                    :shell:
 https://brew.sh/
 https://docs.brew.sh/
@@ -1422,6 +1471,9 @@ https://iterm2.com/
 
 ** Windows
 
+* TODO
+https://www.unison-lang.org/learn/tour/
+https://www.bitecode.dev/p/python-312-what-didnt-make-the-headlines
 
 * Links
 https://www.whocanuse.com/

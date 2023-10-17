@@ -2,35 +2,31 @@
 #+STARTUP: content
 [[/Users/johngrey/doot.toml][doot.toml]]
 [[/Users/johngrey/dooter.py][dooter.py]]
-[[file:/Volumes/documents/github/jgrey4296.github.io][homepage]]
+[[file:~/github/jgrey4296.github.io][homepage]]
 
 :to-deal-with:
-https://askubuntu.com/questions/818413/how-can-i-toggle-the-fn-function-key
 https://measuringstuff.com/
-launchctl stop com.apple.SafariBookmarksSyncAgent
 :END:
 
 * Base Agenda
 Death by Institution and the Harms of Abstraction.
 
 ** Main
-*** [[/Volumes/documents/github/python/acab][Acab]]
-
-*** [[/Volumes/documents/github/python/code_analysis][Code Analysis]]
-*** [[file:/Volumes/documents/github/python/instal][Instal]]
+*** [[~/github/python/acab][Acab]]
+*** [[~/github/python/provenance][Provenance]]
+*** [[file:~/github/python/instal][Instal]]
 
 ** Secondary
-*** [[file:/Volumes/documents/github/jgrey4296.github.io/orgfiles/quotes][Quotes]]
+*** [[file:~/github/jgrey4296.github.io/orgfiles/quotes][Quotes]]
 
-*** [[file:/Volumes/documents/github/jgrey4296.github.io/orgfiles/listings/definitions.org::*Overview][Definitions]]
-*** [[file:/Volumes/documents/github/jgrey4296.github.io/orgfiles/taxonomies][Taxonomies]]
+*** [[file:~/github/jgrey4296.github.io/orgfiles/taxonomies][Taxonomies]]
 
-*** [[/Volumes/documents/github/jgrey4296.github.io/orgfiles/taxonomies/DSLs.org][DSLs]]
+*** [[~/github/jgrey4296.github.io/orgfiles/taxonomies/DSLs.org][DSLs]]
 *** [[file:~/github/bibliography/main][Bibliography]]
 
-*** [[file:/Volumes/documents/twitter_threads][Twitter Threads]]
+*** [[file:~/library/twitter][Twitter Threads]]
 
-*** [[file:/Volumes/documents/github/jgrey4296.github.io/orgfiles/primary/research_questions.org][Research Questions]]
+*** [[file:~/github/jgrey4296.github.io/orgfiles/primary/research_questions.org][Research Questions]]
 
 ** Other
 Killing the Black Body or Fatal Invention by @DorothyERoberts
