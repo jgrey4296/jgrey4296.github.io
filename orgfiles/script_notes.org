@@ -401,6 +401,7 @@ https://orgmode.org/manual/Exporting.html
 https://emacs.stackexchange.com/questions/10392
 https://stackoverflow.com/questions/22072773/
 https://emacs.stackexchange.com/questions/55654/
+https://www.gnu.org/software/emacs/manual/html_node/elisp/Building-Emacs.html
 
 :linux-fn-keys:
 Change this to 0:
