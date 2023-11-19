@@ -1345,6 +1345,19 @@ xsdata samples/order.xsd --output plantuml --package uml_gen
 
 *** xmllint
 
+*** XML::Twig
+
+https://www.systutorials.com/docs/linux/man/1-xml_split/
+https://www.systutorials.com/docs/linux/man/1-xml_grep/
+
+#+begin_src bash
+xml_grep --pretty_print indented --cond //www --cond [@mdate=~/2020-..-../] ./dblp-2023-10-01-07.xml 2>/dev/null
+xml_grep --nb_results 4 --pretty_print indented --cond "//www/author[@string=~ /^Sebastian/]" ./dblp-2023-10-01-06.xml
+xml_grep --nb_results 4 --pretty_print indented --root //www --root //inproceedings --cond pages ./dblp-2023-10-01-06.xml > results.xml
+xml_grep --nb_results 4 --pretty_print indented --root "/*/*" --cond "author[string()=~/^Seb/]" ./dblp-2023-10-01-06.xml > results.xml
+#+end_src
+
+
 * OS Specific
 ** Linux / Ubuntu
 *** Startup
@@ -1379,6 +1392,12 @@ https://launchpad.net/~potassco
 Use to find where apt puts stuff
 
 dpkg -L {}
+
+*** Networking
+to restart:
+systemctl restart Networking.service
+
+also: nmcli
 ** Mac
 launchctl stop com.apple.SafariBookmarksSyncAgent
 
