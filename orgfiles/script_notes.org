@@ -809,16 +809,26 @@ https://htop.dev/
 
 ** Repls
 *** Elixir
+vms: https://github.com/asdf-vm/asdf
+
 https://samuelmullen.com/articles/customizing_elixirs_iex
 https://itnext.io/a-collection-of-tips-for-elixirs-interactive-shell-iex-bff5e177405b?gi=3b2000b5d04b
 https://subscription.packtpub.com/book/programming/9781784397517/5/ch05lvl1sec59/connecting-nodes
 
-#+begin_src elixir
-# iex --name {name}@127.0.0.1
-Node.list
 
-Node.connect :"{name}@127.0.0.1"
+#+NAME: Connecting
+#+begin_src bash :results output
+# Machine 1:
+iex --name node@192.168.1.15 --cookie test
+
+# Machine 2:
+iex --name node@192.168.1.68 --cookie test
+Node.connect :"node@192.168.1.15"
+Node.list
 #+end_src
+
+
+
 ** Shells
 *** Bash
 https://github.com/bahamas10/bash-style-guide
