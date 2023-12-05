@@ -5,6 +5,9 @@
 [[file:~/github/jgrey4296.github.io][homepage]]
 
 :to-deal-with:
+https://saxxie.dev/
+https://dbdiagram.io/home/
+https://scipy-lectures.org/packages/sympy.html
 https://en.m.wikipedia.org/wiki/Academic_journal
 https://en.m.wikipedia.org/wiki/Scholarly_peer_review
 https://en.m.wikipedia.org/wiki/Academy
@@ -54,11 +57,11 @@ Death by Institution and the Harms of Abstraction.
 *** [[file:~/github/python/instal][Instal]]
 
 ** Secondary
-*** [[file:~/github/jgrey4296.github.io/orgfiles/quotes][Quotes]]
+*** [[file:~/github/jgrey4296.github.io/wiki/quotes][Quotes]]
 
-*** [[file:~/github/jgrey4296.github.io/orgfiles/taxonomies][Taxonomies]]
+*** [[file:~/github/jgrey4296.github.io/wiki/taxonomies][Taxonomies]]
 
-*** [[~/github/jgrey4296.github.io/orgfiles/taxonomies/DSLs.org][DSLs]]
+*** [[~/github/jgrey4296.github.io/wiki/taxonomies/DSLs.org][DSLs]]
 *** [[file:~/github/bibliography/main][Bibliography]]
 
 *** [[file:~/library/twitter][Twitter Threads]]
