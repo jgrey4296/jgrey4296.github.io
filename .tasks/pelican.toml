@@ -1,0 +1,20 @@
+
+[[tasks.pelican]]
+name                 = "build"
+version              = "0.1"                                     # <str>
+ctor                 = "task"                                    # <type>
+doc                  = ["Run pelican"]                           # <list[str]>
+depends_on           = ["file://pelican.toml"]                   # <list[DootTaskArtifact]>
+actions              = [
+                     { do="shell", args=["pelican", "site"] }
+]                                        # <list[Any]>
+
+[[tasks.pelican]]
+name                 = "listen"
+version              = "0.1"                                     # <str>
+ctor                 = "task"                                    # <type>
+doc                  = ["Run pelican"]                           # <list[str]>
+depends_on           = ["file://pelican.toml"]                   # <list[DootTaskArtifact]>
+actions              = [
+                     { do="shell", args=["pelican", "-l", "site"] }
+]                                        # <list[Any]>

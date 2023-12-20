@@ -1,49 +1,30 @@
-action_string_formatting = "new"
-batch                    = {sleep = 5}
-default_tasks            = ["locs::report"]
-notify                   = {say-on-exit = false}
-subtask                  = {sleep = 1}
-verbosity                = 2
+# -*- mode:conf-toml; -*-
+[settings.general]
+notify                   = { say-on-exit = false }
+loaders                  = { commands="default", task="default", parser="default"}
+location_check           = { make_missing = true, print_levels={action="WARN", execute="WARN" } }
+
+[settings.tasks]
+sources = [".tasks"] # Files or directories where task specs can be loaded from, expanded according to [[locations]] keys
+code    = []         # Directories where task specific code can be imported from, expanded according to [[locations]] keys
+sleep   = { task=0.2, subtask=1, batch=1 }
 
 [logging]
-stream = { level = "INFO", format  = "{levelname:<8} : {message}", filters = ["doot"] }
-file   = { level = "DEBUG", format = "{levelname:<8} : {message:<20} : ({module}.{lineno}.{funcName})", filters =  ["doot", "pelican"] }
+stream  = { level="WARN",  allow=["doot"], format="{levelname:<8} : {message}", colour=true }
+file    = { level="DEBUG", allow=["doot"], format="{levelname:<8} : {message:<20} :|: (module:{module} line:{lineno} fn:{funcName})" }
+printer = { level="INFO", colour=true}
 
-[globbing]
-ignores  = ['.git', '.DS_Store', "__pycache__"]
+[plugins]
+# Allows for defining shorthands
+command        = { other-run = "doot.cmds.run_cmd:RunCmd", tasks = "doot.cmds.list_cmd:ListCmd" }
+report-line    = {}
+reporter       = {}
+action         = {}
+tasker         = {}
 
-[[directories]] # core
-temp       = ".temp"
-build      = "build"
-docs       = "orgfiles"
-res        = "resources"
+[commands]
+run = { tracker = "default", runner = "default", reporter= "default", report-line = []}
 
-[[directories]] # github pages / pelican
-site             = "site"
-codegen          = "site/_generated"
-site_build       = "build/site"
-pelican_settings = "pelican.toml"
-
-[[directories]] # libraries
-bibtex         = "resources/bibliography"
-bookmarks      = "resources/bookmarks"
-completions    = "resources/completions"
-tags           = "resources/tags"
-urls           = "resources/urls"
-orgs           = "orgfiles"
-pdfs           = "/Volumes/documents/pdf_library"
-bibtex_working = "/Volumes/documents/in_progress_pdfs/Current/"
-
-[[directories]] # Watch folders
-threads   = "/Volumes/documents/twitter_threads"
-downloads = "~/Downloads"
-desktop   = "~/Desktop"
-dropbox   = "~/Dropbox/docs"
-firefox   = "~/Library/ApplicationSupport/Firefox"
-
-[[files]]
-bib_stub_file   = "resources/todo.bib"
-bookmarks_total = "resources/bookmarks/total.bookmarks"
-
-[bibtex]
-clean_in_place = true
+[[locations]]
+temp    = ".temp"
+site    = "site"
