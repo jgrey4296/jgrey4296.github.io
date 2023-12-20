@@ -1,11 +1,33 @@
 -*- mode: org; -*-
 #+STARTUP: content
-[[/Users/johngrey/doot.toml][doot.toml]]
-[[/Users/johngrey/dooter.py][dooter.py]]
+[[~/doot.toml][doot.toml]]
 [[file:~/github/jgrey4296.github.io][homepage]]
 
 :to-deal-with:
-https://measuringstuff.com/
+https://docs.readthedocs.io/en/stable/
+https://wizardzines.com/comics/ - julia evans
+https://yaml.org/spec/1.2.2/ - YAML
+https://docs.openwdl.org/en/latest/ - workflow description language
+https://support.terra.bio/hc/en-us/articles/360037117492-Overview-Getting-started-with-WDL - tutorial
+https://www.commonwl.org/user_guide/ - common workflow language
+https://aosabook.org/en/ - architecture of open source applications
+https://bibtexparser.readthedocs.io/en/main/index.html
+https://zenodo.org/
+https://gothicpunk.tumblr.com/archive?source=blog_view_login_wall
+https://embrace-autism.com/
+https://javieracordero.notion.site/Job-Application-Manager-fce5406854f0475aa21d5fcd9fa5e668
+https://neverworkintheory.org/ - theory
+https://algorist.com/algorist.html - algorithms
+https://www.probabilitycourse.com/preface.php -math
+https://rmzoo.math.uconn.edu/ - math
+https://stacks.math.columbia.edu/browse - math
+https://us.metamath.org/ - math
+https://www.cut-the-knot.org/ - math
+https://github.com/planetmath
+https://sites.math.washington.edu/~billey/talks/theorem.finder.html - math
+https://trustandsafety.fun/ - paulo pedericini, game design
+https://zenodo.org/ - dataset doi's
+https://www.kalzumeus.com/archive/ - patrick mckenzie blog
 :END:
 
 * Base Agenda
@@ -17,11 +39,11 @@ Death by Institution and the Harms of Abstraction.
 *** [[file:~/github/python/instal][Instal]]
 
 ** Secondary
-*** [[file:~/github/jgrey4296.github.io/orgfiles/quotes][Quotes]]
+*** [[file:~/github/jgrey4296.github.io/wiki/quotes][Quotes]]
 
-*** [[file:~/github/jgrey4296.github.io/orgfiles/taxonomies][Taxonomies]]
+*** [[file:~/github/jgrey4296.github.io/wiki/taxonomies][Taxonomies]]
 
-*** [[~/github/jgrey4296.github.io/orgfiles/taxonomies/DSLs.org][DSLs]]
+*** [[~/github/jgrey4296.github.io/wiki/taxonomies/DSLs.org][DSLs]]
 *** [[file:~/github/bibliography/main][Bibliography]]
 
 *** [[file:~/library/twitter][Twitter Threads]]
