@@ -6,7 +6,7 @@ ctor                 = "task"                                    # <type>
 doc                  = ["Run pelican"]                           # <list[str]>
 depends_on           = ["file://pelican.toml"]                   # <list[DootTaskArtifact]>
 actions              = [
-                     { do="shell", args=["pelican", "site"] }
+                     { do="shell", args=["pelican", "."] }
 ]                                        # <list[Any]>
 
 [[tasks.pelican]]
@@ -16,5 +16,6 @@ ctor                 = "task"                                    # <type>
 doc                  = ["Run pelican"]                           # <list[str]>
 depends_on           = ["file://pelican.toml"]                   # <list[DootTaskArtifact]>
 actions              = [
-                     { do="shell", args=["pelican", "-l", "site"] }
+                     { do="shell", args=["touch", "pelicanconf.py"] },
+                     { do="shell", args=["pelican", "--listen", "--autoreload", "."] }
 ]                                        # <list[Any]>

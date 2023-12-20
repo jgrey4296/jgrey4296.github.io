@@ -27,4 +27,3 @@ run = { tracker = "default", runner = "default", reporter= "default", report-lin
 
 [[locations]]
 temp    = ".temp"
-site    = "site"

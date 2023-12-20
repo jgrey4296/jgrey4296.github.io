@@ -8,9 +8,9 @@ BIND                   =  '127.0.0.1'
 # READERS                = { ".md"="MarkdownReader" }
 
 [paths]
-PATH                        = 'site'
-OUTPUT_PATH                 = '.temp/site'
-THEME                       = 'site/_theme'
+PATH                        = '.'
+OUTPUT_PATH                 = '.site'
+THEME                       = './_theme'
 CACHE_PATH                  = 'cache'
 
 ##-- site.settings
@@ -42,12 +42,12 @@ LINKS                       = []
 SOCIAL                      = []
 
 [site.static]
-STATIC_PATHS                = ['images']
+STATIC_PATHS                = ['images', 'bibliography']
 STATIC_EXCLUDES             = []
 
 [site.articles]
 DEFAULT_CATEGORY       =  'misc'
-ARTICLE_PATHS          =  ["posts", "_posts"]
+ARTICLE_PATHS          =  ["_posts", "_resources"]
 ARTICLE_EXCLUDES       =  []
 FORMATTED_FIELDS       =  ['summary']
 SUMMARY_END_SUFFIX     =  '…'
@@ -55,7 +55,7 @@ SUMMARY_MAX_LENGTH     =  50
 
 [site.pages]
 PAGE_EXCLUDES               =  ['_theme']
-PAGE_PATHS                  =  ['about', 'cv', 'resources']
+PAGE_PATHS                  =  ['pages']
 
 ##-- end site.settings
 
@@ -70,7 +70,7 @@ TEMPLATE_PAGES            = {}
 TEMPLATE_EXTENSIONS       = ['.html']
 THEME_TEMPLATES_OVERRIDES = []
 DIRECT_TEMPLATES          = ['index', 'tags', 'categories', 'archives']
-PAGINATED_TEMPLATES       = {'index' = false, 'tag' = false, 'category' = false,  'author' = false}
+PAGINATED_TEMPLATES       = {'index' = false, 'tag' = false, 'category' = false,  'author' = false, 'resources'= true}
 
 [rst]
 PYGMENTS_RST_OPTIONS           =  {}
@@ -132,7 +132,7 @@ JINJA_TESTS                            =  {}
 [jinja.JINJA_ENVIRONMENT]
 trim_blocks   = true
 lstrip_blocks = true
-extensions    = []
+extensions    = ['jinja2.ext.debug']
 
 ##-- end jinja
 
