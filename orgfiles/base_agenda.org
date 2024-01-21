@@ -2,56 +2,85 @@
 #+STARTUP: content
 [[~/doot.toml][doot.toml]]
 [[file:~/github/jgrey4296.github.io][homepage]]
-
-:to-deal-with:
-https://status.python.org/
-https://networkcultures.org/publications/#tod
-https://docs.readthedocs.io/en/stable/
-https://wizardzines.com/comics/ - julia evans
-https://yaml.org/spec/1.2.2/ - YAML
-https://docs.openwdl.org/en/latest/ - workflow description language
-https://support.terra.bio/hc/en-us/articles/360037117492-Overview-Getting-started-with-WDL - tutorial
-https://www.commonwl.org/user_guide/ - common workflow language
-https://aosabook.org/en/ - architecture of open source applications
-https://bibtexparser.readthedocs.io/en/main/index.html
-https://zenodo.org/
-https://gothicpunk.tumblr.com/archive?source=blog_view_login_wall
-https://embrace-autism.com/
-https://javieracordero.notion.site/Job-Application-Manager-fce5406854f0475aa21d5fcd9fa5e668
-https://neverworkintheory.org/ - theory
-https://algorist.com/algorist.html - algorithms
-https://www.probabilitycourse.com/preface.php -math
-https://rmzoo.math.uconn.edu/ - math
-https://stacks.math.columbia.edu/browse - math
-https://us.metamath.org/ - math
-https://www.cut-the-knot.org/ - math
-https://github.com/planetmath
-https://sites.math.washington.edu/~billey/talks/theorem.finder.html - math
-https://trustandsafety.fun/ - paulo pedericini, game design
-https://zenodo.org/ - dataset doi's
-https://www.kalzumeus.com/archive/ - patrick mckenzie blog
-:END:
+[[file:/media/john/data/github/bibliography/bookmarks/urls.org::*Overview][Links]]
 
 * Base Agenda
 Death by Institution and the Harms of Abstraction.
 
-** Main
-*** [[~/github/python/acab][Acab]]
-*** [[~/github/python/provenance][Provenance]]
-*** [[file:~/github/python/instal][Instal]]
+** TODOs
 
+*** [[file:/media/john/big_ex/audiobooks/todo.org][audiobooks]]
+*** [[file:/media/john/big_ex/library/twitter/todo.org][twitter]]
+*** [[file:/media/john/big_ex/movies/todo.org][movies]]
+*** [[file:/media/john/big_ex/music/todo.org][music]]
+*** [[file:/media/john/big_ex/pictures/todo.org][pictures]]
+*** [[file:/media/john/data/assets/todo.org][assets]]
+*** [[file:/media/john/data/datasets/youtube/todo.org][youtube]]
+*** [[file:/media/john/data/github/_config/todo.org][configs]]
+*** [[file:/media/john/data/github/_misc/dblp/todo.org][dblp]]
+*** [[file:/media/john/data/github/dotnet/todo.org][dotnet]]
+*** [[file:/media/john/data/github/ebook/todo.org][ebooks]]
+*** [[file:/media/john/data/github/godot/todo.org][godot]]
+*** [[file:/media/john/data/github/jvm/todos.org][jvm]]
+*** [[file:/media/john/data/github/lisp/blood/todo.org][blood]]
+*** [[file:/media/john/data/github/lisp/blood_modules/todo.org][blood modules]]
+*** [[file:/media/john/data/github/lisp/todo.org][lisp]]
+*** [[file:/media/john/data/github/python/acab/todo.org][acab]]
+*** [[file:/media/john/data/github/python/cuty/todo.org][cuty]]
+*** [[file:/media/john/data/github/python/doot/todo.org][doot]]
+*** [[file:/media/john/data/github/python/dootle/todo.org][dootle]]
+*** [[file:/media/john/data/github/python/instal/todo.org][instal]]
+*** [[file:/media/john/data/github/python/provenance/todo.org][provenance]]
+*** [[file:/media/john/data/github/python/tomlguard/todo.org][tomlguard]]
+*** [[file:/media/john/data/github/rust/todos.org][rust]]
+*** [[file:/media/john/data/github/bots/todo.org][bots]]
+*** [[file:/media/john/data/github/jgrey4296.github.io/encrypted.org.asc][homepage]]
+**** TODO add javascript
+*** Tasks
+**** [[file:/media/john/data/github/jgrey4296.github.io/.tasks/todo.org][homepage]]
+**** [[file:/media/john/data/github/bibliography/.tasks/todo.org][bibliography]]
+**** TODO backup list cache
+**** TODO TDMQ option instead of individual task listing
+*** TODO quote images -> text
+*** TODO readthedocs
+https://docs.readthedocs.io/en/stable/
+*** TODO 40ksim
+*** TODO railroad diagrams
+https://github.com/tabatkins/railroad-diagrams
+*** TODO floweaver
+https://github.com/ricklupton/floweaver
+*** TODO wayback
+https://akamhy.github.io/waybackpy/
+*** TODO isbn
+https://github.com/JNRowe/pyisbn
+https://github.com/WhyNotHugo/python-barcode
+https://github.com/TorKlingberg/isbn_hyphenate
+*** General Inserts
+**** TODO general-insert : seaborn
+**** TODO general-insert : matplotlib
+**** TODO general-insert : sqlalchemy
+**** TODO general-insert : cairo
+**** TODO general-insert : construct
+**** TODO general-insert : scipy
+**** TODO general-insert : scikit-learn
+**** TODO general-insert : pyparsing
+**** TODO general-insert : networkx
+**** TODO pandas
+*** TODO Definitions
+** Main
+*** [[file:/media/john/data/github/lisp/blood/blood][Blood]]
+*** [[file:/media/john/data/github/python/doot/doot][Doot]]
+*** [[file:/media/john/data/github/python/tomlguard][tomlguard]]
+*** [[file:~/github/python/acab][Acab]]
+*** [[file:~/github/python/instal][Instal]]
+*** [[file:~/github/python/provenance][Provenance]]
 ** Secondary
 *** [[file:~/github/jgrey4296.github.io/wiki/quotes][Quotes]]
-
 *** [[file:~/github/jgrey4296.github.io/wiki/taxonomies][Taxonomies]]
-
 *** [[~/github/jgrey4296.github.io/wiki/taxonomies/DSLs.org][DSLs]]
 *** [[file:~/github/bibliography/main][Bibliography]]
-
 *** [[file:~/library/twitter][Twitter Threads]]
-
 *** [[file:~/github/jgrey4296.github.io/orgfiles/primary/research_questions.org][Research Questions]]
-
 ** Other
 Killing the Black Body or Fatal Invention by @DorothyERoberts
 Medical Apartheid by @haw95
