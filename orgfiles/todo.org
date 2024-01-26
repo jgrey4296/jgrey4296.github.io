@@ -1,23 +1,581 @@
-* Inbox
-** [X] Cron: dropbox/downloads -> current pdfs
+#+TITLE: Todos
 
-[[file:~/Dropbox/docs][file:~/Dropbox/docs]]
-** [X] Cron: github repo url backup
+* Overview
 
-[[file:/Volumes/documents/github/writing/repos][file:/Volumes/documents/github/writing/repos]]
-** [ ] Python Coverage Mode
+* Main
+** doot
+*** Commands
+**** TODO here command
+*** Actions
+**** TODO write protection
+**** TODO shell output redirection
+**** TODO test postbox
+*** mixins
+**** TODO job : generate tasks from postbox entries
+*** other
+**** TODO staleness / date checking
+**** TODO tracker.contains : artifact checks
+**** TODO read/write as implicit dependencies
+**** TODO active_when conditions
+**** TODO task setup/cleanup dependency mixin
+**** TODO same task different args
+*** TODO Wiki / documentation
+*** provenance
+**** Doot Tasks
+***** TODO Pack Dataset
+***** TODO Verify data layer hashes
+***** TODO Metadata
+****** TODO Update
 
-[[file:/Volumes/documents/github/emacs_files/packages/coverage-mode/coverage-mode.el]]
+****** TODO Copy
 
-** [ ] Elixir
+***** TODO Clean old data
+***** TODO Spiders
+***** TODO Reports
+****** TODO List Packed Datasets
+****** TODO List Unpacked Datasets
 
-https://elixir-lang.org/
-** [ ] Python CausalML
+****** TODO Dataset Dates
 
-https://github.com/uber/causalml
-** [ ] Python PySAT
+****** TODO Dataset Tags
 
-https://pysathq.github.io/index.html
-** [ ] Python PonyORM
+****** TODO Dataset Hashes
 
-[[file:/Volumes/documents/github/TEST/python/system][file:/Volumes/documents/github/TEST/python/system]]
+***** TODO Replay File History
+**** Doot Cmds
+***** TODO Enable only in a provenance directory
+
+**** Code
+***** TODO metadata structs
+Metadata needs to be able to show:
+1) where a dataset came from
+2) what has been done to it
+3) what the contents of the dataset are
+4) how to check the above
+
+****** .provenance.toml
+name, tags, source, file_count, file_types,
+notes, initial_date, distance_from_raw_data
+****** .provenance dir
+files/history/environment jsonl files should match
+so line 1 in files -> line 1 in history -> line 1 in environment
+files will always have 1 more line than the others, the head.
+******* files.jsonl
+map files in this data layer to their hashes
+both current and previous layers
+one layer per line, as a dict of relative path -> hash
+#+begin_example
+{ "id": "...", "files": { "a/b/c.txt" : "...", "a/b/d.txt": ..." } }
+{ "id": "...", "files": { "a/b/c.json" : "...", "a/b/d.json": ..." } }
+{ "id": "...", "files": { "a/b/c.dot" : "...", "a/b/d.dot": ..." } }
+#+end_example
+******* history.jsonl
+track the full history of {raw} -> {current}
+of form:
+#+begin_example
+{ "id": "...", from_ids: ["..."], "date": "2023-12-26", "task": "basic::unpack", "sources": ["80977aab0bcb30cb2812b2f604f203e2"], "files_ids": ["..."], "env_id": "..." }
+{ "date": "2023-12-27", "task": "infinity::binary.parse"}
+#+end_example
+******* environment.jsonl
+env summaries of versions used.
+history.jsonl references these
+#+begin_example
+{"id": "...", "versions": {"python": "3.10.2", "doot": "0.0.1", "provenance": "0.0.1", "dootle": "..."} }
+#+end_example
+******* readme.txt
+explain each file format
+******* notes.txt
+******* tasks.toml
+add toml definitions of all tasks to this
+***** TODO Actions
+
+****** TODO copy_provenance_directory
+handle updating the logs
+update .provenance.toml
+****** TODO build_provenance_directory
+don't just touch files, insert templates into them
+****** TODO compress_provenance_files
+****** TODO verify_provenance_files
+***** TODO Spiders
+bay 12
+facebook
+media wiki
+worpress
+uesp
+wtfht
+
+***** TODO Binary Structs
+****** TODO aurora.py
+****** TODO bethesda.py
+****** TODO cd_project_red.py
+****** TODO fallout.py
+****** TODO heroes_2.py
+****** TODO infinity.py
+****** TODO rare.py
+****** TODO relic.py
+****** TODO sims.py
+****** TODO telltale.py
+****** TODO unity.py
+****** TODO unreal.py
+****** TODO valve.py
+***** TODO DSLs
+****** TODO abl.py
+****** TODO asl.py
+****** TODO asp.py
+****** TODO ceptre.py
+****** TODO cplus.py
+****** TODO lua.py
+****** TODO netlogo.py
+****** TODO paradox.py
+****** TODO skyrim.py
+****** TODO soar.py
+****** TODO versu.py
+****** TODO witcher.py
+***** TODO JSON
+****** TODO Obsidian
+***** TODO Lexers
+****** TODO abl.py
+****** TODO asl.py
+****** TODO cartago.py
+****** TODO ccalc.py
+****** TODO ceptre.py
+****** TODO clips.py
+****** TODO instal.py
+****** TODO jacamo.py
+****** TODO kentuckyr0_blocking.py
+****** TODO neverwinter_script.py
+****** TODO papyrus.py
+****** TODO paradox.py
+****** TODO smt.py
+****** TODO soar.py
+****** TODO spiderweb_script.py
+****** TODO unreal.py
+****** TODO versu.py
+****** TODO witcher_script.py
+***** TODO Spreadsheets
+****** TODO CSV
+****** TODO Excel
+***** TODO SWDA
+***** TODO Text
+***** TODO XML
+****** TODO Obsidian
+
+**** Datasets
+
+**** TODO Design
+adapt scrapy's design?
+
+
+*** dootle
+**** actions
+***** TODO dot
+***** TODO downloader
+***** TODO json
+***** TODO ocr
+***** TODO pdf
+***** TODO pdf
+***** TODO plantuml
+***** TODO xml
+***** TODO rng
+**** android
+**** bibtex
+***** middlewares
+****** TODO ideal stemmer
+****** TODO library location enforcer
+****** TODO field lowercaser
+****** TODO year checker
+****** TODO title split
+****** TODO output name formatting
+****** TODO ISBN formatting
+****** TODO pdf metadata application
+****** TODO Url way-backer / checker
+****** TODO &amp; -> \&
+****** TODO reporters - author/editor counts, year entries, types, entries with files
+****** TODO journal/booktitle caps normalization
+****** TODO warn on missing doi/tags/url
+**** bookmarks
+***** TODO alchemy fns
+
+**** epub
+***** TODO compile
+***** TODO split
+
+**** godot
+**** latex
+**** python
+***** TODO increment version
+***** TODO pip build
+***** TODO local install
+***** TODO pipreqs
+**** sphinx
+***** TODO build
+***** TODO serve
+**** pelican
+**** spiders
+***** TODO tests
+***** TODO locations integration
+**** tags
+***** TODO clean
+
+**** TODO encryption
+**** TODO gradle
+**** TODO clingo
+
+*** TODO floweaver
+https://github.com/ricklupton/floweaver
+
+*** TODO isbn
+https://github.com/JNRowe/pyisbn
+https://github.com/WhyNotHugo/python-barcode
+https://github.com/TorKlingberg/isbn_hyphenate
+*** TODO railroad diagrams
+https://github.com/tabatkins/railroad-diagrams
+*** TODO readthedocs
+https://docs.readthedocs.io/en/stable/
+*** TODO quote images -> text
+*** TODO wayback
+https://akamhy.github.io/waybackpy/
+
+*** DBLP
+**** ISSNs
+***** TODO Journal of Political Economy: 00223808
+https://www.jstor.org/journal/jpoliecon
+
+***** TODO AI Magazine: 2371-9621, 0738-4602
+https://dblp.org/db/journals/aim/index.html
+
+***** TODO Artificial Intelligence: 0004-3702
+https://dblp.org/db/journals/ai/index.html
+
+***** TODO JASSS: 1460-7425
+https://dblp.org/db/journals/jasss/index.html
+
+***** TODO computers in human behavior: 0747-5632
+https://dblp.org/db/journals/chb/index.html
+
+***** TODO ACM Transactions on Programming Languages and Systems (TOPLAS) : 0164-0925, 1558-4592
+https://dblp.org/db/journals/toplas/index.html
+
+***** TODO Foundations and Trends in Programming Languages: 2325-1107, 2325-1131
+https://dblp.org/db/journals/ftpl/index.html
+
+***** TODO Journal of Programming Languages: 0963-9306
+https://dblp.org/db/journals/jpl/index.html
+
+***** TODO Organization Science: 1047-7039, 1526-5455
+https://dblp.org/db/journals/orgsci/index.html
+
+***** TODO International Journal of Human-Computer Interaction: 1044-7318, 1532-7590
+https://dblp.org/db/journals/ijhci/index.html
+
+**** TODO Proceedings
+
+***** TODO ACM-SIGACT Symposium on Principles of Programming Languages (POPL)
+https://dblp.org/db/conf/popl/index.html
+
+***** TODO ACM-SIGPLAN Symposium on Programming Language Design and Implementation (PLDI)
+https://dblp.org/db/conf/pldi/index.html
+
+***** TODO History of Programming Languages (HOPL)
+https://dblp.org/db/conf/hopl/index.html
+
+***** TODO Language Design and Programming Methodology
+https://dblp.org/db/conf/ldpm/index.html
+
+***** TODO Workshop on Evaluation and Usability of Programming Languages and Tools (PLATEAU)
+https://dblp.org/db/conf/plateau/index.html
+
+***** TODO Symposium on Programming Languages and Software Tools (SPLST)
+https://dblp.org/db/conf/splst/index.html
+
+** ebooks
+*** epubs
+**** TODO Abnett_2004_Eisenhorn_Omnibus.epub
+**** TODO Abnett_2008_Titanicus.epub
+**** TODO Aristotle_1998_Metaphysics.epub
+**** TODO Banks_1987_Consider_Phlebas_d5bab.epub
+**** TODO Banks_1987_Consider_Phlebas.epub
+**** TODO Bergson_1913_Laughter.epub
+**** TODO Bester_1981_The_Deceivers.epub
+**** TODO Bush_1945_As_We_May_Think.epub
+**** TODO Camic_2011_The_Essential_Writings_of_Thorstein_Vebl.epub
+**** TODO Card_2006_The_Cambridge_Companion_to_Simone_De_Bea.epub
+**** TODO Croshaw_2022_Will_Save_the_Galaxy_for_Food.epub
+**** TODO De_1949_The_Second_Sex.epub
+**** TODO Drucker_1998_On_the_Profession_of_Management.epub
+**** TODO Dunn_2012_The_Primarchs.epub
+**** TODO Dunn_2016_The_Silent_War.epub
+**** TODO Eberl_2008_Battlestar_Galactica_and_Philosophy.epub
+**** TODO Fadiman_2000_Ex_Libris.epub
+**** TODO Galbraith_1955_The_Great_Crash_1929.epub
+**** TODO Galbraith_1983_The_Anatomy_of_Power.epub
+**** TODO George_2005_Case_Studies_and_Theory_Development_in_t.epub
+**** TODO Miceli_2015_Expectancy_and_Emotion.epub
+**** TODO Mieville_2011_Embassytown.epub
+**** TODO Okrent_2009_In_the_Land_of_Invented_Languages_Esper.epub
+**** TODO Plato_2004_The_Laws.epub
+**** TODO Pratchett_1991_Reaper_Man.epub
+**** TODO Pratchett_1991_Witches_Abroad.epub
+**** TODO Pratchett_1992_Lords_and_Ladies.epub
+**** TODO Pratchett_1993_Men_At_Arms.epub
+**** TODO Pratchett_1994_Interesting_Times.epub
+**** TODO Pratchett_1996_Feet_of_Clay.epub
+**** TODO Pratchett_1996_Hogfather.epub
+**** TODO Pratchett_1997_Jingo.epub
+**** TODO Pratchett_2001_Thief_of_Time.epub
+**** TODO Pratchett_2002_Night_Watch.epub
+**** TODO Pratchett_2003_Monstrous_Regiment.epub
+**** TODO Pratchett_2004_Going_Postal.epub
+**** TODO Pratchett_2005_Thud_.epub
+**** TODO Pratchett_2007_Making_Money.epub
+**** TODO Pratchett_2010_I_Shall_Wear_Midnight.epub
+**** TODO Pratchett_2011_Snuff.epub
+**** TODO Pratchett_2013_Raising_Steam.epub
+**** TODO Pryor_2010_The_making_of_the_British_landscape.epub
+**** TODO Reid_2005_United_We_Stand.epub
+**** TODO Rowling_2007_Harry_Potter.epub
+**** TODO Scalzi_2005_Old_Man_s_War.epub
+**** TODO Scalzi_2022_The_Kaiju_Preservation_Society.epub
+**** TODO Szczesnik_2016_Unity_5_x_Animation_Cookbook.epub
+
+*** TODO erin
+*** TODO police violence
+*** TODO phil agre
+** emacs
+*** python
+**** TODO refine add-import
+*** bibtex
+**** TODO map :type -> bibtex types
+**** TODO remove empty fields
+*** bindings
+**** TODO wipe global map C- and M-
+
+
+** godot
+*** android test
+**** TODO touch detection
+** lisp
+*** TODO blood
+*** Blood Modules
+**** STRT Basic Profile
+***** TODO config default
+***** TODO config disabled
+***** TODO config help
+***** TODO config search
+***** TODO config ui
+***** TODO editor buffer-nav
+***** TODO editor evil
+***** TODO editor text-manipulation
+***** TODO editor undo
+***** TODO editor window-nav
+***** TODO tools dired
+***** TODO ui helm
+***** TODO ui hydra
+***** TODO ui ibuffer
+***** TODO ui ivy
+***** TODO ui minibuffer
+***** TODO ui ophints
+***** TODO ui popup
+***** TODO lang-weakly-typed lisp-langs
+***** TODO lang-weakly-typed python
+**** WAIT Modules
+***** WAIT config
+****** WAIT bindings
+****** WAIT default
+****** WAIT disabled
+****** WAIT help
+****** WAIT linux
+****** WAIT mac
+****** WAIT search
+****** WAIT ui
+****** WAIT windows
+***** WAIT editor
+****** WAIT autosave
+****** WAIT buffer-nav
+****** WAIT evil
+****** WAIT fold
+****** WAIT large-files
+****** WAIT tagging
+****** WAIT text-manipulation
+****** WAIT undo
+****** WAIT window-nav
+***** WAIT experimentation
+***** WAIT ide
+****** WAIT company
+****** WAIT debugger
+****** WAIT diff
+****** WAIT librarian
+****** WAIT minimap
+****** WAIT snippets
+****** WAIT support
+****** WAIT version-control
+****** WAIT workspaces
+***** WAIT lang-data
+****** WAIT csv
+****** WAIT dot
+****** WAIT graphql
+****** WAIT json
+****** WAIT logs
+****** WAIT nu
+****** WAIT sql
+****** WAIT toml
+****** WAIT xml
+****** WAIT yaml
+***** WAIT lang-dsl
+****** WAIT acab
+****** WAIT ai-and-logic
+****** WAIT music
+****** WAIT nix
+****** WAIT qt
+****** WAIT rest
+****** WAIT sh
+***** WAIT lang-strongly-typed
+****** WAIT coq
+****** WAIT dotnet-langs
+****** WAIT fstar
+****** WAIT haskell
+****** WAIT idris
+****** WAIT jvm-langs
+****** WAIT lean
+****** WAIT ml-langs
+****** WAIT rust
+***** WAIT lang-text
+****** WAIT bibtex
+****** WAIT inform
+****** WAIT latex
+****** WAIT markdown
+****** WAIT org
+****** WAIT plantuml
+****** WAIT rst
+****** WAIT web
+***** WAIT lang-weakly-typed
+****** WAIT erlang-vms
+****** WAIT godot
+****** WAIT lisp-langs
+****** WAIT lua
+****** WAIT python
+****** WAIT ruby
+***** WAIT tools
+****** WAIT calendar
+****** WAIT dired
+****** WAIT eval
+****** WAIT mail
+****** WAIT pdfs
+****** WAIT processes
+****** WAIT term
+***** WAIT ui
+****** WAIT doom-ui
+****** WAIT helm
+****** WAIT hydra
+****** WAIT ibuffer
+****** WAIT ivy
+****** WAIT minibuffer
+****** WAIT ophints
+****** WAIT popup
+**** other
+***** TODO refactor doom specific -> general
+
+**** carousel-minor-mode
+**** code-shy-minor-mode
+**** env-handling
+**** evil-escape-hook
+**** evil-states-plus
+**** hydra-macros
+**** librarian
+**** misc-modes
+**** project-zimmerframe
+**** spec-handling
+**** transient-macros
+**** TODO timeline insert
+**** TODO general-insert highlighting mode
+** python
+*** TODO 40ksim
+*** TODO py-timeline
+https://www.gnu.org/software/gcal/manual/gcal.html
+** rust
+*** TODO rust <-> emacs
+*** TODO rust <-> python
+** sitemaps
+*** TODO boingboing
+*** TODO boykiss
+*** TODO critical-distance
+*** TODO doctorow
+*** TODO federalist
+*** TODO hansard
+*** TODO journals
+*** TODO jstor
+*** TODO koster
+*** TODO media_matters
+*** TODO mit
+*** TODO news_sitemaps
+*** TODO porn
+*** TODO propublica
+*** TODO sciencedirect
+*** TODO scifi_ruminations
+*** TODO scotus_blog
+*** TODO springer
+*** TODO techdirt
+*** TODO the_nation
+*** TODO the_trace
+*** TODO variancehammer
+*** TODO ceur-ws-index.xml
+*** TODO game_philosophy.xml
+*** TODO papersindex.xml
+*** TODO paul_mcguire.xml
+*** TODO pentiment.xml
+*** TODO talks-2022.xml
+*** TODO verso.xml
+
+
+** tasks
+*** homepage
+**** TODO rebuild site
+**** TODO add/remove empty pelicanconf.py
+*** bibliography
+
+**** split
+***** TODO plus/anthology
+***** TODO plus/ai_reviews
+
+**** Listings
+***** TODO list books
+***** TODO list proceedings
+***** TODO list journals
+
+**** verify
+***** TODO wayback urls
+***** TODO check for predatory journals
+***** TODO check for predatory publishers
+***** TODO remove duplicates
+
+**** build
+***** TODO compile main
+***** TODO compile individuals
+***** TODO compile conferences
+***** TODO compile journals
+***** TODO rebuild tags
+***** TODO clean tags
+***** TODO build stubs
+
+**** other
+***** TODO parse ceur
+
+**** xml
+***** TODO parse and extract
+
+*** TODO backup list cache
+*** TODO TDMQ option instead of individual task listing
+** templates
+*** TODO Definitions
+*** General Inserts
+**** TODO general-insert : seaborn
+**** TODO general-insert : matplotlib
+**** TODO general-insert : sqlalchemy
+**** TODO general-insert : cairo
+**** TODO general-insert : construct
+**** TODO general-insert : scipy
+**** TODO general-insert : scikit-learn
+**** TODO general-insert : pyparsing
+**** TODO general-insert : networkx
+**** TODO pandas
+* Links
