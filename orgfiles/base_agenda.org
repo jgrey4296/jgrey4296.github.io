@@ -5,6 +5,8 @@
 
 [[file:todo.org::+TITLE: Todos][todos]]
 
+ddgr --np -x --site lego.com pdf filetype:pdf
+
 * Base Agenda
 Death by Institution and the Harms of Abstraction.
 
