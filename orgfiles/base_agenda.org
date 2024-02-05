@@ -3,8 +3,8 @@
 [[~/doot.toml][doot.toml]]
 [[file:~/github/jgrey4296.github.io][homepage]]
 
-[[file:todo.org::+TITLE: Todos][todos]]
-
+https://justhackerthings.com/post/using-tor-from-the-command-line/
+torsocks
 ddgr --np -x --site lego.com pdf filetype:pdf
 
 * Base Agenda
@@ -16,11 +16,11 @@ Death by Institution and the Harms of Abstraction.
 *** [[file:/media/john/data/github/python/tomlguard][tomlguard]]
 *** [[file:~/github/python/acab][Acab]]
 *** [[file:~/github/python/instal][Instal]]
-*** [[file:~/github/python/provenance][Provenance]]
+*** [[file:~/github/python/corana][Corana]]
 ** Secondary
-*** [[file:~/github/jgrey4296.github.io/wiki/quotes][Quotes]]
-*** [[file:~/github/jgrey4296.github.io/wiki/taxonomies][Taxonomies]]
-*** [[~/github/jgrey4296.github.io/wiki/taxonomies/DSLs.org][DSLs]]
+*** [[file:~/github/jgrey4296.github.io/_wiki/quotes][Quotes]]
+*** [[file:~/github/jgrey4296.github.io/_wiki/taxonomies][Taxonomies]]
+*** [[~/github/jgrey4296.github.io/wiki/_taxonomies/DSLs.org][DSLs]]
 *** [[file:~/github/bibliography/main][Bibliography]]
 *** [[file:~/library/twitter][Twitter Threads]]
 *** [[file:~/github/jgrey4296.github.io/orgfiles/primary/research_questions.org][Research Questions]]
@@ -42,3 +42,4 @@ index xkcd using explainxkcd
 fictional syllabi - both of actual papers, and lem-like
 
 ** [[file:/media/john/data/github/bibliography/bookmarks/urls.org::*Overview][Links]]
+** [[file:todo.org][Todos]]

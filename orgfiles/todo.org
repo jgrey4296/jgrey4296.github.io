@@ -2,15 +2,98 @@
 
 * Overview
 
+* Tasks                                           :tasks:
+** homepage                                      :homepage:
+*** TODO rebuild site
+*** TODO add/remove empty pelicanconf.py
+*** TODO style
+** bibliography                                  :bibliography:
+
+*** split
+**** TODO plus/anthology
+**** TODO plus/ai_reviews
+
+*** Listings
+**** TODO list books
+**** TODO list proceedings
+**** TODO list journals
+
+*** verify
+**** TODO wayback urls
+**** TODO check for predatory journals
+**** TODO check for predatory publishers
+**** TODO remove duplicates
+
+*** build
+**** TODO compile main
+**** TODO compile individuals
+**** TODO compile conferences
+**** TODO compile journals
+**** TODO rebuild tags
+**** TODO clean tags
+**** TODO build stubs
+
+*** other
+**** TODO parse ceur
+
+*** xml
+**** TODO [#B] parse and extract
+*** TODO [#A] parse youtube data
+** TODO backup list cache
+
 * Main
-** doot
-*** Commands
+** doot                                          :doot:
+*** commands                                    :commands:
 **** TODO here command
-*** Actions
+*** actions                                     :actions:
 **** TODO write protection
 **** TODO shell output redirection
 **** TODO test postbox
-*** mixins
+**** [ ] DootKey action decorator
+#+NAME: example
+#+begin_src python :results output
+	@DootKeyWrap.path("from", as="different")
+    @DootKeyWrap.expand("target")
+    @DootKeyWrap.redirect("update_")
+    def an_action(spec, state, different, target, update):
+        # do stuff
+        return { update : target }
+#+end_src
+
+would allow automatic annotation for stubbing,
+type declarations,
+
+for multiples:?
+#+begin_src python
+  @DootKeyWrap.paths("from", "to", "other")
+  def an_action(spec, state, from, to, other):
+      pass
+#+end_src
+
+get spec args:
+#+begin_src python
+  @DootKeyWrap.args
+  def an_action(spec, state, args):
+      pass
+#+end_src
+
+typechecking:
+#+begin_src python
+  @DootKeyWrap.type("db", type_=BibtexDataBase)
+  def an_action(spec, state, db:BibTexDataBase):
+      pass
+#+end_src
+
+require it be in the spec/state,
+or require a return
+#+begin_src python
+  @DootKeyWrap.require("update_")
+  @DootKeyWrap.returns("val")
+  def an_action(spec, state):
+      pass
+#+end_src
+
+*** mixins                                      :mixins:
 **** TODO job : generate tasks from postbox entries
 *** other
 **** TODO staleness / date checking
@@ -20,8 +103,7 @@
 **** TODO active_when conditions
 **** TODO task setup/cleanup dependency mixin
 **** TODO same task different args
-*** TODO Wiki / documentation
-*** provenance
+*** corana                                      :corana:
 **** Doot Tasks
 ***** TODO Pack Dataset
 ***** TODO Verify data layer hashes
@@ -46,7 +128,7 @@
 **** Doot Cmds
 ***** TODO Enable only in a provenance directory
 
-**** Code
+**** Code                                      :code:
 ***** TODO metadata structs
 Metadata needs to be able to show:
 1) where a dataset came from
@@ -161,14 +243,12 @@ wtfht
 ***** TODO XML
 ****** TODO Obsidian
 
-**** Datasets
-
-**** TODO Design
+**** TODO Datasets                             :dataset:
+**** TODO Design                               :design:
 adapt scrapy's design?
 
-
-*** dootle
-**** actions
+*** dootle                                      :dootle:
+**** actions                                   :actions:
 ***** TODO dot
 ***** TODO downloader
 ***** TODO json
@@ -221,23 +301,24 @@ adapt scrapy's design?
 **** TODO encryption
 **** TODO gradle
 **** TODO clingo
-
-*** TODO floweaver
+*** experiments                                 :experiment:
+**** TODO TDMQ option instead of individual task listing
+**** TODO floweaver                             :add:
 https://github.com/ricklupton/floweaver
 
-*** TODO isbn
+**** TODO isbn
 https://github.com/JNRowe/pyisbn
 https://github.com/WhyNotHugo/python-barcode
 https://github.com/TorKlingberg/isbn_hyphenate
-*** TODO railroad diagrams
+**** TODO railroad diagrams
 https://github.com/tabatkins/railroad-diagrams
-*** TODO readthedocs
+**** TODO readthedocs
 https://docs.readthedocs.io/en/stable/
-*** TODO quote images -> text
-*** TODO wayback
+**** TODO quote images -> text
+**** TODO wayback
 https://akamhy.github.io/waybackpy/
 
-*** DBLP
+*** DBLP                                        :dblp:
 **** ISSNs
 ***** TODO Journal of Political Economy: 00223808
 https://www.jstor.org/journal/jpoliecon
@@ -288,8 +369,7 @@ https://dblp.org/db/conf/plateau/index.html
 
 ***** TODO Symposium on Programming Languages and Software Tools (SPLST)
 https://dblp.org/db/conf/splst/index.html
-
-** ebooks
+** ebooks                                        :ebooks:
 *** epubs
 **** TODO Abnett_2004_Eisenhorn_Omnibus.epub
 **** TODO Abnett_2008_Titanicus.epub
@@ -342,22 +422,63 @@ https://dblp.org/db/conf/splst/index.html
 *** TODO erin
 *** TODO police violence
 *** TODO phil agre
-** emacs
+** emacs                                         :emacs:
 *** python
 **** TODO refine add-import
 *** bibtex
 **** TODO map :type -> bibtex types
 **** TODO remove empty fields
+**** TODO use spec handler for jg-bibtex-completion-display-formats
 *** bindings
 **** TODO wipe global map C- and M-
 
-
-** godot
+** godot                                         :godot:
 *** android test
 **** TODO touch detection
-** lisp
-*** TODO blood
-*** Blood Modules
+** lisp                                          :lisp:
+*** TODO blood                                  :blood:
+**** Testing                                   :test:
+***** TODO deferral
+***** TODO profile/module/package building
+***** TODO dag
+***** TODO logging
+***** TODO sync
+***** TODO trace
+***** TODO force terminal
+***** TODO inhibitions
+***** TODO caches
+***** TODO native compilation
+***** TODO straight setup
+***** TODO bootstraps
+***** TODO cleaning
+***** TODO cli control
+**** Features                                  :feature:
+***** bootstrap
+***** clean
+***** core
+***** dag
+***** deferral
+***** defs
+***** early-init
+***** hooks
+***** log
+***** modules
+****** TODO package autoloads
+****** TODO setup advice
+****** TODO setup hooks
+***** profile
+***** report
+***** stub
+***** sync
+***** trace
+***** utils
+****** TODO advise load
+***** native
+***** straight
+****** TODO convert package specs to straight recipes
+****** TODO disable straights popups
+
+*** Blood Modules                               :module:
 **** STRT Basic Profile
 ***** TODO config default
 ***** TODO config disabled
@@ -473,30 +594,38 @@ https://dblp.org/db/conf/splst/index.html
 ****** WAIT minibuffer
 ****** WAIT ophints
 ****** WAIT popup
-**** other
-***** TODO refactor doom specific -> general
+**** TODO [#A] key binding replacement
+*** other                                       :refactor:
+**** TODO refactor doom specific -> general
 
-**** carousel-minor-mode
-**** code-shy-minor-mode
-**** env-handling
-**** evil-escape-hook
-**** evil-states-plus
-**** hydra-macros
-**** librarian
-**** misc-modes
-**** project-zimmerframe
-**** spec-handling
-**** transient-macros
-**** TODO timeline insert
-**** TODO general-insert highlighting mode
-** python
+*** carousel-minor-mode
+*** code-shy-minor-mode
+*** env-handling
+*** evil-escape-hook
+*** evil-states-plus
+*** hydra-macros
+*** librarian
+*** misc-modes
+*** project-zimmerframe
+*** spec-handling
+*** transient-macros
+*** TODO timeline insert
+*** TODO general-insert highlighting mode
+*** TODO key-clean
+** python                                        :python:
 *** TODO 40ksim
-*** TODO py-timeline
+*** TODO py-timeline                            :experiment:
 https://www.gnu.org/software/gcal/manual/gcal.html
-** rust
+*** acab
+**** TODO finish refactor and simplification
+*** cuty
+**** TODO update to work with doot
+*** instal
+**** TODO reintegrate original pytests
+** rust                                          :rust:
 *** TODO rust <-> emacs
 *** TODO rust <-> python
-** sitemaps
+** sitemaps                                      :sitemaps:
 *** TODO boingboing
 *** TODO boykiss
 *** TODO critical-distance
@@ -527,48 +656,9 @@ https://www.gnu.org/software/gcal/manual/gcal.html
 *** TODO talks-2022.xml
 *** TODO verso.xml
 
-
-** tasks
-*** homepage
-**** TODO rebuild site
-**** TODO add/remove empty pelicanconf.py
-*** bibliography
-
-**** split
-***** TODO plus/anthology
-***** TODO plus/ai_reviews
-
-**** Listings
-***** TODO list books
-***** TODO list proceedings
-***** TODO list journals
-
-**** verify
-***** TODO wayback urls
-***** TODO check for predatory journals
-***** TODO check for predatory publishers
-***** TODO remove duplicates
-
-**** build
-***** TODO compile main
-***** TODO compile individuals
-***** TODO compile conferences
-***** TODO compile journals
-***** TODO rebuild tags
-***** TODO clean tags
-***** TODO build stubs
-
-**** other
-***** TODO parse ceur
-
-**** xml
-***** TODO parse and extract
-
-*** TODO backup list cache
-*** TODO TDMQ option instead of individual task listing
-** templates
+** templates                                     :templates:
 *** TODO Definitions
-*** General Inserts
+*** General Inserts                             :gen_insert:
 **** TODO general-insert : seaborn
 **** TODO general-insert : matplotlib
 **** TODO general-insert : sqlalchemy
@@ -579,4 +669,47 @@ https://www.gnu.org/software/gcal/manual/gcal.html
 **** TODO general-insert : pyparsing
 **** TODO general-insert : networkx
 **** TODO pandas
+** jacamo                                        :jacamo:
+** dotnet                                        :dotnet:
+** bots                                          :bots:
+*** TODO boards of directors
+* bibliography                                    :bibliography:
+** TODO in_progress
+** TODO conferences
+** TODO journals
+** TODO individuals
+** TODO favourites
+** TODO scifi
+** TODO aisb
+** tags                                          :tag:
+*** TODO integrate new
+* Wikis                                           :wiki:
+** TODO acab
+** TODO bibliography
+** TODO blood
+** TODO config
+** TODO corana
+** TODO cuty
+** TODO doot
+** TODO dootle
+** homepage
+*** main                                        :main:
+**** TODO 40k editions
+**** TODO isaac synergies
+**** TODO civ techtrees
+**** TODO cod mecahnics
+**** TODO QTES
+**** TODO goms
+*** quotes
+**** TODO clean
+*** taxonomies
+**** TODO clean
+
+** TODO instal
+** TODO librarian
+** TODO pelican-tomlconf
+** TODO sphinx-tomlconf
+** TODO templates
+** TODO tomlguard
+* TODO Job                                        :job:
 * Links
