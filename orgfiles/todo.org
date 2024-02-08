@@ -8,12 +8,11 @@
 *** TODO add/remove empty pelicanconf.py
 *** TODO style
 ** bibliography                                  :bibliography:
-
 *** split
 **** TODO plus/anthology
 **** TODO plus/ai_reviews
 
-*** Listings
+*** listings
 **** TODO list books
 **** TODO list proceedings
 **** TODO list journals
@@ -32,24 +31,57 @@
 **** TODO rebuild tags
 **** TODO clean tags
 **** TODO build stubs
-
+**** TODO build timeline for tag
 *** other
 **** TODO parse ceur
-
+**** TODO bib format, for plus
 *** xml
-**** TODO [#B] parse and extract
-*** TODO [#A] parse youtube data
-** TODO backup list cache
+**** TODO [#B] parse and extract dblp
+**** sitemaps                                   :sitemaps:
+***** TODO boingboing
+***** TODO boykiss
+***** TODO critical-distance
+***** TODO doctorow
+***** TODO federalist
+***** TODO hansard
+***** TODO journals
+***** TODO jstor
+***** TODO koster
+***** TODO media_matters
+***** TODO mit
+***** TODO news_sitemaps
+***** TODO porn
+***** TODO propublica
+***** TODO sciencedirect
+***** TODO scifi_ruminations
+***** TODO scotus_blog
+***** TODO springer
+***** TODO techdirt
+***** TODO the_nation
+***** TODO the_trace
+***** TODO variancehammer
+***** TODO ceur-ws-index.xml
+***** TODO game_philosophy.xml
+***** TODO papersindex.xml
+***** TODO paul_mcguire.xml
+***** TODO pentiment.xml
+***** TODO talks-2022.xml
+***** TODO verso.xml
 
+
+*** TODO [#A] parse youtube data
 * Main
 ** doot                                          :doot:
 *** commands                                    :commands:
 **** TODO here command
+**** TODO help command print toml cli's separate
+**** TODO help command add mixin's as targets
 *** actions                                     :actions:
 **** TODO write protection
+**** TODO add postbox decorators like keys
 **** TODO shell output redirection
 **** TODO test postbox
-**** [ ] DootKey action decorator
+**** DONE DootKey action decorator
 #+NAME: example
 #+begin_src python :results output
 	@DootKeyWrap.path("from", as="different")
@@ -92,17 +124,39 @@ or require a return
   def an_action(spec, state):
       pass
 #+end_src
-
+**** TODO regex filter shell action to replace called sed
+**** TODO shell action fail handler
 *** mixins                                      :mixins:
-**** TODO job : generate tasks from postbox entries
+**** [ ] [#B] job : generate tasks from postbox entries
+**** TODO task on-fail actions
+**** DONE job pattern matcher
+**** TODO task setup/cleanup dependency mixin
+**** TODO runner fail handler
 *** other
 **** TODO staleness / date checking
+**** TODO refactor sname
 **** TODO tracker.contains : artifact checks
 **** TODO date tracker
 **** TODO read/write as implicit dependencies
 **** TODO active_when conditions
-**** TODO task setup/cleanup dependency mixin
 **** TODO same task different args
+**** TODO use cli param constraints in cli parsing
+**** TODO tracker handling of adding unambiguous group-less task names
+**** TODO update task spec version
+#+begin_src toml :results output
+[[tasks.group]]
+name = "blah"
+# Old:
+version = "0.1"
+# New:
+version = {"task": "0.1", "doot": ">0.5.1", "dootle" : "<0.2.1" ... }
+# and check the version on build
+# similarly:
+depends_on = ["another::task, 0.2.1","and::another, >0.1"]
+#+end_src
+
+
+**** TODO backup list cache
 *** corana                                      :corana:
 **** Doot Tasks
 ***** TODO Pack Dataset
@@ -429,6 +483,8 @@ https://dblp.org/db/conf/splst/index.html
 **** TODO map :type -> bibtex types
 **** TODO remove empty fields
 **** TODO use spec handler for jg-bibtex-completion-display-formats
+**** TODO minimal bibtex library
+to remove need for ivy-bibtex, parsebib, citeproc, org-ref
 *** bindings
 **** TODO wipe global map C- and M-
 
@@ -609,7 +665,7 @@ https://dblp.org/db/conf/splst/index.html
 *** project-zimmerframe
 *** spec-handling
 *** transient-macros
-*** TODO timeline insert
+*** TODO [#B] timeline insert
 *** TODO general-insert highlighting mode
 *** TODO key-clean
 ** python                                        :python:
@@ -625,37 +681,6 @@ https://www.gnu.org/software/gcal/manual/gcal.html
 ** rust                                          :rust:
 *** TODO rust <-> emacs
 *** TODO rust <-> python
-** sitemaps                                      :sitemaps:
-*** TODO boingboing
-*** TODO boykiss
-*** TODO critical-distance
-*** TODO doctorow
-*** TODO federalist
-*** TODO hansard
-*** TODO journals
-*** TODO jstor
-*** TODO koster
-*** TODO media_matters
-*** TODO mit
-*** TODO news_sitemaps
-*** TODO porn
-*** TODO propublica
-*** TODO sciencedirect
-*** TODO scifi_ruminations
-*** TODO scotus_blog
-*** TODO springer
-*** TODO techdirt
-*** TODO the_nation
-*** TODO the_trace
-*** TODO variancehammer
-*** TODO ceur-ws-index.xml
-*** TODO game_philosophy.xml
-*** TODO papersindex.xml
-*** TODO paul_mcguire.xml
-*** TODO pentiment.xml
-*** TODO talks-2022.xml
-*** TODO verso.xml
-
 ** templates                                     :templates:
 *** TODO Definitions
 *** General Inserts                             :gen_insert:
@@ -690,7 +715,7 @@ https://www.gnu.org/software/gcal/manual/gcal.html
 ** TODO config
 ** TODO corana
 ** TODO cuty
-** TODO doot
+** TODO [#A] doot
 ** TODO dootle
 ** homepage
 *** main                                        :main:

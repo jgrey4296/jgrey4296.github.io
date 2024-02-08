@@ -16,3 +16,4 @@ resources/tag_timelines/
 /posts
 /.temp
 /resources/todo.bib
+pelicanconf.py
