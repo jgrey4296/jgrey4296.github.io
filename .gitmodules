@@ -1,3 +1,6 @@
-[submodule "wiki"]
-	path = wiki
+[submodule "wiki_"]
+	path = wiki_
 	url = git@github.com:jgrey4296/jgrey4296.github.io.wiki.git
+[submodule ".site"]
+	path = .site
+	url = git@github.com:jgrey4296/jgrey4296.github.io.git

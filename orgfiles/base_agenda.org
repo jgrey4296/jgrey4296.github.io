@@ -7,6 +7,14 @@ https://justhackerthings.com/post/using-tor-from-the-command-line/
 torsocks
 ddgr --np -x --site lego.com pdf filetype:pdf
 
+* TOC :toc:
+- [[#base-agenda][Base Agenda]]
+  - [[#main][Main]]
+  - [[#secondary][Secondary]]
+  - [[#other][Other]]
+  - [[#links][Links]]
+  - [[#todos][Todos]]
+
 * Base Agenda
 Death by Institution and the Harms of Abstraction.
 

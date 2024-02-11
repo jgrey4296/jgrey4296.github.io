@@ -1,6 +1,48 @@
 #+TITLE: Todos
 
-* Overview
+* Overview :toc:
+- [[#tasks][Tasks]]
+  - [[#homepage][homepage]]
+  - [[#bibliography][bibliography]]
+- [[#main][Main]]
+  - [[#doot][doot]]
+  - [[#ebooks][ebooks]]
+  - [[#emacs][emacs]]
+  - [[#godot][godot]]
+  - [[#lisp][lisp]]
+  - [[#python][python]]
+  - [[#rust][rust]]
+  - [[#templates][templates]]
+  - [[#jacamo][jacamo]]
+  - [[#dotnet][dotnet]]
+  - [[#bots][bots]]
+- [[#bibliography-1][bibliography]]
+  - [[#in_progress][in_progress]]
+  - [[#conferences][conferences]]
+  - [[#journals][journals]]
+  - [[#individuals][individuals]]
+  - [[#favourites][favourites]]
+  - [[#scifi][scifi]]
+  - [[#aisb][aisb]]
+  - [[#tags][tags]]
+- [[#wikis][Wikis]]
+  - [[#acab][acab]]
+  - [[#bibliography-2][bibliography]]
+  - [[#blood][blood]]
+  - [[#config][config]]
+  - [[#corana][corana]]
+  - [[#cuty][cuty]]
+  - [[#strt-a-doot][STRT [#A] doot]]
+  - [[#dootle][dootle]]
+  - [[#homepage-1][homepage]]
+  - [[#instal][instal]]
+  - [[#librarian][librarian]]
+  - [[#pelican-tomlconf][pelican-tomlconf]]
+  - [[#sphinx-tomlconf][sphinx-tomlconf]]
+  - [[#templates-1][templates]]
+  - [[#tomlguard][tomlguard]]
+- [[#job][Job]]
+- [[#links][Links]]
 
 * Tasks                                           :tasks:
 ** homepage                                      :homepage:
@@ -67,8 +109,7 @@
 ***** TODO pentiment.xml
 ***** TODO talks-2022.xml
 ***** TODO verso.xml
-
-
+**** TODO thompson motifs
 *** TODO [#A] parse youtube data
 * Main
 ** doot                                          :doot:
@@ -126,6 +167,7 @@ or require a return
 #+end_src
 **** TODO regex filter shell action to replace called sed
 **** TODO shell action fail handler
+**** TODO create a pandas/seaborn/matplotlib chart
 *** mixins                                      :mixins:
 **** [ ] [#B] job : generate tasks from postbox entries
 **** TODO task on-fail actions
@@ -487,7 +529,9 @@ https://dblp.org/db/conf/splst/index.html
 to remove need for ivy-bibtex, parsebib, citeproc, org-ref
 *** bindings
 **** TODO wipe global map C- and M-
-
+*** pdfs
+add pdftotext and pdfimages dired bindings
+and tesseract binding
 ** godot                                         :godot:
 *** android test
 **** TODO touch detection
@@ -650,23 +694,40 @@ to remove need for ivy-bibtex, parsebib, citeproc, org-ref
 ****** WAIT minibuffer
 ****** WAIT ophints
 ****** WAIT popup
-**** TODO [#A] key binding replacement
+*** TODO [#A] Blood Bind
 *** other                                       :refactor:
 **** TODO refactor doom specific -> general
 
-*** carousel-minor-mode
-*** code-shy-minor-mode
-*** env-handling
-*** evil-escape-hook
-*** evil-states-plus
-*** hydra-macros
-*** librarian
+**** carousel-minor-mode
+***** TODO add tests
+**** code-shy-minor-mode
+***** TODO add tests
+**** env-handling
+***** TODO add readme
+***** TODO add tests
+**** evil-escape-hook
+**** evil-states-plus
+**** hydra-macros
+***** TODO add readme
+***** TODO add tests
+***** TODO merge with transient-macros
+**** librarian
+***** TODO document
+***** TODO add tests
 *** misc-modes
+**** TODO [#A] agentspeak mode
 *** project-zimmerframe
+**** TODO test
 *** spec-handling
+**** TODO document
+**** TODO test
 *** transient-macros
+**** TODO test
+**** TODO merge with hydra-macros
 *** TODO [#B] timeline insert
 *** TODO general-insert highlighting mode
+*** TODO [#B] definition lookup mode
+similar to wordnut-search
 *** TODO key-clean
 ** python                                        :python:
 *** TODO 40ksim
@@ -680,9 +741,24 @@ https://www.gnu.org/software/gcal/manual/gcal.html
 **** TODO reintegrate original pytests
 ** rust                                          :rust:
 *** TODO rust <-> emacs
+Have emacs call a rust module
+http://diobla.info/blog-archive/modules-tut.html
+https://github.com/jkitchin/emacs-modules
+https://github.com/ubolonton/emacs-module-rs
+https://phst.eu/emacs-modules.html
+https://ryanfaulhaber.com/posts/first-emacs-module-rust/
 *** TODO rust <-> python
+Have python pass data back and forth to rust
+https://codeburst.io/how-to-use-rust-to-extend-python-360174ee5819?gi=f1a56fa91873
+https://docs.python.org/3/extending/building.html#building
+https://docs.rust-embedded.org/book/interoperability/c-with-rust.html
+https://github.com/PyO3/pyo3
+https://github.com/PyO3/setuptools-rust
+https://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/
+https://www.maturin.rs/
 ** templates                                     :templates:
 *** TODO Definitions
+
 *** General Inserts                             :gen_insert:
 **** TODO general-insert : seaborn
 **** TODO general-insert : matplotlib
@@ -705,7 +781,28 @@ https://www.gnu.org/software/gcal/manual/gcal.html
 ** TODO individuals
 ** TODO favourites
 ** TODO scifi
-** TODO aisb
+** [#A] aisb
+*** DONE 1974_aisb.bib
+*** DONE 1976_aisb.bib
+*** DONE 1978_aisb.bib
+*** DONE 1980_aisb.bib
+*** STRT 2000_aisb.bib
+*** TODO 2002_aisb.bib
+*** TODO 2003_aisb.bib
+*** TODO 2004_aisb.bib
+*** TODO 2005_aisb.bib
+*** TODO 2006_aisb.bib
+*** TODO 2007_aisb.bib
+*** TODO 2008_aisb.bib
+*** TODO 2009_aisb.bib
+*** TODO 2010_aisb.bib
+*** TODO 2011_aisb.bib
+*** TODO 2012_aisb.bib
+*** TODO 2013_aisb.bib
+*** TODO 2015_aisb.bib
+*** TODO 2016_aisb.bib
+*** TODO 2017_aisb.bib
+*** TODO 2023_aisb.bib
 ** tags                                          :tag:
 *** TODO integrate new
 * Wikis                                           :wiki:
@@ -715,7 +812,7 @@ https://www.gnu.org/software/gcal/manual/gcal.html
 ** TODO config
 ** TODO corana
 ** TODO cuty
-** TODO [#A] doot
+** STRT [#A] doot
 ** TODO dootle
 ** homepage
 *** main                                        :main:
