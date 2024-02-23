@@ -1,16 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-        <title>Mostly Harmless - _resources category</title>
+          <title>Mostly Harmless - Emacs and Evil Keymaps</title>
         <meta charset="utf-8" />
         <meta name="generator" content="Pelican" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
-        <link rel="stylesheet" href="/theme/css/main.css">
+
+
+
+
+          <link rel="stylesheet" href="/theme/css/main.css">
         <link rel="stylesheet" href="/theme/css/fonts.css">
         <link rel="stylesheet" href="/theme/css/misc.css">
         <link rel="stylesheet" href="/theme/css/responsive.css">
+
+  <link rel="stylesheet" href="/theme/css/article.css">
         <script src="/theme/js/base.js", type="text/javascript", defer=true></script>
         <link rel="icon" href="theme/favicon.ico" type="image/x-icon"/>
 </head>
@@ -36,16 +42,38 @@
         <!-- TODO - random quote / cite -->
         </header>
         <main>
-    <header class="content-header">
-    <header>
-        <h1>Articles in the _resources category</h1>
-    </header>
-    </header>
+  <header class="content-header">
+    <h1>
+      <a href="../drafts/emacs-and-evil-keymaps.html" rel="bookmark"
+         title="Permalink to Emacs and Evil Keymaps">Emacs and Evil Keymaps</a>
+    </h1>
+    <div class="content-meta">
+      <time class="published" datetime="2024-01-29T00:00:00+01:00">
+        Mon 29 January 2024
+      </time>
+    </div>
+  </header>
 
-
-    <ol id="post-list">
-    </ol><!-- /#posts-list -->
-
+  <article class="content-actual">
+    <h1>Keymap Hierarchy:</h1>
+<p>https://www.gnu.org/software/emacs/manual/html_node/elisp/Controlling-Active-Maps.html
+https://www.gnu.org/software/emacs/manual/html_node/elisp/Searching-Keymaps.html
+https://github.com/noctuid/evil-guide
+NOTE: See evil-core.el for full design of evil keybindings
+*** Overriding keymaps/overlay keymaps
+*** Emulation mode keymaps
+<strong><em>* Evil keymaps
+</em></strong><em> Intercept keymaps
+</em><strong><em> Local state keymap
+</em></strong><em> Minor-mode keymaps
+</em><strong><em> Auxiliary keymaps
+</em></strong><em> Overriding keymaps
+</em><strong><em> Global state keymap
+</em></strong>* Keymaps for other states
+*** Minor mode keymaps
+*** Local keymap (<code>local-set-key')
+*** Global keymap (</code>global-set-key')</p>
+  </article>
 
         </main>
         <footer>

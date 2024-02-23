@@ -72,6 +72,7 @@ h3 {
     overscroll-behavior-y : contain;
     background            : var(--sidebar-color);
 }
+
 .sidebar div {
     overflow-y: auto;
     position: absolute;
@@ -82,9 +83,11 @@ h3 {
     padding: 10px 10px;
     background: var(--sidebar-color);
 }
+
 #left-sb     {
     left: 0;
     visibility: hidden;
+
 }
 #right-sb    {
     right: 0;
