@@ -6,8 +6,10 @@ ctor                 = "task"                                    # <type>
 doc                  = ["Run pelican"]                           # <list[str]>
 depends_on           = ["file:>pelican.toml"]                   # <list[DootTaskArtifact]>
 actions              = [
-                     { do="shell", args=["pelican", "."] }
-]                                        # <list[Any]>
+                     { do="touch", args=["pelican.py"] },
+                     { do="shell", args=["pelican", "."] },
+                     { do="delete!", args=["pelican.py"] },
+]
 
 [[tasks.pelican]]
 name                 = "listen"

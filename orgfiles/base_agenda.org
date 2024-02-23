@@ -6,6 +6,7 @@
   - [[#homepage][homepage]]
   - [[#bibliography][bibliography]]
   - [[#maintenance][maintenance]]
+  - [[#repo-maintenance][repo maintenance]]
 - [[#main][Main]]
   - [[#doot][doot]]
   - [[#ebooks][ebooks]]
@@ -52,11 +53,11 @@
 
 * Tasks                                           :tasks:
 ** homepage                                      :homepage:
-*** TODO rebuild site
-*** TODO add/remove empty pelicanconf.py
+*** DONE rebuild site
+*** DONE add/remove empty pelicanconf.py
 *** TODO style
 ** bibliography                                  :bibliography:
-*** chunker
+*** DONE chunker
 **** DONE plus/anthology
 **** DONE plus/ai_reviews
 *** listings
@@ -120,6 +121,20 @@
 ** maintenance
 *** DONE version records
 *** TODO updates
+** repo maintenance
+*** workflows
+*** doot
+**** bumpver
+**** DONE deploy
+**** lint
+**** test
+**** build docs
+**** DONE build pelican
+**** DONE validate bibs
+**** update bookmarks
+**** DONE validate commit msg
+**** collect todos
+**** maintain dependencies
 * Main
 ** doot                                          :doot:
 *** TODO [#A] fix doot.toml stubbing when pyproject.toml exists
@@ -356,6 +371,8 @@ wtfht
 adapt scrapy's design?
 
 *** dootle                                      :dootle:
+**** cmds
+***** pre-commit yaml stub
 **** actions                                   :actions:
 ***** TODO dot
 ***** TODO downloader
@@ -411,6 +428,7 @@ adapt scrapy's design?
 **** TODO encryption
 **** TODO gradle
 **** TODO clingo
+
 *** experiments                                 :experiment:
 **** TODO TDMQ option instead of individual task listing
 **** TODO floweaver                             :add:
@@ -580,6 +598,20 @@ to remove need for ivy-bibtex, parsebib, citeproc, org-ref
 *** pdfs
 add pdftotext and pdfimages dired bindings
 and tesseract binding
+*** experiment
+**** org-brain
+https://github.com/Kungsgeten/org-brain
+**** agda
+**** ess
+**** fortran
+**** ivy
+**** julia
+**** ledger
+**** multi-cursor
+**** opa
+**** solidity
+**** taskrunners
+**** vertico
 ** godot                                         :godot:
 *** android test
 **** TODO touch detection
