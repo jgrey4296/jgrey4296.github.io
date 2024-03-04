@@ -51,15 +51,112 @@
   - [[#main-1][Main]]
   - [[#secondary][Secondary]]
 
+* Current
+** TODO [#A] aisb
+** TODO [#A] parse youtube data
+** STRT [#B] Blood Basic Profile
+*** TODO config default
+*** TODO config disabled
+*** TODO config help
+*** TODO config search
+*** TODO config ui
+*** TODO editor buffer-nav
+*** TODO editor evil
+*** TODO editor text-manipulation
+*** TODO editor undo
+*** TODO editor window-nav
+*** TODO tools dired
+*** TODO ui helm
+*** TODO ui hydra
+*** TODO ui ibuffer
+*** TODO ui ivy
+*** TODO ui minibuffer
+*** TODO ui ophints
+*** TODO ui popup
+*** TODO lang-weakly-typed lisp-langs
+*** TODO lang-weakly-typed python
+** TODO [#C] bibtex-middlewares
+*** author_handler
+capitalizer
+*** doi_handler
+*** failure_handler
+*** file_handler
+**** TODO add metadata to pdf / epubs
+**** TODO add bookmarks
+**** TODO validate file existence
+*** formatter
+**** TODO sort fields
+*** TODO hash_handler
+*** isbn_handler
+*** key_handler
+**** TODO crossref validator
+*** latex_handler
+*** path_handler
+*** selectors
+**** TODO type
+**** TODO tag
+*** sorting_handler
+**** TODO author
+**** TODO year
+**** TODO type
+*** stack_builder
+*** tags_handler
+**** TODO validator
+**** TODO cleaner
+*** title_handler
+*** url_handler.py
+** TODO [#C] blood                               :blood:
+*** Testing                                       :test:
+**** TODO deferral
+**** TODO profile/module/package building
+**** TODO dag
+**** TODO logging
+**** TODO sync
+**** TODO trace
+**** TODO force terminal
+**** TODO inhibitions
+**** TODO caches
+**** TODO native compilation
+**** TODO straight setup
+**** TODO bootstraps
+**** TODO cleaning
+**** TODO cli control
+*** Features                                      :feature:
+**** bootstrap
+**** clean
+**** core
+**** dag
+**** deferral
+**** defs
+**** early-init
+**** hooks
+**** log
+**** modules
+***** TODO package autoloads
+***** TODO setup advice
+***** TODO setup hooks
+**** profile
+**** report
+**** stub
+**** sync
+**** trace
+**** utils
+***** TODO advise load
+**** native
+**** straight
+***** TODO convert package specs to straight recipes
+***** TODO disable straights popups
+** TODO [#A] Blood Bind
+** TODO definition lookup mode
+similar to wordnut-search
 * Tasks                                           :tasks:
 ** homepage                                      :homepage:
-*** DONE rebuild site
 *** DONE add/remove empty pelicanconf.py
 *** TODO style
 ** bibliography                                  :bibliography:
-*** DONE chunker
-**** DONE plus/anthology
-**** DONE plus/ai_reviews
+*** TODO summary counts
+*** TODO twitter threads
+
 *** listings
 **** TODO list books
 **** TODO list proceedings
@@ -72,7 +169,11 @@
 **** TODO remove duplicates
 
 *** build
-**** TODO compile main
+**** TODO compile main changes
+1) format
+2) export
+3) create tex
+4) compile
 **** TODO compile individuals
 **** TODO compile conferences
 **** TODO compile journals
@@ -81,6 +182,7 @@
 **** TODO build stubs
 **** TODO build timeline for tag
 *** other
+**** DONE update bookmarks
 **** TODO parse ceur
 **** TODO bib format, for plus
 *** xml
@@ -116,32 +218,40 @@
 ***** TODO talks-2022.xml
 ***** TODO verso.xml
 **** TODO thompson motifs
-*** TODO [#A] parse youtube data
-*** TODO summary counts
+*** DONE chunker
+**** DONE plus/anthology
+**** DONE plus/ai_reviews
 ** maintenance
-*** DONE version records
+*** TODO python env listing
 *** TODO updates
+**** TODO doom
+**** TODO blood
+**** TODO apt
+**** TODO tlmgr
+**** TODO rust
+*** TODO system setup
+*** dcim
+**** TODO image hashing
+**** TODO ocr
+**** TODO duplicate detector
+*** DONE version records
+*** DONE tex versions
+*** DONE rust version
 ** repo maintenance
 *** workflows
 *** doot
-**** bumpver
-**** DONE deploy
 **** lint
-**** test
-**** build docs
-**** DONE build pelican
-**** DONE validate bibs
-**** update bookmarks
-**** DONE validate commit msg
+**** TODO test
 **** collect todos
 **** maintain dependencies
+**** DONE bumpver
+**** DONE deploy
+**** DONE build pelican
+**** DONE validate bibs
+**** DONE validate commit msg
+**** TODO sphinx rebuild
 * Main
 ** doot                                          :doot:
-*** TODO [#A] fix doot.toml stubbing when pyproject.toml exists
-*** commands                                    :commands:
-**** TODO here command
-**** TODO help command print toml cli's separate
-**** TODO help command add mixin's as targets
 *** actions                                     :actions:
 **** TODO write protection
 **** TODO add postbox decorators like keys
@@ -194,38 +304,38 @@ or require a return
 **** TODO shell action fail handler
 **** TODO create a pandas/seaborn/matplotlib chart
 ******  TODO create subclass actions: artifactReader, artifactWriter
-*** mixins                                      :mixins:
-**** [ ] [#B] job : generate tasks from postbox entries
-**** TODO task on-fail actions
-**** DONE job pattern matcher
-**** TODO task setup/cleanup dependency mixin
-**** TODO runner fail handler
-*** other
-**** DONE pre-commit print colour disabler
-**** TODO staleness / date checking
-**** DONE refactor sname
-**** TODO tracker.contains : artifact checks
-**** TODO date tracker
-**** TODO read/write as implicit dependencies
-**** TODO active_when conditions
-**** TODO same task different args
-**** TODO use cli param constraints in cli parsing
-**** TODO tracker handling of adding unambiguous group-less task names
-**** TODO update task spec version
+**** DONE [#A] job actions
+#+NAME: example
 #+begin_src toml :results output
-[[tasks.group]]
-name = "blah"
-# Old:
-version = "0.1"
-# New:
-version = {"task": "0.1", "doot": ">0.5.1", "dootle" : "<0.2.1" ... }
-# and check the version on build
-# similarly:
-depends_on = ["another::task, 0.2.1","and::another, >0.1"]
+[[tasks.example]]
+name = "builder"
+ctor = "job"
+actions = [
+        {do="job.walk", roots_="roots", exts_="exts", update_="files"},
+        {do="job.namer",          from_="files", update_="names"},
+        {do="job.expand",         from_="files", base="example::base", update_="subtasks"},
+        {do="job.limit",          from_="files", count=20, update_="files"},
+        {do="inject:shadow_path", from_="subtasks", fpath="fpath" }
+        {do="job.queue",          from_="subtasks"},
+]
 #+end_src
 
-**** TODO backup list cache
-******* TODO make jobs resumable
+
+***** DONE expander
+***** DONE matcher
+***** DONE walker
+***** DONE limiter
+***** DONE setup
+***** DONE shadower
+***** DONE subtasker
+
+**** TODO task on-fail actions
+*** commands                                    :commands:
+**** TODO here command
+**** TODO help command print toml cli's separate
+**** TODO help command add mixin's as targets
+**** TODO locs_cmd print matches
+**** TODO locs_cmd print by source
 *** corana                                      :corana:
 **** Doot Tasks
 ***** TODO Pack Dataset
@@ -370,19 +480,70 @@ wtfht
 **** TODO Design                               :design:
 adapt scrapy's design?
 
+*** DBLP                                        :dblp:
+**** ISSNs
+***** TODO Journal of Political Economy: 00223808
+https://www.jstor.org/journal/jpoliecon
+
+***** TODO AI Magazine: 2371-9621, 0738-4602
+https://dblp.org/db/journals/aim/index.html
+
+***** TODO Artificial Intelligence: 0004-3702
+https://dblp.org/db/journals/ai/index.html
+
+***** TODO JASSS: 1460-7425
+https://dblp.org/db/journals/jasss/index.html
+
+***** TODO computers in human behavior: 0747-5632
+https://dblp.org/db/journals/chb/index.html
+
+***** TODO ACM Transactions on Programming Languages and Systems (TOPLAS) : 0164-0925, 1558-4592
+https://dblp.org/db/journals/toplas/index.html
+
+***** TODO Foundations and Trends in Programming Languages: 2325-1107, 2325-1131
+https://dblp.org/db/journals/ftpl/index.html
+
+***** TODO Journal of Programming Languages: 0963-9306
+https://dblp.org/db/journals/jpl/index.html
+
+***** TODO Organization Science: 1047-7039, 1526-5455
+https://dblp.org/db/journals/orgsci/index.html
+
+***** TODO International Journal of Human-Computer Interaction: 1044-7318, 1532-7590
+https://dblp.org/db/journals/ijhci/index.html
+
+**** TODO Proceedings
+
+***** TODO ACM-SIGACT Symposium on Principles of Programming Languages (POPL)
+https://dblp.org/db/conf/popl/index.html
+
+***** TODO ACM-SIGPLAN Symposium on Programming Language Design and Implementation (PLDI)
+https://dblp.org/db/conf/pldi/index.html
+
+***** TODO History of Programming Languages (HOPL)
+https://dblp.org/db/conf/hopl/index.html
+
+***** TODO Language Design and Programming Methodology
+https://dblp.org/db/conf/ldpm/index.html
+
+***** TODO Workshop on Evaluation and Usability of Programming Languages and Tools (PLATEAU)
+https://dblp.org/db/conf/plateau/index.html
+
+***** TODO Symposium on Programming Languages and Software Tools (SPLST)
+https://dblp.org/db/conf/splst/index.html
 *** dootle                                      :dootle:
 **** cmds
 ***** pre-commit yaml stub
 **** actions                                   :actions:
 ***** TODO dot
 ***** TODO downloader
-***** TODO json
-****** TODO jsonlines load/write
 ***** TODO ocr
 ***** TODO pdf
 ***** TODO plantuml
 ***** TODO xml
 ***** TODO rng
+***** TODO calender write
+***** TODO csv read / write
 **** android
 **** bibtex
 ***** middlewares
@@ -446,147 +607,47 @@ https://docs.readthedocs.io/en/stable/
 **** TODO wayback
 https://akamhy.github.io/waybackpy/
 
-*** DBLP                                        :dblp:
-**** ISSNs
-***** TODO Journal of Political Economy: 00223808
-https://www.jstor.org/journal/jpoliecon
+*** mixins                                      :mixins:
+**** TODO runner fail handler
+**** KILL job : generate tasks from postbox entries
+**** KILL task setup/cleanup dependency mixin
+**** DONE job pattern matcher
+*** other
+**** DONE fix doot.toml stubbing when pyproject.toml exists
+**** DONE pre-commit print colour disabler
+**** TODO staleness / date checking
+**** DONE refactor sname
+**** TODO tracker.contains : artifact checks
+**** TODO date tracker
+**** TODO read/write as implicit dependencies
+**** TODO active_when conditions
+**** TODO same task different args
+**** TODO use cli param constraints in cli parsing
+**** TODO tracker handling of adding unambiguous group-less task names
+**** TODO update task spec version
+#+begin_src toml :results output
+[[tasks.group]]
+name = "blah"
+# Old:
+version = "0.1"
+# New:
+version = {"task": "0.1", "doot": ">0.5.1", "dootle" : "<0.2.1" ... }
+# and check the version on build
+# similarly:
+depends_on = ["another::task, 0.2.1","and::another, >0.1"]
+#+end_src
 
-***** TODO AI Magazine: 2371-9621, 0738-4602
-https://dblp.org/db/journals/aim/index.html
-
-***** TODO Artificial Intelligence: 0004-3702
-https://dblp.org/db/journals/ai/index.html
-
-***** TODO JASSS: 1460-7425
-https://dblp.org/db/journals/jasss/index.html
-
-***** TODO computers in human behavior: 0747-5632
-https://dblp.org/db/journals/chb/index.html
-
-***** TODO ACM Transactions on Programming Languages and Systems (TOPLAS) : 0164-0925, 1558-4592
-https://dblp.org/db/journals/toplas/index.html
-
-***** TODO Foundations and Trends in Programming Languages: 2325-1107, 2325-1131
-https://dblp.org/db/journals/ftpl/index.html
-
-***** TODO Journal of Programming Languages: 0963-9306
-https://dblp.org/db/journals/jpl/index.html
-
-***** TODO Organization Science: 1047-7039, 1526-5455
-https://dblp.org/db/journals/orgsci/index.html
-
-***** TODO International Journal of Human-Computer Interaction: 1044-7318, 1532-7590
-https://dblp.org/db/journals/ijhci/index.html
-
-**** TODO Proceedings
-
-***** TODO ACM-SIGACT Symposium on Principles of Programming Languages (POPL)
-https://dblp.org/db/conf/popl/index.html
-
-***** TODO ACM-SIGPLAN Symposium on Programming Language Design and Implementation (PLDI)
-https://dblp.org/db/conf/pldi/index.html
-
-***** TODO History of Programming Languages (HOPL)
-https://dblp.org/db/conf/hopl/index.html
-
-***** TODO Language Design and Programming Methodology
-https://dblp.org/db/conf/ldpm/index.html
-
-***** TODO Workshop on Evaluation and Usability of Programming Languages and Tools (PLATEAU)
-https://dblp.org/db/conf/plateau/index.html
-
-***** TODO Symposium on Programming Languages and Software Tools (SPLST)
-https://dblp.org/db/conf/splst/index.html
-*** bibtex-middlewares
-**** author_handler
-capitalizer
-**** doi_handler
-**** failure_handler
-**** file_handler
-***** TODO add metadata to pdf / epubs
-***** TODO add bookmarks
-***** TODO validate file existence
-**** formatter
-***** TODO sort fields
-**** TODO hash_handler
-**** isbn_handler
-**** key_handler
-***** TODO crossref validator
-**** latex_handler
-**** path_handler
-**** selectors
-***** TODO type
-***** TODO tag
-**** sorting_handler
-***** TODO author
-***** TODO year
-***** TODO type
-**** stack_builder
-**** tags_handler
-***** TODO validator
-***** TODO cleaner
-**** title_handler
-**** url_handler.py
+**** TODO backup list cache
+******* TODO make jobs resumable
 *** twitter archive processing
 **** TODO org -> html
 **** TODO html -> epub
-
-** ebooks                                        :ebooks:
-*** epubs
-**** TODO Abnett_2004_Eisenhorn_Omnibus.epub
-**** TODO Abnett_2008_Titanicus.epub
-**** TODO Aristotle_1998_Metaphysics.epub
-**** TODO Banks_1987_Consider_Phlebas_d5bab.epub
-**** TODO Banks_1987_Consider_Phlebas.epub
-**** TODO Bergson_1913_Laughter.epub
-**** TODO Bester_1981_The_Deceivers.epub
-**** TODO Bush_1945_As_We_May_Think.epub
-**** TODO Camic_2011_The_Essential_Writings_of_Thorstein_Vebl.epub
-**** TODO Card_2006_The_Cambridge_Companion_to_Simone_De_Bea.epub
-**** TODO Croshaw_2022_Will_Save_the_Galaxy_for_Food.epub
-**** TODO De_1949_The_Second_Sex.epub
-**** TODO Drucker_1998_On_the_Profession_of_Management.epub
-**** TODO Dunn_2012_The_Primarchs.epub
-**** TODO Dunn_2016_The_Silent_War.epub
-**** TODO Eberl_2008_Battlestar_Galactica_and_Philosophy.epub
-**** TODO Fadiman_2000_Ex_Libris.epub
-**** TODO Galbraith_1955_The_Great_Crash_1929.epub
-**** TODO Galbraith_1983_The_Anatomy_of_Power.epub
-**** TODO George_2005_Case_Studies_and_Theory_Development_in_t.epub
-**** TODO Miceli_2015_Expectancy_and_Emotion.epub
-**** TODO Mieville_2011_Embassytown.epub
-**** TODO Okrent_2009_In_the_Land_of_Invented_Languages_Esper.epub
-**** TODO Plato_2004_The_Laws.epub
-**** TODO Pratchett_1991_Reaper_Man.epub
-**** TODO Pratchett_1991_Witches_Abroad.epub
-**** TODO Pratchett_1992_Lords_and_Ladies.epub
-**** TODO Pratchett_1993_Men_At_Arms.epub
-**** TODO Pratchett_1994_Interesting_Times.epub
-**** TODO Pratchett_1996_Feet_of_Clay.epub
-**** TODO Pratchett_1996_Hogfather.epub
-**** TODO Pratchett_1997_Jingo.epub
-**** TODO Pratchett_2001_Thief_of_Time.epub
-**** TODO Pratchett_2002_Night_Watch.epub
-**** TODO Pratchett_2003_Monstrous_Regiment.epub
-**** TODO Pratchett_2004_Going_Postal.epub
-**** TODO Pratchett_2005_Thud_.epub
-**** TODO Pratchett_2007_Making_Money.epub
-**** TODO Pratchett_2010_I_Shall_Wear_Midnight.epub
-**** TODO Pratchett_2011_Snuff.epub
-**** TODO Pratchett_2013_Raising_Steam.epub
-**** TODO Pryor_2010_The_making_of_the_British_landscape.epub
-**** TODO Reid_2005_United_We_Stand.epub
-**** TODO Rowling_2007_Harry_Potter.epub
-**** TODO Scalzi_2005_Old_Man_s_War.epub
-**** TODO Scalzi_2022_The_Kaiju_Preservation_Society.epub
-**** TODO Szczesnik_2016_Unity_5_x_Animation_Cookbook.epub
-
-*** TODO erin
-*** TODO police violence
-*** TODO phil agre
+** dotnet                                        :dotnet:
 ** emacs                                         :emacs:
 *** python
 **** TODO refine add-import
+**** bots                                         :bots:
+***** TODO boards of directors
 *** bibtex
 **** TODO map :type -> bibtex types
 **** TODO remove empty fields
@@ -612,74 +673,19 @@ https://github.com/Kungsgeten/org-brain
 **** solidity
 **** taskrunners
 **** vertico
+*** TODO [#A] add comint-truncate-buffer to comint-output-filter-functions
 ** godot                                         :godot:
 *** android test
 **** TODO touch detection
+** jacamo                                        :jacamo:
 ** lisp                                          :lisp:
-*** TODO blood                                  :blood:
-**** Testing                                   :test:
-***** TODO deferral
-***** TODO profile/module/package building
-***** TODO dag
-***** TODO logging
-***** TODO sync
-***** TODO trace
-***** TODO force terminal
-***** TODO inhibitions
-***** TODO caches
-***** TODO native compilation
-***** TODO straight setup
-***** TODO bootstraps
-***** TODO cleaning
-***** TODO cli control
-**** Features                                  :feature:
-***** bootstrap
-***** clean
-***** core
-***** dag
-***** deferral
-***** defs
-***** early-init
-***** hooks
-***** log
-***** modules
-****** TODO package autoloads
-****** TODO setup advice
-****** TODO setup hooks
-***** profile
-***** report
-***** stub
-***** sync
-***** trace
-***** utils
-****** TODO advise load
-***** native
-***** straight
-****** TODO convert package specs to straight recipes
-****** TODO disable straights popups
-
+*** TODO timeline insert
+*** TODO general-insert highlighting mode
+*** TODO key-clean
+*** TODO doot task activation
+*** TODO template access ivy
+instead of spc-1-7, do spc-y-ret and dynamically drill into templates repo
 *** Blood Modules                               :module:
-**** STRT Basic Profile
-***** TODO config default
-***** TODO config disabled
-***** TODO config help
-***** TODO config search
-***** TODO config ui
-***** TODO editor buffer-nav
-***** TODO editor evil
-***** TODO editor text-manipulation
-***** TODO editor undo
-***** TODO editor window-nav
-***** TODO tools dired
-***** TODO ui helm
-***** TODO ui hydra
-***** TODO ui ibuffer
-***** TODO ui ivy
-***** TODO ui minibuffer
-***** TODO ui ophints
-***** TODO ui popup
-***** TODO lang-weakly-typed lisp-langs
-***** TODO lang-weakly-typed python
 **** WAIT Modules
 ***** WAIT config
 ****** WAIT bindings
@@ -774,7 +780,6 @@ https://github.com/Kungsgeten/org-brain
 ****** WAIT minibuffer
 ****** WAIT ophints
 ****** WAIT popup
-*** TODO [#A] Blood Bind
 *** misc :refactor:
 **** TODO refactor doom specific -> general
 
@@ -815,14 +820,6 @@ https://github.com/Kungsgeten/org-brain
 *** transient-macros
 **** TODO test
 **** TODO merge with hydra-macros
-*** TODO [#B] timeline insert
-*** TODO general-insert highlighting mode
-*** TODO [#B] definition lookup mode
-similar to wordnut-search
-*** TODO key-clean
-*** TODO doot task activation
-*** TODO template access ivy
-instead of spc-1-7, do spc-y-ret and dynamically drill into templates repo
 ** python                                        :python:
 *** TODO 40ksim
 *** TODO py-timeline                            :experiment:
@@ -845,6 +842,7 @@ https://www.gnu.org/software/gcal/manual/gcal.html
 **** TODO dis
 **** TODO importlib
 **** TODO mmap
+*** TODO jg_utils
 ** rust                                          :rust:
 *** TODO rust <-> emacs
 Have emacs call a rust module
@@ -867,7 +865,6 @@ https://www.maturin.rs/
 *** TODO update project templates
 *** TODO themes
 *** TODO Definitions
-
 *** General Inserts                             :gen_insert:
 **** TODO general-insert : seaborn
 **** TODO general-insert : matplotlib
@@ -879,10 +876,6 @@ https://www.maturin.rs/
 **** TODO general-insert : pyparsing
 **** TODO general-insert : networkx
 **** TODO pandas
-** jacamo                                        :jacamo:
-** dotnet                                        :dotnet:
-** bots                                          :bots:
-*** TODO boards of directors
 * bibliography                                    :bibliography:
 ** TODO in_progress
 *** TODO ai-reviews
@@ -898,6 +891,8 @@ https://www.maturin.rs/
 ** TODO journals
 ** TODO individuals
 ** TODO favourites
+** TODO timelines
+*** TODO shift to submodule
 ** scifi
 **** TODO ac_clarke_award
 **** TODO galaxy_award
@@ -909,11 +904,61 @@ https://www.maturin.rs/
 **** TODO pk_dick_award
 **** TODO timeline
 **** TODO world_fantasy_award.bib
-** TODO [#A] aisb
-** TODO timelines
-*** TODO shift to submodule
 ** tags                                          :tag:
 *** TODO integrate new
+** ebooks                                        :ebooks:
+*** epubs
+**** TODO Abnett_2004_Eisenhorn_Omnibus.epub
+**** TODO Abnett_2008_Titanicus.epub
+**** TODO Aristotle_1998_Metaphysics.epub
+**** TODO Banks_1987_Consider_Phlebas_d5bab.epub
+**** TODO Banks_1987_Consider_Phlebas.epub
+**** TODO Bergson_1913_Laughter.epub
+**** TODO Bester_1981_The_Deceivers.epub
+**** TODO Bush_1945_As_We_May_Think.epub
+**** TODO Camic_2011_The_Essential_Writings_of_Thorstein_Vebl.epub
+**** TODO Card_2006_The_Cambridge_Companion_to_Simone_De_Bea.epub
+**** TODO Croshaw_2022_Will_Save_the_Galaxy_for_Food.epub
+**** TODO De_1949_The_Second_Sex.epub
+**** TODO Drucker_1998_On_the_Profession_of_Management.epub
+**** TODO Dunn_2012_The_Primarchs.epub
+**** TODO Dunn_2016_The_Silent_War.epub
+**** TODO Eberl_2008_Battlestar_Galactica_and_Philosophy.epub
+**** TODO Fadiman_2000_Ex_Libris.epub
+**** TODO Galbraith_1955_The_Great_Crash_1929.epub
+**** TODO Galbraith_1983_The_Anatomy_of_Power.epub
+**** TODO George_2005_Case_Studies_and_Theory_Development_in_t.epub
+**** TODO Miceli_2015_Expectancy_and_Emotion.epub
+**** TODO Mieville_2011_Embassytown.epub
+**** TODO Okrent_2009_In_the_Land_of_Invented_Languages_Esper.epub
+**** TODO Plato_2004_The_Laws.epub
+**** TODO Pratchett_1991_Reaper_Man.epub
+**** TODO Pratchett_1991_Witches_Abroad.epub
+**** TODO Pratchett_1992_Lords_and_Ladies.epub
+**** TODO Pratchett_1993_Men_At_Arms.epub
+**** TODO Pratchett_1994_Interesting_Times.epub
+**** TODO Pratchett_1996_Feet_of_Clay.epub
+**** TODO Pratchett_1996_Hogfather.epub
+**** TODO Pratchett_1997_Jingo.epub
+**** TODO Pratchett_2001_Thief_of_Time.epub
+**** TODO Pratchett_2002_Night_Watch.epub
+**** TODO Pratchett_2003_Monstrous_Regiment.epub
+**** TODO Pratchett_2004_Going_Postal.epub
+**** TODO Pratchett_2005_Thud_.epub
+**** TODO Pratchett_2007_Making_Money.epub
+**** TODO Pratchett_2010_I_Shall_Wear_Midnight.epub
+**** TODO Pratchett_2011_Snuff.epub
+**** TODO Pratchett_2013_Raising_Steam.epub
+**** TODO Pryor_2010_The_making_of_the_British_landscape.epub
+**** TODO Reid_2005_United_We_Stand.epub
+**** TODO Rowling_2007_Harry_Potter.epub
+**** TODO Scalzi_2005_Old_Man_s_War.epub
+**** TODO Scalzi_2022_The_Kaiju_Preservation_Society.epub
+**** TODO Szczesnik_2016_Unity_5_x_Animation_Cookbook.epub
+
+*** TODO erin
+*** TODO police violence
+*** TODO phil agre
 * Wikis                                           :wiki:
 ** TODO acab
 ** TODO bibliography
@@ -921,9 +966,9 @@ https://www.maturin.rs/
 ** TODO config
 ** TODO corana
 ** TODO cuty
-** STRT [#A] doot
+** STRT doot
 ** TODO dootle
-** homepage
+** TODO homepage
 *** main                                        :main:
 **** TODO 40k editions
 **** TODO isaac synergies
