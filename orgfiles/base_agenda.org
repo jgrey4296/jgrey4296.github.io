@@ -106,6 +106,7 @@ capitalizer
 *** lang-weakly-typed python
 ** TODO bibtex metadata task
 ** STRT urls file
+** TODO doot readthedocs
 * Tasks                                           :tasks:
 ** homepage                                      :homepage:
 *** DONE add/remove empty pelicanconf.py
@@ -1190,6 +1191,7 @@ task write_file {
 ** Emacs                                         :emacs:
 *** python
 **** TODO refine add-import
+**** TODO add __init__.py to new dired directories if in py project
 **** bots                                         :bots:
 ***** TODO boards of directors
 *** bibtex
@@ -1218,6 +1220,11 @@ https://github.com/Kungsgeten/org-brain
 **** taskrunners
 **** vertico
 *** TODO [#A] add comint-truncate-buffer to comint-output-filter-functions
+*** Dired
+**** TODO cookiecutter
+**** TODO pdftotext
+*** Proof general
+**** TODO repl popup instead of override window layout
 ** Godot                                         :godot:
 *** android test
 **** TODO touch detection
@@ -1343,6 +1350,7 @@ instead of spc-1-7, do spc-y-ret and dynamically drill into templates repo
 **** librarian
 ***** TODO document
 ***** TODO add tests
+***** TODO add bookmark search
 *** misc-modes
 **** TODO [#A] agentspeak mode
 
