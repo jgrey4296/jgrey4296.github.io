@@ -2,16 +2,43 @@
 #+STARTUP: content
 
 * Current
-** TODO [#A] aisb
-** TODO [#A] parse youtube data
 ** TODO [#A] Blood Bind
-** TODO definition lookup mode
+** TODO [#A] parse youtube data
+** TODO bibtex metadata task
+** TODO definition mode
 similar to wordnut-search
+add/lookup timeline+definitions
+*** TODO timelines
+**** DONE shift to submodule
+*** TODO shift definitions to timelines repo
+** TODO doot readthedocs
 ** TODO tomlguard proxies
 *** first_of
 *** all_of
 *** flatten_on
 *** match_on
+** STRT [#B] Blood Basic Profile
+*** config default
+*** config disabled
+*** config help
+*** config search
+*** config ui
+*** editor buffer-nav
+*** editor evil
+*** editor text-manipulation
+*** editor undo
+*** editor window-nav
+*** tools dired
+*** ui helm
+*** ui hydra
+*** ui ibuffer
+*** ui ivy
+*** ui minibuffer
+*** ui ophints
+*** ui popup
+*** lang-weakly-typed lisp-langs
+*** lang-weakly-typed python
+** STRT urls file
 ** TODO [#C] bibtex-middlewares
 *** author_handler
 capitalizer
@@ -83,30 +110,6 @@ capitalizer
 **** straight
 ***** TODO convert package specs to straight recipes
 ***** TODO disable straights popups
-** STRT [#B] Blood Basic Profile
-*** config default
-*** config disabled
-*** config help
-*** config search
-*** config ui
-*** editor buffer-nav
-*** editor evil
-*** editor text-manipulation
-*** editor undo
-*** editor window-nav
-*** tools dired
-*** ui helm
-*** ui hydra
-*** ui ibuffer
-*** ui ivy
-*** ui minibuffer
-*** ui ophints
-*** ui popup
-*** lang-weakly-typed lisp-langs
-*** lang-weakly-typed python
-** TODO bibtex metadata task
-** STRT urls file
-** TODO doot readthedocs
 * Tasks                                           :tasks:
 ** homepage                                      :homepage:
 *** DONE add/remove empty pelicanconf.py
@@ -1838,17 +1841,16 @@ https://www.maturin.rs/
 *** TODO anthology
 *** TODO dijkstra
 ** TODO conferences
-**** TODO alife
-**** TODO chi play
-**** TODO coG
-**** TODO ICEC
-**** TODO ToG
-**** TODO T-CIAIG
+*** TODO alife
+*** TODO chi play
+*** TODO coG
+*** TODO ICEC
+*** TODO ToG
+*** TODO T-CIAIG
+*** DONE [#A] aisb
 ** TODO journals
 ** TODO individuals
 ** TODO favourites
-** TODO timelines
-*** TODO shift to submodule
 ** scifi
 **** TODO ac_clarke_award
 **** TODO galaxy_award
