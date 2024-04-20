@@ -1,6 +1,8 @@
 -*- mode: org; -*-
 #+STARTUP: content
 
+"generative ai and the future of computational propaganda" - samuel woolley
+
 * Current
 ** TODO [#A] Blood Bind
 ** TODO [#A] parse youtube data
@@ -50,6 +52,7 @@ capitalizer
 **** TODO validate file existence
 *** formatter
 **** TODO sort fields
+*** STRT online_handler
 *** hash_handler
 *** isbn_handler
 *** key_handler
@@ -117,6 +120,8 @@ capitalizer
 ** bibliography                                  :bibliography:
 *** TODO summary counts
 *** TODO twitter threads
+*** TODO metadata update
+*** TODO bookmark duplicate remove
 *** listings
 **** TODO list books
 **** TODO list proceedings
@@ -137,10 +142,12 @@ capitalizer
 **** TODO compile individuals
 **** TODO compile conferences
 **** TODO compile journals
+*** tags
 **** TODO rebuild tags
+**** TODO merge tags
 **** TODO clean tags
-**** TODO build stubs
 **** TODO build timeline for tag
+**** TODO diff tag changes
 *** other
 **** DONE update bookmarks
 **** TODO parse ceur
@@ -181,6 +188,7 @@ capitalizer
 *** DONE chunker
 **** DONE plus/anthology
 **** DONE plus/ai_reviews
+*** DONE build stubs
 ** maintenance
 *** TODO python env listing
 *** TODO updates
@@ -211,1298 +219,6 @@ capitalizer
 **** DONE validate commit msg
 **** TODO sphinx rebuild
 * Main
-** Doot                                          :doot:
-*** Actions                                     :actions:
-**** TODO write protection
-**** TODO add postbox decorators like keys
-**** TODO shell output redirection
-**** TODO test postbox
-**** TODO regex filter shell action to replace called sed
-**** TODO shell action fail handler
-**** TODO create a pandas/seaborn/matplotlib chart
-******  TODO create subclass actions: artifactReader, artifactWriter
-**** TODO task on-fail actions
-**** DONE [#A] job actions
-#+NAME: example
-#+begin_src toml :results output
-[[tasks.example]]
-name = "builder"
-ctor = "job"
-actions = [
-        {do="job.walk", roots_="roots", exts_="exts", update_="files"},
-        {do="job.namer",          from_="files", update_="names"},
-        {do="job.expand",         from_="files", base="example::base", update_="subtasks"},
-        {do="job.limit",          from_="files", count=20, update_="files"},
-        {do="inject:shadow_path", from_="subtasks", fpath="fpath" }
-        {do="job.queue",          from_="subtasks"},
-]
-#+end_src
-
-
-***** DONE expander
-***** DONE matcher
-***** DONE walker
-***** DONE limiter
-***** DONE setup
-***** DONE shadower
-***** DONE subtasker
-
-**** DONE DootKey action decorator
-#+NAME: example
-#+begin_src python :results output
-	@DootKeyWrap.path("from", as="different")
-    @DootKeyWrap.expand("target")
-    @DootKeyWrap.redirect("update_")
-    def an_action(spec, state, different, target, update):
-        # do stuff
-        return { update : target }
-#+end_src
-
-would allow automatic annotation for stubbing,
-type declarations,
-
-for multiples:?
-#+begin_src python
-  @DootKeyWrap.paths("from", "to", "other")
-  def an_action(spec, state, from, to, other):
-      pass
-#+end_src
-
-get spec args:
-#+begin_src python
-  @DootKeyWrap.args
-  def an_action(spec, state, args):
-      pass
-#+end_src
-
-typechecking:
-#+begin_src python
-  @DootKeyWrap.type("db", type_=BibtexDataBase)
-  def an_action(spec, state, db:BibTexDataBase):
-      pass
-#+end_src
-
-require it be in the spec/state,
-or require a return
-#+begin_src python
-  @DootKeyWrap.require("update_")
-  @DootKeyWrap.returns("val")
-  def an_action(spec, state):
-      pass
-#+end_src
-**** TODO predicate/skip tests
-staleness, recency, size, contains, hashcmp...
-*** Commands                                    :commands:
-**** TODO here command
-**** TODO help command print toml cli's separate
-**** TODO help command add mixin's as targets
-**** TODO locs_cmd print matches
-**** TODO locs_cmd print by source
-*** Corana                                      :corana:
-**** Doot Tasks
-***** TODO Pack Dataset
-***** TODO Verify data layer hashes
-***** TODO Metadata
-****** TODO Update
-
-****** TODO Copy
-
-***** TODO Clean old data
-***** TODO Spiders
-***** TODO Reports
-****** TODO List Packed Datasets
-****** TODO List Unpacked Datasets
-
-****** TODO Dataset Dates
-
-****** TODO Dataset Tags
-
-****** TODO Dataset Hashes
-
-***** TODO Replay File History
-**** Doot Cmds
-***** TODO Enable only in a provenance directory
-
-**** Code                                      :code:
-***** TODO metadata structs
-Metadata needs to be able to show:
-1) where a dataset came from
-2) what has been done to it
-3) what the contents of the dataset are
-4) how to check the above
-
-****** .provenance.toml
-name, tags, source, file_count, file_types,
-notes, initial_date, distance_from_raw_data
-****** .provenance dir
-files/history/environment jsonl files should match
-so line 1 in files -> line 1 in history -> line 1 in environment
-files will always have 1 more line than the others, the head.
-******* files.jsonl
-map files in this data layer to their hashes
-both current and previous layers
-one layer per line, as a dict of relative path -> hash
-#+begin_example
-{ "id": "...", "files": { "a/b/c.txt" : "...", "a/b/d.txt": ..." } }
-{ "id": "...", "files": { "a/b/c.json" : "...", "a/b/d.json": ..." } }
-{ "id": "...", "files": { "a/b/c.dot" : "...", "a/b/d.dot": ..." } }
-#+end_example
-******* history.jsonl
-track the full history of {raw} -> {current}
-of form:
-#+begin_example
-{ "id": "...", from_ids: ["..."], "date": "2023-12-26", "task": "basic::unpack", "sources": ["80977aab0bcb30cb2812b2f604f203e2"], "files_ids": ["..."], "env_id": "..." }
-{ "date": "2023-12-27", "task": "infinity::binary.parse"}
-#+end_example
-******* environment.jsonl
-env summaries of versions used.
-history.jsonl references these
-#+begin_example
-{"id": "...", "versions": {"python": "3.10.2", "doot": "0.0.1", "provenance": "0.0.1", "dootle": "..."} }
-#+end_example
-******* readme.txt
-explain each file format
-******* notes.txt
-******* tasks.toml
-add toml definitions of all tasks to this
-***** TODO Actions
-
-****** TODO copy_provenance_directory
-handle updating the logs
-update .provenance.toml
-****** TODO build_provenance_directory
-don't just touch files, insert templates into them
-****** TODO compress_provenance_files
-****** TODO verify_provenance_files
-***** TODO Spiders
-bay 12
-facebook
-media wiki
-worpress
-uesp
-wtfht
-
-***** TODO Binary Structs
-****** TODO aurora.py
-****** TODO bethesda.py
-****** TODO cd_project_red.py
-****** TODO fallout.py
-****** TODO heroes_2.py
-****** TODO infinity.py
-****** TODO rare.py
-****** TODO relic.py
-****** TODO sims.py
-****** TODO telltale.py
-****** TODO unity.py
-****** TODO unreal.py
-****** TODO valve.py
-***** TODO DSLs
-****** TODO abl.py
-****** TODO asl.py
-****** TODO asp.py
-****** TODO ceptre.py
-****** TODO cplus.py
-****** TODO lua.py
-****** TODO netlogo.py
-****** TODO paradox.py
-****** TODO skyrim.py
-****** TODO soar.py
-****** TODO versu.py
-****** TODO witcher.py
-***** TODO JSON
-****** TODO Obsidian
-***** TODO Lexers
-****** TODO abl.py
-****** TODO asl.py
-****** TODO cartago.py
-****** TODO ccalc.py
-****** TODO ceptre.py
-****** TODO clips.py
-****** TODO instal.py
-****** TODO jacamo.py
-****** TODO kentuckyr0_blocking.py
-****** TODO neverwinter_script.py
-****** TODO papyrus.py
-****** TODO paradox.py
-****** TODO smt.py
-****** TODO soar.py
-****** TODO spiderweb_script.py
-****** TODO unreal.py
-****** TODO versu.py
-****** TODO witcher_script.py
-***** TODO Spreadsheets
-****** TODO CSV
-****** TODO Excel
-***** TODO SWDA
-***** TODO Text
-***** TODO XML
-****** TODO Obsidian
-
-**** TODO Datasets                             :dataset:
-**** TODO Design                               :design:
-adapt scrapy's design?
-
-*** DBLP                                        :dblp:
-**** ISSNs
-***** TODO Journal of Political Economy: 00223808
-https://www.jstor.org/journal/jpoliecon
-
-***** TODO AI Magazine: 2371-9621, 0738-4602
-https://dblp.org/db/journals/aim/index.html
-
-***** TODO Artificial Intelligence: 0004-3702
-https://dblp.org/db/journals/ai/index.html
-
-***** TODO JASSS: 1460-7425
-https://dblp.org/db/journals/jasss/index.html
-
-***** TODO computers in human behavior: 0747-5632
-https://dblp.org/db/journals/chb/index.html
-
-***** TODO ACM Transactions on Programming Languages and Systems (TOPLAS) : 0164-0925, 1558-4592
-https://dblp.org/db/journals/toplas/index.html
-
-***** TODO Foundations and Trends in Programming Languages: 2325-1107, 2325-1131
-https://dblp.org/db/journals/ftpl/index.html
-
-***** TODO Journal of Programming Languages: 0963-9306
-https://dblp.org/db/journals/jpl/index.html
-
-***** TODO Organization Science: 1047-7039, 1526-5455
-https://dblp.org/db/journals/orgsci/index.html
-
-***** TODO International Journal of Human-Computer Interaction: 1044-7318, 1532-7590
-https://dblp.org/db/journals/ijhci/index.html
-
-**** TODO Proceedings
-
-***** TODO ACM-SIGACT Symposium on Principles of Programming Languages (POPL)
-https://dblp.org/db/conf/popl/index.html
-
-***** TODO ACM-SIGPLAN Symposium on Programming Language Design and Implementation (PLDI)
-https://dblp.org/db/conf/pldi/index.html
-
-***** TODO History of Programming Languages (HOPL)
-https://dblp.org/db/conf/hopl/index.html
-
-***** TODO Language Design and Programming Methodology
-https://dblp.org/db/conf/ldpm/index.html
-
-***** TODO Workshop on Evaluation and Usability of Programming Languages and Tools (PLATEAU)
-https://dblp.org/db/conf/plateau/index.html
-
-***** TODO Symposium on Programming Languages and Software Tools (SPLST)
-https://dblp.org/db/conf/splst/index.html
-*** Dootle                                      :dootle:
-**** cmds
-***** pre-commit yaml stub
-**** actions                                   :actions:
-***** TODO dot
-***** TODO downloader
-***** TODO ocr
-***** TODO pdf
-***** TODO plantuml
-***** TODO xml
-***** TODO rng
-***** TODO calender write
-***** TODO csv read / write
-**** android
-**** bibtex
-***** middlewares
-****** TODO ideal stemmer
-****** TODO library location enforcer
-****** TODO field lowercaser
-****** TODO year checker
-****** TODO title split
-****** TODO output name formatting
-****** TODO ISBN formatting
-****** TODO pdf metadata application
-****** TODO Url way-backer / checker
-****** TODO &amp; -> \&
-****** TODO reporters - author/editor counts, year entries, types, entries with files
-****** TODO journal/booktitle caps normalization
-****** TODO warn on missing doi/tags/url
-**** bookmarks
-***** TODO alchemy fns
-
-**** epub
-***** TODO compile
-***** TODO split
-
-**** godot
-**** latex
-**** python
-***** DONE increment version
-***** DONE pip build
-***** TODO local install
-***** TODO pipreqs
-***** TODO code line count
-***** TODO coverage
-**** sphinx
-***** TODO build
-***** TODO serve
-**** pelican
-**** spiders
-***** TODO tests
-***** TODO locations integration
-**** tags
-***** TODO clean
-
-**** TODO encryption
-**** TODO gradle
-**** TODO clingo
-
-*** Experiments                                 :experiment:
-**** TODO TDMQ option instead of individual task listing
-**** TODO floweaver                             :add:
-https://github.com/ricklupton/floweaver
-
-**** DONE isbn
-https://github.com/JNRowe/pyisbn
-https://github.com/WhyNotHugo/python-barcode
-https://github.com/TorKlingberg/isbn_hyphenate
-**** TODO railroad diagrams
-https://github.com/tabatkins/railroad-diagrams
-**** TODO readthedocs
-https://docs.readthedocs.io/en/stable/
-**** TODO quote images -> text
-**** TODO wayback
-https://akamhy.github.io/waybackpy/
-
-*** Mixins                                      :mixins:
-**** TODO runner fail handler
-**** KILL job : generate tasks from postbox entries
-**** KILL task setup/cleanup dependency mixin
-**** DONE job pattern matcher
-*** Other
-**** DONE fix doot.toml stubbing when pyproject.toml exists
-**** DONE pre-commit print colour disabler
-**** TODO staleness / date checking
-**** DONE refactor sname
-**** TODO tracker.contains : artifact checks
-**** TODO date tracker
-**** TODO read/write as implicit dependencies
-**** TODO active_when conditions
-**** TODO same task different args
-**** TODO use cli param constraints in cli parsing
-**** TODO tracker handling of adding unambiguous group-less task names
-**** TODO update task spec version
-#+begin_src toml :results output
-[[tasks.group]]
-name = "blah"
-# Old:
-version = "0.1"
-# New:
-version = {"task": "0.1", "doot": ">0.5.1", "dootle" : "<0.2.1" ... }
-# and check the version on build
-# similarly:
-depends_on = ["another::task, 0.2.1","and::another, >0.1"]
-#+end_src
-
-**** TODO backup list cache
-******* TODO make jobs resumable
-**** TODO cli target lister
-**** TODO [#A] doot memory guard
-possibly use https://psutil.readthedocs.io/en/latest/
-#+NAME: memory
-#+begin_src python :results output
-	def memory():
-    """
-    Get node total memory and memory usage
-      from https://stackoverflow.com/questions/17718449/
-    """
-    with open('/proc/meminfo', 'r') as mem:
-        ret = {}
-        tmp = 0
-        for i in mem:
-            sline = i.split()
-            if str(sline[0]) == 'MemTotal:':
-                ret['total'] = int(sline[1])
-            elif str(sline[0]) in ('MemFree:', 'Buffers:', 'Cached:'):
-                tmp += int(sline[1])
-        ret['free'] = tmp
-        ret['used'] = int(ret['total']) - int(ret['free'])
-    return ret
-#+end_src
-
-
-*** TODO Task Runners Feature Comparison
-push / pull
-declarative, imperative
-
-**** Ansible
-https://en.wikipedia.org/wiki/Ansible_(software)
-https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/2.4
-
-:pros:
-
-:END:
-:cons:
-
-:END:
-**** Ant
-https://ant.apache.org/manual/index.html
-
-:concepts:
-:END:
-
-:pros:
-- stdlib
-:END:
-:cons:
-- java
-- xml
-:END:
-**** Cargo
-https://doc.rust-lang.org/cargo/
-
-:pros:
-
-:END:
-:cons:
-
-:END:
-**** CMake
-https://cmake.org/documentation/
-
-:pros:
-
-:END:
-:cons:
-
-:END:
-**** Collective Knowledge
-https://cknowledge.io/docs/
-
-:pros:
-
-:END:
-:cons:
-
-:END:
-**** Common Workflow Language
-https://www.commonwl.org/
-https://www.commonwl.org/user_guide/
-
-:pros:
-
-:END:
-:cons:
-- yaml
-:END:
-
-#+begin_src cwl
-cwlVersion: v1.0
-class: CommandLineTool
-baseCommand: echo
-stdout: output.txt
-inputs:
-  message:
-    type: string
-    inputBinding:
-      position: 1
-outputs:
-  output:
-    type: stdout
-
-#+end_src
-
-**** Doit
-https://pydoit.org/contents.html
-
-:pros:
-- just python
-:END:
-:cons:
-- relies on raw dicts
-
-:END:
-
-#+begin_src python
-  def task_do_something():
-      # Setup code here
-
-      # Task Spec:
-      return {
-          'actions'  : [...],
-          'file_dep' : [...],
-          'targets'  : [...],
-          }
-#+end_src
-
-**** Gradle
-https://gradle.org/
-
-:concepts:
-- settings script
-- build script
-- project
-- subproject
-- actionable tasks
-- lifecycle tasks
-- plugins
-- artifact
-- capability
-- component
-- configuration
-:END:
-
-
-:pros:
-- plugins
-- daemon
-:END:
-:cons:
-- groovy
-- gradlew
-- unclear syntax
-- documentation
-- constrained to jvm projects
-:END:
-**** Grunt
-https://gruntjs.com/
-
-:concepts:
-- package.json
-- gruntfile
-- alias tasks
-- multi tasks
-- basic tasks
-- custom tasks
-:END:
-
-
-:pros:
-- plugins
-:END:
-:cons:
-- javascript
-:END:
-
-#+begin_src javascript
- module.exports = function(grunt) {
-
-  // Project configuration.
-  grunt.initConfig({
-    pkg: grunt.file.readJSON('package.json'),
-    uglify: {
-      options: {
-        banner: '/*! <%= pkg.name %> <%= grunt.template.today("yyyy-mm-dd") %> */\n'
-      },
-      build: {
-        src: 'src/<%= pkg.name %>.js',
-        dest: 'build/<%= pkg.name %>.min.js'
-      }
-    }
-  });
-
-  // Load the plugin that provides the "uglify" task.
-  grunt.loadNpmTasks('grunt-contrib-uglify');
-
-  // Default task(s).
-  grunt.registerTask('default', ['uglify']);
-
-};
-#+end_src
-
-**** Gulp
-https://gulpjs.com/
-
-:concepts:
-- gulpfile
-- tasks : async functions
-- public tasks
-- private tasks
-:END:
-
-
-:pros:
-- combinator based
-:END:
-:cons :
-- javascript
-:END:
-
-#+begin_src javascript
-function defaultTask(cb){
-    // do stuff
-    cb();
-}
-
-exports.default = defaulTask
-#+end_src
-
-**** Scrapy
-https://scrapy.org/
-
-:concepts:
-- spiders
-- middleware
-- pipeline
-- runner
-- contracts
-:END:
-
-:dataflow:
-1) The Engine gets the initial Requests to crawl from the Spider.
-2) The Engine schedules the Requests in the Scheduler and asks for the next Requests to crawl.
-3) The Scheduler returns the next Requests to the Engine.
-4) process_request through downloader middlewares,
-5) download.
-6) process_response through downloader middlewares.
-7) process_spider_input through spider middlewares.
-8) process_spider_output of new Requests and scraped items.
-9) The Engine sends processed items to Item Pipelines, and send processed Requests to the Scheduler and asks for possible next Requests to crawl.
-10) The process repeats (from step 3) until there are no more requests from the Scheduler.
-:END:
-
-
-:pros:
-- non-blocking,
-- modular
-:END:
-:cons:
-- overrules logging
-:END:
-
-
-**** Twisted
-**** Jenkins
-https://www.jenkins.io/doc/
-https://www.jenkins.io/doc/book/pipeline/syntax/
-
-:concepts:
-- jenkinsfile
-- pipelines
-- sections
-- directives
-- steps
-- agents
-:END:
-
-
-:pros:
-- can be declarative or scripted
-:END:
-:cons:
-- groovy
-:END:
-
-#+begin_src jenkins
-pipeline {
-    agent any
-    options {
-        // Timeout counter starts AFTER agent is allocated
-        timeout(time: 1, unit: 'SECONDS')
-    }
-    stages {
-        stage('Example') {
-            steps {
-                echo 'Hello World'
-            }
-        }
-    }
-}
-
-#+end_src
-**** kubernetes
-https://kubernetes.io/docs/home/
-
-:concepts:
-
-:END:
-
-**** OPA
-https://www.openpolicyagent.org/
-
-:concepts:
-- permissions
-- agents
-- roles
-- policy
-- rules
-:END:
-
-:pros:
-
-:END:
-:cons:
-- rego
-:END:
-
-
-**** Luigi
-https://luigi.readthedocs.io/en/stable/design_and_limitations.html
-
-:concepts:
-Target         - has .exists(), possible .open
-Task           - .run(), .output(), .requires()
-Parameter      -
-Events         -
-Event Handlers -
-:END:
-:pros:
-- Straightforward command-line integration.
-- As little boilerplate as possible.
-- Focus on job scheduling and dependency resolution.
-- A file system abstraction where code doesn’t have to care about where files are located.
-- Atomic file system operations through this abstraction. If a task crashes it won’t lead to a broken state.
-- The dependencies are decentralized. No big config file in XML.
-- A web server that renders the dependency graph and does locking, etc for free.
-- Trivial to extend with new file systems, file formats, and job types.
-- Date algebra included.
-- Lots of unit tests of the most basic stuff.
-:END:
-:cons:
-- Its focus is on batch processing so it’s probably less useful for near real-time pipelines or continuously running processes.
-- The assumption is that each task is a sizable chunk of work. While you can probably schedule a few thousand jobs, it’s not meant to scale beyond tens of thousands.
-- Luigi does not support distribution of execution. When you have workers running thousands of jobs daily, this starts to matter, because the worker nodes get overloaded. There are some ways to mitigate this (trigger from many nodes, use resources), but none of them are ideal.
-- Luigi does not come with built-in triggering, and you still need to rely on something like crontab to trigger workflows periodically.
-:END:
-
-#+begin_src python
-  import luigi
-
-  class MyTask(luigi.Task):
-      param = luigi.Parameter(default=42)
-
-      def requires(self) -> Task|list[Task]:
-          return SomeOtherTask(self.param)
-
-      def run(self):
-          with self.output().open('w'):
-              ...
-
-      def output(self):
-          return luigi.LocalTarget("/temp/foo/bar-%s.txt" % self.param)
-
-
-@luigi.Task.event_handler(luidi.Event.SUCCESS)
-def celebrate_success(task):
-    ...
-#+end_src
-
-
-**** Make
-https://www.gnu.org/software/make/manual/make.html
-
-:pros:
-- rule based
-:END:
-:cons:
-- esoteric
-- relies on whitespace
-- complex var expansion
-:END:
-
-#+begin_src make
-objects = main.o kbd.o command.o display.o \
-          insert.o search.o files.o utils.o
-
-edit : $(objects)
-        cc -o edit $(objects)
-main.o : main.c defs.h
-        cc -c main.c
-kbd.o : kbd.c defs.h command.h
-        cc -c kbd.c
-command.o : command.c defs.h command.h
-        cc -c command.c
-display.o : display.c defs.h buffer.h
-        cc -c display.c
-insert.o : insert.c defs.h buffer.h
-        cc -c insert.c
-search.o : search.c defs.h buffer.h
-        cc -c search.c
-files.o : files.c defs.h buffer.h command.h
-        cc -c files.c
-utils.o : utils.c defs.h
-        cc -c utils.c
-clean :
-        rm edit $(objects)
-#+end_src
-
-
-**** Maven
-https://maven.apache.org/
-
-:pros:
-
-:END:
-:cons:
-
-:END:
-**** Meson
-https://en.wikipedia.org/wiki/Meson_(software)
-https://mesonbuild.com/
-
-:pros:
-
-:END:
-:cons:
-
-:END:
-**** Nix
-https://nixos.org/learn
-
-:concepts:
-- creates and composes file derivations
-:END:
-
-
-:pros:
-:END:
-:cons:
-
-:END:
-**** Rake
-https://docs.seattlerb.org/rake/
-
-:pros:
-
-:END:
-:cons:
-
-:END:
-**** Scons
-https://scons.org/documentation.html
-https://scons-cookbook.readthedocs.io/en/latest/
-
-:pros:
-- python
-- order independent
-:END:
-:cons:
-- documentation
-- not explicit
-:END:
-**** SnakeMake
-https://snakemake.readthedocs.io/en/stable/
-
-:concepts:
-
-:END:
-
-:pros:
-- reproducible
-- linter
-- modular
-- auto install of dependencies
-- tool wrappers
-- cluster execution
-- tabular config
-- reports
-- generates unit tests
-- handover to other task runners
-:END:
-:cons:
-- dsl, uncertain where python ends and snakemake begins
-- top down
-:END:
-
-#+begin_src snakemake
-rule bwa_map:
-    input:
-        "data/genome.fa",
-        "data/samples/A.fastq"
-    output:
-        "mapped_reads/A.bam"
-    shell:
-        "bwa mem {input} | samtools view -Sb - > {output}"
-
-#+end_src
-
-**** Toil
-https://toil.ucsc-cgl.org/
-https://github.com/DataBiosphere/toil
-
-:concepts:
-- leader : decides jobs by traversing job graph
-- job store : handles files shared between components, maintains state
-- worker : temporary processes, can run on to successors
-- batch system : schedules jobs
-- node provisioner : creates worker nodes
-- stats and logger :
-
-- jobs : atomic unit of work
-- workflow : extends job
-- jobDescription : metadata
-:END:
-
-
-:pros:
-- uses cwl, wdl, python
-:END:
-:cons:
-
-:END:
-
-#+begin_src python
-from toil.common import Toil
-from toil.job import Job
-
-
-def helloWorld(message, memory="1G", cores=1, disk="1G"):
-    return f"Hello, world!, here's a message: {message}"
-
-
-if __name__ == "__main__":
-    parser = Job.Runner.getDefaultArgumentParser()
-    options = parser.parse_args()
-    options.clean = "always"
-    with Toil(options) as toil:
-        output = toil.start(Job.wrapFn(helloWorld, "You did it!"))
-    print(output)
-
-#+end_src
-
-**** WDL
-https://docs.openwdl.org/en/latest/
-https://github.com/openwdl/wdl
-https://openwdl.org/getting-started/
-https://github.com/openwdl/wdl/blob/wdl-1.1/SPEC.md
-
-:concepts:
-- workflow
-- task
-- call
-- command
-- output
-:END:
-
-:pros:
-
-:END:
-:cons:
-
-:END:
-
-#+begin_src wdl
-workflow write_simple_file {
-  call write_file
-}
-task write_file {
-  String message
-  command { echo ${message} > wdl-helloworld-output.txt }
-  output { File test = "wdl-helloworld-output.txt" }
-}
-#+end_src
-
-*** Twitter archive processing
-**** TODO org -> html
-**** TODO html -> epub
-** Dotnet                                        :dotnet:
-** Emacs                                         :emacs:
-*** python
-**** TODO refine add-import
-**** TODO add __init__.py to new dired directories if in py project
-**** bots                                         :bots:
-***** TODO boards of directors
-*** bibtex
-**** TODO map :type -> bibtex types
-**** TODO remove empty fields
-**** TODO use spec handler for jg-bibtex-completion-display-formats
-**** TODO minimal bibtex library
-to remove need for ivy-bibtex, parsebib, citeproc, org-ref
-*** bindings
-**** TODO wipe global map C- and M-
-*** pdfs
-add pdftotext and pdfimages dired bindings
-and tesseract binding
-*** experiment
-**** org-brain
-https://github.com/Kungsgeten/org-brain
-**** agda
-**** ess
-**** fortran
-**** ivy
-**** julia
-**** ledger
-**** multi-cursor
-**** opa
-**** solidity
-**** taskrunners
-**** vertico
-*** TODO [#A] add comint-truncate-buffer to comint-output-filter-functions
-*** Dired
-**** TODO cookiecutter
-**** TODO pdftotext
-*** Proof general
-**** TODO repl popup instead of override window layout
-** Godot                                         :godot:
-*** android test
-**** TODO touch detection
-** Jacamo                                        :jacamo:
-** Lisp                                          :lisp:
-*** TODO timeline insert
-*** TODO general-insert highlighting mode
-*** TODO key-clean
-*** TODO doot task activation
-*** TODO template access ivy
-instead of spc-1-7, do spc-y-ret and dynamically drill into templates repo
-*** Blood Modules                               :module:
-**** WAIT Modules
-***** WAIT config
-****** WAIT bindings
-****** WAIT default
-****** WAIT disabled
-****** WAIT help
-****** WAIT linux
-****** WAIT mac
-****** WAIT search
-****** WAIT ui
-****** WAIT windows
-***** WAIT editor
-****** WAIT autosave
-****** WAIT buffer-nav
-****** WAIT evil
-****** WAIT fold
-****** WAIT large-files
-****** WAIT tagging
-****** WAIT text-manipulation
-****** WAIT undo
-****** WAIT window-nav
-***** WAIT experimentation
-***** WAIT ide
-****** WAIT company
-****** WAIT debugger
-****** WAIT diff
-****** WAIT librarian
-****** WAIT minimap
-****** WAIT snippets
-****** WAIT support
-****** WAIT version-control
-****** WAIT workspaces
-***** WAIT lang-data
-****** WAIT csv
-****** WAIT dot
-****** WAIT graphql
-****** WAIT json
-****** WAIT logs
-****** WAIT nu
-****** WAIT sql
-****** WAIT toml
-****** WAIT xml
-****** WAIT yaml
-***** WAIT lang-dsl
-****** WAIT acab
-****** WAIT ai-and-logic
-****** WAIT music
-****** WAIT nix
-****** WAIT qt
-****** WAIT rest
-****** WAIT sh
-***** WAIT lang-strongly-typed
-****** WAIT coq
-****** WAIT dotnet-langs
-****** WAIT fstar
-****** WAIT haskell
-****** WAIT idris
-****** WAIT jvm-langs
-****** WAIT lean
-****** WAIT ml-langs
-****** WAIT rust
-***** WAIT lang-text
-****** WAIT bibtex
-****** WAIT inform
-****** WAIT latex
-****** WAIT markdown
-****** WAIT org
-****** WAIT plantuml
-****** WAIT rst
-****** WAIT web
-***** WAIT lang-weakly-typed
-****** WAIT erlang-vms
-****** WAIT godot
-****** WAIT lisp-langs
-****** WAIT lua
-****** WAIT python
-****** WAIT ruby
-***** WAIT tools
-****** WAIT calendar
-****** WAIT dired
-****** WAIT eval
-****** WAIT mail
-****** WAIT pdfs
-****** WAIT processes
-****** WAIT term
-***** WAIT ui
-****** WAIT doom-ui
-****** WAIT helm
-****** WAIT hydra
-****** WAIT ibuffer
-****** WAIT ivy
-****** WAIT minibuffer
-****** WAIT ophints
-****** WAIT popup
-*** misc :refactor:
-**** TODO refactor doom specific -> general
-
-**** carousel-minor-mode
-***** TODO add tests
-**** code-shy-minor-mode
-***** TODO add tests
-**** env-handling
-***** TODO add readme
-***** TODO add tests
-**** evil-escape-hook
-**** evil-states-plus
-**** hydra-macros
-***** TODO add readme
-***** TODO add tests
-***** TODO merge with transient-macros
-**** librarian
-***** TODO document
-***** TODO add tests
-***** TODO add bookmark search
-*** misc-modes
-**** TODO [#A] agentspeak mode
-
-**** TODO palette insert with colours
-
-**** TODO coverage mode
-**** TODO cron mode
-**** TODO definition mode
-**** TODO lint result mode
-**** TODO logview mode
-**** TODO soar mode
-**** TODO ceptre mode
-
-*** project-zimmerframe
-**** TODO test
-*** spec-handling
-**** TODO document
-**** TODO test
-*** transient-macros
-**** TODO test
-**** TODO merge with hydra-macros
-** Python                                        :python:
-*** TODO 40ksim
-*** TODO py-timeline                            :experiment:
-https://www.gnu.org/software/gcal/manual/gcal.html
-*** acab
-**** TODO finish refactor and simplification
-*** cuty
-**** TODO update to work with doot
-*** instal
-**** TODO reintegrate original pytests
-*** TODO extract logctx,logcolour,logconfig to new package
-*** TODO python notes
-**** TODO timeit
-**** TODO trace
-**** TODO tracemalloc
-**** TODO faulthandler
-**** TODO atexit
-**** TODO gc
-**** TODO resource
-**** TODO dis
-**** TODO importlib
-**** TODO mmap
-*** TODO dejavu
-utilities and things i keep writing
-**** apis
-clingo, mastodon, selenium, sphinx
-**** cli
-arg parsing, shell baking, speaking
-***** REPL
-**** debugging
-protocol checking,
-destruction tracking
-memory and time tracing
-stack frame utilities
-fault / exit / exception handling
-human readable printing
-debugger prep entry
-**** decorators
-**** dsl
-pyparsing debug functions,
-pyparsing dsl structure
-**** error
-**** file_formats
-tex, twitter, netscape, org, timeline, tags
-file hashing, tar/zip manipulation,
-bookmarks, pickling
-**** geom
-dcel, voronoi, gifs,
-standard base math classes
-**** handlers
-reusable handler system
-signal handler
-**** importing
-search path extension
-plugin handling
-**** _interfaces
-useful interfaces, protocols
-singletons,
-**** logging
-config class,
-context class
-colour handling / stripping
-stdout capture
-**** setup
-reusable main
-reusable asyncio
-reusable ui
-**** spiders
-scrapy middlewares
-**** structs
-construct binary parser structure
-pl.path utility subclass
-graphs
-proxy attribute access
-rbtree
-code ref / structured names
-enums
-heaps
-key / state extraction
-match regex
-***** math
-comparison,
-easing,
-quadratics
-randomization
-colour
-***** rational time
-***** trie
-***** rete
-**** testing
-temp dir fixture
-**** ui
-gtk,
-**** utils
-
-** Rust                                          :rust:
-*** TODO rust <-> emacs
-Have emacs call a rust module
-http://diobla.info/blog-archive/modules-tut.html
-https://github.com/jkitchin/emacs-modules
-https://github.com/ubolonton/emacs-module-rs
-https://phst.eu/emacs-modules.html
-https://ryanfaulhaber.com/posts/first-emacs-module-rust/
-*** TODO rust <-> python
-Have python pass data back and forth to rust
-https://codeburst.io/how-to-use-rust-to-extend-python-360174ee5819?gi=f1a56fa91873
-https://docs.python.org/3/extending/building.html#building
-https://docs.rust-embedded.org/book/interoperability/c-with-rust.html
-https://github.com/PyO3/pyo3
-https://github.com/PyO3/setuptools-rust
-https://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/
-https://www.maturin.rs/
-** Templates                                     :templates:
-*** DONE move templates to separate repo
-*** TODO update project templates
-*** TODO themes
-*** TODO Definitions
-*** General Inserts                             :gen_insert:
-**** TODO general-insert : seaborn
-**** TODO general-insert : matplotlib
-**** TODO general-insert : sqlalchemy
-**** TODO general-insert : cairo
-**** TODO general-insert : construct
-**** TODO general-insert : scipy
-**** TODO general-insert : scikit-learn
-**** TODO general-insert : pyparsing
-**** TODO general-insert : networkx
-**** TODO pandas
 ** Datasets                                      :dataset:
 *** youtube
 **** Brothgar
@@ -1835,6 +551,1413 @@ https://www.maturin.rs/
 **** sim refinery
 **** rma metadata
 **** dft transport org charts
+** Doot                                          :doot:
+*** Actions                                     :actions:
+**** TODO write protection
+**** TODO actions don't bother to run if the keys they return are already present
+**** TODO add postbox decorators like keys
+**** TODO shell output redirection
+**** TODO test postbox
+**** TODO regex filter shell action to replace called sed
+**** TODO shell action fail handler
+**** TODO create a pandas/seaborn/matplotlib chart
+******  TODO create subclass actions: artifactReader, artifactWriter
+**** TODO task on-fail actions
+**** TODO [#A] job actions
+#+NAME: example
+#+begin_src toml :results output
+[[tasks.example]]
+name = "builder"
+ctor = "job"
+actions = [
+        {do="job.walk", roots_="roots", exts_="exts", update_="files"},
+        {do="job.namer",          from_="files", update_="names"},
+        {do="job.expand",         from_="files", base="example::base", update_="subtasks"},
+        {do="job.limit",          from_="files", count=20, update_="files"},
+        {do="inject:shadow_path", from_="subtasks", fpath="fpath" }
+        {do="job.queue",          from_="subtasks"},
+]
+#+end_src
+
+
+***** DONE expander
+***** DONE matcher
+***** DONE walker
+***** DONE limiter
+***** DONE setup
+***** DONE shadower
+***** DONE subtasker
+***** TODO chaining
+**** DONE DootKey action decorator
+#+NAME: example
+#+begin_src python :results output
+	@DootKeyWrap.path("from", as="different")
+    @DootKeyWrap.expand("target")
+    @DootKeyWrap.redirect("update_")
+    def an_action(spec, state, different, target, update):
+        # do stuff
+        return { update : target }
+#+end_src
+
+would allow automatic annotation for stubbing,
+type declarations,
+
+for multiples:?
+#+begin_src python
+  @DootKeyWrap.paths("from", "to", "other")
+  def an_action(spec, state, from, to, other):
+      pass
+#+end_src
+
+get spec args:
+#+begin_src python
+  @DootKeyWrap.args
+  def an_action(spec, state, args):
+      pass
+#+end_src
+
+typechecking:
+#+begin_src python
+  @DootKeyWrap.type("db", type_=BibtexDataBase)
+  def an_action(spec, state, db:BibTexDataBase):
+      pass
+#+end_src
+
+require it be in the spec/state,
+or require a return
+#+begin_src python
+  @DootKeyWrap.require("update_")
+  @DootKeyWrap.returns("val")
+  def an_action(spec, state):
+      pass
+#+end_src
+**** TODO predicate/skip tests
+staleness, recency, size, contains, hashcmp...
+*** Commands                                    :commands:
+**** TODO here command
+**** TODO help command print toml cli's separate
+**** TODO help command add mixin's as targets
+**** TODO locs_cmd print matches
+**** TODO locs_cmd print by source
+**** TODO stub templates registration / env var location
+**** TODO locs command includes metadata
+*** Corana                                      :corana:
+**** Doot Tasks
+***** TODO Pack Dataset
+***** TODO Verify data layer hashes
+***** TODO Metadata
+****** TODO Update
+
+****** TODO Copy
+
+***** TODO Clean old data
+***** TODO Spiders
+***** TODO Reports
+****** TODO List Packed Datasets
+****** TODO List Unpacked Datasets
+
+****** TODO Dataset Dates
+
+****** TODO Dataset Tags
+
+****** TODO Dataset Hashes
+
+***** TODO Replay File History
+**** Doot Cmds
+***** TODO Enable only in a provenance directory
+
+**** Code                                      :code:
+***** TODO metadata structs
+Metadata needs to be able to show:
+1) where a dataset came from
+2) what has been done to it
+3) what the contents of the dataset are
+4) how to check the above
+
+****** .provenance.toml
+name, tags, source, file_count, file_types,
+notes, initial_date, distance_from_raw_data
+****** .provenance dir
+files/history/environment jsonl files should match
+so line 1 in files -> line 1 in history -> line 1 in environment
+files will always have 1 more line than the others, the head.
+******* files.jsonl
+map files in this data layer to their hashes
+both current and previous layers
+one layer per line, as a dict of relative path -> hash
+#+begin_example
+{ "id": "...", "files": { "a/b/c.txt" : "...", "a/b/d.txt": ..." } }
+{ "id": "...", "files": { "a/b/c.json" : "...", "a/b/d.json": ..." } }
+{ "id": "...", "files": { "a/b/c.dot" : "...", "a/b/d.dot": ..." } }
+#+end_example
+******* history.jsonl
+track the full history of {raw} -> {current}
+of form:
+#+begin_example
+{ "id": "...", from_ids: ["..."], "date": "2023-12-26", "task": "basic::unpack", "sources": ["80977aab0bcb30cb2812b2f604f203e2"], "files_ids": ["..."], "env_id": "..." }
+{ "date": "2023-12-27", "task": "infinity::binary.parse"}
+#+end_example
+******* environment.jsonl
+env summaries of versions used.
+history.jsonl references these
+#+begin_example
+{"id": "...", "versions": {"python": "3.10.2", "doot": "0.0.1", "provenance": "0.0.1", "dootle": "..."} }
+#+end_example
+******* readme.txt
+explain each file format
+******* notes.txt
+******* tasks.toml
+add toml definitions of all tasks to this
+***** TODO Actions
+
+****** TODO copy_provenance_directory
+handle updating the logs
+update .provenance.toml
+****** TODO build_provenance_directory
+don't just touch files, insert templates into them
+****** TODO compress_provenance_files
+****** TODO verify_provenance_files
+***** TODO Spiders
+bay 12
+facebook
+media wiki
+worpress
+uesp
+wtfht
+
+***** TODO Binary Structs
+****** TODO aurora.py
+****** TODO bethesda.py
+****** TODO cd_project_red.py
+****** TODO fallout.py
+****** TODO heroes_2.py
+****** TODO infinity.py
+****** TODO rare.py
+****** TODO relic.py
+****** TODO sims.py
+****** TODO telltale.py
+****** TODO unity.py
+****** TODO unreal.py
+****** TODO valve.py
+***** TODO DSLs
+****** TODO abl.py
+****** TODO asl.py
+****** TODO asp.py
+****** TODO ceptre.py
+****** TODO cplus.py
+****** TODO lua.py
+****** TODO netlogo.py
+****** TODO paradox.py
+****** TODO skyrim.py
+****** TODO soar.py
+****** TODO versu.py
+****** TODO witcher.py
+***** TODO JSON
+****** TODO Obsidian
+***** TODO Lexers
+****** TODO abl.py
+****** TODO asl.py
+****** TODO cartago.py
+****** TODO ccalc.py
+****** TODO ceptre.py
+****** TODO clips.py
+****** TODO instal.py
+****** TODO jacamo.py
+****** TODO kentuckyr0_blocking.py
+****** TODO neverwinter_script.py
+****** TODO papyrus.py
+****** TODO paradox.py
+****** TODO smt.py
+****** TODO soar.py
+****** TODO spiderweb_script.py
+****** TODO unreal.py
+****** TODO versu.py
+****** TODO witcher_script.py
+***** TODO Spreadsheets
+****** TODO CSV
+****** TODO Excel
+***** TODO SWDA
+***** TODO Text
+***** TODO XML
+****** TODO Obsidian
+
+**** TODO Datasets                             :dataset:
+**** TODO Design                               :design:
+adapt scrapy's design?
+
+*** DBLP                                        :dblp:
+**** ISSNs
+***** TODO Journal of Political Economy: 00223808
+https://www.jstor.org/journal/jpoliecon
+
+***** TODO AI Magazine: 2371-9621, 0738-4602
+https://dblp.org/db/journals/aim/index.html
+
+***** TODO Artificial Intelligence: 0004-3702
+https://dblp.org/db/journals/ai/index.html
+
+***** TODO JASSS: 1460-7425
+https://dblp.org/db/journals/jasss/index.html
+
+***** TODO computers in human behavior: 0747-5632
+https://dblp.org/db/journals/chb/index.html
+
+***** TODO ACM Transactions on Programming Languages and Systems (TOPLAS) : 0164-0925, 1558-4592
+https://dblp.org/db/journals/toplas/index.html
+
+***** TODO Foundations and Trends in Programming Languages: 2325-1107, 2325-1131
+https://dblp.org/db/journals/ftpl/index.html
+
+***** TODO Journal of Programming Languages: 0963-9306
+https://dblp.org/db/journals/jpl/index.html
+
+***** TODO Organization Science: 1047-7039, 1526-5455
+https://dblp.org/db/journals/orgsci/index.html
+
+***** TODO International Journal of Human-Computer Interaction: 1044-7318, 1532-7590
+https://dblp.org/db/journals/ijhci/index.html
+
+**** TODO Proceedings
+
+***** TODO ACM-SIGACT Symposium on Principles of Programming Languages (POPL)
+https://dblp.org/db/conf/popl/index.html
+
+***** TODO ACM-SIGPLAN Symposium on Programming Language Design and Implementation (PLDI)
+https://dblp.org/db/conf/pldi/index.html
+
+***** TODO History of Programming Languages (HOPL)
+https://dblp.org/db/conf/hopl/index.html
+
+***** TODO Language Design and Programming Methodology
+https://dblp.org/db/conf/ldpm/index.html
+
+***** TODO Workshop on Evaluation and Usability of Programming Languages and Tools (PLATEAU)
+https://dblp.org/db/conf/plateau/index.html
+
+***** TODO Symposium on Programming Languages and Software Tools (SPLST)
+https://dblp.org/db/conf/splst/index.html
+*** Dootle                                      :dootle:
+**** cmds
+***** pre-commit yaml stub
+**** actions                                   :actions:
+***** TODO dot
+***** TODO downloader
+***** TODO ocr
+***** TODO pdf
+***** TODO plantuml
+***** TODO xml
+***** TODO rng
+***** TODO calender write
+***** TODO csv read / write
+**** android
+**** bibtex
+***** middlewares
+****** TODO ideal stemmer
+****** TODO library location enforcer
+****** TODO field lowercaser
+****** TODO year checker
+****** TODO title split
+****** TODO output name formatting
+****** TODO ISBN formatting
+****** TODO pdf metadata application
+****** TODO Url way-backer / checker
+****** TODO &amp; -> \&
+****** TODO reporters - author/editor counts, year entries, types, entries with files
+****** TODO journal/booktitle caps normalization
+****** TODO warn on missing doi/tags/url
+**** bookmarks
+***** TODO alchemy fns
+
+**** epub
+***** TODO compile
+***** TODO split
+
+**** godot
+**** latex
+**** python
+***** DONE increment version
+***** DONE pip build
+***** TODO local install
+***** TODO pipreqs
+***** TODO code line count
+***** TODO coverage
+**** sphinx
+***** TODO build
+***** TODO serve
+**** pelican
+**** spiders
+***** TODO tests
+***** TODO locations integration
+**** tags
+***** TODO clean
+
+**** TODO encryption
+**** TODO gradle
+**** TODO clingo
+
+**** Twitter archive processing
+**** TODO org -> html
+**** TODO html -> epub** Experiments                                 :experiment:
+**** TODO TDMQ option instead of individual task listing
+**** TODO floweaver                             :add:
+https://github.com/ricklupton/floweaver
+
+**** DONE isbn
+https://github.com/JNRowe/pyisbn
+https://github.com/WhyNotHugo/python-barcode
+https://github.com/TorKlingberg/isbn_hyphenate
+**** TODO railroad diagrams
+https://github.com/tabatkins/railroad-diagrams
+**** TODO readthedocs
+https://docs.readthedocs.io/en/stable/
+**** TODO quote images -> text
+**** TODO wayback
+https://akamhy.github.io/waybackpy/
+**** control
+***** TODO date tracker
+*** Mixins                                      :mixins:
+**** TODO runner fail handler
+**** KILL job : generate tasks from postbox entries
+**** KILL task setup/cleanup dependency mixin
+**** DONE job pattern matcher
+*** Other
+**** TODO active_when conditions
+**** TODO backup list cache
+******* TODO make jobs resumable
+**** TODO cli target lister
+**** TODO date tracker
+**** TODO [#A] doot memory guard
+possibly use https://psutil.readthedocs.io/en/latest/
+#+NAME: memory
+#+begin_src python :results output
+	def memory():
+    """
+    Get node total memory and memory usage
+      from https://stackoverflow.com/questions/17718449/
+    """
+    with open('/proc/meminfo', 'r') as mem:
+        ret = {}
+        tmp = 0
+        for i in mem:
+            sline = i.split()
+            if str(sline[0]) == 'MemTotal:':
+                ret['total'] = int(sline[1])
+            elif str(sline[0]) in ('MemFree:', 'Buffers:', 'Cached:'):
+                tmp += int(sline[1])
+        ret['free'] = tmp
+        ret['used'] = int(ret['total']) - int(ret['free'])
+    return ret
+#+end_src
+
+
+**** DONE fix doot.toml stubbing when pyproject.toml exists
+**** DONE pre-commit print colour disabler
+**** TODO read/write as implicit dependencies
+**** DONE refactor sname
+**** TODO same task different args
+**** TODO staleness / date checking
+**** TODO Task Runners Feature Comparison
+push / pull
+declarative, imperative
+
+***** Ansible
+https://en.wikipedia.org/wiki/Ansible_(software)
+https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/2.4
+
+:pros:
+
+:END:
+:cons:
+
+:END:
+***** Ant
+https://ant.apache.org/manual/index.html
+
+:concepts:
+:END:
+
+:pros:
+- stdlib
+:END:
+:cons:
+- java
+- xml
+:END:
+***** Cargo
+https://doc.rust-lang.org/cargo/
+
+:pros:
+
+:END:
+:cons:
+
+:END:
+***** CMake
+https://cmake.org/documentation/
+
+:pros:
+
+:END:
+:cons:
+
+:END:
+***** Collective Knowledge
+https://cknowledge.io/docs/
+
+:pros:
+
+:END:
+:cons:
+
+:END:
+***** Common Workflow Language
+https://www.commonwl.org/
+https://www.commonwl.org/user_guide/
+
+:pros:
+
+:END:
+:cons:
+- yaml
+:END:
+
+#+begin_src cwl
+cwlVersion: v1.0
+class: CommandLineTool
+baseCommand: echo
+stdout: output.txt
+inputs:
+  message:
+    type: string
+    inputBinding:
+      position: 1
+outputs:
+  output:
+    type: stdout
+
+#+end_src
+
+***** Doit
+https://pydoit.org/contents.html
+
+:pros:
+- just python
+:END:
+:cons:
+- relies on raw dicts
+
+:END:
+
+#+begin_src python
+  def task_do_something():
+      # Setup code here
+
+      # Task Spec:
+      return {
+          'actions'  : [...],
+          'file_dep' : [...],
+          'targets'  : [...],
+          }
+#+end_src
+
+***** Gradle
+https://gradle.org/
+
+:concepts:
+- settings script
+- build script
+- project
+- subproject
+- actionable tasks
+- lifecycle tasks
+- plugins
+- artifact
+- capability
+- component
+- configuration
+:END:
+
+
+:pros:
+- plugins
+- daemon
+:END:
+:cons:
+- groovy
+- gradlew
+- unclear syntax
+- documentation
+- constrained to jvm projects
+:END:
+***** Grunt
+https://gruntjs.com/
+
+:concepts:
+- package.json
+- gruntfile
+- alias tasks
+- multi tasks
+- basic tasks
+- custom tasks
+:END:
+
+
+:pros:
+- plugins
+:END:
+:cons:
+- javascript
+:END:
+
+#+begin_src javascript
+ module.exports = function(grunt) {
+
+  // Project configuration.
+  grunt.initConfig({
+    pkg: grunt.file.readJSON('package.json'),
+    uglify: {
+      options: {
+        banner: '/*! <%= pkg.name %> <%= grunt.template.today("yyyy-mm-dd") %> */\n'
+      },
+      build: {
+        src: 'src/<%= pkg.name %>.js',
+        dest: 'build/<%= pkg.name %>.min.js'
+      }
+    }
+  });
+
+  // Load the plugin that provides the "uglify" task.
+  grunt.loadNpmTasks('grunt-contrib-uglify');
+
+  // Default task(s).
+  grunt.registerTask('default', ['uglify']);
+
+};
+#+end_src
+
+***** Gulp
+https://gulpjs.com/
+
+:concepts:
+- gulpfile
+- tasks : async functions
+- public tasks
+- private tasks
+:END:
+
+
+:pros:
+- combinator based
+:END:
+:cons :
+- javascript
+:END:
+
+#+begin_src javascript
+function defaultTask(cb){
+    // do stuff
+    cb();
+}
+
+exports.default = defaulTask
+#+end_src
+
+***** Scrapy
+https://scrapy.org/
+
+:concepts:
+- spiders
+- middleware
+- pipeline
+- runner
+- contracts
+:END:
+
+:dataflow:
+1) The Engine gets the initial Requests to crawl from the Spider.
+2) The Engine schedules the Requests in the Scheduler and asks for the next Requests to crawl.
+3) The Scheduler returns the next Requests to the Engine.
+4) process_request through downloader middlewares,
+5) download.
+6) process_response through downloader middlewares.
+7) process_spider_input through spider middlewares.
+8) process_spider_output of new Requests and scraped items.
+9) The Engine sends processed items to Item Pipelines, and send processed Requests to the Scheduler and asks for possible next Requests to crawl.
+10) The process repeats (from step 3) until there are no more requests from the Scheduler.
+:END:
+
+
+:pros:
+- non-blocking,
+- modular
+:END:
+:cons:
+- overrules logging
+:END:
+
+
+***** Twisted
+***** Jenkins
+https://www.jenkins.io/doc/
+https://www.jenkins.io/doc/book/pipeline/syntax/
+
+:concepts:
+- jenkinsfile
+- pipelines
+- sections
+- directives
+- steps
+- agents
+:END:
+
+
+:pros:
+- can be declarative or scripted
+:END:
+:cons:
+- groovy
+:END:
+
+#+begin_src jenkins
+pipeline {
+    agent any
+    options {
+        // Timeout counter starts AFTER agent is allocated
+        timeout(time: 1, unit: 'SECONDS')
+    }
+    stages {
+        stage('Example') {
+            steps {
+                echo 'Hello World'
+            }
+        }
+    }
+}
+
+#+end_src
+***** kubernetes
+https://kubernetes.io/docs/home/
+
+:concepts:
+
+:END:
+
+***** OPA
+https://www.openpolicyagent.org/
+
+:concepts:
+- permissions
+- agents
+- roles
+- policy
+- rules
+:END:
+
+:pros:
+
+:END:
+:cons:
+- rego
+:END:
+
+
+***** Luigi
+https://luigi.readthedocs.io/en/stable/design_and_limitations.html
+
+:concepts:
+Target         - has .exists(), possible .open
+Task           - .run(), .output(), .requires()
+Parameter      -
+Events         -
+Event Handlers -
+:END:
+:pros:
+- Straightforward command-line integration.
+- As little boilerplate as possible.
+- Focus on job scheduling and dependency resolution.
+- A file system abstraction where code doesn’t have to care about where files are located.
+- Atomic file system operations through this abstraction. If a task crashes it won’t lead to a broken state.
+- The dependencies are decentralized. No big config file in XML.
+- A web server that renders the dependency graph and does locking, etc for free.
+- Trivial to extend with new file systems, file formats, and job types.
+- Date algebra included.
+- Lots of unit tests of the most basic stuff.
+:END:
+:cons:
+- Its focus is on batch processing so it’s probably less useful for near real-time pipelines or continuously running processes.
+- The assumption is that each task is a sizable chunk of work. While you can probably schedule a few thousand jobs, it’s not meant to scale beyond tens of thousands.
+- Luigi does not support distribution of execution. When you have workers running thousands of jobs daily, this starts to matter, because the worker nodes get overloaded. There are some ways to mitigate this (trigger from many nodes, use resources), but none of them are ideal.
+- Luigi does not come with built-in triggering, and you still need to rely on something like crontab to trigger workflows periodically.
+:END:
+
+#+begin_src python
+  import luigi
+
+  class MyTask(luigi.Task):
+      param = luigi.Parameter(default=42)
+
+      def requires(self) -> Task|list[Task]:
+          return SomeOtherTask(self.param)
+
+      def run(self):
+          with self.output().open('w'):
+              ...
+
+      def output(self):
+          return luigi.LocalTarget("/temp/foo/bar-%s.txt" % self.param)
+
+
+@luigi.Task.event_handler(luidi.Event.SUCCESS)
+def celebrate_success(task):
+    ...
+#+end_src
+
+
+***** Make
+https://www.gnu.org/software/make/manual/make.html
+
+:pros:
+- rule based
+:END:
+:cons:
+- esoteric
+- relies on whitespace
+- complex var expansion
+:END:
+
+#+begin_src make
+objects = main.o kbd.o command.o display.o \
+          insert.o search.o files.o utils.o
+
+edit : $(objects)
+        cc -o edit $(objects)
+main.o : main.c defs.h
+        cc -c main.c
+kbd.o : kbd.c defs.h command.h
+        cc -c kbd.c
+command.o : command.c defs.h command.h
+        cc -c command.c
+display.o : display.c defs.h buffer.h
+        cc -c display.c
+insert.o : insert.c defs.h buffer.h
+        cc -c insert.c
+search.o : search.c defs.h buffer.h
+        cc -c search.c
+files.o : files.c defs.h buffer.h command.h
+        cc -c files.c
+utils.o : utils.c defs.h
+        cc -c utils.c
+clean :
+        rm edit $(objects)
+#+end_src
+
+
+***** Maven
+https://maven.apache.org/
+
+:pros:
+
+:END:
+:cons:
+
+:END:
+***** Meson
+https://en.wikipedia.org/wiki/Meson_(software)
+https://mesonbuild.com/
+
+:pros:
+
+:END:
+:cons:
+
+:END:
+***** Nix
+https://nixos.org/learn
+
+:concepts:
+- creates and composes file derivations
+:END:
+
+
+:pros:
+:END:
+:cons:
+
+:END:
+***** Rake
+https://docs.seattlerb.org/rake/
+
+:pros:
+
+:END:
+:cons:
+
+:END:
+***** Scons
+https://scons.org/documentation.html
+https://scons-cookbook.readthedocs.io/en/latest/
+
+:pros:
+- python
+- order independent
+:END:
+:cons:
+- documentation
+- not explicit
+:END:
+***** SnakeMake
+https://snakemake.readthedocs.io/en/stable/
+
+:concepts:
+
+:END:
+
+:pros:
+- reproducible
+- linter
+- modular
+- auto install of dependencies
+- tool wrappers
+- cluster execution
+- tabular config
+- reports
+- generates unit tests
+- handover to other task runners
+:END:
+:cons:
+- dsl, uncertain where python ends and snakemake begins
+- top down
+:END:
+
+#+begin_src snakemake
+rule bwa_map:
+    input:
+        "data/genome.fa",
+        "data/samples/A.fastq"
+    output:
+        "mapped_reads/A.bam"
+    shell:
+        "bwa mem {input} | samtools view -Sb - > {output}"
+
+#+end_src
+
+***** Toil
+https://toil.ucsc-cgl.org/
+https://github.com/DataBiosphere/toil
+
+:concepts:
+- leader : decides jobs by traversing job graph
+- job store : handles files shared between components, maintains state
+- worker : temporary processes, can run on to successors
+- batch system : schedules jobs
+- node provisioner : creates worker nodes
+- stats and logger :
+
+- jobs : atomic unit of work
+- workflow : extends job
+- jobDescription : metadata
+:END:
+
+
+:pros:
+- uses cwl, wdl, python
+:END:
+:cons:
+
+:END:
+
+#+begin_src python
+from toil.common import Toil
+from toil.job import Job
+
+
+def helloWorld(message, memory="1G", cores=1, disk="1G"):
+    return f"Hello, world!, here's a message: {message}"
+
+
+if __name__ == "__main__":
+    parser = Job.Runner.getDefaultArgumentParser()
+    options = parser.parse_args()
+    options.clean = "always"
+    with Toil(options) as toil:
+        output = toil.start(Job.wrapFn(helloWorld, "You did it!"))
+    print(output)
+
+#+end_src
+
+***** WDL
+https://docs.openwdl.org/en/latest/
+https://github.com/openwdl/wdl
+https://openwdl.org/getting-started/
+https://github.com/openwdl/wdl/blob/wdl-1.1/SPEC.md
+
+:concepts:
+- workflow
+- task
+- call
+- command
+- output
+:END:
+
+:pros:
+
+:END:
+:cons:
+
+:END:
+
+#+begin_src wdl
+workflow write_simple_file {
+  call write_file
+}
+task write_file {
+  String message
+  command { echo ${message} > wdl-helloworld-output.txt }
+  output { File test = "wdl-helloworld-output.txt" }
+}
+#+end_src
+**** TODO tracker.contains : artifact checks
+**** TODO tracker handling of adding unambiguous group-less task names
+**** TODO tracker writing/reading
+**** TODO update task spec version
+#+begin_src toml :results output
+[[tasks.group]]
+name = "blah"
+# Old:
+version = "0.1"
+# New:
+version = {"task": "0.1", "doot": ">0.5.1", "dootle" : "<0.2.1" ... }
+# and check the version on build
+# similarly:
+depends_on = ["another::task, 0.2.1","and::another, >0.1"]
+#+end_src
+
+**** TODO use cli param constraints in cli parsing
+**** TODO policies
+***** breaker
+***** bulkhead
+***** retry
+***** timeout
+***** cache
+***** fallback
+***** cleanup
+***** debug
+***** pretend
+***** accept
+**** TODO queue cleanup task
+**** TODO symlink nonlocal task files into .tasks
+**** TODO queue tasks without groups when no ambiguity
+**** TODO ensure idempotency of tracker add_task/queue_task
+**** TODO using action annotations to modify tracker network dependencies
+
+** Dotnet                                        :dotnet:
+** Emacs                                         :emacs:
+*** python
+**** TODO refine add-import
+**** TODO add __init__.py to new dired directories if in py project
+**** bots                                         :bots:
+***** TODO boards of directors
+*** bibtex
+**** TODO map :type -> bibtex types
+**** TODO remove empty fields
+**** TODO use spec handler for jg-bibtex-completion-display-formats
+**** TODO minimal bibtex library
+to remove need for ivy-bibtex, parsebib, citeproc, org-ref
+*** bindings
+**** TODO wipe global map C- and M-
+*** pdfs
+add pdftotext and pdfimages dired bindings
+and tesseract binding
+*** experiment
+**** org-brain
+https://github.com/Kungsgeten/org-brain
+**** agda
+**** ess
+**** fortran
+**** ivy
+**** julia
+**** ledger
+**** multi-cursor
+**** opa
+**** solidity
+**** taskrunners
+**** vertico
+*** TODO [#A] add comint-truncate-buffer to comint-output-filter-functions
+*** Dired
+**** TODO cookiecutter
+**** TODO pdftotext
+*** Proof general
+**** TODO repl popup instead of override window layout
+*** TODO new eval module
+*** TODO doot call from toml
+*** TODO quick doot
+** Godot                                         :godot:
+*** android test
+**** TODO touch detection
+** Jacamo                                        :jacamo:
+** Lisp                                          :lisp:
+*** TODO timeline insert
+*** TODO general-insert highlighting mode
+*** TODO key-clean
+*** TODO doot task activation
+*** TODO template access ivy
+instead of spc-1-7, do spc-y-ret and dynamically drill into templates repo
+*** Blood Modules                               :module:
+**** WAIT Modules
+***** WAIT config
+****** WAIT bindings
+****** WAIT default
+****** WAIT disabled
+****** WAIT help
+****** WAIT linux
+****** WAIT mac
+****** WAIT search
+****** WAIT ui
+****** WAIT windows
+***** WAIT editor
+****** WAIT autosave
+****** WAIT buffer-nav
+****** WAIT evil
+****** WAIT fold
+****** WAIT large-files
+****** WAIT tagging
+****** WAIT text-manipulation
+****** WAIT undo
+****** WAIT window-nav
+***** WAIT experimentation
+***** WAIT ide
+****** WAIT company
+****** WAIT debugger
+****** WAIT diff
+****** WAIT librarian
+****** WAIT minimap
+****** WAIT snippets
+****** WAIT support
+****** WAIT version-control
+****** WAIT workspaces
+***** WAIT lang-data
+****** WAIT csv
+****** WAIT dot
+****** WAIT graphql
+****** WAIT json
+****** WAIT logs
+****** WAIT nu
+****** WAIT sql
+****** WAIT toml
+****** WAIT xml
+****** WAIT yaml
+***** WAIT lang-dsl
+****** WAIT acab
+****** WAIT ai-and-logic
+****** WAIT music
+****** WAIT nix
+****** WAIT qt
+****** WAIT rest
+****** WAIT sh
+***** WAIT lang-strongly-typed
+****** WAIT coq
+****** WAIT dotnet-langs
+****** WAIT fstar
+****** WAIT haskell
+****** WAIT idris
+****** WAIT jvm-langs
+****** WAIT lean
+****** WAIT ml-langs
+****** WAIT rust
+***** WAIT lang-text
+****** WAIT bibtex
+****** WAIT inform
+****** WAIT latex
+****** WAIT markdown
+****** WAIT org
+****** WAIT plantuml
+****** WAIT rst
+****** WAIT web
+***** WAIT lang-weakly-typed
+****** WAIT erlang-vms
+****** WAIT godot
+****** WAIT lisp-langs
+****** WAIT lua
+****** WAIT python
+****** WAIT ruby
+***** WAIT tools
+****** WAIT calendar
+****** WAIT dired
+****** WAIT eval
+****** WAIT mail
+****** WAIT pdfs
+****** WAIT processes
+****** WAIT term
+***** WAIT ui
+****** WAIT doom-ui
+****** WAIT helm
+****** WAIT hydra
+****** WAIT ibuffer
+****** WAIT ivy
+****** WAIT minibuffer
+****** WAIT ophints
+****** WAIT popup
+*** misc :refactor:
+**** TODO refactor doom specific -> general
+
+**** carousel-minor-mode
+***** TODO add tests
+**** code-shy-minor-mode
+***** TODO add tests
+**** env-handling
+***** TODO add readme
+***** TODO add tests
+**** evil-escape-hook
+**** evil-states-plus
+***** TODO search state
+***** TODO vis control state
+**** hydra-macros
+***** TODO add readme
+***** TODO add tests
+***** TODO merge with transient-macros
+**** librarian
+***** TODO document
+***** TODO add tests
+***** TODO add bookmark search
+*** misc-modes
+**** TODO [#A] agentspeak mode
+
+**** TODO palette insert with colours
+
+**** TODO coverage mode
+**** TODO cron mode
+**** TODO definition mode
+**** TODO lint result mode
+**** TODO logview mode
+**** TODO soar mode
+**** TODO ceptre mode
+
+*** project-zimmerframe
+**** TODO test
+*** spec-handling
+**** TODO document
+**** TODO test
+*** transient-macros
+**** TODO test
+**** TODO merge with hydra-macros
+** Python                                        :python:
+*** TODO 40ksim
+*** TODO py-timeline                            :experiment:
+https://www.gnu.org/software/gcal/manual/gcal.html
+*** acab
+**** TODO finish refactor and simplification
+*** cuty
+**** TODO update to work with doot
+*** instal
+**** TODO reintegrate original pytests
+*** DONE extract logctx,logcolour,logconfig to new package
+added to jgdv
+*** TODO python notes
+**** TODO timeit
+**** TODO trace
+**** TODO tracemalloc
+**** TODO faulthandler
+**** TODO atexit
+**** TODO gc
+**** TODO resource
+**** TODO dis
+**** TODO importlib
+**** TODO mmap
+*** TODO jgdv
+utilities and things i keep writing
+**** apis
+***** mastodon
+***** clingo
+***** selenium
+***** sphinx
+**** cli
+***** REPL
+***** arg parser
+**** debugging
+***** dsl
+***** frame helper
+***** human
+***** malloc
+***** running debugger
+***** trace helper
+***** destruction
+**** decorators
+***** base
+***** breakpoint
+***** check protocol
+***** dsl
+***** logging
+***** util
+**** dsl
+***** consts
+***** ctors
+***** funcs
+***** util
+**** enums
+***** location
+***** loop
+***** task response
+***** task state
+**** error
+**** file_formats
+tex, twitter, netscape, org, timeline, tags
+file hashing, tar/zip manipulation,
+bookmarks, pickling
+***** binary
+***** bookmarks
+****** bookmark
+****** collection
+****** netscape
+***** epub
+***** gif
+***** graph
+***** jinja
+***** org
+***** pdf
+***** tags
+****** base
+****** graph
+****** index
+****** name
+****** substitutions
+***** tex
+****** base
+****** bib
+****** envs
+****** gantt
+****** pdf
+****** statements
+****** util
+***** timeline
+***** twitter
+***** json
+***** mem map
+***** metadata
+***** sha256
+***** tar
+***** zip
+**** geom
+***** dcel
+***** intersection
+***** math
+***** voronoi
+**** importing
+***** inspect
+***** plugin loader
+**** _interfaces
+***** accessors
+***** decorator
+***** factory
+***** loader
+***** policy
+***** singleton
+**** keys
+***** base
+***** decorator
+***** formatter
+***** multikeys
+***** path keys
+***** simple keys
+**** location
+***** locations
+***** toml loc
+**** logging
+***** colour
+***** config
+***** context
+***** stdout capture
+**** math
+***** colour
+***** comparison
+***** easings
+***** matrices
+***** parabola
+***** quadratic
+***** quantize
+***** random
+***** sorting
+***** umath
+***** utils
+**** mixins
+***** enums
+***** param spec
+***** path manip
+***** zipper
+**** setup
+***** asyncio
+****** client
+****** server
+***** gtk
+***** hooks
+***** importing
+***** main
+***** pyparsing
+***** setup
+***** tkinter
+**** spiders
+***** caching
+***** crawler
+***** middleware
+***** mixin
+***** pipeline
+***** spiders
+**** structs
+***** artifact
+***** coderef
+***** graphs
+***** heap
+***** name
+***** param spec
+***** proxy
+***** rational time
+***** rbtree
+***** regex
+***** rete
+***** time
+***** trace
+***** tree
+***** trie
+**** testing
+***** temp dir fixture
+**** utils
+***** chain get
+***** slice
+**** _types
+
+*** TODO nominate
+** Rust                                          :rust:
+*** TODO rust <-> emacs
+Have emacs call a rust module
+http://diobla.info/blog-archive/modules-tut.html
+https://github.com/jkitchin/emacs-modules
+https://github.com/ubolonton/emacs-module-rs
+https://phst.eu/emacs-modules.html
+https://ryanfaulhaber.com/posts/first-emacs-module-rust/
+*** TODO rust <-> python
+Have python pass data back and forth to rust
+https://codeburst.io/how-to-use-rust-to-extend-python-360174ee5819?gi=f1a56fa91873
+https://docs.python.org/3/extending/building.html#building
+https://docs.rust-embedded.org/book/interoperability/c-with-rust.html
+https://github.com/PyO3/pyo3
+https://github.com/PyO3/setuptools-rust
+https://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/
+https://www.maturin.rs/
+** Templates                                     :templates:
+*** DONE move templates to separate repo
+*** DONE update project templates
+*** TODO themes
+*** TODO Definitions
+*** General Inserts                             :gen_insert:
+**** TODO general-insert : seaborn
+**** TODO general-insert : matplotlib
+**** TODO general-insert : sqlalchemy
+**** TODO general-insert : cairo
+**** TODO general-insert : construct
+**** TODO general-insert : scipy
+**** TODO general-insert : scikit-learn
+**** TODO general-insert : pyparsing
+**** TODO general-insert : networkx
+**** TODO pandas
 * Bibliography                                    :bibliography:
 ** TODO in_progress
 *** TODO ai-reviews
