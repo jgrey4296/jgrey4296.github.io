@@ -4,9 +4,10 @@
 "generative ai and the future of computational propaganda" - samuel woolley
 
 * Current
+** TODO refactor doot log setup to jgdv
+** TODO logging filter of secrets
 ** TODO [#A] Blood Bind
 ** TODO [#A] parse youtube data
-** TODO bibtex metadata task
 ** TODO definition mode
 similar to wordnut-search
 add/lookup timeline+definitions
@@ -40,38 +41,14 @@ add/lookup timeline+definitions
 *** ui popup
 *** lang-weakly-typed lisp-langs
 *** lang-weakly-typed python
-** STRT urls file
 ** TODO [#C] bibtex-middlewares
-*** author_handler
-capitalizer
-*** doi_handler
-*** failure_handler
-*** file_handler
-**** TODO add metadata to pdf / epubs
-**** TODO add bookmarks
-**** TODO validate file existence
-*** formatter
-**** TODO sort fields
-*** STRT online_handler
-*** hash_handler
-*** isbn_handler
-*** key_handler
-**** TODO crossref validator
-*** latex_handler
-*** path_handler
-*** selectors
-**** TODO type
-**** TODO tag
-*** sorting_handler
-**** TODO author
-**** TODO year
-**** TODO type
-*** stack_builder
-*** tags_handler
-**** TODO validator
-**** TODO cleaner
-*** title_handler
-*** url_handler.py
+*** crossref validator
+*** doi handler
+*** field sorter
+*** hash validator
+*** metadata writer
+*** stack builder
+*** waybacker
 ** TODO [#C] blood                               :blood:
 *** Testing                                       :test:
 **** TODO deferral
@@ -553,7 +530,7 @@ capitalizer
 **** dft transport org charts
 ** Doot                                          :doot:
 *** Actions                                     :actions:
-**** TODO write protection
+**** DONE write protection
 **** TODO actions don't bother to run if the keys they return are already present
 **** TODO add postbox decorators like keys
 **** TODO shell output redirection
@@ -641,150 +618,6 @@ staleness, recency, size, contains, hashcmp...
 **** TODO locs_cmd print by source
 **** TODO stub templates registration / env var location
 **** TODO locs command includes metadata
-*** Corana                                      :corana:
-**** Doot Tasks
-***** TODO Pack Dataset
-***** TODO Verify data layer hashes
-***** TODO Metadata
-****** TODO Update
-
-****** TODO Copy
-
-***** TODO Clean old data
-***** TODO Spiders
-***** TODO Reports
-****** TODO List Packed Datasets
-****** TODO List Unpacked Datasets
-
-****** TODO Dataset Dates
-
-****** TODO Dataset Tags
-
-****** TODO Dataset Hashes
-
-***** TODO Replay File History
-**** Doot Cmds
-***** TODO Enable only in a provenance directory
-
-**** Code                                      :code:
-***** TODO metadata structs
-Metadata needs to be able to show:
-1) where a dataset came from
-2) what has been done to it
-3) what the contents of the dataset are
-4) how to check the above
-
-****** .provenance.toml
-name, tags, source, file_count, file_types,
-notes, initial_date, distance_from_raw_data
-****** .provenance dir
-files/history/environment jsonl files should match
-so line 1 in files -> line 1 in history -> line 1 in environment
-files will always have 1 more line than the others, the head.
-******* files.jsonl
-map files in this data layer to their hashes
-both current and previous layers
-one layer per line, as a dict of relative path -> hash
-#+begin_example
-{ "id": "...", "files": { "a/b/c.txt" : "...", "a/b/d.txt": ..." } }
-{ "id": "...", "files": { "a/b/c.json" : "...", "a/b/d.json": ..." } }
-{ "id": "...", "files": { "a/b/c.dot" : "...", "a/b/d.dot": ..." } }
-#+end_example
-******* history.jsonl
-track the full history of {raw} -> {current}
-of form:
-#+begin_example
-{ "id": "...", from_ids: ["..."], "date": "2023-12-26", "task": "basic::unpack", "sources": ["80977aab0bcb30cb2812b2f604f203e2"], "files_ids": ["..."], "env_id": "..." }
-{ "date": "2023-12-27", "task": "infinity::binary.parse"}
-#+end_example
-******* environment.jsonl
-env summaries of versions used.
-history.jsonl references these
-#+begin_example
-{"id": "...", "versions": {"python": "3.10.2", "doot": "0.0.1", "provenance": "0.0.1", "dootle": "..."} }
-#+end_example
-******* readme.txt
-explain each file format
-******* notes.txt
-******* tasks.toml
-add toml definitions of all tasks to this
-***** TODO Actions
-
-****** TODO copy_provenance_directory
-handle updating the logs
-update .provenance.toml
-****** TODO build_provenance_directory
-don't just touch files, insert templates into them
-****** TODO compress_provenance_files
-****** TODO verify_provenance_files
-***** TODO Spiders
-bay 12
-facebook
-media wiki
-worpress
-uesp
-wtfht
-
-***** TODO Binary Structs
-****** TODO aurora.py
-****** TODO bethesda.py
-****** TODO cd_project_red.py
-****** TODO fallout.py
-****** TODO heroes_2.py
-****** TODO infinity.py
-****** TODO rare.py
-****** TODO relic.py
-****** TODO sims.py
-****** TODO telltale.py
-****** TODO unity.py
-****** TODO unreal.py
-****** TODO valve.py
-***** TODO DSLs
-****** TODO abl.py
-****** TODO asl.py
-****** TODO asp.py
-****** TODO ceptre.py
-****** TODO cplus.py
-****** TODO lua.py
-****** TODO netlogo.py
-****** TODO paradox.py
-****** TODO skyrim.py
-****** TODO soar.py
-****** TODO versu.py
-****** TODO witcher.py
-***** TODO JSON
-****** TODO Obsidian
-***** TODO Lexers
-****** TODO abl.py
-****** TODO asl.py
-****** TODO cartago.py
-****** TODO ccalc.py
-****** TODO ceptre.py
-****** TODO clips.py
-****** TODO instal.py
-****** TODO jacamo.py
-****** TODO kentuckyr0_blocking.py
-****** TODO neverwinter_script.py
-****** TODO papyrus.py
-****** TODO paradox.py
-****** TODO smt.py
-****** TODO soar.py
-****** TODO spiderweb_script.py
-****** TODO unreal.py
-****** TODO versu.py
-****** TODO witcher_script.py
-***** TODO Spreadsheets
-****** TODO CSV
-****** TODO Excel
-***** TODO SWDA
-***** TODO Text
-***** TODO XML
-****** TODO Obsidian
-
-**** TODO Datasets                             :dataset:
-**** TODO Design                               :design:
-adapt scrapy's design?
-
 *** DBLP                                        :dblp:
 **** ISSNs
 ***** TODO Journal of Political Economy: 00223808
@@ -865,6 +698,7 @@ https://dblp.org/db/conf/splst/index.html
 ****** TODO reporters - author/editor counts, year entries, types, entries with files
 ****** TODO journal/booktitle caps normalization
 ****** TODO warn on missing doi/tags/url
+****** DONE bibtex metadata task
 **** bookmarks
 ***** TODO alchemy fns
 
@@ -954,6 +788,8 @@ possibly use https://psutil.readthedocs.io/en/latest/
 **** DONE pre-commit print colour disabler
 **** TODO read/write as implicit dependencies
 **** DONE refactor sname
+**** TODO task name params
+so "a.group::task.{arg=val}"?
 **** TODO same task different args
 **** TODO staleness / date checking
 **** TODO Task Runners Feature Comparison
@@ -1549,7 +1385,20 @@ depends_on = ["another::task, 0.2.1","and::another, >0.1"]
 **** TODO queue tasks without groups when no ambiguity
 **** TODO ensure idempotency of tracker add_task/queue_task
 **** TODO using action annotations to modify tracker network dependencies
-
+**** TODO pre-run, print task plan from built network
+**** TODO cli args
+currently doot/control/base_tracker.py : 243
+uses match spec.source
+**** TODO boltons.priorityQueue subclass
+override 'add' to call get_priority on the *task* before calling super().add
+*** Corana
+**** archiving
+**** binary
+**** json
+**** metadata
+**** spiders
+**** swda
+**** xml
 ** Dotnet                                        :dotnet:
 ** Emacs                                         :emacs:
 *** python
@@ -1591,6 +1440,9 @@ https://github.com/Kungsgeten/org-brain
 *** TODO new eval module
 *** TODO doot call from toml
 *** TODO quick doot
+*** TODO add frames ops to workspace transient
+*** TODO ibuffer temp group by marked
+*** DONE make q in helpful work on a local stack of helpful buffers
 ** Godot                                         :godot:
 *** android test
 **** TODO touch detection
@@ -1702,11 +1554,21 @@ instead of spc-1-7, do spc-y-ret and dynamically drill into templates repo
 
 **** carousel-minor-mode
 ***** TODO add tests
+
+***** TODO add buffer pairing for tests
+'t' to shift
+
+***** TODO add vertical tracks
+'R - [j,k]' to shift
 **** code-shy-minor-mode
 ***** TODO add tests
 **** env-handling
 ***** TODO add readme
 ***** TODO add tests
+***** TODO shift config to ide, not python
+***** TODO generalize to handle java, erlang, etc
+***** TODO read toml
+***** TODO read pipfiles
 **** evil-escape-hook
 **** evil-states-plus
 ***** TODO search state
@@ -1737,6 +1599,9 @@ instead of spc-1-7, do spc-y-ret and dynamically drill into templates repo
 *** spec-handling
 **** TODO document
 **** TODO test
+**** TODO pass symbols to spec-handling-add!
+then eval them on application
+
 *** transient-macros
 **** TODO test
 **** TODO merge with hydra-macros
@@ -1763,7 +1628,7 @@ added to jgdv
 **** TODO dis
 **** TODO importlib
 **** TODO mmap
-*** TODO jgdv
+*** TODO jgdv / dejavu
 utilities and things i keep writing
 **** apis
 ***** mastodon
