@@ -3,24 +3,59 @@
 
 "generative ai and the future of computational propaganda" - samuel woolley
 
-* Current
-** TODO refactor doot log setup to jgdv
-** TODO logging filter of secrets
-** TODO [#A] Blood Bind
-** TODO [#A] parse youtube data
-** TODO definition mode
+* Active
+** TODO Blood Bind
+*** [∅] bloodbind! -> structs
+macro -> pattern -> entry -> profile -> store
+
+*** [∅] pattern expansion
+*** application
+*** local vars
+*** global vars
+*** hook installation
+*** reporting
+*** Testing
+**** start state instruction
+**** map creation
+**** local map creation
+**** map prefixs
+**** map states
+**** lambda wrapping
+**** metadata pairing
+**** toggle
+**** rebinding
+
+** TODO librarian
+*** [∅] use xref and ivy-xref
+https://blog.kotatsu.dev/posts/2023-10-28-emacs-ctags/
+https://www.ackerleytng.com/posts/emacs-xref/
+https://andreyor.st/posts/2023-09-09-migrating-from-lsp-mode-to-eglot/
+https://www.gnu.org/software/emacs/manual/html_node/emacs/Xref.html
+*** [∅] structs
+*** [∅] add session saving
+*** [∅] document
+*** [∅] tests
+*** [∅] bookmark search
+* Queue
+** re-add potassco to apt
+https://launchpad.net/~potassco/+archive/ubuntu/stable
+[[/media/john/data/github/_templates/apt/sources/potassco-ubuntu-stable-lunar.list][apt sources]]
+** refactor doot log setup to jgdv
+** logging filter of secrets
+** [#A] parse youtube data
+** definition mode
 similar to wordnut-search
 add/lookup timeline+definitions
 *** TODO timelines
 **** DONE shift to submodule
 *** TODO shift definitions to timelines repo
-** TODO doot readthedocs
-** TODO tomlguard proxies
+** doot readthedocs
+** tomlguard proxies
 *** first_of
 *** all_of
 *** flatten_on
 *** match_on
-** STRT [#B] Blood Basic Profile
+** [#B] Blood Basic Profile
 *** config default
 *** config disabled
 *** config help
@@ -41,7 +76,7 @@ add/lookup timeline+definitions
 *** ui popup
 *** lang-weakly-typed lisp-langs
 *** lang-weakly-typed python
-** TODO [#C] bibtex-middlewares
+** [#C] bibtex-middlewares
 *** crossref validator
 *** doi handler
 *** field sorter
@@ -49,7 +84,7 @@ add/lookup timeline+definitions
 *** metadata writer
 *** stack builder
 *** waybacker
-** TODO [#C] blood                               :blood:
+** [#C] blood                                     :blood:
 *** Testing                                       :test:
 **** TODO deferral
 **** TODO profile/module/package building
@@ -97,7 +132,7 @@ add/lookup timeline+definitions
 ** bibliography                                  :bibliography:
 *** TODO summary counts
 *** TODO twitter threads
-*** TODO metadata update
+*** DONE metadata update
 *** TODO bookmark duplicate remove
 *** listings
 **** TODO list books
@@ -1391,6 +1426,7 @@ currently doot/control/base_tracker.py : 243
 uses match spec.source
 **** TODO boltons.priorityQueue subclass
 override 'add' to call get_priority on the *task* before calling super().add
+**** TODO move task spec instantiation logic to TaskSpecFactory
 *** Corana
 **** archiving
 **** binary
@@ -1400,23 +1436,25 @@ override 'add' to call get_priority on the *task* before calling super().add
 **** swda
 **** xml
 ** Dotnet                                        :dotnet:
+** Elixir
 ** Emacs                                         :emacs:
-*** python
-**** TODO refine add-import
-**** TODO add __init__.py to new dired directories if in py project
-**** bots                                         :bots:
-***** TODO boards of directors
+*** TODO [#A] add comint-truncate-buffer to comint-output-filter-functions
+*** TODO add frames ops to workspace transient
 *** bibtex
 **** TODO map :type -> bibtex types
 **** TODO remove empty fields
 **** TODO use spec handler for jg-bibtex-completion-display-formats
 **** TODO minimal bibtex library
 to remove need for ivy-bibtex, parsebib, citeproc, org-ref
+**** TODO check bibtex uses librarian for meta retrieval
+and that librarian meta retrieval is using exif
 *** bindings
 **** TODO wipe global map C- and M-
-*** pdfs
-add pdftotext and pdfimages dired bindings
-and tesseract binding
+*** Dired
+**** TODO cookiecutter
+**** DONE pdftotext
+**** TODO add tesseract binding dired bindings
+*** TODO doot call from toml
 *** experiment
 **** org-brain
 https://github.com/Kungsgeten/org-brain
@@ -1431,178 +1469,221 @@ https://github.com/Kungsgeten/org-brain
 **** solidity
 **** taskrunners
 **** vertico
-*** TODO [#A] add comint-truncate-buffer to comint-output-filter-functions
-*** Dired
-**** TODO cookiecutter
-**** TODO pdftotext
-*** Proof general
-**** TODO repl popup instead of override window layout
-*** TODO new eval module
-*** TODO doot call from toml
-*** TODO quick doot
-*** TODO add frames ops to workspace transient
 *** TODO ibuffer temp group by marked
 *** DONE make q in helpful work on a local stack of helpful buffers
+*** TODO new eval module
+*** Proof general
+**** TODO repl popup instead of override window layout
+*** python
+**** DONE refine add-import
+**** TODO add __init__.py to new dired directories if in py project
+**** bots                                         :bots:
+***** TODO boards of directors
+*** TODO quick doot
 ** Godot                                         :godot:
 *** android test
 **** TODO touch detection
-** Jacamo                                        :jacamo:
+** JVM
+*** Jacamo                                        :jacamo:
 ** Lisp                                          :lisp:
-*** TODO timeline insert
-*** TODO general-insert highlighting mode
-*** TODO key-clean
-*** TODO doot task activation
-*** TODO template access ivy
-instead of spc-1-7, do spc-y-ret and dynamically drill into templates repo
-*** Blood Modules                               :module:
+*** Blood Modules                               :module:blood:
 **** WAIT Modules
-***** WAIT config
+***** config
 ****** WAIT bindings
 ****** WAIT default
 ****** WAIT disabled
 ****** WAIT help
-****** WAIT linux
-****** WAIT mac
-****** WAIT search
-****** WAIT ui
-****** WAIT windows
-***** WAIT editor
-****** WAIT autosave
-****** WAIT buffer-nav
-****** WAIT evil
-****** WAIT fold
-****** WAIT large-files
-****** WAIT tagging
-****** WAIT text-manipulation
-****** WAIT undo
-****** WAIT window-nav
-***** WAIT experimentation
-***** WAIT ide
-****** WAIT company
-****** WAIT debugger
-****** WAIT diff
-****** WAIT librarian
-****** WAIT minimap
-****** WAIT snippets
-****** WAIT support
-****** WAIT version-control
-****** WAIT workspaces
-***** WAIT lang-data
-****** WAIT csv
-****** WAIT dot
-****** WAIT graphql
-****** WAIT json
-****** WAIT logs
-****** WAIT nu
-****** WAIT sql
-****** WAIT toml
-****** WAIT xml
-****** WAIT yaml
-***** WAIT lang-dsl
-****** WAIT acab
-****** WAIT ai-and-logic
-****** WAIT music
-****** WAIT nix
-****** WAIT qt
-****** WAIT rest
-****** WAIT sh
-***** WAIT lang-strongly-typed
-****** WAIT coq
-****** WAIT dotnet-langs
-****** WAIT fstar
-****** WAIT haskell
-****** WAIT idris
-****** WAIT jvm-langs
-****** WAIT lean
-****** WAIT ml-langs
-****** WAIT rust
-***** WAIT lang-text
-****** WAIT bibtex
-****** WAIT inform
-****** WAIT latex
-****** WAIT markdown
-****** WAIT org
-****** WAIT plantuml
-****** WAIT rst
-****** WAIT web
-***** WAIT lang-weakly-typed
-****** WAIT erlang-vms
-****** WAIT godot
-****** WAIT lisp-langs
-****** WAIT lua
-****** WAIT python
-****** WAIT ruby
-***** WAIT tools
-****** WAIT calendar
-****** WAIT dired
-****** WAIT eval
-****** WAIT mail
-****** WAIT pdfs
-****** WAIT processes
-****** WAIT term
-***** WAIT ui
-****** WAIT doom-ui
-****** WAIT helm
-****** WAIT hydra
-****** WAIT ibuffer
-****** WAIT ivy
-****** WAIT minibuffer
-****** WAIT ophints
-****** WAIT popup
+****** TODO WAIT linux
+****** TODO WAIT mac
+****** TODO WAIT search
+****** TODO WAIT ui
+****** TODO WAIT windows
+***** editor
+****** TODO WAIT autosave
+****** TODO WAIT buffer-nav
+****** TODO WAIT evil
+****** TODO WAIT fold
+****** TODO WAIT large-files
+****** TODO WAIT tagging
+****** TODO WAIT text-manipulation
+****** TODO WAIT undo
+****** TODO WAIT window-nav
+***** experimentation
+***** ide
+****** TODO WAIT company
+****** TODO WAIT debugger
+****** TODO WAIT diff
+****** TODO WAIT librarian
+****** TODO WAIT minimap
+****** TODO WAIT snippets
+****** TODO WAIT support
+****** TODO WAIT version-control
+****** TODO WAIT workspaces
+***** lang-data
+****** csv
+******  WAIT dot
+******  WAIT graphql
+******  WAIT json
+******  WAIT logs
+******  WAIT nu
+******  WAIT sql
+******  WAIT toml
+******  WAIT xml
+******  WAIT yaml
+***** lang-dsl
+******  WAIT acab
+******  WAIT ai-and-logic
+******  WAIT music
+******  WAIT nix
+******  WAIT qt
+******  WAIT rest
+******  WAIT sh
+***** lang-strongly-typed
+******  WAIT coq
+******  WAIT dotnet-langs
+******  WAIT fstar
+******  WAIT haskell
+******  WAIT idris
+******  WAIT jvm-langs
+******  WAIT lean
+******  WAIT ml-langs
+******  WAIT rust
+***** lang-text
+******  WAIT bibtex
+******  WAIT inform
+******  WAIT latex
+******  WAIT markdown
+******  WAIT org
+******  WAIT plantuml
+******  WAIT rst
+******  WAIT web
+***** lang-weakly-typed
+******  WAIT erlang-vms
+******  WAIT godot
+******  WAIT lisp-langs
+******  WAIT lua
+******  WAIT python
+******  WAIT ruby
+***** tools
+******  WAIT calendar
+******  WAIT dired
+******  WAIT eval
+******  WAIT mail
+******  WAIT pdfs
+******  WAIT processes
+******  WAIT term
+***** ui
+******  WAIT doom-ui
+******  WAIT helm
+******  WAIT hydra
+******  WAIT ibuffer
+******  WAIT ivy
+******  WAIT minibuffer
+******  WAIT ophints
+******  WAIT popup
+*** general-insert highlighting mode
+*** hydra-macros :macros:
+**** TODO add readme
+**** TODO add tests
+**** TODO merge with transient-macros
+*** key-clean                                     :binding:
+*** evil-states-plus  :evil:state:
+**** cmd: ivy-state
+**** bidirectional state
+**** page move / browse state
+**** forward state
+**** backward state
+**** search state
+**** vis control state
+**** conflict-merge
+**** insert-plus
+**** other-chars
+**** paren
+*** env-handling
+**** TODO add readme
+**** TODO add tests
+**** TODO shift config to ide, not python
+**** TODO generalize to handle java, erlang, etc
+**** TODO read toml
+**** TODO read pipfiles
+**** TODO add structs
+*** evil-escape-hook
+**** TODO edit evil repeat list
+
+*** carousel-minor-mode
+**** TODO add tests
+
+**** TODO add buffer pairing for tests
+'t' to shift
+
+**** TODO add vertical tracks
+'R - [j,k]' to shift
+
+*** code-shy-minor-mode
+**** TODO add tests
+
 *** misc :refactor:
 **** TODO refactor doom specific -> general
 
-**** carousel-minor-mode
-***** TODO add tests
-
-***** TODO add buffer pairing for tests
-'t' to shift
-
-***** TODO add vertical tracks
-'R - [j,k]' to shift
-**** code-shy-minor-mode
-***** TODO add tests
-**** env-handling
-***** TODO add readme
-***** TODO add tests
-***** TODO shift config to ide, not python
-***** TODO generalize to handle java, erlang, etc
-***** TODO read toml
-***** TODO read pipfiles
-**** evil-escape-hook
-**** evil-states-plus
-***** TODO search state
-***** TODO vis control state
-**** hydra-macros
-***** TODO add readme
-***** TODO add tests
-***** TODO merge with transient-macros
-**** librarian
-***** TODO document
-***** TODO add tests
-***** TODO add bookmark search
-*** misc-modes
-**** TODO [#A] agentspeak mode
-
-**** TODO palette insert with colours
-
-**** TODO coverage mode
-**** TODO cron mode
-**** TODO definition mode
-**** TODO lint result mode
-**** TODO logview mode
-**** TODO soar mode
-**** TODO ceptre mode
-
+*** misc-modes :modes:
+**** major modes
+***** timeline insert
+***** palette insert with colours
+***** lint result mode
+***** logview mode
+***** godot mode
+***** hexyl mode
+***** pdf-meta mode
+***** rawtag mode
+***** timeline mode
+***** coverage mode
+***** cron mode
+***** definition mode
+***** lint result mode
+***** logview mode
+***** cobol-mode
+***** TODO definition-lookup: move to librarian
+***** separate ai modes to new repo
+****** jacamo mode
+****** [#A] agentspeak mode
+****** soar mode
+****** ceptre mode
+**** minor modes
+***** doot mode
+***** general insert
+***** jg-company
+***** librarian-tagging-helm
+***** librarian-tagging-vy
+***** music-minor
+***** org-unit-test
+***** overlay-ctrl
+**** babel
+***** ccalc
+***** ceptre
+***** clingo
+***** clips
+***** erlang
+***** plantuml
+***** soar
+***** z3
+**** ox-epub
 *** project-zimmerframe
+**** TODO add structs
 **** TODO test
 *** spec-handling
 **** TODO document
+**** TODO add structs
 **** TODO test
 **** TODO pass symbols to spec-handling-add!
 then eval them on application
 
-*** transient-macros
+*** TODO template access ivy
+instead of spc y [1-7], do spc-y-ret and dynamically drill into templates repo
+
+*** transient-macros :macros:
+*** TODO modelined :modeline:
+declarative modleine
+https://www.gnu.org/software/emacs/manual/html_node/elisp/Mode-Line-Format.html
 **** TODO test
 **** TODO merge with hydra-macros
 ** Python                                        :python:
@@ -1936,7 +2017,7 @@ https://www.maturin.rs/
 ** TODO templates
 ** TODO tomlguard
 * TODO Job                                        :job:
-* [[file:notes.org::+title: Notes][Notes]]
+* [[file:notes.org::Inbox][Notes]]
 * [[file:/media/john/data/github/bibliography/bookmarks/urls.org][Links/urls]]
 ** Main
 *** [[file:/media/john/data/github/lisp/blood/blood][Blood]]
