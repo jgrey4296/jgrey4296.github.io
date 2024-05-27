@@ -152,346 +152,354 @@ https://launchpad.net/~potassco/+archive/ubuntu/stable
 **** DONE validate bibs
 **** DONE validate commit msg
 **** sphinx rebuild
-* Main
-** Datasets                                      :dataset:
-*** QUEUED youtube
-**** Brothgar
-**** Colonel_RPG
-**** CrashCourse
-**** DoctorSwellman
-**** Extra_History
-**** Feminist_Frequency
-**** GDC
-**** Grimith
-**** IllegallySighted
-**** Keith_Ballard
-**** Laila_Dyer
-**** Let's_Game_It_Out
-**** Lister
-**** LongplayArchive
-**** Low_Tech_Gaming
-**** Nathan's_Sandbox
-**** Noah_Caldwell-Gervais
-**** Plumbella
-**** RenegadeConstabulary
-**** SB
-**** SciShow
-**** Splattercatgaming
-**** Stumpt
-**** Super_Bunnyhop
-**** TheUrsinus1
-**** The_Guild_of_Awesome
-**** The_Jessa_Channel
-**** The_Spiffing_Brit
-**** Virtual_Gaming_Library_-_VGL
-**** Volx
-**** World_of_Longplays
-**** Worm_Girl
-**** aulddragon
-**** dfortae_-_Game_Reviews
-**** lilsimsie
-**** northernlion
-**** quill18
-**** rpg_crawler
-**** thevoiceofdog
-**** tomatoanus
-*** raw
-**** 40k_texts
-**** nyt
-**** 40k_armageddon
-**** HoMM_2
-**** ai_war
-**** albion
-**** alien_isolation
-**** anodyne
-**** asp
-**** atomic
-**** avadon
-**** avernum
-**** balance_of_the_planet
-**** baldurs_gate
-**** baldurs_gate_2
-**** batman_arkham
-**** bbc
-**** beholder
-**** bester
-**** bethesda
-**** binding_of_isaac
-**** borderlands_2
-**** bot_lang
-**** brunner
-**** cannibal_interactive
-**** cartago
-**** caves_of_qud
-**** ccalc
-**** ceptre
-**** civilization_V
-**** clingo
-**** clips
-**** clockwork_empires
-**** cmu_pronounce
-**** collective_knowledge
-**** college_majors
-**** congress_age
-**** congress_resignations
-**** corpora
-**** cplus
-**** crusader_kings_2
-**** crusader_kings_3_docs
-**** cultist_sim
-**** daggerfall
-**** darkest_dungeon
-**** darklands.tar.gz
-**** dawn_of_war_2
-**** dawn_of_war_2_retribution
-**** dblp
-**** deadly_force
-**** democracy_2
-**** democracy_3
-**** democracy_3_africa
-**** dem_soc_sim
-**** dendral
-**** df9_community
-**** df9_original
-**** df_ai
-**** df_hack
-**** df_structures
-**** dins_curse
-**** disco_elysium
-**** discworld
-**** distant_worlds
-**** dolphins
-**** domestic_violence
-**** dont_starve
-**** dragon_age
-**** drools
-**** drug_use_by_age
-**** dungeon_keeper_2
-**** dungeon_of_the_endless
-**** dwarf_fortress_classic
-**** dwarf_fortress_steam
-**** eisbot
-**** election_deniers
-**** encounter_editor
-**** eulas
-**** europa_universalis_3
-**** europa_universalis_4
-**** excessive_force
-**** exes
-**** facade
-**** facebook_community_standards
-**** fallout_1
-**** fallout_2
-**** fallout_2_scripts
-**** fallout_3
-**** fallout_4_dialog
-**** fallout_4_dialogue_tables
-**** fallout_dialogs
-**** fallout_new_vegas
-**** fallout_nv_telemetry
-**** fallout_shelter
-**** fear
-**** firewatch
-**** flying_etiquette_survey
-**** garrys_mod
-**** gemrot
-**** geneforge
-**** glitch_assets
-**** gossip
-**** gratuitous_space_battles
-**** gratuitous_space_battles_2
-**** gratuitous_tank_battles
-**** hate_crimes
-**** hitman
-**** holodeck
-**** immerse
-**** inquisitor
-**** instal
-**** invisble_inc
-**** jacamo
-**** jason
-**** java_stdlib
-**** kantrowitz
-**** kentucky_route_zero
-**** king_dragon_pass
-**** king_james_bible
-**** last_federation
-**** la_police_killings
-**** le_guin
-**** little_big_adventure
-**** little_big_adventure_2
-**** mad
-**** maia
-**** majesty2
-**** maop_book
-**** marriage
-**** mars
-**** mass_effect
-**** mass_effect_2
-**** mass_effect_plot_database
-**** micropolis
-**** moise
-**** monroe
-**** morrowind
-**** most_common_name
-**** neverwinter_nights_2
-**** nltk
-**** northern_lion
-**** oblivion
-**** obscenity
-**** omnibots
-**** openxcom
-**** opera_omnia
-**** opinion_lexicon
-**** oxenfree
-**** oxygen_not_included
-**** papers_please
-**** pathologic
-**** pddl
-**** pentiment
-**** pillars_of_eternity
-**** planescape
-**** police_deaths
-**** police_killings
-**** police_locals
-**** prison_architect
-**** problem_solvers
-**** prompter
-**** prom_week
-**** prom_week_dialog
-**** prom_week_level_trace
-**** psf_bylaws
-**** redshirt
-**** reigns
-**** religion_survey
-**** repeated_phrases_gop
-**** resignations
-**** rimworld
-**** rimworld_decompiled
-**** roberts_rules
-**** schemas
-**** scotus
-**** scribblenauts
-**** shadowrun_chronicles
-**** shadowrun_dragonfall
-**** shadow_of_mordor
-**** simcity_2000
-**** simhealth
-**** simulation_model
-**** sir_you_are_being_hunted
-**** skyrim
-**** skyrim_ai_overhaul
-**** slave_trade
-**** soar_agents
-**** soar_pddl
-**** social_evolution
-**** stalker_pripyat
-**** stardew
-**** stasis
-**** state_union
-**** stellaris
-**** stellaris_list
-**** stop_and_frisk
-**** streets_of_rogue
-**** subsurface_circular
-**** sunless_sea
-**** switchboard_corpus
-**** syndicate
-**** system_shock_2
-**** tacoma
-**** talespin
-**** terrorism
-**** theme_hospital
-**** the_counted
-**** the_escapists
-**** the_guild_2
-**** the_sims_3
-**** the_sims_4
-**** the_sims_medieval
-**** the_witcher_1
-**** the_witcher_2
-**** the_witcher_3
-**** the_wolf_among_us
-**** thief
-**** thompson_motifs
-**** torchlight_2
-**** tracery_grammars
-**** tropico
-**** twine
-**** tyranny
-**** ultima_ratio_regum
-**** unhrd
-**** unisex_names
-**** unrest
-**** uscode
-**** us_weather_history
-**** valley_without_wind_1
-**** valley_without_wind_2
-**** verbnet
-**** verbs
-**** versu
-**** victoria_2
-**** vtmb
-**** vtmb_mod_guide
-**** vtmb_sdk
-**** vtmb_unpatch
-**** wasteland_2
-**** witcherscript
-**** wordlist
-**** wordnet
-**** xcom_2
-**** xcom_2_community_highlander
-**** xcom_apocalypse
-**** xcom_tftd
-**** xcom_ufod
-**** xcom_w_wotc
-**** xenobloom
-**** yoda_stories
-**** z3
-*** crawled
-**** arcen
-**** binding_of_isaac
-**** burn_notice
-**** caves_of_qud
-**** dota
-**** dragon_age
-**** dwarf_devlogs
-**** dwarf_fortress
-**** dwarf_vignettes
-**** elder_scrolls
-**** facebook
-**** failbetter
-**** fallout
-**** gladia_bots
-**** klei
-**** papers_please
-**** paradox
-**** pathologic
-**** pillars_of_eternity
-**** rimworld
-**** spyparty
-**** stardew_valley
-**** tf2
-**** the_sims
-**** tropico
-**** trump_timeline
-**** wow_patches
-**** wow_quests
-**** zero_punctuation
+* Datasets                                       :dataset:
+** QUEUED youtube
+*** Brothgar
+*** Colonel_RPG
+*** CrashCourse
+*** DoctorSwellman
+*** Extra_History
+*** Feminist_Frequency
+*** GDC
+*** Grimith
+*** IllegallySighted
+*** Keith_Ballard
+*** Laila_Dyer
+*** Let's_Game_It_Out
+*** Lister
+*** LongplayArchive
+*** Low_Tech_Gaming
+*** Nathan's_Sandbox
+*** Noah_Caldwell-Gervais
+*** Plumbella
+*** RenegadeConstabulary
+*** SB
+*** SciShow
+*** Splattercatgaming
+*** Stumpt
+*** Super_Bunnyhop
+*** TheUrsinus1
+*** The_Guild_of_Awesome
+*** The_Jessa_Channel
+*** The_Spiffing_Brit
+*** Virtual_Gaming_Library_-_VGL
+*** Volx
+*** World_of_Longplays
+*** Worm_Girl
+*** aulddragon
+*** dfortae_-_Game_Reviews
+*** lilsimsie
+*** northernlion
+*** quill18
+*** rpg_crawler
+*** thevoiceofdog
+*** tomatoanus
+** raw
+*** 40k_texts
+*** nyt
+*** 40k_armageddon
+*** HoMM_2
+*** ai_war
+*** albion
+*** alien_isolation
+*** anodyne
+*** asp
+*** atomic
+*** avadon
+*** avernum
+*** balance_of_the_planet
+*** baldurs_gate
+*** baldurs_gate_2
+*** batman_arkham
+*** bbc
+*** beholder
+*** bester
+*** bethesda
+*** binding_of_isaac
+*** borderlands_2
+*** bot_lang
+*** brunner
+*** cannibal_interactive
+*** cartago
+*** caves_of_qud
+*** ccalc
+*** ceptre
+*** civilization_V
+*** clingo
+*** clips
+*** clockwork_empires
+*** cmu_pronounce
+*** collective_knowledge
+*** college_majors
+*** congress_age
+*** congress_resignations
+*** corpora
+*** cplus
+*** crusader_kings_2
+*** crusader_kings_3_docs
+*** cultist_sim
+*** daggerfall
+*** darkest_dungeon
+*** darklands.tar.gz
+*** dawn_of_war_2
+*** dawn_of_war_2_retribution
 *** dblp
-*** twitter
-*** todos
-**** soar
-**** sim refinery
-**** rma metadata
-**** dft transport org charts
-** Doot                                          :doot:
-*** Actions                                     :actions:
-**** actions don't bother to run if the keys they return are already present
-**** add postbox decorators like keys
-**** create a pandas/seaborn/matplotlib chart
-****** create subclass actions: artifactReader, artifactWriter
-**** [#A] job actions
+*** deadly_force
+*** democracy_2
+*** democracy_3
+*** democracy_3_africa
+*** dem_soc_sim
+*** dendral
+*** df9_community
+*** df9_original
+*** df_ai
+*** df_hack
+*** df_structures
+*** dins_curse
+*** disco_elysium
+*** discworld
+*** distant_worlds
+*** dolphins
+*** domestic_violence
+*** dont_starve
+*** dragon_age
+*** drools
+*** drug_use_by_age
+*** dungeon_keeper_2
+*** dungeon_of_the_endless
+*** dwarf_fortress_classic
+*** dwarf_fortress_steam
+*** eisbot
+*** election_deniers
+*** encounter_editor
+*** eulas
+*** europa_universalis_3
+*** europa_universalis_4
+*** excessive_force
+*** exes
+*** facade
+*** facebook_community_standards
+*** fallout_1
+*** fallout_2
+*** fallout_2_scripts
+*** fallout_3
+*** fallout_4_dialog
+*** fallout_4_dialogue_tables
+*** fallout_dialogs
+*** fallout_new_vegas
+*** fallout_nv_telemetry
+*** fallout_shelter
+*** fear
+*** firewatch
+*** flying_etiquette_survey
+*** garrys_mod
+*** gemrot
+*** geneforge
+*** glitch_assets
+*** gossip
+*** gratuitous_space_battles
+*** gratuitous_space_battles_2
+*** gratuitous_tank_battles
+*** hate_crimes
+*** hitman
+*** holodeck
+*** immerse
+*** inquisitor
+*** instal
+*** invisble_inc
+*** jacamo
+*** jason
+*** java_stdlib
+*** kantrowitz
+*** kentucky_route_zero
+*** king_dragon_pass
+*** king_james_bible
+*** last_federation
+*** la_police_killings
+*** le_guin
+*** little_big_adventure
+*** little_big_adventure_2
+*** mad
+*** maia
+*** majesty2
+*** maop_book
+*** marriage
+*** mars
+*** mass_effect
+*** mass_effect_2
+*** mass_effect_plot_database
+*** micropolis
+*** moise
+*** monroe
+*** morrowind
+*** most_common_name
+*** neverwinter_nights_2
+*** nltk
+*** northern_lion
+*** oblivion
+*** obscenity
+*** omnibots
+*** openxcom
+*** opera_omnia
+*** opinion_lexicon
+*** oxenfree
+*** oxygen_not_included
+*** papers_please
+*** pathologic
+*** pddl
+*** pentiment
+*** pillars_of_eternity
+*** planescape
+*** police_deaths
+*** police_killings
+*** police_locals
+*** prison_architect
+*** problem_solvers
+*** prompter
+*** prom_week
+*** prom_week_dialog
+*** prom_week_level_trace
+*** psf_bylaws
+*** redshirt
+*** reigns
+*** religion_survey
+*** repeated_phrases_gop
+*** resignations
+*** rimworld
+*** rimworld_decompiled
+*** roberts_rules
+*** schemas
+*** scotus
+*** scribblenauts
+*** shadowrun_chronicles
+*** shadowrun_dragonfall
+*** shadow_of_mordor
+*** simcity_2000
+*** simhealth
+*** simulation_model
+*** sir_you_are_being_hunted
+*** skyrim
+*** skyrim_ai_overhaul
+*** slave_trade
+*** soar_agents
+*** soar_pddl
+*** social_evolution
+*** stalker_pripyat
+*** stardew
+*** stasis
+*** state_union
+*** stellaris
+*** stellaris_list
+*** stop_and_frisk
+*** streets_of_rogue
+*** subsurface_circular
+*** sunless_sea
+*** switchboard_corpus
+*** syndicate
+*** system_shock_2
+*** tacoma
+*** talespin
+*** terrorism
+*** theme_hospital
+*** the_counted
+*** the_escapists
+*** the_guild_2
+*** the_sims_3
+*** the_sims_4
+*** the_sims_medieval
+*** the_witcher_1
+*** the_witcher_2
+*** the_witcher_3
+*** the_wolf_among_us
+*** thief
+*** thompson_motifs
+*** torchlight_2
+*** tracery_grammars
+*** tropico
+*** twine
+*** tyranny
+*** ultima_ratio_regum
+*** unhrd
+*** unisex_names
+*** unrest
+*** uscode
+*** us_weather_history
+*** valley_without_wind_1
+*** valley_without_wind_2
+*** verbnet
+*** verbs
+*** versu
+*** victoria_2
+*** vtmb
+*** vtmb_mod_guide
+*** vtmb_sdk
+*** vtmb_unpatch
+*** wasteland_2
+*** witcherscript
+*** wordlist
+*** wordnet
+*** xcom_2
+*** xcom_2_community_highlander
+*** xcom_apocalypse
+*** xcom_tftd
+*** xcom_ufod
+*** xcom_w_wotc
+*** xenobloom
+*** yoda_stories
+*** z3
+** crawled
+*** arcen
+*** binding_of_isaac
+*** burn_notice
+*** caves_of_qud
+*** dota
+*** dragon_age
+*** dwarf_devlogs
+*** dwarf_fortress
+*** dwarf_vignettes
+*** elder_scrolls
+*** facebook
+*** failbetter
+*** fallout
+*** gladia_bots
+*** klei
+*** papers_please
+*** paradox
+*** pathologic
+*** pillars_of_eternity
+*** rimworld
+*** spyparty
+*** stardew_valley
+*** tf2
+*** the_sims
+*** tropico
+*** trump_timeline
+*** wow_patches
+*** wow_quests
+*** zero_punctuation
+** dblp
+** twitter :needs-parsing:
+** soar :not-integrated:
+** sim refinery :not-integrated:
+** rma metadata :not-integrated:
+** dft transport org charts :not-integrated:
+https://www.gov.uk/government/publications/department-for-transport-and-ndpb-structure-charts-organisational-and-salary-disclosure-data
+** dow2 mod tools :not-integrated:
+** hansard archive
+https://www.hansard-archive.parliament.uk/
+** whoismakingnews :not-integrated:
+https://www.whoismakingnews.com/#source-data
+** folklore :not-integrated:
+** csharp spec
+https://github.com/dotnet/csharplang
+https://github.com/dotnet/csharplang/tree/main/meetings
+* Doot                                           :doot:
+** Actions                                       :actions:
+*** actions don't bother to run if the keys they return are already present
+*** add postbox decorators like keys
+*** create a pandas/seaborn/matplotlib chart
+***** create subclass actions: artifactReader, artifactWriter
+*** [#A] job actions
 #+NAME: example
 #+begin_src toml :results output
 [[tasks.example]]
@@ -508,22 +516,22 @@ actions = [
 #+end_src
 
 
-***** expander
-***** matcher
-***** DONE walker
-***** DONE limiter
-***** DONE setup
-***** DONE shadower
-***** DONE subtasker
-***** chaining
-**** predicate/skip tests
+**** expander
+**** matcher
+**** DONE walker
+**** DONE limiter
+**** DONE setup
+**** DONE shadower
+**** DONE subtasker
+**** chaining
+*** predicate/skip tests
 staleness, recency, size, contains, hashcmp...
-**** regex filter shell action to replace called sed
-**** shell action fail handler
-**** shell output redirection
-**** task on-fail actions
-**** QUEUED [#B] test postbox
-**** DONE DootKey action decorator
+*** regex filter shell action to replace called sed
+*** shell action fail handler
+*** shell output redirection
+*** task on-fail actions
+*** QUEUED [#B] test postbox
+*** DONE DootKey action decorator
 #+NAME: example
 #+begin_src python :results output
 	@DootKeyWrap.path("from", as="different")
@@ -566,164 +574,164 @@ or require a return
   def an_action(spec, state):
       pass
 #+end_src
-**** DONE write protection
-*** Commands                                    :commands:
-**** here command
-**** help command print toml cli's separate
-**** help command add mixin's as targets
-**** locs_cmd print matches
-**** locs_cmd print by source
-**** stub templates registration / env var location
-**** locs command includes metadata
-*** DBLP                                        :dblp:
-**** ISSNs
-***** Journal of Political Economy: 00223808
+*** DONE write protection
+** Commands                                      :commands:
+*** here command
+*** help command print toml cli's separate
+*** help command add mixin's as targets
+*** locs_cmd print matches
+*** locs_cmd print by source
+*** stub templates registration / env var location
+*** locs command includes metadata
+** DBLP                                          :dblp:
+*** ISSNs
+**** Journal of Political Economy: 00223808
 https://www.jstor.org/journal/jpoliecon
 
-***** AI Magazine: 2371-9621, 0738-4602
+**** AI Magazine: 2371-9621, 0738-4602
 https://dblp.org/db/journals/aim/index.html
 
-***** Artificial Intelligence: 0004-3702
+**** Artificial Intelligence: 0004-3702
 https://dblp.org/db/journals/ai/index.html
 
-***** JASSS: 1460-7425
+**** JASSS: 1460-7425
 https://dblp.org/db/journals/jasss/index.html
 
-***** computers in human behavior: 0747-5632
+**** computers in human behavior: 0747-5632
 https://dblp.org/db/journals/chb/index.html
 
-***** ACM Transactions on Programming Languages and Systems (TOPLAS) : 0164-0925, 1558-4592
+**** ACM Transactions on Programming Languages and Systems (TOPLAS) : 0164-0925, 1558-4592
 https://dblp.org/db/journals/toplas/index.html
 
-***** Foundations and Trends in Programming Languages: 2325-1107, 2325-1131
+**** Foundations and Trends in Programming Languages: 2325-1107, 2325-1131
 https://dblp.org/db/journals/ftpl/index.html
 
-***** Journal of Programming Languages: 0963-9306
+**** Journal of Programming Languages: 0963-9306
 https://dblp.org/db/journals/jpl/index.html
 
-***** Organization Science: 1047-7039, 1526-5455
+**** Organization Science: 1047-7039, 1526-5455
 https://dblp.org/db/journals/orgsci/index.html
 
-***** International Journal of Human-Computer Interaction: 1044-7318, 1532-7590
+**** International Journal of Human-Computer Interaction: 1044-7318, 1532-7590
 https://dblp.org/db/journals/ijhci/index.html
 
-**** Proceedings
+*** Proceedings
 
-***** ACM-SIGACT Symposium on Principles of Programming Languages (POPL)
+**** ACM-SIGACT Symposium on Principles of Programming Languages (POPL)
 https://dblp.org/db/conf/popl/index.html
 
-***** ACM-SIGPLAN Symposium on Programming Language Design and Implementation (PLDI)
+**** ACM-SIGPLAN Symposium on Programming Language Design and Implementation (PLDI)
 https://dblp.org/db/conf/pldi/index.html
 
-***** History of Programming Languages (HOPL)
+**** History of Programming Languages (HOPL)
 https://dblp.org/db/conf/hopl/index.html
 
-***** Language Design and Programming Methodology
+**** Language Design and Programming Methodology
 https://dblp.org/db/conf/ldpm/index.html
 
-***** Workshop on Evaluation and Usability of Programming Languages and Tools (PLATEAU)
+**** Workshop on Evaluation and Usability of Programming Languages and Tools (PLATEAU)
 https://dblp.org/db/conf/plateau/index.html
 
-***** Symposium on Programming Languages and Software Tools (SPLST)
+**** Symposium on Programming Languages and Software Tools (SPLST)
 https://dblp.org/db/conf/splst/index.html
-*** Dootle                                      :dootle:
-**** cmds
-***** pre-commit yaml stub
-**** actions                                      :actions:
-***** dot
-***** downloader
-***** ocr
-***** pdf
-***** plantuml
-***** xml
-***** rng
-***** calender write
-***** csv read / write
-**** android
-**** bibtex
-***** middlewares
-****** ideal stemmer
-****** library location enforcer
-****** field lowercaser
-****** year checker
-****** title split
-****** output name formatting
-****** ISBN formatting
-****** pdf metadata application
-****** Url way-backer / checker
-****** &amp; -> \&
-****** reporters - author/editor counts, year entries, types, entries with files
-****** journal/booktitle caps normalization
-****** warn on missing doi/tags/url
-****** DONE bibtex metadata task
-**** bookmarks
-***** alchemy fns
+** Dootle                                        :dootle:
+*** cmds
+**** pre-commit yaml stub
+*** actions                                      :actions:
+**** dot
+**** downloader
+**** ocr
+**** pdf
+**** plantuml
+**** xml
+**** rng
+**** calender write
+**** csv read / write
+*** android
+*** bibtex
+**** middlewares
+***** ideal stemmer
+***** library location enforcer
+***** field lowercaser
+***** year checker
+***** title split
+***** output name formatting
+***** ISBN formatting
+***** pdf metadata application
+***** Url way-backer / checker
+***** &amp; -> \&
+***** reporters - author/editor counts, year entries, types, entries with files
+***** journal/booktitle caps normalization
+***** warn on missing doi/tags/url
+***** DONE bibtex metadata task
+*** bookmarks
+**** alchemy fns
 
-**** epub
-***** compile
-***** split
+*** epub
+**** compile
+**** split
 
-**** godot
-**** latex
-**** python
-***** DONE increment version
-***** DONE pip build
-***** local install
-***** pipreqs
-***** code line count
-***** coverage
-**** sphinx
-***** build
-***** serve
-**** pelican
-**** spiders
-***** tests
-***** locations integration
-**** tags
-***** clean
+*** godot
+*** latex
+*** python
+**** DONE increment version
+**** DONE pip build
+**** local install
+**** pipreqs
+**** code line count
+**** coverage
+*** sphinx
+**** build
+**** serve
+*** pelican
+*** spiders
+**** tests
+**** locations integration
+*** tags
+**** clean
 
-**** encryption
-**** gradle
-**** clingo
+*** encryption
+*** gradle
+*** clingo
 
-**** Twitter archive processing
-**** org -> html
-**** html -> epub** Experiments                   :experiment:
-**** TDMQ option instead of individual task listing
-**** floweaver                                    :add:
+*** Twitter archive processing
+*** org -> html
+*** html -> epub** Experiments                   :experiment:
+*** TDMQ option instead of individual task listing
+*** floweaver                                    :add:
 https://github.com/ricklupton/floweaver
 
-**** DONE isbn
+*** DONE isbn
 https://github.com/JNRowe/pyisbn
 https://github.com/WhyNotHugo/python-barcode
 https://github.com/TorKlingberg/isbn_hyphenate
-**** railroad diagrams
+*** railroad diagrams
 https://github.com/tabatkins/railroad-diagrams
-**** readthedocs
+*** readthedocs
 https://docs.readthedocs.io/en/stable/
-**** quote images -> text
-**** wayback
+*** quote images -> text
+*** wayback
 https://akamhy.github.io/waybackpy/
-**** control
-***** date tracker
-*** Mixins                                      :mixins:
-**** runner fail handler
-**** KILL job : generate tasks from postbox entries
-**** KILL task setup/cleanup dependency mixin
-**** DONE job pattern matcher
-*** Other
-**** QUEUED logging secret filter
-**** refactor doot log setup to jgdv
-**** make dootkey resolution order explicit
+*** control
+**** date tracker
+** Mixins                                        :mixins:
+*** runner fail handler
+*** KILL job : generate tasks from postbox entries
+*** KILL task setup/cleanup dependency mixin
+*** DONE job pattern matcher
+** Other
+*** QUEUED logging secret filter
+*** refactor doot log setup to jgdv
+*** make dootkey resolution order explicit
 mamba goes: RCfile -> env -> cli -> api
 https://mamba.readthedocs.io/en/latest/user_guide/configuration.html
 
-**** active_when conditions
-**** backup list cache
-******* make jobs resumable
-**** cli target lister
-**** date tracker
-**** [#A] doot memory guard
+*** active_when conditions
+*** backup list cache
+****** make jobs resumable
+*** cli target lister
+*** date tracker
+*** [#A] doot memory guard
 possibly use https://psutil.readthedocs.io/en/latest/
 #+NAME: memory
 #+begin_src python :results output
@@ -747,16 +755,16 @@ possibly use https://psutil.readthedocs.io/en/latest/
 #+end_src
 
 
-**** read/write as implicit dependencies
-**** task name params
+*** read/write as implicit dependencies
+*** task name params
 so "a.group::task.{arg=val}"?
-**** same task different args
-**** staleness / date checking
-**** Task Runners Feature Comparison
+*** same task different args
+*** staleness / date checking
+*** Task Runners Feature Comparison
 push / pull
 declarative, imperative
 
-***** Ansible
+**** Ansible
 https://en.wikipedia.org/wiki/Ansible_(software)
 https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/2.4
 
@@ -766,7 +774,7 @@ https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platfor
 :cons:
 
 :END:
-***** Ant
+**** Ant
 https://ant.apache.org/manual/index.html
 
 :concepts:
@@ -779,7 +787,7 @@ https://ant.apache.org/manual/index.html
 - java
 - xml
 :END:
-***** Cargo
+**** Cargo
 https://doc.rust-lang.org/cargo/
 
 :pros:
@@ -788,7 +796,7 @@ https://doc.rust-lang.org/cargo/
 :cons:
 
 :END:
-***** CMake
+**** CMake
 https://cmake.org/documentation/
 
 :pros:
@@ -797,7 +805,7 @@ https://cmake.org/documentation/
 :cons:
 
 :END:
-***** Collective Knowledge
+**** Collective Knowledge
 https://cknowledge.io/docs/
 
 :pros:
@@ -806,7 +814,7 @@ https://cknowledge.io/docs/
 :cons:
 
 :END:
-***** Common Workflow Language
+**** Common Workflow Language
 https://www.commonwl.org/
 https://www.commonwl.org/user_guide/
 
@@ -833,7 +841,7 @@ outputs:
 
 #+end_src
 
-***** Doit
+**** Doit
 https://pydoit.org/contents.html
 
 :pros:
@@ -856,7 +864,7 @@ https://pydoit.org/contents.html
           }
 #+end_src
 
-***** Gradle
+**** Gradle
 https://gradle.org/
 
 :concepts:
@@ -885,7 +893,7 @@ https://gradle.org/
 - documentation
 - constrained to jvm projects
 :END:
-***** Grunt
+**** Grunt
 https://gruntjs.com/
 
 :concepts:
@@ -931,7 +939,7 @@ https://gruntjs.com/
 };
 #+end_src
 
-***** Gulp
+**** Gulp
 https://gulpjs.com/
 
 :concepts:
@@ -958,7 +966,7 @@ function defaultTask(cb){
 exports.default = defaulTask
 #+end_src
 
-***** Scrapy
+**** Scrapy
 https://scrapy.org/
 
 :concepts:
@@ -992,8 +1000,8 @@ https://scrapy.org/
 :END:
 
 
-***** Twisted
-***** Jenkins
+**** Twisted
+**** Jenkins
 https://www.jenkins.io/doc/
 https://www.jenkins.io/doc/book/pipeline/syntax/
 
@@ -1031,14 +1039,14 @@ pipeline {
 }
 
 #+end_src
-***** kubernetes
+**** kubernetes
 https://kubernetes.io/docs/home/
 
 :concepts:
 
 :END:
 
-***** OPA
+**** OPA
 https://www.openpolicyagent.org/
 
 :concepts:
@@ -1057,7 +1065,7 @@ https://www.openpolicyagent.org/
 :END:
 
 
-***** Luigi
+**** Luigi
 https://luigi.readthedocs.io/en/stable/design_and_limitations.html
 
 :concepts:
@@ -1109,7 +1117,7 @@ def celebrate_success(task):
 #+end_src
 
 
-***** Make
+**** Make
 https://www.gnu.org/software/make/manual/make.html
 
 :pros:
@@ -1148,7 +1156,7 @@ clean :
 #+end_src
 
 
-***** Maven
+**** Maven
 https://maven.apache.org/
 
 :pros:
@@ -1157,7 +1165,7 @@ https://maven.apache.org/
 :cons:
 
 :END:
-***** Meson
+**** Meson
 https://en.wikipedia.org/wiki/Meson_(software)
 https://mesonbuild.com/
 
@@ -1167,7 +1175,7 @@ https://mesonbuild.com/
 :cons:
 
 :END:
-***** Nix
+**** Nix
 https://nixos.org/learn
 
 :concepts:
@@ -1180,7 +1188,7 @@ https://nixos.org/learn
 :cons:
 
 :END:
-***** Rake
+**** Rake
 https://docs.seattlerb.org/rake/
 
 :pros:
@@ -1189,7 +1197,7 @@ https://docs.seattlerb.org/rake/
 :cons:
 
 :END:
-***** Scons
+**** Scons
 https://scons.org/documentation.html
 https://scons-cookbook.readthedocs.io/en/latest/
 
@@ -1201,7 +1209,7 @@ https://scons-cookbook.readthedocs.io/en/latest/
 - documentation
 - not explicit
 :END:
-***** SnakeMake
+**** SnakeMake
 https://snakemake.readthedocs.io/en/stable/
 
 :concepts:
@@ -1237,7 +1245,7 @@ rule bwa_map:
 
 #+end_src
 
-***** Toil
+**** Toil
 https://toil.ucsc-cgl.org/
 https://github.com/DataBiosphere/toil
 
@@ -1281,7 +1289,7 @@ if __name__ == "__main__":
 
 #+end_src
 
-***** WDL
+**** WDL
 https://docs.openwdl.org/en/latest/
 https://github.com/openwdl/wdl
 https://openwdl.org/getting-started/
@@ -1312,10 +1320,10 @@ task write_file {
   output { File test = "wdl-helloworld-output.txt" }
 }
 #+end_src
-**** tracker.contains : artifact checks
-**** tracker handling of adding unambiguous group-less task names
-**** tracker writing/reading
-**** update task spec version
+*** tracker.contains : artifact checks
+*** tracker handling of adding unambiguous group-less task names
+*** tracker writing/reading
+*** update task spec version
 #+begin_src toml :results output
 [[tasks.group]]
 name = "blah"
@@ -1328,565 +1336,566 @@ version = {"task": "0.1", "doot": ">0.5.1", "dootle" : "<0.2.1" ... }
 depends_on = ["another::task, 0.2.1","and::another, >0.1"]
 #+end_src
 
-**** use cli param constraints in cli parsing
-**** policies
-***** breaker
-***** bulkhead
-***** retry
-***** timeout
-***** cache
-***** fallback
-***** cleanup
-***** debug
-***** pretend
-***** accept
-**** queue cleanup task
-**** symlink nonlocal task files into .tasks
-**** queue tasks without groups when no ambiguity
-**** ensure idempotency of tracker add_task/queue_task
-**** using action annotations to modify tracker network dependencies
-**** pre-run, print task plan from built network
-**** cli args
+*** use cli param constraints in cli parsing
+*** policies
+**** breaker
+**** bulkhead
+**** retry
+**** timeout
+**** cache
+**** fallback
+**** cleanup
+**** debug
+**** pretend
+**** accept
+*** queue cleanup task
+*** symlink nonlocal task files into .tasks
+*** queue tasks without groups when no ambiguity
+*** ensure idempotency of tracker add_task/queue_task
+*** using action annotations to modify tracker network dependencies
+*** pre-run, print task plan from built network
+*** cli args
 currently doot/control/base_tracker.py : 243
 uses match spec.source
-**** boltons.priorityQueue subclass
+*** boltons.priorityQueue subclass
 override 'add' to call get_priority on the *task* before calling super().add
-**** move task spec instantiation logic to TaskSpecFactory
-**** DONE extract logctx,logcolour,logconfig to new package
+*** move task spec instantiation logic to TaskSpecFactory
+*** DONE extract logctx,logcolour,logconfig to new package
 added to jgdv
-**** DONE fix doot.toml stubbing when pyproject.toml exists
-**** DONE pre-commit print colour disabler
-**** DONE refactor sname
-*** Corana
-**** archiving
-**** binary
-**** json
-**** metadata
-**** spiders
-**** swda
-**** xml
-** Dotnet                                        :dotnet:
-** Elixir
-** Emacs                                         :emacs:
-*** [#A] add comint-truncate-buffer to comint-output-filter-functions
-*** add frames ops to workspace transient
-*** bibtex
-**** map :type -> bibtex types
-**** remove empty fields
-**** use spec handler for jg-bibtex-completion-display-formats
-**** minimal bibtex library
+*** DONE fix doot.toml stubbing when pyproject.toml exists
+*** DONE pre-commit print colour disabler
+*** DONE refactor sname
+** Corana
+*** archiving
+*** binary
+*** json
+*** metadata
+*** spiders
+*** swda
+*** xml
+* Dotnet                                         :dotnet:
+* Elixir
+* Emacs                                          :emacs:
+** [#A] add comint-truncate-buffer to comint-output-filter-functions
+** add frames ops to workspace transient
+** bibtex
+*** map :type -> bibtex types
+*** remove empty fields
+*** use spec handler for jg-bibtex-completion-display-formats
+*** minimal bibtex library
 to remove need for ivy-bibtex, parsebib, citeproc, org-ref
-**** check bibtex uses librarian for meta retrieval
+*** check bibtex uses librarian for meta retrieval
 and that librarian meta retrieval is using exif
-*** bindings
-**** wipe global map C- and M-
-*** Dired
-**** cookiecutter
-**** DONE pdftotext
-**** add tesseract binding dired bindings
-*** doot call from toml
-*** experiment
-**** org-brain
+** bindings
+*** wipe global map C- and M-
+** Dired
+*** cookiecutter
+*** DONE pdftotext
+*** add tesseract binding dired bindings
+** doot call from toml
+** experiment
+*** org-brain
 https://github.com/Kungsgeten/org-brain
-**** agda
-**** ess
-**** fortran
-**** ivy
-**** julia
-**** ledger
-**** multi-cursor
-**** opa
-**** solidity
-**** taskrunners
-**** vertico
-*** ibuffer temp group by marked
-*** DONE make q in helpful work on a local stack of helpful buffers
-*** new eval module
-*** Proof general
-**** repl popup instead of override window layout
-*** python
-**** DONE refine add-import
-**** add __init__.py to new dired directories if in py project
-**** bots                                         :bots:
-***** boards of directors
-*** quick doot
-** Godot                                         :godot:
-*** android test
-**** touch detection
-** JVM
-*** Jacamo                                        :jacamo:
-** Lisp                                          :lisp:
-*** [#C] blood                                  :blood:
-**** QUEUED Testing                            :test:
-***** deferral
-***** profile/module/package building
-***** dag
-***** logging
-***** sync
-***** trace
-***** force terminal
-***** inhibitions
-***** caches
-***** native compilation
-***** straight setup
-***** bootstraps
-***** cleaning
-***** cli control
-**** Features                                     :feature:
-***** bootstrap
-***** clean
-***** core
-***** dag
-***** deferral
-***** defs
-***** early-init
-***** hooks
-***** log
-***** modules
-****** package autoloads
-****** setup advice
-****** setup hooks
-***** profile
-***** report
-***** stub
-***** sync
-***** trace
-***** utils
-****** advise load
-***** native
-***** straight
-****** convert package specs to straight recipes
-****** disable straights popups
+*** agda
+*** ess
+*** fortran
+*** ivy
+*** julia
+*** ledger
+*** multi-cursor
+*** opa
+*** solidity
+*** taskrunners
+*** vertico
+** ibuffer temp group by marked
+** DONE make q in helpful work on a local stack of helpful buffers
+** new eval module
+** Proof general
+*** repl popup instead of override window layout
+** python
+*** DONE refine add-import
+*** add __init__.py to new dired directories if in py project
+*** bots                                         :bots:
+**** boards of directors
+** quick doot
+** org babel for chuck
+* Godot                                          :godot:
+** android test
+*** touch detection
+* JVM
+** Jacamo                                        :jacamo:
+* Lisp                                           :lisp:
+** [#C] blood                                    :blood:
+*** QUEUED Testing                               :test:
+**** deferral
+**** profile/module/package building
+**** dag
+**** logging
+**** sync
+**** trace
+**** force terminal
+**** inhibitions
+**** caches
+**** native compilation
+**** straight setup
+**** bootstraps
+**** cleaning
+**** cli control
+*** Features                                     :feature:
+**** bootstrap
+**** clean
+**** core
+**** dag
+**** deferral
+**** defs
+**** early-init
+**** hooks
+**** log
+**** modules
+***** package autoloads
+***** setup advice
+***** setup hooks
+**** profile
+**** report
+**** stub
+**** sync
+**** trace
+**** utils
+***** advise load
+**** native
+**** straight
+***** convert package specs to straight recipes
+***** disable straights popups
 
-**** Blood Basic Profile
-***** config default
-***** config disabled
-***** config help
-***** config search
-***** config ui
-***** editor buffer-nav
-***** editor evil
-***** editor text-manipulation
-***** editor undo
-***** editor window-nav
-***** tools dired
-***** ui helm
-***** ui hydra
-***** ui ibuffer
-***** ui ivy
-***** ui minibuffer
-***** ui ophints
-***** ui popup
-***** lang-weakly-typed lisp-langs
-***** lang-weakly-typed python
+*** Blood Basic Profile
+**** config default
+**** config disabled
+**** config help
+**** config search
+**** config ui
+**** editor buffer-nav
+**** editor evil
+**** editor text-manipulation
+**** editor undo
+**** editor window-nav
+**** tools dired
+**** ui helm
+**** ui hydra
+**** ui ibuffer
+**** ui ivy
+**** ui minibuffer
+**** ui ophints
+**** ui popup
+**** lang-weakly-typed lisp-langs
+**** lang-weakly-typed python
 
-**** BLOCKED Blood Modules                    :module:blood:
-***** Modules
-****** config
-******* bindings
-******* default
-******* disabled
-******* help
-******* linux
-******* mac
-******* search
-******* ui
-******* windows
-****** editor
-******* autosave
-******* buffer-nav
-******* evil
-******* fold
-******* large-files
-******* tagging
-******* text-manipulation
-******* undo
-******* window-nav
-****** experimentation
-****** ide
-******* company
-******* debugger
-******* diff
-******* librarian
-******* minimap
-******* snippets
-******* support
-******* version-control
-******* workspaces
-****** lang-data
-******* csv
-******* dot
-******* graphql
-******* json
-******* logs
-******* nu
-******* sql
-******* toml
-******* xml
-******* yaml
-****** lang-dsl
-******* acab
-******* ai-and-logic
-******* music
-******* nix
-******* qt
-******* rest
-******* sh
-****** lang-strongly-typed
-******* coq
-******* dotnet-langs
-******* fstar
-******* haskell
-******* idris
-******* jvm-langs
-******* lean
-******* ml-langs
-******* rust
-****** lang-text
-******* bibtex
-******* inform
-******* latex
-******* markdown
-******* org
-******* plantuml
-******* rst
-******* web
-****** lang-weakly-typed
-******* erlang-vms
-******* godot
-******* lisp-langs
-******* lua
-******* python
-******* ruby
-****** tools
-******* calendar
-******* dired
-******* eval
-******* mail
-******* pdfs
-******* processes
-******* term
+*** BLOCKED Blood Modules                        :module:blood:
+**** Modules
+***** config
+****** bindings
+****** default
+****** disabled
+****** help
+****** linux
+****** mac
+****** search
 ****** ui
-******* doom-ui
-******* helm
-******* hydra
-******* ibuffer
-******* ivy
-******* minibuffer
-******* ophints
-******* popup
-*** carousel-minor-mode
-**** add tests
+****** windows
+***** editor
+****** autosave
+****** buffer-nav
+****** evil
+****** fold
+****** large-files
+****** tagging
+****** text-manipulation
+****** undo
+****** window-nav
+***** experimentation
+***** ide
+****** company
+****** debugger
+****** diff
+****** librarian
+****** minimap
+****** snippets
+****** support
+****** version-control
+****** workspaces
+***** lang-data
+****** csv
+****** dot
+****** graphql
+****** json
+****** logs
+****** nu
+****** sql
+****** toml
+****** xml
+****** yaml
+***** lang-dsl
+****** acab
+****** ai-and-logic
+****** music
+****** nix
+****** qt
+****** rest
+****** sh
+***** lang-strongly-typed
+****** coq
+****** dotnet-langs
+****** fstar
+****** haskell
+****** idris
+****** jvm-langs
+****** lean
+****** ml-langs
+****** rust
+***** lang-text
+****** bibtex
+****** inform
+****** latex
+****** markdown
+****** org
+****** plantuml
+****** rst
+****** web
+***** lang-weakly-typed
+****** erlang-vms
+****** godot
+****** lisp-langs
+****** lua
+****** python
+****** ruby
+***** tools
+****** calendar
+****** dired
+****** eval
+****** mail
+****** pdfs
+****** processes
+****** term
+***** ui
+****** doom-ui
+****** helm
+****** hydra
+****** ibuffer
+****** ivy
+****** minibuffer
+****** ophints
+****** popup
+** carousel-minor-mode
+*** add tests
 
-**** add buffer pairing for tests
+*** add buffer pairing for tests
 't' to shift
 
-**** add vertical tracks
+*** add vertical tracks
 'R - [j,k]' to shift
 
-*** code-shy-minor-mode
-**** add tests
+** code-shy-minor-mode
+*** add tests
 
-*** env-handling
-**** add readme
-**** add tests
-**** shift config to ide, not python
-**** generalize to handle java, erlang, etc
-**** read toml
-**** read pipfiles
-**** add structs
-*** evil-escape-hook
-**** edit evil repeat list
+** env-handling
+*** add readme
+*** add tests
+*** shift config to ide, not python
+*** generalize to handle java, erlang, etc
+*** read toml
+*** read pipfiles
+*** add structs
+** evil-escape-hook
+*** edit evil repeat list
 
-*** evil-states-plus  :evil:state:
-**** cmd: ivy-state
-**** bidirectional state
-**** page move / browse state
-**** forward state
-**** backward state
-**** search state
-**** vis control state
-**** conflict-merge
-**** insert-plus
-**** other-chars
-**** paren
-*** general-insert highlighting mode
-*** hydra-macros :macros:
-**** add readme
-**** add tests
-**** merge with transient-macros
-*** key-clean                                     :binding:
-*** misc :refactor:
-**** refactor doom specific -> general
+** evil-states-plus                              :evil:state:
+*** cmd: ivy-state
+*** bidirectional state
+*** page move / browse state
+*** forward state
+*** backward state
+*** search state
+*** vis control state
+*** conflict-merge
+*** insert-plus
+*** other-chars
+*** paren
+** general-insert highlighting mode
+** hydra-macros                                  :macros:
+*** add readme
+*** add tests
+*** merge with transient-macros
+** key-clean                                     :binding:
+** misc                                          :refactor:
+*** refactor doom specific -> general
 
-*** misc-modes :modes:
-**** major modes
-***** timeline insert
-***** palette insert with colours
-***** lint result mode
-***** logview mode
-***** godot mode
-***** hexyl mode
-***** pdf-meta mode
-***** rawtag mode
-***** timeline mode
-***** coverage mode
-***** cron mode
-***** QUEUED definition mode
+** misc-modes                                    :modes:
+*** major modes
+**** timeline insert
+**** palette insert with colours
+**** lint result mode
+**** logview mode
+**** godot mode
+**** hexyl mode
+**** pdf-meta mode
+**** rawtag mode
+**** timeline mode
+**** coverage mode
+**** cron mode
+**** QUEUED definition mode
 similar to wordnut-search
 add/lookup timeline+definitions
-***** lint result mode
-***** logview mode
-***** cobol-mode
-***** definition-lookup: move to librarian
-***** separate ai modes to new repo
-****** jacamo mode
-****** [#A] agentspeak mode
-****** soar mode
-****** ceptre mode
-**** minor modes
-***** doot mode
-***** general insert
-***** jg-company
-***** librarian-tagging-helm
-***** librarian-tagging-vy
-***** music-minor
-***** org-unit-test
-***** overlay-ctrl
-**** babel
-***** ccalc
-***** ceptre
-***** clingo
-***** clips
-***** erlang
-***** plantuml
-***** soar
-***** z3
-**** ox-epub
-*** modelined                                     :modeline:
+**** lint result mode
+**** logview mode
+**** cobol-mode
+**** definition-lookup: move to librarian
+**** separate ai modes to new repo
+***** jacamo mode
+***** [#A] agentspeak mode
+***** soar mode
+***** ceptre mode
+*** minor modes
+**** doot mode
+**** general insert
+**** jg-company
+**** librarian-tagging-helm
+**** librarian-tagging-vy
+**** music-minor
+**** org-unit-test
+**** overlay-ctrl
+*** babel
+**** ccalc
+**** ceptre
+**** clingo
+**** clips
+**** erlang
+**** plantuml
+**** soar
+**** z3
+*** ox-epub
+** modelined                                     :modeline:
 declarative modleine
 https://www.gnu.org/software/emacs/manual/html_node/elisp/Mode-Line-Format.html
-**** test
-**** merge with hydra-macros
-*** project-zimmerframe
-**** add structs
-**** test
-*** spec-handling
-**** document
-**** add structs
-**** test
-**** pass symbols to spec-handling-add!
+*** test
+*** merge with hydra-macros
+** project-zimmerframe
+*** add structs
+*** test
+** spec-handling
+*** document
+*** add structs
+*** test
+*** pass symbols to spec-handling-add!
 then eval them on application
 
-*** template access ivy
+** template access ivy
 instead of spc y [1-7], do spc-y-ret and dynamically drill into templates repo
 
-*** transient-macros :macros:
-** Python                                        :python:
-*** 40ksim
-*** py-timeline                                   :experiment:
+** transient-macros                              :macros:
+* Python                                         :python:
+** 40ksim
+** py-timeline                                   :experiment:
 https://www.gnu.org/software/gcal/manual/gcal.html
-*** acab
-**** finish refactor and simplification
-*** cuty
-**** update to work with doot
-*** instal
-**** reintegrate original pytests
-*** python notes
-**** timeit
-**** trace
-**** tracemalloc
-**** faulthandler
-**** atexit
-**** gc
-**** resource
-**** dis
-**** importlib
-**** mmap
-*** jgdv / dejavu
+** acab
+*** finish refactor and simplification
+** cuty
+*** update to work with doot
+** instal
+*** reintegrate original pytests
+** python notes
+*** timeit
+*** trace
+*** tracemalloc
+*** faulthandler
+*** atexit
+*** gc
+*** resource
+*** dis
+*** importlib
+*** mmap
+** jgdv / dejavu
 utilities and things i keep writing
-**** apis
-***** mastodon
-***** clingo
-***** selenium
-***** sphinx
-**** cli
-***** REPL
-***** arg parser
-**** debugging
-***** dsl
-***** frame helper
-***** human
-***** malloc
-***** running debugger
-***** trace helper
-***** destruction
-**** decorators
-***** base
-***** breakpoint
-***** check protocol
-***** dsl
-***** logging
-***** util
+*** apis
+**** mastodon
+**** clingo
+**** selenium
+**** sphinx
+*** cli
+**** REPL
+**** arg parser
+*** debugging
 **** dsl
-***** consts
-***** ctors
-***** funcs
-***** util
-**** enums
-***** location
-***** loop
-***** task response
-***** task state
-**** error
-**** file_formats
+**** frame helper
+**** human
+**** malloc
+**** running debugger
+**** trace helper
+**** destruction
+*** decorators
+**** base
+**** breakpoint
+**** check protocol
+**** dsl
+**** logging
+**** util
+*** dsl
+**** consts
+**** ctors
+**** funcs
+**** util
+*** enums
+**** location
+**** loop
+**** task response
+**** task state
+*** error
+*** file_formats
 tex, twitter, netscape, org, timeline, tags
 file hashing, tar/zip manipulation,
 bookmarks, pickling
-***** binary
-***** bookmarks
-****** bookmark
-****** collection
-****** netscape
-***** epub
-***** gif
-***** graph
-***** jinja
-***** org
-***** pdf
-***** tags
-****** base
-****** graph
-****** index
-****** name
-****** substitutions
-***** tex
-****** base
-****** bib
-****** envs
-****** gantt
-****** pdf
-****** statements
-****** util
-***** timeline
-***** twitter
-***** json
-***** mem map
-***** metadata
-***** sha256
-***** tar
-***** zip
-**** geom
-***** dcel
-***** intersection
-***** math
-***** voronoi
-**** importing
-***** inspect
-***** plugin loader
-**** _interfaces
-***** accessors
-***** decorator
-***** factory
-***** loader
-***** policy
-***** singleton
-**** keys
+**** binary
+**** bookmarks
+***** bookmark
+***** collection
+***** netscape
+**** epub
+**** gif
+**** graph
+**** jinja
+**** org
+**** pdf
+**** tags
 ***** base
-***** decorator
-***** formatter
-***** multikeys
-***** path keys
-***** simple keys
-**** location
-***** locations
-***** toml loc
-**** logging
-***** colour
-***** config
-***** context
-***** stdout capture
-**** math
-***** colour
-***** comparison
-***** easings
-***** matrices
-***** parabola
-***** quadratic
-***** quantize
-***** random
-***** sorting
-***** umath
-***** utils
-**** mixins
-***** enums
-***** param spec
-***** path manip
-***** zipper
-**** setup
-***** asyncio
-****** client
-****** server
-***** gtk
-***** hooks
-***** importing
-***** main
-***** pyparsing
-***** setup
-***** tkinter
-**** spiders
-***** caching
-***** crawler
-***** middleware
-***** mixin
-***** pipeline
-***** spiders
-**** structs
-***** artifact
-***** coderef
-***** graphs
-***** heap
+***** graph
+***** index
 ***** name
-***** param spec
-***** proxy
-***** rational time
-***** rbtree
-***** regex
-***** rete
-***** time
-***** trace
-***** tree
-***** trie
-**** testing
-***** temp dir fixture
+***** substitutions
+**** tex
+***** base
+***** bib
+***** envs
+***** gantt
+***** pdf
+***** statements
+***** util
+**** timeline
+**** twitter
+**** json
+**** mem map
+**** metadata
+**** sha256
+**** tar
+**** zip
+*** geom
+**** dcel
+**** intersection
+**** math
+**** voronoi
+*** importing
+**** inspect
+**** plugin loader
+*** _interfaces
+**** accessors
+**** decorator
+**** factory
+**** loader
+**** policy
+**** singleton
+*** keys
+**** base
+**** decorator
+**** formatter
+**** multikeys
+**** path keys
+**** simple keys
+*** location
+**** locations
+**** toml loc
+*** logging
+**** colour
+**** config
+**** context
+**** stdout capture
+*** math
+**** colour
+**** comparison
+**** easings
+**** matrices
+**** parabola
+**** quadratic
+**** quantize
+**** random
+**** sorting
+**** umath
 **** utils
-***** chain get
-***** slice
-**** _types
+*** mixins
+**** enums
+**** param spec
+**** path manip
+**** zipper
+*** setup
+**** asyncio
+***** client
+***** server
+**** gtk
+**** hooks
+**** importing
+**** main
+**** pyparsing
+**** setup
+**** tkinter
+*** spiders
+**** caching
+**** crawler
+**** middleware
+**** mixin
+**** pipeline
+**** spiders
+*** structs
+**** artifact
+**** coderef
+**** graphs
+**** heap
+**** name
+**** param spec
+**** proxy
+**** rational time
+**** rbtree
+**** regex
+**** rete
+**** time
+**** trace
+**** tree
+**** trie
+*** testing
+**** temp dir fixture
+*** utils
+**** chain get
+**** slice
+*** _types
 
-*** nominate
-*** QUEUED tomlguard proxies
-**** first_of
-**** all_of
-**** flatten_on
-**** match_on
-*** QUEUED [#C] bibtex-middlewares
-**** crossref validator
-**** doi handler
-**** field sorter
-**** hash validator
-**** metadata writer
-**** stack builder
-**** waybacker
-** Rust                                          :rust:
-*** rust <-> emacs
+** nominate
+** QUEUED tomlguard proxies
+*** first_of
+*** all_of
+*** flatten_on
+*** match_on
+** QUEUED [#C] bibtex-middlewares
+*** crossref validator
+*** doi handler
+*** field sorter
+*** hash validator
+*** metadata writer
+*** stack builder
+*** waybacker
+* Rust                                           :rust:
+** rust <-> emacs
 Have emacs call a rust module
 http://diobla.info/blog-archive/modules-tut.html
 https://github.com/jkitchin/emacs-modules
 https://github.com/ubolonton/emacs-module-rs
 https://phst.eu/emacs-modules.html
 https://ryanfaulhaber.com/posts/first-emacs-module-rust/
-*** rust <-> python
+** rust <-> python
 Have python pass data back and forth to rust
 https://codeburst.io/how-to-use-rust-to-extend-python-360174ee5819?gi=f1a56fa91873
 https://docs.python.org/3/extending/building.html#building
@@ -1895,24 +1904,24 @@ https://github.com/PyO3/pyo3
 https://github.com/PyO3/setuptools-rust
 https://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/
 https://www.maturin.rs/
-** Templates                                     :templates:
-*** bash
-*** Definitions
-*** General Inserts                             :gen_insert:
-**** general-insert : seaborn
-**** general-insert : matplotlib
-**** general-insert : sqlalchemy
-**** general-insert : cairo
-**** general-insert : construct
-**** general-insert : scipy
-**** general-insert : scikit-learn
-**** general-insert : pyparsing
-**** general-insert : networkx
-**** pandas
-*** DONE move templates to separate repo
-*** nu
-*** themes
-*** DONE update project templates
+* Templates                                      :templates:
+** bash
+** Definitions
+** General Inserts                               :gen_insert:
+*** general-insert : seaborn
+*** general-insert : matplotlib
+*** general-insert : sqlalchemy
+*** general-insert : cairo
+*** general-insert : construct
+*** general-insert : scipy
+*** general-insert : scikit-learn
+*** general-insert : pyparsing
+*** general-insert : networkx
+*** pandas
+** DONE move templates to separate repo
+** nu
+** themes
+** DONE update project templates
 * Bibliography                                    :bibliography:
 ** in_progress
 *** ai-reviews
@@ -2031,7 +2040,11 @@ readthedocs
 ** templates
 ** tomlguard
 * Job                                        :job:
-* Done
+** [#A] joinerysoft
+* Done                                            :ATTACH:
+:PROPERTIES:
+:ID:       005ee55c-2ea8-425e-a1b0-94792272a866
+:END:
 * [[file:notes.org::Inbox][Notes]]
 * [[file:/media/john/data/github/bibliography/bookmarks/urls.org][Links/urls]]
 ** Main
