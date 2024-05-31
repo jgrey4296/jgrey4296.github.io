@@ -1,0 +1,28 @@
+#+TITLE: Misc Todos
+
+* Misc
+** [[file:/media/john/data/github/_templates/.tasks/repo_todos.org::*repo maintenance][repo maintenance]]
+** [[file:/media/john/data/github/_templates/.tasks/maintenance_todos.org::*maintenance][maintenance]]
+** Experiments
+*** Tach
+https://gauge-sh.github.io/tach/
+*** pyastgrep
+https://lukeplant.me.uk/blog/posts/pyastgrep-and-custom-linting/
+https://github.com/spookylukey/pyastgrep/
+https://semgrep.dev/docs/writing-rules/rule-ideas
+
+*** org-brain
+https://github.com/Kungsgeten/org-brain
+*** agda
+*** ess
+*** fortran
+*** ivy
+*** julia
+*** ledger
+*** multi-cursor
+*** opa
+*** solidity
+*** taskrunners
+*** vertico
+
+* Links
