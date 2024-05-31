@@ -1,48 +1,106 @@
 #+TITLE: Dataset Todos
 
 * Datasets                                       :dataset:
-** QUEUED youtube
-*** Brothgar
-*** Colonel_RPG
-*** CrashCourse
-*** DoctorSwellman
-*** Extra_History
-*** Feminist_Frequency
-*** GDC
-*** Grimith
-*** IllegallySighted
-*** Keith_Ballard
-*** Laila_Dyer
-*** Let's_Game_It_Out
-*** Lister
-*** LongplayArchive
-*** Low_Tech_Gaming
-*** Nathan's_Sandbox
-*** Noah_Caldwell-Gervais
-*** Plumbella
-*** RenegadeConstabulary
-*** SB
-*** SciShow
-*** Splattercatgaming
-*** Stumpt
-*** Super_Bunnyhop
-*** TheUrsinus1
-*** The_Guild_of_Awesome
-*** The_Jessa_Channel
-*** The_Spiffing_Brit
-*** Virtual_Gaming_Library_-_VGL
-*** Volx
-*** World_of_Longplays
-*** Worm_Girl
-*** aulddragon
-*** dfortae_-_Game_Reviews
-*** lilsimsie
-*** northernlion
-*** quill18
-*** rpg_crawler
-*** thevoiceofdog
-*** tomatoanus
-** raw
+** Crawled
+*** arcen
+*** binding_of_isaac
+*** burn_notice
+*** caves_of_qud
+*** dota
+*** dragon_age
+*** dwarf_devlogs
+*** dwarf_fortress
+*** dwarf_vignettes
+*** elder_scrolls
+*** facebook
+*** failbetter
+*** fallout
+*** gladia_bots
+*** klei
+*** papers_please
+*** paradox
+*** pathologic
+*** pillars_of_eternity
+*** rimworld
+*** spyparty
+*** stardew_valley
+*** tf2
+*** the_sims
+*** tropico
+*** trump_timeline
+*** wow_patches
+*** wow_quests
+*** zero_punctuation
+** DBLP                                         :dblp:
+*** ISSNs
+**** Journal of Political Economy: 00223808
+https://www.jstor.org/journal/jpoliecon
+
+**** AI Magazine: 2371-9621, 0738-4602
+https://dblp.org/db/journals/aim/index.html
+
+**** Artificial Intelligence: 0004-3702
+https://dblp.org/db/journals/ai/index.html
+
+**** JASSS: 1460-7425
+https://dblp.org/db/journals/jasss/index.html
+
+**** computers in human behavior: 0747-5632
+https://dblp.org/db/journals/chb/index.html
+
+**** ACM Transactions on Programming Languages and Systems (TOPLAS) : 0164-0925, 1558-4592
+https://dblp.org/db/journals/toplas/index.html
+
+**** Foundations and Trends in Programming Languages: 2325-1107, 2325-1131
+https://dblp.org/db/journals/ftpl/index.html
+
+**** Journal of Programming Languages: 0963-9306
+https://dblp.org/db/journals/jpl/index.html
+
+**** Organization Science: 1047-7039, 1526-5455
+https://dblp.org/db/journals/orgsci/index.html
+
+**** International Journal of Human-Computer Interaction: 1044-7318, 1532-7590
+https://dblp.org/db/journals/ijhci/index.html
+
+*** Proceedings
+
+**** ACM-SIGACT Symposium on Principles of Programming Languages (POPL)
+https://dblp.org/db/conf/popl/index.html
+
+**** ACM-SIGPLAN Symposium on Programming Language Design and Implementation (PLDI)
+https://dblp.org/db/conf/pldi/index.html
+
+**** History of Programming Languages (HOPL)
+https://dblp.org/db/conf/hopl/index.html
+
+**** Language Design and Programming Methodology
+https://dblp.org/db/conf/ldpm/index.html
+
+**** Workshop on Evaluation and Usability of Programming Languages and Tools (PLATEAU)
+https://dblp.org/db/conf/plateau/index.html
+
+**** Symposium on Programming Languages and Software Tools (SPLST)
+https://dblp.org/db/conf/splst/index.html
+
+** Non-integrated
+*** csharp spec
+https://github.com/dotnet/csharplang
+https://github.com/dotnet/csharplang/tree/main/meetings
+
+*** dft transport org charts
+https://www.gov.uk/government/publications/department-for-transport-and-ndpb-structure-charts-organisational-and-salary-disclosure-data
+*** dow2 mod tools
+*** folklore
+*** hansard archive
+https://www.hansard-archive.parliament.uk/
+*** rma metadata
+*** sim refinery
+*** soar
+*** whoismakingnews
+https://www.whoismakingnews.com/#source-data
+
+** Raw
 *** 40k_texts
 *** nyt
 *** 40k_armageddon
@@ -295,52 +353,48 @@
 *** xenobloom
 *** yoda_stories
 *** z3
-** crawled
-*** arcen
-*** binding_of_isaac
-*** burn_notice
-*** caves_of_qud
-*** dota
-*** dragon_age
-*** dwarf_devlogs
-*** dwarf_fortress
-*** dwarf_vignettes
-*** elder_scrolls
-*** facebook
-*** failbetter
-*** fallout
-*** gladia_bots
-*** klei
-*** papers_please
-*** paradox
-*** pathologic
-*** pillars_of_eternity
-*** rimworld
-*** spyparty
-*** stardew_valley
-*** tf2
-*** the_sims
-*** tropico
-*** trump_timeline
-*** wow_patches
-*** wow_quests
-*** zero_punctuation
-** dblp
-** twitter :needs-parsing:
-** soar :not-integrated:
-** sim refinery :not-integrated:
-** rma metadata :not-integrated:
-** dft transport org charts :not-integrated:
-https://www.gov.uk/government/publications/department-for-transport-and-ndpb-structure-charts-organisational-and-salary-disclosure-data
-** dow2 mod tools :not-integrated:
-** hansard archive
-https://www.hansard-archive.parliament.uk/
-** whoismakingnews :not-integrated:
-https://www.whoismakingnews.com/#source-data
-** folklore :not-integrated:
-** csharp spec
-https://github.com/dotnet/csharplang
-https://github.com/dotnet/csharplang/tree/main/meetings
-
+** Twitter
+*** parse
+** Youtube
+*** Brothgar
+*** Colonel_RPG
+*** CrashCourse
+*** DoctorSwellman
+*** Extra_History
+*** Feminist_Frequency
+*** GDC
+*** Grimith
+*** IllegallySighted
+*** Keith_Ballard
+*** Laila_Dyer
+*** Let's_Game_It_Out
+*** Lister
+*** LongplayArchive
+*** Low_Tech_Gaming
+*** Nathan's_Sandbox
+*** Noah_Caldwell-Gervais
+*** Plumbella
+*** RenegadeConstabulary
+*** SB
+*** SciShow
+*** Splattercatgaming
+*** Stumpt
+*** Super_Bunnyhop
+*** TheUrsinus1
+*** The_Guild_of_Awesome
+*** The_Jessa_Channel
+*** The_Spiffing_Brit
+*** Virtual_Gaming_Library_-_VGL
+*** Volx
+*** World_of_Longplays
+*** Worm_Girl
+*** aulddragon
+*** dfortae_-_Game_Reviews
+*** lilsimsie
+*** northernlion
+*** quill18
+*** rpg_crawler
+*** thevoiceofdog
+*** tomatoanus
 
 * Links

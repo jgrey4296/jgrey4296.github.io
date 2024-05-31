@@ -2,17 +2,21 @@
 
 * Python                                         :python:
 ** [[file:/media/john/data/github/python/acab/.tasks/acab_todos.org::*ACAB][ACAB]]
+** [[file:/media/john/data/github/python/bib-middleware/.tasks/bib_middleware_todos.org::*bibtex-middlewares][bibtex-middlewares]]
+** [[file:/media/john/data/github/python/corana/.tasks/corana_todos.org::*Corana][Corana]]
+** [[file:/media/john/data/github/python/doot/.tasks/doot_todos.org::*Doot][Doot]]
+** [[file:/media/john/data/github/python/dootle/.tasks/dootle_todos.org::*Dootle][Dootle]]
 ** [[file:/media/john/data/github/python/instal/.tasks/instal_todos.org::*Instal][Instal]]
 ** [[file:/media/john/data/github/python/jgdv/.tasks/jgdv_todos.org::*jgdv / dejavu][jgdv]]
-** [[file:/media/john/data/github/python/tomlguard/.tasks/tomlguard_todos.org::*tomlguard][tomlguard]]
-** [[file:/media/john/data/github/python/bib-middleware/.tasks/bib_middleware_todos.org::*bibtex-middlewares][bibtex-middlewares]]
 ** [[file:/media/john/data/github/python/pelican-tomlconf/.tasks/pelican_tomlconf_todos.org::*pelican-tomlconf][pelican-tomlconf]]
 ** [[file:/media/john/data/github/python/sphinx-tomlconf/.tasks/sphinx_tomlconf_todos.org::*sphinx-tomlconf][sphinx-tomlconf]]
-** Maybes
-*** 40ksim
+** [[file:/media/john/data/github/python/tomlguard/.tasks/tomlguard_todos.org::*tomlguard][tomlguard]]
+* Maybes
+** 40ksim
 
-*** nominate
-*** py-timeline                                :experiment:
+** nominate
+** py-timeline                                  :experiment:
 https://www.gnu.org/software/gcal/manual/gcal.html
+
 
 * Links
