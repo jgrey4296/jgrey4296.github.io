@@ -1,4 +1,5 @@
 #+TITLE: Godot Todos
+#+STARTUP: agenda
 
 * Godot                                          :godot:
 ** android test

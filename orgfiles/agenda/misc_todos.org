@@ -1,28 +1,45 @@
 #+TITLE: Misc Todos
+#+STARTUP: agenda
 
 * Misc
 ** [[file:/media/john/data/github/_templates/.tasks/repo_todos.org::*repo maintenance][repo maintenance]]
 ** [[file:/media/john/data/github/_templates/.tasks/maintenance_todos.org::*maintenance][maintenance]]
-** Experiments
-*** Tach
-https://gauge-sh.github.io/tach/
-*** pyastgrep
+* Experiments
+** [∅] agda
+** [∅] deft
+https://jblevins.org/projects/deft/
+** [∅] ess
+** [∅] evil-fringe-mark
+** [∅] fortran
+** [∅] ivy
+** [∅] julia
+** [∅] ledger
+** [∅] multi-cursor
+** [∅] opa
+** [∅] org-brain
+https://github.com/Kungsgeten/org-brain
+** [∅] orgit
+** [∅] orgit-forge
+** [∅] org-journal
+** [∅] org-passwords
+** [∅] org-cliplink
+** [∅] org-contacts
+** [∅] org-contrib
+** [∅] org-projectile
+** [∅] org-tree-slide
+** [∅] org-yt
+** [∅] outline-toc
+** [∅] pyastgrep
 https://lukeplant.me.uk/blog/posts/pyastgrep-and-custom-linting/
 https://github.com/spookylukey/pyastgrep/
 https://semgrep.dev/docs/writing-rules/rule-ideas
 
-*** org-brain
-https://github.com/Kungsgeten/org-brain
-*** agda
-*** ess
-*** fortran
-*** ivy
-*** julia
-*** ledger
-*** multi-cursor
-*** opa
-*** solidity
-*** taskrunners
-*** vertico
-
+** [∅] solidity
+** [∅] Tach
+https://gauge-sh.github.io/tach/
+** [∅] taskrunners
+** [∅] toc-org
+** [∅] vertico
+** [∅] coverage-py
+** [∅] html -> epub** Experiments :experiment:
 * Links

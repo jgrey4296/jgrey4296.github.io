@@ -1,7 +1,9 @@
 #+TITLE: Homepage Todos
+#+STARTUP: agenda
 
 * Homepage
-** main                                         :main:
+** TODO main :main:
+- State "TODO"       from              [2024-06-03 Mon 05:14]
 *** 40k editions
 *** isaac synergies
 *** civ techtrees

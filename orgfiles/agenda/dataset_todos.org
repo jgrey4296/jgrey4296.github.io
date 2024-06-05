@@ -1,7 +1,9 @@
 #+TITLE: Dataset Todos
+#+STARTUP: agenda
 
 * Datasets                                       :dataset:
-** Crawled
+** TODO Crawled
+- State "TODO"       from              [2024-06-03 Mon 05:12]
 *** arcen
 *** binding_of_isaac
 *** burn_notice
@@ -31,7 +33,8 @@
 *** wow_patches
 *** wow_quests
 *** zero_punctuation
-** DBLP                                         :dblp:
+** TODO DBLP :dblp:
+- State "TODO"       from              [2024-06-03 Mon 05:12]
 *** ISSNs
 **** Journal of Political Economy: 00223808
 https://www.jstor.org/journal/jpoliecon
@@ -84,23 +87,24 @@ https://dblp.org/db/conf/plateau/index.html
 https://dblp.org/db/conf/splst/index.html
 
 ** Non-integrated
-*** csharp spec
+*** [∅] csharp spec
 https://github.com/dotnet/csharplang
 https://github.com/dotnet/csharplang/tree/main/meetings
 
-*** dft transport org charts
+*** [∅] dft transport org charts
 https://www.gov.uk/government/publications/department-for-transport-and-ndpb-structure-charts-organisational-and-salary-disclosure-data
-*** dow2 mod tools
-*** folklore
-*** hansard archive
+*** [∅] dow2 mod tools
+*** [∅] folklore
+*** [∅] hansard archive
 https://www.hansard-archive.parliament.uk/
-*** rma metadata
-*** sim refinery
-*** soar
-*** whoismakingnews
+*** [∅] rma metadata
+*** [∅] sim refinery
+*** [∅] soar
+*** [∅] whoismakingnews
 https://www.whoismakingnews.com/#source-data
 
-** Raw
+** TODO Raw
+- State "TODO"       from              [2024-06-03 Mon 05:12]
 *** 40k_texts
 *** nyt
 *** 40k_armageddon
@@ -353,9 +357,14 @@ https://www.whoismakingnews.com/#source-data
 *** xenobloom
 *** yoda_stories
 *** z3
-** Twitter
-*** parse
-** Youtube
+** TODO Twitter
+- State "TODO"       from              [2024-06-03 Mon 05:13]
+*** parse org files
+*** convert to html
+*** convert to epub
+*** extract tags
+** TODO Youtube
+- State "TODO"       from              [2024-06-03 Mon 05:14]
 *** Brothgar
 *** Colonel_RPG
 *** CrashCourse

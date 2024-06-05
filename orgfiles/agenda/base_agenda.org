@@ -1,27 +1,23 @@
 -*- mode: org; -*-
 #+STARTUP: content
-
+#+STARTUP: agenda
 
 * Active
-** TODO org
-*** diary jump
-*** archive jump
-*** journal jump
-*** notes
-*** projects
-
 ** [[file:/media/john/data/github/lisp/blood_bind/.tasks/blood_bind_todos.org::+TITLE: Blood Bind Todos][Blood Bind]]
 
 ** [[id:8390af85-0c2d-4f73-b06c-65e06854c0e2][Librarian]]
 
-* Queue
+* Triage
 ** QUEUED re-add potassco to apt
 https://launchpad.net/~potassco/+archive/ubuntu/stable
 [[/media/john/data/github/_templates/apt/sources/potassco-ubuntu-stable-lunar.list][apt sources]]
-** ace window add mode indicators
-** librarian tag file mode
-** annie liang
+** TRIAGE ace window add mode indicators
+** TRIAGE librarian tag file mode
+** TRIAGE annie liang
 https://www.anniehliang.com/research
+** TRIAGE org capture templates
+https://orgmode.org/org.html#Template-elements
+
 * Job Groups
 ** [[file:/media/john/data/github/bibliography/.tasks/bibliography_todos.org::*Bibliography][Bibliography]]
 ** [[file:dataset_todos.org::*Datasets][Datasets]]
@@ -37,7 +33,8 @@ https://www.anniehliang.com/research
 ** [[file:python_todos.org::*Python][Python]]
 ** [[file:rust_todos.org::*Rust][Rust]]
 ** [[file:/media/john/data/github/_templates/.tasks/template_todos.org::*Templates][Templates]]
-* [[file:notes.org::Inbox][Notes]]
+** [[file:misc_todos.org::*Misc][Misc]]
+* [[file:../notes/misc.org::Triage][Notes]]
 * [[file:/media/john/data/github/bibliography/bookmarks/urls.org][Links/urls]]
 ** Main
 *** [[file:/media/john/data/github/lisp/blood/blood][Blood]]

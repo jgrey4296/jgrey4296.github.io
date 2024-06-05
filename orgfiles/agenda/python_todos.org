@@ -1,4 +1,5 @@
 #+TITLE: Python Todos
+#+STARTUP: agenda
 
 * Python                                         :python:
 ** [[file:/media/john/data/github/python/acab/.tasks/acab_todos.org::*ACAB][ACAB]]
