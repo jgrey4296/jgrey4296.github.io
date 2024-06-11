@@ -17,3 +17,10 @@
 ** *Sister Citizen by @MHarrisPerry
 ** The Pushout by @MoniqueWMorris
 ** The Warmth of Other Suns by @Isabelwilkerson
+* Tasks
+** TODO set shell modelines to display cwd, processes, and relevant env vars
+  [2024-06-10 Mon]
+  [[file:/media/john/data/github/_config/modules/tools/term/config.el::;; (add-hook 'shell-mode-hook #'hide-mode-line-mode)]]
+** TODO +jg-term-switch only select live shells
+  [2024-06-10 Mon]
+  [[file:/media/john/data/github/_config/modules/tools/term/autoload/term.el::defun +jg-term-switch (]]

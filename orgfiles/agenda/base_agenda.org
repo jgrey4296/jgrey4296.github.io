@@ -2,6 +2,7 @@
 #+STARTUP: content
 #+STARTUP: agenda
 
+
 * Active
 ** [[file:/media/john/data/github/lisp/blood_bind/.tasks/blood_bind_todos.org::+TITLE: Blood Bind Todos][Blood Bind]]
 
@@ -11,12 +12,23 @@
 ** QUEUED re-add potassco to apt
 https://launchpad.net/~potassco/+archive/ubuntu/stable
 [[/media/john/data/github/_templates/apt/sources/potassco-ubuntu-stable-lunar.list][apt sources]]
-** TRIAGE ace window add mode indicators
-** TRIAGE librarian tag file mode
-** TRIAGE annie liang
-https://www.anniehliang.com/research
-** TRIAGE org capture templates
-https://orgmode.org/org.html#Template-elements
+** TRIAGE backup tasks
+- archive
+- assets
+- audiobooks
+- datasets
+- proceedings
+- movies
+- music
+- pictures
+** TRIAGE emacs security
+https://www.gnu.org/software/emacs/manual/html_node/emacs/Network-Security.html
+
+** TRIAGE WDL
+https://docs.openwdl.org/en/latest/WDL/add_plumbing/
+
+** TRIAGE custom python breakpoint to print context on entry
+** TRIAGE replace +org/dwim-at-point
 
 * Job Groups
 ** [[file:/media/john/data/github/bibliography/.tasks/bibliography_todos.org::*Bibliography][Bibliography]]
