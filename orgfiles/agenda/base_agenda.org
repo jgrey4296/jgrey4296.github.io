@@ -2,7 +2,10 @@
 #+STARTUP: content
 #+STARTUP: agenda
 
-
+https://leftbookclub.com/books/
+https://calculatingempires.net/
+https://guides.library.harvard.edu/law-and-society
+https://emacs-tree-sitter.github.io/syntax-highlighting/queries/
 * Active
 ** [[file:/media/john/data/github/lisp/blood_bind/.tasks/blood_bind_todos.org::+TITLE: Blood Bind Todos][Blood Bind]]
 
@@ -29,6 +32,9 @@ https://docs.openwdl.org/en/latest/WDL/add_plumbing/
 
 ** TRIAGE custom python breakpoint to print context on entry
 ** TRIAGE replace +org/dwim-at-point
+
+** TRIAGE mise
+https://mise.jdx.dev/getting-started.html
 
 * Job Groups
 ** [[file:/media/john/data/github/bibliography/.tasks/bibliography_todos.org::*Bibliography][Bibliography]]

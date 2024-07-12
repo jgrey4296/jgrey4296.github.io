@@ -3,6 +3,24 @@
 
 * Triage
 
+** TRIAGE remove doot printer from bib.middleware
+   [[file:/media/john/data/github/python/bib-middleware/bib_middleware]]
+   Description
+
+** TRIAGE vertical column carousel
+   [[file:/media/john/data/github/python/doot/doot/_structs/dkey.py::-- end meta]]
+   Description
+
+** TRIAGE make fold hints
+   [[file:/media/john/data/github/python/doot/doot/utils/dkey_formatter.py::def get_value(self, key, args, kwargs) -> str:]]
+   to allow some things to be expanded, and some folded
+
+** TRIAGE carousel pin left and right buffers
+    [[/media/john/data/github/python/doot/doot/utils/__tests/test_key_formatter.py::37][test_key_formatter.py]]
+
+        <2024-06-17 Mon>
+
+
 ** TRIAGE Title
    [[mu4e:msgid:20240608070623.35641087.329882@sailthru.com][Holding our leaders to account in all 50 states]]
    test mail
