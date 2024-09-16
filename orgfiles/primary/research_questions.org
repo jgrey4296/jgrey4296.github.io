@@ -1,7 +1,7 @@
-* Research Questions and related
-** Questions
-*** Questions to ask about institutions                                         :institutions:questions:
-**** Descriptive Questions
+#+title: Research Questions
+* Questions
+* Questions to ask about institutions             :institutions:questions:
+** Descriptive Questions
      How are institutions structured? How do they change?
      Who are the people in institutions? Do they always fulfill the same roles?
      Where are institutions located? Physically? Mentally?
@@ -14,87 +14,87 @@
      How do we describe the interactions between institutions?
      How do similar institutions vary?
 
-**** Predictive Questions
+** Predictive Questions
      How do they change when X occurs?
      Which institution of a conflict set is preferred in a given situation?
 
-**** Explanatory Questions
+** Explanatory Questions
      Does an institution modeled by Fligsteins structure allow for similar behaviour to real institutions?
      Why do institutions change? Why do they exist?
      How do institutions operate?
      How are institutions maintained?
      How are institutions transmitted?
 
-**** Misc
-***** How are institutions formed?
+** Misc
+*** How are institutions formed?
       Is this the question to ask at the moment? probably not. Institutions *exist*, the creation of them is rarer.
       Possibly consider Facebook as an institution.
-***** How are the consequences of the changes experienced?
-***** How are those changes experienced?
-***** How can we describe institutions?
-***** How can we phenomenologically operationalise institutions?
-***** How do the variants of an institution change?
-***** How do you differentiate universally applicable institutions to individual/instrumental/situational institutions?
-***** How do you get from social rules to actions?
-***** How do you vary an institution?
+*** How are the consequences of the changes experienced?
+*** How are those changes experienced?
+*** How can we describe institutions?
+*** How can we phenomenologically operationalise institutions?
+*** How do the variants of an institution change?
+*** How do you differentiate universally applicable institutions to individual/instrumental/situational institutions?
+*** How do you get from social rules to actions?
+*** How do you vary an institution?
       feedback loop. resonance.
-***** What are examples of the ranges of:
-****** Institutions
-****** Inter-Institutional Variance (religion <-> disgust)
-****** How do institutions vary across time?
-****** Institutional Experiences
-****** Institutional Purposes
+*** What are examples of the ranges of:
+**** Institutions
+**** Inter-Institutional Variance (religion <-> disgust)
+**** How do institutions vary across time?
+**** Institutional Experiences
+**** Institutional Purposes
        Do all institutions have purposes?
-****** Components of Institutions:
-******* Values
-******* Rules
-******* Roles
-******* Actions
-******* Timescales
-******* Agency
-******* Locations
-******* Events
-******* Means of individual variation / pure symbolics
-******* means of communication / semi-symbolics
-******* actions / non-symbolics
-***** What are Institutions?
-***** What are the variants and invariants of an institution?
-***** What does an Institutional Analysis of Games/AI Reveal?
-***** What does an Institutional Architecture Enable?
-***** What is important about our experience of institutions?
-***** What is the process by which an individual acts according to a multitude of institutions?
-***** What language would describe these changes?
-***** Why would we want to model Institutions?
-***** Related to Sociologically Inspired Computing Methodology
+**** Components of Institutions:
+***** Values
+***** Rules
+***** Roles
+***** Actions
+***** Timescales
+***** Agency
+***** Locations
+***** Events
+***** Means of individual variation / pure symbolics
+***** means of communication / semi-symbolics
+***** actions / non-symbolics
+*** What are Institutions?
+*** What are the variants and invariants of an institution?
+*** What does an Institutional Analysis of Games/AI Reveal?
+*** What does an Institutional Architecture Enable?
+*** What is important about our experience of institutions?
+*** What is the process by which an individual acts according to a multitude of institutions?
+*** What language would describe these changes?
+*** Why would we want to model Institutions?
+*** Related to Sociologically Inspired Computing Methodology
       In Horseshoe:
-****** What Are Institutions?
+**** What Are Institutions?
        Dynamic semi-specified fields of artificial persistent
        stances about the world
-****** How can we talk about them?
+**** How can we talk about them?
        Components, languages
-****** How can we reason about them?
+**** How can we reason about them?
        Models, Stackable calculi
-****** How can we model them computationally?
+**** How can we model them computationally?
        Layers, DSLs, Meta Rules.
-****** How can we author them?
+**** How can we author them?
        Emacs Authoring, DSL construction.
        Tool assistance.
-****** How can we perform them?
-       Scopes and ways to demonstrate. 
+**** How can we perform them?
+       Scopes and ways to demonstrate.
        Street level bureaucracy.
-***** What has come before?
-****** That is on this topic?
-****** That is applicable, but hasn't been?
-****** That takes a different approach from me?
-****** That supports my approach?
-****** That opposes this approach?
-****** That has been forgotten?
-****** That has not crossed discipline boundaries?
-***** What have I Done?
-***** What have I found out?
-***** What Worked?
-***** What did not work?
-*** Related to Cohen:
+*** What has come before?
+**** That is on this topic?
+**** That is applicable, but hasn't been?
+**** That takes a different approach from me?
+**** That supports my approach?
+**** That opposes this approach?
+**** That has been forgotten?
+**** That has not crossed discipline boundaries?
+*** What have I Done?
+*** What have I found out?
+*** What Worked?
+*** What did not work?
+* Related to Cohen:
     What will happen if you vary an institution?
     Does an institution generated and varied in a procedural way model
     real world institutions accurately?
@@ -106,9 +106,9 @@
     Can we create dynamic societies within which SIA's can occur?
     Can dynamic societies provide new media experiences?
     How might we utilize dynamic societies in games?
-** Examples of Research Questions
+* Examples of Research Questions
    #TODO: 2003 onwards
-*** Adams 2002
+** Adams 2002
     The main aims of the project are as follows: -
     1) Find, or if necessary, create a general system to support the graph
        grammar approach.
@@ -127,7 +127,7 @@
        geometric level descriptions.
     2) Create complete and playable levels for an actual dungeon game using
        levels output by the Dungeon Generation System.
-*** Artikis 2003
+** Artikis 2003
     A more detailed account of the contributions of this thesis is the following:
     1) A critical analysis of existing frameworks for the representation of
        multi-agent systems (with similar characteristics to open computational
@@ -173,26 +173,26 @@
        protocol. An evaluation of both frameworks, in the light of the presented
        case studies, that points out the strengths and weaknesses of these frameworks.
 
-*** Berger 2001
+** Berger 2001
     The purpose of this document is to substantiate the following assertion:
     statistical machine learning represents a principled, viable framework upon
     which to build high-performance information processing systems.
 
-*** Bryson 2001
+** Bryson 2001
     The primary contributions of this dissertation are:
     1) the BOD architecture, and
     2) the BOD development process.
-*** Doorenbos 1995
+** Doorenbos 1995
     The thesis of this research is that we can solve this problem in a broad
     class of systems by improving the match algorithm they use.
-*** G Smith 2012
+** G Smith 2012
     1. How can we design content generators that support a new paradigm for design?
     2. How does the incorporation of procedural content enable the creation of a new game
     genre?
     3. How can we evaluate and understand a content generator’s expressive capabilities and
     communicate them to designers?
 
-*** Hawes 2009
+** Hawes 2009
     Our primary objective is to gain a clearer understanding of the role of the
     conversational dynamics of Supreme Court justices. We aim to show that:
     a) predictable high level patterns exist in the conversational dynamics of the
@@ -204,7 +204,7 @@
     (i.e. predicting the outcome of a particular case)
     and deeper insights about the behavior of the Supreme Court.
 
-*** MacBeth 2014
+** MacBeth 2014
     1) A review of governance in participatory-sensing applications, identifying a
        lack of governance consideration and user enfranchishment.
     2) An analysis of participatory sensing as a knowledge commons, using the IAD
@@ -223,13 +223,13 @@
        institutions, and identify that proper enfranchisement of users can be
        used to counter greed and self-interest in participatory-sensing.
 
-*** Noriega 1997
+** Noriega 1997
     I will organize my arguments along three lines:
     1) from the point of view of agent interactions
     2) from the point of view of agent-based applications, and
     3) from the point of view of dialogical systems
 
-*** Recski 2006
+** Recski 2006
     1) How can interpersonal patterns of choice observed in the corpus of dissertation
        defenses be represented in terms of the grammatical system as a whole
        (ie: as subsystems of the system)? How may a paradigmatic grammar such
@@ -247,7 +247,7 @@
        members to ask questions and to give recommendations and/or suggestions
        and how is it realized lexicogrammatically?
 
-*** Reilly 1996
+** Reilly 1996
     Part 1:
     1) A set of tools for creating believable emotional agents that includes:
        1) a framework for building believable emotional agents,
@@ -276,7 +276,7 @@
           amounts of representation of other agents.
     3) Validation that users find social characters build using this methodology can be good characters.
 
-*** Tidemann 2009
+** Tidemann 2009
     Goals:
     1) Design and develop an architecture for musical imitation that is able to
        model and imitate human expressiveness (ie: the groove) when playing the
@@ -301,8 +301,7 @@
        the original audio with the imitated audio and classify which served as
        training signal to the imitated audio.
 
-*** Treanor 2013
+** Treanor 2013
     1. How do instantial assets interact with game rules to be about subjects?
     2. How can complex systems of rules be about subjects?
     3. Why do players understand games in different ways?
-

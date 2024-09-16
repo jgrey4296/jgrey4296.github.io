@@ -1,0 +1,74 @@
+-*- mode: org; -*-
+#+STARTUP: content
+#+STARTUP: agenda
+
+https://www.uscis.gov/sites/default/files/document/forms/i-130.pdf
+https://smallpdf.com
+https://leftbookclub.com/books/
+https://calculatingempires.net/
+https://guides.library.harvard.edu/law-and-society
+https://emacs-tree-sitter.github.io/syntax-highlighting/queries/
+https://findajob.dwp.gov.uk/search?q=software+engineer&loc=86383
+https://www.cv-library.co.uk/
+
+* Active
+** [[file:/media/john/data/github/lisp/blood_bind/.tasks/blood_bind_todos.org::+TITLE: Blood Bind Todos][Blood Bind]]
+
+** [[id:8390af85-0c2d-4f73-b06c-65e06854c0e2][Librarian]]
+
+* Triage
+** QUEUED re-add potassco to apt
+https://launchpad.net/~potassco/+archive/ubuntu/stable
+[[/media/john/data/github/_templates/apt/sources/potassco-ubuntu-stable-lunar.list][apt sources]]
+** TRIAGE backup tasks
+- archive
+- assets
+- audiobooks
+- datasets
+- proceedings
+- movies
+- music
+- pictures
+** TRIAGE emacs security
+https://www.gnu.org/software/emacs/manual/html_node/emacs/Network-Security.html
+
+** TRIAGE WDL
+https://docs.openwdl.org/en/latest/WDL/add_plumbing/
+
+** TRIAGE custom python breakpoint to print context on entry
+** TRIAGE replace +org/dwim-at-point
+** TRIAGE mise
+https://mise.jdx.dev/getting-started.html
+
+* Job Groups
+** [[file:/media/john/data/github/bibliography/.tasks/bibliography_todos.org::*Bibliography][Bibliography]]
+** [[file:dataset_todos.org::*Datasets][Datasets]]
+** [[file:/media/john/data/github/python/doot/.tasks/doot_todos.org::*Doot][Doot]]
+** [[file:dotnet_todos.org::*Dotnet][Dotnet]]
+** [[file:elixir_todos.org::*Elixir][Elixir]]
+** [[file:/media/john/data/github/_config/.tasks/emacs_todos.org::*Emacs][Emacs]]
+** [[file:godot_todos.org::*Godot][Godot]]
+** [[file:homepage_todos.org::*Homepage][Homepage]]
+** [[file:jobsearch_todos.org::*Job Search][Job Search]]
+** [[file:jvm_todos.org::*JVM][JVM]]
+** [[file:lisp_todos.org::*Lisp][Lisp]]
+** [[file:python_todos.org::*Python][Python]]
+** [[file:rust_todos.org::*Rust][Rust]]
+** [[file:/media/john/data/github/_templates/.tasks/template_todos.org::*Templates][Templates]]
+** [[file:misc_todos.org::*Misc][Misc]]
+* [[file:../notes/misc.org::Triage][Notes]]
+* [[file:/media/john/data/github/bibliography/bookmarks/urls.org][Links/urls]]
+** Main
+*** [[file:/media/john/data/github/lisp/blood/blood][Blood]]
+*** [[file:/media/john/data/github/python/doot/doot][Doot]]
+*** [[file:/media/john/data/github/python/tomlguard][tomlguard]]
+*** [[file:~/github/python/acab][Acab]]
+*** [[file:~/github/python/instal][Instal]]
+*** [[file:~/github/python/corana][Corana]]
+** Secondary
+*** [[file:~/github/jgrey4296.github.io/wiki_/quotes][Quotes]]
+*** [[file:~/github/jgrey4296.github.io/wiki_/taxonomies][Taxonomies]]
+*** [[~/github/jgrey4296.github.io/wiki_/taxonomies/DSLs.org][DSLs]]
+*** [[file:~/github/bibliography/main][Bibliography]]
+*** [[file:~/library/twitter][Twitter Threads]]
+** [[file:~/github/jgrey4296.github.io/orgfiles/primary/research_questions.org][Research Questions]]
