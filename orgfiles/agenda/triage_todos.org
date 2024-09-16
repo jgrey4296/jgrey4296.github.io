@@ -3,26 +3,48 @@
 
 * Triage
 
-** TRIAGE remove doot printer from bib.middleware
-   [[file:/media/john/data/github/python/bib-middleware/bib_middleware]]
-   Description
+** TRIAGE move .local programs to /usr/local
+   [[file:~/.local/tree-sitter]]
 
-** TRIAGE vertical column carousel
-   [[file:/media/john/data/github/python/doot/doot/_structs/dkey.py::-- end meta]]
-   Description
+** TRIAGE Global remove doom-buffers-in-mode from env-handling
+    [[/media/john/data/github/_libs/lisp/doomemacs/.local/straight/repos/env-handling/env-handling--py.el::17][env-handling--py.el]]
 
-** TRIAGE make fold hints
-   [[file:/media/john/data/github/python/doot/doot/utils/dkey_formatter.py::def get_value(self, key, args, kwargs) -> str:]]
-   to allow some things to be expanded, and some folded
+        <2024-09-04 Wed>                                           (doom-buffers-in-mode 'python-mode (buffer-list))))))
+
+
+** TRIAGE add helper functions to transient-macros for inserting into existing prefixes
+    [[/media/john/data/github/_libs/lisp/doomemacs/.local/straight/repos/transient-macros/transient-macros.el::1][transient-macros.el]]
+
+        <2024-08-22 Thu> ;;; transient.el -*- lexical-binding: t; -*-
+
+
+** TRIAGE Global integrate winner with undo-tree
+    [[/usr/share/emacs/29.1/lisp/winner.el.gz::351][winner.el.gz]]
+
+        <2024-08-22 Thu>         (add-hook 'window-configuration-change-hook 'winner-change-fun)
+
 
 ** TRIAGE carousel pin left and right buffers
     [[/media/john/data/github/python/doot/doot/utils/__tests/test_key_formatter.py::37][test_key_formatter.py]]
 
         <2024-06-17 Mon>
 
+** TODO +jg-term-switch only select live shells
+  [2024-06-10 Mon]
+  [[file:/media/john/data/github/_config/modules/tools/term/autoload/term.el::defun +jg-term-switch (]]
+** TRIAGE make fold hints
+   [[file:/media/john/data/github/python/doot/doot/utils/dkey_formatter.py::def get_value(self, key, args, kwargs) -> str:]]
+   to allow some things to be expanded, and some folded
 
-** TRIAGE Title
-   [[mu4e:msgid:20240608070623.35641087.329882@sailthru.com][Holding our leaders to account in all 50 states]]
-   test mail
+** TRIAGE remove doot printer from bib.middleware
+   [[file:/media/john/data/github/python/bib-middleware/bib_middleware]]
+   Description
+
+** TODO set shell modelines to display cwd, processes, and relevant env vars
+  [2024-06-10 Mon]
+  [[file:/media/john/data/github/_config/modules/tools/term/config.el::;; (add-hook 'shell-mode-hook #'hide-mode-line-mode)]]
+** TRIAGE vertical column carousel
+   [[file:/media/john/data/github/python/doot/doot/_structs/dkey.py::-- end meta]]
+   Description
 
 * Links
