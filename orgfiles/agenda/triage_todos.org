@@ -3,6 +3,26 @@
 
 * Triage
 
+
+** TRIAGE Global add a latex-math-modify mode
+    [[/media/john/data/github/latex/steph/9_11.tex::93][9_11.tex]]
+
+        <2024-10-28 Mon> remembering it, he says,  “I do feel like that day really impacted all
+
+        instead of '' and `` accessing special symbols
+
+** TRIAGE Global add rst-mode RET->build file
+    [[/media/john/data/github/_config/modules/lang-text/rst/+bindings.el::13][+bindings.el<4>]]
+
+        <2024-10-25 Fri>                "a" #'rst-adjust
+
+
+** TRIAGE Global add ert test minor mode similar to python
+    [[/media/john/data/github/lisp/blood/blood/__tests/blood--test-structs.el::26][blood--test-structs.el]]
+
+        <2024-10-05 Sat>   :tags '(structs)
+
+ie: press DEL to copy test
 ** TRIAGE move .local programs to /usr/local
    [[file:~/.local/tree-sitter]]
 
