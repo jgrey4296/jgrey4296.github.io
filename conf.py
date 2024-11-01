@@ -11,14 +11,14 @@
 import os
 import sys
 import pathlib as pl
-sys.path.insert(0, pl.Path('../').resolve())
+sys.path.insert(0, pl.Path('./').resolve())
 
 # (Relative to this file):
 templates_path   = ['_templates']
 html_static_path = ['_static']
 
 # Relative to static dir, or fully qualified urls
-html_css_files = ["custom.css"]
+html_css_files = ["css/custom.css"]
 html_js_files  = []
 # html_style = "custom.css"
 
@@ -27,17 +27,66 @@ html_js_files  = []
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = ['**/flycheck_*.py', "**/__tests/*"]
 
+# suppress_warnings = ["autoapi", "docutils"]
+
 # -- Project information -----------------------------------------------------
 
-project   = 'Mostly Harmless'
-copyright = '2022, jgrey'
-author    = 'jgrey'
+project        = 'Mostly Harmless'
+copyright      = '2022, jgrey'
+author         = 'jgrey'
+primary_domain = "py"
+
+# -- Jina configuration ---------------------------------------------------
+
+from docutils import nodes
+from docutils.transforms import Transform, TransformError
+from docutils.parsers.rst import directives
+from docutils.statemachine import StringList
+from sphinx.locale import __
+from sphinx.util.docutils import SphinxDirective
+
+class JGDirective(SphinxDirective):
+
+    has_content               = True
+    required_arguments        = 0
+    optional_arguments        = 1
+    option_spec               = { "caption": str }
+
+    def run(self) -> list[nodes.Node]:
+        self.content = StringList("""
+    .. code-block:: python
+
+        print('will be inside a jgdir with an addition')
+        """.split("\n"))
+        if not bool(self.content):
+            raise self.error("No Content")
+
+        # caption = nodes.Element(self.options.get('caption'))
+        # self.state.nested_parse([self.options.get('caption')], 0, caption)
+
+        content_node = nodes.container(rawsource="\n".join(self.content))
+        self.state.nested_parse(self.content, self.content_offset, content_node)
+        return [content_node]
+
+
+
+class JGTransform(Transform):
+
+    def apply(self):
+        pass
+
+def setup(app):
+    app.events.connect("builder-inited", add_jinja_ext, 1)
+    app.add_directive('jgdir', JGDirective)
+    # app.add_transform
+
+
+def add_jinja_ext(app):
+    app.builder.templates.environment.add_extension('jinja2.ext.debug')
 
 # -- General configuration ---------------------------------------------------
+# https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-# Add any Sphinx extension module names here, as strings. They can be
-# extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
-# ones.
 extensions = [
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
@@ -46,7 +95,6 @@ extensions = [
     'sphinx.ext.extlinks',
     'sphinx_rtd_theme',
     'myst_parser',
-    "autoapi.extension",
     "sphinx.ext.coverage",
     "sphinx.ext.imgconverter",
     "sphinx.ext.intersphinx",
@@ -58,6 +106,9 @@ toc_object_entries            = True
 master_doc                    = "index"
 show_warning_types            = True
 
+
+# -- Options for HTML output -------------------------------------------------
+# https://sphinx-rtd-theme.readthedocs.io/en/stable/configuring.html
 html_theme          = "sphinx_rtd_theme"
 html_theme_options  = {}
 html_sidebars       = {}
@@ -77,36 +128,12 @@ html_theme_options.update({
     'sticky_navigation'           : True,
     'navigation_depth'            : 4,
     'includehidden'               : True,
-    'titles_only'                 : False
+    'titles_only'                 : False,
 
 })
 
 
-# -- Python Options -------------------------------------------------
-add_module_names                   = False
-modindex_common_prefix             = ["doot."]
-python_display_short_literal_types = True
-
 
 # -- Extension Options -------------------------------------------------
-# https://sphinx-autoapi.readthedocs.io/en/latest/reference/config.html
-autoapi_generate_api_docs = True
-autoapi_add_toctree_entry = True
-autoapi_type              = "python"
-autoapi_template_dir      = "_templates"
-autoapi_root              = "autoapi"
-autoapi_dirs              = ['../doot']
-autoapi_file_patterns     = ["*.py", "*.pyi"]
-autoapi_ignore            = ['*/__tests', '*/test_*.py', '/obsolete/*']
-autoapi_options           = [
-    'imported-members',
-    'members',
-    # 'undoc-members',
-    'private-members',
-    'special_members',
-    'show-inheritance',
-    # 'show-inheritance-diagram',
-    # 'show-module-summary',
-]
 
 # -- Imports --------------------------------------------------
