@@ -1,18 +1,21 @@
 
 [[locations]]
-pelicanpy = "file:>pelicanconf.py"
-pelican   = "file:>pelican.toml"
+pelicanpy  = "file:>pelicanconf.py"
+pelican    = "file:>pelican.toml"
+pelicanout = ".pelican.site"
 
 [[tasks.pelican]]
 name                 = "build"
 version              = "0.1"
 ctor                 = "task"
 doc                  = ["Run pelican"]
-depends_on           = ["{pelican!p}"]
+# depends_on           = ["{pelican!p}"]
 actions              = [
-                     { do="touch", args=["{pelicanpy!p}"] },
-                     { do="shell", args=["pelican", "."] },
-                     { do="delete!", args=["{pelicanpy!p}"] },
+                     { do="shell", args=[
+                     "pelican", ".",
+                     "-o", "{pelicanout!p}",
+                     "-s", "{pelicanpy!p}",
+                     ] },
 ]
 
 [[tasks.pelican]]
@@ -20,7 +23,7 @@ name                 = "listen"
 version              = "0.1"                                     # <str>
 ctor                 = "task"                                    # <type>
 doc                  = ["Run pelican"]                           # <list[str]>
-depends_on           = ["{pelican!p}"]                   # <list[DootTaskArtifact]>
+# depends_on           = ["{pelican!p}"]                   # <list[DootTaskArtifact]>
 actions              = [
                      { do="touch", args=["{pelicanpy!p}"] },
                      { do="shell", args=["pelican", "--listen", "--autoreload", "{.!p}"] }

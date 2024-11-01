@@ -9,7 +9,7 @@ BIND                   =  '127.0.0.1'
 
 [paths]
 PATH                        = '.'
-OUTPUT_PATH                 = '.site'
+OUTPUT_PATH                 = '.pelican.site'
 THEME                       = './_theme'
 CACHE_PATH                  = 'cache'
 
@@ -42,7 +42,7 @@ LINKS                       = []
 SOCIAL                      = []
 
 [site.static]
-STATIC_PATHS                = ['images', 'bibliography']
+STATIC_PATHS                = ['images']
 STATIC_EXCLUDES             = []
 
 [site.articles]
@@ -61,8 +61,8 @@ PAGE_PATHS                  =  ['pages']
 
 ##-- text and templates
 [site.theme]
-THEME_STATIC_DIR       = 'theme'
-THEME_STATIC_PATHS     = ['static']
+THEME_STATIC_DIR       = '_templates'
+THEME_STATIC_PATHS     = ['_static']
 CSS_FILE               = 'main.css'
 
 [site.templates]
