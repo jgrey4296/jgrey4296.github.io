@@ -2,9 +2,9 @@
 
 .. _index:
 
-=============
+===============
 Mostly Harmless
-=============
+===============
 
 .. contents:: Contents
 

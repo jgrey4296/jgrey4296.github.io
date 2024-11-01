@@ -10,6 +10,7 @@ TIMEZONE     = 'Europe/Rome'
 
 DEFAULT_LANG = 'en'
 
+IGNORE_FILES = [".site", ".pelican.site", ".sphinx.site", "_obsolete", "wiki_", "index.rst"]
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM         = None
 CATEGORY_FEED_ATOM    = None
