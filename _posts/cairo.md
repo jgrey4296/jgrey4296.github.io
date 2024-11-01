@@ -6,4 +6,4 @@ tags:
 ---
 
 
-![Example]({static}/images/initialTest_1-2_27-1.png.jpg)
+![Example](../_static/images/initialTest_1-2_27-1.png.jpg)
