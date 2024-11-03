@@ -2,7 +2,7 @@
 
 [[locations]]
 doc_src = "."
-doc_out = ".sphinx.site"
+doc_out = ".site"
 
 [[tasks.docs]]
 name       = "export"

@@ -9,7 +9,6 @@ Repos
 .. contents:: Contents
    :local:
 
-
 .. toctree::
    :titlesonly:
 
