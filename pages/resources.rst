@@ -1,13 +1,15 @@
 .. -*- mode: ReST -*-
 
-.. _index:
+.. _resources:
 
-===============
-Mostly Harmless
-===============
+=========
+Resources
+=========
 
 .. contents:: Contents
+   :local:
 
+TODO.
 
 Aliquam erat volutpat.  Nunc eleifend leo vitae magna.  In id erat non orci
 commodo lobortis.  Proin neque massa, cursus ut, gravida ut, lobortis eget,
@@ -17,16 +19,8 @@ dignissim bibendum.  Vivamus id enim.  Phasellus neque orci, porta a, aliquet
 quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet
 tortor.  Nam euismod tellus id erat.
 
-
-
 .. toctree::
-   :maxdepth: 4
-   :hidden:
+   :maxdepth: 1
    :glob:
 
-   pages/*
-
-   genindex
-
-
-.. .. Links
+   ../_resources/*

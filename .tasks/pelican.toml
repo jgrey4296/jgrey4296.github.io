@@ -12,9 +12,10 @@ doc                  = ["Run pelican"]
 # depends_on           = ["{pelican!p}"]
 actions              = [
                      { do="shell", args=[
-                     "pelican", ".",
+                     "pelican",
                      "-o", "{pelicanout!p}",
                      "-s", "{pelicanpy!p}",
+                     "."
                      ] },
 ]
 

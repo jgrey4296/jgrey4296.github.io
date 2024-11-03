@@ -1,11 +1,11 @@
-{% extends "page.html" %}
+{% extends "base.html" %}
 {% block html_lang %}{{ article.lang }}{% endblock %}
 
 {% block title %}{{ SITENAME }} - {{ article.title|striptags  }}{% endblock %}
 
 {% block style %}
   {{ super() }}
-  <link rel="stylesheet" href="theme/css/resource.css">
+  <link rel="stylesheet" href="/_theme/css/article.css">
 {% endblock style %}
 
 {% block head %}

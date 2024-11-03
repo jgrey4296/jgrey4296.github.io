@@ -23,7 +23,8 @@ setup       = [
 ]
 actions = [
     { do="shell", env_="env", args=["sphinx-build",
-    # "--verbose", "--verbose", "--nitpicky", "--write-all",
+    # "--verbose", "--verbose", "--nitpicky",
+    "--write-all",
     "--keep-going", "--show-traceback",
     "--warning-file", "{logs!p}/sphinx.log",
     "--builder", "{doc_builder}",

@@ -5,25 +5,27 @@ SITENAME     = 'Mostly Harmless'
 SITEURL      = "https://jgrey4296.github.io"
 DEFAULT_LANG = 'en'
 
-IGNORE_FILES = [".site", ".pelican.site", ".sphinx.site", "_obsolete", "wiki_", "index.rst"]
+IGNORE_FILES = ["index.rst"]
 
-# Feed generation is usually not desired when developing
+# # Feed generation is usually not desired when developing
 FEED_ALL_ATOM         = None
 CATEGORY_FEED_ATOM    = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM      = None
 AUTHOR_FEED_RSS       = None
 
-DEFAULT_METADATA       = {}
-READERS                = { ".md":"MarkdownReader" }
+PLUGINS = []
+
+# DEFAULT_METADATA       = {}
+READERS                = {}
 
 PORT         =  8000
 BIND         =  '127.0.0.1'
 
-# [paths]
+# # [paths]
 PATH                        = '.'
 OUTPUT_PATH                 = '.pelican.site'
-THEME                       = './_theme'
+THEME                       = './_static/theme'
 CACHE_PATH                  = 'cache'
 
 ##-- site.settings
@@ -34,7 +36,7 @@ DEFAULT_ORPHANS             = 0
 DEFAULT_PAGINATION          = False
 DOCUTILS_SETTINGS           = {}
 EXTRA_PATH_METADATA         = {}
-FILENAME_METADATA           = '(?P<date>\d{4}-\d{2}-\d{2}).*'
+FILENAME_METADATA           = r'(?P<date>\d{4}-\d{2}-\d{2}).*'
 INDEX_SAVE_AS               = 'index.html'
 # LOCALE                      = []  # defaults to user locale
 PAGE_TRANSLATION_ID         = 'slug'
@@ -52,7 +54,7 @@ LINKS                       = []
 SOCIAL                      = []
 
 # [site.static]
-STATIC_PATHS                = ['images']
+STATIC_PATHS                = ['_static/images', '_static/css', '_static/fonts', '_static/js']
 STATIC_EXCLUDES             = []
 
 # [site.articles]
@@ -64,15 +66,15 @@ SUMMARY_END_SUFFIX     =  '…'
 SUMMARY_MAX_LENGTH     =  50
 
 # [site.pages]
-PAGE_EXCLUDES               =  ['_theme']
+PAGE_EXCLUDES               =  ['_obsolete', 'wiki_', '.github', '.pelican.site', '.sphinx.site', '.site', '.tasks', '.temp']
 PAGE_PATHS                  =  ['pages']
 
 ##-- end site.settings
 
 ##-- text and templates
 # [site.theme]
-THEME_STATIC_DIR       = '_templates'
-THEME_STATIC_PATHS     = ['_static']
+THEME_STATIC_DIR       = '_theme'    # output dir name
+THEME_STATIC_PATHS     = ['static']  # copy paths from theme
 CSS_FILE               = 'main.css'
 
 # [site.templates]
@@ -86,12 +88,14 @@ PAGINATED_TEMPLATES       = {'index': False, 'tag': False, 'category' : False,  
 PYGMENTS_RST_OPTIONS           =  {}
 
 # [markdown]
-OUTPUT_FORMAT                  =  'html5'
-
-# [markdown.extension_configs]
-# markdown.extensions.codehilite = {'css_class': 'highlight'}
-# markdown.extensions.extra      = {}
-# markdown.extensions.meta       = {}
+MARKDOWN = {
+    "extension_configs": {
+        "markdown.extensions.codehilite" : {'css_class': 'highlight'},
+        "markdown.extensions.extra"      : {},
+        "markdown.extensions.meta"       : {},
+        },
+    "output_format": "html5",
+}
 
 ##-- end text and templates
 

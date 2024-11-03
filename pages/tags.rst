@@ -1,10 +1,10 @@
 .. -*- mode: ReST -*-
 
-.. _index:
+.. _tags:
 
-===============
-Mostly Harmless
-===============
+====
+Tags
+====
 
 .. contents:: Contents
 
@@ -16,17 +16,3 @@ felis vel velit tristique imperdiet.  Donec at pede.  Etiam vel neque nec dui
 dignissim bibendum.  Vivamus id enim.  Phasellus neque orci, porta a, aliquet
 quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet
 tortor.  Nam euismod tellus id erat.
-
-
-
-.. toctree::
-   :maxdepth: 4
-   :hidden:
-   :glob:
-
-   pages/*
-
-   genindex
-
-
-.. .. Links

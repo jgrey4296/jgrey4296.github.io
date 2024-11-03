@@ -1,13 +1,13 @@
 .. -*- mode: ReST -*-
 
-.. _label:
+.. _posts:
 
 ==========
 Posts
 ==========
 
 .. contents:: Contents
-
+   :local:
 
 Aliquam erat volutpat.  Nunc eleifend leo vitae magna.  In id erat non orci
 commodo lobortis.  Proin neque massa, cursus ut, gravida ut, lobortis eget,
@@ -16,3 +16,9 @@ felis vel velit tristique imperdiet.  Donec at pede.  Etiam vel neque nec dui
 dignissim bibendum.  Vivamus id enim.  Phasellus neque orci, porta a, aliquet
 quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet
 tortor.  Nam euismod tellus id erat.
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+
+   ../_posts/*
