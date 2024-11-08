@@ -1,13 +1,15 @@
 .. -*- mode: ReST -*-
 
-.. _posts:
+.. _resources:
 
-==========
-Posts
-==========
+=========
+Resources
+=========
 
 .. contents:: Contents
    :local:
+
+TODO.
 
 Aliquam erat volutpat.  Nunc eleifend leo vitae magna.  In id erat non orci
 commodo lobortis.  Proin neque massa, cursus ut, gravida ut, lobortis eget,
@@ -21,4 +23,4 @@ tortor.  Nam euismod tellus id erat.
    :maxdepth: 1
    :glob:
 
-   ../_posts/*
+   ../resources_/*

@@ -11,8 +11,6 @@ Jul 31, 2024 bib export task
 Aug 1, 2024 10am covid booster
 Aug 7, 2024 11am restart
 Aug 13, 2024 2.15pm UC appointment
-Sep 18, 2024 Missouri
-Oct 2, 2024 Return from Missouri
 Aug 16, 2024 2.30pm Restart meeting
 Aug 29, 2024 2.30pm UC meeting
 Aug 21, 2024 12.pm seetec
@@ -21,3 +19,5 @@ Tuesday 4.00pm Steph Class
 Sep 1 Stephs Fathers Birthday
 Nov 3 Stephs Mothers Birthday
 Jun 12 Stephs Sisters Birthday
+* 18 Money
+%%(diary-block 2024 9 18 2024 10 2) Missouri

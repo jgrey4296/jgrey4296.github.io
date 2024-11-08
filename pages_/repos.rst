@@ -12,7 +12,6 @@ Repos
 .. toctree::
    :titlesonly:
 
-   bibliography <https://github.com/jgrey4296/bibliography>
    acab         <https://github.com/jgrey4296/acab>
    doot         <https://doot.readthedocs.io/en/latest/>
    dootle       <https://github.com/jgrey4296/dootle>

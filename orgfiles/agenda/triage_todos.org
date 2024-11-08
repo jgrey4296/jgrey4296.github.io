@@ -4,6 +4,13 @@
 * Triage
 
 
+** TRIAGE Global fork sphinx and add config file name option
+    [[/media/john/data/github/__libs/python/sphinx/sphinx/config.py::311][config.py]]
+
+        <2024-11-04 Mon>         namespace = eval_config_file(filename, tags)
+
+config.py : Config.read : add override check before getting config file name
+
 ** TRIAGE Global add a latex-math-modify mode
     [[/media/john/data/github/latex/steph/9_11.tex::93][9_11.tex]]
 

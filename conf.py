@@ -2,20 +2,51 @@
 # Configuration file for the Sphinx documentation builder.
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
 
+# ----Imports ---------------------------------------------------------------
+# import os
+# import sys
+# import pathlib as pl
+import datetime
+
+# -- Project information -----------------------------------------------------
+
+project        = 'Mostly Harmless'
+author         = 'John Grey'
+copyright      = '{}, {}'.format(datetime.datetime.now().strftime("%Y"), author)
+primary_domain = "py"
+extensions = [
+    'sphinx.ext.doctest',
+    'sphinx.ext.autodoc',
+    'sphinx.ext.autosummary',
+    'sphinx.ext.napoleon',
+    'sphinx.ext.extlinks',
+    'sphinx_rtd_theme',
+    'myst_parser',
+    "sphinx.ext.coverage",
+    "sphinx.ext.imgconverter",
+    "sphinx.ext.intersphinx",
+    "sphinx.ext.viewcode",
+    ]
+
+# -- Sphinx and Jina configuration -------------------------------------------
+
+def setup(app):
+    app.events.connect("builder-inited", add_jinja_ext, 1)
+
+def add_jinja_ext(app):
+    app.builder.templates.environment.add_extension('jinja2.ext.debug')
+
 # -- Path setup --------------------------------------------------------------
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use pl.Path.resolve to make it absolute, like shown here.
 #
-# import os
-# import sys
-# import pathlib as pl
 # sys.path.insert(0, pl.Path('./').resolve())
 
 # (Relative to this file):
-templates_path   = ['_static/templates']
-html_static_path = ['_static']
+templates_path   = ['static_/templates']
+html_static_path = ['static_']
 
 # Relative to static dir, or fully qualified urls
 html_css_files = ["css/custom.css"]
@@ -31,74 +62,8 @@ exclude_patterns = ['**/flycheck_*.py', "**/__tests/*"]
 
 # suppress_warnings = ["autoapi", "docutils"]
 
-# -- Project information -----------------------------------------------------
-
-project        = 'Mostly Harmless'
-copyright      = '2022, jgrey'
-author         = 'jgrey'
-primary_domain = "py"
-
-# -- Jina configuration ---------------------------------------------------
-
-from docutils import nodes
-from docutils.transforms import Transform, TransformError
-from docutils.parsers.rst import directives
-from docutils.statemachine import StringList
-from sphinx.locale import __
-from sphinx.util.docutils import SphinxDirective
-
-class JGDirective(SphinxDirective):
-
-    has_content               = True
-    required_arguments        = 0
-    optional_arguments        = 1
-    option_spec               = { "caption": str }
-
-    def run(self) -> list[nodes.Node]:
-        self.content = StringList("""
-    .. code-block:: python
-
-        print('will be inside a jgdir with an addition')
-        """.split("\n"))
-        if not bool(self.content):
-            raise self.error("No Content")
-
-        # caption = nodes.Element(self.options.get('caption'))
-        # self.state.nested_parse([self.options.get('caption')], 0, caption)
-
-        content_node = nodes.container(rawsource="\n".join(self.content))
-        self.state.nested_parse(self.content, self.content_offset, content_node)
-        return [content_node]
-
-class JGTransform(Transform):
-
-    def apply(self):
-        pass
-
-def setup(app):
-    app.events.connect("builder-inited", add_jinja_ext, 1)
-    app.add_directive('jgdir', JGDirective)
-    # app.add_transform
-
-def add_jinja_ext(app):
-    app.builder.templates.environment.add_extension('jinja2.ext.debug')
-
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
-
-extensions = [
-    'sphinx.ext.doctest',
-    'sphinx.ext.autodoc',
-    'sphinx.ext.autosummary',
-    'sphinx.ext.napoleon',
-    'sphinx.ext.extlinks',
-    'sphinx_rtd_theme',
-    'myst_parser',
-    "sphinx.ext.coverage",
-    "sphinx.ext.imgconverter",
-    "sphinx.ext.intersphinx",
-    "sphinx.ext.viewcode",
-    ]
 
 maximum_signature_line_length = 50
 show_warning_types            = True
@@ -128,5 +93,3 @@ html_theme_options.update({
 })
 
 # -- Extension Options -------------------------------------------------
-
-# -- Imports --------------------------------------------------
