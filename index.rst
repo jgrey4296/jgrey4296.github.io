@@ -10,6 +10,8 @@ Mostly Harmless
    :local:
 
 
+The editor had to trim it a bit, but this is still an improvement.
+
 .. toctree::
    :maxdepth: 4
    :hidden:
