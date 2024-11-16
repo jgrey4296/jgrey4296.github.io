@@ -4,6 +4,12 @@
 * Triage
 
 
+** TRIAGE Global read .gitignore for dired-omit
+    [[/media/john/data/github/_config/modules/tools/dired/+vars.el::33][+vars.el]]
+
+        <2024-11-14 Thu>          (system (| "." "TheVolumeSettingsFolder" (: ?. (? filename) "cache") "_cache_"))
+
+
 ** TRIAGE Global fork sphinx and add config file name option
     [[/media/john/data/github/__libs/python/sphinx/sphinx/config.py::311][config.py]]
 

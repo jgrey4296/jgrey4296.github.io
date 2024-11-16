@@ -7,8 +7,7 @@ Mostly Harmless
 ===============
 
 .. contents:: Contents
-
-
+   :local:
 
 
 .. toctree::
