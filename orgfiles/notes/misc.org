@@ -19,13 +19,7 @@
 ** The Warmth of Other Suns by @Isabelwilkerson
 
 * playlist
-** TODO slipknot
-- State "TODO"       from              [2024-08-10 Sat 22:09]
-** TODO system of a down
-- State "TODO"       from              [2024-08-10 Sat 22:09]
 ** TODO nirvana
-- State "TODO"       from              [2024-08-10 Sat 22:10]
-** TODO rage against the machine
 - State "TODO"       from              [2024-08-10 Sat 22:10]
 ** TODO muse
 - State "TODO"       from              [2024-08-10 Sat 22:09]
@@ -44,28 +38,11 @@
 *** jungle
 
 ** TODO cowboy bebop                             :apple:
-** TODO chet faker
-gold
-
 ** TODO fatboy slim
-
-** TODO stereophonics                            :apple:
-
-** TODO poppy
-girls in bikinis
 
 ** TODO cage the elephant
 
-** TODO rx medicate
-
-** TODO toploader
-
-** TODO leonard cohen
-
 ** TODO camila cabello
-
-** TODO the heavy                                :apple:
-** TODO pendulum                                 :apple:
 
 ** TODO ok go
 
@@ -73,14 +50,10 @@ girls in bikinis
 
 ** TODO genesis
 
-** TODO seth lakeman
-
 ** TODO lily allen
 
 ** TODO jack johnson                             :apple:
 ** TODO robbie williams
-
-** TODO incubus                                  :apple:
 
 ** TODO iguanas
 oye isabel
@@ -93,15 +66,7 @@ oye isabel
 
 ** TODO royksopp
 
-** TODO the stranglers
-
 ** TODO chemical brothers
-
-** TODO mogwai
-
-** TODO tears for fears
-
-** TODO audioslave                               :apple:
 
 ** TODO pink floyd                               :apple:
 - State "TODO"       from              [2024-08-10 Sat 22:03]
@@ -113,6 +78,58 @@ oye isabel
 - State "TODO"       from              [2024-08-10 Sat 21:58]
 all along the watchtower
 
+** DONE slipknot
+- State "DONE"       from "TODO"       [2024-11-10 Sun 00:51]
+- State "TODO"       from              [2024-08-10 Sat 22:09]
+** DONE system of a down
+- State "DONE"       from "TODO"       [2024-11-10 Sun 00:51]
+- State "TODO"       from              [2024-08-10 Sat 22:09]
+** DONE rage against the machine
+- State "DONE"       from "TODO"       [2024-11-10 Sun 00:51]
+- State "TODO"       from              [2024-08-10 Sat 22:10]
+** DONE chet faker
+- State "DONE"       from "TODO"       [2024-11-10 Sun 00:51]
+gold
+
+** DONE stereophonics                            :apple:
+
+- State "DONE"       from "TODO"       [2024-11-10 Sun 00:51]
+** DONE poppy
+- State "DONE"       from "TODO"       [2024-11-10 Sun 00:51]
+girls in bikinis
+
+** DONE rx medicate
+
+- State "DONE"       from "TODO"       [2024-11-10 Sun 00:51]
+** DONE toploader
+
+- State "DONE"       from "TODO"       [2024-11-10 Sun 00:51]
+** DONE leonard cohen
+
+- State "DONE"       from "TODO"       [2024-11-10 Sun 00:51]
+** DONE the heavy                                :apple:
+- State "DONE"       from "TODO"       [2024-11-10 Sun 00:51]
+** DONE pendulum                                 :apple:
+
+- State "DONE"       from "TODO"       [2024-11-10 Sun 00:51]
+** DONE seth lakeman
+
+- State "DONE"       from "TODO"       [2024-11-10 Sun 00:51]
+** DONE incubus                                  :apple:
+
+- State "DONE"       from "TODO"       [2024-11-10 Sun 00:52]
+** DONE the stranglers
+
+- State "DONE"       from "TODO"       [2024-11-10 Sun 00:52]
+** DONE mogwai
+
+- State "DONE"       from "TODO"       [2024-11-10 Sun 00:52]
+** DONE tears for fears
+
+- State "DONE"       from "TODO"       [2024-11-10 Sun 00:52]
+** DONE audioslave                               :apple:
+
+- State "DONE"       from "TODO"       [2024-11-10 Sun 00:52]
 ** DONE massive attack
 
 - State "DONE"       from              [2024-08-10 Sat 21:57]
@@ -164,7 +181,6 @@ all along the watchtower
 
 ** DONE parliament
 
-
 - State "DONE"       from              [2024-08-10 Sat 21:53]
 ** DONE hotline miami
 - State "DONE"       from              [2024-08-10 Sat 21:51]
@@ -195,7 +211,8 @@ all along the watchtower
 ** DONE alien
 - State "DONE"       from              [2024-08-17 Sat 19:43]
 ** fantastic mr fox
-** grand budapest
+** DONE grand budapest
+- State "DONE"       from              [2024-11-10 Sun 00:54]
 ** groundhog day
 ** DONE high rise
 
@@ -205,17 +222,22 @@ all along the watchtower
 ** DONE im a cyborg
 
 - State "DONE"       from              [2024-08-17 Sat 19:44]
-** o brother
+** DONE o brother
 
-** pontypool
+- State "DONE"       from              [2024-11-10 Sun 00:54]
+** DONE pontypool
 
+- State "DONE"       from              [2024-11-10 Sun 00:53]
 ** scary godmother
-** sexie
-** cloud atlas
+** DONE sexie
+- State "DONE"       from              [2024-11-10 Sun 00:53]
+** DONE cloud atlas
+- State "DONE"       from              [2024-11-10 Sun 00:53]
 ** sorry to bother you
 * shows
 ** jekyll
 ** jonathan creek
-** life on mars
+** DONE life on mars
+- State "DONE"       from              [2024-11-10 Sun 00:54]
 ** loki
 ** severance
