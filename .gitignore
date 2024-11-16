@@ -1,4 +1,5 @@
 *.auctex-auto/
 /.temp
-pelicanconf.py
 .site
+.pelican.site
+.sphinx.site

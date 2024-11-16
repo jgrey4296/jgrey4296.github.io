@@ -4,6 +4,19 @@
 * Triage
 
 
+** TRIAGE Global read .gitignore for dired-omit
+    [[/media/john/data/github/_config/modules/tools/dired/+vars.el::33][+vars.el]]
+
+        <2024-11-14 Thu>          (system (| "." "TheVolumeSettingsFolder" (: ?. (? filename) "cache") "_cache_"))
+
+
+** TRIAGE Global fork sphinx and add config file name option
+    [[/media/john/data/github/__libs/python/sphinx/sphinx/config.py::311][config.py]]
+
+        <2024-11-04 Mon>         namespace = eval_config_file(filename, tags)
+
+config.py : Config.read : add override check before getting config file name
+
 ** TRIAGE Global add a latex-math-modify mode
     [[/media/john/data/github/latex/steph/9_11.tex::93][9_11.tex]]
 
