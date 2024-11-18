@@ -19,7 +19,7 @@ The editor had to trim it a bit, but this is still an improvement.
 
    pages_/*
 
-   bibliography <https://github.com/jgrey4296/bibliography>
+   bibliography <https://jgrey4296.github.io/bibliography>
 
    genindex
 
