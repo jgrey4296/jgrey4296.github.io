@@ -4,6 +4,18 @@
 * Triage
 
 
+** TRIAGE Global doot postbox access
+    [[/media/john/data/github/bibliography/.tasks/tags.toml::36][tags.toml]]
+
+        <2024-11-18 Mon>     { do="taskcode.tags:merge_subfiles_to_known_and_canon", args=["sub_objs", "bkmk_tags"] },
+
+use group::task.name[box] instead
+** TRIAGE Global doot dry run
+    [[/media/john/data/github/bibliography/.tasks/changed.toml::39][changed.toml]]
+
+        <2024-11-18 Mon>     # Read the file
+
+just print out description of each action that would happen
 ** TRIAGE Global add proceedings domain to bib
     [[/media/john/data/github/bibliography/.tasks/sphinxcode/bib_domain.py::96][bib_domain.py]]
 
