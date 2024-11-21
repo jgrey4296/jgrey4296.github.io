@@ -4,6 +4,12 @@
 * Triage
 
 
+** TRIAGE Global use imenu instead of related files in dired
+    [[/media/john/data/github/_libs/lisp/doomemacs/.local/straight/repos/misc-modes/major-modes/subfile-mode/subfile-mode.el::31][subfile-mode.el]]
+
+        <2024-11-21 Thu>            (0 'error)
+
+
 ** TRIAGE Global doot postbox access
     [[/media/john/data/github/bibliography/.tasks/tags.toml::36][tags.toml]]
 
