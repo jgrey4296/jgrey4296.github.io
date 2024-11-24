@@ -1,0 +1,592 @@
+#+TITLE: Institions Taxonomies
+
+* Main
+** Balke                                         :social:balke:sanctions:
+   Nardin, Balke-Visser, Ajmeri et al in "Classifying Sanctions and designing
+   a conceptual sanctioning process model for socio-technical systems"
+
+   | Type           | Sub-type       | Modality       | Description |
+   |----------------+----------------+----------------+-------------|
+   | Purpose        | Influence      | Punishment     |             |
+   |                |                | Reward         |             |
+   |                |                |                |             |
+   |                | Performance    | Incapacitation |             |
+   |                |                | Guidance       |             |
+   |                |                | Enablement     |             |
+   |----------------+----------------+----------------+-------------|
+   | Issuer         | Formal         |                |             |
+   |                | Informal       |                |             |
+   |----------------+----------------+----------------+-------------|
+   | Locus          | Self-Directed  |                |             |
+   |                | Other-Directed |                |             |
+   |----------------+----------------+----------------+-------------|
+   | Mode           | Direct         |                |             |
+   |                | Indirect       |                |             |
+   |----------------+----------------+----------------+-------------|
+   | Polarity       | Positive       |                |             |
+   |                | Negative       |                |             |
+   |----------------+----------------+----------------+-------------|
+   | Discernibility | Noticeable     |                |             |
+   |                | Unnoticeable   |                |             |
+
+** Bermand and Matanock                           :law:politics:rules:sanctions:
+Suppression across different rule scenarios
+In "The Empiricists Insurgency", Bermand and Matanock
+
+   | Opponent(Examples)     | Rule Scenario       | Information   | Government |
+   |                        |                     | requirement   | seeks      |
+   |------------------------+---------------------+---------------+------------|
+   | Boers in South Africa  | No Rules            | Target/Coerce | Security   |
+   | Taliban in Afghanistan | Rules of Engagement | Target        | Security   |
+   | Gangs in US            | Rule of Law         | Prosecute     | Welfare    |
+
+** Bicchieri                                      :links:norms:rules:
+   Comprising of:
+   1) Contingency. X knows that a rule R exists and applies to situation S.
+   2) Conditional preference. X prefers to conform on condition of:
+      1) Empirical expectations. Others are likely to conform in similar situations.
+      2) Normative expectations. Others are likely to expect conformance.
+      3) Sanction expectations. Others are likely to expect conformance and will sanction otherwise.
+** Bodley
+*** Culture: A Scale and Power Perspective
+*** Native Amazonians: Villagers of the Rain Forest
+*** Australian Aborigines: Mobile Foragers for 50,000 Years
+*** African Cattle Peoples: Tribal Pastoralists
+*** Cross Cultural Perspectives of the Tribal World
+*** Pacific Islanders: From Leaders to Rulers
+*** Ancient Empires in Two Worlds: Mesopotamia and the Andes
+*** The Chinese Great Tradition
+*** Hinduism and Islam in South Asia
+*** The Capitalist World System
+*** The United States: An American Plutocracy
+*** An Unsustainable Global System
+*** Tribes to Nations: Progress of the Victims
+*** Small Nations Solving Global Problems
+*** Envisioning a Sustainable World
+
+** Bourdieu                                       :power:rites:cultural_capital:language:field:
+*** Authorized Language
+    Symbolic Language, p107
+
+*** Rites of Institution
+    Symbolic Language p117
+
+*** On Symbolic Power
+    Symbolic Power p163
+
+    Symbolic Instruments
+    | Structuring                   | Structured                          | Instruments of                 |
+    | Structures                    | Structures                          | Domination                     |
+    |-------------------------------+-------------------------------------+--------------------------------|
+    | Instruments for knowing       | Means of Communication              | Power                          |
+    | and constructing the          |                                     |                                |
+    | objective world               |                                     |                                |
+    |                               |                                     |                                |
+    |                               |                                     | Division of Labour             |
+    |                               |                                     | Division of Ideological Labour |
+    |                               |                                     | Function of domination         |
+    |                               |                                     |                                |
+    | Symbolic Forms                | Symbolic Objects                    | Ideologies                     |
+    | Subjective Structures         | Objective Structures                | Myths, Languages               |
+    | Modus Operandi                | Opus Operatum                       |                                |
+    | Kant-Cassirer                 | Hegel-Saussure                      | Marx-Weber                     |
+    |                               |                                     |                                |
+    | Sapir-Whorf Culturalism       | Durkheim-Mauss-Levi-Strauss         | Body of specialists competing  |
+    | Durkheim-Mauss                |                                     | for the monopoly of legitimate |
+    |                               |                                     | cultural production            |
+    |                               |                                     |                                |
+    | Signification: Objectivity    | Signification: Objective meaning    |                                |
+    | as agreement between subjects | as a product of communication which |                                |
+    |                               | is the condition of communication   |                                |
+
+** Bourdieu
+
+** Castelfranchi
+Social Tools
+** Engstrom                                     :division_of_labour:social:activity:methodology:design:
+
+   | Type               | Description |
+   |--------------------+-------------|
+   | Subject            |             |
+   | Tool               |             |
+   | Object             |             |
+   |--------------------+-------------|
+   | Community          |             |
+   | Rules              |             |
+   | Division of Labour |             |
+   |--------------------+-------------|
+   | Outcome            |             |
+
+   | Type      | Description |
+   |-----------+-------------|
+   | Activity  |             |
+   | Task      |             |
+   | Operation |             |
+** Fischer
+Albion's Seed.
+Is still suspect, but the analysis covers (from wiki):
+
+    Speech Ways        : "Conventional patterns of written and spoken language; pronunciation, vocabulary, syntax and grammar."
+    Building Ways      : "Prevailing forms of vernacular architecture and high architecture, which tend to be related to one another."
+    Family Ways        : "The structure and function of the household and family, both in ideal and actuality."
+    Marriage Ways      : "Ideas of the marriage-bond, and cultural processes of courtship, marriage and divorce."
+    Gender Ways        : "Customs that regulate social relations between men and women."
+    Sex Ways           : "Conventional sexual attitudes and acts, and the treatment of sexual deviance."
+    Child-Rearing Ways : "Ideas of child nature and customs of child nurture."
+    Naming Ways        : "Onomastic customs including favoured forenames and the descent of names within the family."
+    Age Ways           : "Attitudes towards age, experiences of aging and age relationships."
+    Death Ways         : "Attitudes towards death, mortality rituals, mortuary customs and mourning practices."
+    Religious Ways     : "Patterns of religious worship, theology, ecclesiology and church architecture."
+    Magic Ways         : "Normative beliefs and practices concerning the supernatural."
+    Learning Ways      : "Attitudes toward literacy and learning, and conventional patterns of education."
+    Food Ways          : "Patterns of diet, nutrition, cooking, eating, feasting and fasting."
+    Dress Ways         : "Customs of dress, demeanor, and personal adornment."
+    Sport Ways         : "Attitudes toward recreation and leisure; folk games and forms of organized sport."
+    Work Ways          : "Work ethics and work experiences; attitudes toward work and the nature of work."
+    Time Ways          : "Attitudes toward the use of time, customary methods of time keeping, and the conventional rhythms of life."
+    Wealth Ways        : "Attitudes towards wealth and patterns of its distribution."
+    Rank Ways          : "The rules by which rank is assigned, the roles which rank entails, and the relations between different ranks."
+    Social Ways        : "Conventional patterns of migration, settlement, association and affiliation."
+    Order Ways         : "Ideas of order, ordering institutions, forms of disorder, and treatment of the disorderly."
+    Power Ways         : "Attitudes toward authority and power; patterns of political participation."
+    Freedom Ways       : "Prevailing ideas of liberty and restraint, and libertarian customs and institutions."
+
+** Fligstein                                     :crisis:governance:field:
+   Components: Strategic Action Field, Incumbents/Challengers,
+   IGU, Social Skill + Existential Social, broader field,
+   exogenous shocks / contention leading to settlement.
+
+:structure:
+   | Type                   | Description                        |
+   |------------------------+------------------------------------|
+   | Roles                  | (Incumbents, Challengers)          |
+   | Strategic Action Field |                                    |
+   | Broader Field          |                                    |
+   | Social Skill           | Existential Function of the Social |
+   | IGU                    |                                    |
+   | Exogenous Shocks       |                                    |
+   | Episodes of Contention |                                    |
+   | Settlement             |                                    |
+:END:
+:IGU-purposes:
+   | Purposes of IGUs |   |
+   |------------------+---|
+   | Admin            |   |
+   | Regulation       |   |
+   | Certification    |   |
+   | Information      |   |
+   | Enforcement      |   |
+   | Gatekeeping      |   |
+:END:
+
+** Geels and Schot
+Typology of Sociotechnical Transition Pathways
+
+** Giddens
+** Graeber                                       :value:graeber:money:
+Functions of Money
+   | Function           |   |
+   |--------------------+---|
+   | Medium of Exchange |   |
+   |                    |   |
+   | Unit of Account    |   |
+   |                    |   |
+   | Store of Value     |   |
+
+** Grimmelmann                                    :digital:governance:moderation:rules:sanctions:
+Moderation.
+mentioned in Klonick : The New Governors: The people, rules and processes governing online speech
+
+   | Type                        | Description |
+   |-----------------------------+-------------|
+   | Automatic / Manual          |             |
+   | Transparent / Secret        |             |
+   | Ex Ante / Ex Post           |             |
+   | Centralized / Decentralized |             |
+
+** Grossi                                         :agents:autonomy:enforcement:norms:sanctions:
+Norms and Sanctions
+   in Grossi, Aldewereld, Dignum: "Ubi Lex, Ibi Poena: Designing norm
+   enforcement in E-institutions"
+
+:norms:
+   | Norm Type        | Description |
+   |------------------+-------------|
+   | Substantive Norm |             |
+   | Check Norm       | Enforcement |
+   | Reaction Norm    | Enforcement |
+:END:
+
+:autonomy:
+   | Autonomy Level | Description |
+   |----------------+-------------|
+   | Norm           |             |
+   | Goal           |             |
+   | Plan           |             |
+   | Reactivity     |             |
+:END:
+
+:sanctions:
+   | Sanction Function | Description                                                     |
+   |-------------------+-----------------------------------------------------------------|
+   | Discouragement    | Applied by institution, benefits institution                    |
+   | Compensation      | To those effected by violation of norm. Institution is mediator |
+   | Direct            | Influence Agent immediately and are noticeable                  |
+   | Indirect          | Non-observable sanction. Reputation and trust damage           |
+:END:
+
+** Hendrikx                                       :judgement:norms:reputation:
+Reputation System Taxonomy
+In Hendrikx, Bubendorfer, Chard "Reputation systems: A Survey and Taxonomy"
+
+:implicit:
+   | Type     | Structure        | SubStructure        | Description |
+   |----------+------------------+---------------------+-------------|
+   | Implicit |                  |                     |             |
+:END:
+:explicit:
+   | Type     | Structure        | SubStructure        | Description |
+   |----------+------------------+---------------------+-------------|
+   | Explicit | History          | Personal            |             |
+   |          |                  | Global              |             |
+   |          | Context          | Single              |             |
+   |          |                  | Multiple            |             |
+   |          |                  | Attribute           |             |
+   |          | Collection       | Direct Experience   |             |
+   |          |                  | Direct Observation  |             |
+   |          |                  | Indirect Individual |             |
+   |          |                  | Indirect Group      |             |
+   |          |                  | Derived             |             |
+   |          | Representation   | Binary              |             |
+   |          |                  | Discrete            |             |
+   |          |                  | Continuous          |             |
+   |          |                  | String              |             |
+   |          |                  | Vector              |             |
+   |          | Aggregation      | Counting            |             |
+   |          |                  | Discrete            |             |
+   |          |                  | Probabilistic       |             |
+   |          |                  | Fuzzy               |             |
+   |          |                  | Flow                |             |
+   |          | Entities         | Individual          |             |
+   |          |                  | Group               |             |
+   |          | Presence         | Online              |             |
+   |          |                  | Partial             |             |
+   |          |                  | Offline             |             |
+   |          | Governance       | Centralized         |             |
+   |          |                  | Distributed         |             |
+   |          | Fabric           | Structured          |             |
+   |          |                  | Unstructured        |             |
+   |          | Interoperability | Open                |             |
+   |          |                  | Closed              |             |
+   |          | Controllable     | Incentives          |             |
+   |          |                  | Rules               |             |
+   |          | Evaluation       | Holistic            |             |
+   |          |                  | Atomistic           |             |
+   |          | Data Filtering   | None                |             |
+   |          |                  | Recent Subset       |             |
+   |          |                  | Selected Subset     |             |
+   |          | Data Aging       | None                |             |
+   |          |                  | Decay               |             |
+   |          |                  | Death of Old        |             |
+   |          |                  | Death of Selected   |             |
+:END:
+
+** Hofstede                                      :dimensions:norms:social:
+Culture Theory in Andrighetto, Castelfranchi, Mayor et al: "(Social) Norm Dynamics"
+
+   | Type                       | Scale                             | Description |
+   |----------------------------+-----------------------------------+-------------|
+   | Identity                   | Individualism vs Collectivism     |             |
+   | Hierarchy                  | Large vs small power distance     |             |
+   | Aggression and Gender      | Masculinity vs Femininity         |             |
+   | Otherness and Truth        | uncertainy avoidance vs tolerance |             |
+   | Immutability vs Pragmatism | Short- vs Long-term orientation   |             |
+   | Gratification of drives    | Indulgence vs Restraint           |             |
+
+** Levinson and Brown                             :politeness:
+Politeness.
+
+:positive-politeness:
+   | Direction  | Strategy basis              | Strategy                                | Details                                  |
+   |------------+-----------------------------+-----------------------------------------+------------------------------------------|
+   | Positive   | Common Ground               | Notice, attend to other                 |                                          |
+   |            |                             | Exaggerate                              | (interest/approval/sympathy)             |
+   |            |                             | Intensify interest in other             |                                          |
+   |            |                             | Use in-group identity markers           | Address forms                            |
+   |            |                             |                                         | in-group language                        |
+   |            |                             |                                         | Jargon                                   |
+   |            |                             |                                         | Contraction                              |
+   |            |                             | Seek Alignment                          | Safe Topics                              |
+   |            |                             |                                         | Repetition                               |
+   |            |                             | Avoid Disagreement                      | Token agreement                          |
+   |            |                             |                                         | Pseudo-agreement                         |
+   |            |                             |                                         | White-lies                               |
+   |            |                             |                                         | Hedging Opinions                         |
+   |            |                             | Presuppose /raise /assert common ground | Gossip, Small talk                       |
+   |            |                             |                                         | Point-of-view operations                 |
+   |            |                             |                                         | Personal centre switch                   |
+   |            |                             |                                         | Time switch                              |
+   |            |                             |                                         | Place Switch                             |
+   |            |                             |                                         | Avoidance of adjustment reports          |
+   |            |                             | Presupposition manipulations            | Knowledge of other's wants and attitudes |
+   |            |                             |                                         | Others values as same as own             |
+   |            |                             |                                         | Familiarity                              |
+   |            |                             |                                         | Others knowledge                         |
+   |            |                             | Joke                                    |                                          |
+   |            | Cooperation                 | Assert / Presuppose                     | knowledge / concern of H                 |
+   |            |                             | Offer , Promise                         |                                          |
+   |            |                             | Optimism                                |                                          |
+   |            |                             | Inclusion of self and other in activity |                                          |
+   |            |                             | GOGAR                                   |                                          |
+   |            |                             | Assume / assert reciprocity             |                                          |
+   |            | Instrumental                | Fulfill a want of other                 | Give gifts                               |
+   |            |                             |                                         |                                          |
+   |------------+-----------------------------+-----------------------------------------+------------------------------------------|
+:END:
+:negative-politeness:
+   | Direction  | Strategy basis              | Strategy                                | Details                                  |
+   |------------+-----------------------------+-----------------------------------------+------------------------------------------|
+   | Negative   | Directness                  |                                         |                                          |
+   |            |                             |                                         |                                          |
+   |            | Presumption / Assumption    |                                         |                                          |
+   |            |                             |                                         |                                          |
+   |            | Coercion                    |                                         |                                          |
+   |            |                             |                                         |                                          |
+   |            | Impinging on other          |                                         |                                          |
+   |            |                             |                                         |                                          |
+   |            | not redressing others wants |                                         |                                          |
+:END:
+:off-record-politeness:
+   | Direction  | Strategy basis              | Strategy                                | Details                                  |
+   |------------+-----------------------------+-----------------------------------------+------------------------------------------|
+   | Off-Record | Conversational Implicatures | Give hints                              |                                          |
+   |            |                             | Give Association clues                  |                                          |
+   |            |                             | Presuppose                              |                                          |
+   |            |                             | Understate                              |                                          |
+   |            |                             | Overstate                               |                                          |
+   |            |                             | Use tautologies                         |                                          |
+   |            |                             | Use contradictions                      |                                          |
+   |            |                             | be ironic                               |                                          |
+   |            |                             | Use metaphos                            |                                          |
+   |            |                             | Use rhetorical questions                |                                          |
+   |            |                             |                                         |                                          |
+   |            | Vagueness or ambiguity      | Ambiguous                               |                                          |
+   |            |                             | Vague                                   |                                          |
+   |            |                             | Over-generalize                         |                                          |
+   |            |                             | Displace H                              |                                          |
+   |            |                             | Be incomplete                           |                                          |
+:END:
+
+*** Implications
+**** Phonology and Prosody
+
+**** Indirect speech acts
+
+**** Hedges
+
+**** Impersonalization mechanisms
+
+**** Honorifics
+
+** Meadows                                        :change:systems:systems_thinking:
+[[http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/][Leverage Points]]
+(in increasing order of effectiveness)
+
+(1)  The power to *transcend paradigms*.
+(2)  The mindset or *paradigm* out of which the system — its goals, structure, rules, delays, parameters — arises.
+(3)  The *goals* of the system.
+(4)  The *power* to add, change, evolve, or self-organize system structure.
+(5)  The *rules* of the system (such as incentives, punishments, constraints).
+(6)  The structure of *information* flows (who does and does not have access to information).
+(7)  The gain around driving *positive feedback loops*.
+(8)  The *strength of negative feedback loops*, relative to the impacts they are trying to correct against.
+(9)  The lengths of *delays*, relative to the rate of system change.
+(10) The *structure* of material stocks and *flows* (such as transport networks, population age structures).
+(11) The *sizes* of buffers and other stabilizing *stocks*, relative to their flows.
+(12) *Constants*, parameters, numbers (such as subsidies, taxes, standards).
+
+** Ostrom                                        :institutions:sanctions:ostrom:rules:
+   [[file:traceryADICO.org::*Tracery%20norm%20grammars][Tracery norm grammars]]
+
+:adico:
+   | Type       | Description |
+   |------------+-------------|
+   | Attributes |             |
+   | Deontic    |             |
+   | Aim        |             |
+   | Conditions |             |
+   | Or Else    |             |
+:END:
+
+:rule-taxonomy:
+   | Rule Type       | Description                                                        |
+   |-----------------+--------------------------------------------------------------------|
+   | Position        | determine roles actors are assigned to                             |
+   | Demarcation     | regulate qualifications to enter or leave positions                |
+   | Decision making | how decisions are to be made                                       |
+   | Choice          | define which actors may or may not act in an arena                  |
+   | Information     | determine amount and importance of information available to actors |
+   | payoff          | specify rewards and sanctions linked to actions and outcomes       |
+   | Scope           | delimit outcomes                                                  |
+:END:
+
+** Questions                                     :questions:ontology:
+Genre Taxonomy of Organizational Communication
+in Yoshioka and Herman: "Genre Taxonomy: A Knowledge Repository of Communicative Actions"
+
+    | Question | Description |
+    |----------+-------------|
+    | Why      |             |
+    | What     |             |
+    | Who/Whom |             |
+    | When     |             |
+    | Where    |             |
+    | How      |             |
+
+** Scott                                         :carriers:artifacts:norms:regulation:institutions:
+
+:pillars:
+   | 3 Pillars          |   |
+   |--------------------+---|
+   | Regulative         |   |
+   | Normative          |   |
+   | Cultural-Cognitive |   |
+   |                    |   |
+:END:
+
+:structure:
+   |                | Regulative             | Normative            | Cultural Cognitive      |
+   |----------------+------------------------+----------------------+-------------------------|
+   | Basis of       | Expedience             | Social               | Taken-for-grantedness   |
+   | Compliance     |                        | Obligation           | Shared understanding    |
+   |                |                        |                      |                         |
+   | Basis of Order | Regulative Rules       | Binding Expectations | Constitutive Schema     |
+   |                |                        |                      |                         |
+   | Mechanisms     | Coercive               | Normative            | Mimetic                 |
+   |                |                        |                      |                         |
+   | Logic          | Instrumentality        | Appropriateness      | Orthodoxy               |
+   |                |                        |                      |                         |
+   | Indicators     | Rules                  | Certification        | Common beliefs          |
+   |                | Laws                   | Accreditation        | Shared logics of action |
+   |                | Sanctions              |                      | Isomorphism             |
+   |                |                        |                      |                         |
+   | Affect         | Fear Guilt / Innocence | Shame / Honour       | Certainty / Confusion   |
+   |                |                        |                      |                         |
+   | Basis of       | Legally Sanctioned     | Morally governed     | Comprehensible          |
+   | Legitimacy     |                        |                      | Recognizable            |
+   |                |                        |                      | Culturally supported    |
+:END:
+
+:legalisation:
+   | Legalisation continuum |   |
+   |------------------------+---|
+   | Obligation             |   |
+   | Precision              |   |
+   | Delegation             |   |
+:END:
+
+:carriers:
+   | Carriers   |   |
+   |------------+---|
+   | Symbolic   |   |
+   | Relational |   |
+   | Artifacts  |   |
+   | Activity   |   |
+:END:
+
+:structure_mapping:
+   |                    | Regulative              | Normative                    | Cultural-Cognitive                |
+   |--------------------+-------------------------+------------------------------+-----------------------------------|
+   | Symbolic Systems   | Rules                   | Values                       | Categories                        |
+   |                    | Laws                    | Expectations                 | Typifications                     |
+   |                    |                         | Standards                    | Schemas                           |
+   |                    |                         |                              | Frames                            |
+   |                    |                         |                              |                                   |
+   | Relational Systems | Governance Systems      | Regimes                      | Structural Isomorphism            |
+   |                    | Power Systems           | Authority Systems            | Identities                        |
+   |                    |                         |                              |                                   |
+   | Activities         | Monitoring              | Roles, jobs                  | Predispositions                   |
+   |                    | Sanctioning             | Routines                     | Scripts                           |
+   |                    | Disrupting              | Habits                       |                                   |
+   |                    |                         | Repertoire of Collective     |                                   |
+   |                    |                         | Action                       |                                   |
+   |                    |                         |                              |                                   |
+   | Artifacts          | Objects complying with  | Objects meeting conventions, | Objects possessing symbolic value |
+   |                    | mandated specifications | standards                    |                                   |
+:END:
+
+:organisation:
+   |                           | Regulative                        | Normative                           | Cultural Cognitive          |
+   |---------------------------+-----------------------------------+-------------------------------------+-----------------------------|
+   | World System              | Economic History                  |                                     |                             |
+   |                           |                                   |                                     |                             |
+   | Societal                  |                                   |                                     | Neo-institutional sociology |
+   |                           |                                   |                                     |                             |
+   | Organizational Field      | Historical Institutionalism       | Traditional Institutional sociology |                             |
+   |                           | in poli-sci                       |                                     |                             |
+   |                           |                                   |                                     |                             |
+   | Organizational Population |                                   | Population Ecology                  |                             |
+   |                           |                                   |                                     |                             |
+   | Organization              | Neo-institutionalism in economics |                                     |                             |
+   |                           |                                   |                                     |                             |
+   | Organizational Subsystem  |                                   | Ethno-methodology                   |                             |
+
+:END:
+*** Regulative
+*** Normative
+*** Cultural-Cognitive
+*** Components
+    Basis of compliance: expedience, social obligation, shared understanding
+    Basis of order: regulative rules, expectations, constitutive schema
+    Mechanisms: coercive, normative, mimetic
+    Logic: instrumentality, appropriateness, orthodoxy
+    Indicators: laws/sanctions, certification, common beliefs
+    Affect: guilt/innocence, shame/honour, certainty/confusion
+    Basis of Legitimacy: legally sanctioned, morally governed, recognizable
+
+    Symbolic Systems: laws, values, categories
+    Relational systems: power, authority, structure/identity
+    Activities: Monitoring/Sanctioning, Roles/Routines, Predispositions/Scripts
+    Artifacts: specifications, standards, symbolic value
+
+    Legalization as dimensions of obligation, precision, delegation
+
+
+** Theocharis                                     :digital:politics:protest:
+Continuous expansion of citizen participation
+   Theocharis, Van Deth
+
+   | Type                | Description                                          |
+   |---------------------+------------------------------------------------------|
+   | Institutionalised   | Working with party or candidate                      |
+   |                     | Dontating money to a political org                   |
+   |                     | Attending a political meeting                        |
+   |                     | contacting a politician                              |
+   |---------------------+------------------------------------------------------|
+   | Digitally networked | Commenting on social media on political/social issue |
+   | participation       | Posted or shared political links                     |
+   |                     | Encouraged others to take action using social media  |
+   |---------------------+------------------------------------------------------|
+   | Protest             | Signed a petition                                    |
+   |                     | Worked for a political action group                  |
+   |                     | Joined a demonstration                               |
+   |---------------------+------------------------------------------------------|
+   | Volunteering        | Volunteered in a charitable organisation             |
+   |                     | Volunteered for a community project                  |
+   |---------------------+------------------------------------------------------|
+   | Consumerist         | Bought products for political/ethical reasons        |
+   |                     | Boycotted products for political/ethical reasons     |
+   |                     | Donated money to a charitable organisation           |
+   |---------------------+------------------------------------------------------|
+
+** Weber                                         :leadership:authority:
+Types of Authority
+   | Type           | Description |
+   |----------------+-------------|
+   | Charismatic    |             |
+   |                |             |
+   | Legal-Rational |             |
+   |                |             |
+   | Traditional    |             |
+
+* Links

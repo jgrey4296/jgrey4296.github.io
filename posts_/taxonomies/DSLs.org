@@ -1,0 +1,166 @@
+#+TITLE: DSLs
+
+* Definition
+* Main
+*** ABL                                                                       :behaviours:
+cite:anon15ABL
+
+initial_tree,
+acts, sensors
+sequential/parallel/joint behaviours
+preconditions,
+success/failure tests
+subgoals
+persistence,
+specificity
+
+*** ADICO                                                                     :rules:norms:
+cite:siddiki2019institutional
+cite:Frantz2014
+
+Attributes,
+Deontic
+Aims,
+Conditions
+Or Else
+
+*** AgentSpeak                                                                :behaviours:
+
+predicate logic + annotations for beliefs:
+busy(john)[expires(autumn)]
+
+datalog rules and plans:
+@label triggering_event : context <- body
+
+declarative goals: !achievement and ?test
+
+triggering events can be + or - beliefs, achievement or test goals
+
+*** Archipoff2016                                                             :frp:
+*** AspectJ                                                                   :aop:
+
+join points : standard points in code which can be latched on to
+pointcuts   : collections/queries of join points
+advice      : code to run around selected pointcut
+aspect      : collection of pointcuts and advice
+
+*** BDL
+*** BDL (Gemrot2017)                                                          :FSM:behaviours:
+
+Decision point tree manipulation
+
+*** [[http://bloom-lang.net/features/][bloom]]                                                                     :concurrent:
+[[https://github.com/bloom-lang/bud/blob/master/docs/cheat.md][Bud Language Reference]]
+**** CALM: Consistency as Logical Monotonicity
+**** "Gray's Twelfth Challenge"
+DWIM : Do What I Mean
+Spec Language that:
+   1) Is Easy to express designs
+   2) Is Compilable
+   3) Can describe all applications
+
+      System should 'reason' about application:
+      Ask about exception cases
+      Ask about incomplete specification
+      Not be onerous
+
+**** Borges "A New Refutation of Time"
+"The Denial of time involves two negations: The negation of the succession
+of the terms of a series, negation of the synchronism of the terms in two
+different series"
+
+**** Disorderly programming and datastructures
+*** Bootstrapping (Konat2016)                                                 :meta:
+*** Buzz                                                                      :swarm:robotics:
+
+Dynamic Swarm management. Creation, leaving, tasks.
+Neighbour operations
+Iteration, Transformation/Filtering, Reduction
+Virtual Stigmergy - global data sharing
+
+*** C+                                                                        :logic:
+
+Actions, Fluents, InertialFluents
+
+*** CatSAT
+*** Ceptre                                                                    :linear_logic:
+
+Datalog rules
+replacement semantics
+Linear Logic: conjoin predicates with *,
+replace with -o
+! indicates permanent state
+
+predicates can be resources. ie: multiple of the same predicate has meaning.
+(think resources in cultist simulator)
+
+uniform non-determinism.
+
+has stages of rule groups.
+
+*** CHARON
+*** ChucK                                                                     :time:music:
+Requirements for First Class Time (see Lee):
+   1) ability to express timing constraints
+   2) timed communication
+   3) enforcement of timing constraints
+   4) tolerance of violations and constraints
+   5) maintaining consistency in real time distributed systems
+   6) static timing verification
+
+      chuck operator =>
+      signal flow
+      controllable time progression
+
+      time and duration types.
+
+*** CLIPS                                                                     :rules:
+
+Standard Rule language with agendas.
+
+*** Converge (tratt2007evolving)                                              :embedding:
+
+DSL embedding with compile-time macros,
+ability to turn off variable hygiene
+
+*** COOL                                                                      :MAS:coordination:
+*** Coqtl
+*** Dask
+*** ELMS                                                                      :environment:MAS:
+*** Erlang                                                                    :FSM:concurrent:
+*** Exclusion Logic                                                           :exclusion:FSM:
+*** FSMs
+*** GDL
+*** Grammar Zoo (Zaytsev2015)                                                 :review:
+*** Guidelines (Karsai2014)                                                   :guidelines:
+*** HLBL                                                                      :behaviours:
+*** Hyper                                                                     :types:
+*** Input/Ouput Logic                                                         :layers:
+*** InstAL                                                                    :logic:
+*** Kismet
+*** Kronos
+*** Language Workbench comparison (Erdweg2013)                                :meta:
+*** LARA                                                                      :aop:
+*** LARA
+*** MAPL
+*** Monads
+*** Nomic                                                                     :rules:
+*** PDDL
+*** Petricek2017a                                                             :dot:context:
+*** PlantUML
+*** POAPS (lin2016)                                                           :MDP:
+*** POSH
+
+*** PROB (gordon2014probabilistic)                                            :probability:
+*** Rascal                                                                    :lisp:meta:
+*** Reo                                                                       :time:concurrent:
+*** SAGA
+*** SIMPLE                                                                    :protocol:
+*** Siren                                                                     :pattern:time:music:
+*** SOAR                                                                      :chunking:
+*** Stan                                                                      :probability:
+*** Tidal                                                                     :pattern:time:music:
+*** Tracer                                        :text:
+*** UML
+*** Verilog
+* Links

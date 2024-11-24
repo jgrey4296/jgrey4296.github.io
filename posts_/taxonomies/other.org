@@ -1,0 +1,119 @@
+#+title: Taxonomies
+
+* Main
+** Interactions
+
+   Different people for roles:
+   | Role A     | Role B      |
+   |------------+-------------|
+   | Father     | Son         |
+   | Teacher    | Student     |
+   | Neighbours |             |
+   | Senator    | Constituent |
+   | Senator    | Protester   |
+   | Cops       | Robbers     |
+   | Cops       | Civilians   |
+   | Cops       | Protesters  |
+   | Judge      | Criminal    |
+   | Judge      | Jury        |
+   | Judge      | Witnesses   |
+   | Judge      | Guards      |
+   | Employer   | Employees   |
+   |            |             |
+
+   One person multiple roles:
+   | Student      | Child   |
+   | Officeworker | Husband |
+   |              |         |
+
+** [[https://wiki.haskell.org/Typeclassopedia#Comonad][haskell typeclassopedia]] :links:programming:types:
+** TODO [[https://sites.ualberta.ca/~urban/Projects/English/Content/Structural_Analysis_2.htm][Structural Analysis Methods]] :links:method:
+** Theory                                        :theory:
+*** Institutional Structure                   :structure:theory:institutions:
+
+    Simulation Base                  ->  Constitutive input
+    Imported Actions and Definitions ->  Constitutive Input
+    ->  Regulative Norms
+    ->  Constitutive Roles
+    Meta Norms                       <-> Meta Norms
+    Regulative Norms                 ->  Synthesising Output Norms
+    ->  Exported Actions + Definitions
+    ->  Value Hierarchy
+    Constitutive Roles               -> Exported Actions + Definitions
+    Synthesised Output Norms         -> Simulation Base
+
+**** Inputs
+     Simulation Base (Physical World)
+     Imported Actions
+     Imported Definitions
+     ->
+**** Internals
+     Constitutive Norms
+     Regulative Norms
+     Sanctions
+     Value hierarchy
+     Role Definitions
+
+     Meta -> Inputs
+     -> Outputs
+     ->
+**** Outputs
+     Simulation Base
+     Exported Action
+     Exported Definitions
+
+*** Institutions As AI
+    Assume that we cannot create something smarter than ourselves If
+    Institutions are AI, they are not Human-AI Complete If So, they
+    are potentially, (and in practice actually exist) in real world
+    computers already supplemented by our own intelligence.  They
+    should be able to be modelled in a human authorable system then.
+
+    Person of Interest is an example of this, AI's existing but
+    interacting and manipulating the world through human actors.
+
+*** Potential Systems                                               :systems:
+
+**** Existing
+     Versu / Exclusion Logic
+     Prom Week / CiF
+     Immerse / ABL
+     Sugarscape
+     MOISE
+
+     Democracy
+     Don't Starve
+     Spacebase DF-9
+     URR
+     Sims / Sims Medieval
+     Sim City
+
+**** To Model
+
+***** Abortion
+      Legality -> Means -> Consequences -> Judgements
+
+*** Behaviour Monad                                 :formal:math:monad:types:
+
+    Purpose: To allow descriptions of institutional data to be processed
+    by institutional forces to determine actions for agents at any given time.
+
+    Monads have specific rules enable sequencing of computation in an abstracted
+    form. Being able to describe data, and operations on that data, but wrap it in
+    a monad to enable other operations... would seem useful.
+
+*** Rete/ Rules                                     :architecture:rules:rete:
+
+    Rete separates into Alpha, beta networks, and actions.
+    Alpha and beta networks combine to create clauses
+
+    There are a similarity with CiF, Versu, and Neural Networks, and Democracy 3
+
+**** CiF
+     Volition Rules -> Volitions -> Selection -> Influence Rules -> Actions -> Trigger Rules
+**** Versu
+     Facts -> State Assessments...
+
+**** Neural Nets /Democracy
+     Every node of a layer connected to every node of the next layer,
+     Layer -> Layer -> Layer...
