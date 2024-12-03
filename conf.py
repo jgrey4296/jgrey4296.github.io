@@ -42,7 +42,7 @@ def add_jinja_ext(app):
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use pl.Path.resolve to make it absolute, like shown here.
 #
-# sys.path.insert(0, pl.Path('./').resolve())
+# sys.path.insert(0, str(pl.Path('./').resolve()))
 
 # (Relative to this file):
 templates_path   = ['static_/templates']
