@@ -1,0 +1,26 @@
+#+TITLE: Backups
+
+
+| Drive       | Type     | Remaining |
+|-------------+----------+-----------|
+| data        | Internal | 19GB      |
+| big_ex      | Solid    | 105GB     |
+| SlowBackup  | Disk     | 25GB      |
+| BackupSD    | SD       | 104GB     |
+| LargeBackup | SD       | 26GB      |
+
+
+| Loc         | Size  | Main        | Backup      | Backup2     | Backup3 | Dropbox? | Mega? |
+|-------------+-------+-------------+-------------+-------------+---------+----------+-------|
+| Pdfs        | 84GB  | data        | BackupSD    |             |         |          |       |
+| Datasets    | 26GB  | data        | LargeBackup |             |         |          |       |
+| Assets      | 1GB   | data        | big_ex      | LargeBackup |         |          |       |
+| Movies      | 79GB  | LargeBackup | BackupSD    |             |         |          |       |
+| Shows       | 243GB | SlowBackup  | LargeBackup | BackupSD    |         |          |       |
+| Music       | 34GB  | big_ex      | LargeBackup | BackupSD    |         |          |       |
+| Audiobooks  | 27GB  | big_ex      | LargeBackup | BackupSD    |         |          |       |
+| Soundtracks |       | SlowBackup  |             |             |         |          |       |
+| Twitter     |       | big_ex      | LargeBackup |             |         |          |       |
+| Pictures    | 142GB | BackupSD    | LargeBackup |             |         |          |       |
+| aisb        |       |             |             |             |         |          |       |
+|             |       |             |             |             |         |          |       |
