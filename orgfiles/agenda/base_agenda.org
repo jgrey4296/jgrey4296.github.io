@@ -1,15 +1,7 @@
--*- mode: org; -*-
+# #  base_agenda.org -*- mode: Org -*-
 #+STARTUP: content
 #+STARTUP: agenda
 
-https://www.uscis.gov/sites/default/files/document/forms/i-130.pdf
-https://smallpdf.com
-https://leftbookclub.com/books/
-https://calculatingempires.net/
-https://guides.library.harvard.edu/law-and-society
-https://emacs-tree-sitter.github.io/syntax-highlighting/queries/
-https://findajob.dwp.gov.uk/search?q=software+engineer&loc=86383
-https://www.cv-library.co.uk/
 
 * Active
 ** [[file:/media/john/data/github/lisp/blood_bind/.tasks/blood_bind_todos.org::+TITLE: Blood Bind Todos][Blood Bind]]
@@ -39,7 +31,15 @@ https://docs.openwdl.org/en/latest/WDL/add_plumbing/
 ** TRIAGE replace +org/dwim-at-point
 ** TRIAGE mise
 https://mise.jdx.dev/getting-started.html
-
+** TRIAGE links
+https://www.uscis.gov/sites/default/files/document/forms/i-130.pdf
+https://smallpdf.com
+https://leftbookclub.com/books/
+https://calculatingempires.net/
+https://guides.library.harvard.edu/law-and-society
+https://emacs-tree-sitter.github.io/syntax-highlighting/queries/
+https://findajob.dwp.gov.uk/search?q=software+engineer&loc=86383
+https://www.cv-library.co.uk/
 * Job Groups
 ** [[file:/media/john/data/github/bibliography/.tasks/bibliography_todos.org::*Bibliography][Bibliography]]
 ** [[file:dataset_todos.org::*Datasets][Datasets]]

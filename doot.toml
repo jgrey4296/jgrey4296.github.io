@@ -1,20 +1,18 @@
 # -*- mode:conf-toml; -*-
 
-[settings.general]
+[startup]
+doot-version             = "0.13"
 loaders                  = { commands="default", task="default", parser="default"}
 location_check           = { make_missing = true }
+sources                  = {tasks=[".tasks"], code=[]}
+sleep                    = { tasks=0.2, subtask=1, batch=1 }
 
-[settings.tasks]
-sources = [".tasks"] # Files or directories where task specs can be loaded from, expanded according to [[locations]] keys
-code    = []         # Directories where task specific code can be imported from, expanded according to [[locations]] keys
-sleep   = { tasks=0.2, subtask=1, batch=1 }
-
-[settings.commands]
+[startup.commands]
 # Settings for commands, like telling the 'run' command what backends to use
 run  = { tracker="default", runner="default", reporter= "default", report-line=[] }
 list = { hide=[] }
 
-[plugins]
+[startup.plugins]
 # Allows for defining aliases
 command        = { tasks="doot.cmds.list_cmd:ListCmd", pl="doot.cmds.plugins_cmd:PluginsCmd" }
 
