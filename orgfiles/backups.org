@@ -1,26 +1,30 @@
 #+TITLE: Backups
 
+| Drive        | Type     |       | Remaining | Format |
+|--------------+----------+-------+-----------+--------|
+| data         | Internal | 227GB | 19GB      | Ext4   |
+| windows      | Internal | 143GB | 65GB      | NTFS   |
+| solid_ext4   | Solid    | 500GB | 101GB     | Ext4   |
+| solid_ntfs   | Solid    | 500GB | 443GB     | NTFS   |
+| SlowBackup   | Disk     | 250GB | 25GB      |        |
+| BackupSD     | SD       | 500GB | 154GB     | ExFAT  |
+| micro_docs   | SD       | 500GB | 284GB     | Ext4   |
+| micro_photos | SD       | 500GB | 292GB     | Ext4   |
+| micro_128    | SD       | 128GB | 29GB      | Ext4   |
 
-| Drive       | Type     | Remaining |
-|-------------+----------+-----------|
-| data        | Internal | 19GB      |
-| big_ex      | Solid    | 105GB     |
-| SlowBackup  | Disk     | 25GB      |
-| BackupSD    | SD       | 104GB     |
-| LargeBackup | SD       | 26GB      |
-
-
-| Loc         | Size  | Main        | Backup      | Backup2     | Backup3 | Dropbox? | Mega? |
-|-------------+-------+-------------+-------------+-------------+---------+----------+-------|
-| Pdfs        | 84GB  | data        | BackupSD    |             |         |          |       |
-| Datasets    | 26GB  | data        | LargeBackup |             |         |          |       |
-| Assets      | 1GB   | data        | big_ex      | LargeBackup |         |          |       |
-| Movies      | 79GB  | LargeBackup | BackupSD    |             |         |          |       |
-| Shows       | 243GB | SlowBackup  | LargeBackup | BackupSD    |         |          |       |
-| Music       | 34GB  | big_ex      | LargeBackup | BackupSD    |         |          |       |
-| Audiobooks  | 27GB  | big_ex      | LargeBackup | BackupSD    |         |          |       |
-| Soundtracks |       | SlowBackup  |             |             |         |          |       |
-| Twitter     |       | big_ex      | LargeBackup |             |         |          |       |
-| Pictures    | 142GB | BackupSD    | LargeBackup |             |         |          |       |
-| aisb        |       |             |             |             |         |          |       |
-|             |       |             |             |             |         |          |       |
+| Loc         | Size  | Main         | Backup     | Backup2    | Backup3 | Dropbox? | Mega? |
+|-------------+-------+--------------+------------+------------+---------+----------+-------|
+| Pdfs        | 84GB  | data         | micro_docs |            |         |          |       |
+| Datasets    | 26GB  | data         | micro_docs |            |         |          |       |
+| Assets      | 1GB   | data         | micro_docs | solid_ext4 |         |          |       |
+| Movies      | 79GB  | micro_128    |            |            |         |          |       |
+| Shows       | 243GB | SlowBackup   | BackupSD   |            |         |          |       |
+| Youtube     | 52Gb  | solid_ext4   |            |            |         |          |       |
+| Music       | 34GB  | solid_ext4   | micro_docs |            |         |          |       |
+| Audiobooks  | 27GB  | solid_ext4   | micro_docs |            |         |          |       |
+| Soundtracks |       | SlowBackup   |            |            |         |          |       |
+| Twitter     |       | micro_docs   | solid_ext4 |            |         |          |       |
+| Pictures    | 142GB | micro_photos |            |            |         |          |       |
+| aisb        | 1.3GB | data         |            |            |         |          |       |
+| cora        | 9GB   | micro_docs   | solid_ntfs |            |         |          |       |
+| kira        | 20GB  | micro_docs   | solid_ntfs |            |         |          |       |
