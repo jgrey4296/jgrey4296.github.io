@@ -1,0 +1,23 @@
+#+TITLE: Simatic
+
+* Main
+(from the wiki):
+Five types of blocks are available:
+
+- Organization blocks (OB) : for managing the control program
+- Programming blocks (PB)  : contain the control program structured according to functional or process-oriented characteristics
+- Sequence blocks (SB)     : for programming sequential controls
+- Function blocks (FB)     : contain frequently occurring and particularly complex program parts
+- Data blocks (DB)         : for storing data required for processing the control program.
+
+STEP 5 differentiates between three types of operations:
+
+- Basic operations : (e.g. linking, saving, arithmetic , module operations) - These can be performed in all three representations.
+- Supplementary operations and complex functions : (e.g. substitution statements, testing functions, word-by-word logic operations).
+- System operations : (direct access the operating system).
+
+
+* Links
+https://en.m.wikipedia.org/wiki/Simatic
+https://sieportal.siemens.com/en-gb/search?scope=knowledgebase&Type=siePortal&SearchTerm=&SortingOption=CreationDateDesc&EntryTypes=Manual&Page=0&PageSize=20&ProductNodePath=%2F13613%2F13614%2F13615%2F14339%2F
+https://mall.industry.siemens.com/mall/en/WW/Catalog/Products/10314843?tree=CatalogTree&ActiveTab=2#
