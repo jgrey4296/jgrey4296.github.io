@@ -8,9 +8,6 @@
 ** [[id:8390af85-0c2d-4f73-b06c-65e06854c0e2][Librarian]]
 
 * Triage
-** QUEUED re-add potassco to apt
-https://launchpad.net/~potassco/+archive/ubuntu/stable
-[[/media/john/data/github/_templates/apt/sources/potassco-ubuntu-stable-lunar.list][apt sources]]
 ** TRIAGE backup tasks
 - archive
 - assets
