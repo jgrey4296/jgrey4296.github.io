@@ -10,3 +10,6 @@
 [submodule "submodules_/aisb"]
 	path = submodules_/aisb
 	url = git@github.com:jgrey4296/aisb-bibtex.git
+[submodule "submodules_/orgfiles"]
+	path = submodules_/orgfiles
+	url = git@github.com:jgrey4296/orgfiles.git
