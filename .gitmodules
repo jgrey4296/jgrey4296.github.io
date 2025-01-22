@@ -4,3 +4,9 @@
 [submodule "submodules_/wiki"]
 	path = submodules_/wiki
 	url = git@github.com:jgrey4296/jgrey4296.github.io.wiki.git
+[submodule "submodules_/bibliography"]
+	path = submodules_/bibliography
+	url = git@github.com:jgrey4296/bibliography.git
+[submodule "submodules_/aisb"]
+	path = submodules_/aisb
+	url = git@github.com:jgrey4296/aisb-bibtex.git
