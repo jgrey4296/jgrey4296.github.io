@@ -10,6 +10,9 @@
 :tasks       : .tasks
 :temp        : .temp
 :templates   : templates
-:wiki        : wiki_
 :hooks       : .git/hooks
 :site        : .site
+:aisb        : submodules_/aisb
+:bib         : submodules_/bibliography
+:org         : submodules_/orgfiles
+:wik         : submodules_/wiki
