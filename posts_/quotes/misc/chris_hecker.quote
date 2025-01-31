@@ -1,0 +1,16 @@
+## chris_hecker.quote -*- mode: fundamental-mode -*-
+# Summary:
+# http://www.chrishecker.com/My_AIIDE_2010_Lecture_on_Game_AI#Tech_Stuff
+#
+#
+Finally, I claim these two problems are really a single underlying challenge for
+game development, namely:
+
+- *Interesting things happen over time.*
+
+Sadly, computers and computer languages suck at dealing with things that happen
+over time. No, I don't think you should go make a new language to "solve" this
+problem. I think we don't have the conceptual framework for how to solve the
+problem yet, so you'd just be wasting your time until we figure that out.
+
+- *Doing AI without making games is like writing graphics code but never rendering an image.*

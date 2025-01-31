@@ -1,0 +1,14 @@
+## maurizio_ferrari_dacrema.quote -*- mode: fundamental-mode -*-
+# Summary:
+#
+#
+#
+
+"out of 18 neural net recommendation algos from top-level
+conferences only 7 could be reproduced... and 6 of those could often be
+outperformed with simple heuristic methods"
+
+- "Are We really making much progress? A Worrying Analysis of Recent
+  Neural Recommendation Approaches"
+  Maurizio Ferrari Dacrema, Paolo Cremonesi, Dietmar Jannach
+      [[https://arxiv.org/pdf/1907.06902v1.pdf][https://arxiv.org/pdf/1907.06902v1.pdf]]

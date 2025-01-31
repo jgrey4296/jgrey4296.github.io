@@ -1,0 +1,15 @@
+## wes_mckinney.quote -*- mode: fundamental-mode -*-
+# Summary:
+#
+#
+#
+
+The Great Data Tool Decoupling:
+- Thesis: over time, user interfaces, data storage, and execution engines will decouple and specialize
+- In fact, you should really want this to happen
+  -- Share systems among languages
+  -- Reduce Fragmentation and "lock-in"
+  -- Shift developer focus to usability
+- Prediction: we'll be there by 2025; sooner if we all get our act together
+
+  https://www.youtube.com/watch?v=stlxbC7uIzM&t=264s , 2015
