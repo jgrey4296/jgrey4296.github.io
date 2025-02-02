@@ -1,0 +1,23 @@
+## yann_lecunn.quote -*- mode: fundamental-mode -*-
+# Summary:
+# @ylecun
+# 29 Sept 2024
+#
+Replying to @polynoamial @thomaspower and @OpenAl
+
+I'm sorry Noam, but a blog post does not come close to meeting the standards of
+reproducibility, methodology, acknowledgment of prior work, and fair comparison
+with the state of the art, that a technical paper has to satisfy.
+
+Look, when you develop new technology under pressure to have short-term
+product impact, you just build the thing that you think is most likely to work as
+quickly as possible.
+
+If it's good enough, you deploy it.
+You may not care whether it`s particularly innovative, whether it actually beats
+the state of the art, or whether it's a horrible kludge or The Right Thing to do
+in the long run.
+It's OK to delude yourself into thinking it's the best thing since slice bread,
+as long as your boss and the product people can also be deluded.
+
+But you know that's not how research works.
