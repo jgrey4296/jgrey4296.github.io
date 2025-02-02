@@ -1,0 +1,33 @@
+## fire_emblem_grading.quote -*- mode: fundamental-mode -*-
+# Summary:
+#
+#
+#
+2.1 Grade Weights
+Course grades will be calculated using the following weights:
+
+Weight | Category
+35%    | Attendance (taken via Canvas quiz in-cl:
+15%    | Midterm Project
+20%    | Final Project
+20%    | Lecture Quizzes (published weekly, due before start of next
+10%    | Discussion Posts (published biweekly)
+
+Alternatively, students can choose to use the Fire Emblem Grading System. This
+uses growth rates to determine your final grade. Furthermore, all grading categories are combined
+as "experience points” as follows:
+
+EXP | Category
+30  | Attendance (taken via Canvas quiz in-class)
+200 | Midterm Project
+200 | Final Project
+30  | Lecture Quizzes (published weekly, due before start of next clas
+25  | Discussion Posts (published biweekly)
+
+After gaining 100 EXP (the equivalent of a Fire Emblem level), I will simulate a level up of FE7 Nino.
+At the end of the course, your grade percentage will be the (total of Nino’s stats - 7), divided by 100
+
+There is expected to be a total of 14 attendance quizzes and lecture quizzes, 6 discussion posts, and
+1 midterm and 1 final respectively. This means that under the Fire Emblem Grading System,
+you can have up to 14 levels. It is left as an exercise to the reader to determine whether the expected
+value of the Fire Emblem Grading System is more than that of the normal grading scheme.
