@@ -1,0 +1,16 @@
+## matt_grossman.quote -*- mode: fundamental-mode -*-
+# Summary:
+# @MattGrossmann
+#
+#
+Try congressData for historical data on member characteristics, district demographics, lawmaking
+activity, and institutional positions
+
+cspp.ippsr.msu.edu/congress/
+github.com/IPPSR/congress...
+
+quoting: @benyoel_
+
+Version 1.4 of congressData is now live! We (@MattGrossmann, Ashtaan Rapanos, and I) have
+now updated the data to fix a few bugs (all members of Congress are now included) and
+included a new variable for culture war issues that we coded ourselves. Live on GitHub and in R!
