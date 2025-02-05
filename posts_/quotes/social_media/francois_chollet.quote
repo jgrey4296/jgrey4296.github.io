@@ -1,0 +1,15 @@
+## francois_chollet.quote -*- mode: fundamental-mode -*-
+# Summary:
+#
+#
+#
+When I got started with programming, I debugged using printf() statements. Today, I
+debug with print() statements.
+
+The purpose of debugging is to correct your mental model of what your code does,
+and no tool can do that for you. The best any tool can do is provide visibility into
+code execution, and targeted print statements already do a tremendous job at that.
+
+quote : @MIT_CSAIL
+“The most effective debugging tool is still careful thought, coupled with judiciously placed print
+statements.” — Brian Kernighan, co-creator of Unix

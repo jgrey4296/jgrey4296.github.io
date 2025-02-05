@@ -1,0 +1,14 @@
+## clement_canonne.quote -*- mode: fundamental-mode -*-
+# Summary:
+# @ccanonne_
+#
+#
+That one simple trick they want you to know:
+
+The infinity norm in R^d (large d) is often annoying to analyze and handle, but if a multiplicative
+factor approximation is enough you can instead focus on the p-norm, for p ≈ log d.
+
+[math]:
+for all x ∈ R^d
+
+||x||_∞ <= ||x||_log_d <= 2 ||x||_∞
