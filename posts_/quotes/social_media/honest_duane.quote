@@ -1,0 +1,15 @@
+## honest_duane.quote -*- mode: fundamental-mode -*-
+# Summary:
+# @honestduane
+#
+#
+Everybody say it with me:
+
+“Advertisement blocking is a *required* form of cybersecurity blue team work,
+as blocking ads protects systems from abuse, malware, and other forms of
+exploitation. Blocking ads is ALSO A FEDERALLY REQUIRED part of security
+compliance requirements.”
+
+[quote @SwiftOnSecurity]:
+We are in process of deploying uBlock Origin to Edge, Chrome, and Firefox. This literally prevents
+security incidents on the population it's deployed to.

@@ -1,0 +1,22 @@
+## godot.quote -*- mode: fundamental-mode -*-
+# Summary:
+#
+#
+#
+Pleasantly Surprised with Godot so far:
+
+1. Coroutines are nice, put await in any function and it's a coroutine. Call as usual.
+You can await signals!
+
+2. Tweening out of the box
+
+3. Useful lifecycle signals like "child entered tree". Was missing this in Unity,
+workarounds are painful
+
+4. Groups are just better tags
+
+5. QOL math stuff like remap() and snapped()
+
+6. Lots of useful UI nodes
+
+7. Support for moving platforms in CharacterBody3D?? That may come in handy

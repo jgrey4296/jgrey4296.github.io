@@ -1,0 +1,18 @@
+## nex3.quote -*- mode: fundamental-mode -*-
+# Summary:
+# @nex3
+#
+#
+an odd side effect of the Unity debacle
+
+is that it shines a huge light on the risk to users and intermediaries of having any
+telemetry at all in their infrastructure. The only reason they can conceivably enforce this
+for older Unity versions is if the software distributions are already phoning home every
+time they run an install process. Presumably, when a Unity game was made five years
+ago, no one (including Unity!) expected the telemetry to be used to extort devs down the
+line. But times changed and heels turned and now it is.
+
+Which makes this a pretty dire case study for anyone else who's looking at infrastructure
+that has, or wants to add, some kind of telemetry. Sure you say it's just for collecting
+error reports now, but what happens five years later when your company gets bought by
+a hedge fund that starts sending out bills per user install?

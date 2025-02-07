@@ -1,0 +1,22 @@
+## 29.quote -*- mode: fundamental-mode -*-
+# Summary:
+#
+#
+#
+The total word count of the WSC specification catalogue is 114 million
+words at the time of writing. If you added the combined word counts of
+the C11, C++17, UEFI, USB 3.2, and POSIX specifications, all 8,754
+published RFCs, and the combined word counts of everything on
+Wikipedia’s list of longest novels, you would be 12 million words short
+of the W3C specifications.
+
+I conclude that it is impossible to build a new web browser. The
+complexity of the web is obscene. The creation of a new web browser
+would be comparable in effort to the Apollo program or the Manhattan
+project.
+
+It is impossible to:
+
+- Implement the web correctly
+- Implement the web securely
+- Implement the web at all
