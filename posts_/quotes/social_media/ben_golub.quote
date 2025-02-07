@@ -1,0 +1,14 @@
+## ben_golub.quote -*- mode: fundamental-mode -*-
+# Summary:
+# @ben_golub
+#
+#
+It is a failure of our teaching that even very good students don't get the point of existence results:
+
+A very central question is: "What is it about games and markets that makes them usually have equilibria?"
+
+Existence results embody our understanding of that.
+
+[quote @AnthonyLeeZhansg]:
+mixed strategy Nash existence in finite action games is like the most oversold result ever. How many of the games we use in
+applied theory have finite action spaces? Generally we search for PSNE in continuous action spaces for which this is useless

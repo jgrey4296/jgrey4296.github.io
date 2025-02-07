@@ -1,0 +1,24 @@
+## makeism.quote -*- mode: fundamental-mode -*-
+# Summary:
+#
+#
+#
+Box 2 — What is makeism?
+Makeism: The view that computationalism implies that
+(a) it is possible to (re)make cognition computation-
+ally; (b) if we (re)make cognition then we can explain
+and/or understand it; and possibly (c) explaining and/or
+understanding cognition requires (re)making cognition
+itself.
+
+The methodology endorsed by makeists has been re-
+ferred to as the synthetic methodology or understand-
+ing by design and building (Bisig & Pfeifer, 2008;
+Pfeifer & Scheier, 2001). A well-known quote from
+Feynman (1988), “what I cannot create, I do not understand”,
+is often used to support the idea of makeism in AI (e.g. Karpathy et al., 2016).
+
+Note that it is especially easy for makeists to fall
+into map-territory confusion—mistaking their model-
+ing artefacts for cognition itself—due to the view that
+the made thing could be cognition.

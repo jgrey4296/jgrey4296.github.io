@@ -1,0 +1,11 @@
+## v21.quote -*- mode: fundamental-mode -*-
+# Summary:
+#
+#
+#
+
+there's a bit of this with @max_drake's AI experiments at Fermat
+- zones demarcated where cards placed are used as inputs, a
+bit of positional contextuality. I wonder how learnable these
+behaviours are, when they depend on a property that's usually
+implicit
