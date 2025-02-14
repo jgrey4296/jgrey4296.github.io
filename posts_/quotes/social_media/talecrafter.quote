@@ -1,0 +1,14 @@
+## talecrafter.quote -*- mode: fundamental-mode -*-
+# Summary:
+#
+#
+#
+What's the problem with doors ahah?
+
+Doors are complicated to have in games and have all sorts of possible bugs. Mostly
+because they're a dynamic funnel and block in the pathfinding, potentially locked,
+potentially destructable, but in general because they sit potentially between any game
+interaction or character to character situation from here to there. AAA devs hate them,
+too. The Assassin's Creed series, otherwise full of stuff, doesn't have them. So when a
+small indie developer adds them to their first game, having combat and non-combat
+situations as well as multiple input / movement schemes, it was a lot of pain.

@@ -1,0 +1,21 @@
+## how_to_build_an_AGI.quote -*- mode: fundamental-mode -*-
+# Summary:
+#
+#
+#
+How to build an AGI
+
+You draw seven rectangular boxes and label them VISION, KNOWLEDGE
+BASE, LEARNING, REASONING, PLANNING, LANGUAGE, and MOTOR CONTROL.
+You draw some curvy arrows between them. Then you say:
+
+We can already do what's in each of those modules—here’s the
+state-of-the-art papers on that. They need do a bit more work to
+improve performance, but we’re making rapid progress on that,
+and should have each of them nailed in a few years. So, the
+exciting bit is, we’re going to connect them up, and that’s that.
+
+People have been doing this since the 1950s, and it can’t work. It’s
+another power tool for self-deception: a reliable way of fooling yourself
+into thinking you understand something you don’t, and that you can do
+something you can’t.

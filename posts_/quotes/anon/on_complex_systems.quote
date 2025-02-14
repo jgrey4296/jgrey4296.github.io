@@ -5,6 +5,12 @@
 #
 
 To Stewart:
-A by-the-by: I've noticed that all these complex systems generators (such as 'Life' and 'Boids' (the flocking one) and "The Great Learning') have something in common - just three rules for each.
- And these three rules seem to share a certain similarity of relationship: one rule generates, another reduces, another maintains.
- I suppose it's obvious, really, but perhaps it's not trivial to wonder if those three conditions are all you need to specify in order to create a complex system generator (and then to wonder how those are actually being expressed in complex systems we see around us).
+A by-the-by: I've noticed that all these complex systems generators
+(such as 'Life' and 'Boids' (the flocking one) and "The Great Learning') have something
+in common - just three rules for each.
+ And these three rules seem to share a certain similarity of relationship: one
+ rule generates, another reduces, another maintains.
+ I suppose it's obvious, really, but perhaps it's not trivial to wonder if those
+ three conditions are all you need to specify in order to create a complex
+ system generator (and then to wonder how those are actually being expressed in
+ complex systems we see around us).

@@ -1,0 +1,27 @@
+## feature_based_similarities.quote -*- mode: fundamental-mode -*-
+# Summary:
+#
+#
+#
+Feature-Based Similarities: We are presented with unknown data and the question
+is to determine the similari- ties among them and group like with like together.
+Commonly, the data are of a certain type: music files, transaction records of
+ATM machines, credit card applications, genomic data. In these data there are
+hidden relations that we would like to get out in the open. For example, from
+genomic data one can extract letter- or block frequencies (the blocks are over
+the four-letter alphabet); from music files one can extract various specific
+numerical features, related to pitch, rhythm, harmony etc.
+
+One can extract such features using for instance Fourier transforms [41] or wavelet
+transforms [16]. The feature vectors corresponding to the various files are then
+classified or clustered using existing classification software, based on various
+standard statistical pattern recognition classifiers [41], Bayesian classifiers
+[13], hidden Markov models [11], ensembles of nearest-neighbor classifiers [16]
+or neural networks [13, 37].
+
+For example, in music one feature would be to look for rhythm in the sense of
+beats per minute. One can make a histogram where each histogram bin corresponds
+to a particular tempo in beats-per-minute and the associated peak shows how
+frequent and strong that particular periodicity was over the entire piece. In
+[41] we see a gradual change from a few high peaks to many low and spread-out
+ones going from hip-hip, rock, jazz, to classical. One can use
