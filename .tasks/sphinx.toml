@@ -13,7 +13,6 @@ depends_on = [{task="docs::build", inject={warn=false}}]
 name        = "build"
 doc         = ["build sphinx"]
 cli         = [{name="warn", type="bool", default=true},]
-ctor        = "task"
 doc_builder = "html"
 env_name    = "default"
 depends_on  = []
@@ -40,7 +39,6 @@ cleanup = []
 name        = "build.file"
 doc         = ["build sphinx project documentation"]
 cli         = [{name="fpath", type="str", default="", positional=true}]
-ctor        = "task"
 doc_builder = "html"
 env_name    = "doot-dev"
 setup       = [
