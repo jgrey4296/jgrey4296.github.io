@@ -1,5 +1,5 @@
 ## docs.toml -*- mode: toml -*-
-doot-version = "0.13"
+doot-version = "1.0"
 
 [[locations]]
 doc_src = "."
@@ -12,7 +12,7 @@ depends_on = [{task="docs::build", inject={warn=false}}]
 [[tasks.docs]]
 name        = "build"
 doc         = ["build sphinx"]
-cli         = [{name="warn", type="bool", default=true},]
+cli         = [{name="-warn", type="bool", default=true},]
 doc_builder = "html"
 env_name    = "default"
 depends_on  = []
@@ -38,7 +38,7 @@ cleanup = []
 [[tasks.docs]]
 name        = "build.file"
 doc         = ["build sphinx project documentation"]
-cli         = [{name="fpath", type="str", default="", positional=true}]
+cli         = [{name="-fpath", type="str", default="", positional=true}]
 doc_builder = "html"
 env_name    = "doot-dev"
 setup       = [
