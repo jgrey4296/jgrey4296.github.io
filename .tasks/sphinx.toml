@@ -21,7 +21,7 @@ setup       = [
     { do="installed?", args=["sphinx-build"], env_="env"},
     { do="exists?", args=["{doc_src!p}/conf.py"] },
 ]
-actions = [
+actions     = [
     { do="shell", env_="env", args=["sphinx-build",
     # "--verbose", "--verbose", "--nitpicky",
     "--write-all",
@@ -30,10 +30,9 @@ actions = [
     "--builder", "{doc_builder}",
     "{doc_src!p}", "{doc_out!p}",
     ]},
-
     # {do="taskcode.refresher:refresh_firefox"},
-    ]
-cleanup = []
+]
+cleanup     = []
 
 [[tasks.docs]]
 name        = "build.file"
@@ -46,7 +45,7 @@ setup       = [
     { do="installed?", args=["sphinx-build"], env_="env"},
     { do="exists?", args=["{doc_src!p}/conf.py"] },
 ]
-actions = [
+actions     = [
     {do="log", msg="Building for: {fpath}"},
     {do="log", msg="sphinx-build --builder {doc_builder} --warning-file {logs!p}/sphinx.log --keep-going --show-traceback {doc_src!p} {doc_out!p} {fpath}"},
     { do="shell", env_="env", args=["sphinx-build",
