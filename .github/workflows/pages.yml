@@ -61,7 +61,7 @@ jobs:
       name: github-pages
     steps:
       - name: build site 
-        run: tox -e docs
+        run: uv run --frozen tox -e docs
       - name: store site artifact
         uses: actions/upload-artifact@v4
         with:
