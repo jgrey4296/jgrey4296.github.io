@@ -13,7 +13,7 @@ name: Deploy static content to Pages
 
 on:
   push:
-    branches: ["main"]
+    branches: ["refactor.gh_pages"]
 
   workflow_dispatch: # To manually trigger
 
