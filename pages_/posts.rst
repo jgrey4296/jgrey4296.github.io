@@ -15,4 +15,5 @@ Thoughts, but in a textual form.
    :maxdepth: 1
    :glob:
 
+   /posts_/games/2023-06-11-boi-synergies
    ../posts_/*

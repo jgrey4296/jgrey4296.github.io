@@ -43,13 +43,8 @@ Instal
 JGDV
 ----
 
-`JGDV <https://github.com/jgrey4296/jgdv>`_ is a library of code I keep finding I rewrite.
+`JGDV <https://jgdv.readthedocs.io>`_ is a library of code I keep finding I rewrite.
 
----------
-TomlGuard
----------
-
-`TomlGuard <https://github.com/jgrey4296/tomlguard>`_ is an experiment to retrieve values from loaded toml files with more safety than repeated dictionary access.
 
 ------
 Bibble
