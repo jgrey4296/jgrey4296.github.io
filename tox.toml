@@ -8,29 +8,34 @@ work_dir                   = ".temp/tox/work"
 temp_dir                   = ".temp/tox/temp"
 skip_missing_interpreters  = false
 
-[vals]
-package              = "jgdv"
-
-[gh-actions]
-python                     = []
-
 [env_run_base]
 description          = "base_env"
 runner               = "uv-venv-lock-runner"
-allowlist_externals  = ["echo"]
+uv_sync_flags        = ["--no-editable", "--no-sources"]
+allowlist_externals  = ["echo", "mkdir"]
 
 [env.docs]
-description   = "build documentation"
+description          = "build documentation"
 skip_install  = true
+set_env = [
+    {replace="ref", of=["env_run_base", "set_env"]},
+    {CONFDIR  = {replace="env", name="CONFDIR",  default="./"}},
+    {OUTDIR   = {replace="env", name="OUTDIR",   default="./.temp/site/"}},
+    {DOCTREE  = {replace="env", name="DOCTREE",  default="./.temp/site/.doctrees/"}},
+]
 commands      = [
+    ["echo", "Building Documentation to:", "{env:OUTDIR}"],
+    ["echo", "Doctrees to:", "{env:DOCTREE}"],
+    ["echo", "Config in:", "{env:CONFDIR}"],
     ["uv", "run", "--frozen", "sphinx-build",
-    "-q",
-    "--conf-dir", ".",
+    # "-q",
+    # "--fresh-env",
+    "--conf-dir", "{env:CONFDIR}",
+    "--doctree-dir", "{env:DOCTREE}",
     "--warning-file", "./.temp/logs/sphinx.log",
     "--builder", "html",
-    ".",
-    "./.temp/site",
+     "{env:CONFDIR}",
+     "{env:OUTDIR}",
     {replace="posargs", default=[], extend=true}
     ]
 ]
-
