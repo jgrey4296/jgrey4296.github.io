@@ -75,6 +75,7 @@ exclude_patterns = [
     "**/__tests/*",
     "_docs/_templates/*",
     "README.md",
+    "checklist.md",
     "submodules_/*",
     ".venv/*",
     ".site/*",

@@ -1,0 +1,38 @@
+
+# Repo Checklist
+
+- [ ] python
+    - [x] pyproject.toml
+    - [ ] towncrier
+    - [ ] test dependencies
+    - [x] docs dependencies
+    - [ ] ruff.toml
+- [ ] rust
+    - [ ] cargo.toml
+    - [ ] config.toml
+    - [ ] build.rs
+    - [ ] clippy
+    - [ ] rustfmt
+    - [ ] profiles
+- [ ] documentation
+    - [ ] readthedocs
+    - [ ] readme.md
+    - [ ] towncrier
+    - [ ] templates
+    - [ ] license
+- [ ] dot files
+    - [x] related
+    - [x] tool-versions
+    - [x] tox
+    - [x] pre-commit
+    - [x] gitignore
+    - [x] lenvs
+- [ ] github
+    - [ ] publish yaml
+    - [ ] test yaml
+    - [ ] maturin CI yaml
+    - [ ] pages yaml
+- [ ] scripts
+    - [x] release script
+- [x] related
+    - [x] wiki

@@ -15,9 +15,9 @@ uv_sync_flags        = ["--no-editable", "--no-sources"]
 allowlist_externals  = ["echo", "mkdir"]
 
 [env.docs]
-description          = "build documentation"
+description   = "build documentation"
 skip_install  = true
-set_env = [
+set_env       = [
     {replace="ref", of=["env_run_base", "set_env"]},
     {CONFDIR  = {replace="env", name="CONFDIR",  default="./"}},
     {OUTDIR   = {replace="env", name="OUTDIR",   default="./.temp/site/"}},
