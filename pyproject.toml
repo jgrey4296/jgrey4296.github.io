@@ -8,5 +8,6 @@ dependencies = [
     "sphinx-rtd-theme>=3.0.2",
     "tox>=4.28.4",
     "tox-uv>=1.27.0",
+    "pydot>=4.0.1",
 ]
 

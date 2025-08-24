@@ -13,6 +13,7 @@ description          = "base_env"
 runner               = "uv-venv-lock-runner"
 uv_sync_flags        = ["--no-editable", "--no-sources"]
 allowlist_externals  = ["echo", "mkdir"]
+set_env              = {}
 
 [env.docs]
 description   = "build documentation"
@@ -34,8 +35,8 @@ commands      = [
     "--doctree-dir", "{env:DOCTREE}",
     "--warning-file", "./.temp/logs/sphinx.log",
     "--builder", "html",
-     "{env:CONFDIR}",
-     "{env:OUTDIR}",
+    "{env:CONFDIR}",
+    "{env:OUTDIR}",
     {replace="posargs", default=[], extend=true}
     ]
 ]
