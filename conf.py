@@ -71,17 +71,15 @@ include_patterns = [
     "**",
 ]
 exclude_patterns = [
+    ".temp",
+    # "_templates",
+    "_submodules",
+    "submodules_",
+    ".venv/*",
     "**/flycheck_*.py",
     "**/__tests/*",
-    "_docs/_templates/*",
     "README.md",
     "checklist.md",
-    "submodules_/*",
-    ".venv/*",
-    ".site/*",
-    ".temp/site/*",
-    ".temp/all*",
-    ".temp/tox/*",
 ]
 source_suffix = {
     ".rst"  : "restructuredtext",
@@ -120,7 +118,7 @@ needs_extensions  = {
 # Fully qualified class of TemplateBridge
 # template_bridge = ""
 # Relative to this file:
-templates_path    = ["static_/templates"]
+templates_path    = ["_templates"]
 
 # ##-- HTML --------------------------------------
 """By default, the read the docs theme.
@@ -134,21 +132,25 @@ html_show_sourcelink          = True
 html_show_search_summary      = False
 html_codeblock_linenos_style  = "inline"  # or "table"
 # --
-html_theme_options            = {}
-html_sidebars                 = {} # Maps doc names -> templates
-html_additional_pages         = {} # Maps doc names -> templates
-html_context                  = {}
-html_search_options           = {}
+html_title             = project
+html_theme_options     = {}
+html_sidebars          = {} # Maps doc names -> templates
+html_additional_pages  = {  # Maps doc names -> templates
+    # "index" : "index.html.jinja",
+
+    } 
+html_context           = {}
+html_search_options    = {}
 # (Relative to this file):
-html_theme_path   = []
-html_static_path  = ["static_"]
+html_theme_path        = ["_templates"]
+html_static_path       = ["_static"]
 html_extra_path   = []  # for things like robots.txt
 # html_style        = []
 # html_logo       = ""
-# html_favicon    = ""
+html_favicon    = "_static/images/favicon.ico"
 # Relative to static dir, or fully qualified urls
-html_css_files       = ["custom.css"]
-html_js_files        = ["custom.js"]
+html_css_files       = ["css/custom.css"]
+html_js_files        = ["js/custom.js"]
 # Generate additional domain specific indices
 html_domain_indices  = []
 #
@@ -158,7 +160,6 @@ html_context.update({})
 # ##-- HTML Theme: ReadTheDocs -------------------
 """https://sphinx-rtd-theme.readthedocs.io/en/stable/configuring.html"""
 html_theme                = "sphinx_rtd_theme"
-#
 html_theme_options.update({
     "logo_only"                   : False,
     # "version_selector"             : True,

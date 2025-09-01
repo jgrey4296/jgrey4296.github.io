@@ -30,7 +30,7 @@ commands      = [
     ["echo", "Config in:", "{env:CONFDIR}"],
     ["uv", "run", "--frozen", "sphinx-build",
     # "-q",
-    # "--fresh-env",
+    "--fresh-env",
     "--conf-dir", "{env:CONFDIR}",
     "--doctree-dir", "{env:DOCTREE}",
     "--warning-file", "./.temp/logs/sphinx.log",

@@ -15,8 +15,7 @@
 :resources   : resources_
 :notes       : tech_notes_
 
-:templates   : static_/templates
-:theme       : static_/theme
+:templates   : templates_
 :aisb        : submodules_/aisb
 :bib         : submodules_/bibliography
 :org         : submodules_/orgfiles
