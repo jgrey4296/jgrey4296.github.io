@@ -13,3 +13,6 @@
 [submodule "submodules_/orgfiles"]
 	path = submodules_/orgfiles
 	url = git@github.com:jgrey4296/orgfiles.git
+[submodule "submodules_/quotes"]
+	path = submodules_/quotes
+	url = git@github.com:jgrey4296/quotes.git

@@ -9,6 +9,7 @@
 :tasks       : .tasks
 :temp        : .temp
 :site        : .temp/site
+:tox         : tox.toml
 
 :pages       : pages_
 :posts       : posts_
