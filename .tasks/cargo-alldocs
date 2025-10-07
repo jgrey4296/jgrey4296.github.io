@@ -1,10 +1,19 @@
 #!/usr/bin/env python3
 """
-Release script
+Generalized script to build all docs.
+Covers:
+
+- Sphinx
+- mdbook
+- rustdoc
+
+TODO: prolog, dotnet, elixir, kotlin, prolog, rocq
 
 """
-# Imports:
+# ruff.ignore.in.file
+from __future__ import annotations
 
+# Imports:
 # ##-- stdlib imports
 import datetime
 import enum
@@ -60,43 +69,49 @@ logging = logmod.getLogger(__name__)
 ##-- end logging
 
 # Vars:
+source_dir   : Final[pl.Path]  = pl.Path("src")
+conf_dir     : Final[pl.Path]  = pl.Path("src/_docs")
+sphinx_out   : Final[pl.Path]  = pl.Path(".temp/sphinxdoc")
+doctree_dir  : Final[pl.Path]  = sphinx_out / ".doctrees"
+log_file     : Final[pl.Path]  = pl.Path(".temp/logs/sphinx.log")
+
+try:
+    sphinx   = sh.sphinx_build
+    cargo_doc  = sh.cargo.doc
+    mdbook   = sh.mdbook
+except sh.CommandNotFound as err:
+    print(err)
+    sys.exit(1)
+
 
 # Body:
 
+def run_sphinx():
+    print("Running Sphinx")
+    sphinx(
+        # "--fresh-env",
+        "--conf-dir", conf_dir,
+        "--doctree-dir", doctree_dir,
+        "--warning-file", log_file,
+        "--builder", "html",
+        source_dir,
+        sphinx_out,
+        )
+
+def run_mdbook():
+    print("Running MdBook")
+    mdbook("build")
+
+def run_rustdoc():
+    print("Running Rustdoc")
+    cargo_doc("--workspace")
 
 def main():
-    """
-    Generalised release process
-    """
-    bump_level   : str
-    new_version  : str
-    ##--|
-    match sh.git("--no-pager", "diff").strip():
-        case "":
-            pass
-        case _:
-            print("There are unstaged changes")
-            exit(-1)
-
-    match sys.argv:
-        case [*_, "--bump", str() as bump_level]:
-            current_version = sh.uv("version", "--short").strip()
-            sh.uv("version", "--bump", bump_level)
-            # Get new version
-            new_version = sh.uv("version", "--short").strip()
-            print(f"{current_version} -> {new_version}")
-        case _:
-            print("No Bump Level Provided")
-            exit(-1)
-
-    assert(bool(new_version))
-    print("Generating changelog updates")
-    sh.uv("run", "--frozen", "towncrier", "build", "--yes")
-    print("Committing")
-    sh.git("add", "--all")
-    sh.git("commit", "-m", f"[Release]: {new_version}")
-    print("Tagging")
-    sh.git("tag", new_version)
+    print("Building Documentation")
+    run_rustdoc()
+    run_mdbook()
+    run_sphinx()
+    sys.exit(0)
 
 ##-- ifmain
 if __name__ == "__main__":
