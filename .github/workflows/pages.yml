@@ -37,23 +37,24 @@ jobs:
       name: github-pages
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           persist-credentials: false
       # - name: asdf and plugins 
       #   uses: asdf-vm/actions/install@v4
-      - name: install uv
-        uses: astral-sh/setup-uv@v6
-        with:
-          version: "latest"
-      - name: setup
+      - uses: asdf-vm/actions/setup@v4
+      - name: setup polyglot
         run: |
-          uv python install
-          uv lock --no-sources
+          asdf plugin add direnv
+          asdf install
+          direnv allow
+          direnv export gha >> "$GITHUB_ENV"
+      - name: setup python
+        run: |
           uv venv
-          uv sync --frozen
+          uv sync
       - name: build site 
-        run: uv run --frozen tox -e docs
+        run: biblio build
       - name: store site artifact
         uses: actions/upload-artifact@v4
         with:

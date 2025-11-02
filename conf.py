@@ -40,7 +40,7 @@ templates_path         : list
 napoleon_type_aliases  : dict
 # ##--|
 
-# ##-- a: Project information --------------------
+# ##--| a: Project information --------------------
 project    = "Mostly Harmless"
 author     = "John Grey"
 copyright  = "{}, {}".format(datetime.datetime.now().strftime("%Y"), author)
@@ -87,7 +87,7 @@ source_suffix = {
     ".md"   : "markdown",
 }
 
-# ##-- b: Extensions -----------------------------
+# ##--| b: Extensions -----------------------------
 extensions      = [
 "myst_parser",
 "sphinx_rtd_theme",
@@ -114,13 +114,13 @@ needs_extensions  = {
 # local_mod = str(pl.Path.cwd().parent.parent)
 # sys.path.insert(0, local_mod)
 
-# ##-- Templates ---------------------------------
+# ##--| Templates ---------------------------------
 # Fully qualified class of TemplateBridge
 # template_bridge = ""
 # Relative to this file:
 templates_path    = ["_templates"]
 
-# ##-- HTML --------------------------------------
+# ##--| HTML --------------------------------------
 """By default, the read the docs theme.
 https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 """
@@ -157,7 +157,7 @@ html_domain_indices  = []
 html_additional_pages.update({})
 html_context.update({})
 
-# ##-- HTML Theme: ReadTheDocs -------------------
+# ##--| HTML Theme: ReadTheDocs -------------------
 """https://sphinx-rtd-theme.readthedocs.io/en/stable/configuring.html"""
 html_theme                = "sphinx_rtd_theme"
 html_theme_options.update({
@@ -175,11 +175,11 @@ html_theme_options.update({
     "titles_only"                 : False,
 })
 
-# ##-- RST Options -------------------------------
+# ##--| RST Options -------------------------------
 # rst_prolog = ""
 # rst_epilog = ""
 
-# ##-- Python Domain -----------------------------
+# ##--| Python Domain -----------------------------
 python_maximum_signature_line_length  : int | None
 #--
 add_module_names                                = True
@@ -191,10 +191,10 @@ trim_doctest_flags                              = True
 modindex_common_prefix                = []
 python_maximum_signature_line_length  = None
 
-# ##-- c: Extension Options ----------------------
+# ##--| c: Extension Options ----------------------
 
 
-# ##-- Extlinks ----------------------------------
+# ##--| Extlinks ----------------------------------
 extlinks : dict[str, tuple[str, str]]
 #--
 extlinks_detect_hardcoded_links = False
@@ -204,7 +204,7 @@ extlinks = {
     "issue": ("https://github.com/jgrey4296/jgdv/issues/%s", "issue %s"),
 }
 
-# ##-- Intersphinx -------------------------------
+# ##--| Intersphinx -------------------------------
 # https://www.sphinx-doc.org/en/master/usage/extensions/intersphinx.html
 type InterTuple      = tuple[str, tuple[str, str | None] | None]
 intersphinx_mapping      : dict[str, InterTuple]
@@ -220,7 +220,7 @@ intersphinx_mapping = {
 intersphinx_cache_limit  = 5 # days
 intersphinx_timeout      = None
 
-# ##-- Graphviz ----------------------------------
+# ##--| Graphviz ----------------------------------
 # https://www.sphinx-doc.org/en/master/usage/extensions/graphviz.html
 #--
 # Command name to invoke dot:
@@ -228,21 +228,21 @@ graphviz_dot            =  "dot"
 graphviz_dot_args       = ()
 graphviz_output_format  = "svg"  # or "dot"
 
-# ##-- imgconvert --------------------------------
+# ##--| imgconvert --------------------------------
 # https://www.sphinx-doc.org/en/master/usage/extensions/imgconverter.html
 #--
 # Path to conversion command:
 image_converter       = "convert"
 image_converter_args  = ()
 
-# ##-- Autosection Labels ------------------------
+# ##--| Autosection Labels ------------------------
 # https://www.sphinx-doc.org/en/master/usage/extensions/autosectionlabel.html
 #--
 # If true, ref is :ref:`docname:title`, else :ref:`title`
 autosectionlabel_prefix_document  : bool        = False
 autosectionlabel_maxdepth         : int | None  = None
 
-# ##-- Napoleon Docstrings -----------------------
+# ##--| Napoleon Docstrings -----------------------
 # https://www.sphinx-doc.org/en/master/usage/extensions/napoleon.html
 napoleon_google_docstring               = True
 napoleon_numpy_docstring                = True
@@ -259,4 +259,4 @@ napoleon_preprocess_types               = False
 napoleon_attr_annotations               = True
 napoleon_type_aliases                   = {}
 
-# ##-- d: Sphinx App Customisation ---------------
+# ##--| d: Sphinx App Customisation ---------------
