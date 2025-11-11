@@ -1,6 +1,6 @@
 .. -*- mode: ReST -*-
 
-.. _root:
+.. _code_root:
 
 ==========
 code
@@ -20,6 +20,7 @@ tortor.  Nam euismod tellus id erat.
 
 
 .. toctree::
+   :glob:
 
    *
 

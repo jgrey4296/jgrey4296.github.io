@@ -1,6 +1,6 @@
 .. -*- mode: ReST -*-
 
-.. _root:
+.. _fiction_root:
 
 ==========
 fiction
@@ -20,7 +20,8 @@ tortor.  Nam euismod tellus id erat.
 
 
 .. toctree::
-
+   :glob:
+      
    *
 
 

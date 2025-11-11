@@ -1,9 +1,9 @@
 .. -*- mode: ReST -*-
 
-.. _tasks_root:
+.. _root:
 
 ==========
-task_management
+technical
 ==========
 
 .. contents:: Contents
@@ -20,8 +20,8 @@ tortor.  Nam euismod tellus id erat.
 
 
 .. toctree::
-   :glob: 
-      
+   :glob:
+
    *
 
 
