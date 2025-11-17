@@ -16,3 +16,6 @@
 [submodule "submodules_/quotes"]
 	path = submodules_/quotes
 	url = git@github.com:jgrey4296/quotes.git
+[submodule "submodules_/timelines"]
+	path = submodules_/timelines
+	url = git@github.com:jgrey4296/timelines.git
