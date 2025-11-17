@@ -18,8 +18,28 @@ dignissim bibendum.  Vivamus id enim.  Phasellus neque orci, porta a, aliquet
 quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet
 tortor.  Nam euismod tellus id erat.
 
+------------
+The Language
+------------
+
+Functions
+---------
 
 
+-------------------
+Sections of a Style
+-------------------
+
+-------------------------
+Bibtex Style Test Harness
+-------------------------
+
+
+.. include:: ./_code/min.bst
+   :code: bibstyle
+
+
+    
 ..  --------------------------------------------------
 .. Links
 .. --------------------------------------------------

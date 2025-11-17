@@ -18,6 +18,14 @@ dignissim bibendum.  Vivamus id enim.  Phasellus neque orci, porta a, aliquet
 quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet
 tortor.  Nam euismod tellus id erat.
 
+-----------
+The Problem
+-----------
+
+
+----------
+A Solution
+----------
 
 
 ..  --------------------------------------------------

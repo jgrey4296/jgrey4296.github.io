@@ -1,10 +1,10 @@
 .. -*- mode: ReST -*-
 
-.. _facebook:
+.. _heresyChars:
 
-========
-Facebook
-========
+=======================
+Horus Heresy Characters
+=======================
 
 .. contents:: Contents
    :local:
@@ -19,11 +19,43 @@ quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet
 tortor.  Nam euismod tellus id erat.
 
 
-Notifications and accessing the Activity Record
------------------------------------------------
+--------
+Overview
+--------
 
-'Relevant' Comments
--------------------
+
+-------
+Process
+-------
+
+
+----
+Data
+----
+
+Loyalist
+--------
+
+1. Primarch
+2. Astartes
+3. Imperial Army
+4. Mechanicum
+5. Civilian
+   
+Heretic
+-------
+
+1. Primarch
+2. Astartes
+3. Imperial Army
+4. Mechanicum
+5. Civilian
+
+Xenos
+-----
+
+Other
+-----
 
 
 ..  --------------------------------------------------

@@ -1,9 +1,9 @@
 .. -*- mode: ReST -*-
 
-.. _facebook:
+.. _carousel:
 
 ========
-Facebook
+Carousel
 ========
 
 .. contents:: Contents
@@ -19,11 +19,14 @@ quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet
 tortor.  Nam euismod tellus id erat.
 
 
-Notifications and accessing the Activity Record
------------------------------------------------
+-----------
+The Problem
+-----------
 
-'Relevant' Comments
--------------------
+
+----------
+A Solution
+----------
 
 
 ..  --------------------------------------------------

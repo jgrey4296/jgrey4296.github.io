@@ -19,6 +19,15 @@ quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet
 tortor.  Nam euismod tellus id erat.
 
 
+-----------
+The Problem
+-----------
+
+----------
+A Solution
+----------
+
+
 
 ..  --------------------------------------------------
 .. Links

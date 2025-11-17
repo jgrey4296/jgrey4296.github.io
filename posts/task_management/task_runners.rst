@@ -10,18 +10,46 @@ Task Runners
    :local:
 
 
-Aliquam erat volutpat.  Nunc eleifend leo vitae magna.  In id erat non orci
-commodo lobortis.  Proin neque massa, cursus ut, gravida ut, lobortis eget,
-lacus.  Sed diam.  Praesent fermentum tempor tellus.  Nullam tempus.  Mauris ac
-felis vel velit tristique imperdiet.  Donec at pede.  Etiam vel neque nec dui
-dignissim bibendum.  Vivamus id enim.  Phasellus neque orci, porta a, aliquet
-quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet
-tortor.  Nam euismod tellus id erat.
+(Separate from :ref:`buildsystems`).
 
+----
+DSLs
+----
+
+1. :ref:`dagger`
+2. :ref:`taskcluster`
+3. :ref:`cwl`
+4. :ref:`collectiveknowledge`
+5. :ref:`openwdl`
+6. :ref:`taskcluster`
+
+---------
+Make-like
+---------
+
+1. :ref:`taskfile`.
+2. :ref:`just`.
+   
+----------
+Toml Based
+----------
+
+1. :ref:`mise`
+2. :ref:`cargomake`
 
 
 ..  --------------------------------------------------
 .. Links
 .. --------------------------------------------------
 
-.. _somewhere: https://somewhere.com
+.. _taskfile: https://taskfile.dev
+.. _just: https://just.systems
+.. _mise: https://mise.jdx.dev/tasks/toml-tasks.html
+.. _dagger: https://docs.dagger.io/
+.. _taskcluster: https://docs.taskcluster.net/docs/manual/tasks
+.. _jenkins: https://www.jenkins.io/doc/
+.. _cwl: https://www.commonwl.org/
+.. _collectiveknowledge: https://cknowledge.io/docs/
+.. _openwdl: https://docs.openwdl.org/en/latest/
+.. _taskcluster: https://docs.taskcluster.net/docs/manual/tasks
+.. _cargomake: https://crates.io/crates/cargo-make

@@ -18,7 +18,25 @@ dignissim bibendum.  Vivamus id enim.  Phasellus neque orci, porta a, aliquet
 quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet
 tortor.  Nam euismod tellus id erat.
 
+-------------------------
+The Core Parts Of Plugins
+-------------------------
 
+
+----------
+My Plugins
+----------
+
+1. polyglot-cli
+2. texlive
+3. ceptre
+4. opa
+5. cask / eask
+6. soar
+7. plantuml
+8. godot
+9. biblio
+   
 
 ..  --------------------------------------------------
 .. Links

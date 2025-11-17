@@ -1,10 +1,10 @@
 .. -*- mode: ReST -*-
 
-.. _facebook:
+.. _emacsModes:
 
-========
-Facebook
-========
+==================
+Custom Emacs Modes
+==================
 
 .. contents:: Contents
    :local:
@@ -18,12 +18,22 @@ dignissim bibendum.  Vivamus id enim.  Phasellus neque orci, porta a, aliquet
 quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet
 tortor.  Nam euismod tellus id erat.
 
+----------
+Agentspeak
+----------
 
-Notifications and accessing the Activity Record
------------------------------------------------
+------
+Jacamo
+------
 
-'Relevant' Comments
--------------------
+----
+SOAR
+----
+
+---
+OPA
+---
+
 
 
 ..  --------------------------------------------------

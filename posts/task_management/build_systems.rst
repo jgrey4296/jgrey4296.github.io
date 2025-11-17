@@ -19,9 +19,44 @@ quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet
 tortor.  Nam euismod tellus id erat.
 
 
+----
+Make
+----
+
+------
+Gradle
+------
+
+-----
+Scons
+-----
+
+-----
+Maven
+-----
+
+----------
+Apache Ant
+----------
+
+------------
+Gulp / Grunt
+------------
+
+-----
+Cargo
+-----
+
+-----------
+Astral's UV
+-----------
+
 
 ..  --------------------------------------------------
 .. Links
 .. --------------------------------------------------
 
 .. _somewhere: https://somewhere.com
+
+.. _make: https://www.gnu.org/software/make/manual/make.html
+.. _cmake: https://cmake.org/documentation/

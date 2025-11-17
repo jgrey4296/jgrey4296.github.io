@@ -1,10 +1,10 @@
 .. -*- mode: ReST -*-
 
-.. _facebook:
+.. _socialMedia:
 
-========
-Facebook
-========
+============
+Social Media
+============
 
 .. contents:: Contents
    :local:
@@ -18,12 +18,8 @@ dignissim bibendum.  Vivamus id enim.  Phasellus neque orci, porta a, aliquet
 quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet
 tortor.  Nam euismod tellus id erat.
 
-
-Notifications and accessing the Activity Record
------------------------------------------------
-
-'Relevant' Comments
--------------------
+Bluesky/Twitter follow context
+------------------------------
 
 
 ..  --------------------------------------------------
