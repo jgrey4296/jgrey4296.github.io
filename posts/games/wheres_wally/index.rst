@@ -1,10 +1,10 @@
 .. -*- mode: ReST -*-
 
-.. _gikcbt:
+.. _wally:
 
-===========================
-Games I Keep Coming Back To
-===========================
+=============
+Wheres Wally?
+=============
 
 .. contents:: Contents
    :local:
@@ -18,8 +18,6 @@ dignissim bibendum.  Vivamus id enim.  Phasellus neque orci, porta a, aliquet
 quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet
 tortor.  Nam euismod tellus id erat.
 
-- Hades
-- Zachtronics Solitaire
 
 
 ..  --------------------------------------------------

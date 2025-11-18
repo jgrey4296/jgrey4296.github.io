@@ -1,10 +1,10 @@
 .. -*- mode: ReST -*-
 
-.. _gikcbt:
+.. _qtes:
 
-===========================
-Games I Keep Coming Back To
-===========================
+=================
+Quick Time Events
+=================
 
 .. contents:: Contents
    :local:
@@ -18,8 +18,6 @@ dignissim bibendum.  Vivamus id enim.  Phasellus neque orci, porta a, aliquet
 quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet
 tortor.  Nam euismod tellus id erat.
 
-- Hades
-- Zachtronics Solitaire
 
 
 ..  --------------------------------------------------
@@ -27,3 +25,6 @@ tortor.  Nam euismod tellus id erat.
 .. --------------------------------------------------
 
 .. _somewhere: https://somewhere.com
+
+
+.. _qtewiki: https://en.wikipedia.org/wiki/Quick_time_event

@@ -1,10 +1,10 @@
 .. -*- mode: ReST -*-
 
-.. _gikcbt:
+.. _boisyn:
 
-===========================
-Games I Keep Coming Back To
-===========================
+==========================
+Binding of Isaac Synergies
+==========================
 
 .. contents:: Contents
    :local:
@@ -18,8 +18,6 @@ dignissim bibendum.  Vivamus id enim.  Phasellus neque orci, porta a, aliquet
 quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet
 tortor.  Nam euismod tellus id erat.
 
-- Hades
-- Zachtronics Solitaire
 
 
 ..  --------------------------------------------------
@@ -27,3 +25,6 @@ tortor.  Nam euismod tellus id erat.
 .. --------------------------------------------------
 
 .. _somewhere: https://somewhere.com
+
+.. _northernlion: https://www.northernlion-db.com/
+.. _platinumgod: https://platinumgod.co.uk/
