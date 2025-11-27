@@ -1,10 +1,10 @@
 .. -*- mode: ReST -*-
 
-.. _institutions_root:
+.. _games:
 
-============
-Institutions
-============
+=====
+Games
+=====
 
 .. contents:: Contents
    :local:
@@ -22,9 +22,9 @@ tortor.  Nam euismod tellus id erat.
 .. toctree::
    :maxdepth: 1
    :glob:
-      
-   ./[a-z]*
 
+   ./[a-z]*
+    
 
 
 ..  --------------------------------------------------

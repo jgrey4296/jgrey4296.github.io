@@ -1,10 +1,10 @@
 .. -*- mode: ReST -*-
 
-.. _institutions_root:
+.. _readinglists:
 
-============
-Institutions
-============
+=============
+Reading Lists
+=============
 
 .. contents:: Contents
    :local:
@@ -18,12 +18,12 @@ dignissim bibendum.  Vivamus id enim.  Phasellus neque orci, porta a, aliquet
 quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet
 tortor.  Nam euismod tellus id erat.
 
-
 .. toctree::
    :maxdepth: 1
    :glob:
       
    ./[a-z]*
+    
 
 
 

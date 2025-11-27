@@ -19,7 +19,7 @@ fi
 function main () {
     builder="$POLYGLOT_SPHINX_BUILDER"
     conf="$POLYGLOT_SPHINX_CONF_DIR"
-    out="$POLGLOT_TEMP/site"
+    out="$POLYGLOT_TEMP/site"
     doctrees="$POLYGLOT_TEMP/doctrees"
     logs="$POLYGLOT_TEMP/logs"
     src="$POLYGLOT_SRC"
