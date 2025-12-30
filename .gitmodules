@@ -1,9 +1,6 @@
 [submodule ".site"]
 	path = .site
 	url = git@github.com:jgrey4296/jgrey4296.github.io.git
-[submodule "submodules_/wiki"]
-	path = submodules_/wiki
-	url = git@github.com:jgrey4296/jgrey4296.github.io.wiki.git
 [submodule "submodules_/bibliography"]
 	path = submodules_/bibliography
 	url = git@github.com:jgrey4296/bibliography.git
