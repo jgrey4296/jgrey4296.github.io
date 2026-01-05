@@ -16,3 +16,12 @@
 [submodule "submodules_/timelines"]
 	path = submodules_/timelines
 	url = git@github.com:jgrey4296/timelines.git
+[submodule "submodules_/tech_notes"]
+	path = submodules_/tech_notes
+	url = git@gitlab.com:jgrey4296/tech_notes.git
+[submodule "submodules_/definitions"]
+	path = submodules_/definitions
+	url = git@gitlab.com:jgrey4296/definitions.git
+[submodule "submodules_/bookmarks"]
+	path = submodules_/bookmarks
+	url = git@gitlab.com:jgrey4296/bookmarks.git
