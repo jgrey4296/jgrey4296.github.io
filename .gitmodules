@@ -25,3 +25,6 @@
 [submodule "submodules_/bookmarks"]
 	path = submodules_/bookmarks
 	url = git@gitlab.com:jgrey4296/bookmarks.git
+[submodule "submodules_/tags"]
+	path = submodules_/tags
+	url = git@gitlab.com:jgrey4296/tags.git
