@@ -1,10 +1,10 @@
 .. -*- mode: ReST -*-
 
-.. _institutions_root:
+.. _boisyn:
 
-============
-Institutions
-============
+==========================
+Binding of Isaac Synergies
+==========================
 
 .. contents:: Contents
    :local:
@@ -19,16 +19,12 @@ quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet
 tortor.  Nam euismod tellus id erat.
 
 
-.. toctree::
-   :maxdepth: 1
-   :glob:
-      
-   ./[a-z]*
-
-
 
 ..  --------------------------------------------------
 .. Links
 .. --------------------------------------------------
 
 .. _somewhere: https://somewhere.com
+
+.. _northernlion: https://www.northernlion-db.com/
+.. _platinumgod: https://platinumgod.co.uk/

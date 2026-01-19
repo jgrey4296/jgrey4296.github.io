@@ -2,9 +2,9 @@
 
 .. _code_root:
 
-==========
-code
-==========
+====
+Code
+====
 
 .. contents:: Contents
    :local:
@@ -20,9 +20,10 @@ tortor.  Nam euismod tellus id erat.
 
 
 .. toctree::
+   :maxdepth: 1
    :glob:
 
-   *
+   ./[a-z]*
 
 
 

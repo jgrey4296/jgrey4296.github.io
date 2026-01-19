@@ -3,7 +3,7 @@
 .. _fiction_root:
 
 ==========
-fiction
+Fiction
 ==========
 
 .. contents:: Contents
@@ -20,9 +20,10 @@ tortor.  Nam euismod tellus id erat.
 
 
 .. toctree::
+   :maxdepth: 1
    :glob:
       
-   *
+   ./[a-z]*
 
 
 

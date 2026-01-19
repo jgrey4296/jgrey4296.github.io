@@ -15,4 +15,4 @@ Thoughts, but in a textual form.
    :maxdepth: 1
    :glob:
 
-   */[0-9]*
+   ./*/index

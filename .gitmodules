@@ -1,9 +1,6 @@
 [submodule ".site"]
 	path = .site
 	url = git@github.com:jgrey4296/jgrey4296.github.io.git
-[submodule "submodules_/wiki"]
-	path = submodules_/wiki
-	url = git@github.com:jgrey4296/jgrey4296.github.io.wiki.git
 [submodule "submodules_/bibliography"]
 	path = submodules_/bibliography
 	url = git@github.com:jgrey4296/bibliography.git
@@ -19,3 +16,15 @@
 [submodule "submodules_/timelines"]
 	path = submodules_/timelines
 	url = git@github.com:jgrey4296/timelines.git
+[submodule "submodules_/tech_notes"]
+	path = submodules_/tech_notes
+	url = git@gitlab.com:jgrey4296/tech_notes.git
+[submodule "submodules_/definitions"]
+	path = submodules_/definitions
+	url = git@gitlab.com:jgrey4296/definitions.git
+[submodule "submodules_/bookmarks"]
+	path = submodules_/bookmarks
+	url = git@gitlab.com:jgrey4296/bookmarks.git
+[submodule "submodules_/tags"]
+	path = submodules_/tags
+	url = git@gitlab.com:jgrey4296/tags.git

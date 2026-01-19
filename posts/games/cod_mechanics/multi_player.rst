@@ -1,10 +1,10 @@
 .. -*- mode: ReST -*-
 
-.. _institutions_root:
+.. _codmulti:
 
-============
-Institutions
-============
+=====================
+Multiplayer Mechanics
+=====================
 
 .. contents:: Contents
    :local:
@@ -17,13 +17,6 @@ felis vel velit tristique imperdiet.  Donec at pede.  Etiam vel neque nec dui
 dignissim bibendum.  Vivamus id enim.  Phasellus neque orci, porta a, aliquet
 quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet
 tortor.  Nam euismod tellus id erat.
-
-
-.. toctree::
-   :maxdepth: 1
-   :glob:
-      
-   ./[a-z]*
 
 
 

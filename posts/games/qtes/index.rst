@@ -1,10 +1,10 @@
 .. -*- mode: ReST -*-
 
-.. _institutions_root:
+.. _qtes:
 
-============
-Institutions
-============
+=================
+Quick Time Events
+=================
 
 .. contents:: Contents
    :local:
@@ -19,16 +19,12 @@ quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet
 tortor.  Nam euismod tellus id erat.
 
 
-.. toctree::
-   :maxdepth: 1
-   :glob:
-      
-   ./[a-z]*
-
-
 
 ..  --------------------------------------------------
 .. Links
 .. --------------------------------------------------
 
 .. _somewhere: https://somewhere.com
+
+
+.. _qtewiki: https://en.wikipedia.org/wiki/Quick_time_event

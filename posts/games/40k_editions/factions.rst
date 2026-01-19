@@ -1,0 +1,339 @@
+.. -*- mode: ReST -*-
+
+.. _40kfactions:
+
+============================
+40k Factions across Editions
+============================
+
+.. contents:: Contents
+   :local:
+
+
+Aliquam erat volutpat.  Nunc eleifend leo vitae magna.  In id erat non orci
+commodo lobortis.  Proin neque massa, cursus ut, gravida ut, lobortis eget,
+lacus.  Sed diam.  Praesent fermentum tempor tellus.  Nullam tempus.  Mauris ac
+felis vel velit tristique imperdiet.  Donec at pede.  Etiam vel neque nec dui
+dignissim bibendum.  Vivamus id enim.  Phasellus neque orci, porta a, aliquet
+quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet
+tortor.  Nam euismod tellus id erat.
+
+-----------
+1st Edition
+-----------
+- Imperium
+  - Astartes
+  - Psykers
+  - Navigators
+  - Rogue Traders
+  - Assassins
+  - Imperial Army
+  - Inquisition
+  - Astra Telepathica
+- Xenos
+  - Eldar
+  - Orks
+  - Slann
+  - Jokaero
+  - Tyranids
+  - Zoats
+  - Squats
+  - Warp Creatures
+
+-----------
+2nd Edition
+-----------
+- Imperium:
+  - Astartes
+    - Ultramarines
+    - Space Wolves
+    - Blood Angels
+    - Dark Angels
+  - Imperial Guard
+  - Sisters of Battle
+  - Inquisition
+  - Adeptus Arbites
+  - Astra Telepathica
+  - Ministorum
+  - Mechanicus
+  - Assassins
+  - Administratrum
+- Xenos
+  - Orks
+  - Eldar
+  - Squats
+  - Tyranids
+- Chaos
+
+-----------
+3rd Edition
+-----------
+- Imperium
+  - Astartes
+    - Blood Angels
+    - Dark Angels
+    - Space Wolves
+  - Imperial Guard
+    - Catachans
+  - Sisters of Battle
+  - Assassins
+  - Witch hunters
+  - Daemon Hunters
+- Xenos
+  - Eldar
+    - Craftworld Eldar
+  - Dark Eldar
+  - Tyranids
+  - Orks
+  - Tau
+  - Necrons
+- Chaos
+-----------
+4th Edition
+-----------
+- Imperium
+  - Astartes
+    - Black Templars
+    - Dark Angels
+    - Blood Angels
+  - Imperial Guard
+    - Catachans
+- Xenos
+  - Eldar
+  - Dark Eldar
+  - Orks
+  - Tau
+  - Necrons
+- Chaos
+  - Chaos Astartes
+  - Daemons
+
+-----------
+5th Edition
+-----------
+- Imperium
+  - Astartes
+    - Grey Knights
+    - Blood Angels
+    - Space Wolves
+  - Imperial Guard
+  - Sisters of Battle
+- Xenos
+  - Eldar
+  - Dark Eldar
+  - Tyranids
+  - Orks
+  - Necrons
+- Chaos
+  - Astartes
+  - Daemons
+
+-----------
+6th Edition
+-----------
+- Imperium
+  - Astartes
+    - Dark Angels
+    - Legion of the Damned
+    - Imperial Fists
+    - Iron Hands
+  - Astra Militarum
+    - Militarum Tempestus
+  - Adepta Sororitas
+  - Imperial Knights
+  - Inquisition
+- Xenos
+  - Tyranids
+  - Tau
+  - Eldar
+    - Iyanden
+    - Farsight Enclaves
+  - Orks
+- Chaos
+  - Astartes
+    - Black Legion
+    - Crimson Slaughter
+  - Daemons
+
+-----------
+7th Edition
+-----------
+- Imperium
+  - Astartes
+    - Grey Knights
+    - Blood Angels
+    - Dark Angels
+    - Space Wolves
+    - Deathwatch
+    - Flesh Tearers
+    - White Scars
+    - Raven Guard
+    - Imperial Fists
+    - Iron Hands
+    - Salamanders
+    - Legion of the Damned
+  - Skitarii
+  - Imperial Knights
+  - Imperial Agents
+    - Adepta Sororitas
+    - Assassins
+    - Tech-Priests
+    - Aeronautica Imperialis
+    - Adeptus Ministorum
+    - Inquisitors
+  - Imperial Guard
+  - Adeptus Custodes
+  - Sisters of Silence
+- Xenos
+  - Eldar
+    - Harlequins
+    - Craftworld
+  - Dark Eldar
+    - Haemonuculus Covens
+  - Orks
+  - Necron
+  - Tau
+  - Tyranids
+    - Genestealer Cults
+- Chaos
+  - Astartes
+  - Daemons
+    - Khorne
+
+-----------
+8th Edition
+-----------
+- Imperium
+  - Astartes
+    - Primaris
+    - Grey Knights
+    - Space Wolves
+    - Dark Angels
+    - Blood Angels
+    - Deathwatch
+    - Vanguard
+    - Ultramarins
+    - White Scars
+    - Iron Hands
+    - Raven Guard
+    - Salamanders
+    - Imperial Fists
+    - Silver Templars
+  - Astra Militarum
+    - Cadians
+    - Catachans
+    - Steel Legion
+    - Tallarn
+    - Valhallan
+    - Vostroyan
+    - Mordian
+    - Tempestus
+  - Imperial Knights
+  - Adepta Sororitas
+  - Adeptus Custodes
+- Xenos
+  - Tau
+  - Tyranids
+    - Genestealer Cults
+    - Behemoth
+    - Kraken
+    - Leviathan
+    - Jormungandr
+    - Hydra
+    - Gorgon
+    - Kronos
+    - Tiamet
+    - Ouroboros
+  - Necrons
+    - Sautekh
+    - Charnovokh
+    - Nephrekh
+    - Thokt
+    - Mephrit
+    - Novokh
+    - Ogdobekh
+    - Nihilakh
+  - Eldar
+    - Harlequins
+    - Craftworlds
+      - Biel-tan
+      - Ulthwé
+      - Iyanden
+      - Saim-Hann
+      - Alaitoc
+      - Althansar
+      - Il-Kaithe
+      - Lugganath
+      - Iybraesil
+      - Yme-Loc
+      - Mymeara
+  - Drukhari
+  - Orks
+    - Goffs
+    - Evil Sunz
+    - Blood Axes
+    - Deathskulls
+    - Bad Moons
+    - Snakebites
+    - Freebooterz
+- Chaos
+  - Astartes
+    - Death Guard
+    - Thousand Sons
+    - Black Legion
+    - Alpha Legion
+    - Iron Warriors
+    - Night Lords
+    - Word Bearers
+    - World Eaters
+    - Emperors Children
+  - Daemons
+    - Slaanesh
+    - Khorne
+    - Tzeentch
+    - Nurgle
+    - Daemonkin
+  - Chaos Knights
+
+-----------
+9th Edition
+-----------
+- Imperium
+  - Astartes
+    - Space Wolves
+    - Deathwatch
+    - Blood Angels
+    - Dark Angels
+    - Black Templars
+  - Imperial Guard
+  - Adeptus Mechanicus
+  - Adepta Sororitas
+  - Adeptus Custodes
+  - Imperial Knights
+- Xenos
+  - Aeldari
+    - Craftworld
+    - Harlequin
+    - Corsairs
+    - Ynarri
+  - Drukhari
+  - Necrons
+  - Tau
+  - Tyranids
+    - Genestealer Cults
+  - Orks
+  - Leagues of Votann
+- Chaos
+  - Daemons
+  - Astartes
+    - World Eaters
+    - Death Guard
+    - Thousand Sons
+  - Chaos Knights
+
+
+..  --------------------------------------------------
+.. Links
+.. --------------------------------------------------
+
+.. _somewhere: https://somewhere.com

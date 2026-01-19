@@ -2,7 +2,6 @@
 
 .. index:: police_violence
 
-           
 .. _cop_violence:
 
 ==========================

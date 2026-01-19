@@ -1,10 +1,10 @@
 .. -*- mode: ReST -*-
 
-.. _institutions_root:
+.. _40kstats:
 
-============
-Institutions
-============
+========================================
+40k Unit Characteristics across Editions
+========================================
 
 .. contents:: Contents
    :local:
@@ -19,13 +19,15 @@ quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet
 tortor.  Nam euismod tellus id erat.
 
 
-.. toctree::
-   :maxdepth: 1
-   :glob:
-      
-   ./[a-z]*
-
-
+- 1st: [M, WS, BS, S, T, W, I, A, Ld, Int, Cl, WP]
+- 2nd: [M, WS, BS, S, T, W, I, A, Ld]
+- 3rd: [WS, BS, S, T, W, I, A, Ld, Sv]
+- 4th: [WS, BS, S, T, W, I, A, Ld, Sv]
+- 5th: [WS, BS, S, T, W, I, A, Ld, Sv]
+- 6th: [WS, BS, S, T, W, I, A, Ld, Sv]
+- 7th: [WS, BS, S, T, W, I, A, Ld, Sv]
+- 8th: [M, WS, BS, S, T, W, A, Ld, Sv]
+- 9th: [M, WS, BS, S, T, W, A, Ld, Sv]
 
 ..  --------------------------------------------------
 .. Links

@@ -1,10 +1,10 @@
 .. -*- mode: ReST -*-
 
-.. _institutions_root:
+.. _40kroot:
 
-============
-Institutions
-============
+============================================
+Warhammer 40k changes over the past 40 years
+============================================
 
 .. contents:: Contents
    :local:
@@ -19,12 +19,29 @@ quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet
 tortor.  Nam euismod tellus id erat.
 
 
-.. toctree::
-   :maxdepth: 1
-   :glob:
-      
-   ./[a-z]*
+--------
+Overview
+--------
 
+- Rogue Trader, 1987
+- Warhammer 40,000, 1993
+- Enter the Dark Eldar, Third Edition, 1998
+- The new millennium, Fourth Edition, 2004
+- Upon the eve of worldwide financial collapse, Fifth Edition, 2008
+- Alliances, 6th Edition, 2012
+- Lords of War, 7th Edition, 2014
+- Guilliman, 8th Edition, 2020
+- 9th Edition, 2022
+- The Lion, 10th Edition, 2023
+
+
+.. toctree::
+   :titlesonly:
+   :hidden:
+   :glob: t
+
+    *
+    
 
 
 ..  --------------------------------------------------

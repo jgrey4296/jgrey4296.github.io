@@ -1,9 +1,9 @@
 .. -*- mode: ReST -*-
 
-.. _root:
+.. _technical:
 
 ==========
-technical
+Technical
 ==========
 
 .. contents:: Contents
@@ -20,9 +20,10 @@ tortor.  Nam euismod tellus id erat.
 
 
 .. toctree::
+   :maxdepth: 1
    :glob:
 
-   *
+   ./[a-z]*
 
 
 

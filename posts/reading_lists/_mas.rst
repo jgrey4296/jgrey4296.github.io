@@ -1,6 +1,6 @@
 .. -*- mode: ReST -*-
 
-.. _label:
+.. _mas:
 
 ===================
 Multi Agent Systems
