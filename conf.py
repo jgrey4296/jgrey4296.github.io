@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#  sphinx.py -*- mode: Python -*-
 """
 Configuration file for the Sphinx documentation builder.
 https://www.sphinx-doc.org/en/master/usage/configuration.html
@@ -83,7 +83,6 @@ exclude_patterns = [
 ]
 source_suffix = {
     ".rst"  : "restructuredtext",
-    ".txt"  : "restructuredtext",
     ".md"   : "markdown",
 }
 

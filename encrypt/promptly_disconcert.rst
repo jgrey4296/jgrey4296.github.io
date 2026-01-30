@@ -1,5 +1,7 @@
 .. -*- mode: ReST -*-
 
+.. index:: encrypted
+   
 .. _enc2:
 
 ===================
@@ -9,7 +11,8 @@ Promptly Disconcert
 .. contents:: Contents
    :local:
 
-::
+.. code-block:: 
+   
     -----BEGIN PGP MESSAGE-----
 
     hQGMA3rvcdDZU1XZAQwAr3mXt5F4nDLdMTwlSCXF/dOJUp2seuMelmf5BEdVwZ8P

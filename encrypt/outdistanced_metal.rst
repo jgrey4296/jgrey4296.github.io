@@ -1,7 +1,7 @@
 ..  outdistanced_metal.rst -*- mode: ReST -*- 
 
-.. -*- mode: ReST -*-
-
+.. index:: encrypted
+   
 .. _enc1:
 
 ==================
@@ -11,7 +11,8 @@ Outdistanced Metal
 .. contents:: Contents
    :local:
 
-::
+.. code-block:: 
+   
    -----BEGIN PGP MESSAGE-----
 
     hQGMA3rvcdDZU1XZAQv/W5Bl0BQ2+U+tWc1Wn/apihF6lNKt2WmeijFSK1f3x2ZZ

@@ -21,12 +21,14 @@ Mostly Harmless
    :hidden:
    :glob:
 
-   posts/index
-
-   bibliography <https://jgrey4296.github.io/bibliography>
-
    posts/on_llms_and_ai
-   posts/people_you_should_be_reading
+   posts/reading_lists/people_you_should_be_reading
+   
+   posts/index
+   encrypt/index
+   code/index
+   
+   Bibliography <https://jgrey4296.github.io/bibliography>
    genindex
 
 

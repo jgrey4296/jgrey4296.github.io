@@ -11,12 +11,11 @@ set -o pipefail
 
 # shellcheck disable=SC1091
 source "$POLY_SRC/lib/lib-util.bash"
-if [[ -e "$POLYGLOT_ROOT/.tasks/task-util.bash" ]]; then
-    # shellcheck disable=SC1091
-    source "$POLYGLOT_ROOT/.tasks/task-util.bash"
-fi
+# shellcheck disable=SC1091
+[[ -e "$POLYGLOT_ROOT/.tasks/task-util.bash" ]] && source "$POLYGLOT_ROOT/.tasks/task-util.bash"
 
 function main () {
+    declare -a sphinx_args=()
     builder="$POLYGLOT_SPHINX_BUILDER"
     conf="$POLYGLOT_SPHINX_CONF_DIR"
     out="$POLYGLOT_TEMP/site"
@@ -24,33 +23,35 @@ function main () {
     logs="$POLYGLOT_TEMP/logs"
     src="$POLYGLOT_SRC"
 
+    fname=$(basename "${BASH_SOURCE[0]}")
+    subhead "$fname." "Args: $*"
+
     # Parse args:
     while [[ $# -gt 0 ]]; do
         case $1 in
-            -t|--target)
-                echo "Target: $2"
+            --fresh)
+                echo "- using a fresh environment for sphinx"
+                sphinx_args+=("--fresh-env")
                 ;;
-            --bloo=*)
-                echo "Assignment: $1"
+            --all)
+                echo "- writing all files"
+                sphinx_args+=("--write-all")
+                ;;
+            --builder=*)
                 IFS="=" read -ra KEYVAL <<< "$1"
-                echo "Key: ${KEYVAL[0]/--/}"
-                echo "Val: ${KEYVAL[1]}"
+                builder="${KEYVAL[1]}"
                 ;;
-            *) # Positional
-                echo "Positional: $1"
-                ;;
+            *) ;;
         esac
         shift
     done
 
-    fname=$(basename "${BASH_SOURCE[0]}")
-    header "($HOOK_NUM): $fname.\n* Args: " "$@"
+    sphinx_args+=("--builder" "$builder")
 
-    uv run sphinx-build \
+    uv run sphinx-build "${sphinx_args[@]}" \
         --conf-dir "$conf" \
         --doctree-dir "$doctrees" \
         --warning-file "$logs/sphinx.log" \
-        --builder "$builder" \
         "$src" "$out"
 }
 
