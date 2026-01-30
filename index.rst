@@ -22,9 +22,6 @@ Mostly Harmless
    :glob:
 
    posts/index
-   resources/index
-   tech_notes/index
-   other/*
 
    bibliography <https://jgrey4296.github.io/bibliography>
 

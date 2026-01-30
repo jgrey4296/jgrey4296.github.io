@@ -170,3 +170,5 @@ TODO
 .. _westvirginia: https://en.wikipedia.org/wiki/west_virginia
 .. _wisconsin: https://en.wikipedia.org/wiki/wisconsin
 .. _wyoming: https://en.wikipedia.org/wiki/wyoming
+.. _kansas_leg: https://www.kslegislature.gov/li/b2025_26/measures/sb244/
+.. _mn_state: https://www.ag.state.mn.us/Office/CRU/Reports/Barrientos-Quintana_Edgar.pdf
