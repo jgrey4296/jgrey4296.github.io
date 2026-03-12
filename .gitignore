@@ -3,3 +3,4 @@
 .site
 .pelican.site
 .sphinx.site
+!/_static/images/*
