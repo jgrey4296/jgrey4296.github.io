@@ -6,7 +6,7 @@
 
 :hooks       : .git/hooks
 :github      : .github/workflows
-:tasks       : .tasks
+:tasks       : .polyglot
 :temp        : .temp
 :site        : .temp/site
 :tox         : tox.toml

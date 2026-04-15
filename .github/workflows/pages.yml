@@ -40,21 +40,18 @@ jobs:
         uses: actions/checkout@v5
         with:
           persist-credentials: false
-      # - name: asdf and plugins 
-      #   uses: asdf-vm/actions/install@v4
       - uses: asdf-vm/actions/setup@v4
       - name: setup polyglot
         run: |
           asdf plugin add direnv
           asdf install
-          direnv allow
-          direnv export gha >> "$GITHUB_ENV"
+          ./.polyglot/github-init.bash
       - name: setup python
         run: |
           uv venv
           uv sync
       - name: build site 
-        run: biblio build
+        run: polyglot task build
       - name: store site artifact
         uses: actions/upload-artifact@v4
         with:
