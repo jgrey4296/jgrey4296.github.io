@@ -27,6 +27,7 @@ Mostly Harmless
    posts/index
    encrypt/index
    code/index
+   tech_notes/index
    
    Bibliography <https://jgrey4296.github.io/bibliography>
    genindex

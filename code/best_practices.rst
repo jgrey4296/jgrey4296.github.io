@@ -27,9 +27,13 @@ tortor.  Nam euismod tellus id erat.
 .. _somewhere: https://somewhere.com
 
 .. _direnv: https://direnv.net/
+
 .. _12factor: https://12factor.net/
+
 .. _rulesofML: http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+
 .. _ineffectivecoding: https://theburningmonk.com/2014/12/seven-ineffective-coding-habits-many-f-programmers-dont-have/
+
 .. _smells: http://tusharma.in/smells/
 
 .. _webchecklist: http://webdevchecklist.com/
