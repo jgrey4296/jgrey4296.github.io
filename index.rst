@@ -23,11 +23,13 @@ Mostly Harmless
 
    posts/on_llms_and_ai
    posts/reading_lists/people_you_should_be_reading
+   week_in_review/index
    
    posts/index
    encrypt/index
    code/index
    tech_notes/index
+   
    
    Bibliography <https://jgrey4296.github.io/bibliography>
    genindex
