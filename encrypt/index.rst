@@ -4,9 +4,9 @@
            
 .. _enc_index:
 
-=========
-Encrypted
-=========
+================
+Things Encrypted
+================
 
 .. contents:: Contents
    :local:

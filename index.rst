@@ -13,6 +13,13 @@ Mostly Harmless
    :local:
 
 
+.. image:: _static/images/painting.jpg
+   :align: center
+   :alt: description
+
+
+
+
 .. ..  --------------------------------------------------
 
    
@@ -22,10 +29,10 @@ Mostly Harmless
    :glob:
 
    posts/on_llms_and_ai
-   posts/reading_lists/people_you_should_be_reading
    week_in_review/index
    
    posts/index
+   reading_lists/index
    encrypt/index
    code/index
    tech_notes/index

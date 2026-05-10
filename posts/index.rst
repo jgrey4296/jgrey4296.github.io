@@ -2,9 +2,9 @@
 
 .. _posts:
 
-=====
-Posts
-=====
+==============
+Things Written
+==============
 
 .. contents:: Contents
    :local:
@@ -15,4 +15,4 @@ Thoughts, but in a textual form.
    :maxdepth: 1
    :glob:
 
-   ./*/index
+   ./[a-z]*/index

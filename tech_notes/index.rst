@@ -2,9 +2,9 @@
 
 .. _technical:
 
-==========
-Technical
-==========
+===============
+Technical Notes
+===============
 
 .. contents:: Contents
    :local:
@@ -24,6 +24,7 @@ tortor.  Nam euismod tellus id erat.
    :glob:
 
    ./[a-z]*
+   ./[a-z]*/index
 
 
 

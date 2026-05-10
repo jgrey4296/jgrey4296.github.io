@@ -1,23 +1,22 @@
 .. -*- mode: ReST -*-
 
-.. _weekInReview:
+.. _readinglists:
 
-==================
-The Week in Review
-==================
+======================
+Things You Should Read
+======================
 
 .. contents:: Contents
    :local:
 
 
-A place to keep track of each week.
-
-
 .. toctree::
-   :hidden:
+   :maxdepth: 1
    :glob:
+      
+   ./[a-z]*
+    
 
-   ./[a-z0-9]*
 
 ..  --------------------------------------------------
 .. Links
