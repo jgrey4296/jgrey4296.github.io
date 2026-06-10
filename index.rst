@@ -38,7 +38,7 @@ Mostly Harmless
    tech_notes/index
    
    
-   Bibliography <https://jgrey4296.github.io/bibliography>
+   The Library <https://jgrey4296.github.io/bibliography>
    genindex
 
 
