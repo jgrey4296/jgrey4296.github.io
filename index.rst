@@ -9,6 +9,11 @@
 Mostly Harmless
 ===============
 
+
+This is, technically, a place for me to put things for other people to read
+or use. In practice, it is a place for my own reference, and unfortunately an
+algorithmic audience. 
+
 .. contents:: Contents
    :local:
 
@@ -16,8 +21,6 @@ Mostly Harmless
 .. image:: _static/images/painting.jpg
    :align: center
    :alt: description
-
-
 
 
 .. ..  --------------------------------------------------
@@ -28,10 +31,8 @@ Mostly Harmless
    :hidden:
    :glob:
 
-   posts/on_llms_and_ai
    week_in_review/index
-   
-   posts/index
+   words/index
    reading_lists/index
    encrypt/index
    code/index

@@ -1,6 +1,6 @@
 .. -*- mode: ReST -*-
 
-.. _posts:
+.. _words:
 
 ==============
 Things Written
