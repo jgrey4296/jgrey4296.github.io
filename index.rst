@@ -11,8 +11,8 @@ Mostly Harmless
 
 
 This is, technically, a place for me to put things for other people to read
-or use. In practice, it is a place for my own reference, and unfortunately an
-algorithmic audience. 
+or use. In practice, it is a dimension of `The Infinite TODO List`_.
+
 
 .. contents:: Contents
    :local:
@@ -31,7 +31,6 @@ algorithmic audience.
    :hidden:
    :glob:
 
-   week_in_review/index
    words/index
    reading_lists/index
    encrypt/index
@@ -44,3 +43,4 @@ algorithmic audience.
 
 
 .. .. Links
+

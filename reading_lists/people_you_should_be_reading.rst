@@ -6,6 +6,8 @@
 People You Should Be Reading
 ============================
 
+See their entries in `The Library`_.
+
 - Leigh Alexander
 - Toni Morrison
 - Abeba Birhane
