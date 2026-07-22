@@ -20,7 +20,7 @@ or use. In practice, it is a dimension of `The Infinite TODO List`_.
 
 .. image:: _static/images/painting.jpg
    :align: center
-   :alt: description
+   :alt: A Watercolour painting of a boat at a dock.
 
 
 .. ..  --------------------------------------------------
@@ -44,3 +44,4 @@ or use. In practice, it is a dimension of `The Infinite TODO List`_.
 
 .. .. Links
 
+.. _The Infinite TODO List: https://www.patreon.com/stacked_automation

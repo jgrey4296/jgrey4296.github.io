@@ -1,5 +1,5 @@
-*.auctex-auto/
-/.temp
+**.auctex-auto/
+/.temp/
 
-!/_static/images/*
-!/.polyglot/**
+!_static/images/*
+!.polyglot/**

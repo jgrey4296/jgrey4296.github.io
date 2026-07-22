@@ -1,3 +1,4 @@
 uv
 direnv
+git-lfs
 polyglot https://github.com/jgrey4296/asdf-polyglot-cli.git
